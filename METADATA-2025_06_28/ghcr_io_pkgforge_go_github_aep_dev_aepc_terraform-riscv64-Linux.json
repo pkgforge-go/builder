@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "terraform",
+  "pkg_family": "aepc",
+  "pkg_id": "terraform#github.com_aep_dev_aepc",
+  "pkg_name": "terraform",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aep-dev/aepc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Generates AEP-compliant RPCs from proto messages. See the main README.md for usage.",
+  "homepage": [
+    "https://github.com/aep-dev/aepc"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aepc",
+    "aepc-example",
+    "terraform"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aep-dev/aepc/archive/e6313e1d5a74e6e32e59379825f71706854c687a.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e6313e1-250627T095236",
+  "version_upstream": "",
+  "bsum": "23db19cd43f59e12a81e2b817b9987520f6ff38647fd3a6b32e0db38045f4fa4",
+  "build_date": "2025-06-28T07:22:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941570208",
+  "build_id": "15941570208",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aep-dev/aepc/terraform?tag=HEAD-e6313e1-250627T095236-riscv64-Linux&download=terraform.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aep-dev/aepc/terraform?tag=HEAD-e6313e1-250627T095236-riscv64-Linux&download=terraform",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aep-dev/aepc/terraform:HEAD-e6313e1-250627T095236-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aep-dev/aepc/terraform",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aep-dev/aepc/terraform?tag=HEAD-e6313e1-250627T095236-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "18f99e47a681466bb72cc6d7761e395f910f0f5faa179759fc1aa02a255e01e8",
+  "size": "21 MB",
+  "size_raw": "21842584",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
