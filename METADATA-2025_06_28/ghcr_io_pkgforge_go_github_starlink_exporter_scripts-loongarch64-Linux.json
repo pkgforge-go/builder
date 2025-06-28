@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "scripts",
+  "pkg_family": "starlink_exporter",
+  "pkg_id": "scripts#github.com_joshuasing_starlink_exporter",
+  "pkg_name": "scripts",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/joshuasing/starlink_exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A simple and easy to use Prometheus exporter for Starlink dishy metrics",
+  "homepage": [
+    "https://github.com/joshuasing/starlink_exporter"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gen-metrics",
+    "scripts",
+    "starlink_exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/joshuasing/starlink_exporter/archive/36b24638180edc994a2bd5b7f92dc1a59789e801.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "prometheus-exporter",
+    "starlink"
+  ],
+  "version": "HEAD-36b2463-250628T114217",
+  "version_upstream": "v0.6.5",
+  "bsum": "6190e5785182f056c1949f372dcd436d812edaf6e16f343cb23cfd73618cfec7",
+  "build_date": "2025-06-28T19:48:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15947209974",
+  "build_id": "15947209974",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/starlink/exporter/scripts?tag=HEAD-36b2463-250628T114217-loongarch64-Linux&download=scripts.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/starlink/exporter/scripts?tag=HEAD-36b2463-250628T114217-loongarch64-Linux&download=scripts",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/starlink/exporter/scripts:HEAD-36b2463-250628T114217-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/starlink/exporter/scripts",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/starlink/exporter/scripts?tag=HEAD-36b2463-250628T114217-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "280eb66d3605a039811caa39881248c7ea41e81f1207731bb74697c1ab45b838",
+  "size": "14 MB",
+  "size_raw": "13832352",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-75e4976-250620T222511-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
