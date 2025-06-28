@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "generate_config",
+  "pkg_family": "cgrates",
+  "pkg_id": "generate_config#github.com_cgrates_cgrates",
+  "pkg_name": "generate_config",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cgrates/cgrates",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Real-time Charging System for Telecom _ ISP environments",
+  "homepage": [
+    "https://github.com/cgrates/cgrates"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cdr_repl",
+    "cgr-console",
+    "cgr-engine",
+    "cgr-loader",
+    "cgr-migrator",
+    "cgr-tester",
+    "generate_config",
+    "parallel"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cgrates/cgrates/archive/d7254ff73cf805cfa1202e37a4db22d7724c2e47.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d7254ff-250627T204621",
+  "version_upstream": "",
+  "bsum": "3578cbbce4b9de92c79e1c7b2eacac7c22e3e44031536d47e5054b3ee91ddc40",
+  "build_date": "2025-06-28T07:36:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941587309",
+  "build_id": "15941587309",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cgrates/cgrates/generate_config?tag=HEAD-d7254ff-250627T204621-riscv64-Linux&download=generate_config.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "459",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cgrates/cgrates/generate_config?tag=HEAD-d7254ff-250627T204621-riscv64-Linux&download=generate_config",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cgrates/cgrates/generate_config:HEAD-d7254ff-250627T204621-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cgrates/cgrates/generate_config",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cgrates/cgrates/generate_config?tag=HEAD-d7254ff-250627T204621-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2edb6ccc09662f3ac5e5552f1b92f94148ef6b3e3e7e43dfcdd6b43805780457",
+  "size": "14 MB",
+  "size_raw": "13818488",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
