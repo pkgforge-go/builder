@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "benchmark",
+  "pkg_family": "mayfly",
+  "pkg_id": "benchmark#github.com_NCCloud_mayfly",
+  "pkg_name": "benchmark",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NCCloud/mayfly",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An operator to manage ephemeral Kubernetes resources :honeybee:",
+  "homepage": [
+    "https://github.com/NCCloud/mayfly"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark",
+    "manager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NCCloud/mayfly/archive/2e214e09fbe2205f1a07c198072acff5c1110fa7.tar.gz"
+  ],
+  "tag": [
+    "devops",
+    "ephemeral",
+    "golang",
+    "kubernetes",
+    "operator"
+  ],
+  "version": "HEAD-2e214e0-250628T170000",
+  "version_upstream": "",
+  "bsum": "3f60fe3e59b8dc87216f2688bf967fb8521adcf745de3293a0b8ce9bc8069353",
+  "build_date": "2025-06-28T15:54:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15945703336",
+  "build_id": "15945703336",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nccloud/mayfly/benchmark?tag=HEAD-2e214e0-250628T170000-loongarch64-Linux&download=benchmark.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "330",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nccloud/mayfly/benchmark?tag=HEAD-2e214e0-250628T170000-loongarch64-Linux&download=benchmark",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nccloud/mayfly/benchmark:HEAD-2e214e0-250628T170000-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nccloud/mayfly/benchmark",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nccloud/mayfly/benchmark?tag=HEAD-2e214e0-250628T170000-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5750721d240a2b6f5490181aa281f9bc4d9291fb71b1943c264281c3a52d6d1f",
+  "size": "39 MB",
+  "size_raw": "40493600",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
