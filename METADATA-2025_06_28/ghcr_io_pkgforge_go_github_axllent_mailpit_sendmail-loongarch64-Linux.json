@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "sendmail",
+  "pkg_family": "mailpit",
+  "pkg_id": "sendmail#github.com_axllent_mailpit",
+  "pkg_name": "sendmail",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/axllent/mailpit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An email and SMTP testing tool with API for developers",
+  "homepage": [
+    "https://github.com/axllent/mailpit"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mailpit",
+    "sendmail"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/axllent/mailpit/archive/8634c9e8f28bf180f6c4a48dd476c82e9605074f.tar.gz"
+  ],
+  "tag": [
+    "email-testing",
+    "go",
+    "golang",
+    "mailpit",
+    "pop3-server",
+    "smtp-relay",
+    "smtp-server",
+    "smtp-testing"
+  ],
+  "version": "HEAD-8634c9e-250629T000456",
+  "version_upstream": "",
+  "bsum": "38a72d32ce85545dd2d9be2b2cf2129ae0ca1837315858568ca52d25f705f5e5",
+  "build_date": "2025-06-28T19:09:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15947170022",
+  "build_id": "15947170022",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/axllent/mailpit/sendmail?tag=HEAD-8634c9e-250629T000456-loongarch64-Linux&download=sendmail.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7277",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/axllent/mailpit/sendmail?tag=HEAD-8634c9e-250629T000456-loongarch64-Linux&download=sendmail",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/axllent/mailpit/sendmail:HEAD-8634c9e-250629T000456-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/axllent/mailpit/sendmail",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/axllent/mailpit/sendmail?tag=HEAD-8634c9e-250629T000456-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7dbd2e73680ac275ac76368f4c5de6e20cd7b46b95da00ab61afa5bdc7aa2259",
+  "size": "5.8 MB",
+  "size_raw": "6048224",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-3aae06f-250618T170407-loongarch64-Linux",
+    "HEAD-cc5991c-250622T152522-loongarch64-Linux",
+    "HEAD-79e9439-250624T170644-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
