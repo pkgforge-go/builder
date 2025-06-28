@@ -1,0 +1,96 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "buf-plugin-protovalidate-ext",
+  "pkg_family": "buf",
+  "pkg_id": "buf-plugin-protovalidate-ext#github.com_bufbuild_buf",
+  "pkg_name": "buf-plugin-protovalidate-ext",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bufbuild/buf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The best way of working with Protocol Buffers.",
+  "homepage": [
+    "https://github.com/bufbuild/buf"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bandeps",
+    "buf",
+    "buf-digest",
+    "buf-legacyfederation-go-data",
+    "buf-new-commit-id",
+    "buf-plugin-duplicate-category",
+    "buf-plugin-duplicate-rule",
+    "buf-plugin-panic",
+    "buf-plugin-protovalidate-ext",
+    "buf-plugin-rpc-ext",
+    "buf-plugin-suffix",
+    "bufstyle",
+    "ddiff",
+    "git-ls-files-unstaged",
+    "license-header",
+    "protoc-gen-buf-breaking",
+    "protoc-gen-buf-lint",
+    "protoc-gen-insertion-point-receiver",
+    "protoc-gen-insertion-point-writer",
+    "protoc-gen-top-level-type-names-yaml",
+    "storage-go-data",
+    "wkt-go-data"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/bufbuild/buf/archive/87d9edb5dc9214c23d6973d72696a6892ac088be.tar.gz"
+  ],
+  "tag": [
+    "buf-cli",
+    "buf-schema-registry",
+    "grpc",
+    "protobuf",
+    "protoc",
+    "protocol-buffers"
+  ],
+  "version": "HEAD-87d9edb-250627T172621",
+  "version_upstream": "",
+  "bsum": "b529849a9ae11d1a38318020a77a894b37cc3767a04920ea1fcb5073a888af99",
+  "build_date": "2025-06-28T10:14:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942891657",
+  "build_id": "15942891657",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bufbuild/buf/buf-plugin-protovalidate-ext?tag=HEAD-87d9edb-250627T172621-loongarch64-Linux&download=buf-plugin-protovalidate-ext.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9996",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bufbuild/buf/buf-plugin-protovalidate-ext?tag=HEAD-87d9edb-250627T172621-loongarch64-Linux&download=buf-plugin-protovalidate-ext",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bufbuild/buf/buf-plugin-protovalidate-ext:HEAD-87d9edb-250627T172621-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bufbuild/buf/buf-plugin-protovalidate-ext",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bufbuild/buf/buf-plugin-protovalidate-ext?tag=HEAD-87d9edb-250627T172621-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e66000b2d164cd37cb889bdc66ed17849d25af8c6e13f629d91625770b1116d2",
+  "size": "11 MB",
+  "size_raw": "11019064",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-139f92e-250618T175024-loongarch64-Linux",
+    "HEAD-f280099-250623T103920-loongarch64-Linux",
+    "HEAD-9706401-250623T133734-loongarch64-Linux",
+    "HEAD-8f9f45a-250624T105822-loongarch64-Linux",
+    "HEAD-8b0d081-250626T170845-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
