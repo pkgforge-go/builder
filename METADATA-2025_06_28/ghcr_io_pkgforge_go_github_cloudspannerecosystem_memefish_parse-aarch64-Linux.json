@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "parse",
+  "pkg_family": "memefish",
+  "pkg_id": "parse#github.com_cloudspannerecosystem_memefish",
+  "pkg_name": "parse",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudspannerecosystem/memefish",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "memefish is the foundation to analyze Spanner SQL",
+  "homepage": [
+    "https://github.com/cloudspannerecosystem/memefish"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "astcatalog",
+    "gen-ast-pos",
+    "gen-ast-walk",
+    "parse",
+    "parse-unparse"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudspannerecosystem/memefish/archive/ab9a6c97ce90144e5f00704c1026a53507dbabc7.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "parser",
+    "spanner",
+    "sql"
+  ],
+  "version": "HEAD-ab9a6c9-250628T155104",
+  "version_upstream": "",
+  "bsum": "87cdf0359b45626931d1952a8de4abd938011a7adfb18268823db40e05a5bb22",
+  "build_date": "2025-06-28T16:03:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15945723530",
+  "build_id": "15945723530",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudspannerecosystem/memefish/parse?tag=HEAD-ab9a6c9-250628T155104-aarch64-Linux&download=parse.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "86",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudspannerecosystem/memefish/parse?tag=HEAD-ab9a6c9-250628T155104-aarch64-Linux&download=parse",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudspannerecosystem/memefish/parse:HEAD-ab9a6c9-250628T155104-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudspannerecosystem/memefish/parse",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudspannerecosystem/memefish/parse?tag=HEAD-ab9a6c9-250628T155104-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0e3b4ed2283df3fd6aa83da6d1b516180f8d0dc7d132ef9ddf9b363a3d16d433",
+  "size": "3.6 MB",
+  "size_raw": "3672696",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
