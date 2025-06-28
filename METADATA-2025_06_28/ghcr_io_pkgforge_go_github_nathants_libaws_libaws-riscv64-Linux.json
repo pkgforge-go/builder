@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "libaws",
+  "pkg_family": "libaws",
+  "pkg_id": "libaws#github.com_nathants_libaws",
+  "pkg_name": "libaws",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nathants/libaws",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "just ship on aws",
+  "homepage": [
+    "https://github.com/nathants/libaws"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api",
+    "api_and_stream",
+    "dynamodb",
+    "ecr",
+    "includes",
+    "libaws",
+    "s3",
+    "s3-ec2",
+    "schedule",
+    "sqs",
+    "websocket"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nathants/libaws/archive/91f8a9ef3d79d9f467a506d94633da1fcc930d8b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-91f8a9e-250627T134643",
+  "version_upstream": "",
+  "bsum": "c05b34067788d8e72a56b788fa426fbfdf00503f1a491c0a07e745f0211f2462",
+  "build_date": "2025-06-28T11:37:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942962355",
+  "build_id": "15942962355",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nathants/libaws/libaws?tag=HEAD-91f8a9e-250627T134643-riscv64-Linux&download=libaws.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "454",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nathants/libaws/libaws?tag=HEAD-91f8a9e-250627T134643-riscv64-Linux&download=libaws",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nathants/libaws/libaws:HEAD-91f8a9e-250627T134643-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nathants/libaws/libaws",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nathants/libaws/libaws?tag=HEAD-91f8a9e-250627T134643-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bab57e8a103ad3d0f41f63df98204d886de97bb328b9730821b5774dbe94effe",
+  "size": "25 MB",
+  "size_raw": "26201048",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e7929d2-250618T200933-riscv64-Linux",
+    "HEAD-1cba51c-250626T112228-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
