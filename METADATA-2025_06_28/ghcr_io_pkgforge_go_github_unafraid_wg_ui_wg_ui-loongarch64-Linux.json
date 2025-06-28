@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "wg-ui",
+  "pkg_family": "wg-ui",
+  "pkg_id": "wg-ui#github.com_UnAfraid_wg_ui",
+  "pkg_name": "wg-ui",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/UnAfraid/wg-ui",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Self-contained WireGuard management service with a web UI and GraphQL API written in pure Go.",
+  "homepage": [
+    "https://github.com/UnAfraid/wg-ui"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "wg-ui"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/UnAfraid/wg-ui/archive/6faf880b938a6e0a8a5fc1c3a9754b66e848fe49.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "graphql",
+    "ui",
+    "wireguard"
+  ],
+  "version": "HEAD-6faf880-250627T230438",
+  "version_upstream": "",
+  "bsum": "b7417379236f680459347e77e4be986a82a60d7dde0e442e6e997cf88beb8314",
+  "build_date": "2025-06-28T07:17:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941560604",
+  "build_id": "15941560604",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/unafraid/wg-ui/wg-ui?tag=HEAD-6faf880-250627T230438-loongarch64-Linux&download=wg-ui.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/unafraid/wg-ui/wg-ui?tag=HEAD-6faf880-250627T230438-loongarch64-Linux&download=wg-ui",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/unafraid/wg-ui/wg-ui:HEAD-6faf880-250627T230438-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/unafraid/wg-ui/wg-ui",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/unafraid/wg-ui/wg-ui?tag=HEAD-6faf880-250627T230438-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e4800a61ef0bebb2f1139261a43de0e7c2f73ed03c574f5464cb32da7bb5ad73",
+  "size": "14 MB",
+  "size_raw": "14385376",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
