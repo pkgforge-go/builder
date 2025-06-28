@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "vetted-filters",
+  "pkg_family": "AdGuardHome",
+  "pkg_id": "vetted-filters#github.com_AdguardTeam_AdGuardHome",
+  "pkg_name": "vetted-filters",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/AdguardTeam/AdGuardHome",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Network-wide ads _ trackers blocking DNS server",
+  "homepage": [
+    "https://github.com/AdguardTeam/AdGuardHome"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "adguardhome",
+    "blocked-services",
+    "translations",
+    "vetted-filters"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/AdguardTeam/AdGuardHome/archive/5e44582236514669939834116fa7ca20e0c31b2a.tar.gz"
+  ],
+  "tag": [
+    "adblock",
+    "adguard",
+    "dns",
+    "dns-over-https",
+    "dns-over-quic",
+    "dns-over-tls",
+    "dnscrypt",
+    "golang",
+    "open-source",
+    "privacy"
+  ],
+  "version": "HEAD-5e44582-250627T182754",
+  "version_upstream": "",
+  "bsum": "eb6243846c12749d49998c4316f539d618ae3c6630ff12cd54da3a1e39e788e7",
+  "build_date": "2025-06-28T09:49:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942890749",
+  "build_id": "15942890749",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adguardteam/adguardhome/vetted-filters?tag=HEAD-5e44582-250627T182754-x86_64-Linux&download=vetted-filters.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "28930",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adguardteam/adguardhome/vetted-filters?tag=HEAD-5e44582-250627T182754-x86_64-Linux&download=vetted-filters",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/adguardteam/adguardhome/vetted-filters:HEAD-5e44582-250627T182754-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/adguardteam/adguardhome/vetted-filters",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adguardteam/adguardhome/vetted-filters?tag=HEAD-5e44582-250627T182754-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "599e3aa5caea812525cb6a3fa3e4f9c41d982f5d77db0215d8a9831d5da5a64b",
+  "size": "6.4 MB",
+  "size_raw": "6705088",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-16fda88-250610T165845-x86_64-Linux[v0.108.0-b.71]",
+    "HEAD-b05d0fd-250623T105239-x86_64-Linux",
+    "HEAD-e38d3a5-250626T192150-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
