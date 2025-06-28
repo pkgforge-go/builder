@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "ct_monitor",
+  "pkg_family": "rekor-monitor",
+  "pkg_id": "ct_monitor#github.com_sigstore_rekor_monitor",
+  "pkg_name": "ct_monitor",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sigstore/rekor-monitor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Log monitor for Rekor to verify immutability and monitor entries",
+  "homepage": [
+    "https://github.com/sigstore/rekor-monitor"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ct_monitor",
+    "rekor_monitor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sigstore/rekor-monitor/archive/7bd1b2dfba7971a47df12b97a76974e0223f8982.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-7bd1b2d-250627T125218",
+  "version_upstream": "",
+  "bsum": "bc61a766a4f08a1ca5f9db22db4282b48c783f77e3d8baa0fa6eb266727f557d",
+  "build_date": "2025-06-28T08:43:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941992332",
+  "build_id": "15941992332",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/rekor-monitor/ct_monitor?tag=HEAD-7bd1b2d-250627T125218-x86_64-Linux&download=ct_monitor.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "36",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/rekor-monitor/ct_monitor?tag=HEAD-7bd1b2d-250627T125218-x86_64-Linux&download=ct_monitor",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sigstore/rekor-monitor/ct_monitor:HEAD-7bd1b2d-250627T125218-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sigstore/rekor-monitor/ct_monitor",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/rekor-monitor/ct_monitor?tag=HEAD-7bd1b2d-250627T125218-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "960ff4cc39b10f41f300826738927a5f16447e375839e4b3d5dda836ac731b07",
+  "size": "18 MB",
+  "size_raw": "18192832",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
