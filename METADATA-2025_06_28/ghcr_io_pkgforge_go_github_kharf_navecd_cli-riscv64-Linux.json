@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cli",
+  "pkg_family": "navecd",
+  "pkg_id": "cli#github.com_kharf_navecd",
+  "pkg_name": "cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kharf/navecd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Type Safe Declarative Continuous Delivery Toolkit For Kubernetes",
+  "homepage": [
+    "https://github.com/kharf/navecd"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "controller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kharf/navecd/archive/81af22c361f373b79312b41224d721d7f5dfcfd3.tar.gz"
+  ],
+  "tag": [
+    "cloud-native",
+    "cue",
+    "gitops",
+    "kubernetes"
+  ],
+  "version": "HEAD-81af22c-250628T095501",
+  "version_upstream": "",
+  "bsum": "00ba8bba11380d57c0c079e2d9c1813230fb349b8d181dcc19b92b17fc6b32f2",
+  "build_date": "2025-06-28T19:59:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15947211976",
+  "build_id": "15947211976",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kharf/navecd/cli?tag=HEAD-81af22c-250628T095501-riscv64-Linux&download=cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "24",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kharf/navecd/cli?tag=HEAD-81af22c-250628T095501-riscv64-Linux&download=cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kharf/navecd/cli:HEAD-81af22c-250628T095501-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kharf/navecd/cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kharf/navecd/cli?tag=HEAD-81af22c-250628T095501-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "14d9c90adf3bc1dce78d387ff4e8bee0e0d19408cf92a44bb3b1fb3c85c3b1ab",
+  "size": "75 MB",
+  "size_raw": "77780312",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-572f9b5-250620T091110-riscv64-Linux",
+    "HEAD-722b990-250626T142713-riscv64-Linux[v0.26.8]",
+    "HEAD-f2063de-250627T091611-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
