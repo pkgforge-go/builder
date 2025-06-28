@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "background-controller",
+  "pkg_family": "kyverno",
+  "pkg_id": "background-controller#github.com_kyverno_kyverno",
+  "pkg_name": "background-controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kyverno/kyverno",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud Native Policy Management",
+  "homepage": [
+    "https://github.com/kyverno/kyverno"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "background-controller",
+    "cleanup-controller",
+    "client-wrapper",
+    "kubectl-kyverno",
+    "kyverno",
+    "kyverno-init",
+    "perf-testing",
+    "reports-controller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kyverno/kyverno/archive/1526f7f58a0590adb9bed9be9f4bee63c941ca9b.tar.gz"
+  ],
+  "tag": [
+    "kubernetes",
+    "policy-management"
+  ],
+  "version": "HEAD-1526f7f-250627T183729",
+  "version_upstream": "",
+  "bsum": "c7036da98eacf35b7cea41c9458999a8f2c138b8796e3a07d7b8ce7ebf561196",
+  "build_date": "2025-06-28T11:34:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942948270",
+  "build_id": "15942948270",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyverno/kyverno/background-controller?tag=HEAD-1526f7f-250627T183729-x86_64-Linux&download=background-controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6462",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyverno/kyverno/background-controller?tag=HEAD-1526f7f-250627T183729-x86_64-Linux&download=background-controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kyverno/kyverno/background-controller:HEAD-1526f7f-250627T183729-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kyverno/kyverno/background-controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyverno/kyverno/background-controller?tag=HEAD-1526f7f-250627T183729-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "639032fc5bf3233d361b10959d3c270a2e1096058bcf11ac1de67a1dce8189d5",
+  "size": "171 MB",
+  "size_raw": "178623648",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-467bcb5-250620T115123-x86_64-Linux",
+    "HEAD-9684ef6-250623T130110-x86_64-Linux",
+    "HEAD-557a6d2-250624T142711-x86_64-Linux",
+    "HEAD-515398a-250624T225149-x86_64-Linux",
+    "HEAD-6f2ff42-250625T134817-x86_64-Linux",
+    "HEAD-ec56688-250625T223903-x86_64-Linux",
+    "HEAD-96f80dd-250626T221207-x86_64-Linux",
+    "HEAD-a0243d7-250627T141255-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
