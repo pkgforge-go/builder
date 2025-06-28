@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "aws-load-balancer-operator",
+  "pkg_family": "aws-load-balancer-operator",
+  "pkg_id": "aws-load-balancer-operator#github.com_openshift_aws_load_balancer_operator",
+  "pkg_name": "aws-load-balancer-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/aws-load-balancer-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator to simplify management of aws-load-balancer-controller",
+  "homepage": [
+    "https://github.com/openshift/aws-load-balancer-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws-load-balancer-operator",
+    "iamctl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/aws-load-balancer-operator/archive/21a0d012a061437af5a54fce707b9d5282249fe9.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-21a0d01-250627T203601",
+  "version_upstream": "",
+  "bsum": "ac6102bc1a102729f9aaf027ff3c56d74488adf1c6bf5aa1c9c91def1d00affa",
+  "build_date": "2025-06-28T08:22:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941917792",
+  "build_id": "15941917792",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/aws-load-balancer-operator/aws-load-balancer-operator?tag=HEAD-21a0d01-250627T203601-riscv64-Linux&download=aws-load-balancer-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/aws-load-balancer-operator/aws-load-balancer-operator?tag=HEAD-21a0d01-250627T203601-riscv64-Linux&download=aws-load-balancer-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/aws-load-balancer-operator/aws-load-balancer-operator:HEAD-21a0d01-250627T203601-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/aws-load-balancer-operator/aws-load-balancer-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/aws-load-balancer-operator/aws-load-balancer-operator?tag=HEAD-21a0d01-250627T203601-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ec9e10d3b0d2d103d6a41c43bd779076c19d1188cf476b21f54b6dbe3cff2309",
+  "size": "57 MB",
+  "size_raw": "59570104",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
