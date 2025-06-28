@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "search-example",
+  "pkg_family": "search",
+  "pkg_id": "search-example#github.com_kelindar_search",
+  "pkg_name": "search-example",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kelindar/search",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library for embedded vector search and semantic embeddings using llama.cpp",
+  "homepage": [
+    "https://github.com/kelindar/search"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "eval",
+    "search-example"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kelindar/search/archive/c2d372177d129b7c49ed2550c3446877fbc00c9c.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "bert",
+    "embeddings",
+    "gguf",
+    "gpu",
+    "llamacpp",
+    "search-engine",
+    "semantic-search",
+    "simd",
+    "vector-search"
+  ],
+  "version": "HEAD-c2d3721-250628T133934",
+  "version_upstream": "",
+  "bsum": "d1e9c71aeef86486bb7111f66f555c6ee38d52ee943eeae0d4eb8c141fc77e40",
+  "build_date": "2025-06-28T19:55:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15947211670",
+  "build_id": "15947211670",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kelindar/search/search-example?tag=HEAD-c2d3721-250628T133934-x86_64-Linux&download=search-example.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "461",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kelindar/search/search-example?tag=HEAD-c2d3721-250628T133934-x86_64-Linux&download=search-example",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kelindar/search/search-example:HEAD-c2d3721-250628T133934-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kelindar/search/search-example",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kelindar/search/search-example?tag=HEAD-c2d3721-250628T133934-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e1f0c747023545db2c3431e2846d120214c0a9c485fee3a5ca41d3bfd35dbccc",
+  "size": "2.1 MB",
+  "size_raw": "2153656",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-519bc5b-250307T232656-x86_64-Linux[v0.4.0]"
+  ],
+  "trusted": "true"
+}
