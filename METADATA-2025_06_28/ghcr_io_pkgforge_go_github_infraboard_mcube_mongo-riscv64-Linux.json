@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "mongo",
+  "pkg_family": "mcube",
+  "pkg_id": "mongo#github.com_infraboard_mcube",
+  "pkg_name": "mongo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/infraboard/mcube",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "微服务工具箱",
+  "homepage": [
+    "https://github.com/infraboard/mcube"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cache",
+    "client",
+    "datasource",
+    "http_gin",
+    "http_go_restful",
+    "ip2region",
+    "kafka",
+    "lock",
+    "log",
+    "mcube",
+    "mongo",
+    "project",
+    "redis",
+    "server",
+    "simple"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/infraboard/mcube/archive/aa1d1823f884f5ecf2c8c3cd4fb41d4013039e0a.tar.gz"
+  ],
+  "tag": [
+    "ddd-architecture",
+    "http-framework",
+    "http-router",
+    "middlewares",
+    "mircoservices",
+    "restful-webservices"
+  ],
+  "version": "HEAD-aa1d182-250628T134729",
+  "version_upstream": "v2.0.62",
+  "bsum": "2627268d8e13e6a3d833589a094628902c2f5a989f845616e61209e90299bb08",
+  "build_date": "2025-06-28T19:51:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15947195117",
+  "build_id": "15947195117",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/infraboard/mcube/mongo?tag=HEAD-aa1d182-250628T134729-riscv64-Linux&download=mongo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "133",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/infraboard/mcube/mongo?tag=HEAD-aa1d182-250628T134729-riscv64-Linux&download=mongo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/infraboard/mcube/mongo:HEAD-aa1d182-250628T134729-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/infraboard/mcube/mongo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/infraboard/mcube/mongo?tag=HEAD-aa1d182-250628T134729-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f40fea90f1456837d7b5d86fc413623e494edbdc8f5d084e0586e9fbee318da7",
+  "size": "18 MB",
+  "size_raw": "18696792",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-32e32ab-250623T085900-riscv64-Linux"
+  ],
+  "trusted": "true"
+}

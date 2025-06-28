@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "redis",
+  "pkg_family": "mcube",
+  "pkg_id": "redis#github.com_infraboard_mcube",
+  "pkg_name": "redis",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/infraboard/mcube",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "微服务工具箱",
+  "homepage": [
+    "https://github.com/infraboard/mcube"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cache",
+    "client",
+    "datasource",
+    "http_gin",
+    "http_go_restful",
+    "ip2region",
+    "kafka",
+    "lock",
+    "log",
+    "mcube",
+    "mongo",
+    "project",
+    "redis",
+    "server",
+    "simple"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/infraboard/mcube/archive/aa1d1823f884f5ecf2c8c3cd4fb41d4013039e0a.tar.gz"
+  ],
+  "tag": [
+    "ddd-architecture",
+    "http-framework",
+    "http-router",
+    "middlewares",
+    "mircoservices",
+    "restful-webservices"
+  ],
+  "version": "HEAD-aa1d182-250628T134729",
+  "version_upstream": "v2.0.62",
+  "bsum": "503bfeb5833131aaa733204144ae12066446fb76a34ca65ceb42f44b3b5fa806",
+  "build_date": "2025-06-28T19:52:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15947195117",
+  "build_id": "15947195117",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/infraboard/mcube/redis?tag=HEAD-aa1d182-250628T134729-riscv64-Linux&download=redis.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "133",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/infraboard/mcube/redis?tag=HEAD-aa1d182-250628T134729-riscv64-Linux&download=redis",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/infraboard/mcube/redis:HEAD-aa1d182-250628T134729-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/infraboard/mcube/redis",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/infraboard/mcube/redis?tag=HEAD-aa1d182-250628T134729-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a7dfe7b8a69863fed73de30b3e41dfe73eb1ba1b2a352db0fefbf2475324d78a",
+  "size": "20 MB",
+  "size_raw": "20043992",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-32e32ab-250623T085900-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
