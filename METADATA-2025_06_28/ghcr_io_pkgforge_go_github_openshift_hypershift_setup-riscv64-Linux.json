@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "setup",
+  "pkg_family": "hypershift",
+  "pkg_id": "setup#github.com_openshift_hypershift",
+  "pkg_name": "setup",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/hypershift",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Hyperscale OpenShift - clusters with hosted control planes",
+  "homepage": [
+    "https://github.com/openshift/hypershift"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admission-tracer",
+    "control-plane-operator",
+    "control-plane-pki-operator",
+    "delegatingclientgenerator",
+    "hypershift",
+    "hypershift-operator",
+    "ignition-server",
+    "karpenter-operator",
+    "product-cli",
+    "setup",
+    "test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/hypershift/archive/81b7f1e93bc5611020451e2f172da7c6aaba4f27.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-81b7f1e-250627T225044",
+  "version_upstream": "",
+  "bsum": "3f48b1a1936cda35e9008f9e0c65045ebf21f892ad4693daffcc213de893049c",
+  "build_date": "2025-06-28T11:59:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942976616",
+  "build_id": "15942976616",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/hypershift/setup?tag=HEAD-81b7f1e-250627T225044-riscv64-Linux&download=setup.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "465",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/hypershift/setup?tag=HEAD-81b7f1e-250627T225044-riscv64-Linux&download=setup",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/hypershift/setup:HEAD-81b7f1e-250627T225044-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/hypershift/setup",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/hypershift/setup?tag=HEAD-81b7f1e-250627T225044-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cd946a00861589beeb3d80f1270c1cc3cb78ac0949ef82faaea92e65bde891c3",
+  "size": "110 MB",
+  "size_raw": "114407576",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-63403c2-250620T095851-riscv64-Linux",
+    "HEAD-892474c-250620T194511-riscv64-Linux",
+    "HEAD-a355279-250624T121504-riscv64-Linux",
+    "HEAD-d9ffbc1-250625T115124-riscv64-Linux",
+    "HEAD-1c44da6-250626T011603-riscv64-Linux",
+    "HEAD-ce59f09-250626T201419-riscv64-Linux",
+    "HEAD-89543c4-250627T115034-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
