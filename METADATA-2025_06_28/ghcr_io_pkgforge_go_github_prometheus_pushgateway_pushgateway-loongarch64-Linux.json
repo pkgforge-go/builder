@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "pushgateway",
+  "pkg_family": "pushgateway",
+  "pkg_id": "pushgateway#github.com_prometheus_pushgateway",
+  "pkg_name": "pushgateway",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/prometheus/pushgateway",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Push acceptor for ephemeral and batch jobs.",
+  "homepage": [
+    "https://github.com/prometheus/pushgateway"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pushgateway"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/prometheus/pushgateway/archive/4e1e372e5554592d4dbe202dca43edd832ed4298.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest"
+  ],
+  "version": "HEAD-4e1e372-250628T001549",
+  "version_upstream": "",
+  "bsum": "5f32cd77102801b6226065c73f070db96dbc4d7af54c481971ff90b7e5a83828",
+  "build_date": "2025-06-28T08:33:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941949130",
+  "build_id": "15941949130",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/pushgateway/pushgateway?tag=HEAD-4e1e372-250628T001549-loongarch64-Linux&download=pushgateway.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3177",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/pushgateway/pushgateway?tag=HEAD-4e1e372-250628T001549-loongarch64-Linux&download=pushgateway",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/prometheus/pushgateway/pushgateway:HEAD-4e1e372-250628T001549-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/prometheus/pushgateway/pushgateway",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prometheus/pushgateway/pushgateway?tag=HEAD-4e1e372-250628T001549-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c1b4aac3ef6eb683310fa6642176c11b4466204c4c7109de052339cf7d2fd7ea",
+  "size": "16 MB",
+  "size_raw": "15991616",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
