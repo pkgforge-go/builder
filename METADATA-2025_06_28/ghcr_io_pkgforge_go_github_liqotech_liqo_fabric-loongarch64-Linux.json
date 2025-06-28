@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "fabric",
+  "pkg_family": "liqo",
+  "pkg_id": "fabric#github.com_liqotech_liqo",
+  "pkg_name": "fabric",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/liqotech/liqo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Enable dynamic and seamless Kubernetes multi-cluster topologies",
+  "homepage": [
+    "https://github.com/liqotech/liqo"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "crd-replicator",
+    "fabric",
+    "gateway",
+    "geneve",
+    "ipam",
+    "liqo-controller-manager",
+    "liqoctl",
+    "metric-agent",
+    "proxy",
+    "telemetry",
+    "uninstaller",
+    "virtual-kubelet",
+    "webhook",
+    "wireguard"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/liqotech/liqo/archive/c39e9fce0a99cc247a3fae7b27852ad2ae683ca6.tar.gz"
+  ],
+  "tag": [
+    "cloud-computing",
+    "clusters",
+    "k8s",
+    "kubernetes",
+    "kubernetes-clusters",
+    "liquid-computing",
+    "multi-cluster",
+    "resource-sharing"
+  ],
+  "version": "HEAD-c39e9fc-250610T162533",
+  "version_upstream": "",
+  "bsum": "4d22ea9519e1992c95fa37fff9651b20afdea574b46eee351d28e536d33fa86f",
+  "build_date": "2025-06-28T16:45:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15945758646",
+  "build_id": "15945758646",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/liqotech/liqo/fabric?tag=HEAD-c39e9fc-250610T162533-loongarch64-Linux&download=fabric.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1294",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/liqotech/liqo/fabric?tag=HEAD-c39e9fc-250610T162533-loongarch64-Linux&download=fabric",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/liqotech/liqo/fabric:HEAD-c39e9fc-250610T162533-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/liqotech/liqo/fabric",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/liqotech/liqo/fabric?tag=HEAD-c39e9fc-250610T162533-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "71a810dd8c5f612a9e03deac533cbaf97cbc378cdf70806a29096e6ea8d241f3",
+  "size": "45 MB",
+  "size_raw": "46361856",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
