@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kube-linter",
+  "pkg_family": "kube-linter",
+  "pkg_id": "kube-linter#github.com_stackrox_kube_linter",
+  "pkg_name": "kube-linter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/stackrox/kube-linter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.",
+  "homepage": [
+    "https://github.com/stackrox/kube-linter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "codegen",
+    "kube-linter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/stackrox/kube-linter/archive/6a9094f9d616fbfbe693b1ae70ba32c8587bfbc1.tar.gz"
+  ],
+  "tag": [
+    "hactoberfest",
+    "helm-charts",
+    "kubernetes",
+    "static-analysis",
+    "yaml-files"
+  ],
+  "version": "HEAD-6a9094f-250627T165709",
+  "version_upstream": "",
+  "bsum": "6f1799b914127e02bec9b4a0dfae5c2738fe8fffb77eca1f6e11f100ddc4cac9",
+  "build_date": "2025-06-28T08:51:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942007092",
+  "build_id": "15942007092",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stackrox/kube-linter/kube-linter?tag=HEAD-6a9094f-250627T165709-loongarch64-Linux&download=kube-linter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3207",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stackrox/kube-linter/kube-linter?tag=HEAD-6a9094f-250627T165709-loongarch64-Linux&download=kube-linter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/stackrox/kube-linter/kube-linter:HEAD-6a9094f-250627T165709-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/stackrox/kube-linter/kube-linter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stackrox/kube-linter/kube-linter?tag=HEAD-6a9094f-250627T165709-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f8548da73576ad684024587ab09458302f3a363f7283cb7a18291a2bc87176e4",
+  "size": "64 MB",
+  "size_raw": "67074432",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
