@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "consumer",
+  "pkg_family": "crowdllama",
+  "pkg_id": "consumer#github.com_matiasinsaurralde_crowdllama",
+  "pkg_name": "consumer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/matiasinsaurralde/crowdllama",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CrowdLlama is a distributed system that leverages the open-source Ollama project to run LLM inference tasks across multiple nodes using peer-to-peer _P2P_ networking, enabling collaborative large language model inference workloads",
+  "homepage": [
+    "https://github.com/matiasinsaurralde/crowdllama"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "consumer",
+    "dht",
+    "dhtcertgen",
+    "worker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/matiasinsaurralde/crowdllama/archive/6fd6d685bdfba4d5209ec01b9236e13f051fdb49.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "llm",
+    "ollama",
+    "p2p"
+  ],
+  "version": "HEAD-6fd6d68-250628T035351",
+  "version_upstream": "",
+  "bsum": "9815d691925aab88828a97f75475d7be6fd53a64d7621c4aedefcd9774458ff8",
+  "build_date": "2025-06-28T20:04:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15947214245",
+  "build_id": "15947214245",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matiasinsaurralde/crowdllama/consumer?tag=HEAD-6fd6d68-250628T035351-aarch64-Linux&download=consumer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matiasinsaurralde/crowdllama/consumer?tag=HEAD-6fd6d68-250628T035351-aarch64-Linux&download=consumer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/matiasinsaurralde/crowdllama/consumer:HEAD-6fd6d68-250628T035351-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/matiasinsaurralde/crowdllama/consumer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matiasinsaurralde/crowdllama/consumer?tag=HEAD-6fd6d68-250628T035351-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0f22c481fc9d6a46ea6f25b4474c094b39623c50d6be29d011bd7f92ed25e23a",
+  "size": "24 MB",
+  "size_raw": "25031616",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-c9ba0dc-250626T195108-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
