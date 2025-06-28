@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "iamctl",
+  "pkg_family": "aws-load-balancer-operator",
+  "pkg_id": "iamctl#github.com_openshift_aws_load_balancer_operator",
+  "pkg_name": "iamctl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/aws-load-balancer-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator to simplify management of aws-load-balancer-controller",
+  "homepage": [
+    "https://github.com/openshift/aws-load-balancer-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws-load-balancer-operator",
+    "iamctl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/aws-load-balancer-operator/archive/21a0d012a061437af5a54fce707b9d5282249fe9.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-21a0d01-250627T203601",
+  "version_upstream": "",
+  "bsum": "6e4c7fb00b21c98d4b5c7b72c5dabe6a257b6a9d7199000b037f5076c3360eab",
+  "build_date": "2025-06-28T08:23:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941917792",
+  "build_id": "15941917792",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/aws-load-balancer-operator/iamctl?tag=HEAD-21a0d01-250627T203601-x86_64-Linux&download=iamctl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/aws-load-balancer-operator/iamctl?tag=HEAD-21a0d01-250627T203601-x86_64-Linux&download=iamctl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/aws-load-balancer-operator/iamctl:HEAD-21a0d01-250627T203601-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/aws-load-balancer-operator/iamctl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/aws-load-balancer-operator/iamctl?tag=HEAD-21a0d01-250627T203601-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "50be54300c46ae0228cbf170056212a2dd18cae65a65bbaf1fd7ddd19dfd7eac",
+  "size": "4.3 MB",
+  "size_raw": "4482296",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
