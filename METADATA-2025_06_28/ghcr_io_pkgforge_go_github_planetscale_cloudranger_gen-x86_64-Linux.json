@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "gen",
+  "pkg_family": "cloudranger",
+  "pkg_id": "gen#github.com_planetscale_cloudranger",
+  "pkg_name": "gen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/planetscale/cloudranger",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library for mapping IP address ranges to cloud provider regions _currently: AWS and GCP_",
+  "homepage": [
+    "https://github.com/planetscale/cloudranger"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cloudranger",
+    "gen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/planetscale/cloudranger/archive/da8859adb4b6eefc3b9be4ba9f5d3b4b9e2a753e.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-da8859a-250627T150741",
+  "version_upstream": "",
+  "bsum": "b25f2aa980aa86cb81d53a3b39801283d765aab5988f982d3b667e39c1078cda",
+  "build_date": "2025-06-28T11:42:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942977069",
+  "build_id": "15942977069",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/planetscale/cloudranger/gen?tag=HEAD-da8859a-250627T150741-x86_64-Linux&download=gen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/planetscale/cloudranger/gen?tag=HEAD-da8859a-250627T150741-x86_64-Linux&download=gen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/planetscale/cloudranger/gen:HEAD-da8859a-250627T150741-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/planetscale/cloudranger/gen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/planetscale/cloudranger/gen?tag=HEAD-da8859a-250627T150741-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "552f77c57f7dcc04c0a86477b9aae15814b644ba54f349b59dd4d6b041030a7e",
+  "size": "2.3 MB",
+  "size_raw": "2336152",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a04e258-250623T113227-x86_64-Linux[v0.0.103]"
+  ],
+  "trusted": "true"
+}
