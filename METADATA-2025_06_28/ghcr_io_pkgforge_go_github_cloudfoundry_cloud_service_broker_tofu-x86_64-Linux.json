@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "tofu",
+  "pkg_family": "cloud-service-broker",
+  "pkg_id": "tofu#github.com_cloudfoundry_cloud_service_broker",
+  "pkg_name": "tofu",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudfoundry/cloud-service-broker",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OSBAPI service broker that uses Terraform to provision and bind services. Derived from https://github.com/GoogleCloudPlatform/gcp-service-broker",
+  "homepage": [
+    "https://github.com/cloudfoundry/cloud-service-broker"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cloud-service-broker",
+    "tofu"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudfoundry/cloud-service-broker/archive/861f2a5e5dd5bc1b3d9e6b2c0fa973c9b4c954e1.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "azure",
+    "cff-wg-service-management",
+    "cloud-foundry",
+    "gcp",
+    "opentofu",
+    "osbapi",
+    "service-broker",
+    "terraform"
+  ],
+  "version": "HEAD-861f2a5-250627T165718",
+  "version_upstream": "",
+  "bsum": "743a9d7bdc1a21492d40366146b83680b91ad32ecfae04cb985ef0acb516439f",
+  "build_date": "2025-06-28T07:32:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941589257",
+  "build_id": "15941589257",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/cloud-service-broker/tofu?tag=HEAD-861f2a5-250627T165718-x86_64-Linux&download=tofu.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "82",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/cloud-service-broker/tofu?tag=HEAD-861f2a5-250627T165718-x86_64-Linux&download=tofu",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry/cloud-service-broker/tofu:HEAD-861f2a5-250627T165718-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry/cloud-service-broker/tofu",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/cloud-service-broker/tofu?tag=HEAD-861f2a5-250627T165718-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "adbe64c8cb86089d0a1061de83843875af5f26b3f69f74158f8c1f687c57958b",
+  "size": "1.9 MB",
+  "size_raw": "1987768",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
