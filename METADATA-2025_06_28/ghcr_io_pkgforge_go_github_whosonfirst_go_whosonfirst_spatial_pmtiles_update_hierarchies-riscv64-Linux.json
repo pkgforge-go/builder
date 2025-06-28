@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "update-hierarchies",
+  "pkg_family": "go-whosonfirst-spatial-pmtiles",
+  "pkg_id": "update-hierarchies#github.com_whosonfirst_go_whosonfirst_spatial_pmtiles",
+  "pkg_name": "update-hierarchies",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/whosonfirst/go-whosonfirst-spatial-pmtiles",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go package to implement the whosonfirst/go-whosonfirst-spatial interfaces using a Protomaps .pmtiles database.",
+  "homepage": [
+    "https://github.com/whosonfirst/go-whosonfirst-spatial-pmtiles"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "grpc-client",
+    "grpc-server",
+    "http-server",
+    "intersects",
+    "pip",
+    "pmtile",
+    "update-hierarchies"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/whosonfirst/go-whosonfirst-spatial-pmtiles/archive/cf48b812bcbfa44b4ded4aa78bbe27921074cdc1.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-cf48b81-250628T064130",
+  "version_upstream": "v0.9.1",
+  "bsum": "8c7b27d4cf1f76490237d8f9fda467391c0236b9df1232312d03673c474f3cc4",
+  "build_date": "2025-06-28T17:02:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15945895313",
+  "build_id": "15945895313",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/whosonfirst/go-whosonfirst-spatial-pmtiles/update-hierarchies?tag=HEAD-cf48b81-250628T064130-riscv64-Linux&download=update-hierarchies.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/whosonfirst/go-whosonfirst-spatial-pmtiles/update-hierarchies?tag=HEAD-cf48b81-250628T064130-riscv64-Linux&download=update-hierarchies",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/whosonfirst/go-whosonfirst-spatial-pmtiles/update-hierarchies:HEAD-cf48b81-250628T064130-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/whosonfirst/go-whosonfirst-spatial-pmtiles/update-hierarchies",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/whosonfirst/go-whosonfirst-spatial-pmtiles/update-hierarchies?tag=HEAD-cf48b81-250628T064130-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ba0ff727e38ae4157b64551dff0d947fcbfe142fc0b4f8de3c1e422d7b234571",
+  "size": "58 MB",
+  "size_raw": "60284920",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
