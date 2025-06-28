@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "mysqlconfigurer",
+  "pkg_family": "mysqlconfigurer",
+  "pkg_id": "mysqlconfigurer#github.com_Releem_mysqlconfigurer",
+  "pkg_name": "mysqlconfigurer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Releem/mysqlconfigurer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Releem is a MySQL performance monitoring tool that automates analysis, performance issue detection, configuration tuning, query optimization and schema control to save you time and improve MySQL performance.",
+  "homepage": [
+    "https://github.com/Releem/mysqlconfigurer"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mysqlconfigurer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Releem/mysqlconfigurer/archive/bc3d3a411bf5661b68118450584cdce13843ada5.tar.gz"
+  ],
+  "tag": [
+    "database-management",
+    "database-monitoring",
+    "database-optimi",
+    "mariadb",
+    "mariadb-monitor",
+    "mariadb-monitoring-application",
+    "mariadb-performance",
+    "mariadb-server",
+    "mysql",
+    "mysql-configuration",
+    "mysql-monitoring",
+    "mysql-performance",
+    "mysql-server",
+    "mysql-status",
+    "mysql-tuner",
+    "mysqltuner",
+    "performance-optimization",
+    "performance-tuning",
+    "query-optimization",
+    "schema-checks"
+  ],
+  "version": "HEAD-bc3d3a4-250628T152631",
+  "version_upstream": "1.21.4.1",
+  "bsum": "089e0978884667d27ff3c9ac8f33f1dd4d7496a6aab804ad2cece395f82bdec5",
+  "build_date": "2025-06-28T21:52:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15948448065",
+  "build_id": "15948448065",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/releem/mysqlconfigurer/mysqlconfigurer?tag=HEAD-bc3d3a4-250628T152631-riscv64-Linux&download=mysqlconfigurer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "269",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/releem/mysqlconfigurer/mysqlconfigurer?tag=HEAD-bc3d3a4-250628T152631-riscv64-Linux&download=mysqlconfigurer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/releem/mysqlconfigurer/mysqlconfigurer:HEAD-bc3d3a4-250628T152631-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/releem/mysqlconfigurer/mysqlconfigurer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/releem/mysqlconfigurer/mysqlconfigurer?tag=HEAD-bc3d3a4-250628T152631-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6432aa67c1aa6f8bc22bb1d8ff1403c56ae2f40415c041616ef2292a2fb67250",
+  "size": "23 MB",
+  "size_raw": "23914264",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ff2b307-250620T121220-riscv64-Linux[1.21.3.4]",
+    "HEAD-8ac249a-250627T134150-riscv64-Linux[1.21.4]"
+  ],
+  "trusted": "true"
+}
