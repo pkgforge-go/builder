@@ -1,0 +1,91 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "keep-exercise",
+  "pkg_family": "arvados",
+  "pkg_id": "keep-exercise#github.com_arvados_arvados",
+  "pkg_name": "keep-exercise",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/arvados/arvados",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An open source platform for managing and analyzing biomedical big data",
+  "homepage": [
+    "https://github.com/arvados/arvados"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "arvados-package",
+    "crunch-dispatch-local",
+    "keep-block-check",
+    "keep-exercise",
+    "keep-rsync",
+    "sync-groups",
+    "sync-users"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/arvados/arvados/archive/9b00512b586547cc36be1ade99c311cc54a4f197.tar.gz"
+  ],
+  "tag": [
+    "arvados",
+    "aws",
+    "azure",
+    "bigdata",
+    "bioinformatics",
+    "cloud",
+    "cluster",
+    "cwl",
+    "docker",
+    "gcp",
+    "genomics",
+    "go",
+    "python",
+    "ruby",
+    "workflow",
+    "workflow-engine"
+  ],
+  "version": "HEAD-9b00512-250627T145130",
+  "version_upstream": "",
+  "bsum": "409c4fc896c9d6d2ae4ec69ab935ef7c7576a09fc1329fc1e0174878a7ac616f",
+  "build_date": "2025-06-28T10:06:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942891634",
+  "build_id": "15942891634",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arvados/arvados/keep-exercise?tag=HEAD-9b00512-250627T145130-aarch64-Linux&download=keep-exercise.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "404",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arvados/arvados/keep-exercise?tag=HEAD-9b00512-250627T145130-aarch64-Linux&download=keep-exercise",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/arvados/arvados/keep-exercise:HEAD-9b00512-250627T145130-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/arvados/arvados/keep-exercise",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arvados/arvados/keep-exercise?tag=HEAD-9b00512-250627T145130-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fd76761d6a37524ce0cf454399527491ef60d767e1bd1715e33f4d345e6b5892",
+  "size": "9.5 MB",
+  "size_raw": "9940864",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-1ad54b4-250618T124354-aarch64-Linux",
+    "HEAD-18f80f7-250624T151527-aarch64-Linux",
+    "HEAD-7fd091c-250625T095732-aarch64-Linux",
+    "HEAD-dd10926-250625T161747-aarch64-Linux",
+    "HEAD-74476ae-250626T155215-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
