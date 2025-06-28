@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "env",
+  "pkg_family": "cpython",
+  "pkg_id": "env#github.com_paketo_buildpacks_cpython",
+  "pkg_name": "env",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/paketo-buildpacks/cpython",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/paketo-buildpacks/cpython"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "env",
+    "run"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/paketo-buildpacks/cpython/archive/a0bd53779f2cefde5439090c9a7da6e31a4752c9.tar.gz"
+  ],
+  "tag": [
+    "cnb"
+  ],
+  "version": "HEAD-a0bd537-250627T104842",
+  "version_upstream": "",
+  "bsum": "4993b4ae3abf9f02072e85fc692b4394cc6d1a7218e76ca3a26a70e8c109935c",
+  "build_date": "2025-06-28T08:27:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941925827",
+  "build_id": "15941925827",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paketo-buildpacks/cpython/env?tag=HEAD-a0bd537-250627T104842-loongarch64-Linux&download=env.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paketo-buildpacks/cpython/env?tag=HEAD-a0bd537-250627T104842-loongarch64-Linux&download=env",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/paketo-buildpacks/cpython/env:HEAD-a0bd537-250627T104842-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/paketo-buildpacks/cpython/env",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paketo-buildpacks/cpython/env?tag=HEAD-a0bd537-250627T104842-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "61c14a9c0aab45f5618e8d3229df70f426b707cbb3a2b379cae2b7b4e6f3f88c",
+  "size": "1.9 MB",
+  "size_raw": "1971000",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
