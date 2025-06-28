@@ -1,0 +1,113 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "scheduler",
+  "pkg_family": "dapr",
+  "pkg_id": "scheduler#github.com_dapr_dapr",
+  "pkg_name": "scheduler",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dapr/dapr",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.",
+  "homepage": [
+    "https://github.com/dapr/dapr"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "actorapp",
+    "actorclientapp",
+    "actorfeatures",
+    "actorinvocationapp",
+    "actorreentrancy",
+    "actorstate",
+    "binding_input",
+    "binding_input_grpc",
+    "binding_output",
+    "configuration",
+    "configurationapp",
+    "daprd",
+    "healthapp",
+    "hellodapr",
+    "injector",
+    "injectorapp",
+    "injectorapp-init",
+    "job-publisher",
+    "metadata",
+    "middleware",
+    "operator",
+    "pubsub-bulk-subscriber",
+    "pubsub-publisher",
+    "pubsub-subscriber",
+    "pubsub-subscriber-routing",
+    "pubsub-subscriber-routing_grpc",
+    "pubsub-subscriber_grpc",
+    "pubsub_subscribe_http",
+    "runtime",
+    "runtime_init",
+    "scheduler",
+    "schedulerapp",
+    "schedulerapp_grpc",
+    "secretapp",
+    "sentry",
+    "service_invocation",
+    "service_invocation_external",
+    "service_invocation_grpc",
+    "stateapp",
+    "tracingapp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dapr/dapr/archive/92cf352f9e7337486db499805b0486d06d62ed2a.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "event-driven",
+    "kubernetes",
+    "microservice",
+    "microservices",
+    "pubsub",
+    "serverless",
+    "sidecar",
+    "state-management"
+  ],
+  "version": "HEAD-92cf352-250627T134545",
+  "version_upstream": "",
+  "bsum": "9884aca732d19912f78058b50196926c22ca68409f0f7058f857e7ecbde4d92d",
+  "build_date": "2025-06-28T10:45:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942898957",
+  "build_id": "15942898957",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dapr/dapr/scheduler?tag=HEAD-92cf352-250627T134545-loongarch64-Linux&download=scheduler.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "24859",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dapr/dapr/scheduler?tag=HEAD-92cf352-250627T134545-loongarch64-Linux&download=scheduler",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dapr/dapr/scheduler:HEAD-92cf352-250627T134545-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dapr/dapr/scheduler",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dapr/dapr/scheduler?tag=HEAD-92cf352-250627T134545-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "91394ef6b95f0518276910812daf3682cff80d20167a8a284865e03fe2f06618",
+  "size": "56 MB",
+  "size_raw": "57892608",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-b65ebbe-250620T085520-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
