@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "kafka",
+  "pkg_family": "mcube",
+  "pkg_id": "kafka#github.com_infraboard_mcube",
+  "pkg_name": "kafka",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/infraboard/mcube",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "微服务工具箱",
+  "homepage": [
+    "https://github.com/infraboard/mcube"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cache",
+    "client",
+    "datasource",
+    "http_gin",
+    "http_go_restful",
+    "ip2region",
+    "kafka",
+    "lock",
+    "log",
+    "mcube",
+    "mongo",
+    "project",
+    "redis",
+    "server",
+    "simple"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/infraboard/mcube/archive/aa1d1823f884f5ecf2c8c3cd4fb41d4013039e0a.tar.gz"
+  ],
+  "tag": [
+    "ddd-architecture",
+    "http-framework",
+    "http-router",
+    "middlewares",
+    "mircoservices",
+    "restful-webservices"
+  ],
+  "version": "HEAD-aa1d182-250628T134729",
+  "version_upstream": "v2.0.62",
+  "bsum": "82be6973d5b5d8c83de60e64be1fc7c66a4c3b97a52ff9b5c2478897044cc91b",
+  "build_date": "2025-06-28T19:52:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15947195117",
+  "build_id": "15947195117",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/infraboard/mcube/kafka?tag=HEAD-aa1d182-250628T134729-aarch64-Linux&download=kafka.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "133",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/infraboard/mcube/kafka?tag=HEAD-aa1d182-250628T134729-aarch64-Linux&download=kafka",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/infraboard/mcube/kafka:HEAD-aa1d182-250628T134729-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/infraboard/mcube/kafka",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/infraboard/mcube/kafka?tag=HEAD-aa1d182-250628T134729-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ca644d032cb82021831beb0eaad1e1ce673526b6544d33339a7612adc3d8ad10",
+  "size": "7.9 MB",
+  "size_raw": "8198016",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-32e32ab-250623T085900-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
