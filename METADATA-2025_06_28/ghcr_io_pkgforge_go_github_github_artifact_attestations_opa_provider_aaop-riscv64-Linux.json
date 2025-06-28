@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "aaop",
+  "pkg_family": "artifact-attestations-opa-provider",
+  "pkg_id": "aaop#github.com_github_artifact_attestations_opa_provider",
+  "pkg_name": "aaop",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/github/artifact-attestations-opa-provider",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OPA Gatekeeper provider for GitHub Artifact Attestations",
+  "homepage": [
+    "https://github.com/github/artifact-attestations-opa-provider"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aaop",
+    "cver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/github/artifact-attestations-opa-provider/archive/0b140d5cd78b8cd31ffaebfbe0857bb64264106f.tar.gz"
+  ],
+  "tag": [
+    "package-security"
+  ],
+  "version": "HEAD-0b140d5-250627T104206",
+  "version_upstream": "",
+  "bsum": "c5ae2679cd22852204f0f8f6c8611249f40eb25b0bc8eca79bb225d785efbfae",
+  "build_date": "2025-06-28T07:46:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941597130",
+  "build_id": "15941597130",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/github/artifact-attestations-opa-provider/aaop?tag=HEAD-0b140d5-250627T104206-riscv64-Linux&download=aaop.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/github/artifact-attestations-opa-provider/aaop?tag=HEAD-0b140d5-250627T104206-riscv64-Linux&download=aaop",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/github/artifact-attestations-opa-provider/aaop:HEAD-0b140d5-250627T104206-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/github/artifact-attestations-opa-provider/aaop",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/github/artifact-attestations-opa-provider/aaop?tag=HEAD-0b140d5-250627T104206-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b64e1a5c21413b73488b8e1d67f87ecf412a89653432c6dd884253244f12cd52",
+  "size": "63 MB",
+  "size_raw": "65513208",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
