@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "notification-dummy",
+  "pkg_family": "crowdsec",
+  "pkg_id": "notification-dummy#github.com_crowdsecurity_crowdsec",
+  "pkg_name": "notification-dummy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/crowdsecurity/crowdsec",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.",
+  "homepage": [
+    "https://github.com/crowdsecurity/crowdsec"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "crowdsec",
+    "crowdsec-cli",
+    "example",
+    "notification-dummy",
+    "notification-email",
+    "notification-file",
+    "notification-http",
+    "notification-sentinel",
+    "notification-slack",
+    "notification-splunk"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/crowdsecurity/crowdsec/archive/25726b0b7fd513668026258dc9bee647a3924d0a.tar.gz"
+  ],
+  "tag": [
+    "attacks-prevention",
+    "detection",
+    "ids",
+    "ips",
+    "linux",
+    "protection",
+    "security",
+    "waf"
+  ],
+  "version": "HEAD-25726b0-250628T003550",
+  "version_upstream": "",
+  "bsum": "2c118c1b1e79e6267d0b9be9fc11327e4239967a2cbfac0e33de45914dec18f2",
+  "build_date": "2025-06-28T10:30:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942898029",
+  "build_id": "15942898029",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/crowdsecurity/crowdsec/notification-dummy?tag=HEAD-25726b0-250628T003550-aarch64-Linux&download=notification-dummy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10590",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/crowdsecurity/crowdsec/notification-dummy?tag=HEAD-25726b0-250628T003550-aarch64-Linux&download=notification-dummy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/crowdsecurity/crowdsec/notification-dummy:HEAD-25726b0-250628T003550-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/crowdsecurity/crowdsec/notification-dummy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/crowdsecurity/crowdsec/notification-dummy?tag=HEAD-25726b0-250628T003550-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cf9c04bd514a1b24adec58e39c9efcb36561cf9c3c80cf8f8e39bb763bdf0a10",
+  "size": "17 MB",
+  "size_raw": "17106528",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-7c6651b-250619T162043-aarch64-Linux",
+    "HEAD-3f33cad-250625T091149-aarch64-Linux",
+    "HEAD-07dfcbd-250627T151313-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
