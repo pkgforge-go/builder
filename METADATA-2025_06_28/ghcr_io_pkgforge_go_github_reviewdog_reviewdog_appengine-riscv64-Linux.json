@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "appengine",
+  "pkg_family": "reviewdog",
+  "pkg_id": "appengine#github.com_reviewdog_reviewdog",
+  "pkg_name": "appengine",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/reviewdog/reviewdog",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "🐶 Automated code review tool integrated with any code analysis tools regardless of programming language",
+  "homepage": [
+    "https://github.com/reviewdog/reviewdog"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appengine",
+    "decode-metacomment",
+    "encode-metacomment",
+    "reviewdog"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/reviewdog/reviewdog/archive/fb91b3cf2b8133083ab2c1bd0ecea5a18e99307d.tar.gz"
+  ],
+  "tag": [
+    "bitbucket",
+    "ci",
+    "cli",
+    "code-quality",
+    "code-review",
+    "codereview",
+    "github",
+    "gitlab",
+    "go",
+    "lint",
+    "linter",
+    "static-analysis",
+    "static-code-analysis"
+  ],
+  "version": "HEAD-fb91b3c-250627T164830",
+  "version_upstream": "",
+  "bsum": "48692ef4b3cd0a517fc787cd103ee05615ab772fd76ba6a42e89363e3e5617d9",
+  "build_date": "2025-06-28T11:56:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942980819",
+  "build_id": "15942980819",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/reviewdog/reviewdog/appengine?tag=HEAD-fb91b3c-250627T164830-riscv64-Linux&download=appengine.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8502",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/reviewdog/reviewdog/appengine?tag=HEAD-fb91b3c-250627T164830-riscv64-Linux&download=appengine",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/reviewdog/reviewdog/appengine:HEAD-fb91b3c-250627T164830-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/reviewdog/reviewdog/appengine",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/reviewdog/reviewdog/appengine?tag=HEAD-fb91b3c-250627T164830-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "074f6bf9f7954444fd3010f0ab6d66d6856b2383ecf820a8de1654ac155eb5cc",
+  "size": "22 MB",
+  "size_raw": "22702840",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-3023f9c-250615T222336-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
