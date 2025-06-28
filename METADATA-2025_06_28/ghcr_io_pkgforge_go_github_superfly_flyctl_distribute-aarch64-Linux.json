@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "distribute",
+  "pkg_family": "flyctl",
+  "pkg_id": "distribute#github.com_superfly_flyctl",
+  "pkg_name": "distribute",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/superfly/flyctl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Command line tools for fly.io services",
+  "homepage": [
+    "https://github.com/superfly/flyctl"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "audit",
+    "clean-up-preflight-apps",
+    "distribute",
+    "flyctl",
+    "flyctl-doc",
+    "version"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/superfly/flyctl/archive/0c9ff827093f48a9ac8a4f7f89c35dc08e49d0f5.tar.gz"
+  ],
+  "tag": [
+    "flyio-tools"
+  ],
+  "version": "HEAD-0c9ff82-250627T141440",
+  "version_upstream": "v0.3.145",
+  "bsum": "7655171a5d671376d77d42fa7554678f45d07f429179693e016e862f9e12f35a",
+  "build_date": "2025-06-28T08:54:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942013213",
+  "build_id": "15942013213",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/superfly/flyctl/distribute?tag=HEAD-0c9ff82-250627T141440-aarch64-Linux&download=distribute.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1531",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/superfly/flyctl/distribute?tag=HEAD-0c9ff82-250627T141440-aarch64-Linux&download=distribute",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/superfly/flyctl/distribute:HEAD-0c9ff82-250627T141440-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/superfly/flyctl/distribute",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/superfly/flyctl/distribute?tag=HEAD-0c9ff82-250627T141440-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2d40e00b927d66b233dd1a5d0aea2e00f86adb9a188795916bc4d9987f60bbbc",
+  "size": "6.6 MB",
+  "size_raw": "6861984",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "version",
+  "pkg_family": "flyctl",
+  "pkg_id": "version#github.com_superfly_flyctl",
+  "pkg_name": "version",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/superfly/flyctl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Command line tools for fly.io services",
+  "homepage": [
+    "https://github.com/superfly/flyctl"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "audit",
+    "clean-up-preflight-apps",
+    "distribute",
+    "flyctl",
+    "flyctl-doc",
+    "version"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/superfly/flyctl/archive/0c9ff827093f48a9ac8a4f7f89c35dc08e49d0f5.tar.gz"
+  ],
+  "tag": [
+    "flyio-tools"
+  ],
+  "version": "HEAD-0c9ff82-250627T141440",
+  "version_upstream": "v0.3.145",
+  "bsum": "7e03baf8e5652450783ba50ad8230ccb20f8dd2a3cb4d4440505f2d9a8887a6e",
+  "build_date": "2025-06-28T08:54:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942013213",
+  "build_id": "15942013213",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/superfly/flyctl/version?tag=HEAD-0c9ff82-250627T141440-aarch64-Linux&download=version.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1531",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/superfly/flyctl/version?tag=HEAD-0c9ff82-250627T141440-aarch64-Linux&download=version",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/superfly/flyctl/version:HEAD-0c9ff82-250627T141440-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/superfly/flyctl/version",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/superfly/flyctl/version?tag=HEAD-0c9ff82-250627T141440-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fc095a1080577a78316399c75a302e031f53f914385ae344bf6f85f63247abd6",
+  "size": "2.9 MB",
+  "size_raw": "2987384",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
