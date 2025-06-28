@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "docker",
+  "pkg_family": "distr",
+  "pkg_id": "docker#github.com_glasskube_distr",
+  "pkg_name": "docker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/glasskube/distr",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Open Source control plane for self-managed, BYOC, and on-prem deployments. Everything you need to distribute applications to self-managed customers out of the box.",
+  "homepage": [
+    "https://github.com/glasskube/distr"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docker",
+    "hub",
+    "mcp",
+    "status"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/glasskube/distr/archive/4332cf40dab65534d02ab9a3ff9b6300cb53e16f.tar.gz"
+  ],
+  "tag": [
+    "angular",
+    "cloud",
+    "distr",
+    "docker-compose",
+    "glasskube",
+    "go",
+    "golang",
+    "kubernetes",
+    "on-prem",
+    "on-premises",
+    "software-distribution"
+  ],
+  "version": "HEAD-4332cf4-250628T020109",
+  "version_upstream": "",
+  "bsum": "a7bd7ecc4430bb9d7801573301122984e318e942691efc217645a228bf0d1694",
+  "build_date": "2025-06-28T13:47:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15944449357",
+  "build_id": "15944449357",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glasskube/distr/docker?tag=HEAD-4332cf4-250628T020109-aarch64-Linux&download=docker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "617",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glasskube/distr/docker?tag=HEAD-4332cf4-250628T020109-aarch64-Linux&download=docker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/glasskube/distr/docker:HEAD-4332cf4-250628T020109-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/glasskube/distr/docker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glasskube/distr/docker?tag=HEAD-4332cf4-250628T020109-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0a04e91243c071a12011ba7a962f1e5399b130f1e615428d9e1b1577e30a925c",
+  "size": "77 MB",
+  "size_raw": "80464704",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-bc799ba-250620T030952-aarch64-Linux",
+    "HEAD-9c50879-250621T143122-aarch64-Linux",
+    "HEAD-40b40e4-250625T025720-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
