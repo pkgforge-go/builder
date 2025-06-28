@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "mpcium",
+  "pkg_family": "mpcium",
+  "pkg_id": "mpcium#github.com_fystack_mpcium",
+  "pkg_name": "mpcium",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fystack/mpcium",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Effortlessly launch distributed crypto wallets with MPC technology in minutes",
+  "homepage": [
+    "https://github.com/fystack/mpcium"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate",
+    "mpcium",
+    "mpcium-cli",
+    "sign"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/fystack/mpcium/archive/756bdf34bc424d6a698c7aac7d1681a093e2552b.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "crypto",
+    "mpc-wallet",
+    "tss",
+    "wallet"
+  ],
+  "version": "HEAD-756bdf3-250628T143129",
+  "version_upstream": "",
+  "bsum": "3b19397dd8e1dcf683f510f9a6ce6c98eb899919b1563745b46febda2b4b4015",
+  "build_date": "2025-06-28T19:32:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15947186405",
+  "build_id": "15947186405",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fystack/mpcium/mpcium?tag=HEAD-756bdf3-250628T143129-x86_64-Linux&download=mpcium.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "36",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fystack/mpcium/mpcium?tag=HEAD-756bdf3-250628T143129-x86_64-Linux&download=mpcium",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fystack/mpcium/mpcium:HEAD-756bdf3-250628T143129-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fystack/mpcium/mpcium",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fystack/mpcium/mpcium?tag=HEAD-756bdf3-250628T143129-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f8a98422f7fee9b275d041f67557c84b67d8bc4feb38a32afa9617eab80a2e4c",
+  "size": "22 MB",
+  "size_raw": "22565856",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-89268ee-250517T184128-x86_64-Linux",
+    "HEAD-9bc217c-250517T191433-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
