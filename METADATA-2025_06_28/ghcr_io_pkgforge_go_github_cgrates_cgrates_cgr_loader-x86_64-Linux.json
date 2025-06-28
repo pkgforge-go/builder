@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "cgr-loader",
+  "pkg_family": "cgrates",
+  "pkg_id": "cgr-loader#github.com_cgrates_cgrates",
+  "pkg_name": "cgr-loader",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cgrates/cgrates",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Real-time Charging System for Telecom _ ISP environments",
+  "homepage": [
+    "https://github.com/cgrates/cgrates"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cdr_repl",
+    "cgr-console",
+    "cgr-engine",
+    "cgr-loader",
+    "cgr-migrator",
+    "cgr-tester",
+    "generate_config",
+    "parallel"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cgrates/cgrates/archive/d7254ff73cf805cfa1202e37a4db22d7724c2e47.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d7254ff-250627T204621",
+  "version_upstream": "",
+  "bsum": "c5328e1d0b32010bdcd337421e013c8321f8799d46be263282af1cf1ff11baff",
+  "build_date": "2025-06-28T07:36:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941587309",
+  "build_id": "15941587309",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cgrates/cgrates/cgr-loader?tag=HEAD-d7254ff-250627T204621-x86_64-Linux&download=cgr-loader.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "459",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cgrates/cgrates/cgr-loader?tag=HEAD-d7254ff-250627T204621-x86_64-Linux&download=cgr-loader",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cgrates/cgrates/cgr-loader:HEAD-d7254ff-250627T204621-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cgrates/cgrates/cgr-loader",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cgrates/cgrates/cgr-loader?tag=HEAD-d7254ff-250627T204621-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2dec7f3139991cb7a30b67715d90be1e3f044bd5cfaf8c6282c8b4b66341fa22",
+  "size": "37 MB",
+  "size_raw": "38404696",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
