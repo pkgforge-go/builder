@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "aepc-example",
+  "pkg_family": "aepc",
+  "pkg_id": "aepc-example#github.com_aep_dev_aepc",
+  "pkg_name": "aepc-example",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aep-dev/aepc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Generates AEP-compliant RPCs from proto messages. See the main README.md for usage.",
+  "homepage": [
+    "https://github.com/aep-dev/aepc"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aepc",
+    "aepc-example",
+    "terraform"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aep-dev/aepc/archive/e6313e1d5a74e6e32e59379825f71706854c687a.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e6313e1-250627T095236",
+  "version_upstream": "",
+  "bsum": "d414a83a1f5f63e71b311c6117ea333807a3ac98afe10c8271bce0ecc0535fc3",
+  "build_date": "2025-06-28T07:22:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941570208",
+  "build_id": "15941570208",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aep-dev/aepc/aepc-example?tag=HEAD-e6313e1-250627T095236-loongarch64-Linux&download=aepc-example.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aep-dev/aepc/aepc-example?tag=HEAD-e6313e1-250627T095236-loongarch64-Linux&download=aepc-example",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aep-dev/aepc/aepc-example:HEAD-e6313e1-250627T095236-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aep-dev/aepc/aepc-example",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aep-dev/aepc/aepc-example?tag=HEAD-e6313e1-250627T095236-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1a14f5ef2bf6f981bf1a80fb6b3fbda2850eab6cd9a9a723b3eae0033ff51cdd",
+  "size": "20 MB",
+  "size_raw": "20708728",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
