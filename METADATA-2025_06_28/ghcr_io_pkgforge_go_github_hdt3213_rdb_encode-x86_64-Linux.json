@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "encode",
+  "pkg_family": "rdb",
+  "pkg_id": "encode#github.com_HDT3213_rdb",
+  "pkg_name": "encode",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/HDT3213/rdb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Golang implemented  Redis RDB parser for secondary development and memory analysis",
+  "homepage": [
+    "https://github.com/HDT3213/rdb"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "decode",
+    "encode",
+    "rdb"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/HDT3213/rdb/archive/087190b9f7c7cee3c47192f6cdc9197bf6f30265.tar.gz"
+  ],
+  "tag": [
+    "analyzer",
+    "go",
+    "parser",
+    "rdb",
+    "redis"
+  ],
+  "version": "HEAD-087190b-250628T153728",
+  "version_upstream": "",
+  "bsum": "6a76f407f2092561be73717c6ed6739b035097601f6ab7b3929f66a81931614c",
+  "build_date": "2025-06-28T18:53:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15947169619",
+  "build_id": "15947169619",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hdt3213/rdb/encode?tag=HEAD-087190b-250628T153728-x86_64-Linux&download=encode.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "542",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hdt3213/rdb/encode?tag=HEAD-087190b-250628T153728-x86_64-Linux&download=encode",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hdt3213/rdb/encode:HEAD-087190b-250628T153728-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hdt3213/rdb/encode",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hdt3213/rdb/encode?tag=HEAD-087190b-250628T153728-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d9a115165c3dd67f7afc2880467e4f0f33c2aca60d631bca059229dc32141af0",
+  "size": "1.7 MB",
+  "size_raw": "1773848",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-1ceef5a-250317T213959-x86_64-Linux[v1.1.0]"
+  ],
+  "trusted": "true"
+}
