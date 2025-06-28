@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "exampleapiclient",
+  "pkg_family": "mieru",
+  "pkg_id": "exampleapiclient#github.com_enfein_mieru",
+  "pkg_name": "exampleapiclient",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/enfein/mieru",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "mieru is a socks5 / HTTP / HTTPS proxy to bypass censorship. 見える是一款 socks5 / HTTP / HTTPS 网络代理翻墙工具。",
+  "homepage": [
+    "https://github.com/enfein/mieru"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "exampleapiclient",
+    "httpserver",
+    "mieru",
+    "mita",
+    "sockshttpclient",
+    "socksudpclient",
+    "udpserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/enfein/mieru/archive/6d6efeb0b4df0e6295f13d8d6142fd60cd2e6fc2.tar.gz"
+  ],
+  "tag": [
+    "anti-censorship",
+    "clash",
+    "gfw",
+    "network",
+    "proxy",
+    "socks5",
+    "tunnel"
+  ],
+  "version": "HEAD-6d6efeb-250628T004109",
+  "version_upstream": "v3.16.1",
+  "bsum": "4c29492d6171a4d36c4b5f27feb963636d911f7e45745a257066820aec1c3c93",
+  "build_date": "2025-06-28T13:38:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15944433088",
+  "build_id": "15944433088",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfein/mieru/exampleapiclient?tag=HEAD-6d6efeb-250628T004109-loongarch64-Linux&download=exampleapiclient.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1318",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfein/mieru/exampleapiclient?tag=HEAD-6d6efeb-250628T004109-loongarch64-Linux&download=exampleapiclient",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/enfein/mieru/exampleapiclient:HEAD-6d6efeb-250628T004109-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/enfein/mieru/exampleapiclient",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfein/mieru/exampleapiclient?tag=HEAD-6d6efeb-250628T004109-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f909d2a7fe10581dfda575d13fd491efc5a834e136c9668468bbcc465996b591",
+  "size": "6.3 MB",
+  "size_raw": "6556800",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-babaa69-250609T221257-loongarch64-Linux[v3.16.0]",
+    "HEAD-ff07eee-250620T013645-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
