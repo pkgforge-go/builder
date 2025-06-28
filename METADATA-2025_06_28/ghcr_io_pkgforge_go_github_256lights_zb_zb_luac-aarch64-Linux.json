@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "zb-luac",
+  "pkg_family": "zb",
+  "pkg_id": "zb-luac#github.com_256lights_zb",
+  "pkg_name": "zb-luac",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/256lights/zb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An experiment in hermetic, reproducible build systems",
+  "homepage": [
+    "https://github.com/256lights/zb"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "zb",
+    "zb-luac"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/256lights/zb/archive/9254ae8ad60f6e08a9a0d011bcf5785adb82ddfd.tar.gz"
+  ],
+  "tag": [
+    "build-tool",
+    "reproducible-builds"
+  ],
+  "version": "HEAD-9254ae8-250627T111425",
+  "version_upstream": "",
+  "bsum": "91f6c59d8ba4641d1ecae557b60f4dc36c9934354fb9e854d87226af3ecb82b4",
+  "build_date": "2025-06-28T21:44:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15948447420",
+  "build_id": "15948447420",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/256lights/zb/zb-luac?tag=HEAD-9254ae8-250627T111425-aarch64-Linux&download=zb-luac.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "365",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/256lights/zb/zb-luac?tag=HEAD-9254ae8-250627T111425-aarch64-Linux&download=zb-luac",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/256lights/zb/zb-luac:HEAD-9254ae8-250627T111425-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/256lights/zb/zb-luac",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/256lights/zb/zb-luac?tag=HEAD-9254ae8-250627T111425-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "856806ab4d3349e4716a1b4a2dcdf5fdeacc2698ee56f45b23f75aa28a999c27",
+  "size": "4.4 MB",
+  "size_raw": "4558808",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-73b9171-250615T113236-aarch64-Linux[v0.1.0]",
+    "HEAD-4478a3a-250623T152207-aarch64-Linux"
+  ],
+  "trusted": "true"
+}

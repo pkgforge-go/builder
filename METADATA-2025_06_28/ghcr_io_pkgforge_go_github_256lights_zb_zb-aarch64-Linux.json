@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "zb",
+  "pkg_family": "zb",
+  "pkg_id": "zb#github.com_256lights_zb",
+  "pkg_name": "zb",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/256lights/zb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An experiment in hermetic, reproducible build systems",
+  "homepage": [
+    "https://github.com/256lights/zb"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "zb",
+    "zb-luac"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/256lights/zb/archive/9254ae8ad60f6e08a9a0d011bcf5785adb82ddfd.tar.gz"
+  ],
+  "tag": [
+    "build-tool",
+    "reproducible-builds"
+  ],
+  "version": "HEAD-9254ae8-250627T111425",
+  "version_upstream": "",
+  "bsum": "7fd89b7b817cad1c3758911e228888ca65e2ae370a64d22c633f278e3b24ecaf",
+  "build_date": "2025-06-28T21:44:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15948447420",
+  "build_id": "15948447420",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/256lights/zb/zb?tag=HEAD-9254ae8-250627T111425-aarch64-Linux&download=zb.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "365",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/256lights/zb/zb?tag=HEAD-9254ae8-250627T111425-aarch64-Linux&download=zb",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/256lights/zb/zb:HEAD-9254ae8-250627T111425-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/256lights/zb/zb",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/256lights/zb/zb?tag=HEAD-9254ae8-250627T111425-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e90bbcca2220ec585f266bb98b7e7ac4f0a38ba42d8420a2be88663fff49dc1c",
+  "size": "17 MB",
+  "size_raw": "16956224",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-73b9171-250615T113236-aarch64-Linux[v0.1.0]",
+    "HEAD-4478a3a-250623T152207-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
