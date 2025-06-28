@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "schema_check",
+  "pkg_family": "skaffold",
+  "pkg_id": "schema_check#github.com_GoogleContainerTools_skaffold",
+  "pkg_name": "schema_check",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/GoogleContainerTools/skaffold",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Easy and Repeatable Kubernetes Development",
+  "homepage": [
+    "https://github.com/GoogleContainerTools/skaffold"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bazel",
+    "comparisonstats",
+    "latest",
+    "latest_released",
+    "man",
+    "mark_latest_released",
+    "new",
+    "patch-dashboard",
+    "release",
+    "schema_check",
+    "schemas",
+    "skaffold",
+    "struct-json",
+    "tests",
+    "update_comments",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/GoogleContainerTools/skaffold/archive/f460879efa2e0c2c6d14a193791c9483001f149f.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "developer-tools",
+    "docker",
+    "kubernetes"
+  ],
+  "version": "HEAD-f460879-250612T153012",
+  "version_upstream": "",
+  "bsum": "1971668b36f661b03c96a77e70c7ef3bbfbcfb94318a829a535d8b3b286f7933",
+  "build_date": "2025-06-28T07:18:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941543719",
+  "build_id": "15941543719",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecontainertools/skaffold/schema_check?tag=HEAD-f460879-250612T153012-riscv64-Linux&download=schema_check.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15392",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecontainertools/skaffold/schema_check?tag=HEAD-f460879-250612T153012-riscv64-Linux&download=schema_check",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googlecontainertools/skaffold/schema_check:HEAD-f460879-250612T153012-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googlecontainertools/skaffold/schema_check",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecontainertools/skaffold/schema_check?tag=HEAD-f460879-250612T153012-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8f9a5d86ad71589c8d31aa64ee5bda64e5d92077495d4728a094cc095bb767ca",
+  "size": "36 MB",
+  "size_raw": "37139896",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
