@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "hostport-allocator",
+  "pkg_family": "hostport-allocator",
+  "pkg_id": "hostport-allocator#github.com_rmb938_hostport_allocator",
+  "pkg_name": "hostport-allocator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rmb938/hostport-allocator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Kubernetes Operator to allocate hostports",
+  "homepage": [
+    "https://github.com/rmb938/hostport-allocator"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "crd-helm",
+    "hostport-allocator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rmb938/hostport-allocator/archive/34de2913e800847c9fb99fd01f4378274553ed3d.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-34de291-250627T170149",
+  "version_upstream": "v0.1.16",
+  "bsum": "c021c48456138dc1bd89a1ec887dcdae2a18bf516f9220344704cdf7f5570349",
+  "build_date": "2025-06-28T08:37:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941964944",
+  "build_id": "15941964944",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rmb938/hostport-allocator/hostport-allocator?tag=HEAD-34de291-250627T170149-loongarch64-Linux&download=hostport-allocator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "17",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rmb938/hostport-allocator/hostport-allocator?tag=HEAD-34de291-250627T170149-loongarch64-Linux&download=hostport-allocator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rmb938/hostport-allocator/hostport-allocator:HEAD-34de291-250627T170149-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rmb938/hostport-allocator/hostport-allocator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rmb938/hostport-allocator/hostport-allocator?tag=HEAD-34de291-250627T170149-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "752672a338caa182d88fa7de1051f5730a0ea7bf4aa45bb6e3ead6ad7377b859",
+  "size": "43 MB",
+  "size_raw": "44692000",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
