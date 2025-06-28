@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ghscan",
+  "pkg_family": "ghscan",
+  "pkg_id": "ghscan#github.com_chainguard_dev_ghscan",
+  "pkg_name": "ghscan",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/chainguard-dev/ghscan",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Scan GitHub Actions Workflow logs for IOCs",
+  "homepage": [
+    "https://github.com/chainguard-dev/ghscan"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ghscan"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/chainguard-dev/ghscan/archive/12aa56cd98e28b9cb7d649f1141da45919078d4d.tar.gz"
+  ],
+  "tag": [
+    "actions",
+    "changed-files",
+    "detection",
+    "github-actions",
+    "ioc",
+    "logs",
+    "scanner",
+    "secrets",
+    "supply-chain",
+    "supply-chain-attacks",
+    "supply-chain-security",
+    "workflow"
+  ],
+  "version": "HEAD-12aa56c-250627T131317",
+  "version_upstream": "",
+  "bsum": "c0ecb9e33714a84a11f96871d3f6daae578bdfdacac347e5aee9955aa3547c00",
+  "build_date": "2025-06-28T07:30:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941588276",
+  "build_id": "15941588276",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chainguard-dev/ghscan/ghscan?tag=HEAD-12aa56c-250627T131317-riscv64-Linux&download=ghscan.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chainguard-dev/ghscan/ghscan?tag=HEAD-12aa56c-250627T131317-riscv64-Linux&download=ghscan",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/chainguard-dev/ghscan/ghscan:HEAD-12aa56c-250627T131317-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/chainguard-dev/ghscan/ghscan",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chainguard-dev/ghscan/ghscan?tag=HEAD-12aa56c-250627T131317-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1c7b0fbb5c17f687d09c3205d5329a3e6bb7d950b61133ff24f232d755d5224d",
+  "size": "8.2 MB",
+  "size_raw": "8507640",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
