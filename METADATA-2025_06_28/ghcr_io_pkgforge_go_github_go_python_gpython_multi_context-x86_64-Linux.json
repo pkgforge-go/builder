@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "multi-context",
+  "pkg_family": "gpython",
+  "pkg_id": "multi-context#github.com_go_python_gpython",
+  "pkg_name": "multi-context",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/go-python/gpython",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "gpython is a python interpreter written in go _batteries not included_",
+  "homepage": [
+    "https://github.com/go-python/gpython"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "embedding",
+    "gpython",
+    "multi-context",
+    "testparser"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/go-python/gpython/archive/53b7b8e01d998914a7f4179e3e051274f94b8990.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "interpreter",
+    "python",
+    "python3"
+  ],
+  "version": "HEAD-53b7b8e-250628T110818",
+  "version_upstream": "",
+  "bsum": "3dca8bca6b010ef3b7b80b4bcc88cbd5ef0fd6055b375adb980b1bb551a00657",
+  "build_date": "2025-06-28T16:09:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15945734340",
+  "build_id": "15945734340",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-python/gpython/multi-context?tag=HEAD-53b7b8e-250628T110818-x86_64-Linux&download=multi-context.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "945",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-python/gpython/multi-context?tag=HEAD-53b7b8e-250628T110818-x86_64-Linux&download=multi-context",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go-python/gpython/multi-context:HEAD-53b7b8e-250628T110818-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go-python/gpython/multi-context",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-python/gpython/multi-context?tag=HEAD-53b7b8e-250628T110818-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a3b5acab6e56007e24fe060337913ab9143e3bfbd39eb23095bcbf8d2ed7e2fe",
+  "size": "5.3 MB",
+  "size_raw": "5546712",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
