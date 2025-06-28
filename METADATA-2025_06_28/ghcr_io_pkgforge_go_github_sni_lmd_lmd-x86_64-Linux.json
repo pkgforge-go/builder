@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "lmd",
+  "pkg_family": "lmd",
+  "pkg_id": "lmd#github.com_sni_lmd",
+  "pkg_name": "lmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sni/lmd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Livestatus Multitool Daemon - Create livestatus federation from multiple sources",
+  "homepage": [
+    "https://github.com/sni/lmd"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "lb",
+    "lmd",
+    "lq"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sni/lmd/archive/c74e03bdb1e2f3bbf6aede5cd3841a7b2a8cc59b.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "icinga",
+    "livestatus",
+    "livestatus-api",
+    "monitoring",
+    "naemon",
+    "nagios",
+    "thruk"
+  ],
+  "version": "HEAD-c74e03b-250628T092708",
+  "version_upstream": "",
+  "bsum": "940d670868eb99a1e74974c80104eebaa384d9e8eb0601500a255bf282498d8b",
+  "build_date": "2025-06-28T16:52:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15945814334",
+  "build_id": "15945814334",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sni/lmd/lmd?tag=HEAD-c74e03b-250628T092708-x86_64-Linux&download=lmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "43",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sni/lmd/lmd?tag=HEAD-c74e03b-250628T092708-x86_64-Linux&download=lmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sni/lmd/lmd:HEAD-c74e03b-250628T092708-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sni/lmd/lmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sni/lmd/lmd?tag=HEAD-c74e03b-250628T092708-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6f0210287bb8e58f82708ab818345543a8be6164fcf3fddd1f868f99f2cb3ab5",
+  "size": "16 MB",
+  "size_raw": "15821664",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
