@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "parquetquerygen",
+  "pkg_family": "tempo",
+  "pkg_id": "parquetquerygen#github.com_grafana_tempo",
+  "pkg_name": "parquetquerygen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/tempo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",
+  "homepage": [
+    "https://github.com/grafana/tempo"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docsgen",
+    "parquetquerygen",
+    "tempo",
+    "tempo-cli",
+    "tempo-query",
+    "tempo-vulture"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/tempo/archive/7e9cae28233a37e895bf81b155c351949f2f76c3.tar.gz"
+  ],
+  "tag": [
+    "distributed-tracing",
+    "grafana"
+  ],
+  "version": "HEAD-7e9cae2-250627T214216",
+  "version_upstream": "",
+  "bsum": "64153b739aa4bd1477134688638cc3a3d5f486f9280a87d7a508eebbf8e71e38",
+  "build_date": "2025-06-28T13:56:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15944462134",
+  "build_id": "15944462134",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/tempo/parquetquerygen?tag=HEAD-7e9cae2-250627T214216-riscv64-Linux&download=parquetquerygen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4566",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/tempo/parquetquerygen?tag=HEAD-7e9cae2-250627T214216-riscv64-Linux&download=parquetquerygen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/tempo/parquetquerygen:HEAD-7e9cae2-250627T214216-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/tempo/parquetquerygen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/tempo/parquetquerygen?tag=HEAD-7e9cae2-250627T214216-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fd5b37c9d601237dffe5159561c4a7b86fd70875e9c50027cffa784a4a4ccf18",
+  "size": "2.7 MB",
+  "size_raw": "2786376",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-bec9da5-250620T143114-riscv64-Linux",
+    "HEAD-7853a76-250624T093016-riscv64-Linux",
+    "HEAD-f7ecf8c-250625T114448-riscv64-Linux",
+    "HEAD-c3def8f-250626T201029-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
