@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "csi-provisioner",
+  "pkg_family": "hybrid-csi-plugin",
+  "pkg_id": "csi-provisioner#github.com_sergelogvinov_hybrid_csi_plugin",
+  "pkg_name": "csi-provisioner",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sergelogvinov/hybrid-csi-plugin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Hybrid storage plugin",
+  "homepage": [
+    "https://github.com/sergelogvinov/hybrid-csi-plugin"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "csi-provisioner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sergelogvinov/hybrid-csi-plugin/archive/d9ba8acd3592d6466d326bc492ab6d32631cd626.tar.gz"
+  ],
+  "tag": [
+    "csi",
+    "csi-driver",
+    "hybrid-cloud",
+    "k8s-sig-storage",
+    "kubernetes",
+    "multi-cloud"
+  ],
+  "version": "HEAD-d9ba8ac-250628T093135",
+  "version_upstream": "v0.2.1",
+  "bsum": "f18abc5d049e469d0f261a8f15c3abf255a50e76a39f11e2b5cb3f2d43fe9702",
+  "build_date": "2025-06-28T08:40:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941977595",
+  "build_id": "15941977595",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sergelogvinov/hybrid-csi-plugin/csi-provisioner?tag=HEAD-d9ba8ac-250628T093135-loongarch64-Linux&download=csi-provisioner.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sergelogvinov/hybrid-csi-plugin/csi-provisioner?tag=HEAD-d9ba8ac-250628T093135-loongarch64-Linux&download=csi-provisioner",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sergelogvinov/hybrid-csi-plugin/csi-provisioner:HEAD-d9ba8ac-250628T093135-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sergelogvinov/hybrid-csi-plugin/csi-provisioner",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sergelogvinov/hybrid-csi-plugin/csi-provisioner?tag=HEAD-d9ba8ac-250628T093135-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6e6d4585ddbfe5f26befccb1fb6d3e9337512051b7fec8a3117dfb892b10c8e0",
+  "size": "55 MB",
+  "size_raw": "56997344",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
