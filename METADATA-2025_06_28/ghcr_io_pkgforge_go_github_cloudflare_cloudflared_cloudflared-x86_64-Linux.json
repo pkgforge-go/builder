@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "cloudflared",
+  "pkg_family": "cloudflared",
+  "pkg_id": "cloudflared#github.com_cloudflare_cloudflared",
+  "pkg_name": "cloudflared",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudflare/cloudflared",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloudflare Tunnel client _formerly Argo Tunnel_",
+  "homepage": [
+    "https://github.com/cloudflare/cloudflared"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cloudflared"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/cloudflare/cloudflared/archive/9ca8b41cf79fa08ec58c0209eef940851df9157b.tar.gz"
+  ],
+  "tag": [
+    "argo-tunnel",
+    "cloudflare",
+    "cloudflare-tunnel",
+    "reverse-proxy",
+    "zero-trust-network-access"
+  ],
+  "version": "HEAD-9ca8b41-250627T130929",
+  "version_upstream": "",
+  "bsum": "f28a9e90245f6cdb2f134247ab48786a0be689b29a8655d0e3f6c8810d8fd829",
+  "build_date": "2025-06-28T10:17:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942892257",
+  "build_id": "15942892257",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudflare/cloudflared/cloudflared?tag=HEAD-9ca8b41-250627T130929-x86_64-Linux&download=cloudflared.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10895",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudflare/cloudflared/cloudflared?tag=HEAD-9ca8b41-250627T130929-x86_64-Linux&download=cloudflared",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudflare/cloudflared/cloudflared:HEAD-9ca8b41-250627T130929-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudflare/cloudflared/cloudflared",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudflare/cloudflared/cloudflared?tag=HEAD-9ca8b41-250627T130929-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5a6ea6ea41342420c0d0b3c8cda9a5719269fe6890c6b88b7685d4518b014668",
+  "size": "30 MB",
+  "size_raw": "31016688",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-64fdc52-250617T104218-x86_64-Linux[2025.6.1]",
+    "HEAD-b4a98b1-250623T180115-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
