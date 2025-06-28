@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "https-server",
+  "pkg_family": "nri-flex",
+  "pkg_id": "https-server#github.com_newrelic_nri_flex",
+  "pkg_name": "https-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/newrelic/nri-flex",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An application-agnostic, all-in-one New Relic integration integration",
+  "homepage": [
+    "https://github.com/newrelic/nri-flex"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws",
+    "gcp",
+    "https-server",
+    "nri-flex"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/newrelic/nri-flex/archive/cee9d637a87af72a1ce7121343a511e6a5acb938.tar.gz"
+  ],
+  "tag": [
+    "api",
+    "flex",
+    "infrastructure",
+    "ingest",
+    "insights",
+    "integration",
+    "jmx",
+    "nrlabs"
+  ],
+  "version": "HEAD-cee9d63-250613T085658",
+  "version_upstream": "v1.16.6",
+  "bsum": "e1512a3d6118deb74c6556020fd4d069dfa551f3a484b4f9c2725d4bfc453854",
+  "build_date": "2025-06-28T08:18:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941908517",
+  "build_id": "15941908517",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/nri-flex/https-server?tag=HEAD-cee9d63-250613T085658-aarch64-Linux&download=https-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "116",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/nri-flex/https-server?tag=HEAD-cee9d63-250613T085658-aarch64-Linux&download=https-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/newrelic/nri-flex/https-server:HEAD-cee9d63-250613T085658-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/newrelic/nri-flex/https-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/newrelic/nri-flex/https-server?tag=HEAD-cee9d63-250613T085658-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ddcff7b67e447deb192d44fc917b9f5747062017da48b6e2675d625a63641a15",
+  "size": "5.9 MB",
+  "size_raw": "6110688",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
