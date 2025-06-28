@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "azurefile-proxy",
+  "pkg_family": "azurefile-csi-driver",
+  "pkg_id": "azurefile-proxy#github.com_kubernetes_sigs_azurefile_csi_driver",
+  "pkg_name": "azurefile-proxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/azurefile-csi-driver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Azure File CSI Driver",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/azurefile-csi-driver"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "azurefile-proxy",
+    "azurefileplugin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/azurefile-csi-driver/archive/d160fa21a7252a6f3b80b34ce0fb944d479d4f9f.tar.gz"
+  ],
+  "tag": [
+    "csi",
+    "k8s-sig-azure",
+    "kubernetes"
+  ],
+  "version": "HEAD-d160fa2-250628T145800",
+  "version_upstream": "",
+  "bsum": "e756d8360c5eac645e6c9eb9a718808b2d7a5a72ba23c2e4d0de07ba5e3aebcc",
+  "build_date": "2025-06-28T16:23:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15945757649",
+  "build_id": "15945757649",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/azurefile-csi-driver/azurefile-proxy?tag=HEAD-d160fa2-250628T145800-x86_64-Linux&download=azurefile-proxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "167",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/azurefile-csi-driver/azurefile-proxy?tag=HEAD-d160fa2-250628T145800-x86_64-Linux&download=azurefile-proxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/azurefile-csi-driver/azurefile-proxy:HEAD-d160fa2-250628T145800-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/azurefile-csi-driver/azurefile-proxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/azurefile-csi-driver/azurefile-proxy?tag=HEAD-d160fa2-250628T145800-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7b461da3610c686fcc3fc23f88e4655a6a8bebd2b2b358e6f530357a8deecdbd",
+  "size": "13 MB",
+  "size_raw": "13242848",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
