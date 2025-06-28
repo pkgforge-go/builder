@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "generatedb",
+  "pkg_family": "macvendor",
+  "pkg_id": "generatedb#github.com_n0madic_macvendor",
+  "pkg_name": "generatedb",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/n0madic/macvendor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library with embedded DB for getting MAC address vendor information",
+  "homepage": [
+    "https://github.com/n0madic/macvendor"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generatedb",
+    "lookup"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/n0madic/macvendor/archive/5dd24f328ab804c827d78772d470d5f183e961d9.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-5dd24f3-250628T050811",
+  "version_upstream": "",
+  "bsum": "c72ef001654a8d160afc25a01e65c5bccf36120ad1b26a87f550ef83a5d3f063",
+  "build_date": "2025-06-28T20:06:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15947220254",
+  "build_id": "15947220254",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/n0madic/macvendor/generatedb?tag=HEAD-5dd24f3-250628T050811-aarch64-Linux&download=generatedb.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/n0madic/macvendor/generatedb?tag=HEAD-5dd24f3-250628T050811-aarch64-Linux&download=generatedb",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/n0madic/macvendor/generatedb:HEAD-5dd24f3-250628T050811-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/n0madic/macvendor/generatedb",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/n0madic/macvendor/generatedb?tag=HEAD-5dd24f3-250628T050811-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2cd6325545d1c31daf763d7609bf6dce16a75b99e0d8c49a63ffeb0eb7d4885a",
+  "size": "6.1 MB",
+  "size_raw": "6334816",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-2586286-250621T050804-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
