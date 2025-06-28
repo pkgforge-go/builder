@@ -1,0 +1,87 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "checkpoint",
+  "pkg_family": "containerd",
+  "pkg_id": "checkpoint#github.com_containerd_containerd",
+  "pkg_name": "checkpoint",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/containerd/containerd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An open and reliable container runtime",
+  "homepage": [
+    "https://github.com/containerd/containerd"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "checkpoint",
+    "cmd",
+    "cni-bridge-fp",
+    "containerd",
+    "containerd-shim-runc-fp-v1",
+    "containerd-shim-runc-v2",
+    "containerd-stress",
+    "ctr",
+    "gen-manpages",
+    "go-buildtag",
+    "loopback-v2",
+    "protoc-gen-go-fieldpath",
+    "runc-fp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/containerd/containerd/archive/8c94d9b60208022c5e3f7ae9af52f0e0d56f8d7d.tar.gz"
+  ],
+  "tag": [
+    "cncf",
+    "containerd",
+    "containers",
+    "cri",
+    "docker",
+    "hacktoberfest",
+    "kubernetes",
+    "oci"
+  ],
+  "version": "HEAD-8c94d9b-250627T192533",
+  "version_upstream": "",
+  "bsum": "25ec55f7b5820fb6f31f3d0971b36b617c92777cb048a75f2ef4a533ecd9daf2",
+  "build_date": "2025-06-28T10:24:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942894486",
+  "build_id": "15942894486",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerd/containerd/checkpoint?tag=HEAD-8c94d9b-250627T192533-aarch64-Linux&download=checkpoint.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18860",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerd/containerd/checkpoint?tag=HEAD-8c94d9b-250627T192533-aarch64-Linux&download=checkpoint",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/containerd/containerd/checkpoint:HEAD-8c94d9b-250627T192533-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/containerd/containerd/checkpoint",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerd/containerd/checkpoint?tag=HEAD-8c94d9b-250627T192533-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9a5697c4fffc05f9f55a28746616b129036a42a16b8feb0f405bf1e2dff014f9",
+  "size": "3.9 MB",
+  "size_raw": "4032408",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-7d394c9-250619T220346-aarch64-Linux",
+    "HEAD-9300d03-250622T010009-aarch64-Linux",
+    "HEAD-99df502-250623T224024-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
