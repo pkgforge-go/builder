@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "modem-emulator",
+  "pkg_family": "m17text",
+  "pkg_id": "modem-emulator#github.com_jancona_m17text",
+  "pkg_name": "modem-emulator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jancona/m17text",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Some POC/experimentation around doing text messaging and data communications using the M17 ham radio mode",
+  "homepage": [
+    "https://github.com/jancona/m17text"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gateway",
+    "modem-emulator",
+    "textclient"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/jancona/m17text/archive/d014ae20e39ca3ba2ce0c7834fe1cfe4cf31e3b0.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d014ae2-250628T095649",
+  "version_upstream": "",
+  "bsum": "d37a6ffc1a63ce94412f7726ce0574f5ca8f970d48d60824574505f28c1cbc20",
+  "build_date": "2025-06-28T16:21:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15945746204",
+  "build_id": "15945746204",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jancona/m17text/modem-emulator?tag=HEAD-d014ae2-250628T095649-x86_64-Linux&download=modem-emulator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jancona/m17text/modem-emulator?tag=HEAD-d014ae2-250628T095649-x86_64-Linux&download=modem-emulator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jancona/m17text/modem-emulator:HEAD-d014ae2-250628T095649-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jancona/m17text/modem-emulator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jancona/m17text/modem-emulator?tag=HEAD-d014ae2-250628T095649-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9a7fbbee24ba1651f6a06d1e6463b7e22e6b18d434e6b70b940bbee11105e5de",
+  "size": "2.4 MB",
+  "size_raw": "2509240",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
