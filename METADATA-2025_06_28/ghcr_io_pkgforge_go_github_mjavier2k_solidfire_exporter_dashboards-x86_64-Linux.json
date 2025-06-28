@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "dashboards",
+  "pkg_family": "solidfire-exporter",
+  "pkg_id": "dashboards#github.com_mjavier2k_solidfire_exporter",
+  "pkg_name": "dashboards",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mjavier2k/solidfire-exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Prometheus NetApp solidfire-exporter queries the Solidfire API and exports the results as Prometheus metrics",
+  "homepage": [
+    "https://github.com/mjavier2k/solidfire-exporter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dashboards",
+    "solidfire-exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mjavier2k/solidfire-exporter/archive/609a1d4f767ca5cf98ac3b0ed83542591bdd00c0.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "metrics",
+    "netapp",
+    "prometheus",
+    "prometheus-exporter",
+    "solidfire"
+  ],
+  "version": "HEAD-609a1d4-250627T144406",
+  "version_upstream": "v0.6.7",
+  "bsum": "14f808f1eb4205f329a0cad0cd656fea2b440b38343e1222cc60a1b17d5111c6",
+  "build_date": "2025-06-28T08:14:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941820402",
+  "build_id": "15941820402",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mjavier2k/solidfire-exporter/dashboards?tag=HEAD-609a1d4-250627T144406-x86_64-Linux&download=dashboards.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mjavier2k/solidfire-exporter/dashboards?tag=HEAD-609a1d4-250627T144406-x86_64-Linux&download=dashboards",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mjavier2k/solidfire-exporter/dashboards:HEAD-609a1d4-250627T144406-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mjavier2k/solidfire-exporter/dashboards",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mjavier2k/solidfire-exporter/dashboards?tag=HEAD-609a1d4-250627T144406-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "40fcc64f55172d09190f73297723718bbccbae024d75be7c9515f488627ffa6d",
+  "size": "7.0 MB",
+  "size_raw": "7325248",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
