@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "validate",
+  "pkg_family": "ignition",
+  "pkg_id": "validate#github.com_coreos_ignition",
+  "pkg_name": "validate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/coreos/ignition",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "First boot installer and configuration tool",
+  "homepage": [
+    "https://github.com/coreos/ignition"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "doc",
+    "docs",
+    "groupdel-stub",
+    "useradd-stub",
+    "userdel-stub",
+    "usermod-stub",
+    "validate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/coreos/ignition/archive/acc4ce4f64dad2ce1e5eb5fccaffc8b2051f6193.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-acc4ce4-250627T143217",
+  "version_upstream": "",
+  "bsum": "bf78fb75bb6b49d9028be44d5967eb0f8b55c892e1a9f190dd47d33c92818827",
+  "build_date": "2025-06-28T13:30:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15944420968",
+  "build_id": "15944420968",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coreos/ignition/validate?tag=HEAD-acc4ce4-250627T143217-x86_64-Linux&download=validate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "891",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coreos/ignition/validate?tag=HEAD-acc4ce4-250627T143217-x86_64-Linux&download=validate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/coreos/ignition/validate:HEAD-acc4ce4-250627T143217-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/coreos/ignition/validate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coreos/ignition/validate?tag=HEAD-acc4ce4-250627T143217-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c7bc42daf3328baf25bc03b3c3b9220d68151bf7bde061261b2ac5855f7e0322",
+  "size": "5.5 MB",
+  "size_raw": "5690688",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-4d1a063-250610T160627-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
