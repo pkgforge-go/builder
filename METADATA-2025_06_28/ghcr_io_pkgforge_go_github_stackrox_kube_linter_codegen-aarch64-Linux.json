@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "codegen",
+  "pkg_family": "kube-linter",
+  "pkg_id": "codegen#github.com_stackrox_kube_linter",
+  "pkg_name": "codegen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/stackrox/kube-linter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.",
+  "homepage": [
+    "https://github.com/stackrox/kube-linter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "codegen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/stackrox/kube-linter/archive/6a9094f9d616fbfbe693b1ae70ba32c8587bfbc1.tar.gz"
+  ],
+  "tag": [
+    "hactoberfest",
+    "helm-charts",
+    "kubernetes",
+    "static-analysis",
+    "yaml-files"
+  ],
+  "version": "HEAD-6a9094f-250627T165709",
+  "version_upstream": "",
+  "bsum": "709528bb54458652b00cb7d47cc55fbf864c5303b2c1d41387ced228b076c609",
+  "build_date": "2025-06-28T08:50:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942007092",
+  "build_id": "15942007092",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stackrox/kube-linter/codegen?tag=HEAD-6a9094f-250627T165709-aarch64-Linux&download=codegen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3207",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stackrox/kube-linter/codegen?tag=HEAD-6a9094f-250627T165709-aarch64-Linux&download=codegen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/stackrox/kube-linter/codegen:HEAD-6a9094f-250627T165709-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/stackrox/kube-linter/codegen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stackrox/kube-linter/codegen?tag=HEAD-6a9094f-250627T165709-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0f1b0f6b6b74da13bd760e92e9960fc166757a0eac5d76a2d6e880410cf2624e",
+  "size": "8.5 MB",
+  "size_raw": "8840000",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
