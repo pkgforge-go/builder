@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gpython",
+  "pkg_family": "gpython",
+  "pkg_id": "gpython#github.com_go_python_gpython",
+  "pkg_name": "gpython",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/go-python/gpython",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "gpython is a python interpreter written in go _batteries not included_",
+  "homepage": [
+    "https://github.com/go-python/gpython"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "embedding",
+    "gpython",
+    "multi-context",
+    "testparser"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/go-python/gpython/archive/53b7b8e01d998914a7f4179e3e051274f94b8990.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "interpreter",
+    "python",
+    "python3"
+  ],
+  "version": "HEAD-53b7b8e-250628T110818",
+  "version_upstream": "",
+  "bsum": "a8f040bae585dcd39958ddf0282dbb742c7ecb7e31cfcab7da7cb770e410c112",
+  "build_date": "2025-06-28T16:10:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15945734340",
+  "build_id": "15945734340",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-python/gpython/gpython?tag=HEAD-53b7b8e-250628T110818-riscv64-Linux&download=gpython.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "945",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-python/gpython/gpython?tag=HEAD-53b7b8e-250628T110818-riscv64-Linux&download=gpython",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go-python/gpython/gpython:HEAD-53b7b8e-250628T110818-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go-python/gpython/gpython",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-python/gpython/gpython?tag=HEAD-53b7b8e-250628T110818-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b8407af2b214559e2968308ac7b564d82e08667b02a54570a43e046904c136d1",
+  "size": "5.4 MB",
+  "size_raw": "5577584",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

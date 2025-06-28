@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "embedding",
+  "pkg_family": "gpython",
+  "pkg_id": "embedding#github.com_go_python_gpython",
+  "pkg_name": "embedding",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/go-python/gpython",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "gpython is a python interpreter written in go _batteries not included_",
+  "homepage": [
+    "https://github.com/go-python/gpython"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "embedding",
+    "gpython",
+    "multi-context",
+    "testparser"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/go-python/gpython/archive/53b7b8e01d998914a7f4179e3e051274f94b8990.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "interpreter",
+    "python",
+    "python3"
+  ],
+  "version": "HEAD-53b7b8e-250628T110818",
+  "version_upstream": "",
+  "bsum": "4745a5c53c4474a2ec95ac31cfb1f26acc7d77fcc39570bf47cc036b0f1a16ae",
+  "build_date": "2025-06-28T16:10:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15945734340",
+  "build_id": "15945734340",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-python/gpython/embedding?tag=HEAD-53b7b8e-250628T110818-riscv64-Linux&download=embedding.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "945",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-python/gpython/embedding?tag=HEAD-53b7b8e-250628T110818-riscv64-Linux&download=embedding",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go-python/gpython/embedding:HEAD-53b7b8e-250628T110818-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go-python/gpython/embedding",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-python/gpython/embedding?tag=HEAD-53b7b8e-250628T110818-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a00f87152bfa1b50fa3570c0da02b166409571d0f9ef053fd2d56628bde56076",
+  "size": "5.2 MB",
+  "size_raw": "5436496",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
