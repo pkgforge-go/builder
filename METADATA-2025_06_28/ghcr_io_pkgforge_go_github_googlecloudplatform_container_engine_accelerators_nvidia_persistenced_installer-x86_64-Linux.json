@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "nvidia-persistenced-installer",
+  "pkg_family": "container-engine-accelerators",
+  "pkg_id": "nvidia-persistenced-installer#github.com_GoogleCloudPlatform_container_engine_accelerators",
+  "pkg_name": "nvidia-persistenced-installer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/GoogleCloudPlatform/container-engine-accelerators",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Collection of tools and examples for managing Accelerated workloads in Kubernetes Engine",
+  "homepage": [
+    "https://github.com/GoogleCloudPlatform/container-engine-accelerators"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "nri_device_injector",
+    "nvidia-persistenced-installer",
+    "partition_gpu"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/GoogleCloudPlatform/container-engine-accelerators/archive/34455317852803240883edf26efcc522602834ca.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-3445531-250627T160845",
+  "version_upstream": "",
+  "bsum": "45b843eb204fff51959e8275b959e38e315443736f9f1dc9960f488bc8554458",
+  "build_date": "2025-06-28T06:59:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941543158",
+  "build_id": "15941543158",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/container-engine-accelerators/nvidia-persistenced-installer?tag=HEAD-3445531-250627T160845-x86_64-Linux&download=nvidia-persistenced-installer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "235",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/container-engine-accelerators/nvidia-persistenced-installer?tag=HEAD-3445531-250627T160845-x86_64-Linux&download=nvidia-persistenced-installer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googlecloudplatform/container-engine-accelerators/nvidia-persistenced-installer:HEAD-3445531-250627T160845-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googlecloudplatform/container-engine-accelerators/nvidia-persistenced-installer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/container-engine-accelerators/nvidia-persistenced-installer?tag=HEAD-3445531-250627T160845-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dc6b514904beee0d45a6a5d40a33df25232948697fa3452c4bb424f8f079647e",
+  "size": "2.5 MB",
+  "size_raw": "2535416",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
