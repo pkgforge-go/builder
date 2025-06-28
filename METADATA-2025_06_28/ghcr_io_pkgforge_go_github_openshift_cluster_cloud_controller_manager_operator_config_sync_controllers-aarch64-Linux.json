@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "config-sync-controllers",
+  "pkg_family": "cluster-cloud-controller-manager-operator",
+  "pkg_id": "config-sync-controllers#github.com_openshift_cluster_cloud_controller_manager_operator",
+  "pkg_name": "config-sync-controllers",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/cluster-cloud-controller-manager-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator for managing platform cloud controller managers",
+  "homepage": [
+    "https://github.com/openshift/cluster-cloud-controller-manager-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "azure-config-credentials-injector",
+    "cluster-cloud-controller-manager-operator",
+    "config-sync-controllers"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/cluster-cloud-controller-manager-operator/archive/7d34021116c6e09b611aa0971528659423002b65.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-7d34021-250628T002706",
+  "version_upstream": "",
+  "bsum": "27dd5cc5300e139ce456026f40edb93d6037d2136a53f5699ade4043c355f969",
+  "build_date": "2025-06-28T08:26:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941917848",
+  "build_id": "15941917848",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-cloud-controller-manager-operator/config-sync-controllers?tag=HEAD-7d34021-250628T002706-aarch64-Linux&download=config-sync-controllers.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-cloud-controller-manager-operator/config-sync-controllers?tag=HEAD-7d34021-250628T002706-aarch64-Linux&download=config-sync-controllers",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/cluster-cloud-controller-manager-operator/config-sync-controllers:HEAD-7d34021-250628T002706-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/cluster-cloud-controller-manager-operator/config-sync-controllers",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cluster-cloud-controller-manager-operator/config-sync-controllers?tag=HEAD-7d34021-250628T002706-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f99173cbe71e3e42a0d1bc4cc50730e14afdb895d75aacea19641d45d2698ee2",
+  "size": "56 MB",
+  "size_raw": "57764640",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
