@@ -1,0 +1,91 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ghc-transit-time-parser",
+  "pkg_family": "mymove",
+  "pkg_id": "ghc-transit-time-parser#github.com_transcom_mymove",
+  "pkg_name": "ghc-transit-time-parser",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/transcom/mymove",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "MyMove Personal Property Prototype",
+  "homepage": [
+    "https://github.com/transcom/mymove"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appcontext-linter",
+    "ato-linter",
+    "big-cat",
+    "ecs-deploy",
+    "generate-deploy-notes",
+    "generate-payment-request-edi",
+    "generate-shipment-summary",
+    "generate-test-data",
+    "ghc-pricing-parser",
+    "ghc-transit-time-parser",
+    "health-checker",
+    "image-to-pdf",
+    "iws",
+    "milmove",
+    "milmove-tasks",
+    "model-vet",
+    "pptas-api-client",
+    "prime-api-client",
+    "read-alb-logs",
+    "send-to-gex",
+    "simulate-process-tpps",
+    "tls-checker",
+    "webhook-client"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/transcom/mymove/archive/b38adb0222b679e66ed27cc1a320b1ec6c291f0f.tar.gz"
+  ],
+  "tag": [
+    "code-mil"
+  ],
+  "version": "HEAD-b38adb0-250627T191410",
+  "version_upstream": "",
+  "bsum": "1a1708cb24de441ebf725c68c0930ef7eb0c30bcba15f44c363a627f7f8b892e",
+  "build_date": "2025-06-28T12:39:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15943008503",
+  "build_id": "15943008503",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transcom/mymove/ghc-transit-time-parser?tag=HEAD-b38adb0-250627T191410-riscv64-Linux&download=ghc-transit-time-parser.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "63",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transcom/mymove/ghc-transit-time-parser?tag=HEAD-b38adb0-250627T191410-riscv64-Linux&download=ghc-transit-time-parser",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/transcom/mymove/ghc-transit-time-parser:HEAD-b38adb0-250627T191410-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/transcom/mymove/ghc-transit-time-parser",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transcom/mymove/ghc-transit-time-parser?tag=HEAD-b38adb0-250627T191410-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "09e045b4996821d31f2bc4c1ab46a653b94c9410ae45eece840319d54c5408fa",
+  "size": "32 MB",
+  "size_raw": "33361432",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-5c66fc5-250623T170730-riscv64-Linux",
+    "HEAD-fca2d91-250624T151221-riscv64-Linux",
+    "HEAD-89e831e-250625T144124-riscv64-Linux",
+    "HEAD-a25bfb2-250626T204022-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
