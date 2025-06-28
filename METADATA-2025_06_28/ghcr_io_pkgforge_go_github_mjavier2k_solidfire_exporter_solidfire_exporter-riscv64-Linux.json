@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "solidfire-exporter",
+  "pkg_family": "solidfire-exporter",
+  "pkg_id": "solidfire-exporter#github.com_mjavier2k_solidfire_exporter",
+  "pkg_name": "solidfire-exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mjavier2k/solidfire-exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Prometheus NetApp solidfire-exporter queries the Solidfire API and exports the results as Prometheus metrics",
+  "homepage": [
+    "https://github.com/mjavier2k/solidfire-exporter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dashboards",
+    "solidfire-exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mjavier2k/solidfire-exporter/archive/609a1d4f767ca5cf98ac3b0ed83542591bdd00c0.tar.gz"
+  ],
+  "tag": [
+    "go",
+    "metrics",
+    "netapp",
+    "prometheus",
+    "prometheus-exporter",
+    "solidfire"
+  ],
+  "version": "HEAD-609a1d4-250627T144406",
+  "version_upstream": "v0.6.7",
+  "bsum": "4a29974d946877e8df5a426dc02e7691f414c0aa96ba133aac3e3b906713f448",
+  "build_date": "2025-06-28T08:14:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941820402",
+  "build_id": "15941820402",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mjavier2k/solidfire-exporter/solidfire-exporter?tag=HEAD-609a1d4-250627T144406-riscv64-Linux&download=solidfire-exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mjavier2k/solidfire-exporter/solidfire-exporter?tag=HEAD-609a1d4-250627T144406-riscv64-Linux&download=solidfire-exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mjavier2k/solidfire-exporter/solidfire-exporter:HEAD-609a1d4-250627T144406-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mjavier2k/solidfire-exporter/solidfire-exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mjavier2k/solidfire-exporter/solidfire-exporter?tag=HEAD-609a1d4-250627T144406-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bfefc3e21122cc8c0f47227a6cd8fd7cf2c46adbcfa6ba58391550d9796c74d2",
+  "size": "12 MB",
+  "size_raw": "12096664",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
