@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "filodb",
+  "pkg_family": "FiloDB",
+  "pkg_id": "filodb#github.com_sharvitKashikar_FiloDB",
+  "pkg_name": "filodb",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sharvitKashikar/FiloDB",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A lightweight, high-performance database system written in Go having Interactive command-based database with B+ tree storage, ACID transactions, and memory-mapped I/O",
+  "homepage": [
+    "https://github.com/sharvitKashikar/FiloDB"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "filodb"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sharvitKashikar/FiloDB/archive/e2b049930c5a544113ce3299659a1c7f8bc16f8b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e2b0499-250628T191048",
+  "version_upstream": "",
+  "bsum": "042d7c425a3c1ac6f62c9caa396150c7af25b53c4fff4789e5360d312a1ced9c",
+  "build_date": "2025-06-28T20:25:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15947287626",
+  "build_id": "15947287626",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sharvitkashikar/filodb/filodb?tag=HEAD-e2b0499-250628T191048-riscv64-Linux&download=filodb.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "56",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sharvitkashikar/filodb/filodb?tag=HEAD-e2b0499-250628T191048-riscv64-Linux&download=filodb",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sharvitkashikar/filodb/filodb:HEAD-e2b0499-250628T191048-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sharvitkashikar/filodb/filodb",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sharvitkashikar/filodb/filodb?tag=HEAD-e2b0499-250628T191048-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "98a7bbaeecba9e299de7258237a6a8d29d89efb48b43e422da00022ecc11ec44",
+  "size": "2.4 MB",
+  "size_raw": "2421000",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-b7b8bf2-250625T232208-riscv64-Linux",
+    "HEAD-c1db78f-250626T160518-riscv64-Linux",
+    "HEAD-c816139-250627T001222-riscv64-Linux",
+    "HEAD-d0b1d0c-250627T161823-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
