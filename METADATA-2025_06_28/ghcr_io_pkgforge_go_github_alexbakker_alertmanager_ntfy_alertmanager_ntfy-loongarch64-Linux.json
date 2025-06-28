@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "alertmanager-ntfy",
+  "pkg_family": "alertmanager-ntfy",
+  "pkg_id": "alertmanager-ntfy#github.com_alexbakker_alertmanager_ntfy",
+  "pkg_name": "alertmanager-ntfy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/alexbakker/alertmanager-ntfy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Service that forwards Prometheus Alertmanager notifications to https://ntfy.sh",
+  "homepage": [
+    "https://github.com/alexbakker/alertmanager-ntfy"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alertmanager-ntfy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/alexbakker/alertmanager-ntfy/archive/dc4ef93f7db7f046a775ef3e4a2a462b2afcec6c.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-dc4ef93-250627T191346",
+  "version_upstream": "",
+  "bsum": "e19ffbebdd5617d8a4f565d8a1bfc34a9bd51026334afc86bca564f6bcd5d429",
+  "build_date": "2025-06-28T07:23:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941575132",
+  "build_id": "15941575132",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/alexbakker/alertmanager-ntfy/alertmanager-ntfy?tag=HEAD-dc4ef93-250627T191346-loongarch64-Linux&download=alertmanager-ntfy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "46",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/alexbakker/alertmanager-ntfy/alertmanager-ntfy?tag=HEAD-dc4ef93-250627T191346-loongarch64-Linux&download=alertmanager-ntfy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/alexbakker/alertmanager-ntfy/alertmanager-ntfy:HEAD-dc4ef93-250627T191346-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/alexbakker/alertmanager-ntfy/alertmanager-ntfy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/alexbakker/alertmanager-ntfy/alertmanager-ntfy?tag=HEAD-dc4ef93-250627T191346-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "30b05dfcca2925f8716419b8a31ac66d4255868b3095b996f119e02d77aaf777",
+  "size": "14 MB",
+  "size_raw": "14593088",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
