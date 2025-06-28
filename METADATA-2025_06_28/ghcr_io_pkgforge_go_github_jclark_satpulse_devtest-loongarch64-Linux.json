@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "devtest",
+  "pkg_family": "satpulse",
+  "pkg_id": "devtest#github.com_jclark_satpulse",
+  "pkg_name": "devtest",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jclark/satpulse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Use a GPS receiver as a source of time for a PTP and NTP server",
+  "homepage": [
+    "https://github.com/jclark/satpulse"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "devtest",
+    "ifwait",
+    "satpulsed",
+    "satpulsetool"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/jclark/satpulse/archive/78eb4361db935c651bd9e737b79ae57a7fcd5e0c.tar.gz"
+  ],
+  "tag": [
+    "chrony",
+    "gnss",
+    "go",
+    "gps",
+    "linuxptp",
+    "ntp",
+    "ptp",
+    "ublox"
+  ],
+  "version": "HEAD-78eb436-250626T063013",
+  "version_upstream": "",
+  "bsum": "b4ecd9c0a2941170102ba19b4891876d2f24197b4c5d89898f4efde23b3cdb2d",
+  "build_date": "2025-06-28T13:59:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15944472379",
+  "build_id": "15944472379",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jclark/satpulse/devtest?tag=HEAD-78eb436-250626T063013-loongarch64-Linux&download=devtest.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jclark/satpulse/devtest?tag=HEAD-78eb436-250626T063013-loongarch64-Linux&download=devtest",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jclark/satpulse/devtest:HEAD-78eb436-250626T063013-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jclark/satpulse/devtest",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jclark/satpulse/devtest?tag=HEAD-78eb436-250626T063013-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "07125ded9ea13e45f98d15ddb02e32bcf027957c020a1762bce5f991886b368a",
+  "size": "2.0 MB",
+  "size_raw": "2072824",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-85c2247-250521T014644-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
