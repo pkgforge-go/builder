@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "webhook",
+  "pkg_family": "multicloud-operators-foundation",
+  "pkg_id": "webhook#github.com_stolostron_multicloud_operators_foundation",
+  "pkg_name": "webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/stolostron/multicloud-operators-foundation",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/stolostron/multicloud-operators-foundation"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "controller",
+    "proxyserver",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/stolostron/multicloud-operators-foundation/archive/99f018ef3e54b7e33a32d81ec998f4abd628aecd.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-99f018e-250627T215300",
+  "version_upstream": "",
+  "bsum": "f6e1721506a5c3c5a59e88349f0b36f9b25622106262110d387d51ad70148356",
+  "build_date": "2025-06-28T08:54:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942012482",
+  "build_id": "15942012482",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stolostron/multicloud-operators-foundation/webhook?tag=HEAD-99f018e-250627T215300-loongarch64-Linux&download=webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "55",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stolostron/multicloud-operators-foundation/webhook?tag=HEAD-99f018e-250627T215300-loongarch64-Linux&download=webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/stolostron/multicloud-operators-foundation/webhook:HEAD-99f018e-250627T215300-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/stolostron/multicloud-operators-foundation/webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stolostron/multicloud-operators-foundation/webhook?tag=HEAD-99f018e-250627T215300-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "92942048aff9e5521f431e8923a188958b0f6e13350f6574a5af1519c3cbebaf",
+  "size": "54 MB",
+  "size_raw": "56020896",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
