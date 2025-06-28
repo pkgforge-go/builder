@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "sbom-operator",
+  "pkg_family": "sbom-operator",
+  "pkg_id": "sbom-operator#github.com_ckotzbauer_sbom_operator",
+  "pkg_name": "sbom-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ckotzbauer/sbom-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Catalogue all images of a Kubernetes cluster to multiple targets with Syft",
+  "homepage": [
+    "https://github.com/ckotzbauer/sbom-operator"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sbom-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ckotzbauer/sbom-operator/archive/4e9d7b1b39df743a05bee870686972bcdc881b77.tar.gz"
+  ],
+  "tag": [
+    "k8s",
+    "kubernetes",
+    "operator",
+    "sbom",
+    "supply-chain-security"
+  ],
+  "version": "HEAD-4e9d7b1-250628T082235",
+  "version_upstream": "",
+  "bsum": "b79d993626b8ef3fa935dec145f67fcc1c0ed67879c3793c0359d5f942ad0e9b",
+  "build_date": "2025-06-28T15:56:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15945720374",
+  "build_id": "15945720374",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ckotzbauer/sbom-operator/sbom-operator?tag=HEAD-4e9d7b1-250628T082235-riscv64-Linux&download=sbom-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "202",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ckotzbauer/sbom-operator/sbom-operator?tag=HEAD-4e9d7b1-250628T082235-riscv64-Linux&download=sbom-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ckotzbauer/sbom-operator/sbom-operator:HEAD-4e9d7b1-250628T082235-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ckotzbauer/sbom-operator/sbom-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ckotzbauer/sbom-operator/sbom-operator?tag=HEAD-4e9d7b1-250628T082235-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4dc609a5902879a3658d6842f0bdd4c7d060650b180b74c07cc68a6df96d5c1d",
+  "size": "77 MB",
+  "size_raw": "80473112",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
