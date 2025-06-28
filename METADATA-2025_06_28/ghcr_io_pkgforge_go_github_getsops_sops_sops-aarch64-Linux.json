@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "sops",
+  "pkg_family": "sops",
+  "pkg_id": "sops#github.com_getsops_sops",
+  "pkg_name": "sops",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/getsops/sops",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Simple and flexible tool for managing secrets",
+  "homepage": [
+    "https://github.com/getsops/sops"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sops"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/getsops/sops/archive/9b03bb458eb03ee12d26fbaad1e9c3402bc87deb.tar.gz"
+  ],
+  "tag": [
+    "aws",
+    "azure",
+    "devops",
+    "gcp",
+    "pgp",
+    "secret-distribution",
+    "secret-management",
+    "security",
+    "sops"
+  ],
+  "version": "HEAD-9b03bb4-250627T202323",
+  "version_upstream": "",
+  "bsum": "1f3d6b2b8403c5ef806c3059eb4e0809ec135a5ec3ff75238fe1865b04d8b757",
+  "build_date": "2025-06-28T13:42:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15944447580",
+  "build_id": "15944447580",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/getsops/sops/sops?tag=HEAD-9b03bb4-250627T202323-aarch64-Linux&download=sops.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18789",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/getsops/sops/sops?tag=HEAD-9b03bb4-250627T202323-aarch64-Linux&download=sops",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/getsops/sops/sops:HEAD-9b03bb4-250627T202323-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/getsops/sops/sops",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/getsops/sops/sops?tag=HEAD-9b03bb4-250627T202323-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "659fce296becaaf17eb71e0f2b2c3337aab8534ca38f8fe208765be9d0e6cf94",
+  "size": "47 MB",
+  "size_raw": "48568832",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-518daad-250616T180754-aarch64-Linux",
+    "HEAD-a4a1266-250623T175641-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
