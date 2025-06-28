@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "blockio",
+  "pkg_family": "goresctrl",
+  "pkg_id": "blockio#github.com_intel_goresctrl",
+  "pkg_name": "blockio",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/intel/goresctrl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Golang library for managing resctrl filesystem",
+  "homepage": [
+    "https://github.com/intel/goresctrl"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "blockio",
+    "rdt"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/intel/goresctrl/archive/579664119777585ab262e14a9adab7006862525d.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-5796641-250628T154214",
+  "version_upstream": "",
+  "bsum": "dcdc97522e440d0d520bcc033c1202c5db6778fc680c951e3d2e0b7a3d1aefc6",
+  "build_date": "2025-06-28T19:45:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15947208218",
+  "build_id": "15947208218",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/intel/goresctrl/blockio?tag=HEAD-5796641-250628T154214-riscv64-Linux&download=blockio.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "48",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/intel/goresctrl/blockio?tag=HEAD-5796641-250628T154214-riscv64-Linux&download=blockio",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/intel/goresctrl/blockio:HEAD-5796641-250628T154214-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/intel/goresctrl/blockio",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/intel/goresctrl/blockio?tag=HEAD-5796641-250628T154214-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b9db117b52ac23ff02d4fd284235bae9f6442e50a3705da0aaa217b0c8953ce3",
+  "size": "3.0 MB",
+  "size_raw": "3093640",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-16d5a38-250624T175521-riscv64-Linux",
+    "HEAD-5b4007f-250626T165628-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
