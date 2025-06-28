@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "slurm-exporter",
+  "pkg_family": "slurm-exporter",
+  "pkg_id": "slurm-exporter#github.com_SlinkyProject_slurm_exporter",
+  "pkg_name": "slurm-exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/SlinkyProject/slurm-exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Prometheus collector and exporter for Slurm cluster metrics. A Slinky project.",
+  "homepage": [
+    "https://github.com/SlinkyProject/slurm-exporter"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "slurm-exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/SlinkyProject/slurm-exporter/archive/867f796f9e6c75eace133b1432f14478c02e5409.tar.gz"
+  ],
+  "tag": [
+    "helm-chart",
+    "kubernetes",
+    "metrics-gathering",
+    "prometheus-exporter",
+    "schedmd",
+    "slinky",
+    "slurm",
+    "slurm-workload-manager"
+  ],
+  "version": "HEAD-867f796-250627T135812",
+  "version_upstream": "",
+  "bsum": "f2ab0ebddccb2497b73829d16144d5953c18ef4d7e518ee28f69eac146440a9d",
+  "build_date": "2025-06-28T07:18:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941556515",
+  "build_id": "15941556515",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/slinkyproject/slurm-exporter/slurm-exporter?tag=HEAD-867f796-250627T135812-aarch64-Linux&download=slurm-exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/slinkyproject/slurm-exporter/slurm-exporter?tag=HEAD-867f796-250627T135812-aarch64-Linux&download=slurm-exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/slinkyproject/slurm-exporter/slurm-exporter:HEAD-867f796-250627T135812-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/slinkyproject/slurm-exporter/slurm-exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/slinkyproject/slurm-exporter/slurm-exporter?tag=HEAD-867f796-250627T135812-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ba3e0670aa72ad0bef107137b4baba1fcfd50821b518eb3dddead053dfe36acb",
+  "size": "43 MB",
+  "size_raw": "44726080",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
