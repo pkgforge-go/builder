@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "testparser",
+  "pkg_family": "gpython",
+  "pkg_id": "testparser#github.com_go_python_gpython",
+  "pkg_name": "testparser",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/go-python/gpython",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "gpython is a python interpreter written in go _batteries not included_",
+  "homepage": [
+    "https://github.com/go-python/gpython"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "embedding",
+    "gpython",
+    "multi-context",
+    "testparser"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/go-python/gpython/archive/53b7b8e01d998914a7f4179e3e051274f94b8990.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "interpreter",
+    "python",
+    "python3"
+  ],
+  "version": "HEAD-53b7b8e-250628T110818",
+  "version_upstream": "",
+  "bsum": "6e207582b90a214cc7d444e59e90002b4f8bb865df81f691d32e43119843b4e0",
+  "build_date": "2025-06-28T16:09:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15945734340",
+  "build_id": "15945734340",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-python/gpython/testparser?tag=HEAD-53b7b8e-250628T110818-loongarch64-Linux&download=testparser.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "945",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-python/gpython/testparser?tag=HEAD-53b7b8e-250628T110818-loongarch64-Linux&download=testparser",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go-python/gpython/testparser:HEAD-53b7b8e-250628T110818-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go-python/gpython/testparser",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-python/gpython/testparser?tag=HEAD-53b7b8e-250628T110818-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c7d3f11aba576a6f07777f0854f7f65640d66f080e33f0ff281f30915051bd45",
+  "size": "4.6 MB",
+  "size_raw": "4780120",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
