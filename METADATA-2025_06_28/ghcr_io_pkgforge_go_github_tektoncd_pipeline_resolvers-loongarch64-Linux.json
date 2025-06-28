@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "resolvers",
+  "pkg_family": "pipeline",
+  "pkg_id": "resolvers#github.com_tektoncd_pipeline",
+  "pkg_name": "resolvers",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tektoncd/pipeline",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A cloud-native Pipeline resource.",
+  "homepage": [
+    "https://github.com/tektoncd/pipeline"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "demoresolver",
+    "entrypoint",
+    "events",
+    "gohelloworld",
+    "nop",
+    "resolver",
+    "resolvers",
+    "sidecarlogresults",
+    "spec-gen",
+    "webhook",
+    "workingdirinit"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tektoncd/pipeline/archive/fa2dc2924ac1e36f4aab1b48c5d8e38a5f3fcdd8.tar.gz"
+  ],
+  "tag": [
+    "cdf",
+    "hacktoberfest",
+    "kubernetes",
+    "pipeline",
+    "tekton"
+  ],
+  "version": "HEAD-fa2dc29-250627T181955",
+  "version_upstream": "",
+  "bsum": "4e6f20654d46db542213e705870ef1b64a08e4bae98e01ec2f8d721405eb63e1",
+  "build_date": "2025-06-28T12:29:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15943005005",
+  "build_id": "15943005005",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tektoncd/pipeline/resolvers?tag=HEAD-fa2dc29-250627T181955-loongarch64-Linux&download=resolvers.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8688",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tektoncd/pipeline/resolvers?tag=HEAD-fa2dc29-250627T181955-loongarch64-Linux&download=resolvers",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tektoncd/pipeline/resolvers:HEAD-fa2dc29-250627T181955-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tektoncd/pipeline/resolvers",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tektoncd/pipeline/resolvers?tag=HEAD-fa2dc29-250627T181955-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0980a5b5a3b4d0a6e427265a79fb0c9bb3a3c6b383e97e5ea6d62da2c44d38cd",
+  "size": "71 MB",
+  "size_raw": "73855360",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-87e29d8-250623T150154-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}

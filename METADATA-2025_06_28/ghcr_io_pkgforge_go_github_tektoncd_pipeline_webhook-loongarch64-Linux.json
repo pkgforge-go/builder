@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "webhook",
+  "pkg_family": "pipeline",
+  "pkg_id": "webhook#github.com_tektoncd_pipeline",
+  "pkg_name": "webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tektoncd/pipeline",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A cloud-native Pipeline resource.",
+  "homepage": [
+    "https://github.com/tektoncd/pipeline"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "demoresolver",
+    "entrypoint",
+    "events",
+    "gohelloworld",
+    "nop",
+    "resolver",
+    "resolvers",
+    "sidecarlogresults",
+    "spec-gen",
+    "webhook",
+    "workingdirinit"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tektoncd/pipeline/archive/fa2dc2924ac1e36f4aab1b48c5d8e38a5f3fcdd8.tar.gz"
+  ],
+  "tag": [
+    "cdf",
+    "hacktoberfest",
+    "kubernetes",
+    "pipeline",
+    "tekton"
+  ],
+  "version": "HEAD-fa2dc29-250627T181955",
+  "version_upstream": "",
+  "bsum": "eb9dc12c5c995f3caca79998c5595cd827f5cdaae122ed8b9b078a40560443ab",
+  "build_date": "2025-06-28T12:30:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15943005005",
+  "build_id": "15943005005",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tektoncd/pipeline/webhook?tag=HEAD-fa2dc29-250627T181955-loongarch64-Linux&download=webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8688",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tektoncd/pipeline/webhook?tag=HEAD-fa2dc29-250627T181955-loongarch64-Linux&download=webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tektoncd/pipeline/webhook:HEAD-fa2dc29-250627T181955-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tektoncd/pipeline/webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tektoncd/pipeline/webhook?tag=HEAD-fa2dc29-250627T181955-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "832493bbb15b5b3e5d82d371250701a590da703d0226125d4e327ae39fe0a002",
+  "size": "62 MB",
+  "size_raw": "64523296",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-87e29d8-250623T150154-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
