@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "decode_html",
+  "pkg_family": "chathooks",
+  "pkg_id": "decode_html#github.com_grokify_chathooks",
+  "pkg_name": "decode_html",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grokify/chathooks",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Service to convert webhook messages to your favorite chat / team messaging format. Run transparently as a formatting webhook proxy.",
+  "homepage": [
+    "https://github.com/grokify/chathooks"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build_hook_url",
+    "chathooks",
+    "decode_html",
+    "local_send",
+    "proxy_send"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grokify/chathooks/archive/577edce89e914d18de6bbc01d20b7df18ee01352.tar.gz"
+  ],
+  "tag": [
+    "glip",
+    "glip-webhook",
+    "go",
+    "golang",
+    "slack",
+    "slack-webhook",
+    "webhook"
+  ],
+  "version": "HEAD-577edce-250628T044440",
+  "version_upstream": "",
+  "bsum": "1545113c6703ed5e617bea5fa2e390f87e6d75f34b06aed4b794df9773fdbed6",
+  "build_date": "2025-06-28T16:10:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15945734686",
+  "build_id": "15945734686",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grokify/chathooks/decode_html?tag=HEAD-577edce-250628T044440-riscv64-Linux&download=decode_html.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "42",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grokify/chathooks/decode_html?tag=HEAD-577edce-250628T044440-riscv64-Linux&download=decode_html",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grokify/chathooks/decode_html:HEAD-577edce-250628T044440-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grokify/chathooks/decode_html",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grokify/chathooks/decode_html?tag=HEAD-577edce-250628T044440-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0fba761ef59c5ed4988286b8e73257286cc84aa613eca75d1de490464a101dfc",
+  "size": "5.2 MB",
+  "size_raw": "5404216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
