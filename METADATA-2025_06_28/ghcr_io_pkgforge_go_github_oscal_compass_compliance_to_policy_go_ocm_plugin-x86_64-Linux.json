@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "ocm-plugin",
+  "pkg_family": "compliance-to-policy-go",
+  "pkg_id": "ocm-plugin#github.com_oscal_compass_compliance_to_policy_go",
+  "pkg_name": "ocm-plugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/oscal-compass/compliance-to-policy-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Compliance-to-Policy _C2P_ provides the framework to bridge the gap between compliance and policy administration in Go.",
+  "homepage": [
+    "https://github.com/oscal-compass/compliance-to-policy-go"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "c2pcli",
+    "decompose",
+    "kyverno-plugin",
+    "ocm-plugin",
+    "parse",
+    "parse-single",
+    "viewer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/oscal-compass/compliance-to-policy-go/archive/4056c12d96994eb488ac3eea36950fc6736ccb89.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4056c12-250627T183623",
+  "version_upstream": "",
+  "bsum": "720984ef7c3f21a10627f8a898975169170268d7a018943013ec48c516603b6c",
+  "build_date": "2025-06-28T08:30:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941921966",
+  "build_id": "15941921966",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/oscal-compass/compliance-to-policy-go/ocm-plugin?tag=HEAD-4056c12-250627T183623-x86_64-Linux&download=ocm-plugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "20",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/oscal-compass/compliance-to-policy-go/ocm-plugin?tag=HEAD-4056c12-250627T183623-x86_64-Linux&download=ocm-plugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/oscal-compass/compliance-to-policy-go/ocm-plugin:HEAD-4056c12-250627T183623-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/oscal-compass/compliance-to-policy-go/ocm-plugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/oscal-compass/compliance-to-policy-go/ocm-plugin?tag=HEAD-4056c12-250627T183623-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "16e53753151bbaf14839796a6c24e375d34c3fa26d481fd318d3ded67f0e8e1d",
+  "size": "40 MB",
+  "size_raw": "41889400",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
