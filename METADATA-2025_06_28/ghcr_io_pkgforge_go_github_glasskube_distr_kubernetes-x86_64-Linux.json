@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "kubernetes",
+  "pkg_family": "distr",
+  "pkg_id": "kubernetes#github.com_glasskube_distr",
+  "pkg_name": "kubernetes",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/glasskube/distr",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Open Source control plane for self-managed, BYOC, and on-prem deployments. Everything you need to distribute applications to self-managed customers out of the box.",
+  "homepage": [
+    "https://github.com/glasskube/distr"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docker",
+    "hub",
+    "kubernetes",
+    "mcp",
+    "status"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/glasskube/distr/archive/4332cf40dab65534d02ab9a3ff9b6300cb53e16f.tar.gz"
+  ],
+  "tag": [
+    "angular",
+    "cloud",
+    "distr",
+    "docker-compose",
+    "glasskube",
+    "go",
+    "golang",
+    "kubernetes",
+    "on-prem",
+    "on-premises",
+    "software-distribution"
+  ],
+  "version": "HEAD-4332cf4-250628T020109",
+  "version_upstream": "",
+  "bsum": "a7ff95d686e4d5ea8edfe3a695dbe90a6394559eed921a9a04f0cbc5f0853269",
+  "build_date": "2025-06-28T13:47:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15944449357",
+  "build_id": "15944449357",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glasskube/distr/kubernetes?tag=HEAD-4332cf4-250628T020109-x86_64-Linux&download=kubernetes.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "617",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glasskube/distr/kubernetes?tag=HEAD-4332cf4-250628T020109-x86_64-Linux&download=kubernetes",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/glasskube/distr/kubernetes:HEAD-4332cf4-250628T020109-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/glasskube/distr/kubernetes",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glasskube/distr/kubernetes?tag=HEAD-4332cf4-250628T020109-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ad1d67b50d608246ee61171ae3daf79e68d439340ca87357739861b75c880d90",
+  "size": "80 MB",
+  "size_raw": "83573600",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-bc799ba-250620T030952-x86_64-Linux",
+    "HEAD-9c50879-250621T143122-x86_64-Linux",
+    "HEAD-40b40e4-250625T025720-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
