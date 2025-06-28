@@ -1,0 +1,88 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "enricher",
+  "pkg_family": "retina",
+  "pkg_id": "enricher#github.com_microsoft_retina",
+  "pkg_name": "enricher",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/microsoft/retina",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "eBPF distributed networking observability tool for Kubernetes",
+  "homepage": [
+    "https://github.com/microsoft/retina"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apiserver",
+    "captureworkload",
+    "controller",
+    "dns",
+    "dropreason",
+    "enricher",
+    "filtermanager",
+    "infiniband",
+    "linuxutil",
+    "operator",
+    "packetforward",
+    "packetparser",
+    "retina",
+    "retina-cli",
+    "utsummary",
+    "veth"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/microsoft/retina/archive/94c832688f7d660d67336c9d59a97ac6f5abe560.tar.gz"
+  ],
+  "tag": [
+    "ebpf",
+    "kubernetes",
+    "networking",
+    "observability"
+  ],
+  "version": "HEAD-94c8326-250627T235553",
+  "version_upstream": "",
+  "bsum": "ee74ca73768c705cd019981705f5387285ee2065a6eaa9d7c544c0f4571d12ea",
+  "build_date": "2025-06-28T11:39:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942949667",
+  "build_id": "15942949667",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/retina/enricher?tag=HEAD-94c8326-250627T235553-x86_64-Linux&download=enricher.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2984",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/retina/enricher?tag=HEAD-94c8326-250627T235553-x86_64-Linux&download=enricher",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/microsoft/retina/enricher:HEAD-94c8326-250627T235553-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/microsoft/retina/enricher",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/microsoft/retina/enricher?tag=HEAD-94c8326-250627T235553-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c7bc75e24e24432744f855cd4100b1af5ffc7584bf87e9a1bb54b8b7e5795121",
+  "size": "44 MB",
+  "size_raw": "45358368",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-586a3a6-250619T115102-x86_64-Linux",
+    "HEAD-bdd0b28-250623T090413-x86_64-Linux",
+    "HEAD-51ac044-250624T074805-x86_64-Linux[v0.0.35]",
+    "HEAD-192ddfb-250625T132826-x86_64-Linux",
+    "HEAD-70562b3-250626T204737-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
