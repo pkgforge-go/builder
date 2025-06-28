@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "agentbaker",
+  "pkg_family": "AgentBaker",
+  "pkg_id": "agentbaker#github.com_Azure_AgentBaker",
+  "pkg_name": "agentbaker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Azure/AgentBaker",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Agent Baker is aiming to provide a centralized, portable k8s agent node provisioning lib as well as rich support on different OS image with optimized k8s binaries.",
+  "homepage": [
+    "https://github.com/Azure/AgentBaker"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agentbaker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Azure/AgentBaker/archive/eedb525a7ea8af5aa4cc0a417ec6553df3fa1774.tar.gz"
+  ],
+  "tag": [
+    "agent",
+    "cloud-init",
+    "k8s",
+    "os",
+    "vhd"
+  ],
+  "version": "HEAD-eedb525-250627T145404",
+  "version_upstream": "",
+  "bsum": "ce6af6efafae677da1b41d7f529a88e0e963b51054d5558c622a0f3279112a36",
+  "build_date": "2025-06-28T09:53:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942890906",
+  "build_id": "15942890906",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/agentbaker/agentbaker?tag=HEAD-eedb525-250627T145404-aarch64-Linux&download=agentbaker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "122",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/agentbaker/agentbaker?tag=HEAD-eedb525-250627T145404-aarch64-Linux&download=agentbaker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azure/agentbaker/agentbaker:HEAD-eedb525-250627T145404-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azure/agentbaker/agentbaker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/agentbaker/agentbaker?tag=HEAD-eedb525-250627T145404-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cf32ab7be0ad1d7eecd61e1797b68a6b85b86d28534ac2970a025e53970274a6",
+  "size": "9.6 MB",
+  "size_raw": "10058560",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a0f27c4-250618T182413-aarch64-Linux",
+    "HEAD-8c18f3e-250621T032602-aarch64-Linux",
+    "HEAD-673e7b6-250624T022614-aarch64-Linux",
+    "HEAD-77ce46c-250624T132831-aarch64-Linux",
+    "HEAD-2a7bf73-250625T164423-aarch64-Linux",
+    "HEAD-1093754-250626T170301-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
