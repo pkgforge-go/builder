@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "web",
+  "pkg_family": "pico",
+  "pkg_id": "web#github.com_picosh_pico",
+  "pkg_name": "web",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/picosh/pico",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The ultimate ssh powered services for developers",
+  "homepage": [
+    "https://github.com/picosh/pico"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "analytics",
+    "clean-analytics",
+    "dates",
+    "fetch",
+    "file-size-sync",
+    "migrate",
+    "pico-plus",
+    "secret",
+    "shasum",
+    "ssh",
+    "tags",
+    "web"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/picosh/pico/archive/59c9f21bfb9a92b5a72410b0173396ec911ee813.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-59c9f21-250628T092302",
+  "version_upstream": "",
+  "bsum": "a2d6461f8874c2d9e4d3e422336d7b80dc85a41b39f1cf35d46e12516ec52cb9",
+  "build_date": "2025-06-28T20:32:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15947264300",
+  "build_id": "15947264300",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/picosh/pico/web?tag=HEAD-59c9f21-250628T092302-aarch64-Linux&download=web.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1157",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/picosh/pico/web?tag=HEAD-59c9f21-250628T092302-aarch64-Linux&download=web",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/picosh/pico/web:HEAD-59c9f21-250628T092302-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/picosh/pico/web",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/picosh/pico/web?tag=HEAD-59c9f21-250628T092302-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a414745b802254df9f462f9c0285c1bd4baf5f33fbc5c88dbfdff8ecb718621e",
+  "size": "28 MB",
+  "size_raw": "28961312",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-cda5bd5-250620T145712-aarch64-Linux",
+    "HEAD-e28e5d4-250622T145304-aarch64-Linux",
+    "HEAD-acf40b6-250623T092946-aarch64-Linux",
+    "HEAD-6154c70-250624T101915-aarch64-Linux",
+    "HEAD-5c058db-250626T233057-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
