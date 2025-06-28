@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "docs",
+  "pkg_family": "xmtpd",
+  "pkg_id": "docs#github.com_xmtp_xmtpd",
+  "pkg_name": "docs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/xmtp/xmtpd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "XMTP node implementation.",
+  "homepage": [
+    "https://github.com/xmtp/xmtpd"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "docs",
+    "prune",
+    "replication",
+    "xmtpd-cli"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/xmtp/xmtpd/archive/8cbc172ac49e75749b19ecee157e45802e349eb6.tar.gz"
+  ],
+  "tag": [
+    "messaging",
+    "web3"
+  ],
+  "version": "HEAD-8cbc172-250627T190536",
+  "version_upstream": "",
+  "bsum": "291acce4c288f118f3b216ec1795fa11226d3571fc0b11bec31e7ecbcb779d7f",
+  "build_date": "2025-06-28T12:32:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15943012308",
+  "build_id": "15943012308",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xmtp/xmtpd/docs?tag=HEAD-8cbc172-250627T190536-x86_64-Linux&download=docs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "34",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xmtp/xmtpd/docs?tag=HEAD-8cbc172-250627T190536-x86_64-Linux&download=docs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xmtp/xmtpd/docs:HEAD-8cbc172-250627T190536-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xmtp/xmtpd/docs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xmtp/xmtpd/docs?tag=HEAD-8cbc172-250627T190536-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3b502d0d955183a77d663efd5666a2b38d74f7d810ee83ab19cb81b839914769",
+  "size": "2.2 MB",
+  "size_raw": "2288856",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-89aab20-250623T114123-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
