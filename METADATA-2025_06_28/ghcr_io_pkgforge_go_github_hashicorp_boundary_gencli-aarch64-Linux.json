@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "gencli",
+  "pkg_family": "boundary",
+  "pkg_id": "gencli#github.com_hashicorp_boundary",
+  "pkg_name": "gencli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/boundary",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Boundary enables identity-based access management for dynamic infrastructure.",
+  "homepage": [
+    "https://github.com/hashicorp/boundary"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "boundary",
+    "genapi",
+    "gencli",
+    "permstable",
+    "remove-gotags-comments"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/hashicorp/boundary/archive/c0aa1fbc7e58b87974862d5ea8c58ea2b5c85445.tar.gz"
+  ],
+  "tag": [
+    "hacktoberfest",
+    "hashicorp",
+    "security",
+    "zero-trust"
+  ],
+  "version": "HEAD-c0aa1fb-250627T134208",
+  "version_upstream": "",
+  "bsum": "708e2fd87ca34e0f65aea15c7242d61df702ce70f87b32daa6dcefba2bb2bf00",
+  "build_date": "2025-06-28T10:59:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942930390",
+  "build_id": "15942930390",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/boundary/gencli?tag=HEAD-c0aa1fb-250627T134208-aarch64-Linux&download=gencli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3929",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/boundary/gencli?tag=HEAD-c0aa1fb-250627T134208-aarch64-Linux&download=gencli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/boundary/gencli:HEAD-c0aa1fb-250627T134208-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/boundary/gencli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/boundary/gencli?tag=HEAD-c0aa1fb-250627T134208-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "feaf473096572ced0a1c8aa2eaaf05c4f5471b6a351ebcd28d047dac75cef884",
+  "size": "2.9 MB",
+  "size_raw": "2966488",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-1f64c12-250619T165146-aarch64-Linux",
+    "HEAD-ee26fef-250623T140333-aarch64-Linux",
+    "HEAD-ababe65-250625T113450-aarch64-Linux",
+    "HEAD-9cc0342-250626T143557-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
