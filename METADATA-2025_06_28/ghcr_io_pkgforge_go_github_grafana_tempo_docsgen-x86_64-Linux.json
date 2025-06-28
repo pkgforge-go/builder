@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "docsgen",
+  "pkg_family": "tempo",
+  "pkg_id": "docsgen#github.com_grafana_tempo",
+  "pkg_name": "docsgen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/tempo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Grafana Tempo is a high volume, minimal dependency distributed tracing backend.",
+  "homepage": [
+    "https://github.com/grafana/tempo"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docsgen",
+    "parquetquerygen",
+    "tempo",
+    "tempo-cli",
+    "tempo-query",
+    "tempo-vulture"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grafana/tempo/archive/7e9cae28233a37e895bf81b155c351949f2f76c3.tar.gz"
+  ],
+  "tag": [
+    "distributed-tracing",
+    "grafana"
+  ],
+  "version": "HEAD-7e9cae2-250627T214216",
+  "version_upstream": "",
+  "bsum": "1cbbcac7013ce782fe30917e420719852738c3cf5b5280f9b44ae0bd3baa0055",
+  "build_date": "2025-06-28T13:56:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15944462134",
+  "build_id": "15944462134",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/tempo/docsgen?tag=HEAD-7e9cae2-250627T214216-x86_64-Linux&download=docsgen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4566",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/tempo/docsgen?tag=HEAD-7e9cae2-250627T214216-x86_64-Linux&download=docsgen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grafana/tempo/docsgen:HEAD-7e9cae2-250627T214216-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grafana/tempo/docsgen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grafana/tempo/docsgen?tag=HEAD-7e9cae2-250627T214216-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3e633c4b18274199672c7a670db69f4992f79a8e8ce9020ed16e76dadf9b2659",
+  "size": "67 MB",
+  "size_raw": "69289008",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-bec9da5-250620T143114-x86_64-Linux",
+    "HEAD-7853a76-250624T093016-x86_64-Linux",
+    "HEAD-f7ecf8c-250625T114448-x86_64-Linux",
+    "HEAD-c3def8f-250626T201029-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
