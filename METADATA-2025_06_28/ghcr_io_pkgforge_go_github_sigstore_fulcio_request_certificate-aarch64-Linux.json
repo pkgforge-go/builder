@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "request-certificate",
+  "pkg_family": "fulcio",
+  "pkg_id": "request-certificate#github.com_sigstore_fulcio",
+  "pkg_name": "request-certificate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sigstore/fulcio",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Sigstore OIDC PKI",
+  "homepage": [
+    "https://github.com/sigstore/fulcio"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "certificate_maker",
+    "create_tink_keyset",
+    "fetch_ca_cert",
+    "fulcio",
+    "prometheus",
+    "request-certificate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sigstore/fulcio/archive/6fd24204c2147ab590936f66e04784efb961050a.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-6fd2420-250627T211750",
+  "version_upstream": "",
+  "bsum": "278b0fccc6af76200955d632f4b9d5857e384d1753c6f1f8fbb9ea7159bceab4",
+  "build_date": "2025-06-28T12:06:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942984197",
+  "build_id": "15942984197",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/fulcio/request-certificate?tag=HEAD-6fd2420-250627T211750-aarch64-Linux&download=request-certificate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "731",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/fulcio/request-certificate?tag=HEAD-6fd2420-250627T211750-aarch64-Linux&download=request-certificate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sigstore/fulcio/request-certificate:HEAD-6fd2420-250627T211750-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sigstore/fulcio/request-certificate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/fulcio/request-certificate?tag=HEAD-6fd2420-250627T211750-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0f9a4204ead4ec861b0b0485a2af9ee403598706a41c9336f96a31901671074a",
+  "size": "15 MB",
+  "size_raw": "14772544",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-4c29d1a-250623T115434-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
