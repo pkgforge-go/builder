@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "controller",
+  "pkg_family": "multicloud-operators-foundation",
+  "pkg_id": "controller#github.com_stolostron_multicloud_operators_foundation",
+  "pkg_name": "controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/stolostron/multicloud-operators-foundation",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/stolostron/multicloud-operators-foundation"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "controller",
+    "proxyserver",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/stolostron/multicloud-operators-foundation/archive/99f018ef3e54b7e33a32d81ec998f4abd628aecd.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-99f018e-250627T215300",
+  "version_upstream": "",
+  "bsum": "0a3f1f96ae124683361e17ab9bcaa5c795cc0e78d7a53082fd0f1c71f31294d2",
+  "build_date": "2025-06-28T08:54:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942012482",
+  "build_id": "15942012482",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stolostron/multicloud-operators-foundation/controller?tag=HEAD-99f018e-250627T215300-riscv64-Linux&download=controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "55",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stolostron/multicloud-operators-foundation/controller?tag=HEAD-99f018e-250627T215300-riscv64-Linux&download=controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/stolostron/multicloud-operators-foundation/controller:HEAD-99f018e-250627T215300-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/stolostron/multicloud-operators-foundation/controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stolostron/multicloud-operators-foundation/controller?tag=HEAD-99f018e-250627T215300-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0e66693a6c6a69d8c8f6c324e2c110b3062dafe2816d2a3e60f96db487bacd0c",
+  "size": "59 MB",
+  "size_raw": "61725176",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
