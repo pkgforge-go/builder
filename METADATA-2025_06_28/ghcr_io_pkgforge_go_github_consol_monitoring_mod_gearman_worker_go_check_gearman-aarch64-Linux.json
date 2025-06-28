@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "check_gearman",
+  "pkg_family": "mod-gearman-worker-go",
+  "pkg_id": "check_gearman#github.com_ConSol_Monitoring_mod_gearman_worker_go",
+  "pkg_name": "check_gearman",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ConSol-Monitoring/mod-gearman-worker-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Mod-Gearman Worker rewrite in Golang",
+  "homepage": [
+    "https://github.com/ConSol-Monitoring/mod-gearman-worker-go"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check_gearman",
+    "gearman_top",
+    "mod_gearman_worker",
+    "send_gearman"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ConSol-Monitoring/mod-gearman-worker-go/archive/9b96e6ddebefc48a7d14f10f209fb402d7e3b3bd.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-9b96e6d-250628T092822",
+  "version_upstream": "",
+  "bsum": "b08c0189ed8dcdfd0fcfd78fd4db2fbb15aad2e3fa707ea1f325f9b1c37ba198",
+  "build_date": "2025-06-28T15:50:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15945702443",
+  "build_id": "15945702443",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/consol-monitoring/mod-gearman-worker-go/check_gearman?tag=HEAD-9b96e6d-250628T092822-aarch64-Linux&download=check_gearman.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/consol-monitoring/mod-gearman-worker-go/check_gearman?tag=HEAD-9b96e6d-250628T092822-aarch64-Linux&download=check_gearman",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/consol-monitoring/mod-gearman-worker-go/check_gearman:HEAD-9b96e6d-250628T092822-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/consol-monitoring/mod-gearman-worker-go/check_gearman",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/consol-monitoring/mod-gearman-worker-go/check_gearman?tag=HEAD-9b96e6d-250628T092822-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6ab7989821d047dc1c8f7cc33f6697a747925bbf12e10221b604c86d83252764",
+  "size": "7.3 MB",
+  "size_raw": "7580256",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
