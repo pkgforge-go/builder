@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "seed-db",
+  "pkg_family": "aggregator",
+  "pkg_id": "seed-db#github.com_paycrest_aggregator",
+  "pkg_name": "seed-db",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/paycrest/aggregator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An aggregator handles the allocation, matching, and settlement of payment intents for the Paycrest protocol",
+  "homepage": [
+    "https://github.com/paycrest/aggregator"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aggregator",
+    "seed-db"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/paycrest/aggregator/archive/926dd78e7afbbb2e59f6debff0566b5ccbd615fc.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-926dd78-250628T121714",
+  "version_upstream": "",
+  "bsum": "adf9fc86c32362e9fc4aa09ffa41e684e44c8522dbf7e3f2284c3a5c2b69edc0",
+  "build_date": "2025-06-28T20:20:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15947259803",
+  "build_id": "15947259803",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paycrest/aggregator/seed-db?tag=HEAD-926dd78-250628T121714-riscv64-Linux&download=seed-db.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paycrest/aggregator/seed-db?tag=HEAD-926dd78-250628T121714-riscv64-Linux&download=seed-db",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/paycrest/aggregator/seed-db:HEAD-926dd78-250628T121714-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/paycrest/aggregator/seed-db",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paycrest/aggregator/seed-db?tag=HEAD-926dd78-250628T121714-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "76b6bec41e0d068db744e7e6dda28a677c64041f4d3517853da78e1f081cfd32",
+  "size": "37 MB",
+  "size_raw": "38634520",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-20793d1-250625T022603-riscv64-Linux",
+    "HEAD-24aac8b-250627T021046-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
