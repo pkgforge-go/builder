@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "parse-single",
+  "pkg_family": "compliance-to-policy-go",
+  "pkg_id": "parse-single#github.com_oscal_compass_compliance_to_policy_go",
+  "pkg_name": "parse-single",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/oscal-compass/compliance-to-policy-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Compliance-to-Policy _C2P_ provides the framework to bridge the gap between compliance and policy administration in Go.",
+  "homepage": [
+    "https://github.com/oscal-compass/compliance-to-policy-go"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "c2pcli",
+    "decompose",
+    "kyverno-plugin",
+    "ocm-plugin",
+    "parse",
+    "parse-single",
+    "viewer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/oscal-compass/compliance-to-policy-go/archive/4056c12d96994eb488ac3eea36950fc6736ccb89.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4056c12-250627T183623",
+  "version_upstream": "",
+  "bsum": "4e385ea4c1230e246b25db22f97d8cf1b47f9099a74569295d63fddcd9407169",
+  "build_date": "2025-06-28T08:30:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941921966",
+  "build_id": "15941921966",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/oscal-compass/compliance-to-policy-go/parse-single?tag=HEAD-4056c12-250627T183623-riscv64-Linux&download=parse-single.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "20",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/oscal-compass/compliance-to-policy-go/parse-single?tag=HEAD-4056c12-250627T183623-riscv64-Linux&download=parse-single",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/oscal-compass/compliance-to-policy-go/parse-single:HEAD-4056c12-250627T183623-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/oscal-compass/compliance-to-policy-go/parse-single",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/oscal-compass/compliance-to-policy-go/parse-single?tag=HEAD-4056c12-250627T183623-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dea1b4b9de645d713c7a5e2056994bd647c3a769ea8b2d3deb04c4e1c76fe698",
+  "size": "33 MB",
+  "size_raw": "34180248",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

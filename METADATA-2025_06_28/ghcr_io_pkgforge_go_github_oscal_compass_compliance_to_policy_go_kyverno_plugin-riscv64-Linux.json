@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "kyverno-plugin",
+  "pkg_family": "compliance-to-policy-go",
+  "pkg_id": "kyverno-plugin#github.com_oscal_compass_compliance_to_policy_go",
+  "pkg_name": "kyverno-plugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/oscal-compass/compliance-to-policy-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Compliance-to-Policy _C2P_ provides the framework to bridge the gap between compliance and policy administration in Go.",
+  "homepage": [
+    "https://github.com/oscal-compass/compliance-to-policy-go"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "c2pcli",
+    "decompose",
+    "kyverno-plugin",
+    "ocm-plugin",
+    "parse",
+    "parse-single",
+    "viewer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/oscal-compass/compliance-to-policy-go/archive/4056c12d96994eb488ac3eea36950fc6736ccb89.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4056c12-250627T183623",
+  "version_upstream": "",
+  "bsum": "a97659c2d3f7c409c46cd0fe84be024b0d8982cc5c5c7f3f89ead5fcbb23d02f",
+  "build_date": "2025-06-28T08:30:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941921966",
+  "build_id": "15941921966",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/oscal-compass/compliance-to-policy-go/kyverno-plugin?tag=HEAD-4056c12-250627T183623-riscv64-Linux&download=kyverno-plugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "20",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/oscal-compass/compliance-to-policy-go/kyverno-plugin?tag=HEAD-4056c12-250627T183623-riscv64-Linux&download=kyverno-plugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/oscal-compass/compliance-to-policy-go/kyverno-plugin:HEAD-4056c12-250627T183623-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/oscal-compass/compliance-to-policy-go/kyverno-plugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/oscal-compass/compliance-to-policy-go/kyverno-plugin?tag=HEAD-4056c12-250627T183623-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "908cdac3587d3a2f85b1bac2078f14a8a13688d4bd9b4a8c9e86f7127c5a7152",
+  "size": "73 MB",
+  "size_raw": "76082392",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
