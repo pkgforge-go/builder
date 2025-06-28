@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "createctconfig",
+  "pkg_family": "scaffolding",
+  "pkg_id": "createctconfig#github.com_sigstore_scaffolding",
+  "pkg_name": "createctconfig",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sigstore/scaffolding",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Stuff to make standing up sigstore _esp. for testing_ easier for e2e/integration testing.",
+  "homepage": [
+    "https://github.com/sigstore/scaffolding"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cloudsqlproxy",
+    "createcertchain",
+    "createcerts",
+    "createctconfig",
+    "createdb",
+    "createsecret",
+    "createtree",
+    "getoidctoken",
+    "managectroots",
+    "prober",
+    "rekor-createsecret",
+    "server",
+    "updatetree",
+    "verifyfulcio"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sigstore/scaffolding/archive/612a3177eda0b0de48142b6ddb15a9f6ca1785a8.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-612a317-250627T212218",
+  "version_upstream": "",
+  "bsum": "f5b358c09d032a3472e424be3f5d3b0cf10a453d1dda33b83b1b3f78843abd4a",
+  "build_date": "2025-06-28T12:15:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942985505",
+  "build_id": "15942985505",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/scaffolding/createctconfig?tag=HEAD-612a317-250627T212218-aarch64-Linux&download=createctconfig.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "66",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/scaffolding/createctconfig?tag=HEAD-612a317-250627T212218-aarch64-Linux&download=createctconfig",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sigstore/scaffolding/createctconfig:HEAD-612a317-250627T212218-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sigstore/scaffolding/createctconfig",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/scaffolding/createctconfig?tag=HEAD-612a317-250627T212218-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3fc5ff26a3678f4278f06759d17266e391899aa6f9abb3a8e4a4084085d5d790",
+  "size": "38 MB",
+  "size_raw": "39552416",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-819d566-250623T154043-aarch64-Linux[v0.7.24]"
+  ],
+  "trusted": "true"
+}
