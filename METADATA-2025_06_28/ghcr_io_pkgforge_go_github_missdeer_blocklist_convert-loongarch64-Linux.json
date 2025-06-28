@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "convert",
+  "pkg_family": "blocklist",
+  "pkg_id": "convert#github.com_missdeer_blocklist",
+  "pkg_name": "convert",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/missdeer/blocklist",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A big domain block list - 200000+ lines",
+  "homepage": [
+    "https://github.com/missdeer/blocklist"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "blocklist",
+    "convert"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/missdeer/blocklist/archive/63ae97a48bfdb17d6d457556df19649bd0376999.tar.gz"
+  ],
+  "tag": [
+    "blacklist",
+    "domain-name"
+  ],
+  "version": "HEAD-63ae97a-250628T043527",
+  "version_upstream": "",
+  "bsum": "d9818a45744b990bd2e9f906aa647e5867578242cb68e3af1a438d1859a409d4",
+  "build_date": "2025-06-28T20:03:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15947219469",
+  "build_id": "15947219469",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/missdeer/blocklist/convert?tag=HEAD-63ae97a-250628T043527-loongarch64-Linux&download=convert.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "58",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/missdeer/blocklist/convert?tag=HEAD-63ae97a-250628T043527-loongarch64-Linux&download=convert",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/missdeer/blocklist/convert:HEAD-63ae97a-250628T043527-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/missdeer/blocklist/convert",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/missdeer/blocklist/convert?tag=HEAD-63ae97a-250628T043527-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "22031f37185db5099532b31968da8a08d7eb3b1449a9b05119a676a02a81202f",
+  "size": "6.1 MB",
+  "size_raw": "6330080",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-99f92da-250621T043357-loongarch64-Linux",
+    "HEAD-346c54c-250622T043834-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
