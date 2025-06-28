@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "createdb",
+  "pkg_family": "scaffolding",
+  "pkg_id": "createdb#github.com_sigstore_scaffolding",
+  "pkg_name": "createdb",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sigstore/scaffolding",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Stuff to make standing up sigstore _esp. for testing_ easier for e2e/integration testing.",
+  "homepage": [
+    "https://github.com/sigstore/scaffolding"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cloudsqlproxy",
+    "createcertchain",
+    "createcerts",
+    "createctconfig",
+    "createdb",
+    "createsecret",
+    "createtree",
+    "getoidctoken",
+    "managectroots",
+    "prober",
+    "rekor-createsecret",
+    "server",
+    "updatetree",
+    "verifyfulcio"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sigstore/scaffolding/archive/612a3177eda0b0de48142b6ddb15a9f6ca1785a8.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-612a317-250627T212218",
+  "version_upstream": "",
+  "bsum": "6a0b098248e8b0882640afe2d8e9c2c5f1e70822c9a79fa2de3fa4ca5fb4894e",
+  "build_date": "2025-06-28T12:17:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942985505",
+  "build_id": "15942985505",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/scaffolding/createdb?tag=HEAD-612a317-250627T212218-loongarch64-Linux&download=createdb.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "66",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/scaffolding/createdb?tag=HEAD-612a317-250627T212218-loongarch64-Linux&download=createdb",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sigstore/scaffolding/createdb:HEAD-612a317-250627T212218-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sigstore/scaffolding/createdb",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/scaffolding/createdb?tag=HEAD-612a317-250627T212218-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0b10a28adfc7f83d2d103a7d2096c799b519f27b991e94c03c6a363dcaa409e4",
+  "size": "10 MB",
+  "size_raw": "10478112",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-819d566-250623T154043-loongarch64-Linux[v0.7.24]"
+  ],
+  "trusted": "true"
+}
