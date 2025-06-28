@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "fastcgi",
+  "pkg_family": "boulevard",
+  "pkg_id": "fastcgi#github.com_galdor_boulevard",
+  "pkg_name": "fastcgi",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/galdor/boulevard",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A simple and powerful reverse proxy.",
+  "homepage": [
+    "https://github.com/galdor/boulevard"
+  ],
+  "license": [
+    "ISC"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "boulevard",
+    "boulevard-cli",
+    "fastcgi"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/galdor/boulevard/archive/637ff67ba7a4509e626ba9ea5d9b9eaea8186f04.tar.gz"
+  ],
+  "tag": [
+    "acme",
+    "http-server",
+    "reverse-proxy",
+    "web-server"
+  ],
+  "version": "HEAD-637ff67-250628T142514",
+  "version_upstream": "",
+  "bsum": "417dade930b601b1e75f39b9a8dcd8f2bc8e7c060ed867d356284e6cde2fb957",
+  "build_date": "2025-06-28T16:08:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15945733891",
+  "build_id": "15945733891",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/galdor/boulevard/fastcgi?tag=HEAD-637ff67-250628T142514-loongarch64-Linux&download=fastcgi.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/galdor/boulevard/fastcgi?tag=HEAD-637ff67-250628T142514-loongarch64-Linux&download=fastcgi",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/galdor/boulevard/fastcgi:HEAD-637ff67-250628T142514-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/galdor/boulevard/fastcgi",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/galdor/boulevard/fastcgi?tag=HEAD-637ff67-250628T142514-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6860dd7ac41fcbf6347dc649fd243efa66963529866f6716de951266db0b2e5e",
+  "size": "3.9 MB",
+  "size_raw": "4082784",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
