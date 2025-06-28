@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "viewer",
+  "pkg_family": "compliance-to-policy-go",
+  "pkg_id": "viewer#github.com_oscal_compass_compliance_to_policy_go",
+  "pkg_name": "viewer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/oscal-compass/compliance-to-policy-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Compliance-to-Policy _C2P_ provides the framework to bridge the gap between compliance and policy administration in Go.",
+  "homepage": [
+    "https://github.com/oscal-compass/compliance-to-policy-go"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "c2pcli",
+    "decompose",
+    "kyverno-plugin",
+    "ocm-plugin",
+    "parse",
+    "parse-single",
+    "viewer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/oscal-compass/compliance-to-policy-go/archive/4056c12d96994eb488ac3eea36950fc6736ccb89.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4056c12-250627T183623",
+  "version_upstream": "",
+  "bsum": "0446d4cc88c7b45bc98d1ca7b4da0412c3a7643d9cfa72a806f4f74ffc543db9",
+  "build_date": "2025-06-28T08:28:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941921966",
+  "build_id": "15941921966",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/oscal-compass/compliance-to-policy-go/viewer?tag=HEAD-4056c12-250627T183623-loongarch64-Linux&download=viewer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "20",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/oscal-compass/compliance-to-policy-go/viewer?tag=HEAD-4056c12-250627T183623-loongarch64-Linux&download=viewer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/oscal-compass/compliance-to-policy-go/viewer:HEAD-4056c12-250627T183623-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/oscal-compass/compliance-to-policy-go/viewer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/oscal-compass/compliance-to-policy-go/viewer?tag=HEAD-4056c12-250627T183623-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3a79ca845c233720ec6583ccc8d8ce11d6f8dd43e3ffb8977c522822d3f10248",
+  "size": "9.7 MB",
+  "size_raw": "10070752",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
