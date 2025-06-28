@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "router",
+  "pkg_family": "dots",
+  "pkg_id": "router#github.com_drn_dots",
+  "pkg_name": "router",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/drn/dots",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": ":new_moon: Obsessively curated dotfiles.",
+  "homepage": [
+    "https://github.com/drn/dots"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "battery-percent",
+    "battery-state",
+    "cpu",
+    "dots",
+    "git-ancestor",
+    "git-canonical-branch",
+    "git-canonical-path",
+    "git-canonical-remote",
+    "git-killme",
+    "git-masterme",
+    "git-rebase-master",
+    "git-reset-hard-master",
+    "gps",
+    "home-scp",
+    "ip",
+    "router",
+    "search-github",
+    "spotify",
+    "ssid",
+    "tmux-status",
+    "weather"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/drn/dots/archive/4e1e9b9597251df5da7a47b3e73dae9ef072651a.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4e1e9b9-250627T133245",
+  "version_upstream": "",
+  "bsum": "0632d64a64fd1ef0d4e663272c55f97c6fa7168b49d440894f66a8429baf12b6",
+  "build_date": "2025-06-28T07:41:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941595768",
+  "build_id": "15941595768",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drn/dots/router?tag=HEAD-4e1e9b9-250627T133245-riscv64-Linux&download=router.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "22",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drn/dots/router?tag=HEAD-4e1e9b9-250627T133245-riscv64-Linux&download=router",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/drn/dots/router:HEAD-4e1e9b9-250627T133245-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/drn/dots/router",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drn/dots/router?tag=HEAD-4e1e9b9-250627T133245-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3dfe97b7e0df343958f284aead535d0d6332797b7635a5b4f890405c7d3c84b3",
+  "size": "1.9 MB",
+  "size_raw": "1957320",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
