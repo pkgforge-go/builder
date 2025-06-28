@@ -1,0 +1,91 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "simulate-process-tpps",
+  "pkg_family": "mymove",
+  "pkg_id": "simulate-process-tpps#github.com_transcom_mymove",
+  "pkg_name": "simulate-process-tpps",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/transcom/mymove",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "MyMove Personal Property Prototype",
+  "homepage": [
+    "https://github.com/transcom/mymove"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appcontext-linter",
+    "ato-linter",
+    "big-cat",
+    "ecs-deploy",
+    "generate-deploy-notes",
+    "generate-payment-request-edi",
+    "generate-shipment-summary",
+    "generate-test-data",
+    "ghc-pricing-parser",
+    "ghc-transit-time-parser",
+    "health-checker",
+    "image-to-pdf",
+    "iws",
+    "milmove",
+    "milmove-tasks",
+    "model-vet",
+    "pptas-api-client",
+    "prime-api-client",
+    "read-alb-logs",
+    "send-to-gex",
+    "simulate-process-tpps",
+    "tls-checker",
+    "webhook-client"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/transcom/mymove/archive/b38adb0222b679e66ed27cc1a320b1ec6c291f0f.tar.gz"
+  ],
+  "tag": [
+    "code-mil"
+  ],
+  "version": "HEAD-b38adb0-250627T191410",
+  "version_upstream": "",
+  "bsum": "b4ed1df828e1b019cb1461721871173bcc0cf5bd0a7294cc7e70159e61b2feb3",
+  "build_date": "2025-06-28T12:38:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15943008503",
+  "build_id": "15943008503",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transcom/mymove/simulate-process-tpps?tag=HEAD-b38adb0-250627T191410-aarch64-Linux&download=simulate-process-tpps.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "63",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transcom/mymove/simulate-process-tpps?tag=HEAD-b38adb0-250627T191410-aarch64-Linux&download=simulate-process-tpps",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/transcom/mymove/simulate-process-tpps:HEAD-b38adb0-250627T191410-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/transcom/mymove/simulate-process-tpps",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transcom/mymove/simulate-process-tpps?tag=HEAD-b38adb0-250627T191410-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0e31cf3d2fb5b36902fa0c287b39fed73d33e197d4eeda20a7a62a4307464fc8",
+  "size": "32 MB",
+  "size_raw": "32901088",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-5c66fc5-250623T170730-aarch64-Linux",
+    "HEAD-fca2d91-250624T151221-aarch64-Linux",
+    "HEAD-89e831e-250625T144124-aarch64-Linux",
+    "HEAD-a25bfb2-250626T204022-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
