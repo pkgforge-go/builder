@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "ydls",
+  "pkg_family": "ydls",
+  "pkg_id": "ydls#github.com_wader_ydls",
+  "pkg_name": "ydls",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/wader/ydls",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "youtube-dl HTTP download and transcode service",
+  "homepage": [
+    "https://github.com/wader/ydls"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ydls"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/wader/ydls/archive/846c4cd7fa64be7c3caf7ccbedddc7fc422e20e3.tar.gz"
+  ],
+  "tag": [
+    "docker-image",
+    "ffmpeg",
+    "go",
+    "golang",
+    "http-server",
+    "id3v2",
+    "podcast",
+    "rss",
+    "transcoder",
+    "youtube-dl"
+  ],
+  "version": "HEAD-846c4cd-250627T225851",
+  "version_upstream": "",
+  "bsum": "bd589f3f06ce1001af917b8bd3862aba7a96d27cefe966faee94587434d048da",
+  "build_date": "2025-06-28T09:03:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942107526",
+  "build_id": "15942107526",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wader/ydls/ydls?tag=HEAD-846c4cd-250627T225851-x86_64-Linux&download=ydls.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "190",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wader/ydls/ydls?tag=HEAD-846c4cd-250627T225851-x86_64-Linux&download=ydls",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/wader/ydls/ydls:HEAD-846c4cd-250627T225851-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/wader/ydls/ydls",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wader/ydls/ydls?tag=HEAD-846c4cd-250627T225851-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a70046a3876ec9910639a2b44424994531afa3d5e3bb0e55d0bf5a79be38eae9",
+  "size": "9.8 MB",
+  "size_raw": "10220128",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
