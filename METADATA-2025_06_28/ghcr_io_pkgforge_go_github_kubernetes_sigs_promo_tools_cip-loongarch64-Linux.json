@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cip",
+  "pkg_family": "promo-tools",
+  "pkg_id": "cip#github.com_kubernetes_sigs_promo_tools",
+  "pkg_name": "cip",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/promo-tools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Container and file artifact promotion tooling for the Kubernetes project",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/promo-tools"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cip",
+    "cip-auditor",
+    "count-requests",
+    "kpromo",
+    "verify-gcr-quota"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/promo-tools/archive/2e9a90b8513c4fca767879a8dffbabd8d04c6ce7.tar.gz"
+  ],
+  "tag": [
+    "artifact-management",
+    "artifacts",
+    "containers",
+    "k8s-sig-release",
+    "kubernetes"
+  ],
+  "version": "HEAD-2e9a90b-250627T122829",
+  "version_upstream": "",
+  "bsum": "e5e9054a984a856ea6e877e79d2c717d22755defd8c5d56a24cd3c65e85f0652",
+  "build_date": "2025-06-28T08:04:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941680526",
+  "build_id": "15941680526",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/promo-tools/cip?tag=HEAD-2e9a90b-250627T122829-loongarch64-Linux&download=cip.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "150",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/promo-tools/cip?tag=HEAD-2e9a90b-250627T122829-loongarch64-Linux&download=cip",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/promo-tools/cip:HEAD-2e9a90b-250627T122829-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/promo-tools/cip",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/promo-tools/cip?tag=HEAD-2e9a90b-250627T122829-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3e90973367b07024ef92e17bbdcffe91ebf5951b5f36539c9c3750db31d79612",
+  "size": "17 MB",
+  "size_raw": "17065920",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

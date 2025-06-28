@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kpromo",
+  "pkg_family": "promo-tools",
+  "pkg_id": "kpromo#github.com_kubernetes_sigs_promo_tools",
+  "pkg_name": "kpromo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/promo-tools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Container and file artifact promotion tooling for the Kubernetes project",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/promo-tools"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cip",
+    "cip-auditor",
+    "count-requests",
+    "kpromo",
+    "verify-gcr-quota"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/promo-tools/archive/2e9a90b8513c4fca767879a8dffbabd8d04c6ce7.tar.gz"
+  ],
+  "tag": [
+    "artifact-management",
+    "artifacts",
+    "containers",
+    "k8s-sig-release",
+    "kubernetes"
+  ],
+  "version": "HEAD-2e9a90b-250627T122829",
+  "version_upstream": "",
+  "bsum": "bd7509d3d5e254a4ae695898832718c8f5fb8be6fcd3d903f414c4947e419449",
+  "build_date": "2025-06-28T08:05:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941680526",
+  "build_id": "15941680526",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/promo-tools/kpromo?tag=HEAD-2e9a90b-250627T122829-loongarch64-Linux&download=kpromo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "150",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/promo-tools/kpromo?tag=HEAD-2e9a90b-250627T122829-loongarch64-Linux&download=kpromo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/promo-tools/kpromo:HEAD-2e9a90b-250627T122829-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/promo-tools/kpromo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/promo-tools/kpromo?tag=HEAD-2e9a90b-250627T122829-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "85375b82414480670d84b9c9bf3f486b1f436d8e312f1888e0d3c7b965ad3f8d",
+  "size": "112 MB",
+  "size_raw": "117392608",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
