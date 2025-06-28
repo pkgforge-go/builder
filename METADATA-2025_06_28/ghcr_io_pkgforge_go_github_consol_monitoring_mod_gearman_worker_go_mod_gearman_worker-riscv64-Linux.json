@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "mod_gearman_worker",
+  "pkg_family": "mod-gearman-worker-go",
+  "pkg_id": "mod_gearman_worker#github.com_ConSol_Monitoring_mod_gearman_worker_go",
+  "pkg_name": "mod_gearman_worker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ConSol-Monitoring/mod-gearman-worker-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Mod-Gearman Worker rewrite in Golang",
+  "homepage": [
+    "https://github.com/ConSol-Monitoring/mod-gearman-worker-go"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check_gearman",
+    "gearman_top",
+    "mod_gearman_worker",
+    "send_gearman"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ConSol-Monitoring/mod-gearman-worker-go/archive/9b96e6ddebefc48a7d14f10f209fb402d7e3b3bd.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-9b96e6d-250628T092822",
+  "version_upstream": "",
+  "bsum": "7ab68aba4d5aa9a91fe4e569ed97f379743c91ec24a68746630d123b73a1e163",
+  "build_date": "2025-06-28T15:51:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15945702443",
+  "build_id": "15945702443",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/consol-monitoring/mod-gearman-worker-go/mod_gearman_worker?tag=HEAD-9b96e6d-250628T092822-riscv64-Linux&download=mod_gearman_worker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/consol-monitoring/mod-gearman-worker-go/mod_gearman_worker?tag=HEAD-9b96e6d-250628T092822-riscv64-Linux&download=mod_gearman_worker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/consol-monitoring/mod-gearman-worker-go/mod_gearman_worker:HEAD-9b96e6d-250628T092822-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/consol-monitoring/mod-gearman-worker-go/mod_gearman_worker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/consol-monitoring/mod-gearman-worker-go/mod_gearman_worker?tag=HEAD-9b96e6d-250628T092822-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5e6204ed94e26fd17d5d33adc265a547bc34c249d82c70481d9768dff6f5e863",
+  "size": "11 MB",
+  "size_raw": "10920440",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
