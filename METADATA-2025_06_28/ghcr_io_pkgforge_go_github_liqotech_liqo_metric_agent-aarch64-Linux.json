@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "metric-agent",
+  "pkg_family": "liqo",
+  "pkg_id": "metric-agent#github.com_liqotech_liqo",
+  "pkg_name": "metric-agent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/liqotech/liqo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Enable dynamic and seamless Kubernetes multi-cluster topologies",
+  "homepage": [
+    "https://github.com/liqotech/liqo"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "crd-replicator",
+    "fabric",
+    "gateway",
+    "geneve",
+    "ipam",
+    "liqo-controller-manager",
+    "metric-agent",
+    "proxy",
+    "telemetry",
+    "uninstaller",
+    "virtual-kubelet",
+    "wireguard"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/liqotech/liqo/archive/c39e9fce0a99cc247a3fae7b27852ad2ae683ca6.tar.gz"
+  ],
+  "tag": [
+    "cloud-computing",
+    "clusters",
+    "k8s",
+    "kubernetes",
+    "kubernetes-clusters",
+    "liquid-computing",
+    "multi-cluster",
+    "resource-sharing"
+  ],
+  "version": "HEAD-c39e9fc-250610T162533",
+  "version_upstream": "",
+  "bsum": "80773b1c78a507899ab48b709d1b6706622ab4edab54618bc77da84dd3257a73",
+  "build_date": "2025-06-28T16:43:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15945758646",
+  "build_id": "15945758646",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/liqotech/liqo/metric-agent?tag=HEAD-c39e9fc-250610T162533-aarch64-Linux&download=metric-agent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1294",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/liqotech/liqo/metric-agent?tag=HEAD-c39e9fc-250610T162533-aarch64-Linux&download=metric-agent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/liqotech/liqo/metric-agent:HEAD-c39e9fc-250610T162533-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/liqotech/liqo/metric-agent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/liqotech/liqo/metric-agent?tag=HEAD-c39e9fc-250610T162533-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6f81c6ebc8f246d73b222b3dc6ec13daa80fe9f8121907e997940690049c799a",
+  "size": "40 MB",
+  "size_raw": "40914752",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
