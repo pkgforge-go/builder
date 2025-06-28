@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "blobfuse-proxy",
+  "pkg_family": "blob-csi-driver",
+  "pkg_id": "blobfuse-proxy#github.com_kubernetes_sigs_blob_csi_driver",
+  "pkg_name": "blobfuse-proxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/blob-csi-driver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Azure Blob Storage CSI driver",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/blob-csi-driver"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "blobfuse-proxy",
+    "blobplugin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/blob-csi-driver/archive/fdaac6f28a1d42ae7caa14b5c7b593c2eb6f30a4.tar.gz"
+  ],
+  "tag": [
+    "k8s-sig-cloud-provider"
+  ],
+  "version": "HEAD-fdaac6f-250627T235029",
+  "version_upstream": "",
+  "bsum": "0fb21932da8cec201a3218b6eb03a545df9710746087ebe3490e2d744912a336",
+  "build_date": "2025-06-28T16:25:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15945757949",
+  "build_id": "15945757949",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/blob-csi-driver/blobfuse-proxy?tag=HEAD-fdaac6f-250627T235029-x86_64-Linux&download=blobfuse-proxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "136",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/blob-csi-driver/blobfuse-proxy?tag=HEAD-fdaac6f-250627T235029-x86_64-Linux&download=blobfuse-proxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/blob-csi-driver/blobfuse-proxy:HEAD-fdaac6f-250627T235029-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/blob-csi-driver/blobfuse-proxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/blob-csi-driver/blobfuse-proxy?tag=HEAD-fdaac6f-250627T235029-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "577d0d314fc89920d9d9f7af330eeb758ef1f08bddcdc34aae6b2a7d23f0b695",
+  "size": "42 MB",
+  "size_raw": "43881760",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
