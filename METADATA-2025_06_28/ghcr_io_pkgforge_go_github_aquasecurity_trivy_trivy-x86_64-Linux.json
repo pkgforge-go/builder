@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "trivy",
+  "pkg_family": "trivy",
+  "pkg_id": "trivy#github.com_aquasecurity_trivy",
+  "pkg_name": "trivy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aquasecurity/trivy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+  "homepage": [
+    "https://github.com/aquasecurity/trivy"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "eol",
+    "trivy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/aquasecurity/trivy/archive/3a0ec0f2acff6a13ed6ab348b6b220d49e14a298.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "devsecops",
+    "docker",
+    "go",
+    "golang",
+    "hacktoberfest",
+    "iac",
+    "infrastructure-as-code",
+    "kubernetes",
+    "misconfiguration",
+    "security",
+    "security-tools",
+    "vulnerability",
+    "vulnerability-detection",
+    "vulnerability-scanners"
+  ],
+  "version": "HEAD-3a0ec0f-250627T151739",
+  "version_upstream": "",
+  "bsum": "05aff51186aeb0b446fea1f6c1af1dd6f6529d577e58bda1da900758d7aab992",
+  "build_date": "2025-06-28T13:25:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15944418532",
+  "build_id": "15944418532",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aquasecurity/trivy/trivy?tag=HEAD-3a0ec0f-250627T151739-x86_64-Linux&download=trivy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "27268",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aquasecurity/trivy/trivy?tag=HEAD-3a0ec0f-250627T151739-x86_64-Linux&download=trivy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aquasecurity/trivy/trivy:HEAD-3a0ec0f-250627T151739-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aquasecurity/trivy/trivy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aquasecurity/trivy/trivy?tag=HEAD-3a0ec0f-250627T151739-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9dd89691c19a7e647d82c93a18f557c5edd52dc0133c214177ac42e596ca1e54",
+  "size": "247 MB",
+  "size_raw": "258587536",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-f23d2f6-250617T222342-x86_64-Linux",
+    "HEAD-5aade69-250620T113923-x86_64-Linux",
+    "HEAD-cd7c595-250624T130915-x86_64-Linux",
+    "HEAD-3adfd98-250624T174358-x86_64-Linux",
+    "HEAD-367564a-250626T075829-x86_64-Linux",
+    "HEAD-41d0f94-250627T073358-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
