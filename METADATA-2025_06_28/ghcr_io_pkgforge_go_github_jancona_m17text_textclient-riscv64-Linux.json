@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "textclient",
+  "pkg_family": "m17text",
+  "pkg_id": "textclient#github.com_jancona_m17text",
+  "pkg_name": "textclient",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jancona/m17text",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Some POC/experimentation around doing text messaging and data communications using the M17 ham radio mode",
+  "homepage": [
+    "https://github.com/jancona/m17text"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gateway",
+    "modem-emulator",
+    "textclient"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/jancona/m17text/archive/d014ae20e39ca3ba2ce0c7834fe1cfe4cf31e3b0.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-d014ae2-250628T095649",
+  "version_upstream": "",
+  "bsum": "ef62ca12c0e5a744d8a020ef8b60c9e996e75b4c5c6ef77c72774fe96b960fb9",
+  "build_date": "2025-06-28T16:21:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15945746204",
+  "build_id": "15945746204",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jancona/m17text/textclient?tag=HEAD-d014ae2-250628T095649-riscv64-Linux&download=textclient.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jancona/m17text/textclient?tag=HEAD-d014ae2-250628T095649-riscv64-Linux&download=textclient",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jancona/m17text/textclient:HEAD-d014ae2-250628T095649-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jancona/m17text/textclient",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jancona/m17text/textclient?tag=HEAD-d014ae2-250628T095649-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3219ef894efa5904dfe174e324e5eeb8931cf7423dc13b302d130ece0df87ce4",
+  "size": "2.7 MB",
+  "size_raw": "2730248",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
