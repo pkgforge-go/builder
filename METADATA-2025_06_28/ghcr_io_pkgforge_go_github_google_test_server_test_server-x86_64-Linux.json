@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "test-server",
+  "pkg_family": "test-server",
+  "pkg_id": "test-server#github.com_google_test_server",
+  "pkg_name": "test-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/google/test-server",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A lightweight record-replay reverse proxy for testing",
+  "homepage": [
+    "https://github.com/google/test-server"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "test-server",
+    "update-sdk-checksums"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/google/test-server/archive/cd965dc242080beb1b0d7df5fe4bd7392812f1a6.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-cd965dc-250627T142926",
+  "version_upstream": "",
+  "bsum": "c76090f2bd991a1c740a9cc051751910c70d2c81ee3659fc20ef8eaf42b9a4ae",
+  "build_date": "2025-06-28T07:43:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941597748",
+  "build_id": "15941597748",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/test-server/test-server?tag=HEAD-cd965dc-250627T142926-x86_64-Linux&download=test-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/test-server/test-server?tag=HEAD-cd965dc-250627T142926-x86_64-Linux&download=test-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/google/test-server/test-server:HEAD-cd965dc-250627T142926-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/google/test-server/test-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/test-server/test-server?tag=HEAD-cd965dc-250627T142926-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f2be75911059c2cc4b2e87827f3d8fe4b2a8a17f9cc8830f8b1d5778f0b5fd7e",
+  "size": "7.5 MB",
+  "size_raw": "7852576",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
