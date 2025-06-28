@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cloudranger",
+  "pkg_family": "cloudranger",
+  "pkg_id": "cloudranger#github.com_planetscale_cloudranger",
+  "pkg_name": "cloudranger",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/planetscale/cloudranger",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library for mapping IP address ranges to cloud provider regions _currently: AWS and GCP_",
+  "homepage": [
+    "https://github.com/planetscale/cloudranger"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cloudranger",
+    "gen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/planetscale/cloudranger/archive/da8859adb4b6eefc3b9be4ba9f5d3b4b9e2a753e.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-da8859a-250627T150741",
+  "version_upstream": "",
+  "bsum": "0eaa9a3202ca0f12f13aaf1248995d605335a5762dc19d3038400c3d9a634bca",
+  "build_date": "2025-06-28T11:42:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942977069",
+  "build_id": "15942977069",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/planetscale/cloudranger/cloudranger?tag=HEAD-da8859a-250627T150741-riscv64-Linux&download=cloudranger.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/planetscale/cloudranger/cloudranger?tag=HEAD-da8859a-250627T150741-riscv64-Linux&download=cloudranger",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/planetscale/cloudranger/cloudranger:HEAD-da8859a-250627T150741-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/planetscale/cloudranger/cloudranger",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/planetscale/cloudranger/cloudranger?tag=HEAD-da8859a-250627T150741-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5e9ed201d22321b9f65823c2a6ec13557c7eeb02d84017788ec823d7286780c3",
+  "size": "5.1 MB",
+  "size_raw": "5321832",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a04e258-250623T113227-riscv64-Linux[v0.0.103]"
+  ],
+  "trusted": "true"
+}
