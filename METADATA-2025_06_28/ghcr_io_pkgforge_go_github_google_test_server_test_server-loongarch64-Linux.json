@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "test-server",
+  "pkg_family": "test-server",
+  "pkg_id": "test-server#github.com_google_test_server",
+  "pkg_name": "test-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/google/test-server",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A lightweight record-replay reverse proxy for testing",
+  "homepage": [
+    "https://github.com/google/test-server"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "test-server",
+    "update-sdk-checksums"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/google/test-server/archive/cd965dc242080beb1b0d7df5fe4bd7392812f1a6.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-cd965dc-250627T142926",
+  "version_upstream": "",
+  "bsum": "e8d89c5335c25fc1bdef35295adf404cd7225ce8de9ca888cd9659e919b1e722",
+  "build_date": "2025-06-28T07:43:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941597748",
+  "build_id": "15941597748",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/test-server/test-server?tag=HEAD-cd965dc-250627T142926-loongarch64-Linux&download=test-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/test-server/test-server?tag=HEAD-cd965dc-250627T142926-loongarch64-Linux&download=test-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/google/test-server/test-server:HEAD-cd965dc-250627T142926-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/google/test-server/test-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/test-server/test-server?tag=HEAD-cd965dc-250627T142926-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cc0193b86a864bfcf9b3dbe608349e909ead96be8bcd4be5bcd72477db6ebc3e",
+  "size": "7.2 MB",
+  "size_raw": "7543232",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
