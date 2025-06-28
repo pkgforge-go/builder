@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cache",
+  "pkg_family": "column",
+  "pkg_id": "cache#github.com_kelindar_column",
+  "pkg_name": "cache",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kelindar/column",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "High-performance, columnar, in-memory store with bitmap indexing in Go",
+  "homepage": [
+    "https://github.com/kelindar/column"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bench",
+    "cache",
+    "codegen",
+    "merge",
+    "million",
+    "simple",
+    "snapshot"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kelindar/column/archive/b35d478cda58087266d177b265bc8b29859c721e.tar.gz"
+  ],
+  "tag": [
+    "bitmap",
+    "columnar-storage",
+    "data-oriented",
+    "db",
+    "indexing",
+    "soa"
+  ],
+  "version": "HEAD-b35d478-250628T131601",
+  "version_upstream": "",
+  "bsum": "a2cc1ebf9da008b7a43bb7afc0d6e96eaa9889ccb3af9680c0bd72b809926f63",
+  "build_date": "2025-06-28T19:55:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15947210855",
+  "build_id": "15947210855",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kelindar/column/cache?tag=HEAD-b35d478-250628T131601-riscv64-Linux&download=cache.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1477",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kelindar/column/cache?tag=HEAD-b35d478-250628T131601-riscv64-Linux&download=cache",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kelindar/column/cache:HEAD-b35d478-250628T131601-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kelindar/column/cache",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kelindar/column/cache?tag=HEAD-b35d478-250628T131601-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e18e031e31c92a3a8e683a05cf129a64b94308f9c76e05e68ba7462678877329",
+  "size": "2.1 MB",
+  "size_raw": "2134360",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0af9c37-231013T235249-riscv64-Linux[v0.4.1]"
+  ],
+  "trusted": "true"
+}
