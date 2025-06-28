@@ -1,0 +1,95 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "rbac-authz",
+  "pkg_family": "coder",
+  "pkg_id": "rbac-authz#github.com_coder_coder",
+  "pkg_name": "rbac-authz",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/coder/coder",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Provision remote development environments via Terraform",
+  "homepage": [
+    "https://github.com/coder/coder"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apitypings",
+    "auditdocgen",
+    "audittypegen",
+    "clidocgen",
+    "cliui",
+    "cmdtest",
+    "coder",
+    "dbgen",
+    "dump",
+    "echoserver",
+    "embedded-pg",
+    "examplegen",
+    "gensite",
+    "metricsdocgen",
+    "migrate-ci",
+    "migrate-test",
+    "postprocess",
+    "rbac-authz",
+    "release",
+    "releasemigrations",
+    "testidp",
+    "typegen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/coder/coder/archive/4095330041c7e0afcd9f62cbf2532bd2e0fe3c61.tar.gz"
+  ],
+  "tag": [
+    "dev-tools",
+    "development-environment",
+    "go",
+    "golang",
+    "ide",
+    "jetbrains",
+    "remote-development",
+    "terraform",
+    "vscode"
+  ],
+  "version": "HEAD-4095330-250627T150754",
+  "version_upstream": "",
+  "bsum": "c1034925a5bd5da2683244ed348eeb7b28f7a38f1a6bd9131cc162daad79ed66",
+  "build_date": "2025-06-28T10:39:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942892544",
+  "build_id": "15942892544",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/rbac-authz?tag=HEAD-4095330-250627T150754-aarch64-Linux&download=rbac-authz.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10133",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/rbac-authz?tag=HEAD-4095330-250627T150754-aarch64-Linux&download=rbac-authz",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/coder/coder/rbac-authz:HEAD-4095330-250627T150754-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/coder/coder/rbac-authz",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coder/coder/rbac-authz?tag=HEAD-4095330-250627T150754-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "65d0644bc97de1ee0b15ccd6304a22a24359f471be3177c9aee16217ad3d67b8",
+  "size": "28 MB",
+  "size_raw": "29305024",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-1c87796-250627T140018-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
