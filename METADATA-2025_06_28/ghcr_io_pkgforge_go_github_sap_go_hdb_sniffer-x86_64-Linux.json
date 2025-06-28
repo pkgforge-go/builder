@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "sniffer",
+  "pkg_family": "go-hdb",
+  "pkg_id": "sniffer#github.com_SAP_go_hdb",
+  "pkg_name": "sniffer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/SAP/go-hdb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SAP HANA Database Client for Go",
+  "homepage": [
+    "https://github.com/SAP/go-hdb"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bulkbench",
+    "sniffer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/SAP/go-hdb/archive/57d318358cf038326a6d69485b9c0ac2f80d2c19.tar.gz"
+  ],
+  "tag": [
+    "client",
+    "database-driver",
+    "driver",
+    "go",
+    "golang",
+    "hana",
+    "hdb",
+    "native",
+    "native-go",
+    "sap"
+  ],
+  "version": "HEAD-57d3183-250628T004051",
+  "version_upstream": "v1.13.9",
+  "bsum": "840ab74179418cfde3f32bb2837986551f786f12aeb7dec37d7830e20fc6250f",
+  "build_date": "2025-06-28T07:03:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941553924",
+  "build_id": "15941553924",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sap/go-hdb/sniffer?tag=HEAD-57d3183-250628T004051-x86_64-Linux&download=sniffer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "178",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sap/go-hdb/sniffer?tag=HEAD-57d3183-250628T004051-x86_64-Linux&download=sniffer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sap/go-hdb/sniffer:HEAD-57d3183-250628T004051-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sap/go-hdb/sniffer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sap/go-hdb/sniffer?tag=HEAD-57d3183-250628T004051-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1b596ad26662a4e595a2e33a1eb6e47e45ed709529936919dd4b00b5422697c8",
+  "size": "4.1 MB",
+  "size_raw": "4272768",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
