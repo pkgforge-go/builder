@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "nri_device_injector",
+  "pkg_family": "container-engine-accelerators",
+  "pkg_id": "nri_device_injector#github.com_GoogleCloudPlatform_container_engine_accelerators",
+  "pkg_name": "nri_device_injector",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/GoogleCloudPlatform/container-engine-accelerators",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Collection of tools and examples for managing Accelerated workloads in Kubernetes Engine",
+  "homepage": [
+    "https://github.com/GoogleCloudPlatform/container-engine-accelerators"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "nri_device_injector",
+    "nvidia-persistenced-installer",
+    "partition_gpu"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/GoogleCloudPlatform/container-engine-accelerators/archive/34455317852803240883edf26efcc522602834ca.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-3445531-250627T160845",
+  "version_upstream": "",
+  "bsum": "7cf87e951c8fae6b2787ff56c555c71260b79395a19ddd57d90cf2aa8ca2b053",
+  "build_date": "2025-06-28T06:59:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941543158",
+  "build_id": "15941543158",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/container-engine-accelerators/nri_device_injector?tag=HEAD-3445531-250627T160845-riscv64-Linux&download=nri_device_injector.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "235",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/container-engine-accelerators/nri_device_injector?tag=HEAD-3445531-250627T160845-riscv64-Linux&download=nri_device_injector",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googlecloudplatform/container-engine-accelerators/nri_device_injector:HEAD-3445531-250627T160845-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googlecloudplatform/container-engine-accelerators/nri_device_injector",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/container-engine-accelerators/nri_device_injector?tag=HEAD-3445531-250627T160845-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2d1856c18f65b00a48ecf15b0755af8f8663fef56cceeb8f8a282ec5a86ed30e",
+  "size": "13 MB",
+  "size_raw": "13478776",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
