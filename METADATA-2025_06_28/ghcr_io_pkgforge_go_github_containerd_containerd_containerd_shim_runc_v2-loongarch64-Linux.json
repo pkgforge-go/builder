@@ -1,0 +1,87 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "containerd-shim-runc-v2",
+  "pkg_family": "containerd",
+  "pkg_id": "containerd-shim-runc-v2#github.com_containerd_containerd",
+  "pkg_name": "containerd-shim-runc-v2",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/containerd/containerd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An open and reliable container runtime",
+  "homepage": [
+    "https://github.com/containerd/containerd"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "checkpoint",
+    "cmd",
+    "cni-bridge-fp",
+    "containerd",
+    "containerd-shim-runc-fp-v1",
+    "containerd-shim-runc-v2",
+    "containerd-stress",
+    "ctr",
+    "gen-manpages",
+    "go-buildtag",
+    "loopback-v2",
+    "protoc-gen-go-fieldpath",
+    "runc-fp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/containerd/containerd/archive/8c94d9b60208022c5e3f7ae9af52f0e0d56f8d7d.tar.gz"
+  ],
+  "tag": [
+    "cncf",
+    "containerd",
+    "containers",
+    "cri",
+    "docker",
+    "hacktoberfest",
+    "kubernetes",
+    "oci"
+  ],
+  "version": "HEAD-8c94d9b-250627T192533",
+  "version_upstream": "",
+  "bsum": "b6be07c13375019284d9c34cdb4a38fbab948f54dbc6be75cf2eab6e1ba2d982",
+  "build_date": "2025-06-28T10:24:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942894486",
+  "build_id": "15942894486",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerd/containerd/containerd-shim-runc-v2?tag=HEAD-8c94d9b-250627T192533-loongarch64-Linux&download=containerd-shim-runc-v2.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18860",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerd/containerd/containerd-shim-runc-v2?tag=HEAD-8c94d9b-250627T192533-loongarch64-Linux&download=containerd-shim-runc-v2",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/containerd/containerd/containerd-shim-runc-v2:HEAD-8c94d9b-250627T192533-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/containerd/containerd/containerd-shim-runc-v2",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerd/containerd/containerd-shim-runc-v2?tag=HEAD-8c94d9b-250627T192533-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ba95d16cb59d7f967a177d9e9a1d85e3e334f85f974b20d6d2500f202e487daa",
+  "size": "15 MB",
+  "size_raw": "15560928",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-7d394c9-250619T220346-loongarch64-Linux",
+    "HEAD-9300d03-250622T010009-loongarch64-Linux",
+    "HEAD-99df502-250623T224024-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}

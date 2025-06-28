@@ -1,0 +1,87 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "loopback-v2",
+  "pkg_family": "containerd",
+  "pkg_id": "loopback-v2#github.com_containerd_containerd",
+  "pkg_name": "loopback-v2",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/containerd/containerd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An open and reliable container runtime",
+  "homepage": [
+    "https://github.com/containerd/containerd"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "checkpoint",
+    "cmd",
+    "cni-bridge-fp",
+    "containerd",
+    "containerd-shim-runc-fp-v1",
+    "containerd-shim-runc-v2",
+    "containerd-stress",
+    "ctr",
+    "gen-manpages",
+    "go-buildtag",
+    "loopback-v2",
+    "protoc-gen-go-fieldpath",
+    "runc-fp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/containerd/containerd/archive/8c94d9b60208022c5e3f7ae9af52f0e0d56f8d7d.tar.gz"
+  ],
+  "tag": [
+    "cncf",
+    "containerd",
+    "containers",
+    "cri",
+    "docker",
+    "hacktoberfest",
+    "kubernetes",
+    "oci"
+  ],
+  "version": "HEAD-8c94d9b-250627T192533",
+  "version_upstream": "",
+  "bsum": "94cb50dd59f085fd24be4c36e81adaf134638262fb1953080f41e6f0f498512f",
+  "build_date": "2025-06-28T10:24:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942894486",
+  "build_id": "15942894486",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerd/containerd/loopback-v2?tag=HEAD-8c94d9b-250627T192533-loongarch64-Linux&download=loopback-v2.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18860",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerd/containerd/loopback-v2?tag=HEAD-8c94d9b-250627T192533-loongarch64-Linux&download=loopback-v2",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/containerd/containerd/loopback-v2:HEAD-8c94d9b-250627T192533-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/containerd/containerd/loopback-v2",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containerd/containerd/loopback-v2?tag=HEAD-8c94d9b-250627T192533-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "646268eb8ae5127997c7dae348c0ee46f66e2a495c74dc4375b57437d1c23796",
+  "size": "2.2 MB",
+  "size_raw": "2277112",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-7d394c9-250619T220346-loongarch64-Linux",
+    "HEAD-9300d03-250622T010009-loongarch64-Linux",
+    "HEAD-99df502-250623T224024-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
