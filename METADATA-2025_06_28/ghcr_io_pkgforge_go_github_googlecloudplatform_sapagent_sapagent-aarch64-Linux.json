@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "sapagent",
+  "pkg_family": "sapagent",
+  "pkg_id": "sapagent#github.com_GoogleCloudPlatform_sapagent",
+  "pkg_name": "sapagent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/GoogleCloudPlatform/sapagent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This repository contains the Agent for SAP _Linux and Windows_. The agent is intended to run on all Google Cloud compute instances where an SAP workload is running.",
+  "homepage": [
+    "https://github.com/GoogleCloudPlatform/sapagent"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sapagent"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/GoogleCloudPlatform/sapagent/archive/aafbaa29b45e0dc08ce7c9e2b048ce720aa9e5c0.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-aafbaa2-250627T025719",
+  "version_upstream": "",
+  "bsum": "d990a7cb416f5d1545a45e636a33cd186f4137cd1067bd5b4570027fd9b81832",
+  "build_date": "2025-06-28T02:08:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15939317544",
+  "build_id": "15939317544",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/sapagent/sapagent?tag=HEAD-aafbaa2-250627T025719-aarch64-Linux&download=sapagent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "20",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/sapagent/sapagent?tag=HEAD-aafbaa2-250627T025719-aarch64-Linux&download=sapagent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googlecloudplatform/sapagent/sapagent:HEAD-aafbaa2-250627T025719-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googlecloudplatform/sapagent/sapagent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/sapagent/sapagent?tag=HEAD-aafbaa2-250627T025719-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f75aca215aa6582b532729b9fb42890001b89dedc89506804c964189e54fc819",
+  "size": "67 MB",
+  "size_raw": "70147968",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-8c03107-250619T004839-aarch64-Linux",
+    "HEAD-c6e2749-250623T042006-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
