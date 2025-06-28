@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "verify-gcr-quota",
+  "pkg_family": "promo-tools",
+  "pkg_id": "verify-gcr-quota#github.com_kubernetes_sigs_promo_tools",
+  "pkg_name": "verify-gcr-quota",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/promo-tools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Container and file artifact promotion tooling for the Kubernetes project",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/promo-tools"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cip",
+    "cip-auditor",
+    "count-requests",
+    "kpromo",
+    "verify-gcr-quota"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes-sigs/promo-tools/archive/2e9a90b8513c4fca767879a8dffbabd8d04c6ce7.tar.gz"
+  ],
+  "tag": [
+    "artifact-management",
+    "artifacts",
+    "containers",
+    "k8s-sig-release",
+    "kubernetes"
+  ],
+  "version": "HEAD-2e9a90b-250627T122829",
+  "version_upstream": "",
+  "bsum": "bcda9e23f5ae12901d7bdfd4e6b37ab9d7b481d704331536334205dab93361b6",
+  "build_date": "2025-06-28T08:05:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941680526",
+  "build_id": "15941680526",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/promo-tools/verify-gcr-quota?tag=HEAD-2e9a90b-250627T122829-riscv64-Linux&download=verify-gcr-quota.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "150",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/promo-tools/verify-gcr-quota?tag=HEAD-2e9a90b-250627T122829-riscv64-Linux&download=verify-gcr-quota",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/promo-tools/verify-gcr-quota:HEAD-2e9a90b-250627T122829-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/promo-tools/verify-gcr-quota",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/promo-tools/verify-gcr-quota?tag=HEAD-2e9a90b-250627T122829-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "78b97ec93c435cbb275d9b759a80ffdff1cdf89f2c273a2523c29aeb34fd14f8",
+  "size": "5.6 MB",
+  "size_raw": "5823160",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
