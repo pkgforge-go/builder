@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "kuzco",
+  "pkg_family": "Kuzco",
+  "pkg_id": "kuzco#github.com_RoseSecurity_Kuzco",
+  "pkg_name": "kuzco",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/RoseSecurity/Kuzco",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kuzco reviews your Terraform and OpenTofu resources, compares them to the provider schema to detect unused parameters, and uses AI to suggest improvements and fixes",
+  "homepage": [
+    "https://github.com/RoseSecurity/Kuzco"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kuzco"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/RoseSecurity/Kuzco/archive/11d5b6cf83b466780b6b923ca3e3c29638968610.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "cli",
+    "cloud",
+    "go",
+    "opentofu",
+    "terraform"
+  ],
+  "version": "HEAD-11d5b6c-250627T161331",
+  "version_upstream": "",
+  "bsum": "d1fc2776e614383f992202404486debdbf457b72d10ee08a413d518c3cb18f79",
+  "build_date": "2025-06-28T07:14:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941554102",
+  "build_id": "15941554102",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rosesecurity/kuzco/kuzco?tag=HEAD-11d5b6c-250627T161331-riscv64-Linux&download=kuzco.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "123",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rosesecurity/kuzco/kuzco?tag=HEAD-11d5b6c-250627T161331-riscv64-Linux&download=kuzco",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rosesecurity/kuzco/kuzco:HEAD-11d5b6c-250627T161331-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rosesecurity/kuzco/kuzco",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rosesecurity/kuzco/kuzco?tag=HEAD-11d5b6c-250627T161331-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a5bb83bec1efc7a2a66dc365839c6de8f99884269b2fde95ebef4aff87d1e227",
+  "size": "21 MB",
+  "size_raw": "21878648",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
