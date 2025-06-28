@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "worker",
+  "pkg_family": "biliTickerStorm",
+  "pkg_id": "worker#github.com_mikumifa_biliTickerStorm",
+  "pkg_name": "worker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mikumifa/biliTickerStorm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "B站 会员购 分布式抢票",
+  "homepage": [
+    "https://github.com/mikumifa/biliTickerStorm"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "master",
+    "worker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mikumifa/biliTickerStorm/archive/792983bf1b7a9b709984747682c92e522125048b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-792983b-250628T040446",
+  "version_upstream": "",
+  "bsum": "fc1eeb8fd95a6ce929f76fa62486938f373e5f575c5a4852e4805a2a75da6c35",
+  "build_date": "2025-06-28T14:07:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15944479494",
+  "build_id": "15944479494",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mikumifa/bilitickerstorm/worker?tag=HEAD-792983b-250628T040446-x86_64-Linux&download=worker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "103",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mikumifa/bilitickerstorm/worker?tag=HEAD-792983b-250628T040446-x86_64-Linux&download=worker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mikumifa/bilitickerstorm/worker:HEAD-792983b-250628T040446-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mikumifa/bilitickerstorm/worker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mikumifa/bilitickerstorm/worker?tag=HEAD-792983b-250628T040446-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a8508d3c5781f39bd17c0b6f90b5832e12c13108a176d95f51a7638daeb468ac",
+  "size": "15 MB",
+  "size_raw": "14905968",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-7d98182-250620T181104-x86_64-Linux[v0.0.7]",
+    "HEAD-28a6f8b-250622T211806-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
