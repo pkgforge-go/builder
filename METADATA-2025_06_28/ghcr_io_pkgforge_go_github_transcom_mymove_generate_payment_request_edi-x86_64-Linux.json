@@ -1,0 +1,91 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "generate-payment-request-edi",
+  "pkg_family": "mymove",
+  "pkg_id": "generate-payment-request-edi#github.com_transcom_mymove",
+  "pkg_name": "generate-payment-request-edi",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/transcom/mymove",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "MyMove Personal Property Prototype",
+  "homepage": [
+    "https://github.com/transcom/mymove"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appcontext-linter",
+    "ato-linter",
+    "big-cat",
+    "ecs-deploy",
+    "generate-deploy-notes",
+    "generate-payment-request-edi",
+    "generate-shipment-summary",
+    "generate-test-data",
+    "ghc-pricing-parser",
+    "ghc-transit-time-parser",
+    "health-checker",
+    "image-to-pdf",
+    "iws",
+    "milmove",
+    "milmove-tasks",
+    "model-vet",
+    "pptas-api-client",
+    "prime-api-client",
+    "read-alb-logs",
+    "send-to-gex",
+    "simulate-process-tpps",
+    "tls-checker",
+    "webhook-client"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/transcom/mymove/archive/b38adb0222b679e66ed27cc1a320b1ec6c291f0f.tar.gz"
+  ],
+  "tag": [
+    "code-mil"
+  ],
+  "version": "HEAD-b38adb0-250627T191410",
+  "version_upstream": "",
+  "bsum": "db1a9d323ec2ceac3f1a222d86f38ad87baefd1f2b08f70cc95982a65b4bf147",
+  "build_date": "2025-06-28T12:36:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15943008503",
+  "build_id": "15943008503",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transcom/mymove/generate-payment-request-edi?tag=HEAD-b38adb0-250627T191410-x86_64-Linux&download=generate-payment-request-edi.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "63",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transcom/mymove/generate-payment-request-edi?tag=HEAD-b38adb0-250627T191410-x86_64-Linux&download=generate-payment-request-edi",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/transcom/mymove/generate-payment-request-edi:HEAD-b38adb0-250627T191410-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/transcom/mymove/generate-payment-request-edi",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/transcom/mymove/generate-payment-request-edi?tag=HEAD-b38adb0-250627T191410-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a800295700f2402ef782c101ca7882d8bfadacd062b92f9d2c26cad3d3631ded",
+  "size": "36 MB",
+  "size_raw": "37315712",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-5c66fc5-250623T170730-x86_64-Linux",
+    "HEAD-fca2d91-250624T151221-x86_64-Linux",
+    "HEAD-89e831e-250625T144124-x86_64-Linux",
+    "HEAD-a25bfb2-250626T204022-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
