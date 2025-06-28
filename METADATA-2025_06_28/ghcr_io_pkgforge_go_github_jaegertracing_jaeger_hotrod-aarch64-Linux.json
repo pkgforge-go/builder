@@ -1,0 +1,90 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "hotrod",
+  "pkg_family": "jaeger",
+  "pkg_id": "hotrod#github.com_jaegertracing_jaeger",
+  "pkg_name": "hotrod",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jaegertracing/jaeger",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CNCF Jaeger, a Distributed Tracing Platform",
+  "homepage": [
+    "https://github.com/jaegertracing/jaeger"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "all-in-one",
+    "anonymizer",
+    "collector",
+    "crossdock",
+    "es-index-cleaner",
+    "es-rollover",
+    "esmapping-generator",
+    "hotrod",
+    "ingester",
+    "jaeger",
+    "query",
+    "remote-storage",
+    "savetracetest",
+    "tracegen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/jaegertracing/jaeger/archive/953a0359d6eac029e8a234e531f8d031c8e5c589.tar.gz"
+  ],
+  "tag": [
+    "cncf",
+    "distributed-tracing",
+    "hacktoberfest",
+    "jaeger",
+    "observability",
+    "opentelemetry",
+    "tracing"
+  ],
+  "version": "HEAD-953a035-250628T074945",
+  "version_upstream": "",
+  "bsum": "8ac133768ce5b868688bb70c3dab3d08378b70e1c1c3d1c681fcf503879b1017",
+  "build_date": "2025-06-28T20:03:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15947209452",
+  "build_id": "15947209452",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jaegertracing/jaeger/hotrod?tag=HEAD-953a035-250628T074945-aarch64-Linux&download=hotrod.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "21518",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jaegertracing/jaeger/hotrod?tag=HEAD-953a035-250628T074945-aarch64-Linux&download=hotrod",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jaegertracing/jaeger/hotrod:HEAD-953a035-250628T074945-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jaegertracing/jaeger/hotrod",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jaegertracing/jaeger/hotrod?tag=HEAD-953a035-250628T074945-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cab096679e1ea65a7c4416c1f9793d1a27d738dfbc6b116d7d90daccf4261995",
+  "size": "18 MB",
+  "size_raw": "17994656",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-87d9b57-250618T215447-aarch64-Linux",
+    "HEAD-a5ba290-250620T202315-aarch64-Linux",
+    "HEAD-b86d1fd-250623T234236-aarch64-Linux",
+    "HEAD-b1a0a5e-250624T101024-aarch64-Linux",
+    "HEAD-a91e2ee-250625T005354-aarch64-Linux",
+    "HEAD-461923b-250625T042325-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
