@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "mcphost",
+  "pkg_family": "mcphost",
+  "pkg_id": "mcphost#github.com_mark3labs_mcphost",
+  "pkg_name": "mcphost",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mark3labs/mcphost",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A CLI host application that enables Large Language Models _LLMs_ to interact with external tools through the Model Context Protocol _MCP_.",
+  "homepage": [
+    "https://github.com/mark3labs/mcphost"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mcphost"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mark3labs/mcphost/archive/4f524d3b1656e037daea225357a0591cb0d8a365.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4f524d3-250628T143635",
+  "version_upstream": "v0.19.2",
+  "bsum": "be9dd752b806d37ae1d98e4838de0972b20b76159acee2b7054867cd569446d1",
+  "build_date": "2025-06-28T22:01:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15948449415",
+  "build_id": "15948449415",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mark3labs/mcphost/mcphost?tag=HEAD-4f524d3-250628T143635-loongarch64-Linux&download=mcphost.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1097",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mark3labs/mcphost/mcphost?tag=HEAD-4f524d3-250628T143635-loongarch64-Linux&download=mcphost",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mark3labs/mcphost/mcphost:HEAD-4f524d3-250628T143635-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mark3labs/mcphost/mcphost",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mark3labs/mcphost/mcphost?tag=HEAD-4f524d3-250628T143635-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "94d243d256a1ec325ab80643f11c3301530e23c4ac2517fcde8a5021ec34fd99",
+  "size": "34 MB",
+  "size_raw": "34630032",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-7d6abbf-250625T172437-loongarch64-Linux",
+    "HEAD-a66c55e-250626T133218-loongarch64-Linux",
+    "HEAD-daf5c41-250626T213336-loongarch64-Linux[v0.18.1]",
+    "HEAD-47718a7-250627T164042-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
