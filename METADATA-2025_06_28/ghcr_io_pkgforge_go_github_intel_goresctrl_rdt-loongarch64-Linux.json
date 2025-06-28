@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "rdt",
+  "pkg_family": "goresctrl",
+  "pkg_id": "rdt#github.com_intel_goresctrl",
+  "pkg_name": "rdt",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/intel/goresctrl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Golang library for managing resctrl filesystem",
+  "homepage": [
+    "https://github.com/intel/goresctrl"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "blockio",
+    "rdt"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/intel/goresctrl/archive/579664119777585ab262e14a9adab7006862525d.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-5796641-250628T154214",
+  "version_upstream": "",
+  "bsum": "63f5c2d81fd03c126c7d5a282f9f79ac9d4f182217d69db04dedacf167843d6b",
+  "build_date": "2025-06-28T19:46:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15947208218",
+  "build_id": "15947208218",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/intel/goresctrl/rdt?tag=HEAD-5796641-250628T154214-loongarch64-Linux&download=rdt.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "48",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/intel/goresctrl/rdt?tag=HEAD-5796641-250628T154214-loongarch64-Linux&download=rdt",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/intel/goresctrl/rdt:HEAD-5796641-250628T154214-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/intel/goresctrl/rdt",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/intel/goresctrl/rdt?tag=HEAD-5796641-250628T154214-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "afe1f9cee8dcfe098e7cba0f0cbf1405cd4b2ba98b31929a60d2f0b248da4a10",
+  "size": "9.2 MB",
+  "size_raw": "9599712",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-16d5a38-250624T175521-loongarch64-Linux",
+    "HEAD-5b4007f-250626T165628-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}

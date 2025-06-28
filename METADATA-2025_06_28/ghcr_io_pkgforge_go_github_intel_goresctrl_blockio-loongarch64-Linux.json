@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "blockio",
+  "pkg_family": "goresctrl",
+  "pkg_id": "blockio#github.com_intel_goresctrl",
+  "pkg_name": "blockio",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/intel/goresctrl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Golang library for managing resctrl filesystem",
+  "homepage": [
+    "https://github.com/intel/goresctrl"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "blockio",
+    "rdt"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/intel/goresctrl/archive/579664119777585ab262e14a9adab7006862525d.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-5796641-250628T154214",
+  "version_upstream": "",
+  "bsum": "f77fcfc810a40e98db9f6eaebb9b255f1928ccfe299a40fbe8d28fd65927949c",
+  "build_date": "2025-06-28T19:46:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15947208218",
+  "build_id": "15947208218",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/intel/goresctrl/blockio?tag=HEAD-5796641-250628T154214-loongarch64-Linux&download=blockio.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "48",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/intel/goresctrl/blockio?tag=HEAD-5796641-250628T154214-loongarch64-Linux&download=blockio",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/intel/goresctrl/blockio:HEAD-5796641-250628T154214-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/intel/goresctrl/blockio",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/intel/goresctrl/blockio?tag=HEAD-5796641-250628T154214-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9299ea6ee6bdb1a63e40a6dc19416985ed14a9a589ef8e3fcbe07661bc6ebe68",
+  "size": "3.1 MB",
+  "size_raw": "3200120",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-16d5a38-250624T175521-loongarch64-Linux",
+    "HEAD-5b4007f-250626T165628-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
