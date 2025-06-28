@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "storage-backend-sidecar",
+  "pkg_family": "eSDK_K8S_Plugin",
+  "pkg_id": "storage-backend-sidecar#github.com_Huawei_eSDK_K8S_Plugin",
+  "pkg_name": "storage-backend-sidecar",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Huawei/eSDK_K8S_Plugin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Container-Storage-Interface _CSI_ for Huawei storage",
+  "homepage": [
+    "https://github.com/Huawei/eSDK_K8S_Plugin"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "csi",
+    "esdk_k8s_plugin-cli",
+    "huawei-csi-extender",
+    "storage-backend-controller",
+    "storage-backend-sidecar"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Huawei/eSDK_K8S_Plugin/archive/cd0eff7115ceddf350664b29b99911b6768404ba.tar.gz"
+  ],
+  "tag": [
+    "csi",
+    "huawei",
+    "kubernetes"
+  ],
+  "version": "HEAD-cd0eff7-250628T163837",
+  "version_upstream": "v4.8.0",
+  "bsum": "83f519a72c216f1cc589af0861411ba058d39e5d4a83018ac9062057f5660833",
+  "build_date": "2025-06-28T15:49:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15945702291",
+  "build_id": "15945702291",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/k8s/plugin/storage-backend-sidecar?tag=HEAD-cd0eff7-250628T163837-riscv64-Linux&download=storage-backend-sidecar.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "97",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/k8s/plugin/storage-backend-sidecar?tag=HEAD-cd0eff7-250628T163837-riscv64-Linux&download=storage-backend-sidecar",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/k8s/plugin/storage-backend-sidecar:HEAD-cd0eff7-250628T163837-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/k8s/plugin/storage-backend-sidecar",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/k8s/plugin/storage-backend-sidecar?tag=HEAD-cd0eff7-250628T163837-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bf80ab15ecda6cd382ed20d9b6828fb4189a0a7fe7b96a4124897002ea9787f5",
+  "size": "50 MB",
+  "size_raw": "51856312",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
