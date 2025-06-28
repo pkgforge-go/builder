@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "crank",
+  "pkg_family": "crossplane",
+  "pkg_id": "crank#github.com_crossplane_crossplane",
+  "pkg_name": "crank",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/crossplane/crossplane",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Cloud Native Control Plane",
+  "homepage": [
+    "https://github.com/crossplane/crossplane"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "crank",
+    "crossplane"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/crossplane/crossplane/archive/106493b50b1209e8f434123389735f3c12e96eb8.tar.gz"
+  ],
+  "tag": [
+    "cloud-computing",
+    "cloud-management",
+    "cloud-native",
+    "cncf",
+    "containers",
+    "control-plane",
+    "infrastructure",
+    "infrastructure-as-code",
+    "kubernetes",
+    "multicloud",
+    "serverless"
+  ],
+  "version": "HEAD-106493b-250624T211835",
+  "version_upstream": "",
+  "bsum": "2dcf4bd825b4ecdbabe3231f6929ee53bd7f7db1e5c156f5ce7938faba2734b8",
+  "build_date": "2025-06-28T19:30:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15947171695",
+  "build_id": "15947171695",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/crossplane/crossplane/crank?tag=HEAD-106493b-250624T211835-loongarch64-Linux&download=crank.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10437",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/crossplane/crossplane/crank?tag=HEAD-106493b-250624T211835-loongarch64-Linux&download=crank",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/crossplane/crossplane/crank:HEAD-106493b-250624T211835-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/crossplane/crossplane/crank",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/crossplane/crossplane/crank?tag=HEAD-106493b-250624T211835-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "86db2961119ed11cf135fbbc45ddf733cf4910bbf4e9a1eb66c4fe44259926a9",
+  "size": "63 MB",
+  "size_raw": "65427744",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-614dfb4-250619T093301-loongarch64-Linux",
+    "HEAD-3ce6a13-250624T152411-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
