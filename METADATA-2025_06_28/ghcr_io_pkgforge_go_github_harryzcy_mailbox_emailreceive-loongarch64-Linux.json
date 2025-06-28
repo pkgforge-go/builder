@@ -1,0 +1,92 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "emailreceive",
+  "pkg_family": "mailbox",
+  "pkg_id": "emailreceive#github.com_harryzcy_mailbox",
+  "pkg_name": "emailreceive",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/harryzcy/mailbox",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Versatile email infrastructure on AWS serverless",
+  "homepage": [
+    "https://github.com/harryzcy/mailbox"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "create",
+    "delete",
+    "emailreceive",
+    "emailrestore",
+    "get",
+    "getcontent",
+    "getraw",
+    "info",
+    "list",
+    "read",
+    "reparse",
+    "save",
+    "send",
+    "trash",
+    "untrash"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/harryzcy/mailbox/archive/cae55dc028847faaabe2acd1f096ca5517e0ef4f.tar.gz"
+  ],
+  "tag": [
+    "api",
+    "aws",
+    "aws-apigateway",
+    "aws-dynamodb",
+    "aws-lambda",
+    "aws-s3",
+    "aws-ses",
+    "aws-sqs",
+    "go",
+    "mailbox",
+    "mailbox-service",
+    "self-hosted",
+    "serverless"
+  ],
+  "version": "HEAD-cae55dc-250627T201509",
+  "version_upstream": "",
+  "bsum": "e0b140eaa84abaa84a1e5eba9b6203a77709f8d550e1e94604005b2b6de8b65e",
+  "build_date": "2025-06-28T10:59:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942929835",
+  "build_id": "15942929835",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harryzcy/mailbox/emailreceive?tag=HEAD-cae55dc-250627T201509-loongarch64-Linux&download=emailreceive.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "250",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harryzcy/mailbox/emailreceive?tag=HEAD-cae55dc-250627T201509-loongarch64-Linux&download=emailreceive",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/harryzcy/mailbox/emailreceive:HEAD-cae55dc-250627T201509-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/harryzcy/mailbox/emailreceive",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/harryzcy/mailbox/emailreceive?tag=HEAD-cae55dc-250627T201509-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0920b08354b3a09aee58ed40f3014b20c08e97010bc95d1bc70243536ec1a50b",
+  "size": "22 MB",
+  "size_raw": "22362592",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-c08c544-250625T230826-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
