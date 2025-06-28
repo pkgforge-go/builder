@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "apiserver",
+  "pkg_family": "apiserver",
+  "pkg_id": "apiserver#github.com_kubernetes_apiserver",
+  "pkg_name": "apiserver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/apiserver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Library for writing a Kubernetes-style API server.",
+  "homepage": [
+    "https://github.com/kubernetes/apiserver"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apiserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kubernetes/apiserver/archive/06b7bf2af774536621b3fa65824c914cc6865605.tar.gz"
+  ],
+  "tag": [
+    "k8s-staging"
+  ],
+  "version": "HEAD-06b7bf2-250627T215021",
+  "version_upstream": "",
+  "bsum": "8eaf5109d8f63a2d52a8dcf3b59f66e556f6ef9a28cb7d8c19c441b8b23dab4a",
+  "build_date": "2025-06-28T11:12:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942947198",
+  "build_id": "15942947198",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/apiserver/apiserver?tag=HEAD-06b7bf2-250627T215021-loongarch64-Linux&download=apiserver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "681",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/apiserver/apiserver?tag=HEAD-06b7bf2-250627T215021-loongarch64-Linux&download=apiserver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/apiserver/apiserver:HEAD-06b7bf2-250627T215021-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/apiserver/apiserver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/apiserver/apiserver?tag=HEAD-06b7bf2-250627T215021-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7a8f98355f8711b82d0b9f2fae315d6a5633481784bd0d88364dcccca3558d87",
+  "size": "40 MB",
+  "size_raw": "41459936",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-389ff85-250624T134108-loongarch64-Linux",
+    "HEAD-3f2a0b7-250624T175150-loongarch64-Linux",
+    "HEAD-a77ab41-250625T134559-loongarch64-Linux",
+    "HEAD-07ec5c5-250625T174928-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
