@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "restmail",
+  "pkg_family": "restmail",
+  "pkg_id": "restmail#github.com_tonymet_restmail",
+  "pkg_name": "restmail",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tonymet/restmail",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "restmail sends email from CLI using gmail _ outlook rest APIs. It can be used for email automation, notifications and with _git send-mail_ for sharing patches.",
+  "homepage": [
+    "https://github.com/tonymet/restmail"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "restmail"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/tonymet/restmail/archive/ff935cdc1f0b838131084ccb9c244424f9f12e0a.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-ff935cd-250627T151854",
+  "version_upstream": "v0.2.6",
+  "bsum": "711420ca8ebf66b2dc470ec7c2b8ae8cfebaef89aba12599554997a61868fe5a",
+  "build_date": "2025-06-28T14:28:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15944527252",
+  "build_id": "15944527252",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tonymet/restmail/restmail?tag=HEAD-ff935cd-250627T151854-aarch64-Linux&download=restmail.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "42",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tonymet/restmail/restmail?tag=HEAD-ff935cd-250627T151854-aarch64-Linux&download=restmail",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tonymet/restmail/restmail:HEAD-ff935cd-250627T151854-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tonymet/restmail/restmail",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tonymet/restmail/restmail?tag=HEAD-ff935cd-250627T151854-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bb1705cc70a50a2dc1a2dfc401735263380d451e56dbc873aa58329d21ac919f",
+  "size": "16 MB",
+  "size_raw": "16574336",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-23ca751-250625T144420-aarch64-Linux",
+    "HEAD-ccefffa-250626T170346-aarch64-Linux[v0.2.4]"
+  ],
+  "trusted": "true"
+}
