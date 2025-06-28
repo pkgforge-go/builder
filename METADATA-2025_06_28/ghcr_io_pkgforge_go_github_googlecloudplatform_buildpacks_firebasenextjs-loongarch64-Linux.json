@@ -1,0 +1,109 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "firebasenextjs",
+  "pkg_family": "buildpacks",
+  "pkg_id": "firebasenextjs#github.com_GoogleCloudPlatform_buildpacks",
+  "pkg_name": "firebasenextjs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/GoogleCloudPlatform/buildpacks",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Builders and buildpacks designed to run on Google Cloud_s container platforms",
+  "homepage": [
+    "https://github.com/GoogleCloudPlatform/buildpacks"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appengine",
+    "appengine_gopath",
+    "appengine_main",
+    "appengine_validation",
+    "archive_source",
+    "bundle",
+    "checktools",
+    "clear_source",
+    "cloudfunctions",
+    "cmd",
+    "compile",
+    "entrypoint",
+    "exploded_jar",
+    "firebaseangular",
+    "firebasebundle",
+    "firebasenextjs",
+    "firebasenx",
+    "flex",
+    "flex_entrypoint",
+    "flex_gomod",
+    "functions_framework",
+    "get_package",
+    "graalvm",
+    "gradle",
+    "label",
+    "legacy_worker",
+    "maven",
+    "native_image",
+    "npm",
+    "pnpm",
+    "preparer",
+    "pub",
+    "publisher",
+    "rails",
+    "rubygems",
+    "yarn"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/GoogleCloudPlatform/buildpacks/archive/6994b20ec52b70da0b8ce0934ebb25eba6809f52.tar.gz"
+  ],
+  "tag": [
+    "buildpacks",
+    "buildpacksv3",
+    "container-image",
+    "golang",
+    "java",
+    "nodejs",
+    "oci-image",
+    "python"
+  ],
+  "version": "HEAD-6994b20-250627T103204",
+  "version_upstream": "",
+  "bsum": "8c575146eac3a2866620b6a925d20eb459997600f5b5afc1c5b1bbd9d4758115",
+  "build_date": "2025-06-28T10:04:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942890730",
+  "build_id": "15942890730",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/buildpacks/firebasenextjs?tag=HEAD-6994b20-250627T103204-loongarch64-Linux&download=firebasenextjs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1047",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/buildpacks/firebasenextjs?tag=HEAD-6994b20-250627T103204-loongarch64-Linux&download=firebasenextjs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googlecloudplatform/buildpacks/firebasenextjs:HEAD-6994b20-250627T103204-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googlecloudplatform/buildpacks/firebasenextjs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/buildpacks/firebasenextjs?tag=HEAD-6994b20-250627T103204-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7146f8d3d8676db0d0755578d5d1b93b8fdff786960ec01fc4a475b163e92d90",
+  "size": "6.5 MB",
+  "size_raw": "6720320",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-69e55ed-250620T020310-loongarch64-Linux",
+    "HEAD-ddf501a-250623T045824-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
