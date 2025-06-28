@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "agent",
+  "pkg_family": "multicloud-operators-foundation",
+  "pkg_id": "agent#github.com_stolostron_multicloud_operators_foundation",
+  "pkg_name": "agent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/stolostron/multicloud-operators-foundation",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [
+    "https://github.com/stolostron/multicloud-operators-foundation"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "controller",
+    "proxyserver",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/stolostron/multicloud-operators-foundation/archive/99f018ef3e54b7e33a32d81ec998f4abd628aecd.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-99f018e-250627T215300",
+  "version_upstream": "",
+  "bsum": "b74b52fe44032f27b2c530fcedc618b7600f31491d0df094afa3e9d197908a49",
+  "build_date": "2025-06-28T08:55:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942012482",
+  "build_id": "15942012482",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stolostron/multicloud-operators-foundation/agent?tag=HEAD-99f018e-250627T215300-aarch64-Linux&download=agent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "55",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stolostron/multicloud-operators-foundation/agent?tag=HEAD-99f018e-250627T215300-aarch64-Linux&download=agent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/stolostron/multicloud-operators-foundation/agent:HEAD-99f018e-250627T215300-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/stolostron/multicloud-operators-foundation/agent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stolostron/multicloud-operators-foundation/agent?tag=HEAD-99f018e-250627T215300-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c5e410e3b2f82ff0118a160754db484542742f101fd0b9ad4bf83b11e71c05a1",
+  "size": "57 MB",
+  "size_raw": "58947616",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
