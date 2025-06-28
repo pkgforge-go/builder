@@ -1,0 +1,87 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "optionaldepsmodule",
+  "pkg_family": "rdk",
+  "pkg_id": "optionaldepsmodule#github.com_viamrobotics_rdk",
+  "pkg_name": "optionaldepsmodule",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/viamrobotics/rdk",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Viam Server - Robotic Development Kit",
+  "homepage": [
+    "https://github.com/viamrobotics/rdk"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "analyzecoverage",
+    "analyzetests",
+    "cli_lint",
+    "client",
+    "cmd",
+    "complexmodule",
+    "depth_to_color",
+    "extrinsic_calibration",
+    "gizmomodule",
+    "multiversionmodule",
+    "optionaldepsmodule",
+    "remoteserver",
+    "rtppassthrough",
+    "simplemodule",
+    "subsystem_manifest",
+    "summationmodule",
+    "test_detector",
+    "testmodule",
+    "testmodule2"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/viamrobotics/rdk/archive/cba228d7cf08124c30bd2f3bc9f2ea4aa0af448b.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-cba228d-250627T143142",
+  "version_upstream": "",
+  "bsum": "d5c81a4cbb7be3a1a27488145cb802e2886fe6af33b45d243079cf78b8321483",
+  "build_date": "2025-06-28T12:52:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15943011049",
+  "build_id": "15943011049",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/viamrobotics/rdk/optionaldepsmodule?tag=HEAD-cba228d-250627T143142-x86_64-Linux&download=optionaldepsmodule.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "149",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/viamrobotics/rdk/optionaldepsmodule?tag=HEAD-cba228d-250627T143142-x86_64-Linux&download=optionaldepsmodule",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/viamrobotics/rdk/optionaldepsmodule:HEAD-cba228d-250627T143142-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/viamrobotics/rdk/optionaldepsmodule",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/viamrobotics/rdk/optionaldepsmodule?tag=HEAD-cba228d-250627T143142-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "681c6004358a70a03b20c1429d460be0c5a6fe935a2e8670a3c79375a05a8c93",
+  "size": "41 MB",
+  "size_raw": "42944752",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-8787a26-250624T171702-x86_64-Linux",
+    "HEAD-1698657-250625T101312-x86_64-Linux",
+    "HEAD-bd621cd-250625T141427-x86_64-Linux",
+    "HEAD-27aaecc-250626T155618-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
