@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "parse",
+  "pkg_family": "qasm",
+  "pkg_id": "parse#github.com_itsubaki_qasm",
+  "pkg_name": "parse",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/itsubaki/qasm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Quantum Computation Simulator with OpenQASM 3.0",
+  "homepage": [
+    "https://github.com/itsubaki/qasm"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "lex",
+    "parse",
+    "qasm",
+    "repl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/itsubaki/qasm/archive/383b28f6de118544c28662e4c6ffc40ce00938fa.tar.gz"
+  ],
+  "tag": [
+    "openqasm",
+    "quantum-computation",
+    "quantum-computing"
+  ],
+  "version": "HEAD-383b28f-250628T202656",
+  "version_upstream": "",
+  "bsum": "909c39852bd6137339563439fd14ba696741d9ad423882f62ffdd8ea6da9ab4c",
+  "build_date": "2025-06-28T16:16:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15945744796",
+  "build_id": "15945744796",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsubaki/qasm/parse?tag=HEAD-383b28f-250628T202656-loongarch64-Linux&download=parse.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsubaki/qasm/parse?tag=HEAD-383b28f-250628T202656-loongarch64-Linux&download=parse",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/itsubaki/qasm/parse:HEAD-383b28f-250628T202656-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/itsubaki/qasm/parse",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsubaki/qasm/parse?tag=HEAD-383b28f-250628T202656-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "27a0b026480c2b217d227b03a05ba9d1fb6eabb5a0e0901f7f57b2a276b80f2c",
+  "size": "3.8 MB",
+  "size_raw": "3891960",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
