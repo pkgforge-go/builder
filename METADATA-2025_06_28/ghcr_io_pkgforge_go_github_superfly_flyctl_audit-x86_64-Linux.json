@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "audit",
+  "pkg_family": "flyctl",
+  "pkg_id": "audit#github.com_superfly_flyctl",
+  "pkg_name": "audit",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/superfly/flyctl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Command line tools for fly.io services",
+  "homepage": [
+    "https://github.com/superfly/flyctl"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "audit",
+    "clean-up-preflight-apps",
+    "distribute",
+    "flyctl",
+    "flyctl-doc",
+    "version"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/superfly/flyctl/archive/0c9ff827093f48a9ac8a4f7f89c35dc08e49d0f5.tar.gz"
+  ],
+  "tag": [
+    "flyio-tools"
+  ],
+  "version": "HEAD-0c9ff82-250627T141440",
+  "version_upstream": "v0.3.145",
+  "bsum": "dd04a31a5df3a07f6265c33f9185e73a6c045f5158bd8f51f898a258c7a86ff6",
+  "build_date": "2025-06-28T08:56:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942013213",
+  "build_id": "15942013213",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/superfly/flyctl/audit?tag=HEAD-0c9ff82-250627T141440-x86_64-Linux&download=audit.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1531",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/superfly/flyctl/audit?tag=HEAD-0c9ff82-250627T141440-x86_64-Linux&download=audit",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/superfly/flyctl/audit:HEAD-0c9ff82-250627T141440-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/superfly/flyctl/audit",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/superfly/flyctl/audit?tag=HEAD-0c9ff82-250627T141440-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "db86d649f185bd5ab04255389b66ae7ecd08559842913173cbad7d08750bab51",
+  "size": "71 MB",
+  "size_raw": "74335952",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
