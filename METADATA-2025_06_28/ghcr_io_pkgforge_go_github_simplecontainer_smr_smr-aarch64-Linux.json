@@ -33,7 +33,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/simplecontainer/smr/archive/9266cafa441b4e95139690d67cac88c6d75453d5.tar.gz"
+    "https://github.com/simplecontainer/smr/archive/f463a02715b3ddeddeb2643226fda8ba8429e8c6.tar.gz"
   ],
   "tag": [
     "cluster",
@@ -45,33 +45,34 @@
     "overlay",
     "simplecontainer"
   ],
-  "version": "HEAD-9266caf-250627T132825",
-  "version_upstream": "",
-  "bsum": "4ba15559b9b2ab1dd25f271ac19d57c264127957a26734bf1364f100a5c152ae",
-  "build_date": "2025-06-28T02:30:43Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15939321260",
-  "build_id": "15939321260",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/simplecontainer/smr/smr?tag=HEAD-9266caf-250627T132825-aarch64-Linux&download=smr.log",
+  "version": "HEAD-f463a02-250627T183354",
+  "version_upstream": "smr-v0.1.81",
+  "bsum": "708966f1aa554f3edcb8046970392de2818a6d0272757ebad1623d13cb599589",
+  "build_date": "2025-06-28T14:26:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15944508601",
+  "build_id": "15944508601",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/simplecontainer/smr/smr?tag=HEAD-f463a02-250627T183354-aarch64-Linux&download=smr.log",
   "deprecated": "false",
   "desktop_integration": "false",
   "download_count": "45",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/simplecontainer/smr/smr?tag=HEAD-9266caf-250627T132825-aarch64-Linux&download=smr",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/simplecontainer/smr/smr?tag=HEAD-f463a02-250627T183354-aarch64-Linux&download=smr",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/simplecontainer/smr/smr:HEAD-9266caf-250627T132825-aarch64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/simplecontainer/smr/smr:HEAD-f463a02-250627T183354-aarch64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/simplecontainer/smr/smr",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/simplecontainer/smr/smr?tag=HEAD-9266caf-250627T132825-aarch64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/simplecontainer/smr/smr?tag=HEAD-f463a02-250627T183354-aarch64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "1d2c43e5d2260916b0f32cec07b613248c609ee29914ca826eae5ebc08874d84",
+  "shasum": "7e14a0df5b433306fe160af281b754f6bdb0c1ffdaf06029a6dbca9e339192cc",
   "size": "42 MB",
-  "size_raw": "43312320",
+  "size_raw": "43329344",
   "soar_syms": "false",
   "snapshots": [
     "HEAD-7ea187a-250622T123418-aarch64-Linux[smrctl-v0.0.108]",
     "HEAD-9357f30-250623T232142-aarch64-Linux[smrctl-v0.0.110]",
     "HEAD-9e553e1-250625T203556-aarch64-Linux",
-    "HEAD-f8f57fa-250627T015138-aarch64-Linux[smrctl-v0.0.114]"
+    "HEAD-f8f57fa-250627T015138-aarch64-Linux[smrctl-v0.0.114]",
+    "HEAD-9266caf-250627T132825-aarch64-Linux"
   ],
   "trusted": "true"
 }
