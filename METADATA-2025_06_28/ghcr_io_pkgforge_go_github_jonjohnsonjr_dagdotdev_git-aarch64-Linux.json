@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "git",
+  "pkg_family": "dagdotdev",
+  "pkg_id": "git#github.com_jonjohnsonjr_dagdotdev",
+  "pkg_name": "git",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jonjohnsonjr/dagdotdev",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "oci and apk explorer",
+  "homepage": [
+    "https://github.com/jonjohnsonjr/dagdotdev"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apk",
+    "dagdotdev",
+    "git",
+    "oci",
+    "zurl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/jonjohnsonjr/dagdotdev/archive/6d22814abcf2f0a9b81542dd51e902ee64b8495f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-6d22814-250627T133740",
+  "version_upstream": "v0.0.17",
+  "bsum": "b3d82c4cb834db06c12ab6d9ce9cf2a6bbc35317ee0805087e0b29bb9a4f8403",
+  "build_date": "2025-06-28T08:02:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941679009",
+  "build_id": "15941679009",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jonjohnsonjr/dagdotdev/git?tag=HEAD-6d22814-250627T133740-aarch64-Linux&download=git.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "58",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jonjohnsonjr/dagdotdev/git?tag=HEAD-6d22814-250627T133740-aarch64-Linux&download=git",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jonjohnsonjr/dagdotdev/git:HEAD-6d22814-250627T133740-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jonjohnsonjr/dagdotdev/git",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jonjohnsonjr/dagdotdev/git?tag=HEAD-6d22814-250627T133740-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "445679f65ea6b1bcfcffd6bbd536cf8b7038e54d8703e5785dc59435ac4e358b",
+  "size": "8.3 MB",
+  "size_raw": "8628864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
