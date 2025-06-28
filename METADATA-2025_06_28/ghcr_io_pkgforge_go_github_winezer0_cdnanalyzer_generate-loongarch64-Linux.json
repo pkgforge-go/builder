@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "generate",
+  "pkg_family": "cdnAnalyzer",
+  "pkg_id": "generate#github.com_winezer0_cdnAnalyzer",
+  "pkg_name": "generate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/winezer0/cdnAnalyzer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "目前最完善的CDN分析工具 便于快速筛选CDN资产信息 基于IP_ASN_CNAME_IPlocate等多种方案",
+  "homepage": [
+    "https://github.com/winezer0/cdnAnalyzer"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docheck",
+    "generate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/winezer0/cdnAnalyzer/archive/79e07dfc76086183992e476a5bf19a60f15a34b9.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-79e07df-250628T020049",
+  "version_upstream": "",
+  "bsum": "df7f91fb9c95bc6b024acba001c0849bdcacf6a368e3ec1958b13fabde8fc823",
+  "build_date": "2025-06-28T09:04:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942111399",
+  "build_id": "15942111399",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/winezer0/cdnanalyzer/generate?tag=HEAD-79e07df-250628T020049-loongarch64-Linux&download=generate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/winezer0/cdnanalyzer/generate?tag=HEAD-79e07df-250628T020049-loongarch64-Linux&download=generate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/winezer0/cdnanalyzer/generate:HEAD-79e07df-250628T020049-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/winezer0/cdnanalyzer/generate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/winezer0/cdnanalyzer/generate?tag=HEAD-79e07df-250628T020049-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8c48a76fafd84efc6ec8a6f12cec40b11ff33979ffdef6065620e53ee5e65af3",
+  "size": "1.6 MB",
+  "size_raw": "1642008",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
