@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "config-reloader",
+  "pkg_family": "operator",
+  "pkg_id": "config-reloader#github.com_VictoriaMetrics_operator",
+  "pkg_name": "config-reloader",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/VictoriaMetrics/operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes operator for Victoria Metrics",
+  "homepage": [
+    "https://github.com/VictoriaMetrics/operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "config-reloader"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/VictoriaMetrics/operator/archive/9471e7a0c765d267f8473a8ffab4595130f7c077.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-9471e7a-250627T192716",
+  "version_upstream": "",
+  "bsum": "fa7c7e4a55001f54d0a54468d96f2dd2f368ba5456f34779aeac4efb039f3a7b",
+  "build_date": "2025-06-28T04:09:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15940290710",
+  "build_id": "15940290710",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/victoriametrics/operator/config-reloader?tag=HEAD-9471e7a-250627T192716-loongarch64-Linux&download=config-reloader.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "486",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/victoriametrics/operator/config-reloader?tag=HEAD-9471e7a-250627T192716-loongarch64-Linux&download=config-reloader",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/victoriametrics/operator/config-reloader:HEAD-9471e7a-250627T192716-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/victoriametrics/operator/config-reloader",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/victoriametrics/operator/config-reloader?tag=HEAD-9471e7a-250627T192716-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "162d7d78a828f2cf7483cdcd6d4a03539558c4698ad0a758a07f395fd2bc99f3",
+  "size": "38 MB",
+  "size_raw": "39018976",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-4d43ba7-250619T003544-loongarch64-Linux",
+    "HEAD-30f9cf3-250622T142629-loongarch64-Linux",
+    "HEAD-13f7a3c-250623T150326-loongarch64-Linux",
+    "HEAD-e1dec2c-250623T221446-loongarch64-Linux",
+    "HEAD-8cd0cdc-250624T201603-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
