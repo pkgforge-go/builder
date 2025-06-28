@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "huawei-csi-extender",
+  "pkg_family": "eSDK_K8S_Plugin",
+  "pkg_id": "huawei-csi-extender#github.com_Huawei_eSDK_K8S_Plugin",
+  "pkg_name": "huawei-csi-extender",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Huawei/eSDK_K8S_Plugin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Container-Storage-Interface _CSI_ for Huawei storage",
+  "homepage": [
+    "https://github.com/Huawei/eSDK_K8S_Plugin"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "csi",
+    "esdk_k8s_plugin-cli",
+    "huawei-csi-extender",
+    "storage-backend-controller",
+    "storage-backend-sidecar"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Huawei/eSDK_K8S_Plugin/archive/cd0eff7115ceddf350664b29b99911b6768404ba.tar.gz"
+  ],
+  "tag": [
+    "csi",
+    "huawei",
+    "kubernetes"
+  ],
+  "version": "HEAD-cd0eff7-250628T163837",
+  "version_upstream": "v4.8.0",
+  "bsum": "617ff95ae069c74c8cd826eaa06e9cdf849dae3c36d0e410d12167a374af4552",
+  "build_date": "2025-06-28T15:49:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15945702291",
+  "build_id": "15945702291",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/k8s/plugin/huawei-csi-extender?tag=HEAD-cd0eff7-250628T163837-aarch64-Linux&download=huawei-csi-extender.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "97",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/k8s/plugin/huawei-csi-extender?tag=HEAD-cd0eff7-250628T163837-aarch64-Linux&download=huawei-csi-extender",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/k8s/plugin/huawei-csi-extender:HEAD-cd0eff7-250628T163837-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/k8s/plugin/huawei-csi-extender",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/k8s/plugin/huawei-csi-extender?tag=HEAD-cd0eff7-250628T163837-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "88bb5e25057664c2a7b9f5c9c76508fdbab76a15915ac0a21784a070325ad3a4",
+  "size": "50 MB",
+  "size_raw": "52114592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
