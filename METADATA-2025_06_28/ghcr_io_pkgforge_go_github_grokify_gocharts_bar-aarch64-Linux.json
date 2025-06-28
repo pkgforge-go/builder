@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "bar",
+  "pkg_family": "gocharts",
+  "pkg_id": "bar#github.com_grokify_gocharts",
+  "pkg_name": "bar",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grokify/gocharts",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go code to help create various charts, e.g. C3, D3, Rickshaw, go-chart, etc.",
+  "homepage": [
+    "https://github.com/grokify/gocharts"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "actualvstarget",
+    "bar",
+    "bar_chart",
+    "categorized",
+    "donut_chart",
+    "examples",
+    "funnel_chart",
+    "greenred",
+    "histogram_set_stats",
+    "line",
+    "linechart_material",
+    "parse",
+    "parse_csv",
+    "read_crosstab_xlsx",
+    "roadmap",
+    "simple",
+    "twoaxis",
+    "write"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/grokify/gocharts/archive/e8efe4572385cb2d2806fccd535d70c3904652ea.tar.gz"
+  ],
+  "tag": [
+    "c3js",
+    "d3js",
+    "golang-library",
+    "rickshaw"
+  ],
+  "version": "HEAD-e8efe45-250628T044354",
+  "version_upstream": "",
+  "bsum": "cbe4240c80fdc593e2e9418a2d9f4a8fbc253461cf4807d36f0bac6d7c5fd912",
+  "build_date": "2025-06-28T19:45:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15947192028",
+  "build_id": "15947192028",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grokify/gocharts/bar?tag=HEAD-e8efe45-250628T044354-aarch64-Linux&download=bar.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "51",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grokify/gocharts/bar?tag=HEAD-e8efe45-250628T044354-aarch64-Linux&download=bar",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/grokify/gocharts/bar:HEAD-e8efe45-250628T044354-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/grokify/gocharts/bar",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/grokify/gocharts/bar?tag=HEAD-e8efe45-250628T044354-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1ab02cd0bff77ed4f59c6aaf4228b762933081197f56d2c076fd2abbed7ebfc1",
+  "size": "13 MB",
+  "size_raw": "12915520",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-f871e4f-250622T034018-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
