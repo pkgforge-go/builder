@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "genkeycodes",
+  "pkg_family": "rlxos",
+  "pkg_id": "genkeycodes#github.com_itsManjeet_rlxos",
+  "pkg_name": "genkeycodes",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/itsManjeet/rlxos",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A truly modern implementation of GNU/Linux distribution",
+  "homepage": [
+    "https://github.com/itsManjeet/rlxos"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "debug",
+    "genkeycodes",
+    "init",
+    "service",
+    "shell",
+    "udevd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/itsManjeet/rlxos/archive/aded715365138d5868cd39ec1a740975c249e52d.tar.gz"
+  ],
+  "tag": [
+    "bootstrap",
+    "linux",
+    "pkgupd",
+    "rlxos"
+  ],
+  "version": "HEAD-aded715-250627T133245",
+  "version_upstream": "",
+  "bsum": "6f3720e0a2a4bff98d331a0713292bd0eca5c771a4b660a68ca20bc7dc2ed095",
+  "build_date": "2025-06-28T02:25:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15939320130",
+  "build_id": "15939320130",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsmanjeet/rlxos/genkeycodes?tag=HEAD-aded715-250627T133245-loongarch64-Linux&download=genkeycodes.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "138",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsmanjeet/rlxos/genkeycodes?tag=HEAD-aded715-250627T133245-loongarch64-Linux&download=genkeycodes",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/itsmanjeet/rlxos/genkeycodes:HEAD-aded715-250627T133245-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/itsmanjeet/rlxos/genkeycodes",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itsmanjeet/rlxos/genkeycodes?tag=HEAD-aded715-250627T133245-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "93b08973cae3e1d4d5c82ceef456dc4c7efbb601321726f3659a54b587e415d2",
+  "size": "2.0 MB",
+  "size_raw": "2036344",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-95b2757-250621T144346-loongarch64-Linux",
+    "HEAD-80c2a1b-250622T223945-loongarch64-Linux",
+    "HEAD-aded715-250627T133245-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
