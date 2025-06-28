@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "oci",
+  "pkg_family": "dagdotdev",
+  "pkg_id": "oci#github.com_jonjohnsonjr_dagdotdev",
+  "pkg_name": "oci",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jonjohnsonjr/dagdotdev",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "oci and apk explorer",
+  "homepage": [
+    "https://github.com/jonjohnsonjr/dagdotdev"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apk",
+    "dagdotdev",
+    "git",
+    "oci",
+    "zurl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/jonjohnsonjr/dagdotdev/archive/6d22814abcf2f0a9b81542dd51e902ee64b8495f.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-6d22814-250627T133740",
+  "version_upstream": "v0.0.17",
+  "bsum": "89f9630d9a2d7479116d3af21b9ed17659f6c8e27ef0a253b1861c0513582294",
+  "build_date": "2025-06-28T08:02:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941679009",
+  "build_id": "15941679009",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jonjohnsonjr/dagdotdev/oci?tag=HEAD-6d22814-250627T133740-loongarch64-Linux&download=oci.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "58",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jonjohnsonjr/dagdotdev/oci?tag=HEAD-6d22814-250627T133740-loongarch64-Linux&download=oci",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jonjohnsonjr/dagdotdev/oci:HEAD-6d22814-250627T133740-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jonjohnsonjr/dagdotdev/oci",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jonjohnsonjr/dagdotdev/oci?tag=HEAD-6d22814-250627T133740-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "51fbff59b08988d4e90afd2521144875bf544a079ebf41cb75fc5cf2114ef596",
+  "size": "35 MB",
+  "size_raw": "36297080",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
