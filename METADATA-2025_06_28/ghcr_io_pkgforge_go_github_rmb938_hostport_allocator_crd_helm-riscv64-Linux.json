@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "crd-helm",
+  "pkg_family": "hostport-allocator",
+  "pkg_id": "crd-helm#github.com_rmb938_hostport_allocator",
+  "pkg_name": "crd-helm",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rmb938/hostport-allocator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Kubernetes Operator to allocate hostports",
+  "homepage": [
+    "https://github.com/rmb938/hostport-allocator"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "crd-helm",
+    "hostport-allocator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rmb938/hostport-allocator/archive/34de2913e800847c9fb99fd01f4378274553ed3d.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-34de291-250627T170149",
+  "version_upstream": "v0.1.16",
+  "bsum": "e63d667df7bce5829d888084d4278c7400718a3c9f6d40a132080d65f15f7c97",
+  "build_date": "2025-06-28T08:36:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941964944",
+  "build_id": "15941964944",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rmb938/hostport-allocator/crd-helm?tag=HEAD-34de291-250627T170149-riscv64-Linux&download=crd-helm.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "17",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rmb938/hostport-allocator/crd-helm?tag=HEAD-34de291-250627T170149-riscv64-Linux&download=crd-helm",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rmb938/hostport-allocator/crd-helm:HEAD-34de291-250627T170149-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rmb938/hostport-allocator/crd-helm",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rmb938/hostport-allocator/crd-helm?tag=HEAD-34de291-250627T170149-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e47147b3f9fa0cfab3022d2949ab1d90661df9e3d2a5700c448d47e3ec111034",
+  "size": "36 MB",
+  "size_raw": "37689560",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
