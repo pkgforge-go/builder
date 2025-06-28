@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "aggregator",
+  "pkg_family": "aggregator",
+  "pkg_id": "aggregator#github.com_paycrest_aggregator",
+  "pkg_name": "aggregator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/paycrest/aggregator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An aggregator handles the allocation, matching, and settlement of payment intents for the Paycrest protocol",
+  "homepage": [
+    "https://github.com/paycrest/aggregator"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aggregator",
+    "seed-db"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/paycrest/aggregator/archive/926dd78e7afbbb2e59f6debff0566b5ccbd615fc.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-926dd78-250628T121714",
+  "version_upstream": "",
+  "bsum": "6ed43cec60f992a6907db3cb8eb8600aa66fffaac40f6635374c877291400b64",
+  "build_date": "2025-06-28T20:19:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15947259803",
+  "build_id": "15947259803",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paycrest/aggregator/aggregator?tag=HEAD-926dd78-250628T121714-x86_64-Linux&download=aggregator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paycrest/aggregator/aggregator?tag=HEAD-926dd78-250628T121714-x86_64-Linux&download=aggregator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/paycrest/aggregator/aggregator:HEAD-926dd78-250628T121714-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/paycrest/aggregator/aggregator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paycrest/aggregator/aggregator?tag=HEAD-926dd78-250628T121714-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7877da018917beca6a4d6a556310219573f0b835c5610ed1d4228127ef4be44f",
+  "size": "49 MB",
+  "size_raw": "50960704",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-20793d1-250625T022603-x86_64-Linux",
+    "HEAD-24aac8b-250627T021046-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
