@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "grpc-server",
+  "pkg_family": "go-whosonfirst-spatial-pmtiles",
+  "pkg_id": "grpc-server#github.com_whosonfirst_go_whosonfirst_spatial_pmtiles",
+  "pkg_name": "grpc-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/whosonfirst/go-whosonfirst-spatial-pmtiles",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go package to implement the whosonfirst/go-whosonfirst-spatial interfaces using a Protomaps .pmtiles database.",
+  "homepage": [
+    "https://github.com/whosonfirst/go-whosonfirst-spatial-pmtiles"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "grpc-client",
+    "grpc-server",
+    "http-server",
+    "intersects",
+    "pip",
+    "pmtile",
+    "update-hierarchies"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/whosonfirst/go-whosonfirst-spatial-pmtiles/archive/cf48b812bcbfa44b4ded4aa78bbe27921074cdc1.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-cf48b81-250628T064130",
+  "version_upstream": "v0.9.1",
+  "bsum": "34785cd0fcfc8c71a838d9a7781bc08a2821b2bdb5a3e4830189112a77049ace",
+  "build_date": "2025-06-28T17:02:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15945895313",
+  "build_id": "15945895313",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/whosonfirst/go-whosonfirst-spatial-pmtiles/grpc-server?tag=HEAD-cf48b81-250628T064130-loongarch64-Linux&download=grpc-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/whosonfirst/go-whosonfirst-spatial-pmtiles/grpc-server?tag=HEAD-cf48b81-250628T064130-loongarch64-Linux&download=grpc-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/whosonfirst/go-whosonfirst-spatial-pmtiles/grpc-server:HEAD-cf48b81-250628T064130-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/whosonfirst/go-whosonfirst-spatial-pmtiles/grpc-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/whosonfirst/go-whosonfirst-spatial-pmtiles/grpc-server?tag=HEAD-cf48b81-250628T064130-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "268180cd21db1498acce3610a6519f84d39563b24e14654d8656181526e31c7d",
+  "size": "59 MB",
+  "size_raw": "60972160",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
