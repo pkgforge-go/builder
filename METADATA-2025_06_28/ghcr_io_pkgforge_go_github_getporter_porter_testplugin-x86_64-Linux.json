@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "testplugin",
+  "pkg_family": "porter",
+  "pkg_id": "testplugin#github.com_getporter_porter",
+  "pkg_name": "testplugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/getporter/porter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.",
+  "homepage": [
+    "https://github.com/getporter/porter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "app",
+    "exec",
+    "porter",
+    "testmixin",
+    "testplugin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/getporter/porter/archive/d3035e6140e24d33741a6c4f8bbb0c16ac6a4928.tar.gz"
+  ],
+  "tag": [
+    "cnab",
+    "cncf",
+    "hacktoberfest",
+    "porter"
+  ],
+  "version": "HEAD-d3035e6-250627T214337",
+  "version_upstream": "canary",
+  "bsum": "27c163e9c84fb44985c5bbabf60d1a4374f6efca8c030277d0054cd7e15d4e5d",
+  "build_date": "2025-06-28T10:41:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942920579",
+  "build_id": "15942920579",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/getporter/porter/testplugin?tag=HEAD-d3035e6-250627T214337-x86_64-Linux&download=testplugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1320",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/getporter/porter/testplugin?tag=HEAD-d3035e6-250627T214337-x86_64-Linux&download=testplugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/getporter/porter/testplugin:HEAD-d3035e6-250627T214337-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/getporter/porter/testplugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/getporter/porter/testplugin?tag=HEAD-d3035e6-250627T214337-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f5f8822d9c266582a5f0ccfbd81f1d0d7d553c548fd3a0b9a3a1d9d43a082e3d",
+  "size": "1.6 MB",
+  "size_raw": "1641752",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-8a0e0b3-250616T194727-x86_64-Linux[canary]",
+    "HEAD-8000b91-250622T212350-x86_64-Linux[canary]",
+    "HEAD-31409d0-250625T145000-x86_64-Linux[canary]",
+    "HEAD-42aedf2-250626T225621-x86_64-Linux[canary]"
+  ],
+  "trusted": "true"
+}
