@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "weather",
+  "pkg_family": "dots",
+  "pkg_id": "weather#github.com_drn_dots",
+  "pkg_name": "weather",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/drn/dots",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": ":new_moon: Obsessively curated dotfiles.",
+  "homepage": [
+    "https://github.com/drn/dots"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "battery-percent",
+    "battery-state",
+    "cpu",
+    "dots",
+    "git-ancestor",
+    "git-canonical-branch",
+    "git-canonical-path",
+    "git-canonical-remote",
+    "git-killme",
+    "git-masterme",
+    "git-rebase-master",
+    "git-reset-hard-master",
+    "gps",
+    "home-scp",
+    "ip",
+    "router",
+    "search-github",
+    "spotify",
+    "ssid",
+    "tmux-status",
+    "weather"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/drn/dots/archive/4e1e9b9597251df5da7a47b3e73dae9ef072651a.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-4e1e9b9-250627T133245",
+  "version_upstream": "",
+  "bsum": "6ccf217f4c8c2d15e21f34aca1a6248ea77d5a57a191d5b98296edb38c0bfd6f",
+  "build_date": "2025-06-28T07:41:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941595768",
+  "build_id": "15941595768",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drn/dots/weather?tag=HEAD-4e1e9b9-250627T133245-aarch64-Linux&download=weather.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "22",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drn/dots/weather?tag=HEAD-4e1e9b9-250627T133245-aarch64-Linux&download=weather",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/drn/dots/weather:HEAD-4e1e9b9-250627T133245-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/drn/dots/weather",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drn/dots/weather?tag=HEAD-4e1e9b9-250627T133245-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2dcb80d558a1152c43aad49de60b9027cd8069bca55e0a2cc74a95a753efd7da",
+  "size": "3.1 MB",
+  "size_raw": "3205912",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
