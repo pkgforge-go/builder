@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "cutlass",
+  "pkg_family": "cutlass",
+  "pkg_id": "cutlass#github.com_andrewarrow_cutlass",
+  "pkg_name": "cutlass",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/andrewarrow/cutlass",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "swiss army knife for generating fcpxml files",
+  "homepage": [
+    "https://github.com/andrewarrow/cutlass"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cutlass"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/andrewarrow/cutlass/archive/bffc9d1f67963b6f9fbcefab03f4f093e5b7b2a3.tar.gz"
+  ],
+  "tag": [
+    "fcp",
+    "fcpxml",
+    "final-cut-pro"
+  ],
+  "version": "HEAD-bffc9d1-250627T201359",
+  "version_upstream": "",
+  "bsum": "5f5ae638dcb1768948d6c1c04e05805fb3e30f38472c2d740a3b8755ff09f15b",
+  "build_date": "2025-06-28T09:59:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15942891570",
+  "build_id": "15942891570",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/andrewarrow/cutlass/cutlass?tag=HEAD-bffc9d1-250627T201359-x86_64-Linux&download=cutlass.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/andrewarrow/cutlass/cutlass?tag=HEAD-bffc9d1-250627T201359-x86_64-Linux&download=cutlass",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/andrewarrow/cutlass/cutlass:HEAD-bffc9d1-250627T201359-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/andrewarrow/cutlass/cutlass",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/andrewarrow/cutlass/cutlass?tag=HEAD-bffc9d1-250627T201359-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cdbac63ac014579fb03ba47a43173cf50097e483cc68354a9f46163fa7dcd124",
+  "size": "8.7 MB",
+  "size_raw": "9096064",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-fb5aeb9-250618T200809-x86_64-Linux",
+    "HEAD-aca6298-250622T004726-x86_64-Linux",
+    "HEAD-65d7849-250622T133145-x86_64-Linux",
+    "HEAD-584a281-250623T073331-x86_64-Linux",
+    "HEAD-09e71a2-250623T120032-x86_64-Linux",
+    "HEAD-15f1ec5-250625T170031-x86_64-Linux",
+    "HEAD-f1f8133-250626T204501-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
