@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "eval",
+  "pkg_family": "search",
+  "pkg_id": "eval#github.com_kelindar_search",
+  "pkg_name": "eval",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kelindar/search",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library for embedded vector search and semantic embeddings using llama.cpp",
+  "homepage": [
+    "https://github.com/kelindar/search"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "eval",
+    "search-example"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kelindar/search/archive/c2d372177d129b7c49ed2550c3446877fbc00c9c.tar.gz"
+  ],
+  "tag": [
+    "ai",
+    "bert",
+    "embeddings",
+    "gguf",
+    "gpu",
+    "llamacpp",
+    "search-engine",
+    "semantic-search",
+    "simd",
+    "vector-search"
+  ],
+  "version": "HEAD-c2d3721-250628T133934",
+  "version_upstream": "",
+  "bsum": "d42a1b128fec8945c3ebc89559854536bae379c6b73cd6f1ab5e2e0a0b75666d",
+  "build_date": "2025-06-28T19:55:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15947211670",
+  "build_id": "15947211670",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kelindar/search/eval?tag=HEAD-c2d3721-250628T133934-aarch64-Linux&download=eval.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "461",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kelindar/search/eval?tag=HEAD-c2d3721-250628T133934-aarch64-Linux&download=eval",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kelindar/search/eval:HEAD-c2d3721-250628T133934-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kelindar/search/eval",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kelindar/search/eval?tag=HEAD-c2d3721-250628T133934-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5f1c65ac1d27d7e90b92bbdd3874691114888d38aad2ccf6481745eefd2e353a",
+  "size": "2.1 MB",
+  "size_raw": "2107896",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-519bc5b-250307T232656-aarch64-Linux[v0.4.0]"
+  ],
+  "trusted": "true"
+}
