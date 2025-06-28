@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "partition_gpu",
+  "pkg_family": "container-engine-accelerators",
+  "pkg_id": "partition_gpu#github.com_GoogleCloudPlatform_container_engine_accelerators",
+  "pkg_name": "partition_gpu",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/GoogleCloudPlatform/container-engine-accelerators",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Collection of tools and examples for managing Accelerated workloads in Kubernetes Engine",
+  "homepage": [
+    "https://github.com/GoogleCloudPlatform/container-engine-accelerators"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "nri_device_injector",
+    "nvidia-persistenced-installer",
+    "partition_gpu"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/GoogleCloudPlatform/container-engine-accelerators/archive/34455317852803240883edf26efcc522602834ca.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-3445531-250627T160845",
+  "version_upstream": "",
+  "bsum": "4e650a7a170aac09a05c7d3dc4161847ab8fdb3be865d43c3bdfc8cdefe89a16",
+  "build_date": "2025-06-28T06:59:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941543158",
+  "build_id": "15941543158",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/container-engine-accelerators/partition_gpu?tag=HEAD-3445531-250627T160845-loongarch64-Linux&download=partition_gpu.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "235",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/container-engine-accelerators/partition_gpu?tag=HEAD-3445531-250627T160845-loongarch64-Linux&download=partition_gpu",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googlecloudplatform/container-engine-accelerators/partition_gpu:HEAD-3445531-250627T160845-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googlecloudplatform/container-engine-accelerators/partition_gpu",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/container-engine-accelerators/partition_gpu?tag=HEAD-3445531-250627T160845-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5c703f0c80d2443a6483cf9af6b951b9c7a3d1eb6b74e4135b31a289cd5d9c76",
+  "size": "2.8 MB",
+  "size_raw": "2868504",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
