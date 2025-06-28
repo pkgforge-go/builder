@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "livenessprobe",
+  "pkg_family": "cosi",
+  "pkg_id": "livenessprobe#github.com_Huawei_cosi",
+  "pkg_name": "livenessprobe",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/Huawei/cosi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "COSI driver for Huawei Storage",
+  "homepage": [
+    "https://github.com/Huawei/cosi"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "driver",
+    "livenessprobe"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/Huawei/cosi/archive/3e2a7cbfd36a4ab6bc7102e758693987912fbbb2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-3e2a7cb-250628T162441",
+  "version_upstream": "v1.1.0",
+  "bsum": "bd342071975b342296f20c937096dd809038dcc0f98655c251ec7340b00168de",
+  "build_date": "2025-06-28T15:45:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15945702515",
+  "build_id": "15945702515",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/huawei/cosi/livenessprobe?tag=HEAD-3e2a7cb-250628T162441-riscv64-Linux&download=livenessprobe.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/huawei/cosi/livenessprobe?tag=HEAD-3e2a7cb-250628T162441-riscv64-Linux&download=livenessprobe",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/huawei/cosi/livenessprobe:HEAD-3e2a7cb-250628T162441-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/huawei/cosi/livenessprobe",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/huawei/cosi/livenessprobe?tag=HEAD-3e2a7cb-250628T162441-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e536c34cfde3322381b9638d04be72171477e007ea1c8c0bb24e379aba9204eb",
+  "size": "45 MB",
+  "size_raw": "47109272",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
