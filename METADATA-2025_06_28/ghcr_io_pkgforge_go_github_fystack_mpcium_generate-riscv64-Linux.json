@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "generate",
+  "pkg_family": "mpcium",
+  "pkg_id": "generate#github.com_fystack_mpcium",
+  "pkg_name": "generate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fystack/mpcium",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Effortlessly launch distributed crypto wallets with MPC technology in minutes",
+  "homepage": [
+    "https://github.com/fystack/mpcium"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generate",
+    "mpcium",
+    "mpcium-cli",
+    "sign"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/fystack/mpcium/archive/756bdf34bc424d6a698c7aac7d1681a093e2552b.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "crypto",
+    "mpc-wallet",
+    "tss",
+    "wallet"
+  ],
+  "version": "HEAD-756bdf3-250628T143129",
+  "version_upstream": "",
+  "bsum": "be92216dc22897b2bb523a53ab4e1ceaff999c1de445dd97ba371545ecdc7ac8",
+  "build_date": "2025-06-28T19:33:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15947186405",
+  "build_id": "15947186405",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fystack/mpcium/generate?tag=HEAD-756bdf3-250628T143129-riscv64-Linux&download=generate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "36",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fystack/mpcium/generate?tag=HEAD-756bdf3-250628T143129-riscv64-Linux&download=generate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fystack/mpcium/generate:HEAD-756bdf3-250628T143129-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fystack/mpcium/generate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fystack/mpcium/generate?tag=HEAD-756bdf3-250628T143129-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2b6c74228bf8d7908cab0aea3998aaa0c271daaa84b1127eaa3410c291a9bf9f",
+  "size": "16 MB",
+  "size_raw": "16346392",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-89268ee-250517T184128-riscv64-Linux",
+    "HEAD-9bc217c-250517T191433-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
