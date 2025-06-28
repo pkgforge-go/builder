@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "hub",
+  "pkg_family": "distr",
+  "pkg_id": "hub#github.com_glasskube_distr",
+  "pkg_name": "hub",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/glasskube/distr",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Open Source control plane for self-managed, BYOC, and on-prem deployments. Everything you need to distribute applications to self-managed customers out of the box.",
+  "homepage": [
+    "https://github.com/glasskube/distr"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docker",
+    "hub",
+    "kubernetes",
+    "mcp",
+    "status"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/glasskube/distr/archive/4332cf40dab65534d02ab9a3ff9b6300cb53e16f.tar.gz"
+  ],
+  "tag": [
+    "angular",
+    "cloud",
+    "distr",
+    "docker-compose",
+    "glasskube",
+    "go",
+    "golang",
+    "kubernetes",
+    "on-prem",
+    "on-premises",
+    "software-distribution"
+  ],
+  "version": "HEAD-4332cf4-250628T020109",
+  "version_upstream": "",
+  "bsum": "58904feb8ecd28d3c13705e1a250dbc3f8c080d27ca768a89799051a388d364c",
+  "build_date": "2025-06-28T13:47:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15944449357",
+  "build_id": "15944449357",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glasskube/distr/hub?tag=HEAD-4332cf4-250628T020109-riscv64-Linux&download=hub.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "617",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glasskube/distr/hub?tag=HEAD-4332cf4-250628T020109-riscv64-Linux&download=hub",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/glasskube/distr/hub:HEAD-4332cf4-250628T020109-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/glasskube/distr/hub",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glasskube/distr/hub?tag=HEAD-4332cf4-250628T020109-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a73671212ada05ef019f89eb2a988d7b055a7417b0690c806243000ae86d33ef",
+  "size": "36 MB",
+  "size_raw": "37092600",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-bc799ba-250620T030952-riscv64-Linux",
+    "HEAD-9c50879-250621T143122-riscv64-Linux",
+    "HEAD-40b40e4-250625T025720-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
