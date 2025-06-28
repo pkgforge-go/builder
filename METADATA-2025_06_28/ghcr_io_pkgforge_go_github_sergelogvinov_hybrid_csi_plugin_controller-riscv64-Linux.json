@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "controller",
+  "pkg_family": "hybrid-csi-plugin",
+  "pkg_id": "controller#github.com_sergelogvinov_hybrid_csi_plugin",
+  "pkg_name": "controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sergelogvinov/hybrid-csi-plugin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Hybrid storage plugin",
+  "homepage": [
+    "https://github.com/sergelogvinov/hybrid-csi-plugin"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "controller",
+    "csi-provisioner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sergelogvinov/hybrid-csi-plugin/archive/d9ba8acd3592d6466d326bc492ab6d32631cd626.tar.gz"
+  ],
+  "tag": [
+    "csi",
+    "csi-driver",
+    "hybrid-cloud",
+    "k8s-sig-storage",
+    "kubernetes",
+    "multi-cloud"
+  ],
+  "version": "HEAD-d9ba8ac-250628T093135",
+  "version_upstream": "v0.2.1",
+  "bsum": "959eb866c612b8171c8f3940cd59748320eb9c55d425c9dd08b9e6ede0f23cbe",
+  "build_date": "2025-06-28T08:40:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15941977595",
+  "build_id": "15941977595",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sergelogvinov/hybrid-csi-plugin/controller?tag=HEAD-d9ba8ac-250628T093135-riscv64-Linux&download=controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sergelogvinov/hybrid-csi-plugin/controller?tag=HEAD-d9ba8ac-250628T093135-riscv64-Linux&download=controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sergelogvinov/hybrid-csi-plugin/controller:HEAD-d9ba8ac-250628T093135-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sergelogvinov/hybrid-csi-plugin/controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sergelogvinov/hybrid-csi-plugin/controller?tag=HEAD-d9ba8ac-250628T093135-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4da12848afac542b087e19bc180bc8230c7d92bfef166de4eb7ea7c9e74cf687",
+  "size": "50 MB",
+  "size_raw": "51820760",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
