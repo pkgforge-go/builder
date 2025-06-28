@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "blocklist",
+  "pkg_family": "blocklist",
+  "pkg_id": "blocklist#github.com_missdeer_blocklist",
+  "pkg_name": "blocklist",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/missdeer/blocklist",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A big domain block list - 200000+ lines",
+  "homepage": [
+    "https://github.com/missdeer/blocklist"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "blocklist",
+    "convert"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/missdeer/blocklist/archive/63ae97a48bfdb17d6d457556df19649bd0376999.tar.gz"
+  ],
+  "tag": [
+    "blacklist",
+    "domain-name"
+  ],
+  "version": "HEAD-63ae97a-250628T043527",
+  "version_upstream": "",
+  "bsum": "27cd8b27e12a379ad9fb350cf4716e87fc113ad0a77d224bd97e6f8d6e70fc78",
+  "build_date": "2025-06-28T20:03:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15947219469",
+  "build_id": "15947219469",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/missdeer/blocklist/blocklist?tag=HEAD-63ae97a-250628T043527-riscv64-Linux&download=blocklist.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "58",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/missdeer/blocklist/blocklist?tag=HEAD-63ae97a-250628T043527-riscv64-Linux&download=blocklist",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/missdeer/blocklist/blocklist:HEAD-63ae97a-250628T043527-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/missdeer/blocklist/blocklist",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/missdeer/blocklist/blocklist?tag=HEAD-63ae97a-250628T043527-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b928bb1c86872c7d2347a5f0552d7410d783ca0a425db99c022cd2c88eabaf7d",
+  "size": "6.1 MB",
+  "size_raw": "6394360",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-99f92da-250621T043357-riscv64-Linux",
+    "HEAD-346c54c-250622T043834-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
