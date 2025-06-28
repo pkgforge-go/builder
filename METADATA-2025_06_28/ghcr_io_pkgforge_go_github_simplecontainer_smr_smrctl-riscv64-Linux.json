@@ -33,7 +33,7 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://github.com/simplecontainer/smr/archive/9266cafa441b4e95139690d67cac88c6d75453d5.tar.gz"
+    "https://github.com/simplecontainer/smr/archive/f463a02715b3ddeddeb2643226fda8ba8429e8c6.tar.gz"
   ],
   "tag": [
     "cluster",
@@ -45,33 +45,34 @@
     "overlay",
     "simplecontainer"
   ],
-  "version": "HEAD-9266caf-250627T132825",
-  "version_upstream": "",
-  "bsum": "d68546604f82166dd31b576f46c2b51cce2af4211897faf1d3fd6836108e903e",
-  "build_date": "2025-06-28T02:29:52Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15939321260",
-  "build_id": "15939321260",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/simplecontainer/smr/smrctl?tag=HEAD-9266caf-250627T132825-riscv64-Linux&download=smrctl.log",
+  "version": "HEAD-f463a02-250627T183354",
+  "version_upstream": "smr-v0.1.81",
+  "bsum": "9320e53103d75a4a2bc061be66e2cc1a67d1c2b04a95495351396aa9369bd9bf",
+  "build_date": "2025-06-28T14:25:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15944508601",
+  "build_id": "15944508601",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/simplecontainer/smr/smrctl?tag=HEAD-f463a02-250627T183354-riscv64-Linux&download=smrctl.log",
   "deprecated": "false",
   "desktop_integration": "false",
   "download_count": "45",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/simplecontainer/smr/smrctl?tag=HEAD-9266caf-250627T132825-riscv64-Linux&download=smrctl",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/simplecontainer/smr/smrctl?tag=HEAD-f463a02-250627T183354-riscv64-Linux&download=smrctl",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/simplecontainer/smr/smrctl:HEAD-9266caf-250627T132825-riscv64-Linux",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/simplecontainer/smr/smrctl:HEAD-f463a02-250627T183354-riscv64-Linux",
   "ghcr_url": "https://ghcr.io/pkgforge-go/github/simplecontainer/smr/smrctl",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/simplecontainer/smr/smrctl?tag=HEAD-9266caf-250627T132825-riscv64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/simplecontainer/smr/smrctl?tag=HEAD-f463a02-250627T183354-riscv64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "d3822c76a3e13377673092c635f29d804c2617c30661112fcc085f4419a4b3c7",
+  "shasum": "0af52786d0b9930aa88e92605b6cc104f5119a1400d55d60c0fe8a2b150f0542",
   "size": "36 MB",
-  "size_raw": "36745464",
+  "size_raw": "36761752",
   "soar_syms": "false",
   "snapshots": [
     "HEAD-7ea187a-250622T123418-riscv64-Linux[smrctl-v0.0.108]",
     "HEAD-9357f30-250623T232142-riscv64-Linux[smrctl-v0.0.110]",
     "HEAD-9e553e1-250625T203556-riscv64-Linux",
-    "HEAD-f8f57fa-250627T015138-riscv64-Linux[smrctl-v0.0.114]"
+    "HEAD-f8f57fa-250627T015138-riscv64-Linux[smrctl-v0.0.114]",
+    "HEAD-9266caf-250627T132825-riscv64-Linux"
   ],
   "trusted": "true"
 }
