@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "sha256sum",
+  "pkg_family": "keysmap-tools",
+  "pkg_id": "sha256sum#github.com_cobratbq_keysmap_tools",
+  "pkg_name": "sha256sum",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cobratbq/keysmap-tools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tools for automatically generating PGP keys map for pgpverify-maven-plugin",
+  "homepage": [
+    "https://github.com/cobratbq/keysmap-tools"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "canonicalize-keysmap",
+    "download-metadata",
+    "download-signatures",
+    "extract-fingerprint",
+    "extract-keyid",
+    "sha256sum"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cobratbq/keysmap-tools/@v/v0.0.0-20250627160114-e70fd7bde1be.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250627160114-e70fd7bde1be",
+  "version_upstream": "",
+  "bsum": "6e3c7395815d0c89d1b04b831e7e3c774a06f419f5d4ab854c50f8dea1062911",
+  "build_date": "2025-06-29T20:48:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15959082665",
+  "build_id": "15959082665",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cobratbq/keysmap-tools/sha256sum?tag=v0.0.0-20250627160114-e70fd7bde1be-loongarch64-Linux&download=sha256sum.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cobratbq/keysmap-tools/sha256sum?tag=v0.0.0-20250627160114-e70fd7bde1be-loongarch64-Linux&download=sha256sum",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cobratbq/keysmap-tools/sha256sum:v0.0.0-20250627160114-e70fd7bde1be-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cobratbq/keysmap-tools/sha256sum",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cobratbq/keysmap-tools/sha256sum?tag=v0.0.0-20250627160114-e70fd7bde1be-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "94cb111eda62deb838cafa102f111ae8892507c5f24c152740390011b46f067f",
+  "size": "2.3 MB",
+  "size_raw": "2360832",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

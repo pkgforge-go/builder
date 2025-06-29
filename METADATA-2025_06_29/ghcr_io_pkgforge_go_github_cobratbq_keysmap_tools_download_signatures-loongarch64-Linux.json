@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "download-signatures",
+  "pkg_family": "keysmap-tools",
+  "pkg_id": "download-signatures#github.com_cobratbq_keysmap_tools",
+  "pkg_name": "download-signatures",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cobratbq/keysmap-tools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tools for automatically generating PGP keys map for pgpverify-maven-plugin",
+  "homepage": [
+    "https://github.com/cobratbq/keysmap-tools"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "canonicalize-keysmap",
+    "download-metadata",
+    "download-signatures",
+    "extract-fingerprint",
+    "extract-keyid",
+    "sha256sum"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cobratbq/keysmap-tools/@v/v0.0.0-20250627160114-e70fd7bde1be.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250627160114-e70fd7bde1be",
+  "version_upstream": "",
+  "bsum": "c13c67fe6737e19223518e1ad8b2a80050560c27391b2def5aea334ffc17d706",
+  "build_date": "2025-06-29T20:49:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15959082665",
+  "build_id": "15959082665",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cobratbq/keysmap-tools/download-signatures?tag=v0.0.0-20250627160114-e70fd7bde1be-loongarch64-Linux&download=download-signatures.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cobratbq/keysmap-tools/download-signatures?tag=v0.0.0-20250627160114-e70fd7bde1be-loongarch64-Linux&download=download-signatures",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cobratbq/keysmap-tools/download-signatures:v0.0.0-20250627160114-e70fd7bde1be-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cobratbq/keysmap-tools/download-signatures",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cobratbq/keysmap-tools/download-signatures?tag=v0.0.0-20250627160114-e70fd7bde1be-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a423eb277ea9e8a7dbbb25ff570655eba4d4e841c861a954c31c624b228bd810",
+  "size": "5.9 MB",
+  "size_raw": "6157664",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
