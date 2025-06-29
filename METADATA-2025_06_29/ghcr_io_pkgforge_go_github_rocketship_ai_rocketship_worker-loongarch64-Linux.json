@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "worker",
+  "pkg_family": "rocketship",
+  "pkg_id": "worker#github.com_rocketship_ai_rocketship",
+  "pkg_name": "worker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rocketship-ai/rocketship",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Enterprise-grade API _ browser testing with a single command. Self-hostable. Written in Go. Durably backed by Temporal. 🚀",
+  "homepage": [
+    "https://github.com/rocketship-ai/rocketship"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docgen",
+    "engine",
+    "rocketship",
+    "worker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/rocketship-ai/rocketship/archive/22aa284f74b0c1f4d6ab9bcb6dc7037e80a7a3fb.tar.gz"
+  ],
+  "tag": [
+    "e2e-tests",
+    "go",
+    "good-first-issue",
+    "integration-testing",
+    "kubernetes",
+    "temporal"
+  ],
+  "version": "HEAD-22aa284-250628T135152",
+  "version_upstream": "v0.5.2",
+  "bsum": "46d93ca31fdea2abe1dd5d11b7e8a16887d6b959977b44122b46602b04d60a74",
+  "build_date": "2025-06-29T07:31:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15952595239",
+  "build_id": "15952595239",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rocketship-ai/rocketship/worker?tag=HEAD-22aa284-250628T135152-loongarch64-Linux&download=worker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "40",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rocketship-ai/rocketship/worker?tag=HEAD-22aa284-250628T135152-loongarch64-Linux&download=worker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rocketship-ai/rocketship/worker:HEAD-22aa284-250628T135152-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rocketship-ai/rocketship/worker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rocketship-ai/rocketship/worker?tag=HEAD-22aa284-250628T135152-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7888444b111a27667058c3b9d69c40f07ee52d480aa3f6e3975d1f6b130ce7e5",
+  "size": "33 MB",
+  "size_raw": "34315600",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
