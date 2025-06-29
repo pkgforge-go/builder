@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "tork",
+  "pkg_family": "tork",
+  "pkg_id": "tork#github.com_runabol_tork",
+  "pkg_name": "tork",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/runabol/tork",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tork is a lightweight, distributed workflow engine that runs tasks as simple scripts within Docker containers.",
+  "homepage": [
+    "https://github.com/runabol/tork"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "tork"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/runabol/tork/archive/4b76c2855f6060adcb43460170fd41c4c2b7ddd4.tar.gz"
+  ],
+  "tag": [
+    "background-jobs",
+    "distributed",
+    "docker",
+    "go",
+    "golang",
+    "job-queue",
+    "podman",
+    "scheduler",
+    "task-queue",
+    "work-queue",
+    "workflow-engine"
+  ],
+  "version": "HEAD-4b76c28-250628T113809",
+  "version_upstream": "",
+  "bsum": "73b92da840f323938b518b6ec1cbaf9be0b8d903c62ac94573c108e4e98fc581",
+  "build_date": "2025-06-29T13:27:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15955508106",
+  "build_id": "15955508106",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/runabol/tork/tork?tag=HEAD-4b76c28-250628T113809-loongarch64-Linux&download=tork.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "706",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/runabol/tork/tork?tag=HEAD-4b76c28-250628T113809-loongarch64-Linux&download=tork",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/runabol/tork/tork:HEAD-4b76c28-250628T113809-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/runabol/tork/tork",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/runabol/tork/tork?tag=HEAD-4b76c28-250628T113809-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "decd41ea0d28ca02880761968b1e265b8ca174dc68e277a0f1e0cf0730e39b36",
+  "size": "19 MB",
+  "size_raw": "18960016",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e92a080-250617T143235-loongarch64-Linux",
+    "HEAD-9d1ff72-250622T164601-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
