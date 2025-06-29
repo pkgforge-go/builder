@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "pure-sync",
+  "pkg_family": "ndnd",
+  "pkg_id": "pure-sync#github.com_named_data_ndnd",
+  "pkg_name": "pure-sync",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/named-data/ndnd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Golang implementation of the Named Data Networking protocol stack",
+  "homepage": [
+    "https://github.com/named-data/ndnd"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alo-history",
+    "alo-latest",
+    "catchunks",
+    "chat",
+    "cmd",
+    "confgen",
+    "consumer",
+    "dv",
+    "gondn_tlv_gen",
+    "ndnd",
+    "passive",
+    "producer",
+    "pure-sync",
+    "putchunks",
+    "sync",
+    "yanfd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/named-data/ndnd/archive/420daff1d465d8d6ead61caf2f7f3ea828a843f1.tar.gz"
+  ],
+  "tag": [
+    "forwarding",
+    "golang",
+    "ndn",
+    "networking",
+    "routing"
+  ],
+  "version": "HEAD-420daff-250628T112116",
+  "version_upstream": "",
+  "bsum": "a7f2473b4f150881373409b8237d0fda8f9bd43e61be435074a0ba58801c528e",
+  "build_date": "2025-06-29T07:27:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15952589022",
+  "build_id": "15952589022",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/named-data/ndnd/pure-sync?tag=HEAD-420daff-250628T112116-loongarch64-Linux&download=pure-sync.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "24",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/named-data/ndnd/pure-sync?tag=HEAD-420daff-250628T112116-loongarch64-Linux&download=pure-sync",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/named-data/ndnd/pure-sync:HEAD-420daff-250628T112116-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/named-data/ndnd/pure-sync",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/named-data/ndnd/pure-sync?tag=HEAD-420daff-250628T112116-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9c5aff7267957885f3f6e7305316c67d624ff42386e0cf98a49e9ea5492e6fa2",
+  "size": "11 MB",
+  "size_raw": "10721696",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

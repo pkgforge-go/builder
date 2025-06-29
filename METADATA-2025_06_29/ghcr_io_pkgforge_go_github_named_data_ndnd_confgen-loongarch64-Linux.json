@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "confgen",
+  "pkg_family": "ndnd",
+  "pkg_id": "confgen#github.com_named_data_ndnd",
+  "pkg_name": "confgen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/named-data/ndnd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Golang implementation of the Named Data Networking protocol stack",
+  "homepage": [
+    "https://github.com/named-data/ndnd"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alo-history",
+    "alo-latest",
+    "catchunks",
+    "chat",
+    "cmd",
+    "confgen",
+    "consumer",
+    "dv",
+    "gondn_tlv_gen",
+    "ndnd",
+    "passive",
+    "producer",
+    "pure-sync",
+    "putchunks",
+    "sync",
+    "yanfd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/named-data/ndnd/archive/420daff1d465d8d6ead61caf2f7f3ea828a843f1.tar.gz"
+  ],
+  "tag": [
+    "forwarding",
+    "golang",
+    "ndn",
+    "networking",
+    "routing"
+  ],
+  "version": "HEAD-420daff-250628T112116",
+  "version_upstream": "",
+  "bsum": "c8dcf8477ae1f702b4fb7d8dcb28eab8de63e94d4ae2af533f87928ad927fdf8",
+  "build_date": "2025-06-29T07:27:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15952589022",
+  "build_id": "15952589022",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/named-data/ndnd/confgen?tag=HEAD-420daff-250628T112116-loongarch64-Linux&download=confgen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "24",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/named-data/ndnd/confgen?tag=HEAD-420daff-250628T112116-loongarch64-Linux&download=confgen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/named-data/ndnd/confgen:HEAD-420daff-250628T112116-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/named-data/ndnd/confgen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/named-data/ndnd/confgen?tag=HEAD-420daff-250628T112116-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "46dbcedb8f986acde3b6474f47ca29ca159de7ec323b9df4d3630bb0300496ca",
+  "size": "3.3 MB",
+  "size_raw": "3418520",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
