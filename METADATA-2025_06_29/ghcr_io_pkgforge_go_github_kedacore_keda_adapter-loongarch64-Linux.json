@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "adapter",
+  "pkg_family": "keda",
+  "pkg_id": "adapter#github.com_kedacore_keda",
+  "pkg_name": "adapter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kedacore/keda",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
+  "homepage": [
+    "https://github.com/kedacore/keda"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "adapter",
+    "operator",
+    "webhooks"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kedacore/keda/archive/967c5d62118cd318d7b4db9666457486cf3812a4.tar.gz"
+  ],
+  "tag": [
+    "autoscaling",
+    "event-driven",
+    "hacktoberfest",
+    "keda",
+    "kubernetes",
+    "serverless"
+  ],
+  "version": "HEAD-967c5d6-250628T170843",
+  "version_upstream": "",
+  "bsum": "f8a698156704f2ce1c772fa138c8635abcc4698f2f71cf40e6b024bc8e5a72bf",
+  "build_date": "2025-06-29T10:43:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15953938484",
+  "build_id": "15953938484",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kedacore/keda/adapter?tag=HEAD-967c5d6-250628T170843-loongarch64-Linux&download=adapter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9205",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kedacore/keda/adapter?tag=HEAD-967c5d6-250628T170843-loongarch64-Linux&download=adapter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kedacore/keda/adapter:HEAD-967c5d6-250628T170843-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kedacore/keda/adapter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kedacore/keda/adapter?tag=HEAD-967c5d6-250628T170843-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9ef6aa24a76951ac4c294657257beda514e49d03c492b6933db712b0e836f320",
+  "size": "101 MB",
+  "size_raw": "105682064",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-30a37e6-250620T123151-loongarch64-Linux",
+    "HEAD-75f589a-250621T202256-loongarch64-Linux",
+    "HEAD-37a0f2c-250623T143052-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
