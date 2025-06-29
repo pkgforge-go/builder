@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "camera-proxy",
+  "pkg_family": "camera-proxy",
+  "pkg_id": "camera-proxy#github.com_blamoo_camera_proxy",
+  "pkg_name": "camera-proxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/blamoo/camera-proxy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Web server designed to proxy not-so-secure MJPEG streams from security cameras. It adds a layer of HTTPS and cookie based session authentication to them",
+  "homepage": [
+    "https://github.com/blamoo/camera-proxy"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "camera-proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/blamoo/camera-proxy/@v/v0.0.0-20250423020649-048129752cd3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250423020649-048129752cd3",
+  "version_upstream": "",
+  "bsum": "91266ac8ffb08df562f8dcaeb8aa2c9cf2e61faffae9bb7590c48e6defb3aebd",
+  "build_date": "2025-06-29T18:51:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15957973621",
+  "build_id": "15957973621",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blamoo/camera-proxy/camera-proxy?tag=v0.0.0-20250423020649-048129752cd3-aarch64-Linux&download=camera-proxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blamoo/camera-proxy/camera-proxy?tag=v0.0.0-20250423020649-048129752cd3-aarch64-Linux&download=camera-proxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/blamoo/camera-proxy/camera-proxy:v0.0.0-20250423020649-048129752cd3-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/blamoo/camera-proxy/camera-proxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blamoo/camera-proxy/camera-proxy?tag=v0.0.0-20250423020649-048129752cd3-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c62e8c49b23f2af99603d9bdd6abd2fea11d72f668c382edae796c39d80ff416",
+  "size": "9.1 MB",
+  "size_raw": "9482368",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
