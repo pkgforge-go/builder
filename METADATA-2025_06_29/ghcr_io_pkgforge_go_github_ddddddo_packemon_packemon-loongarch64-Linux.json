@@ -1,0 +1,87 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "packemon",
+  "pkg_family": "packemon",
+  "pkg_id": "packemon#github.com_ddddddO_packemon",
+  "pkg_name": "packemon",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ddddddO/packemon",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Packet monster _っ‘-’_╮=͟͟͞͞◒  ヽ_ _-_ヽ_  TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces _default: eth0_. Windows/macOS/Linux",
+  "homepage": [
+    "https://github.com/ddddddO/packemon"
+  ],
+  "license": [
+    "BSD-2-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bgp",
+    "http-server",
+    "https-server",
+    "packemon",
+    "tls-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/ddddddO/packemon/archive/fb4812d6236af1a5b016de7797b0734f2c76a2c6.tar.gz"
+  ],
+  "tag": [
+    "ebpf",
+    "linux",
+    "macos",
+    "network",
+    "network-programming",
+    "networking",
+    "observability",
+    "packet",
+    "packet-analyzer",
+    "packet-generator",
+    "packet-monitoring",
+    "pcap",
+    "penetration-testing",
+    "pentesting",
+    "protocol",
+    "security",
+    "socket-programming",
+    "sockets",
+    "system-programming",
+    "windows"
+  ],
+  "version": "HEAD-fb4812d-250629T224155",
+  "version_upstream": "",
+  "bsum": "e0c6b2711f30f11b62c1b73aca33618affd113ac02762e114ecf8d83c4600b3b",
+  "build_date": "2025-06-29T22:54:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15960020103",
+  "build_id": "15960020103",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ddddddo/packemon/packemon?tag=HEAD-fb4812d-250629T224155-loongarch64-Linux&download=packemon.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "223",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ddddddo/packemon/packemon?tag=HEAD-fb4812d-250629T224155-loongarch64-Linux&download=packemon",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ddddddo/packemon/packemon:HEAD-fb4812d-250629T224155-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ddddddo/packemon/packemon",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ddddddo/packemon/packemon?tag=HEAD-fb4812d-250629T224155-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f26f713737cd5408ed3d092ff3f0762461fbdd74873c9c7f8a02353da5975b97",
+  "size": "12 MB",
+  "size_raw": "12287448",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
