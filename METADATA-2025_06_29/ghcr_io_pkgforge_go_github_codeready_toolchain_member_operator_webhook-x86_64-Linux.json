@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "webhook",
+  "pkg_family": "member-operator",
+  "pkg_id": "webhook#github.com_codeready_toolchain_member_operator",
+  "pkg_name": "webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/codeready-toolchain/member-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CodeReady Toolchain Member Operator",
+  "homepage": [
+    "https://github.com/codeready-toolchain/member-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "member-operator-cmd",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/codeready-toolchain/member-operator/@v/v0.0.0-20250627062652-e209d75d7182.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250627062652-e209d75d7182",
+  "version_upstream": "",
+  "bsum": "26d649f1a9a5f6dcd1563aba585326c46703c4e5aa65092f170a6ddb0ae32c4a",
+  "build_date": "2025-06-29T20:52:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15959087179",
+  "build_id": "15959087179",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/codeready-toolchain/member-operator/webhook?tag=v0.0.0-20250627062652-e209d75d7182-x86_64-Linux&download=webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/codeready-toolchain/member-operator/webhook?tag=v0.0.0-20250627062652-e209d75d7182-x86_64-Linux&download=webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/codeready-toolchain/member-operator/webhook:v0.0.0-20250627062652-e209d75d7182-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/codeready-toolchain/member-operator/webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/codeready-toolchain/member-operator/webhook?tag=v0.0.0-20250627062652-e209d75d7182-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a854f7d839a8f1a6a6656b7bc77083148a2e8089856041f2d669e3312799d879",
+  "size": "42 MB",
+  "size_raw": "43427200",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
