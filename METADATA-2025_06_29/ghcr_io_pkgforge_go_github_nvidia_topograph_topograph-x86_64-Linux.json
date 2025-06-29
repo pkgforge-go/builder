@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "topograph",
+  "pkg_family": "topograph",
+  "pkg_id": "topograph#github.com_NVIDIA_topograph",
+  "pkg_name": "topograph",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NVIDIA/topograph",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A toolkit for discovering cluster network topology.",
+  "homepage": [
+    "https://github.com/NVIDIA/topograph"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "node-data-broker-initc",
+    "node-observer",
+    "topograph",
+    "toposim"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NVIDIA/topograph/archive/e3ef564577189af2761ba247c23838b2bd56b1b2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e3ef564-250628T115247",
+  "version_upstream": "",
+  "bsum": "05f3c5661b43f6115e09a98009aac4f9f1663a009934483619662526de5c844e",
+  "build_date": "2025-06-29T07:06:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15952552520",
+  "build_id": "15952552520",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/topograph/topograph?tag=HEAD-e3ef564-250628T115247-x86_64-Linux&download=topograph.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "55",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/topograph/topograph?tag=HEAD-e3ef564-250628T115247-x86_64-Linux&download=topograph",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nvidia/topograph/topograph:HEAD-e3ef564-250628T115247-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nvidia/topograph/topograph",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/topograph/topograph?tag=HEAD-e3ef564-250628T115247-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2833eef5a062b52d8abc7aa7fa1888841b49d15624895a3a72e6aad90db34966",
+  "size": "102 MB",
+  "size_raw": "106635344",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
