@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "doggo",
+  "pkg_family": "doggo",
+  "pkg_id": "doggo#github.com_mr_karan_doggo",
+  "pkg_name": "doggo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mr-karan/doggo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": ":dog: Command-line DNS Client for Humans. Written in Golang",
+  "homepage": [
+    "https://github.com/mr-karan/doggo"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "doggo",
+    "doggo-web"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mr-karan/doggo/archive/16ba284a136354fb4f11fd4d566db9b4364e9a32.tar.gz"
+  ],
+  "tag": [
+    "dns",
+    "dns-client",
+    "doh"
+  ],
+  "version": "HEAD-16ba284-240930T150003",
+  "version_upstream": "v1.0.5",
+  "bsum": "fbe65e8134fd1061090a9eb9a3ff7af395c55ed6968caa76dfcc25be6b9ea769",
+  "build_date": "2025-06-29T22:48:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15959986948",
+  "build_id": "15959986948",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mr-karan/doggo/doggo?tag=HEAD-16ba284-240930T150003-loongarch64-Linux&download=doggo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3683",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mr-karan/doggo/doggo?tag=HEAD-16ba284-240930T150003-loongarch64-Linux&download=doggo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mr-karan/doggo/doggo:HEAD-16ba284-240930T150003-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mr-karan/doggo/doggo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mr-karan/doggo/doggo?tag=HEAD-16ba284-240930T150003-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2ac0e89eb6de7680754d1d1fa3b3cb33bf0405e5613a97729bd4ad40399454f2",
+  "size": "13 MB",
+  "size_raw": "12803264",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-16ba284-240930T150003-loongarch64-Linux[v1.0.5]"
+  ],
+  "trusted": "true"
+}
