@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "mochi-lsp",
+  "pkg_family": "mochi",
+  "pkg_id": "mochi-lsp#github.com_mochilang_mochi",
+  "pkg_name": "mochi-lsp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mochilang/mochi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Mochi is a small, fast, embeddable programming language designed for agents, data, and AI. It combines functional syntax, stream-first semantics, and native support for datasets, graphs, and simulation.",
+  "homepage": [
+    "https://github.com/mochilang/mochi"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "go",
+    "interpreter_golden",
+    "mochi-lsp",
+    "testprog"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/mochilang/mochi/archive/1e20774c3109a85dfc5dfdeef411a36d28e16660.tar.gz"
+  ],
+  "tag": [
+    "agent",
+    "ai",
+    "graph",
+    "leetcode",
+    "stream"
+  ],
+  "version": "HEAD-1e20774-250629T105414",
+  "version_upstream": "",
+  "bsum": "c918393c535c11aedf41f50c9586a39dfcc69da79cbcfa4800d2ea2e4ceb55fd",
+  "build_date": "2025-06-29T10:56:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15953953125",
+  "build_id": "15953953125",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mochilang/mochi/mochi-lsp?tag=HEAD-1e20774-250629T105414-x86_64-Linux&download=mochi-lsp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "156",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mochilang/mochi/mochi-lsp?tag=HEAD-1e20774-250629T105414-x86_64-Linux&download=mochi-lsp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mochilang/mochi/mochi-lsp:HEAD-1e20774-250629T105414-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mochilang/mochi/mochi-lsp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mochilang/mochi/mochi-lsp?tag=HEAD-1e20774-250629T105414-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a70aefe10f25aa77c9e6bc75cbb43d1f3af9c116fd175819312861d8d34584ce",
+  "size": "5.9 MB",
+  "size_raw": "6103712",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
