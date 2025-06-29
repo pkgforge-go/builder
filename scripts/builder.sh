@@ -7,11 +7,21 @@
 
 #-------------------------------------------------------#
 ##Version
-GB_VERSION="0.0.4+2" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset GB_VERSION
+GB_VERSION="0.0.5" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset GB_VERSION
 ##Enable Debug
  if [[ "${DEBUG}" = "1" ]] || [[ "${DEBUG}" = "ON" ]]; then
     set -x
  fi
+##Cmd
+install_tool() {
+    sudo curl -w "(TOOL) <== %{url}\n" -qfsSL "$2" -o "/usr/local/bin/$1"
+    sudo chmod 'a+x' "/usr/local/bin/$1"
+    hash -r &>/dev/null
+    command -v "$1" &>/dev/null || { echo -e "\n[-] $1 NOT Found"; exit 1; }
+}
+install_tool "_detect_if_cli" "https://raw.githubusercontent.com/pkgforge-go/builder/refs/heads/main/scripts/_detect_if_cli.sh"
+install_tool "extraxtor" "https://github.com/pkgforge/devscripts/raw/refs/heads/main/Linux/extraxtor.sh"
+install_tool "go-detector" "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/go-detector"
 #-------------------------------------------------------#
 
 #-------------------------------------------------------#
@@ -222,7 +232,6 @@ GB_VERSION="0.0.4+2" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset 
   {
    #Env  
     echo -e "\n[+] Target: ${GO_TARGET}\n"
-    tree "${BUILD_DIR}/BUILD_GPKG" ; echo -e "\n"
     mkdir -p "${G_ARTIFACT_DIR}"
    #Get Cmds
     mapfile -t "GO_CMD_DIRS" < <(go list -f '{{if eq .Name "main"}}{{.Dir}}{{end}}' ./... 2>/dev/null |\
@@ -287,137 +296,56 @@ GB_VERSION="0.0.4+2" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset 
 #-------------------------------------------------------#
 ##Main
    pushd "${BUILD_DIR}" &>/dev/null
-  #Download & Extract Pkg
-   if [[ "${GPKG_SRCURL}" =~ \.(tar\.gz|tgz|zip)$ ]] ||\
-      [[ "${GPKG_SRCURL}" =~ /tarball/ ]] ||\
-      [[ "${GPKG_SRCURL}" =~ /zipball/ ]] ||\
-      [[ "${GPKG_SRCURL}" =~ /archive/ ]]; then
-      cd "${BUILD_DIR}/BUILD_GPKG"
-      archive_file="${BUILD_DIR}/BUILD_TMP/${GPKG_NAME}.archive"
-      curl -w "(DL) <== %{url}\n" -qfsSL "${GPKG_SRCURL}" -o "${archive_file}"
-      file_type="$(file -b "${archive_file}" 2>/dev/null)"
-      case "$file_type" in
-        *"gzip compressed"*|*"tar archive"*)
-            echo "[+] Extracting tar archive..."
-            if tar -tzf "${archive_file}" &>/dev/null; then
-                # Try strip-components first
-                if tar -xzf "${archive_file}" --strip-components=1 2>/dev/null; then
-                    echo "[+] Successfully extracted with --strip-components=1"
-                else
-                    echo "[-] strip-components failed, extracting normally and moving contents"
-                    tar -xzf "${archive_file}" 2>/dev/null
-                    
-                    # Find the top-level directory
-                    shopt -s nullglob dotglob
-                    top_dirs=(*)
-                    shopt -u nullglob dotglob
-                    
-                    if [[ ${#top_dirs[@]} -eq 1 && -d "${top_dirs[0]}" ]]; then
-                        echo "[+] Moving contents from ${top_dirs[0]}/ to current directory"
-                        # Move all contents including hidden files
-                        if [[ -n "$(ls -A "${top_dirs[0]}" 2>/dev/null)" ]]; then
-                            mv "${top_dirs[0]}"/* . 2>/dev/null || true
-                            # Handle hidden files separately
-                            shopt -s dotglob
-                            for hidden_file in "${top_dirs[0]}"/.[!.]*; do
-                                [[ -e "$hidden_file" ]] && mv "$hidden_file" . 2>/dev/null || true
-                            done
-                            shopt -u dotglob
-                            # Remove the now-empty directory
-                            rmdir "${top_dirs[0]}" 2>/dev/null || true
-                        fi
-                    elif [[ ${#top_dirs[@]} -gt 1 ]]; then
-                        echo "[+] Multiple top-level items found, keeping current structure"
-                    else
-                        echo "[+] No directories found or extraction failed"
-                    fi
-                fi
-            else
-                echo "[!] Invalid tar file: ${archive_file}"
-            fi
-            ;;
-            
-        *"Zip archive"*)
-            echo "[+] Extracting zip archive..."
-            if unzip -t "${archive_file}" &>/dev/null; then
-                # Extract to current directory
-                if unzip -o -q "${archive_file}" 2>/dev/null; then
-                    echo "[+] Zip extracted successfully"
-                    
-                    # Check if we need to move contents from a single top-level directory
-                    shopt -s nullglob dotglob
-                    top_dirs=(*)
-                    shopt -u nullglob dotglob
-                    
-                    # Only move if there's exactly one directory and it's not the archive file itself
-                    if [[ ${#top_dirs[@]} -eq 1 && -d "${top_dirs[0]}" && "${top_dirs[0]}" != "$(basename "${archive_file}")" ]]; then
-                        echo "[+] Moving contents from ${top_dirs[0]}/ to current directory"
-                        # Check if the directory has contents
-                        if [[ -n "$(ls -A "${top_dirs[0]}" 2>/dev/null)" ]]; then
-                            # Move visible files first
-                            mv "${top_dirs[0]}"/* . 2>/dev/null || true
-                            # Handle hidden files
-                            shopt -s dotglob
-                            for hidden_file in "${top_dirs[0]}"/.[!.]*; do
-                                [[ -e "$hidden_file" ]] && mv "$hidden_file" . 2>/dev/null || true
-                            done
-                            shopt -u dotglob
-                            # Remove the now-empty directory
-                            rmdir "${top_dirs[0]}" 2>/dev/null || true
-                        fi
-                    elif [[ ${#top_dirs[@]} -gt 1 ]]; then
-                        echo "[+] Multiple top-level items found, keeping current structure"
-                    else
-                        echo "[+] No directories found or unusual structure"
-                    fi
-                else
-                    echo "[!] Failed to extract zip file: ${archive_file}"
-                fi
-            else
-                echo "[!] Invalid zip file: ${archive_file}"
-            fi
-            ;;
-            
-        *)
-            echo "[!] Unsupported file type: $file_type"
-            ;;
-      esac
-      
-      unset archive_file file_type top_dirs hidden_file
-   else
-      # Clone repository
-      cd "${BUILD_DIR}" &&\
-      rm -rf "./BUILD_GPKG" 2>/dev/null
-      echo "[+] Cloning repository: ${GPKG_SRCURL}"
-      git clone --depth="1" --filter="blob:none" "${GPKG_SRCURL}" "./BUILD_GPKG"
-      pushd "${BUILD_DIR}/BUILD_GPKG" &>/dev/null
-   fi
+   #Download & Extract Pkg
+   get_srcurl()
+   {
+     if [[ "${GPKG_SRCURL}" =~ \.(tar\.gz|tgz|zip)$ ]] ||\
+        [[ "${GPKG_SRCURL}" =~ /tarball/ ]] ||\
+        [[ "${GPKG_SRCURL}" =~ /zipball/ ]] ||\
+        [[ "${GPKG_SRCURL}" =~ /archive/ ]]; then
+        cd "${BUILD_DIR}/BUILD_GPKG"
+        archive_file="${BUILD_DIR}/BUILD_TMP/${GPKG_NAME}.archive"
+        curl -w "(DL) <== %{url}\n" -qfsSL "${GPKG_SRCURL}" -o "${archive_file}"
+        extraxtor --input "${archive_file}" --output "${BUILD_DIR}/BUILD_GPKG" --force --tree --verbose
+     else
+        # Clone repository
+        cd "${BUILD_DIR}" &&\
+        rm -rf "./BUILD_GPKG" 2>/dev/null
+        echo "[+] Cloning repository: ${GPKG_SRCURL}"
+        git clone --depth="1" --filter="blob:none" "${GPKG_SRCURL}" "./BUILD_GPKG"
+        pushd "${BUILD_DIR}/BUILD_GPKG" &>/dev/null
+     fi
+   }
+   export -f get_srcurl
   #Check
-   if [[ "$(du -s "${BUILD_DIR}/BUILD_GPKG" | cut -f1)" -lt 10 ]]; then
-      echo -e "\n[✗] FATAL: Pkg Download/Extraction probably Failed\n"
-      du -bh "${BUILD_DIR}/BUILD_TMP/${GPKG_NAME}.archive" 2>/dev/null
-      du -bh "${BUILD_DIR}/BUILD_GPKG"
-      ls -lah "${BUILD_DIR}/BUILD_GPKG"
-      build_fail_gh
-     exit 1
-   else
-     #Pkg [Is Lib?]
-      if _detect_if_cli "${GPKG_SRCURL}" --quiet --simple 2>/dev/null | grep -m 1 -qoiE 'library'; then
-         echo -e "\n[-] WARNING: ${GPKG_NAME} is likely a Library\n"
-         export GPKG_TYPE="library"
-         [[ "${GHA_MODE}" == "MATRIX" ]] && echo "GPKG_TYPE=library" >> "${GITHUB_ENV}"
-      fi
-     #Meta (Raw)
-      if [[ -s "${GPKG_META_RAW}" ]]; then
-        cp -fv "${GPKG_META_RAW}" "${BUILD_DIR}/GPKG_META_RAW.json"
-      fi
-     #Meta (Cleaned)
-      if [[ -s "${GPKG_META}" ]]; then
-        cp -fv "${GPKG_META}" "${BUILD_DIR}/GPKG_META.json"
-      fi
-   fi
+   check_srcurl()
+   {
+     if [[ "$(du -s "${BUILD_DIR}/BUILD_GPKG" | cut -f1)" -lt 10 ]]; then
+        echo -e "\n[✗] FATAL: Pkg Download/Extraction probably Failed\n"
+        du -bh "${BUILD_DIR}/BUILD_TMP/${GPKG_NAME}.archive" 2>/dev/null
+        du -bh "${BUILD_DIR}/BUILD_GPKG"
+        ls -lah "${BUILD_DIR}/BUILD_GPKG"
+        build_fail_gh
+       exit 1
+     else
+       #Pkg [Is Lib?]
+        if _detect_if_cli "${GPKG_SRCURL}" --quiet --simple 2>/dev/null | grep -m 1 -qoiE 'library'; then
+           echo -e "\n[-] WARNING: ${GPKG_NAME} is likely a Library\n"
+           export GPKG_TYPE="library"
+           [[ "${GHA_MODE}" == "MATRIX" ]] && echo "GPKG_TYPE=library" >> "${GITHUB_ENV}"
+        fi
+       #Meta (Raw)
+        if [[ -s "${GPKG_META_RAW}" ]]; then
+          cp -fv "${GPKG_META_RAW}" "${BUILD_DIR}/GPKG_META_RAW.json"
+        fi
+       #Meta (Cleaned)
+        if [[ -s "${GPKG_META}" ]]; then
+          cp -fv "${GPKG_META}" "${BUILD_DIR}/GPKG_META.json"
+        fi
+     fi
+   }
+   export -f check_srcurl
   #Build
-   echo -e "\n[+] Artifacts: ${G_ARTIFACT_DIR}\n"
    {
      pushd "${BUILD_DIR}/BUILD_GPKG" &>/dev/null
      echo '\\\\========================== Package Forge ===========================////'
@@ -428,6 +356,9 @@ GB_VERSION="0.0.4+2" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset 
      echo '|--- Bugs/Issues: https://github.com/pkgforge-go/builder/issues         ---|'
      echo '|--------------------------------------------------------------------------|'
      echo -e "\n==> [+] Started Building at :: $(TZ='UTC' date +'%A, %Y-%m-%d (%I:%M:%S %p)') UTC\n"
+     echo -e "\n[+] Artifacts: ${G_ARTIFACT_DIR}\n"
+     get_srcurl || exit 1
+     check_srcurl || exit 1
      presetup_go
      set_goflags && go_build
      echo -e "\n==> [+] Finished Building at :: $(TZ='UTC' date +'%A, %Y-%m-%d (%I:%M:%S %p)') UTC\n"
