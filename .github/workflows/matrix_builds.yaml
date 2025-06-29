@@ -221,6 +221,7 @@ jobs:
               [.[] | select(
                   (.name == $name) or
                   ((.clone // "" | normalize_url) | contains($srcurl)) or
+                  ((.download // "" | normalize_url) | contains($srcurl)) or
                   ((.homepage // "" | normalize_url) | contains($srcurl))
               )] | first // empty
              ' "${TEMP_META}" | jq . > "${GPKG_META_RAW}"

@@ -135,6 +135,48 @@ jobs:
           fi
         continue-on-error: true
 
+      - name: Update (PKGS_CLI_ONLY.json)
+        env:
+          GH_TOKEN: "${{ github.token }}"
+          GITHUB_TOKEN: "${{ github.token }}"
+        run: |
+          #Presets
+          set +x ; set +e
+          #--------------#
+          ##Main
+          export O_D="${GITHUB_WORKSPACE}/main/data"
+          if [[ -s "${O_D}/PKG_DUMP.json" && -s "${O_D}/PKGS_CLI_ONLY.json" ]]; then
+            jq -s \
+              '
+               (.[1] // []) as $old |
+               (.[0] // []) as $new |
+               ($old | map({(.pkg_id): .}) | add) as $old_by_pkg_id |
+               ($new | map({(.pkg_id): .}) | add) as $new_by_pkg_id |
+               ($old_by_pkg_id + $new_by_pkg_id) | to_entries | map(.value) | unique_by(.pkg_id) | sort_by(.pkg_id)
+              ' "${O_D}/PKGS_CLI_ONLY.json" "${O_D}/PKG_DUMP.json" |\
+            jq \
+              '
+               sort_by([
+                 -(if .stars then (.stars | tonumber) else -1 end),
+                 .name
+               ]) |
+               to_entries |
+               map(.value + { rank: (.key + 1 | tostring) })
+              ' |\
+             jq 'unique_by(.pkg_id) | sort_by(.rank | tonumber) | [range(length)] as $indices | [., $indices] | transpose | map(.[0] + {rank: (.[1] + 1 | tostring)})' | jq . > "${SYSTMP}/merged.json"
+            export I_F="${SYSTMP}/merged.json"
+            PKG_COUNT="$(jq -r '.[] | .pkg_id' "${I_F}" | grep -iv 'null' | sort -u | wc -l | tr -d '[:space:]')"
+            if [[ "${PKG_COUNT}" -le 100 ]]; then
+               echo -e "\n[-] FATAL: Failed to Merge CLI PKGs\n"
+               echo "[-] Count: ${PKG_COUNT}"
+              exit 1
+            else
+               echo -e "\n[+] Total CLI Packages: ${PKG_COUNT}"
+               cp -fv "${I_F}" ${O_D}/PKGS_CLI_ONLY.json
+            fi
+          fi
+        continue-on-error: true
+
       - name: Get DateTime
         run: |
           #Presets

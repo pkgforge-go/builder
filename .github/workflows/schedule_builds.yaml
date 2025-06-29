@@ -99,13 +99,19 @@ jobs:
             input as $repo_dump |
             $pkg_ids[] as $pkg_id |
             ($repo_dump[] | select(
-              (.pkg_id | ascii_downcase | gsub("\\s"; "")) == 
+              (.pkg_id | ascii_downcase | gsub("\\s"; "")) ==
               ($pkg_id | ascii_downcase | gsub("\\s"; ""))
             )) as $match |
             {
               pkg_id: $pkg_id,
               pkg_name: $match.name,
-              src_url: $match.clone,
+              src_url: (
+                if ($match.download // "" | test("^https?://")) then
+                  $match.download
+                else
+                  $match.clone
+                end
+              ),
               target: "ALL"
             }
            ' "./BUILD_LIST.json" "./PKGS_CLI_ONLY.json" > "${SYSTMP}/TEMP/BUILD_LIST.json"
