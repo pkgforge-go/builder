@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "sconfigcontroller",
+  "pkg_family": "soperator",
+  "pkg_id": "sconfigcontroller#github.com_nebius_soperator",
+  "pkg_name": "sconfigcontroller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nebius/soperator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Run Slurm in Kubernetes",
+  "homepage": [
+    "https://github.com/nebius/soperator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "exporter",
+    "rebooter",
+    "sconfigcontroller",
+    "soperator-cmd",
+    "soperatorchecks"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nebius/soperator/archive/004394e6f5cdd127e65a950790f94173e27017b0.tar.gz"
+  ],
+  "tag": [
+    "high-performance-computing",
+    "hpc",
+    "k8s",
+    "k8s-operator",
+    "kubernetes",
+    "machine-learning",
+    "ml",
+    "model-training",
+    "slurm"
+  ],
+  "version": "HEAD-004394e-250628T210439",
+  "version_upstream": "",
+  "bsum": "2f15b8f6f40bbea5d449544f19ebceec5d7b236380595d519d2074dfb53e975c",
+  "build_date": "2025-06-29T10:55:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15953957694",
+  "build_id": "15953957694",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nebius/soperator/sconfigcontroller?tag=HEAD-004394e-250628T210439-riscv64-Linux&download=sconfigcontroller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "241",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nebius/soperator/sconfigcontroller?tag=HEAD-004394e-250628T210439-riscv64-Linux&download=sconfigcontroller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nebius/soperator/sconfigcontroller:HEAD-004394e-250628T210439-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nebius/soperator/sconfigcontroller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nebius/soperator/sconfigcontroller?tag=HEAD-004394e-250628T210439-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "42133d1f88a36089d728b3e122016e1980efd59173a10437715c1fd3aa96250a",
+  "size": "46 MB",
+  "size_raw": "47589912",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-bd328a2-250620T101949-riscv64-Linux",
+    "HEAD-fb200a5-250623T143705-riscv64-Linux",
+    "HEAD-576d26a-250624T162103-riscv64-Linux",
+    "HEAD-da45ab9-250625T162142-riscv64-Linux",
+    "HEAD-08847d3-250626T000753-riscv64-Linux",
+    "HEAD-6c25b19-250626T162928-riscv64-Linux",
+    "HEAD-7e34fd7-250627T160140-riscv64-Linux",
+    "HEAD-11e8fa9-250628T004716-riscv64-Linux"
+  ],
+  "trusted": "true"
+}

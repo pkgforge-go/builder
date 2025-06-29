@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "exporter",
+  "pkg_family": "soperator",
+  "pkg_id": "exporter#github.com_nebius_soperator",
+  "pkg_name": "exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nebius/soperator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Run Slurm in Kubernetes",
+  "homepage": [
+    "https://github.com/nebius/soperator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "exporter",
+    "rebooter",
+    "sconfigcontroller",
+    "soperator-cmd",
+    "soperatorchecks"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nebius/soperator/archive/004394e6f5cdd127e65a950790f94173e27017b0.tar.gz"
+  ],
+  "tag": [
+    "high-performance-computing",
+    "hpc",
+    "k8s",
+    "k8s-operator",
+    "kubernetes",
+    "machine-learning",
+    "ml",
+    "model-training",
+    "slurm"
+  ],
+  "version": "HEAD-004394e-250628T210439",
+  "version_upstream": "",
+  "bsum": "fe5cda84104615e1a5702289a075343b03338181f2dfccbb8aaf7546d8900a30",
+  "build_date": "2025-06-29T10:54:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15953957694",
+  "build_id": "15953957694",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nebius/soperator/exporter?tag=HEAD-004394e-250628T210439-riscv64-Linux&download=exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "241",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nebius/soperator/exporter?tag=HEAD-004394e-250628T210439-riscv64-Linux&download=exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nebius/soperator/exporter:HEAD-004394e-250628T210439-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nebius/soperator/exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nebius/soperator/exporter?tag=HEAD-004394e-250628T210439-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e3e9e112fe34d61b1cdf5340052a518893038a8c4edd36023ba19fc8a879bce1",
+  "size": "39 MB",
+  "size_raw": "40848120",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-bd328a2-250620T101949-riscv64-Linux",
+    "HEAD-fb200a5-250623T143705-riscv64-Linux",
+    "HEAD-576d26a-250624T162103-riscv64-Linux",
+    "HEAD-da45ab9-250625T162142-riscv64-Linux",
+    "HEAD-08847d3-250626T000753-riscv64-Linux",
+    "HEAD-6c25b19-250626T162928-riscv64-Linux",
+    "HEAD-7e34fd7-250627T160140-riscv64-Linux",
+    "HEAD-11e8fa9-250628T004716-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
