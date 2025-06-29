@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "amc",
+  "pkg_family": "media",
+  "pkg_id": "amc#github.com_3052_media",
+  "pkg_name": "amc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/3052/media",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Download media or send API requests",
+  "homepage": [
+    "https://github.com/3052/media"
+  ],
+  "license": [
+    "OSL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "amc",
+    "ctv",
+    "paramount",
+    "rakuten"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/3052/media/archive/3836e68eb77743430e5e95d4c852169ba88e4ce5.tar.gz"
+  ],
+  "tag": [
+    "canal",
+    "hulu",
+    "max",
+    "paramount",
+    "plex",
+    "pluto",
+    "tubi"
+  ],
+  "version": "HEAD-3836e68-250628T172037",
+  "version_upstream": "",
+  "bsum": "2e42c1f976448e871831d304a898e05250aa2894c1cc5fb702546453a1dc7e8c",
+  "build_date": "2025-06-29T09:49:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15953895182",
+  "build_id": "15953895182",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/3052/media/amc?tag=HEAD-3836e68-250628T172037-riscv64-Linux&download=amc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "76",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/3052/media/amc?tag=HEAD-3836e68-250628T172037-riscv64-Linux&download=amc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/3052/media/amc:HEAD-3836e68-250628T172037-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/3052/media/amc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/3052/media/amc?tag=HEAD-3836e68-250628T172037-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0ec3dd0e8facf6081e76cda8bec399ca2414ea3825ec3f91c9326c94314f639d",
+  "size": "6.6 MB",
+  "size_raw": "6853400",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-890ddf1-250618T171620-riscv64-Linux",
+    "HEAD-48883ca-250622T042832-riscv64-Linux",
+    "HEAD-6947c60-250624T184721-riscv64-Linux",
+    "HEAD-b28d1fb-250625T062925-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
