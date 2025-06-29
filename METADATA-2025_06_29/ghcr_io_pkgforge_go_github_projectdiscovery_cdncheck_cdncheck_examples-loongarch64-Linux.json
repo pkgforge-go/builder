@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cdncheck-examples",
+  "pkg_family": "cdncheck",
+  "pkg_id": "cdncheck-examples#github.com_projectdiscovery_cdncheck",
+  "pkg_name": "cdncheck-examples",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/projectdiscovery/cdncheck",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A utility to detect various technology for a given IP address.",
+  "homepage": [
+    "https://github.com/projectdiscovery/cdncheck"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cdncheck",
+    "cdncheck-examples",
+    "functional-test",
+    "generate-index",
+    "integration-test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/projectdiscovery/cdncheck/archive/d4e3c756bbb1fd9be070ae0b511762d7b2e32792.tar.gz"
+  ],
+  "tag": [
+    "api",
+    "cdn",
+    "cli",
+    "cname",
+    "detection",
+    "lib",
+    "technology"
+  ],
+  "version": "HEAD-d4e3c75-250629T001237",
+  "version_upstream": "v1.1.25",
+  "bsum": "78d3094c9827be07c9ef4b768d61d439183c7d43947181a73e8e1c806885a7ae",
+  "build_date": "2025-06-29T11:01:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15953978745",
+  "build_id": "15953978745",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/cdncheck/cdncheck-examples?tag=HEAD-d4e3c75-250629T001237-loongarch64-Linux&download=cdncheck-examples.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "843",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/cdncheck/cdncheck-examples?tag=HEAD-d4e3c75-250629T001237-loongarch64-Linux&download=cdncheck-examples",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/projectdiscovery/cdncheck/cdncheck-examples:HEAD-d4e3c75-250629T001237-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/projectdiscovery/cdncheck/cdncheck-examples",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/cdncheck/cdncheck-examples?tag=HEAD-d4e3c75-250629T001237-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f38accbf792581a2a795f9516402e8de0b1f488d76ded706598471e84f6a2f0d",
+  "size": "7.1 MB",
+  "size_raw": "7384120",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-dbdc966-250615T001226-loongarch64-Linux[v1.1.23]",
+    "HEAD-0443e5b-250622T001220-loongarch64-Linux[v1.1.24]"
+  ],
+  "trusted": "true"
+}
