@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "aws",
+  "pkg_family": "exportcontrols",
+  "pkg_id": "aws#github.com_deepfence_cloud_scanner_exportcontrols",
+  "pkg_name": "aws",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/deepfence/cloud-scanner/exportcontrols",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Deepfence Cloud Scanner runs in your cloud environment, gathering inventory and compliance information for the assets deployed in that environment. It submits that information to your Deepfence ThreatMapper or ThreatStryker Management Console",
+  "homepage": [
+    "https://github.com/deepfence/cloud-scanner/exportcontrols"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws",
+    "azure",
+    "gcp",
+    "kubernetes"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/deepfence/cloud-scanner/exportcontrols/@v/v0.0.0-20250410183341-c8a00bd3493f.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250410183341-c8a00bd3493f",
+  "version_upstream": "",
+  "bsum": "45fcc1f795807f27710a165105bb9e0de8a929c63fcdb65a7f0641c755afaa84",
+  "build_date": "2025-06-29T23:01:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15960028809",
+  "build_id": "15960028809",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloud-scanner/exportcontrols/aws?tag=v0.0.0-20250410183341-c8a00bd3493f-aarch64-Linux&download=aws.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloud-scanner/exportcontrols/aws?tag=v0.0.0-20250410183341-c8a00bd3493f-aarch64-Linux&download=aws",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloud-scanner/exportcontrols/aws:v0.0.0-20250410183341-c8a00bd3493f-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloud-scanner/exportcontrols/aws",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloud-scanner/exportcontrols/aws?tag=v0.0.0-20250410183341-c8a00bd3493f-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "37fa1313f065476e5738880ce57ab4733a041f8910001292d82afb089691dd81",
+  "size": "37 MB",
+  "size_raw": "37922112",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
