@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "sparrow",
+  "pkg_family": "sparrow",
+  "pkg_id": "sparrow#github.com_telekom_sparrow",
+  "pkg_name": "sparrow",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/telekom/sparrow",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A monitoring tool to gather infrastructure network information",
+  "homepage": [
+    "https://github.com/telekom/sparrow"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gen-docs",
+    "sparrow"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/telekom/sparrow/archive/9ac3297713add31ff8dd9aaba4255ccc779c3c54.tar.gz"
+  ],
+  "tag": [
+    "infrastructure",
+    "monitoring",
+    "network",
+    "observability",
+    "sparrow"
+  ],
+  "version": "HEAD-9ac3297-250628T210500",
+  "version_upstream": "",
+  "bsum": "6859484444e6a3e3ac0de5c03358feb90b5711a6e88d237a38292ba1a2a92a86",
+  "build_date": "2025-06-29T11:03:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15954010840",
+  "build_id": "15954010840",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/telekom/sparrow/sparrow?tag=HEAD-9ac3297-250628T210500-x86_64-Linux&download=sparrow.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "20",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/telekom/sparrow/sparrow?tag=HEAD-9ac3297-250628T210500-x86_64-Linux&download=sparrow",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/telekom/sparrow/sparrow:HEAD-9ac3297-250628T210500-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/telekom/sparrow/sparrow",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/telekom/sparrow/sparrow?tag=HEAD-9ac3297-250628T210500-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cb123da9e08fc27d55c6f56d86cd546faddb8972f194a84329028f1ed8b924ea",
+  "size": "19 MB",
+  "size_raw": "19759616",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-d29c6b7-250623T002015-x86_64-Linux",
+    "HEAD-a22eb69-250626T011009-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
