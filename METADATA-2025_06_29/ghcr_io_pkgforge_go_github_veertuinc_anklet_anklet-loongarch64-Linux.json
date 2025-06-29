@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "anklet",
+  "pkg_family": "anklet",
+  "pkg_id": "anklet#github.com_veertuinc_anklet",
+  "pkg_name": "anklet",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/veertuinc/anklet",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An external orchestrator for running on-demand and ephemeral Anka macOS VMs for CI.",
+  "homepage": [
+    "https://github.com/veertuinc/anklet"
+  ],
+  "license": [
+    "NOASSERTION"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "anklet"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/veertuinc/anklet/archive/15b08adeeeba37789b309afb91b48a647bc557b9.tar.gz"
+  ],
+  "tag": [
+    "anka",
+    "macos",
+    "virtualization"
+  ],
+  "version": "HEAD-15b08ad-250627T170553",
+  "version_upstream": "0.14.1",
+  "bsum": "d5247f3d96e2e8720458518446ce46040955928366381ad2d935e059c7472b9a",
+  "build_date": "2025-06-29T02:27:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15950536452",
+  "build_id": "15950536452",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/veertuinc/anklet/anklet?tag=HEAD-15b08ad-250627T170553-loongarch64-Linux&download=anklet.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/veertuinc/anklet/anklet?tag=HEAD-15b08ad-250627T170553-loongarch64-Linux&download=anklet",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/veertuinc/anklet/anklet:HEAD-15b08ad-250627T170553-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/veertuinc/anklet/anklet",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/veertuinc/anklet/anklet?tag=HEAD-15b08ad-250627T170553-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "20d5c0325ca639b2643ecb6ff764df6a26d925bba1b3c9bc2164dc60b930487e",
+  "size": "9.4 MB",
+  "size_raw": "9826944",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-53b1437-250624T145209-loongarch64-Linux",
+    "HEAD-9bee6e0-250625T225159-loongarch64-Linux",
+    "HEAD-98be457-250627T093751-loongarch64-Linux",
+    "HEAD-15b08ad-250627T170553-loongarch64-Linux[0.14.1]"
+  ],
+  "trusted": "true"
+}
