@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "admission-webhook-certificator",
+  "pkg_family": "admission-webhook-certificator",
+  "pkg_id": "admission-webhook-certificator#github.com_ealebed_admission_webhook_certificator",
+  "pkg_name": "admission-webhook-certificator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ealebed/admission-webhook-certificator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tool for creating K8S Secret with TLS type that includes corresponding client certificates which are signed by K8S CA and private key",
+  "homepage": [
+    "https://github.com/ealebed/admission-webhook-certificator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admission-webhook-certificator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/ealebed/admission-webhook-certificator/@v/v0.0.0-20250623060705-ecab84d6671b.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250623060705-ecab84d6671b",
+  "version_upstream": "",
+  "bsum": "621626c542b618d4aa84d4e856f5f17c6e1610656f5c74ad840d4830a2af32eb",
+  "build_date": "2025-06-29T23:55:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15960464271",
+  "build_id": "15960464271",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ealebed/admission-webhook-certificator/admission-webhook-certificator?tag=v0.0.0-20250623060705-ecab84d6671b-aarch64-Linux&download=admission-webhook-certificator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ealebed/admission-webhook-certificator/admission-webhook-certificator?tag=v0.0.0-20250623060705-ecab84d6671b-aarch64-Linux&download=admission-webhook-certificator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ealebed/admission-webhook-certificator/admission-webhook-certificator:v0.0.0-20250623060705-ecab84d6671b-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ealebed/admission-webhook-certificator/admission-webhook-certificator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ealebed/admission-webhook-certificator/admission-webhook-certificator?tag=v0.0.0-20250623060705-ecab84d6671b-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e65e9aeb7223ddf6242fc936c293d5df0ccf445a57434a23f42d18495d49e5c8",
+  "size": "38 MB",
+  "size_raw": "39473344",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
