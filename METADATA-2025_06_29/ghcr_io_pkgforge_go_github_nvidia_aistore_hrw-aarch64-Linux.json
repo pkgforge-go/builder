@@ -1,0 +1,87 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "hrw",
+  "pkg_family": "aistore",
+  "pkg_id": "hrw#github.com_NVIDIA_aistore",
+  "pkg_name": "hrw",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NVIDIA/aistore",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "AIStore: scalable storage for AI applications",
+  "homepage": [
+    "https://github.com/NVIDIA/aistore"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aisinit",
+    "compare",
+    "frandread",
+    "hrw",
+    "map"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NVIDIA/aistore/archive/ad8d2111251fba78202bb4983bbd1a5f0eb6a95e.tar.gz"
+  ],
+  "tag": [
+    "batch-jobs",
+    "distributed-shuffle",
+    "erasure-coding",
+    "etl-offload",
+    "kubernetes",
+    "linear-scalability",
+    "multiple-backends",
+    "network-of-clusters",
+    "object-storage",
+    "sds",
+    "software-defined"
+  ],
+  "version": "HEAD-ad8d211-250628T144446",
+  "version_upstream": "",
+  "bsum": "d31dbbd96a131b122e48cf373109680986dfc10b0f4ccd3c91e48debdeb7f8d0",
+  "build_date": "2025-06-29T09:57:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15953895943",
+  "build_id": "15953895943",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/aistore/hrw?tag=HEAD-ad8d211-250628T144446-aarch64-Linux&download=hrw.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1538",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/aistore/hrw?tag=HEAD-ad8d211-250628T144446-aarch64-Linux&download=hrw",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nvidia/aistore/hrw:HEAD-ad8d211-250628T144446-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nvidia/aistore/hrw",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/aistore/hrw?tag=HEAD-ad8d211-250628T144446-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7f3b90de7166b409b415d71ae1d24958d2c44ea2276175071d636149c317c33d",
+  "size": "34 MB",
+  "size_raw": "34746720",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e423d65-250618T185547-aarch64-Linux",
+    "HEAD-0affbd7-250623T132449-aarch64-Linux",
+    "HEAD-4ae6bfd-250624T173732-aarch64-Linux",
+    "HEAD-32ee3df-250624T192555-aarch64-Linux",
+    "HEAD-db06a4a-250625T172033-aarch64-Linux",
+    "HEAD-2d338b5-250626T151617-aarch64-Linux",
+    "HEAD-efd7727-250627T101502-aarch64-Linux",
+    "HEAD-85c0f5d-250627T162235-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
