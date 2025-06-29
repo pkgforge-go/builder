@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "yanic",
+  "pkg_family": "yanic",
+  "pkg_id": "yanic#github.com_FreifunkBremen_yanic",
+  "pkg_name": "yanic",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/FreifunkBremen/yanic",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Yet another node info collector  - for respondd to be used with meshviewer to Grafana _with influxdb or graphite_",
+  "homepage": [
+    "https://github.com/FreifunkBremen/yanic"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "yanic"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/FreifunkBremen/yanic/archive/a52629b170f041881fbc76d54471017cf3d00cbf.tar.gz"
+  ],
+  "tag": [
+    "freifunk",
+    "gluon",
+    "grafana",
+    "graphite",
+    "influxdb",
+    "meshviewer"
+  ],
+  "version": "HEAD-a52629b-250629T015836",
+  "version_upstream": "v1.8.0",
+  "bsum": "48e6311fbf438cc0c09b8a651383e31ba168d70a32688b54a9ac65c9813ba20e",
+  "build_date": "2025-06-29T06:53:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15952551865",
+  "build_id": "15952551865",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/freifunkbremen/yanic/yanic?tag=HEAD-a52629b-250629T015836-aarch64-Linux&download=yanic.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "20",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/freifunkbremen/yanic/yanic?tag=HEAD-a52629b-250629T015836-aarch64-Linux&download=yanic",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/freifunkbremen/yanic/yanic:HEAD-a52629b-250629T015836-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/freifunkbremen/yanic/yanic",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/freifunkbremen/yanic/yanic?tag=HEAD-a52629b-250629T015836-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "62184294e53b9f2e9497302ffc8d69bb589b74b7a29ea4a6d0800e9e5e2bf7ea",
+  "size": "12 MB",
+  "size_raw": "12174176",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
