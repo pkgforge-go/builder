@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "binclient",
+  "pkg_family": "gowaves",
+  "pkg_id": "binclient#github.com_wavesplatform_gowaves",
+  "pkg_name": "binclient",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/wavesplatform/gowaves",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go implementation of Waves node, libraries and tools for Waves blockchain",
+  "homepage": [
+    "https://github.com/wavesplatform/gowaves"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "binclient",
+    "blockcmp",
+    "chaincmp",
+    "compiler",
+    "convert",
+    "generate",
+    "genesis",
+    "retransmitter",
+    "statecmp",
+    "wallet",
+    "wmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/wavesplatform/gowaves/archive/b73f074de9f2b1e22a57f29b5cea8a4d71971dc2.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "cryptography",
+    "decentralized-applications",
+    "smart-contracts",
+    "waves"
+  ],
+  "version": "HEAD-b73f074-250628T214758",
+  "version_upstream": "",
+  "bsum": "61fe64b9603ef4a238acdeb35162117978849ba0d574d947de23f0c74b993b2e",
+  "build_date": "2025-06-29T07:44:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15952605042",
+  "build_id": "15952605042",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wavesplatform/gowaves/binclient?tag=HEAD-b73f074-250628T214758-riscv64-Linux&download=binclient.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "86",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wavesplatform/gowaves/binclient?tag=HEAD-b73f074-250628T214758-riscv64-Linux&download=binclient",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/wavesplatform/gowaves/binclient:HEAD-b73f074-250628T214758-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/wavesplatform/gowaves/binclient",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wavesplatform/gowaves/binclient?tag=HEAD-b73f074-250628T214758-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5d7865c3c90264d3b4fa88795dd1e7f55f040de9fc8b718117c978df6b907be4",
+  "size": "15 MB",
+  "size_raw": "15528408",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
