@@ -37,6 +37,7 @@ jobs:
           bash <(curl -qfsSL "https://raw.githubusercontent.com/pkgforge/devscripts/refs/heads/main/Linux/install_bins_curl.sh")
           ##Create Output Dir
           mkdir -p "${GITHUB_WORKSPACE}/main/data"
+          echo "O_D=${GITHUB_WORKSPACE}/main/data" >> "${GITHUB_ENV}"
           echo "GIT_TERMINAL_PROMPT=0" >> "${GITHUB_ENV}"
           echo "GIT_ASKPASS=/bin/echo" >> "${GITHUB_ENV}"
           git config --global "user.email" "AjamX101@gmail.com"
@@ -54,6 +55,55 @@ jobs:
           bash <(curl -qfsSL "https://raw.githubusercontent.com/pkgforge/devscripts/main/Github/Runners/debloat_ubuntu.sh")
         continue-on-error: true
 
+      - name: Generate Metadata (PKG_RAW.json) + (PKG_DUMP.json)
+        env:
+          GH_TOKEN: "${{ github.token }}"
+          GITHUB_TOKEN: "${{ github.token }}"
+        run: |
+          #Presets
+          set +x ; set +e
+          #--------------#
+          ##Main
+          #export PARALLEL_LIMIT="$(($(nproc)+1))"
+          export PARALLEL_LIMIT="25"
+          export O_D="${GITHUB_WORKSPACE}/main/data"
+          dos2unix --quiet "${GITHUB_WORKSPACE}/main/scripts/_get_index_data.sh"
+          chmod +x "${GITHUB_WORKSPACE}/main/scripts/_get_index_data.sh"
+          bash "${GITHUB_WORKSPACE}/main/scripts/_get_index_data.sh"
+          ##Copy (PKG_RAW.json)
+          if [[ -s "${SYSTMP}/PKG_RAW.json" && $(stat -c%s "${SYSTMP}PKG_RAW.json") -gt 1024 ]]; then
+            PKG_COUNT="$(jq -r '.[] | .pkg_id' "${SYSTMP}/PKG_RAW.json" | grep -iv 'null' | sort -u | wc -l | tr -d '[:space:]')"
+            if [[ "${PKG_COUNT}" -ge 1000 ]]; then
+               cp -fv "${SYSTMP}/PKG_RAW.json" "${O_D}/PKG_RAW.json"
+            fi
+          fi
+          ##Copy (PKG_DUMP.json)
+          if [[ -s "${SYSTMP}/PKG_DUMP.json" && $(stat -c%s "${SYSTMP}/PKG_DUMP.json") -gt 1024 ]]; then
+               if [[ -f "${O_D}/PKG_DUMP.json" ]]; then
+                 jq -s \
+                 '
+                  (.[1] // []) as $old |
+                  (.[0] // []) as $new |
+                  ($old | map({(.pkg_id): .}) | add) as $old_by_id |
+                  ($new | map({(.pkg_id): .}) | add) as $new_by_id |
+                  ($old_by_id + $new_by_id) | to_entries | map(.value) | sort_by(.pkg_id)
+                 ' "${SYSTMP}/PKG_DUMP.json" "${O_D}/PKG_DUMP.json" | jq . > "${SYSTMP}/merged.json"
+                 export I_F="${SYSTMP}/merged.json"
+               else
+                 export I_F="${SYSTMP}/PKG_DUMP.json"
+               fi
+               PKG_COUNT="$(jq -r '.[] | .pkg_id' "${I_F}" | grep -iv 'null' | sort -u | wc -l | tr -d '[:space:]')"
+               if [[ "${PKG_COUNT}" -le 100 ]]; then
+                  echo -e "\n[-] FATAL: Failed to Generate PKG DUMP\n"
+                  echo "[-] Count: ${PKG_COUNT}"
+                 exit 1
+               else
+                  echo -e "\n[+] Total Packages: ${PKG_COUNT}"
+                  cp -fv "${I_F}" "${O_D}/PKG_DUMP.json"
+               fi
+          fi
+        continue-on-error: true
+
       - name: Generate Metadata (REPO_DUMP.json) + (PKGS_CLI_ONLY.json)
         env:
           GH_TOKEN: "${{ github.token }}"
@@ -65,6 +115,7 @@ jobs:
           ##Main
           #export PARALLEL_LIMIT="$(($(nproc)+1))"
           export PARALLEL_LIMIT="25"
+          export O_D="${GITHUB_WORKSPACE}/main/data"
           dos2unix --quiet "${GITHUB_WORKSPACE}/main/scripts/_get_initial_list.sh"
           chmod +x "${GITHUB_WORKSPACE}/main/scripts/_get_initial_list.sh"
           bash "${GITHUB_WORKSPACE}/main/scripts/_get_initial_list.sh"
