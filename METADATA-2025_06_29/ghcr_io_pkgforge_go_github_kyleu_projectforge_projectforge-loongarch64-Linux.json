@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "projectforge",
+  "pkg_family": "projectforge",
+  "pkg_id": "projectforge#github.com_kyleu_projectforge",
+  "pkg_name": "projectforge",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kyleu/projectforge",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Project Forge helps you build applications with Go",
+  "homepage": [
+    "https://github.com/kyleu/projectforge"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "projectforge"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kyleu/projectforge/archive/9c18949157af444a745052cfb2a5a9ee2576b724.tar.gz"
+  ],
+  "tag": [
+    "codegen",
+    "desktop",
+    "fasthttp",
+    "golang",
+    "mobile",
+    "quicktemplate",
+    "typescript",
+    "webassembly"
+  ],
+  "version": "HEAD-9c18949-250628T160327",
+  "version_upstream": "",
+  "bsum": "83b9b677e48c2dd3ead25da991abf34b2293019f2de7c9595446cd35017491ba",
+  "build_date": "2025-06-29T13:25:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15955503679",
+  "build_id": "15955503679",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyleu/projectforge/projectforge?tag=HEAD-9c18949-250628T160327-loongarch64-Linux&download=projectforge.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyleu/projectforge/projectforge?tag=HEAD-9c18949-250628T160327-loongarch64-Linux&download=projectforge",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kyleu/projectforge/projectforge:HEAD-9c18949-250628T160327-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kyleu/projectforge/projectforge",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyleu/projectforge/projectforge?tag=HEAD-9c18949-250628T160327-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f0b1da5c270e45c62fc0c62932fa94c19254ce4988dafc6147154d514d2fca67",
+  "size": "37 MB",
+  "size_raw": "37929808",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-1249075-250621T181805-loongarch64-Linux[v1.7.13]"
+  ],
+  "trusted": "true"
+}
