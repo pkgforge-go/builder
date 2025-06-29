@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "stateactor",
+  "pkg_family": "actorload",
+  "pkg_id": "stateactor#github.com_dapr_dapr_tests_apps_actorload",
+  "pkg_name": "stateactor",
+  "pkg_type": "static",
+  "pkg_webpage": "https://dapr.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration",
+  "homepage": [
+    "https://dapr.io"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "stateactor",
+    "testclient"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/dapr/dapr/tests/apps/actorload/@v/v0.0.0-20250627204545-92cf352f9e73.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250627204545-92cf352f9e73",
+  "version_upstream": "",
+  "bsum": "9dba2d873a15af3aa58a5550ac6af451e8545daa8ff68c67bbcf10842e58f157",
+  "build_date": "2025-06-29T22:32:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15959764701",
+  "build_id": "15959764701",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apps/actorload/stateactor?tag=v0.0.0-20250627204545-92cf352f9e73-aarch64-Linux&download=stateactor.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "24859",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apps/actorload/stateactor?tag=v0.0.0-20250627204545-92cf352f9e73-aarch64-Linux&download=stateactor",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/apps/actorload/stateactor:v0.0.0-20250627204545-92cf352f9e73-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/apps/actorload/stateactor",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apps/actorload/stateactor?tag=v0.0.0-20250627204545-92cf352f9e73-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f4490608c9f512c7eb0f4976311531be4e9c39eb3468f44302e3d20ab2333547",
+  "size": "6.5 MB",
+  "size_raw": "6798336",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

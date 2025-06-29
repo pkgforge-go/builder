@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "testclient",
+  "pkg_family": "actorload",
+  "pkg_id": "testclient#github.com_dapr_dapr_tests_apps_actorload",
+  "pkg_name": "testclient",
+  "pkg_type": "static",
+  "pkg_webpage": "https://dapr.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration",
+  "homepage": [
+    "https://dapr.io"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "stateactor",
+    "testclient"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/dapr/dapr/tests/apps/actorload/@v/v0.0.0-20250627204545-92cf352f9e73.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250627204545-92cf352f9e73",
+  "version_upstream": "",
+  "bsum": "9258599b10ad776f7457da9d512e9286bc9242293e511ae73856cbddc897ab11",
+  "build_date": "2025-06-29T22:32:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15959764701",
+  "build_id": "15959764701",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apps/actorload/testclient?tag=v0.0.0-20250627204545-92cf352f9e73-aarch64-Linux&download=testclient.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "24859",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apps/actorload/testclient?tag=v0.0.0-20250627204545-92cf352f9e73-aarch64-Linux&download=testclient",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/apps/actorload/testclient:v0.0.0-20250627204545-92cf352f9e73-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/apps/actorload/testclient",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apps/actorload/testclient?tag=v0.0.0-20250627204545-92cf352f9e73-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9af81e1d941b9b2b7d1ea16f3a390972f057d198291bb030a5ef853ee01613e1",
+  "size": "9.3 MB",
+  "size_raw": "9700416",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
