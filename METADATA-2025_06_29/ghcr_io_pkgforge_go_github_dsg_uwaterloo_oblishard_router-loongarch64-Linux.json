@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "router",
+  "pkg_family": "oblishard",
+  "pkg_id": "router#github.com_dsg_uwaterloo_oblishard",
+  "pkg_name": "router",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dsg-uwaterloo/oblishard",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A scalable and fault-tolerant Oblivious RAM (ORAM) data store",
+  "homepage": [
+    "https://github.com/dsg-uwaterloo/oblishard"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "oramnode",
+    "router",
+    "shardnode"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/dsg-uwaterloo/oblishard/@v/v0.0.0-20250619235412-6cd46d5a8fe4.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250619235412-6cd46d5a8fe4",
+  "version_upstream": "",
+  "bsum": "98f9cc4032b514caa93c89b6874555b029326d6bc01173c855c7a8cf0f808662",
+  "build_date": "2025-06-29T23:40:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15960377793",
+  "build_id": "15960377793",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dsg-uwaterloo/oblishard/router?tag=v0.0.0-20250619235412-6cd46d5a8fe4-loongarch64-Linux&download=router.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dsg-uwaterloo/oblishard/router?tag=v0.0.0-20250619235412-6cd46d5a8fe4-loongarch64-Linux&download=router",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dsg-uwaterloo/oblishard/router:v0.0.0-20250619235412-6cd46d5a8fe4-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dsg-uwaterloo/oblishard/router",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dsg-uwaterloo/oblishard/router?tag=v0.0.0-20250619235412-6cd46d5a8fe4-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f002ffcee38a6487e5e08086a7cac53b6e7f429d8c9df58830be19ca5113e367",
+  "size": "13 MB",
+  "size_raw": "13472768",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
