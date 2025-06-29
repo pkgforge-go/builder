@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "scoreboard",
+  "pkg_family": "genai",
+  "pkg_id": "scoreboard#github.com_maruel_genai",
+  "pkg_name": "scoreboard",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/maruel/genai",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "common code",
+  "homepage": [
+    "https://github.com/maruel/genai"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cache-mgr",
+    "list-models",
+    "llama-serve",
+    "scoreboard"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/maruel/genai/archive/7b82c0692862aaf2682116d9799dc13e35cc1c28.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-7b82c06-250629T000633",
+  "version_upstream": "",
+  "bsum": "df4eb90b0544ab1f326296c77eb63215c3d65433263b0ace9b749d2d736419e7",
+  "build_date": "2025-06-29T10:46:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15953952156",
+  "build_id": "15953952156",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/maruel/genai/scoreboard?tag=HEAD-7b82c06-250629T000633-loongarch64-Linux&download=scoreboard.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/maruel/genai/scoreboard?tag=HEAD-7b82c06-250629T000633-loongarch64-Linux&download=scoreboard",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/maruel/genai/scoreboard:HEAD-7b82c06-250629T000633-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/maruel/genai/scoreboard",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/maruel/genai/scoreboard?tag=HEAD-7b82c06-250629T000633-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "aaa6d39c74ba4bc53e4aa14c45f3ffad3e1b6d782968db3ac1e62a9024394c34",
+  "size": "8.2 MB",
+  "size_raw": "8581216",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-7c4c094-250622T000613-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
