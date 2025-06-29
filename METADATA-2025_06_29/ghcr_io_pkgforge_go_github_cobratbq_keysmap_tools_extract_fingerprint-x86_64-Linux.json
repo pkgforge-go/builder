@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "extract-fingerprint",
+  "pkg_family": "keysmap-tools",
+  "pkg_id": "extract-fingerprint#github.com_cobratbq_keysmap_tools",
+  "pkg_name": "extract-fingerprint",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cobratbq/keysmap-tools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tools for automatically generating PGP keys map for pgpverify-maven-plugin",
+  "homepage": [
+    "https://github.com/cobratbq/keysmap-tools"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "canonicalize-keysmap",
+    "download-metadata",
+    "download-signatures",
+    "extract-fingerprint",
+    "extract-keyid",
+    "sha256sum"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cobratbq/keysmap-tools/@v/v0.0.0-20250627160114-e70fd7bde1be.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250627160114-e70fd7bde1be",
+  "version_upstream": "",
+  "bsum": "c46f0a12811320d3004156a679c46a2bab1ddcc9a632b3fdadcbf3d548a91c79",
+  "build_date": "2025-06-29T20:48:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15959082665",
+  "build_id": "15959082665",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cobratbq/keysmap-tools/extract-fingerprint?tag=v0.0.0-20250627160114-e70fd7bde1be-x86_64-Linux&download=extract-fingerprint.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cobratbq/keysmap-tools/extract-fingerprint?tag=v0.0.0-20250627160114-e70fd7bde1be-x86_64-Linux&download=extract-fingerprint",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cobratbq/keysmap-tools/extract-fingerprint:v0.0.0-20250627160114-e70fd7bde1be-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cobratbq/keysmap-tools/extract-fingerprint",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cobratbq/keysmap-tools/extract-fingerprint?tag=v0.0.0-20250627160114-e70fd7bde1be-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7f33d0cf0450b2a70c1926f2cad024f205d3855580b1df3d37fd71dd498ba2a4",
+  "size": "3.5 MB",
+  "size_raw": "3588544",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
