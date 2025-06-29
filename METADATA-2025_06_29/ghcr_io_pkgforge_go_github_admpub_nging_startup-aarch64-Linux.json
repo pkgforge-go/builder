@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "startup",
+  "pkg_family": "nging",
+  "pkg_id": "startup#github.com_admpub_nging",
+  "pkg_name": "startup",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/admpub/nging",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go语言Web管理面板，包含：计划任务 / MySQL管理 / Redis管理 / FTP管理 / SSH管理 / 服务器管理 / Caddy和Nginx配置 / DDNS / FRP可视化配置 / 云存储管理 等功能。可运行于 Windows / Linux / MacOS 等主流系统平台和 树莓派 / 路由器 等ARM设备",
+  "homepage": [
+    "https://github.com/admpub/nging"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "example",
+    "nging",
+    "startup"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/admpub/nging/archive/b7077e1db3953839c6d071f05eff9e8993925f55.tar.gz"
+  ],
+  "tag": [
+    "caddy",
+    "cron-jobs",
+    "database-manager",
+    "ddns",
+    "file-manager",
+    "frp-ui",
+    "ftp-server",
+    "mysql-client",
+    "nginx-configuration",
+    "offline-download",
+    "redis-client",
+    "sftp-client",
+    "ssh-manager",
+    "web-server-dashboard",
+    "web-ui",
+    "webdav"
+  ],
+  "version": "HEAD-b7077e1-250629T115144",
+  "version_upstream": "",
+  "bsum": "84bfdbeb6f44a2aa699b0a2b97b2c9f1923d4d5ec70064f6f90b431724712500",
+  "build_date": "2025-06-29T09:56:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15953896064",
+  "build_id": "15953896064",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/admpub/nging/startup?tag=HEAD-b7077e1-250629T115144-aarch64-Linux&download=startup.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1512",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/admpub/nging/startup?tag=HEAD-b7077e1-250629T115144-aarch64-Linux&download=startup",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/admpub/nging/startup:HEAD-b7077e1-250629T115144-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/admpub/nging/startup",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/admpub/nging/startup?tag=HEAD-b7077e1-250629T115144-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f48a7cfd068d282a3672eb412b73a7d5998785b92a610fe20f74e5bb02f98704",
+  "size": "2.3 MB",
+  "size_raw": "2400824",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-7c76490-250618T124754-aarch64-Linux",
+    "HEAD-3b7e475-250620T205622-aarch64-Linux",
+    "HEAD-e9ef1d8-250627T133147-aarch64-Linux",
+    "HEAD-6ba0b78-250628T140354-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
