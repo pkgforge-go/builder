@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "lightning",
+  "pkg_family": "lightning",
+  "pkg_id": "lightning#github.com_williamhorning_lightning",
+  "pkg_name": "lightning",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/williamhorning/lightning",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "a cross-platform chat bot connecting your communities",
+  "homepage": [
+    "https://github.com/williamhorning/lightning"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "lightning"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/williamhorning/lightning/archive/4dafcd19b429e1c0556c3b6984defb09e0ebfa45.tar.gz"
+  ],
+  "tag": [
+    "bolt",
+    "bridge",
+    "discord",
+    "guilded",
+    "matrix",
+    "revolt"
+  ],
+  "version": "HEAD-4dafcd1-250628T200111",
+  "version_upstream": "",
+  "bsum": "3cd0fb52781c53c172a7529d3433b5a4c333350f3dd64e0e54600c7f06a4fde2",
+  "build_date": "2025-06-29T11:08:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15954032131",
+  "build_id": "15954032131",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/williamhorning/lightning/lightning?tag=HEAD-4dafcd1-250628T200111-riscv64-Linux&download=lightning.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "45",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/williamhorning/lightning/lightning?tag=HEAD-4dafcd1-250628T200111-riscv64-Linux&download=lightning",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/williamhorning/lightning/lightning:HEAD-4dafcd1-250628T200111-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/williamhorning/lightning/lightning",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/williamhorning/lightning/lightning?tag=HEAD-4dafcd1-250628T200111-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7c0c2933c701dc0a2d98f1ce4cc58e88b5014fae53a8fbfff7f48cc5fec29031",
+  "size": "17 MB",
+  "size_raw": "17373944",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-32ae519-250625T144734-riscv64-Linux[0.8.0-alpha.9]",
+    "HEAD-0e3c809-250627T205432-riscv64-Linux[0.8.0-alpha.10]"
+  ],
+  "trusted": "true"
+}
