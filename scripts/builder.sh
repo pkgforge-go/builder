@@ -7,7 +7,7 @@
 
 #-------------------------------------------------------#
 ##Version
-GB_VERSION="0.0.4+1" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset GB_VERSION
+GB_VERSION="0.0.4+2" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset GB_VERSION
 ##Enable Debug
  if [[ "${DEBUG}" = "1" ]] || [[ "${DEBUG}" = "ON" ]]; then
     set -x
