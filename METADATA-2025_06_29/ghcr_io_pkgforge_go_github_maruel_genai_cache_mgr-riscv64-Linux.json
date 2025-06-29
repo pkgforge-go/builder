@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cache-mgr",
+  "pkg_family": "genai",
+  "pkg_id": "cache-mgr#github.com_maruel_genai",
+  "pkg_name": "cache-mgr",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/maruel/genai",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "common code",
+  "homepage": [
+    "https://github.com/maruel/genai"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cache-mgr",
+    "list-models",
+    "llama-serve",
+    "scoreboard"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/maruel/genai/archive/7b82c0692862aaf2682116d9799dc13e35cc1c28.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-7b82c06-250629T000633",
+  "version_upstream": "",
+  "bsum": "95ea2100b0ba7b10913b0092c06fce83acc9bc07c1f56a67060e846dd96936d4",
+  "build_date": "2025-06-29T10:46:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15953952156",
+  "build_id": "15953952156",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/maruel/genai/cache-mgr?tag=HEAD-7b82c06-250629T000633-riscv64-Linux&download=cache-mgr.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/maruel/genai/cache-mgr?tag=HEAD-7b82c06-250629T000633-riscv64-Linux&download=cache-mgr",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/maruel/genai/cache-mgr:HEAD-7b82c06-250629T000633-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/maruel/genai/cache-mgr",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/maruel/genai/cache-mgr?tag=HEAD-7b82c06-250629T000633-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dadec34c6ecc1868bd4666952a9b3cd21b40f0e1fdfe087a5db5e1f1be102c39",
+  "size": "8.1 MB",
+  "size_raw": "8391128",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-7c4c094-250622T000613-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
