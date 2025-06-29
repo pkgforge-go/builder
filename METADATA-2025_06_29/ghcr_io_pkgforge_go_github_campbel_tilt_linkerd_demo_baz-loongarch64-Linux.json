@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "baz",
+  "pkg_family": "tilt-linkerd-demo",
+  "pkg_id": "baz#github.com_campbel_tilt_linkerd_demo",
+  "pkg_name": "baz",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/campbel/tilt-linkerd-demo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A demo of using Tilt to run an application with Linkerd on your local machine",
+  "homepage": [
+    "https://github.com/campbel/tilt-linkerd-demo"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bar",
+    "baz",
+    "foo"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/campbel/tilt-linkerd-demo/@v/v0.0.0-20250611172927-fb2948a301d7.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250611172927-fb2948a301d7",
+  "version_upstream": "",
+  "bsum": "e93c90387da30b22e4cb1f60c57906e40c73244f3582c5fab871689649434da8",
+  "build_date": "2025-06-29T19:26:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15958498958",
+  "build_id": "15958498958",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/campbel/tilt-linkerd-demo/baz?tag=v0.0.0-20250611172927-fb2948a301d7-loongarch64-Linux&download=baz.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/campbel/tilt-linkerd-demo/baz?tag=v0.0.0-20250611172927-fb2948a301d7-loongarch64-Linux&download=baz",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/campbel/tilt-linkerd-demo/baz:v0.0.0-20250611172927-fb2948a301d7-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/campbel/tilt-linkerd-demo/baz",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/campbel/tilt-linkerd-demo/baz?tag=v0.0.0-20250611172927-fb2948a301d7-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7125fb9ec2f2cd81b9d7620f3016f32d9ea3dec7eb9a2c911225ee67dcdb82ec",
+  "size": "12 MB",
+  "size_raw": "12422080",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
