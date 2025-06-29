@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "yanfd",
+  "pkg_family": "ndnd",
+  "pkg_id": "yanfd#github.com_named_data_ndnd",
+  "pkg_name": "yanfd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/named-data/ndnd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Golang implementation of the Named Data Networking protocol stack",
+  "homepage": [
+    "https://github.com/named-data/ndnd"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alo-history",
+    "alo-latest",
+    "catchunks",
+    "chat",
+    "cmd",
+    "confgen",
+    "consumer",
+    "dv",
+    "gondn_tlv_gen",
+    "ndnd",
+    "passive",
+    "producer",
+    "pure-sync",
+    "putchunks",
+    "sync",
+    "yanfd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/named-data/ndnd/archive/420daff1d465d8d6ead61caf2f7f3ea828a843f1.tar.gz"
+  ],
+  "tag": [
+    "forwarding",
+    "golang",
+    "ndn",
+    "networking",
+    "routing"
+  ],
+  "version": "HEAD-420daff-250628T112116",
+  "version_upstream": "",
+  "bsum": "8ee94c43cde86b11cec399db4b5adce51d6dd8b556b411e81525949064eed9b0",
+  "build_date": "2025-06-29T07:27:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15952589022",
+  "build_id": "15952589022",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/named-data/ndnd/yanfd?tag=HEAD-420daff-250628T112116-x86_64-Linux&download=yanfd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "24",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/named-data/ndnd/yanfd?tag=HEAD-420daff-250628T112116-x86_64-Linux&download=yanfd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/named-data/ndnd/yanfd:HEAD-420daff-250628T112116-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/named-data/ndnd/yanfd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/named-data/ndnd/yanfd?tag=HEAD-420daff-250628T112116-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "78cf3b7bf819dc521bfc1f064b905fd2b05f4744a6cea038a0ddaef0a6afeb06",
+  "size": "17 MB",
+  "size_raw": "17061728",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
