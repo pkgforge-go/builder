@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "shardnode",
+  "pkg_family": "oblishard",
+  "pkg_id": "shardnode#github.com_dsg_uwaterloo_oblishard",
+  "pkg_name": "shardnode",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dsg-uwaterloo/oblishard",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A scalable and fault-tolerant Oblivious RAM (ORAM) data store",
+  "homepage": [
+    "https://github.com/dsg-uwaterloo/oblishard"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "oramnode",
+    "router",
+    "shardnode"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/dsg-uwaterloo/oblishard/@v/v0.0.0-20250619235412-6cd46d5a8fe4.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250619235412-6cd46d5a8fe4",
+  "version_upstream": "",
+  "bsum": "221a10dfd5103355e65fb819d68ff0b85de0e874e3fab0b87440ef63f72225cb",
+  "build_date": "2025-06-29T23:43:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15960377793",
+  "build_id": "15960377793",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dsg-uwaterloo/oblishard/shardnode?tag=v0.0.0-20250619235412-6cd46d5a8fe4-x86_64-Linux&download=shardnode.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dsg-uwaterloo/oblishard/shardnode?tag=v0.0.0-20250619235412-6cd46d5a8fe4-x86_64-Linux&download=shardnode",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dsg-uwaterloo/oblishard/shardnode:v0.0.0-20250619235412-6cd46d5a8fe4-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dsg-uwaterloo/oblishard/shardnode",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dsg-uwaterloo/oblishard/shardnode?tag=v0.0.0-20250619235412-6cd46d5a8fe4-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0eeccfd828b4f5a3192f3b45ff29aa8d94cb4aea35b72a2df9e1ac290671f917",
+  "size": "15 MB",
+  "size_raw": "15453504",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "client",
+  "pkg_family": "oblishard",
+  "pkg_id": "client#github.com_dsg_uwaterloo_oblishard",
+  "pkg_name": "client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dsg-uwaterloo/oblishard",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A scalable and fault-tolerant Oblivious RAM (ORAM) data store",
+  "homepage": [
+    "https://github.com/dsg-uwaterloo/oblishard"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "oramnode",
+    "router",
+    "shardnode"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/dsg-uwaterloo/oblishard/@v/v0.0.0-20250619235412-6cd46d5a8fe4.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250619235412-6cd46d5a8fe4",
+  "version_upstream": "",
+  "bsum": "610c5b2924d7fcd33d691388875f3170aae12e479e08565075665b87f103e469",
+  "build_date": "2025-06-29T23:43:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15960377793",
+  "build_id": "15960377793",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dsg-uwaterloo/oblishard/client?tag=v0.0.0-20250619235412-6cd46d5a8fe4-x86_64-Linux&download=client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dsg-uwaterloo/oblishard/client?tag=v0.0.0-20250619235412-6cd46d5a8fe4-x86_64-Linux&download=client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dsg-uwaterloo/oblishard/client:v0.0.0-20250619235412-6cd46d5a8fe4-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dsg-uwaterloo/oblishard/client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dsg-uwaterloo/oblishard/client?tag=v0.0.0-20250619235412-6cd46d5a8fe4-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b97008c65041454d70379dbf791e14613a0b6d948e17585a166de1cee69ca5c8",
+  "size": "15 MB",
+  "size_raw": "15318656",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
