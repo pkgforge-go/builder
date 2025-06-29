@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "grpc",
+  "pkg_id": "server#github.com_eolinker_apinto_example_grpc",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://www.apinto.com",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "基于golang开发的网关。具有各种插件，可以自行扩展，即插即用。此外，它可以快速帮助企业管理API服务，提高API服务的稳定性和安全性",
+  "homepage": [
+    "https://www.apinto.com"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/clarkritchie/basic-go-things/grpc/@v/v0.0.0-20250325203143-d7bc16301881.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250626135511-b1f5b73e2333",
+  "version_upstream": "",
+  "bsum": "03b980420c7242bf8b46b410dae748bf3e4871046f2e6ae13e1396fc875be02e",
+  "build_date": "2025-06-29T20:22:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15958827113",
+  "build_id": "15958827113",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/example/grpc/server?tag=v0.0.0-20250626135511-b1f5b73e2333-x86_64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1567",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/example/grpc/server?tag=v0.0.0-20250626135511-b1f5b73e2333-x86_64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/example/grpc/server:v0.0.0-20250626135511-b1f5b73e2333-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/example/grpc/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/example/grpc/server?tag=v0.0.0-20250626135511-b1f5b73e2333-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dbfbc92ed0a1eb91331d7f72ae5d0f5bba5d20e432fb5be264b7a990b7b635ba",
+  "size": "11 MB",
+  "size_raw": "11187776",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
