@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "heartbeat",
+  "pkg_family": "beats",
+  "pkg_id": "heartbeat#github.com_apache_doris_extension_beats",
+  "pkg_name": "heartbeat",
+  "pkg_type": "static",
+  "pkg_webpage": "https://doris.apache.org",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Apache Doris is an easy-to-use, high performance and unified analytics database",
+  "homepage": [
+    "https://doris.apache.org"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auditbeat",
+    "filebeat",
+    "heartbeat",
+    "metricbeat",
+    "winlogbeat"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/apache/doris/extension/beats/@v/v0.0.0-20250628032007-4f3b3539f351.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250628032007-4f3b3539f351",
+  "version_upstream": "",
+  "bsum": "4d112036540ce65b5d7849ef218263c45fd9f9ea9c0498a33be0235c5523635c",
+  "build_date": "2025-06-29T17:20:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15957534527",
+  "build_id": "15957534527",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/extension/beats/heartbeat?tag=v0.0.0-20250628032007-4f3b3539f351-x86_64-Linux&download=heartbeat.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13856",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/extension/beats/heartbeat?tag=v0.0.0-20250628032007-4f3b3539f351-x86_64-Linux&download=heartbeat",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/extension/beats/heartbeat:v0.0.0-20250628032007-4f3b3539f351-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/extension/beats/heartbeat",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/extension/beats/heartbeat?tag=v0.0.0-20250628032007-4f3b3539f351-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "760fd36ff22e302e987d59c07a422bc87bd89ddc0be01a3642bcfb857f2f410a",
+  "size": "72 MB",
+  "size_raw": "74583592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
