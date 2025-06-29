@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "user_scripts",
+  "pkg_family": "sologger",
+  "pkg_id": "user_scripts#github.com_brytelands_sologger",
+  "pkg_name": "user_scripts",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/brytelands/sologger",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Sologger is a group of libraries and binaries that can be used to parse raw logs emitted from a Solana RPC into structured logs and transport Solana logs to either a LogStash or OpenTelemetry endpoint via TCP",
+  "homepage": [
+    "https://github.com/brytelands/sologger"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "user_scripts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/brytelands/sologger/@v/v0.0.0-20250501124038-1a935ab0acf2.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250501124038-1a935ab0acf2",
+  "version_upstream": "",
+  "bsum": "2d2c77cf1e87e689c859112ba60c45a93313b9a9f993e03f19bbce99978a5ceb",
+  "build_date": "2025-06-29T19:15:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15958483534",
+  "build_id": "15958483534",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/brytelands/sologger/user_scripts?tag=v0.0.0-20250501124038-1a935ab0acf2-aarch64-Linux&download=user_scripts.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "19",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/brytelands/sologger/user_scripts?tag=v0.0.0-20250501124038-1a935ab0acf2-aarch64-Linux&download=user_scripts",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/brytelands/sologger/user_scripts:v0.0.0-20250501124038-1a935ab0acf2-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/brytelands/sologger/user_scripts",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/brytelands/sologger/user_scripts?tag=v0.0.0-20250501124038-1a935ab0acf2-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0dd0b2c28999ce2175c3b3fdc3d6e1ce35204ef83cf5c7f3c797ccd53aed86f4",
+  "size": "1.6 MB",
+  "size_raw": "1672504",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
