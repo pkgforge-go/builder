@@ -1,0 +1,90 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ipsw",
+  "pkg_family": "ipsw",
+  "pkg_id": "ipsw#github.com_blacktop_ipsw",
+  "pkg_name": "ipsw",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/blacktop/ipsw",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "iOS/macOS Research Swiss Army Knife",
+  "homepage": [
+    "https://github.com/blacktop/ipsw"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ipsw",
+    "ipswd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/blacktop/ipsw/archive/efca5170f9fe0a97cd2a633e36352471dd6d7fbb.tar.gz"
+  ],
+  "tag": [
+    "apple",
+    "class-dump",
+    "dyld",
+    "dyld-shared-cache",
+    "firmware",
+    "golang",
+    "img4",
+    "ios",
+    "ipsw",
+    "kernelcache",
+    "lzfse",
+    "lzss",
+    "macho",
+    "macho-parser",
+    "macos",
+    "ota",
+    "swift",
+    "swift-dump"
+  ],
+  "version": "HEAD-efca517-250628T212702",
+  "version_upstream": "",
+  "bsum": "cd3082ff6941387adf19b4af034d587998b44480d0987cb1548a57a85c5a4517",
+  "build_date": "2025-06-29T10:06:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15953897691",
+  "build_id": "15953897691",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blacktop/ipsw/ipsw?tag=HEAD-efca517-250628T212702-riscv64-Linux&download=ipsw.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2529",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blacktop/ipsw/ipsw?tag=HEAD-efca517-250628T212702-riscv64-Linux&download=ipsw",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/blacktop/ipsw/ipsw:HEAD-efca517-250628T212702-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/blacktop/ipsw/ipsw",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blacktop/ipsw/ipsw?tag=HEAD-efca517-250628T212702-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "66afd150c5aa9393cabf84073d49f2a10c790ae0d08c96f35a330ce0da967dff",
+  "size": "64 MB",
+  "size_raw": "66069080",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-9cd42e3-250618T162930-riscv64-Linux[v3.1.615]",
+    "HEAD-3fca987-250622T154127-riscv64-Linux",
+    "HEAD-da5a399-250624T083927-riscv64-Linux",
+    "HEAD-98fad5d-250624T190612-riscv64-Linux",
+    "HEAD-13b8bde-250625T090322-riscv64-Linux",
+    "HEAD-823fed5-250626T122327-riscv64-Linux",
+    "HEAD-3cded00-250628T015440-riscv64-Linux[v3.1.617]"
+  ],
+  "trusted": "true"
+}
