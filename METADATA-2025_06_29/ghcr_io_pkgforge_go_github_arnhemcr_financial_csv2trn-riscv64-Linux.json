@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "csv2trn",
+  "pkg_family": "financial",
+  "pkg_id": "csv2trn#github.com_arnhemcr_financial",
+  "pkg_name": "csv2trn",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/arnhemcr/financial",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This Go module provides programs to translate a CSV account statement into a Ledger journal and merge multiple Ledger journals into one",
+  "homepage": [
+    "https://github.com/arnhemcr/financial"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "csv2trn",
+    "mergetrn"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/arnhemcr/financial/@v/v1.4.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.4.0",
+  "version_upstream": "",
+  "bsum": "92ced4768540b6006cea3a6bf0e6df0840f3c9e7daccec5d7d1b035f90d4f69e",
+  "build_date": "2025-06-29T17:34:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15957563834",
+  "build_id": "15957563834",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arnhemcr/financial/csv2trn?tag=v1.4.0-riscv64-Linux&download=csv2trn.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arnhemcr/financial/csv2trn?tag=v1.4.0-riscv64-Linux&download=csv2trn",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/arnhemcr/financial/csv2trn:v1.4.0-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/arnhemcr/financial/csv2trn",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arnhemcr/financial/csv2trn?tag=v1.4.0-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f44aac6d9ba1deabbfae57801e1a2d05f8022b74f9c5dc8c583fc40e8b3935ca",
+  "size": "2.0 MB",
+  "size_raw": "2066632",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
