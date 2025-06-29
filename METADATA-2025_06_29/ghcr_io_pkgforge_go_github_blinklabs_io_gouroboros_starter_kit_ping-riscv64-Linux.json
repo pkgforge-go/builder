@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ping",
+  "pkg_family": "gouroboros-starter-kit",
+  "pkg_id": "ping#github.com_blinklabs_io_gouroboros_starter_kit",
+  "pkg_name": "ping",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/blinklabs-io/gouroboros-starter-kit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Demeter starter kit that shows how to interact with a Cardano Node using Go",
+  "homepage": [
+    "https://github.com/blinklabs-io/gouroboros-starter-kit"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "block-fetch",
+    "chain-tip",
+    "peer-sharing",
+    "ping",
+    "tx-monitor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/blinklabs-io/gouroboros-starter-kit/@v/v0.0.0-20250617131022-38ed3a2442d7.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250617131022-38ed3a2442d7",
+  "version_upstream": "",
+  "bsum": "406bc7b9f153ada0811733398bdbc48464c3beb1cc485b051ed4e1f55f80fc08",
+  "build_date": "2025-06-29T18:58:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15957998042",
+  "build_id": "15957998042",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blinklabs-io/gouroboros-starter-kit/ping?tag=v0.0.0-20250617131022-38ed3a2442d7-riscv64-Linux&download=ping.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blinklabs-io/gouroboros-starter-kit/ping?tag=v0.0.0-20250617131022-38ed3a2442d7-riscv64-Linux&download=ping",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/blinklabs-io/gouroboros-starter-kit/ping:v0.0.0-20250617131022-38ed3a2442d7-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/blinklabs-io/gouroboros-starter-kit/ping",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/blinklabs-io/gouroboros-starter-kit/ping?tag=v0.0.0-20250617131022-38ed3a2442d7-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d6488bf050a1b36d867fadc22e8292681c639c193c934386c03c6c0bbe6cb09d",
+  "size": "8.8 MB",
+  "size_raw": "9188568",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
