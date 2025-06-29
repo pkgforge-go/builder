@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "dnsrecon",
+  "pkg_family": "dnsrecon",
+  "pkg_id": "dnsrecon#github.com_sdcampbell_dnsrecon",
+  "pkg_name": "dnsrecon",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sdcampbell/dnsrecon",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Bash script that finds related domains in an MDI tenant, then performs subdomain enumeration using the Chaos API.",
+  "homepage": [
+    "https://github.com/sdcampbell/dnsrecon"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dnsrecon"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sdcampbell/dnsrecon/archive/1f369a05a63585899d90abf7d432793e331c7be0.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-1f369a0-250628T110246",
+  "version_upstream": "v1.0.0",
+  "bsum": "a86cb42769dd461e0d341f28fb0eb79e9426080f16aaaac474549a224c9c9446",
+  "build_date": "2025-06-29T07:33:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15952603030",
+  "build_id": "15952603030",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sdcampbell/dnsrecon/dnsrecon?tag=HEAD-1f369a0-250628T110246-riscv64-Linux&download=dnsrecon.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sdcampbell/dnsrecon/dnsrecon?tag=HEAD-1f369a0-250628T110246-riscv64-Linux&download=dnsrecon",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sdcampbell/dnsrecon/dnsrecon:HEAD-1f369a0-250628T110246-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sdcampbell/dnsrecon/dnsrecon",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sdcampbell/dnsrecon/dnsrecon?tag=HEAD-1f369a0-250628T110246-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "69df4d6b4b18a5c69bf7ca55c6b5823b9e4e67ba4c1ecc775ac90bd25948b0f8",
+  "size": "2.8 MB",
+  "size_raw": "2836296",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
