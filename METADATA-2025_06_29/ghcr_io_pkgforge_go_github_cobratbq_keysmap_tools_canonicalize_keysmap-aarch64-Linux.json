@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "canonicalize-keysmap",
+  "pkg_family": "keysmap-tools",
+  "pkg_id": "canonicalize-keysmap#github.com_cobratbq_keysmap_tools",
+  "pkg_name": "canonicalize-keysmap",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cobratbq/keysmap-tools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tools for automatically generating PGP keys map for pgpverify-maven-plugin",
+  "homepage": [
+    "https://github.com/cobratbq/keysmap-tools"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "canonicalize-keysmap",
+    "download-metadata",
+    "download-signatures",
+    "extract-fingerprint",
+    "extract-keyid",
+    "sha256sum"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cobratbq/keysmap-tools/@v/v0.0.0-20250627160114-e70fd7bde1be.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250627160114-e70fd7bde1be",
+  "version_upstream": "",
+  "bsum": "b4155050e39d45808ba786648e955071e1db9efc71ecfe3929a2ddc88b8a99ca",
+  "build_date": "2025-06-29T20:49:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15959082665",
+  "build_id": "15959082665",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cobratbq/keysmap-tools/canonicalize-keysmap?tag=v0.0.0-20250627160114-e70fd7bde1be-aarch64-Linux&download=canonicalize-keysmap.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cobratbq/keysmap-tools/canonicalize-keysmap?tag=v0.0.0-20250627160114-e70fd7bde1be-aarch64-Linux&download=canonicalize-keysmap",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cobratbq/keysmap-tools/canonicalize-keysmap:v0.0.0-20250627160114-e70fd7bde1be-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cobratbq/keysmap-tools/canonicalize-keysmap",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cobratbq/keysmap-tools/canonicalize-keysmap?tag=v0.0.0-20250627160114-e70fd7bde1be-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c67762fde9e66ae915b1a7d87865b2e5389fe4985dbd10980eec3d24934a3165",
+  "size": "2.0 MB",
+  "size_raw": "2078808",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
