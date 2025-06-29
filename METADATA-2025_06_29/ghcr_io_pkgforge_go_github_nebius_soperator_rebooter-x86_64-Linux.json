@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "rebooter",
+  "pkg_family": "soperator",
+  "pkg_id": "rebooter#github.com_nebius_soperator",
+  "pkg_name": "rebooter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nebius/soperator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Run Slurm in Kubernetes",
+  "homepage": [
+    "https://github.com/nebius/soperator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "exporter",
+    "rebooter",
+    "sconfigcontroller",
+    "soperator-cmd",
+    "soperatorchecks"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nebius/soperator/archive/004394e6f5cdd127e65a950790f94173e27017b0.tar.gz"
+  ],
+  "tag": [
+    "high-performance-computing",
+    "hpc",
+    "k8s",
+    "k8s-operator",
+    "kubernetes",
+    "machine-learning",
+    "ml",
+    "model-training",
+    "slurm"
+  ],
+  "version": "HEAD-004394e-250628T210439",
+  "version_upstream": "",
+  "bsum": "462cff2ff37f206b59cd094f532b7c4b3ca3ba5f30c6ce640a6c4ee11ee77365",
+  "build_date": "2025-06-29T10:55:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15953957694",
+  "build_id": "15953957694",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nebius/soperator/rebooter?tag=HEAD-004394e-250628T210439-x86_64-Linux&download=rebooter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "241",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nebius/soperator/rebooter?tag=HEAD-004394e-250628T210439-x86_64-Linux&download=rebooter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nebius/soperator/rebooter:HEAD-004394e-250628T210439-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nebius/soperator/rebooter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nebius/soperator/rebooter?tag=HEAD-004394e-250628T210439-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6f7dba5cd0ebb1fbd0bd807234db285ac7e0ecd22fe01757103919e3d0e58e86",
+  "size": "47 MB",
+  "size_raw": "48781728",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-bd328a2-250620T101949-x86_64-Linux",
+    "HEAD-fb200a5-250623T143705-x86_64-Linux",
+    "HEAD-576d26a-250624T162103-x86_64-Linux",
+    "HEAD-da45ab9-250625T162142-x86_64-Linux",
+    "HEAD-08847d3-250626T000753-x86_64-Linux",
+    "HEAD-6c25b19-250626T162928-x86_64-Linux",
+    "HEAD-7e34fd7-250627T160140-x86_64-Linux",
+    "HEAD-11e8fa9-250628T004716-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
