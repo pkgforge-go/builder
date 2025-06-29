@@ -1,0 +1,94 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "unwraphttp",
+  "pkg_family": "yuhaiin",
+  "pkg_id": "unwraphttp#github.com_yuhaiin_yuhaiin",
+  "pkg_name": "unwraphttp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/yuhaiin/yuhaiin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "proxy kit for Linux/Windows/MacOS",
+  "homepage": [
+    "https://github.com/yuhaiin/yuhaiin"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "app",
+    "benchmark",
+    "client",
+    "gencontext",
+    "socat",
+    "unwraphttp",
+    "unwraptls",
+    "yuhaiin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/yuhaiin/yuhaiin/archive/e4ccd13cf13b4ef9af2d11bbff5062fc467f1a3a.tar.gz"
+  ],
+  "tag": [
+    "bypass",
+    "dns",
+    "dnsoverhttps",
+    "dnsoverquic",
+    "dnsovertls",
+    "fullcone",
+    "go",
+    "http",
+    "http2",
+    "mux",
+    "proxy",
+    "quic",
+    "socks4a",
+    "socks5",
+    "tproxy",
+    "tun",
+    "tun2socks",
+    "websocket"
+  ],
+  "version": "HEAD-e4ccd13-250629T105307",
+  "version_upstream": "",
+  "bsum": "c24c138489f4f77969a5bb2a4abd459ccd1d382e9981136acc291b7c4c38eccc",
+  "build_date": "2025-06-29T11:14:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15954149525",
+  "build_id": "15954149525",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yuhaiin/yuhaiin/unwraphttp?tag=HEAD-e4ccd13-250629T105307-riscv64-Linux&download=unwraphttp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "162",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yuhaiin/yuhaiin/unwraphttp?tag=HEAD-e4ccd13-250629T105307-riscv64-Linux&download=unwraphttp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/yuhaiin/yuhaiin/unwraphttp:HEAD-e4ccd13-250629T105307-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/yuhaiin/yuhaiin/unwraphttp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yuhaiin/yuhaiin/unwraphttp?tag=HEAD-e4ccd13-250629T105307-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a0c8155481961ea2065b2f8b2f4d02fe6e2688400a3ec2d88b6ada5e5abfd406",
+  "size": "13 MB",
+  "size_raw": "13167256",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-5a2475e-250623T092013-riscv64-Linux",
+    "HEAD-78a723d-250623T224319-riscv64-Linux",
+    "HEAD-49b2810-250624T213345-riscv64-Linux",
+    "HEAD-eef59b8-250625T023350-riscv64-Linux",
+    "HEAD-58becaa-250627T211153-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
