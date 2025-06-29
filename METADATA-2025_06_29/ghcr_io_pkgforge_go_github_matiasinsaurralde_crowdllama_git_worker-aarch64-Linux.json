@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "worker",
+  "pkg_family": "crowdllama",
+  "pkg_id": "worker#github.com_matiasinsaurralde_crowdllama.git",
+  "pkg_name": "worker",
+  "pkg_type": "static",
+  "pkg_webpage": "",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "No Description Provided",
+  "homepage": [],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "consumer",
+    "dht",
+    "dhtcertgen",
+    "worker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/matiasinsaurralde/crowdllama.git"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "20250629T132224",
+  "version_upstream": "",
+  "bsum": "a85586b8e22782714fbd63666f0ddb7f73c185105b8788cae4255be6cf5758e2",
+  "build_date": "2025-06-29T13:26:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15955503752",
+  "build_id": "15955503752",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matiasinsaurralde/crowdllama.git/worker?tag=20250629T132224-aarch64-Linux&download=worker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matiasinsaurralde/crowdllama.git/worker?tag=20250629T132224-aarch64-Linux&download=worker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/matiasinsaurralde/crowdllama.git/worker:20250629T132224-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/matiasinsaurralde/crowdllama.git/worker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matiasinsaurralde/crowdllama.git/worker?tag=20250629T132224-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e1a845c7831181feaf3f60e0025ffa0ca99c9bd2a338083bf00a30f9dddf99b7",
+  "size": "25 MB",
+  "size_raw": "25456576",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
