@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "migrate",
+  "pkg_family": "corecheck",
+  "pkg_id": "migrate#github.com_corecheck_corecheck",
+  "pkg_name": "migrate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://corecheck.dev",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Test coverage and more for Bitcoin Core",
+  "homepage": [
+    "https://corecheck.dev"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "datadog-proxy",
+    "get-mutation",
+    "get-pull",
+    "get-report",
+    "github-sync",
+    "handle-benchmarks",
+    "handle-coverage",
+    "handle-mutation",
+    "list-pulls",
+    "migrate",
+    "rerun-all"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/corecheck/corecheck/@v/v0.0.0-20250625210934-a4e7ad281bd7.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250625210934-a4e7ad281bd7",
+  "version_upstream": "",
+  "bsum": "d0d2b4f6c9645d99762629df2fb3ca17ecd879a50dbda14ba85c9f4e6afd3f17",
+  "build_date": "2025-06-29T21:06:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15959128220",
+  "build_id": "15959128220",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/corecheck/corecheck/migrate?tag=v0.0.0-20250625210934-a4e7ad281bd7-riscv64-Linux&download=migrate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "34",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/corecheck/corecheck/migrate?tag=v0.0.0-20250625210934-a4e7ad281bd7-riscv64-Linux&download=migrate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/corecheck/corecheck/migrate:v0.0.0-20250625210934-a4e7ad281bd7-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/corecheck/corecheck/migrate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/corecheck/corecheck/migrate?tag=v0.0.0-20250625210934-a4e7ad281bd7-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ef053f87a60e1024bbdf037486686fd674b4293fdd557d22a5e1cad44ae7e936",
+  "size": "16 MB",
+  "size_raw": "15801656",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
