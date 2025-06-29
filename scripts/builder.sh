@@ -298,37 +298,97 @@ GB_VERSION="0.0.4+1" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset 
       file_type="$(file -b "${archive_file}" 2>/dev/null)"
       case "$file_type" in
         *"gzip compressed"*|*"tar archive"*)
+            echo "[+] Extracting tar archive..."
             if tar -tzf "${archive_file}" &>/dev/null; then
-                tar -xzf "${archive_file}" --strip-components=1 2>/dev/null || {
-                    echo -e "[-] Failed to strip components, extracting normally"
+                # Try strip-components first
+                if tar -xzf "${archive_file}" --strip-components=1 2>/dev/null; then
+                    echo "[+] Successfully extracted with --strip-components=1"
+                else
+                    echo "[-] strip-components failed, extracting normally and moving contents"
                     tar -xzf "${archive_file}" 2>/dev/null
+                    
+                    # Find the top-level directory
+                    shopt -s nullglob dotglob
                     top_dirs=(*)
+                    shopt -u nullglob dotglob
+                    
                     if [[ ${#top_dirs[@]} -eq 1 && -d "${top_dirs[0]}" ]]; then
-                        log_verbose "Moving contents from ${top_dirs[0]}/ to current directory"
-                        mv "${top_dirs[0]}"/* . 2>/dev/null || true
-                        mv "${top_dirs[0]}"/.[!.]* . 2>/dev/null || true
-                        rmdir "${top_dirs[0]}" 2>/dev/null || true
+                        echo "[+] Moving contents from ${top_dirs[0]}/ to current directory"
+                        # Move all contents including hidden files
+                        if [[ -n "$(ls -A "${top_dirs[0]}" 2>/dev/null)" ]]; then
+                            mv "${top_dirs[0]}"/* . 2>/dev/null || true
+                            # Handle hidden files separately
+                            shopt -s dotglob
+                            for hidden_file in "${top_dirs[0]}"/.[!.]*; do
+                                [[ -e "$hidden_file" ]] && mv "$hidden_file" . 2>/dev/null || true
+                            done
+                            shopt -u dotglob
+                            # Remove the now-empty directory
+                            rmdir "${top_dirs[0]}" 2>/dev/null || true
+                        fi
+                    elif [[ ${#top_dirs[@]} -gt 1 ]]; then
+                        echo "[+] Multiple top-level items found, keeping current structure"
+                    else
+                        echo "[+] No directories found or extraction failed"
                     fi
-                }
+                fi
+            else
+                echo "[!] Invalid tar file: ${archive_file}"
             fi
             ;;
+            
         *"Zip archive"*)
-            if unzip -o -q "${archive_file}" -d "${BUILD_DIR}/BUILD_GPKG" 2>/dev/null; then
-                top_dirs=(*)
-                if [[ ${#top_dirs[@]} -eq 1 && -d "${top_dirs[0]}" && "${top_dirs[0]}" != "repo.archive" ]]; then
-                    log_verbose "Moving contents from ${top_dirs[0]}/ to current directory"
-                    mv "${top_dirs[0]}"/* . 2>/dev/null || true
-                    mv "${top_dirs[0]}"/.[!.]* . 2>/dev/null || true
-                    rmdir "${top_dirs[0]}" 2>/dev/null || true
+            echo "[+] Extracting zip archive..."
+            if unzip -t "${archive_file}" &>/dev/null; then
+                # Extract to current directory
+                if unzip -o -q "${archive_file}" 2>/dev/null; then
+                    echo "[+] Zip extracted successfully"
+                    
+                    # Check if we need to move contents from a single top-level directory
+                    shopt -s nullglob dotglob
+                    top_dirs=(*)
+                    shopt -u nullglob dotglob
+                    
+                    # Only move if there's exactly one directory and it's not the archive file itself
+                    if [[ ${#top_dirs[@]} -eq 1 && -d "${top_dirs[0]}" && "${top_dirs[0]}" != "$(basename "${archive_file}")" ]]; then
+                        echo "[+] Moving contents from ${top_dirs[0]}/ to current directory"
+                        # Check if the directory has contents
+                        if [[ -n "$(ls -A "${top_dirs[0]}" 2>/dev/null)" ]]; then
+                            # Move visible files first
+                            mv "${top_dirs[0]}"/* . 2>/dev/null || true
+                            # Handle hidden files
+                            shopt -s dotglob
+                            for hidden_file in "${top_dirs[0]}"/.[!.]*; do
+                                [[ -e "$hidden_file" ]] && mv "$hidden_file" . 2>/dev/null || true
+                            done
+                            shopt -u dotglob
+                            # Remove the now-empty directory
+                            rmdir "${top_dirs[0]}" 2>/dev/null || true
+                        fi
+                    elif [[ ${#top_dirs[@]} -gt 1 ]]; then
+                        echo "[+] Multiple top-level items found, keeping current structure"
+                    else
+                        echo "[+] No directories found or unusual structure"
+                    fi
+                else
+                    echo "[!] Failed to extract zip file: ${archive_file}"
                 fi
+            else
+                echo "[!] Invalid zip file: ${archive_file}"
             fi
+            ;;
+            
+        *)
+            echo "[!] Unsupported file type: $file_type"
             ;;
       esac
-      unset archive_file file_type top_dirs
+      
+      unset archive_file file_type top_dirs hidden_file
    else
-     #Clone
+      # Clone repository
       cd "${BUILD_DIR}" &&\
       rm -rf "./BUILD_GPKG" 2>/dev/null
+      echo "[+] Cloning repository: ${GPKG_SRCURL}"
       git clone --depth="1" --filter="blob:none" "${GPKG_SRCURL}" "./BUILD_GPKG"
       pushd "${BUILD_DIR}/BUILD_GPKG" &>/dev/null
    fi
