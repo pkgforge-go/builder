@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "toposim",
+  "pkg_family": "topograph",
+  "pkg_id": "toposim#github.com_NVIDIA_topograph",
+  "pkg_name": "toposim",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NVIDIA/topograph",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A toolkit for discovering cluster network topology.",
+  "homepage": [
+    "https://github.com/NVIDIA/topograph"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "node-data-broker-initc",
+    "node-observer",
+    "topograph",
+    "toposim"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NVIDIA/topograph/archive/e3ef564577189af2761ba247c23838b2bd56b1b2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e3ef564-250628T115247",
+  "version_upstream": "",
+  "bsum": "51725bffd9fd9a1c843ddd07666abf8e42ec0241eb5a2a0ae732871320cb0011",
+  "build_date": "2025-06-29T07:06:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15952552520",
+  "build_id": "15952552520",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/topograph/toposim?tag=HEAD-e3ef564-250628T115247-aarch64-Linux&download=toposim.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "55",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/topograph/toposim?tag=HEAD-e3ef564-250628T115247-aarch64-Linux&download=toposim",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nvidia/topograph/toposim:HEAD-e3ef564-250628T115247-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nvidia/topograph/toposim",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/topograph/toposim?tag=HEAD-e3ef564-250628T115247-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ab71791808ebb5cbfb19e88b9efc03cab366f6a13995f7679755434eec662223",
+  "size": "12 MB",
+  "size_raw": "11951264",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

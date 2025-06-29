@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "node-data-broker-initc",
+  "pkg_family": "topograph",
+  "pkg_id": "node-data-broker-initc#github.com_NVIDIA_topograph",
+  "pkg_name": "node-data-broker-initc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/NVIDIA/topograph",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A toolkit for discovering cluster network topology.",
+  "homepage": [
+    "https://github.com/NVIDIA/topograph"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "node-data-broker-initc",
+    "node-observer",
+    "topograph",
+    "toposim"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/NVIDIA/topograph/archive/e3ef564577189af2761ba247c23838b2bd56b1b2.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-e3ef564-250628T115247",
+  "version_upstream": "",
+  "bsum": "5b4f04841d742edf6f5e7219f15d3ff08f9a3cb70206b5535912d86ec1bf60e2",
+  "build_date": "2025-06-29T07:05:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15952552520",
+  "build_id": "15952552520",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/topograph/node-data-broker-initc?tag=HEAD-e3ef564-250628T115247-aarch64-Linux&download=node-data-broker-initc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "55",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/topograph/node-data-broker-initc?tag=HEAD-e3ef564-250628T115247-aarch64-Linux&download=node-data-broker-initc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nvidia/topograph/node-data-broker-initc:HEAD-e3ef564-250628T115247-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nvidia/topograph/node-data-broker-initc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/topograph/node-data-broker-initc?tag=HEAD-e3ef564-250628T115247-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6a2393c77a03cea54e40e8b612f55d28324e27a9a37aa396b6c5b2fbfd910e73",
+  "size": "55 MB",
+  "size_raw": "57611840",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
