@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "operator",
+  "pkg_family": "keda",
+  "pkg_id": "operator#github.com_kedacore_keda",
+  "pkg_name": "operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kedacore/keda",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
+  "homepage": [
+    "https://github.com/kedacore/keda"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "adapter",
+    "operator",
+    "webhooks"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/kedacore/keda/archive/967c5d62118cd318d7b4db9666457486cf3812a4.tar.gz"
+  ],
+  "tag": [
+    "autoscaling",
+    "event-driven",
+    "hacktoberfest",
+    "keda",
+    "kubernetes",
+    "serverless"
+  ],
+  "version": "HEAD-967c5d6-250628T170843",
+  "version_upstream": "",
+  "bsum": "3eff40a387c2027ebe73c780558a652d3a659f53d7515921617cd0accf3bddea",
+  "build_date": "2025-06-29T10:43:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15953938484",
+  "build_id": "15953938484",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kedacore/keda/operator?tag=HEAD-967c5d6-250628T170843-riscv64-Linux&download=operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9205",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kedacore/keda/operator?tag=HEAD-967c5d6-250628T170843-riscv64-Linux&download=operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kedacore/keda/operator:HEAD-967c5d6-250628T170843-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kedacore/keda/operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kedacore/keda/operator?tag=HEAD-967c5d6-250628T170843-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fab6e0c00aa5730c583080a96f6fdaaf78d9875d36e3e043f4a012434377e04f",
+  "size": "146 MB",
+  "size_raw": "152046328",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-30a37e6-250620T123151-riscv64-Linux",
+    "HEAD-75f589a-250621T202256-riscv64-Linux",
+    "HEAD-37a0f2c-250623T143052-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
