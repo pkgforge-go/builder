@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "soperator-cmd",
+  "pkg_family": "soperator",
+  "pkg_id": "soperator-cmd#github.com_nebius_soperator",
+  "pkg_name": "soperator-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nebius/soperator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Run Slurm in Kubernetes",
+  "homepage": [
+    "https://github.com/nebius/soperator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "exporter",
+    "rebooter",
+    "sconfigcontroller",
+    "soperator-cmd",
+    "soperatorchecks"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/nebius/soperator/archive/004394e6f5cdd127e65a950790f94173e27017b0.tar.gz"
+  ],
+  "tag": [
+    "high-performance-computing",
+    "hpc",
+    "k8s",
+    "k8s-operator",
+    "kubernetes",
+    "machine-learning",
+    "ml",
+    "model-training",
+    "slurm"
+  ],
+  "version": "HEAD-004394e-250628T210439",
+  "version_upstream": "",
+  "bsum": "32aa0b806a8c89988ae4cca37510bcb4865fcd37c33b5b689aecbd6f866f5038",
+  "build_date": "2025-06-29T10:55:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15953957694",
+  "build_id": "15953957694",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nebius/soperator/soperator-cmd?tag=HEAD-004394e-250628T210439-aarch64-Linux&download=soperator-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "241",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nebius/soperator/soperator-cmd?tag=HEAD-004394e-250628T210439-aarch64-Linux&download=soperator-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nebius/soperator/soperator-cmd:HEAD-004394e-250628T210439-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nebius/soperator/soperator-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nebius/soperator/soperator-cmd?tag=HEAD-004394e-250628T210439-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a295ecfc64d7502b9f824073e27eb8bcf7720bb3e4ad5dd2aebede80374bc8cb",
+  "size": "47 MB",
+  "size_raw": "48258176",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-bd328a2-250620T101949-aarch64-Linux",
+    "HEAD-fb200a5-250623T143705-aarch64-Linux",
+    "HEAD-576d26a-250624T162103-aarch64-Linux",
+    "HEAD-da45ab9-250625T162142-aarch64-Linux",
+    "HEAD-08847d3-250626T000753-aarch64-Linux",
+    "HEAD-6c25b19-250626T162928-aarch64-Linux",
+    "HEAD-7e34fd7-250627T160140-aarch64-Linux",
+    "HEAD-11e8fa9-250628T004716-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
