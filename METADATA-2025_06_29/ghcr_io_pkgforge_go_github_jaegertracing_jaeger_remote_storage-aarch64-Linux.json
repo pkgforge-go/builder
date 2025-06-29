@@ -1,0 +1,91 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "remote-storage",
+  "pkg_family": "jaeger",
+  "pkg_id": "remote-storage#github.com_jaegertracing_jaeger",
+  "pkg_name": "remote-storage",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jaegertracing/jaeger",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CNCF Jaeger, a Distributed Tracing Platform",
+  "homepage": [
+    "https://github.com/jaegertracing/jaeger"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "all-in-one",
+    "anonymizer",
+    "collector",
+    "crossdock",
+    "es-index-cleaner",
+    "es-rollover",
+    "esmapping-generator",
+    "hotrod",
+    "ingester",
+    "jaeger",
+    "query",
+    "remote-storage",
+    "savetracetest",
+    "tracegen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/jaegertracing/jaeger/archive/cc7ea8d7fd5403c78e0a23db5c6bf06188c32546.tar.gz"
+  ],
+  "tag": [
+    "cncf",
+    "distributed-tracing",
+    "hacktoberfest",
+    "jaeger",
+    "observability",
+    "opentelemetry",
+    "tracing"
+  ],
+  "version": "HEAD-cc7ea8d-250628T200643",
+  "version_upstream": "",
+  "bsum": "14fcdfbc6fed3a23ce5659f9433463340ad03a4b52f908d2a0966dc56ffa17e0",
+  "build_date": "2025-06-29T10:44:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15953937083",
+  "build_id": "15953937083",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jaegertracing/jaeger/remote-storage?tag=HEAD-cc7ea8d-250628T200643-aarch64-Linux&download=remote-storage.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "21520",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jaegertracing/jaeger/remote-storage?tag=HEAD-cc7ea8d-250628T200643-aarch64-Linux&download=remote-storage",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jaegertracing/jaeger/remote-storage:HEAD-cc7ea8d-250628T200643-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jaegertracing/jaeger/remote-storage",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jaegertracing/jaeger/remote-storage?tag=HEAD-cc7ea8d-250628T200643-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3148239ca873ab2b319f62cd41fb175b0faf97f4cb67a90161d7c5e17c119162",
+  "size": "54 MB",
+  "size_raw": "56128736",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-87d9b57-250618T215447-aarch64-Linux",
+    "HEAD-a5ba290-250620T202315-aarch64-Linux",
+    "HEAD-b86d1fd-250623T234236-aarch64-Linux",
+    "HEAD-b1a0a5e-250624T101024-aarch64-Linux",
+    "HEAD-a91e2ee-250625T005354-aarch64-Linux",
+    "HEAD-461923b-250625T042325-aarch64-Linux",
+    "HEAD-953a035-250628T074945-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
