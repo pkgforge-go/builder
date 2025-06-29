@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "heimdall",
+  "pkg_family": "heimdall",
+  "pkg_id": "heimdall#github.com_dadrus_heimdall",
+  "pkg_name": "heimdall",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dadrus/heimdall",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A cloud native Identity Aware Proxy and Access Control Decision service",
+  "homepage": [
+    "https://github.com/dadrus/heimdall"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "heimdall"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dadrus/heimdall/archive/f95c7bdc9e63f0f99d783e717715e48ac566e6e2.tar.gz"
+  ],
+  "tag": [
+    "access-control",
+    "access-management",
+    "api-gateway",
+    "auth-api",
+    "auth-proxy",
+    "authentication",
+    "authorization",
+    "decision-api",
+    "golang",
+    "identity-aware-proxy",
+    "oauth2",
+    "openid-connect",
+    "policy-enforcement"
+  ],
+  "version": "HEAD-f95c7bd-250628T165505",
+  "version_upstream": "",
+  "bsum": "8a752d4f82045b2925efafd87f89ae067086f31b39e553686978d482ea9630b8",
+  "build_date": "2025-06-29T10:13:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15953905652",
+  "build_id": "15953905652",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dadrus/heimdall/heimdall?tag=HEAD-f95c7bd-250628T165505-loongarch64-Linux&download=heimdall.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "193",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dadrus/heimdall/heimdall?tag=HEAD-f95c7bd-250628T165505-loongarch64-Linux&download=heimdall",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dadrus/heimdall/heimdall:HEAD-f95c7bd-250628T165505-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dadrus/heimdall/heimdall",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dadrus/heimdall/heimdall?tag=HEAD-f95c7bd-250628T165505-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7cb6c9b292dfa792bf7a58a288badf68f6bb863ee66fc0ec155d722f8f4ebdf3",
+  "size": "98 MB",
+  "size_raw": "101926448",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-8c1fcab-250616T142301-loongarch64-Linux",
+    "HEAD-c597712-250623T110251-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
