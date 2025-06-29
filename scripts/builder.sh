@@ -7,7 +7,7 @@
 
 #-------------------------------------------------------#
 ##Version
-GB_VERSION="0.0.5" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset GB_VERSION
+GB_VERSION="0.0.5+1" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset GB_VERSION
 ##Enable Debug
  if [[ "${DEBUG}" = "1" ]] || [[ "${DEBUG}" = "ON" ]]; then
     set -x
@@ -306,7 +306,7 @@ install_tool "go-detector" "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/go-
         cd "${BUILD_DIR}/BUILD_GPKG"
         archive_file="${BUILD_DIR}/BUILD_TMP/${GPKG_NAME}.archive"
         curl -w "(DL) <== %{url}\n" -qfsSL "${GPKG_SRCURL}" -o "${archive_file}"
-        extraxtor --input "${archive_file}" --output "${BUILD_DIR}/BUILD_GPKG" --force --tree --verbose
+        echo -e "\n" ; extraxtor --input "${archive_file}" --output "${BUILD_DIR}/BUILD_GPKG" --force --tree ; echo -e "\n"
      else
         # Clone repository
         cd "${BUILD_DIR}" &&\
@@ -346,6 +346,7 @@ install_tool "go-detector" "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/go-
    }
    export -f check_srcurl
   #Build
+   echo -e "\n[+] Artifacts: ${G_ARTIFACT_DIR}\n"
    {
      pushd "${BUILD_DIR}/BUILD_GPKG" &>/dev/null
      echo '\\\\========================== Package Forge ===========================////'
@@ -356,7 +357,6 @@ install_tool "go-detector" "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/go-
      echo '|--- Bugs/Issues: https://github.com/pkgforge-go/builder/issues         ---|'
      echo '|--------------------------------------------------------------------------|'
      echo -e "\n==> [+] Started Building at :: $(TZ='UTC' date +'%A, %Y-%m-%d (%I:%M:%S %p)') UTC\n"
-     echo -e "\n[+] Artifacts: ${G_ARTIFACT_DIR}\n"
      get_srcurl || exit 1
      check_srcurl || exit 1
      presetup_go
