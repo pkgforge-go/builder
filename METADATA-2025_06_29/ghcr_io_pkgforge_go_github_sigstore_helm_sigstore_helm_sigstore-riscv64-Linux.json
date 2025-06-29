@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "helm-sigstore",
+  "pkg_family": "helm-sigstore",
+  "pkg_id": "helm-sigstore#github.com_sigstore_helm_sigstore",
+  "pkg_name": "helm-sigstore",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sigstore/helm-sigstore",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Plugin for Helm to integrate the sigstore ecosystem",
+  "homepage": [
+    "https://github.com/sigstore/helm-sigstore"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "helm-sigstore"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sigstore/helm-sigstore/archive/dadc57d06b4bf1d94a615dab17b342e565e8da0f.tar.gz"
+  ],
+  "tag": [
+    "helm",
+    "sigstore"
+  ],
+  "version": "HEAD-dadc57d-250628T172033",
+  "version_upstream": "",
+  "bsum": "dfb4dfbd1e8ed83aa66619c974e6f50385cc3676866dd6c72384bedfebb6ef7e",
+  "build_date": "2025-06-29T07:34:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15952604561",
+  "build_id": "15952604561",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/helm-sigstore/helm-sigstore?tag=HEAD-dadc57d-250628T172033-riscv64-Linux&download=helm-sigstore.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "63",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/helm-sigstore/helm-sigstore?tag=HEAD-dadc57d-250628T172033-riscv64-Linux&download=helm-sigstore",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sigstore/helm-sigstore/helm-sigstore:HEAD-dadc57d-250628T172033-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sigstore/helm-sigstore/helm-sigstore",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/helm-sigstore/helm-sigstore?tag=HEAD-dadc57d-250628T172033-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0ee81867fe7863872e8fc24c1ab6a0f4fad8010696abb663950e0a86ce75db65",
+  "size": "34 MB",
+  "size_raw": "35351768",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
