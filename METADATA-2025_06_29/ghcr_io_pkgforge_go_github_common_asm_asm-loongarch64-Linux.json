@@ -32,17 +32,17 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://proxy.golang.org/github.com/astranetworld/ast/common/crypto/keccakf1600/internal/asm/@v/v0.0.0-20250626155046-f14a4d480223.zip"
+    "https://proxy.golang.org/github.com/cloudflare/circl/simd/keccakf1600/internal/asm/@v/v0.0.0-20250618153321-aa837fd1539d.zip"
   ],
   "tag": [
     "Utility"
   ],
   "version": "v0.0.0-20250618153321-aa837fd1539d",
   "version_upstream": "",
-  "bsum": "5f75576517e0d46187998db44660f901b8891cec458c4d7d2c17dd012304062f",
-  "build_date": "2025-06-29T17:44:48Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15957579704",
-  "build_id": "15957579704",
+  "bsum": "a82498e880fcb2e94107de386face071393e1dad47bd42101403d8d95900050d",
+  "build_date": "2025-06-29T20:31:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15958841963",
+  "build_id": "15958841963",
   "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/common/asm/asm?tag=v0.0.0-20250618153321-aa837fd1539d-loongarch64-Linux&download=asm.log",
   "deprecated": "false",
   "desktop_integration": "false",
@@ -55,10 +55,12 @@
   "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/common/asm/asm?tag=v0.0.0-20250618153321-aa837fd1539d-loongarch64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "d7bd8289f17945c6bb5fe1f713ee829a73cc49f7352022eb5c08c4cd13482964",
+  "shasum": "e446a95be31f8d295b9388ba96d351ceede4fb8936c6c69891bd49c09840b70b",
   "size": "5.1 MB",
   "size_raw": "5324720",
   "soar_syms": "false",
-  "snapshots": [],
+  "snapshots": [
+    "v0.0.0-20250618153321-aa837fd1539d-loongarch64-Linux"
+  ],
   "trusted": "true"
 }
