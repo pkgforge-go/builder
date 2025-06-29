@@ -7,7 +7,7 @@
 
 #-------------------------------------------------------#
 ##Version
-GB_VERSION="0.0.4" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset GB_VERSION
+GB_VERSION="0.0.4+1" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset GB_VERSION
 ##Enable Debug
  if [[ "${DEBUG}" = "1" ]] || [[ "${DEBUG}" = "ON" ]]; then
     set -x
@@ -222,6 +222,7 @@ GB_VERSION="0.0.4" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset GB
   {
    #Env  
     echo -e "\n[+] Target: ${GO_TARGET}\n"
+    tree "${BUILD_DIR}/BUILD_GPKG" ; echo -e "\n"
     mkdir -p "${G_ARTIFACT_DIR}"
    #Get Cmds
     mapfile -t "GO_CMD_DIRS" < <(go list -f '{{if eq .Name "main"}}{{.Dir}}{{end}}' ./... 2>/dev/null |\
