@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "dnsrecon",
+  "pkg_family": "dnsrecon",
+  "pkg_id": "dnsrecon#github.com_sdcampbell_dnsrecon",
+  "pkg_name": "dnsrecon",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sdcampbell/dnsrecon",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Bash script that finds related domains in an MDI tenant, then performs subdomain enumeration using the Chaos API.",
+  "homepage": [
+    "https://github.com/sdcampbell/dnsrecon"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dnsrecon"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sdcampbell/dnsrecon/archive/1f369a05a63585899d90abf7d432793e331c7be0.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-1f369a0-250628T110246",
+  "version_upstream": "v1.0.0",
+  "bsum": "43d5f69dfd60b2fbbdaf7d25f35cf771ba9ce87447631584f151c1b4f35662b6",
+  "build_date": "2025-06-29T07:32:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15952603030",
+  "build_id": "15952603030",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sdcampbell/dnsrecon/dnsrecon?tag=HEAD-1f369a0-250628T110246-loongarch64-Linux&download=dnsrecon.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sdcampbell/dnsrecon/dnsrecon?tag=HEAD-1f369a0-250628T110246-loongarch64-Linux&download=dnsrecon",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sdcampbell/dnsrecon/dnsrecon:HEAD-1f369a0-250628T110246-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sdcampbell/dnsrecon/dnsrecon",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sdcampbell/dnsrecon/dnsrecon?tag=HEAD-1f369a0-250628T110246-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e5b1e8c236582f37fb0dc90076ed05829011e3063206e301b5198afc4bd29693",
+  "size": "2.9 MB",
+  "size_raw": "2941592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
