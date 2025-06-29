@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "kompat",
+  "pkg_family": "kompat",
+  "pkg_id": "kompat#github.com_aws_karpenter_tools_kompat",
+  "pkg_name": "kompat",
+  "pkg_type": "static",
+  "pkg_webpage": "https://karpenter.sh",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity",
+  "homepage": [
+    "https://karpenter.sh"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kompat"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/aws/karpenter/tools/kompat/@v/v0.0.0-20250627175944-55da67549229.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250627175944-55da67549229",
+  "version_upstream": "",
+  "bsum": "3b3b36c6a94071fbb935c3c649e17eac3090d4e392266d790746cd1a508bb895",
+  "build_date": "2025-06-29T17:58:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15957603606",
+  "build_id": "15957603606",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tools/kompat/kompat?tag=v0.0.0-20250627175944-55da67549229-riscv64-Linux&download=kompat.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7323",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tools/kompat/kompat?tag=v0.0.0-20250627175944-55da67549229-riscv64-Linux&download=kompat",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tools/kompat/kompat:v0.0.0-20250627175944-55da67549229-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tools/kompat/kompat",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tools/kompat/kompat?tag=v0.0.0-20250627175944-55da67549229-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9cc83d2d89f455dc6e576280b7651ca310ede82b60f850cac841959ecf482261",
+  "size": "8.6 MB",
+  "size_raw": "8992184",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
