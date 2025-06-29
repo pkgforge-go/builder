@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "llama-serve",
+  "pkg_family": "genai",
+  "pkg_id": "llama-serve#github.com_maruel_genai",
+  "pkg_name": "llama-serve",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/maruel/genai",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "common code",
+  "homepage": [
+    "https://github.com/maruel/genai"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cache-mgr",
+    "list-models",
+    "llama-serve",
+    "scoreboard"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/maruel/genai/archive/7b82c0692862aaf2682116d9799dc13e35cc1c28.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-7b82c06-250629T000633",
+  "version_upstream": "",
+  "bsum": "48d7248f0b8320611294fae03a58aea4f24cbaed2db468029b298a8aff6d9cb6",
+  "build_date": "2025-06-29T10:46:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15953952156",
+  "build_id": "15953952156",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/maruel/genai/llama-serve?tag=HEAD-7b82c06-250629T000633-aarch64-Linux&download=llama-serve.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/maruel/genai/llama-serve?tag=HEAD-7b82c06-250629T000633-aarch64-Linux&download=llama-serve",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/maruel/genai/llama-serve:HEAD-7b82c06-250629T000633-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/maruel/genai/llama-serve",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/maruel/genai/llama-serve?tag=HEAD-7b82c06-250629T000633-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9929a0863516c324b0c361f79e283542027f526102c2b53ffe103d47b09140a6",
+  "size": "6.9 MB",
+  "size_raw": "7213568",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-7c4c094-250622T000613-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
