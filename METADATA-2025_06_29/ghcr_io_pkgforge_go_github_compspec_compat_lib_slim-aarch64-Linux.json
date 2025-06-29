@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "slim",
+  "pkg_family": "compat-lib",
+  "pkg_id": "slim#github.com_compspec_compat_lib",
+  "pkg_name": "slim",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/compspec/compat-lib",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Compatibility library fuse overlay filesystem for preparing library paths (experimental and under development",
+  "homepage": [
+    "https://github.com/compspec/compat-lib"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "gen",
+    "record",
+    "server",
+    "slim",
+    "spindle"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/compspec/compat-lib/@v/v0.0.0-20250512001651-fd89602485c5.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250512001651-fd89602485c5",
+  "version_upstream": "",
+  "bsum": "1e63bb8ced467a5c9af6f278f8c4b0f2a1210769c1140786481dbf3e7726c85c",
+  "build_date": "2025-06-29T20:55:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15959091008",
+  "build_id": "15959091008",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/compspec/compat-lib/slim?tag=v0.0.0-20250512001651-fd89602485c5-aarch64-Linux&download=slim.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/compspec/compat-lib/slim?tag=v0.0.0-20250512001651-fd89602485c5-aarch64-Linux&download=slim",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/compspec/compat-lib/slim:v0.0.0-20250512001651-fd89602485c5-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/compspec/compat-lib/slim",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/compspec/compat-lib/slim?tag=v0.0.0-20250512001651-fd89602485c5-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "536bc785e34f2b3452dff706e4f4d396ef37fbf7c65f8c57c8cf135a2d48af36",
+  "size": "4.3 MB",
+  "size_raw": "4405888",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

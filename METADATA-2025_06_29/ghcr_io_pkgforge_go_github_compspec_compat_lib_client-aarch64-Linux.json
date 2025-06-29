@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "client",
+  "pkg_family": "compat-lib",
+  "pkg_id": "client#github.com_compspec_compat_lib",
+  "pkg_name": "client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/compspec/compat-lib",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Compatibility library fuse overlay filesystem for preparing library paths (experimental and under development",
+  "homepage": [
+    "https://github.com/compspec/compat-lib"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "gen",
+    "record",
+    "server",
+    "slim",
+    "spindle"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/compspec/compat-lib/@v/v0.0.0-20250512001651-fd89602485c5.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250512001651-fd89602485c5",
+  "version_upstream": "",
+  "bsum": "0b2e738185a8b3e3c9f19973043f864dc98fb4f7f4fdf88ad326675a04b6323a",
+  "build_date": "2025-06-29T20:55:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15959091008",
+  "build_id": "15959091008",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/compspec/compat-lib/client?tag=v0.0.0-20250512001651-fd89602485c5-aarch64-Linux&download=client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/compspec/compat-lib/client?tag=v0.0.0-20250512001651-fd89602485c5-aarch64-Linux&download=client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/compspec/compat-lib/client:v0.0.0-20250512001651-fd89602485c5-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/compspec/compat-lib/client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/compspec/compat-lib/client?tag=v0.0.0-20250512001651-fd89602485c5-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "80ad9bffd56be687a8fa00ee1030749a55bbc13314a5cafc11078290e44c9d04",
+  "size": "11 MB",
+  "size_raw": "10516128",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
