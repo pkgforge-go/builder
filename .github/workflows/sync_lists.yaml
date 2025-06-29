@@ -347,7 +347,8 @@ jobs:
           commit_user_name: Azathothas
           commit_user_email: AjamX101@gmail.com
           commit_message: "♻️ Synced Lists 📦 <-- [${{ env.NEPALI_TIME }}] ⌚"
-          
+        continue-on-error: true
+        
       - name: Pull & Push (2)
         run: |
           #Presets
