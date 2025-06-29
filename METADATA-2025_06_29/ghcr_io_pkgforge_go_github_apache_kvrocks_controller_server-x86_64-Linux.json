@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "kvrocks-controller",
+  "pkg_id": "server#github.com_apache_kvrocks_controller",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/apache/kvrocks-controller",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Apache Kvrocks Controller is a cluster management tool for Apache Kvrocks.",
+  "homepage": [
+    "https://github.com/apache/kvrocks-controller"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/apache/kvrocks-controller/archive/43b567cdc24782762227953e51cb52bc941ed8bf.tar.gz"
+  ],
+  "tag": [
+    "cluster",
+    "controller",
+    "database",
+    "distributed",
+    "kvrocks",
+    "redis",
+    "redis-cluster"
+  ],
+  "version": "HEAD-43b567c-250629T205555",
+  "version_upstream": "",
+  "bsum": "0c74cc56c0232fd0ec3067a56f842b5212416aee26b17e70ecd3f0d5f16f771c",
+  "build_date": "2025-06-29T17:20:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15957534991",
+  "build_id": "15957534991",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/kvrocks-controller/server?tag=HEAD-43b567c-250629T205555-x86_64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "100",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/kvrocks-controller/server?tag=HEAD-43b567c-250629T205555-x86_64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/apache/kvrocks-controller/server:HEAD-43b567c-250629T205555-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/apache/kvrocks-controller/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/kvrocks-controller/server?tag=HEAD-43b567c-250629T205555-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9592f619b76defa362c158a2f8cee866c47e432e1413748d5bd2efcdf31e21ce",
+  "size": "28 MB",
+  "size_raw": "28872864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
