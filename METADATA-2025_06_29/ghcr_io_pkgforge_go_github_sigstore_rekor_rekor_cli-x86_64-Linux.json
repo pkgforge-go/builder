@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "rekor-cli",
+  "pkg_family": "rekor",
+  "pkg_id": "rekor-cli#github.com_sigstore_rekor",
+  "pkg_name": "rekor-cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sigstore/rekor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Software Supply Chain Transparency Log",
+  "homepage": [
+    "https://github.com/sigstore/rekor"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "backfill-index",
+    "cleanup-index",
+    "copy-index",
+    "rekor-cli",
+    "rekor-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/sigstore/rekor/archive/422e8ec73cfdfee1bdbce2798413470876a2eae8.tar.gz"
+  ],
+  "tag": [
+    "provenance",
+    "security",
+    "supply-chain",
+    "transparency-log"
+  ],
+  "version": "HEAD-422e8ec-250628T171601",
+  "version_upstream": "",
+  "bsum": "1c1beb552e76de6f6273a8f4fbc925bbe5b6ecc68f940120267463ac01c96359",
+  "build_date": "2025-06-29T11:05:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15954009031",
+  "build_id": "15954009031",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/rekor/rekor-cli?tag=HEAD-422e8ec-250628T171601-x86_64-Linux&download=rekor-cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "974",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/rekor/rekor-cli?tag=HEAD-422e8ec-250628T171601-x86_64-Linux&download=rekor-cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sigstore/rekor/rekor-cli:HEAD-422e8ec-250628T171601-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sigstore/rekor/rekor-cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sigstore/rekor/rekor-cli?tag=HEAD-422e8ec-250628T171601-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "37752b9aadc8a155ae93f9996b52ff7e9743b2c7b4ef0df6632d2a591f36190d",
+  "size": "38 MB",
+  "size_raw": "39642688",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-1ef8b66-250618T181451-x86_64-Linux",
+    "HEAD-c0f3b8c-250623T162844-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
