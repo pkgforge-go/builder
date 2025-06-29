@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "termshot",
+  "pkg_family": "termshot",
+  "pkg_id": "termshot#github.com_homeport_termshot",
+  "pkg_name": "termshot",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/homeport/termshot",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Creates screenshots based on terminal command output",
+  "homepage": [
+    "https://github.com/homeport/termshot"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "termshot"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/homeport/termshot/archive/1c953c2cef0d1614530712c73ae5e2d441b733c9.tar.gz"
+  ],
+  "tag": [
+    "ansi-colors",
+    "cli",
+    "screenshot",
+    "shell",
+    "terminal"
+  ],
+  "version": "HEAD-1c953c2-250628T165206",
+  "version_upstream": "v0.6.0",
+  "bsum": "f76785a0813bf2425ed97169f92deea173f323d78288ec41f775bdf25777579f",
+  "build_date": "2025-06-29T13:24:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15955502466",
+  "build_id": "15955502466",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/homeport/termshot/termshot?tag=HEAD-1c953c2-250628T165206-aarch64-Linux&download=termshot.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "529",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/homeport/termshot/termshot?tag=HEAD-1c953c2-250628T165206-aarch64-Linux&download=termshot",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/homeport/termshot/termshot:HEAD-1c953c2-250628T165206-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/homeport/termshot/termshot",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/homeport/termshot/termshot?tag=HEAD-1c953c2-250628T165206-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b4e736268568d01e63ee7e8a4fb104c9a8a522b4943c0275f1fb1fda3a315ee9",
+  "size": "4.8 MB",
+  "size_raw": "4979016",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-fcb8839-250606T141259-aarch64-Linux",
+    "HEAD-5219539-250622T211552-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
