@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "spindle",
+  "pkg_family": "compat-lib",
+  "pkg_id": "spindle#github.com_compspec_compat_lib",
+  "pkg_name": "spindle",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/compspec/compat-lib",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Compatibility library fuse overlay filesystem for preparing library paths (experimental and under development",
+  "homepage": [
+    "https://github.com/compspec/compat-lib"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "gen",
+    "record",
+    "server",
+    "slim",
+    "spindle"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/compspec/compat-lib/@v/v0.0.0-20250512001651-fd89602485c5.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250512001651-fd89602485c5",
+  "version_upstream": "",
+  "bsum": "a6612325020294454bc8b315e4176402de6c91aba12d1df3231278b5854e7e92",
+  "build_date": "2025-06-29T20:55:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15959091008",
+  "build_id": "15959091008",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/compspec/compat-lib/spindle?tag=v0.0.0-20250512001651-fd89602485c5-riscv64-Linux&download=spindle.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/compspec/compat-lib/spindle?tag=v0.0.0-20250512001651-fd89602485c5-riscv64-Linux&download=spindle",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/compspec/compat-lib/spindle:v0.0.0-20250512001651-fd89602485c5-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/compspec/compat-lib/spindle",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/compspec/compat-lib/spindle?tag=v0.0.0-20250512001651-fd89602485c5-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7ac27e300ae451b2aa072d4f4feddf9227af96744ced0414f6dc535373faa850",
+  "size": "4.5 MB",
+  "size_raw": "4678136",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
