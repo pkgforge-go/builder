@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "deploy",
+  "pkg_family": "deploy",
+  "pkg_id": "deploy#github.com_dronestock_deploy",
+  "pkg_name": "deploy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://www.dronestock.tech/plugin/stock/mcu",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Drone持续集成部署插件，支持快速部署到各种环境（生产、测试、开发、预发布，完成可以自定义），支持如下系统：1、Kubernetes；2、Docker Compose",
+  "homepage": [
+    "https://www.dronestock.tech/plugin/stock/mcu"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "deploy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/dronestock/deploy/@v/v0.0.0-20250623131024-7bab73b1a44e.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250623131024-7bab73b1a44e",
+  "version_upstream": "",
+  "bsum": "0225b150014326926743eccea211f372da50427a904a9d3eb268e33d090d4431",
+  "build_date": "2025-06-29T23:36:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15960372542",
+  "build_id": "15960372542",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dronestock/deploy/deploy?tag=v0.0.0-20250623131024-7bab73b1a44e-loongarch64-Linux&download=deploy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dronestock/deploy/deploy?tag=v0.0.0-20250623131024-7bab73b1a44e-loongarch64-Linux&download=deploy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dronestock/deploy/deploy:v0.0.0-20250623131024-7bab73b1a44e-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dronestock/deploy/deploy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dronestock/deploy/deploy?tag=v0.0.0-20250623131024-7bab73b1a44e-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9fa854bc160dda7783890e626a35cfa3fa5c2181e14416d2c5eda22a1a9eb2e5",
+  "size": "12 MB",
+  "size_raw": "11715456",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
