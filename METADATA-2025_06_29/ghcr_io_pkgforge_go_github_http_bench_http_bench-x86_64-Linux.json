@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "http_bench",
+  "pkg_family": "http_bench",
+  "pkg_id": "http_bench#github.com_linkxzhou_http_bench",
+  "pkg_name": "http_bench",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/linkxzhou/http_bench",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "golang HTTP stress testing tool, support single and distributed, http/1, http/2 and http/3.",
+  "homepage": [
+    "https://github.com/linkxzhou/http_bench"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "http_bench"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/linkxzhou/http_bench/archive/704e29c067f13c7f8274630644b83eff5bf0bfe2.tar.gz"
+  ],
+  "tag": [
+    "benchmark",
+    "distributed",
+    "golang",
+    "http1",
+    "http2",
+    "http3",
+    "httpbench",
+    "httpclient",
+    "stress",
+    "stress-testing",
+    "tiny-tools",
+    "websocket"
+  ],
+  "version": "HEAD-704e29c-250629T093313",
+  "version_upstream": "",
+  "bsum": "494eac3f95d8dc2cd8b1ad9f612ce8a8aefc4bdba268c6fdb56b07842a91a4e2",
+  "build_date": "2025-06-29T10:43:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15953950760",
+  "build_id": "15953950760",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/http/bench/http_bench?tag=HEAD-704e29c-250629T093313-x86_64-Linux&download=http_bench.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "658",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/http/bench/http_bench?tag=HEAD-704e29c-250629T093313-x86_64-Linux&download=http_bench",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/http/bench/http_bench:HEAD-704e29c-250629T093313-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/http/bench/http_bench",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/http/bench/http_bench?tag=HEAD-704e29c-250629T093313-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0696dc604de3b549368314154eb5650f78227a723cea349cbcbe046c39ebc75d",
+  "size": "12 MB",
+  "size_raw": "12308512",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-aae86fe-250628T190313-x86_64-Linux[v1.1.1]"
+  ],
+  "trusted": "true"
+}
