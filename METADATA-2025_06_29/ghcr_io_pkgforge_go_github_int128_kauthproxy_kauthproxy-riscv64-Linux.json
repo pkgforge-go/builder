@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "kauthproxy",
+  "pkg_family": "kauthproxy",
+  "pkg_id": "kauthproxy#github.com_int128_kauthproxy",
+  "pkg_name": "kauthproxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/int128/kauthproxy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Local authentication proxy for Kubernetes Dashboard _kubectl auth-proxy_",
+  "homepage": [
+    "https://github.com/int128/kauthproxy"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "e2e_test",
+    "kauthproxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/int128/kauthproxy/archive/409cc13d1da040c401df6032369c274edae3eeb5.tar.gz"
+  ],
+  "tag": [
+    "golang",
+    "kubectl",
+    "kubectl-plugins",
+    "kubernetes",
+    "kubernetes-dashboard"
+  ],
+  "version": "HEAD-409cc13-250629T014654",
+  "version_upstream": "",
+  "bsum": "3dc7327240356fd5c973e9ec2f9875af194ab3effd42306451c237d5447d496d",
+  "build_date": "2025-06-29T10:30:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15953933365",
+  "build_id": "15953933365",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/int128/kauthproxy/kauthproxy?tag=HEAD-409cc13-250629T014654-riscv64-Linux&download=kauthproxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "110",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/int128/kauthproxy/kauthproxy?tag=HEAD-409cc13-250629T014654-riscv64-Linux&download=kauthproxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/int128/kauthproxy/kauthproxy:HEAD-409cc13-250629T014654-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/int128/kauthproxy/kauthproxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/int128/kauthproxy/kauthproxy?tag=HEAD-409cc13-250629T014654-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0d9a961ac1ef7fcf1cdb0558335eb6a1c725975240e84e5493708c0c88abc9c0",
+  "size": "66 MB",
+  "size_raw": "68836888",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-f05aef0-250619T213340-riscv64-Linux",
+    "HEAD-feb2a27-250627T022911-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
