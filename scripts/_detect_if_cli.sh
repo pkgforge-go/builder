@@ -229,7 +229,7 @@ download_and_extract_archive() {
         *"Zip archive"*)
             if command -v unzip >/dev/null 2>&1; then
                 log_verbose "Extracting zip archive"
-                unzip -j -o -q "$archive_file" -d "$repo_dir" 2>/dev/null || {
+                unzip -o -q "$archive_file" -d "$repo_dir" 2>/dev/null || {
                     log_error "Failed to extract zip archive"
                     return 1
                 }

@@ -264,6 +264,7 @@ jobs:
                 echo "GPKG_SRCURL=${GPKG_SRCURL}" >> "${GITHUB_ENV}"
               else
                 echo "::warning:: Failed to rewrite GPKG_SRCURL"
+                echo "GPKG_SRCURL=${GPKG_SRCURL}" >> "${GITHUB_ENV}"
               fi
             fi
            #Check if Lib 

@@ -312,7 +312,7 @@ GB_VERSION="0.0.4" && echo -e "[+] Go Builder Version: ${GB_VERSION}" ; unset GB
             fi
             ;;
         *"Zip archive"*)
-            if unzip -j -o -q "${archive_file}" -d "${BUILD_DIR}/BUILD_GPKG" 2>/dev/null; then
+            if unzip -o -q "${archive_file}" -d "${BUILD_DIR}/BUILD_GPKG" 2>/dev/null; then
                 top_dirs=(*)
                 if [[ ${#top_dirs[@]} -eq 1 && -d "${top_dirs[0]}" && "${top_dirs[0]}" != "repo.archive" ]]; then
                     log_verbose "Moving contents from ${top_dirs[0]}/ to current directory"
