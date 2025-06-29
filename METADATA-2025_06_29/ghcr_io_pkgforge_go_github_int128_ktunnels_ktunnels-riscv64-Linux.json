@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ktunnels",
+  "pkg_family": "ktunnels",
+  "pkg_id": "ktunnels#github.com_int128_ktunnels",
+  "pkg_name": "ktunnels",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/int128/ktunnels",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes controller for port-forwarding from your machine to remote hosts via Envoy TCP proxy",
+  "homepage": [
+    "https://github.com/int128/ktunnels"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ktunnels"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/int128/ktunnels/archive/bc9583be77cdeeeda82ec38216402993ddc3d4fb.tar.gz"
+  ],
+  "tag": [
+    "controller",
+    "golang",
+    "kubebuilder",
+    "kubernetes"
+  ],
+  "version": "HEAD-bc9583b-250628T230907",
+  "version_upstream": "",
+  "bsum": "9e6fd2f4f7ba1200a3149b80258a45337ff781db1d5dfee274ba4d89345ff1fa",
+  "build_date": "2025-06-29T10:33:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15953933794",
+  "build_id": "15953933794",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/int128/ktunnels/ktunnels?tag=HEAD-bc9583b-250628T230907-riscv64-Linux&download=ktunnels.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "28",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/int128/ktunnels/ktunnels?tag=HEAD-bc9583b-250628T230907-riscv64-Linux&download=ktunnels",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/int128/ktunnels/ktunnels:HEAD-bc9583b-250628T230907-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/int128/ktunnels/ktunnels",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/int128/ktunnels/ktunnels?tag=HEAD-bc9583b-250628T230907-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "29586254e000602d616fb20e8812dd98772862bc1c3d63c46f05f4e93f37c1e0",
+  "size": "61 MB",
+  "size_raw": "63438968",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0c5c05b-250620T004848-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
