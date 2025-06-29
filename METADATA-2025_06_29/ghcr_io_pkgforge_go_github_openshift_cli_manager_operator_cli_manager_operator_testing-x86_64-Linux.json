@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "cli-manager-operator-testing",
+  "pkg_family": "cli-manager-operator",
+  "pkg_id": "cli-manager-operator-testing#github.com_openshift_cli_manager_operator",
+  "pkg_name": "cli-manager-operator-testing",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/cli-manager-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Optional operator to manage OpenShift specific custom Krew index",
+  "homepage": [
+    "https://github.com/openshift/cli-manager-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli-manager-operator",
+    "cli-manager-operator-testing"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/openshift/cli-manager-operator/archive/35720e3b20cdda5b5213070499c5a95f6fc9ccbb.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-35720e3-250628T175301",
+  "version_upstream": "",
+  "bsum": "632e9c44e06c5caad90c6417ab37c4aa3c1c6160f49fc62a7ad948d9639035af",
+  "build_date": "2025-06-29T07:26:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15952590337",
+  "build_id": "15952590337",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cli-manager-operator/cli-manager-operator-testing?tag=HEAD-35720e3-250628T175301-x86_64-Linux&download=cli-manager-operator-testing.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cli-manager-operator/cli-manager-operator-testing?tag=HEAD-35720e3-250628T175301-x86_64-Linux&download=cli-manager-operator-testing",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/cli-manager-operator/cli-manager-operator-testing:HEAD-35720e3-250628T175301-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/cli-manager-operator/cli-manager-operator-testing",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/cli-manager-operator/cli-manager-operator-testing?tag=HEAD-35720e3-250628T175301-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e9e15c51cd071c523e27428ffec26c6e13691405ee11d08d5dcd8b7feeb2b6d7",
+  "size": "78 MB",
+  "size_raw": "81511456",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
