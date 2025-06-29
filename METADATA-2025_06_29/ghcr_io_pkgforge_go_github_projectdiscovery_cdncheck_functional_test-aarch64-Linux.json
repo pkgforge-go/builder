@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "functional-test",
+  "pkg_family": "cdncheck",
+  "pkg_id": "functional-test#github.com_projectdiscovery_cdncheck",
+  "pkg_name": "functional-test",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/projectdiscovery/cdncheck",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A utility to detect various technology for a given IP address.",
+  "homepage": [
+    "https://github.com/projectdiscovery/cdncheck"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cdncheck",
+    "cdncheck-examples",
+    "functional-test",
+    "generate-index",
+    "integration-test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/projectdiscovery/cdncheck/archive/d4e3c756bbb1fd9be070ae0b511762d7b2e32792.tar.gz"
+  ],
+  "tag": [
+    "api",
+    "cdn",
+    "cli",
+    "cname",
+    "detection",
+    "lib",
+    "technology"
+  ],
+  "version": "HEAD-d4e3c75-250629T001237",
+  "version_upstream": "v1.1.25",
+  "bsum": "42cffb4c6676447eb38fee722a99665cd353d347c70730e887b86c2df78b4d82",
+  "build_date": "2025-06-29T10:58:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15953978745",
+  "build_id": "15953978745",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/cdncheck/functional-test?tag=HEAD-d4e3c75-250629T001237-aarch64-Linux&download=functional-test.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "843",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/cdncheck/functional-test?tag=HEAD-d4e3c75-250629T001237-aarch64-Linux&download=functional-test",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/projectdiscovery/cdncheck/functional-test:HEAD-d4e3c75-250629T001237-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/projectdiscovery/cdncheck/functional-test",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/cdncheck/functional-test?tag=HEAD-d4e3c75-250629T001237-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "89e732fd15b3b9035dcd9e7c3a9dcceba3b29ffde617939af0e75c1a21e6c854",
+  "size": "2.2 MB",
+  "size_raw": "2215896",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-dbdc966-250615T001226-aarch64-Linux[v1.1.23]",
+    "HEAD-0443e5b-250622T001220-aarch64-Linux[v1.1.24]"
+  ],
+  "trusted": "true"
+}
