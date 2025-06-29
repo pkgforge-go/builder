@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "sampleapp",
+  "pkg_family": "gowd",
+  "pkg_id": "sampleapp#github.com_dtylman_gowd",
+  "pkg_name": "sampleapp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dtylman/gowd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Build cross platform GUI apps with GO and HTML/JS/CSS _powered by nwjs_",
+  "homepage": [
+    "https://github.com/dtylman/gowd"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sampleapp",
+    "template",
+    "todomvc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/dtylman/gowd/archive/4271bc0536b73bfa03a6b409edd1b51ac83c68cc.tar.gz"
+  ],
+  "tag": [
+    "desktop",
+    "golang",
+    "nwjs-application"
+  ],
+  "version": "HEAD-4271bc0-220807T092529",
+  "version_upstream": "",
+  "bsum": "32edb8eafa408f64cd567981d56d0c00eb85a8eb86d9d8005ecf26fedcc3fab4",
+  "build_date": "2025-06-29T19:55:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15958555517",
+  "build_id": "15958555517",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dtylman/gowd/sampleapp?tag=HEAD-4271bc0-220807T092529-aarch64-Linux&download=sampleapp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "437",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dtylman/gowd/sampleapp?tag=HEAD-4271bc0-220807T092529-aarch64-Linux&download=sampleapp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dtylman/gowd/sampleapp:HEAD-4271bc0-220807T092529-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dtylman/gowd/sampleapp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dtylman/gowd/sampleapp?tag=HEAD-4271bc0-220807T092529-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5a811a4f1aa2902d92a3597690990937d9499d8f0db2488c8c81317fcda41723",
+  "size": "2.3 MB",
+  "size_raw": "2363392",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-4271bc0-220807T092529-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
