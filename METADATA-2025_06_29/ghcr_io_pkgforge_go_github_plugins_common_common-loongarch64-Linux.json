@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "common",
+  "pkg_family": "common",
+  "pkg_id": "common#github.com_dokku_dokku_plugins_common",
+  "pkg_name": "common",
+  "pkg_type": "static",
+  "pkg_webpage": "https://dokku.com",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A docker-powered PaaS that helps you build and manage the lifecycle of applications",
+  "homepage": [
+    "https://dokku.com"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "common",
+    "prop",
+    "triggers"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/dokku/dokku/plugins/common/@v/v0.0.0-20250618161309-8d0c35f1333c.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250618161309-8d0c35f1333c",
+  "version_upstream": "",
+  "bsum": "da59f386913802b6bd3591409a2e2fdb8d951ff55fdcc03f66d62c03af008653",
+  "build_date": "2025-06-29T23:26:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15960237646",
+  "build_id": "15960237646",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/plugins/common/common?tag=v0.0.0-20250618161309-8d0c35f1333c-loongarch64-Linux&download=common.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "30709",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/plugins/common/common?tag=v0.0.0-20250618161309-8d0c35f1333c-loongarch64-Linux&download=common",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/plugins/common/common:v0.0.0-20250618161309-8d0c35f1333c-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/plugins/common/common",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/plugins/common/common?tag=v0.0.0-20250618161309-8d0c35f1333c-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "030f96aa780f104da402f434e153e2781065be4bdf11627a582a4b51a9e1a07c",
+  "size": "3.6 MB",
+  "size_raw": "3740640",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
