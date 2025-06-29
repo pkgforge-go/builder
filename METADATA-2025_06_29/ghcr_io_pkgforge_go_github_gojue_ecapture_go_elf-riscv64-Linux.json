@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "go_elf",
+  "pkg_family": "ecapture",
+  "pkg_id": "go_elf#github.com_gojue_ecapture",
+  "pkg_name": "go_elf",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gojue/ecapture",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.",
+  "homepage": [
+    "https://github.com/gojue/ecapture"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "go_elf",
+    "tests"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gojue/ecapture/archive/b438a1f14014386c5c11124047ac87a08798912b.tar.gz"
+  ],
+  "tag": [
+    "android",
+    "android-https-capture",
+    "ebpf",
+    "ebpf-go",
+    "ebpf-tc",
+    "ebpf-uprobe",
+    "golang",
+    "https",
+    "linux",
+    "network-capture",
+    "security-audit",
+    "ssl",
+    "ssldump",
+    "tcpdump",
+    "tls"
+  ],
+  "version": "HEAD-b438a1f-250628T233346",
+  "version_upstream": "",
+  "bsum": "ddbbc9c24df49f35b90a78bed63939883d31b58c3651016d48ed48cb6a6e559a",
+  "build_date": "2025-06-29T10:23:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15953922485",
+  "build_id": "15953922485",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gojue/ecapture/go_elf?tag=HEAD-b438a1f-250628T233346-riscv64-Linux&download=go_elf.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14426",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gojue/ecapture/go_elf?tag=HEAD-b438a1f-250628T233346-riscv64-Linux&download=go_elf",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gojue/ecapture/go_elf:HEAD-b438a1f-250628T233346-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gojue/ecapture/go_elf",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gojue/ecapture/go_elf?tag=HEAD-b438a1f-250628T233346-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "601f6351a154bd48f39e148d2ea32c2bfc1ac94da832f424a1b0be087a383c9e",
+  "size": "1.6 MB",
+  "size_raw": "1579592",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-9cd91ad-250618T004736-riscv64-Linux",
+    "HEAD-fd1b219-250622T162150-riscv64-Linux[v1.3.0]"
+  ],
+  "trusted": "true"
+}
