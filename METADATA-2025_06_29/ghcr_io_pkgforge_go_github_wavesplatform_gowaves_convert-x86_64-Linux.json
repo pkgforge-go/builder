@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "convert",
+  "pkg_family": "gowaves",
+  "pkg_id": "convert#github.com_wavesplatform_gowaves",
+  "pkg_name": "convert",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/wavesplatform/gowaves",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go implementation of Waves node, libraries and tools for Waves blockchain",
+  "homepage": [
+    "https://github.com/wavesplatform/gowaves"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "binclient",
+    "blockcmp",
+    "chaincmp",
+    "compiler",
+    "convert",
+    "generate",
+    "genesis",
+    "importer",
+    "node",
+    "retransmitter",
+    "rollback",
+    "statecmp",
+    "statehash",
+    "wallet",
+    "wmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/wavesplatform/gowaves/archive/b73f074de9f2b1e22a57f29b5cea8a4d71971dc2.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "cryptography",
+    "decentralized-applications",
+    "smart-contracts",
+    "waves"
+  ],
+  "version": "HEAD-b73f074-250628T214758",
+  "version_upstream": "",
+  "bsum": "ca79cb878de5cc8f10c3c4f432c2752f3b296f600a19a48ccaf0c117ccce58df",
+  "build_date": "2025-06-29T07:44:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15952605042",
+  "build_id": "15952605042",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wavesplatform/gowaves/convert?tag=HEAD-b73f074-250628T214758-x86_64-Linux&download=convert.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "86",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wavesplatform/gowaves/convert?tag=HEAD-b73f074-250628T214758-x86_64-Linux&download=convert",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/wavesplatform/gowaves/convert:HEAD-b73f074-250628T214758-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/wavesplatform/gowaves/convert",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wavesplatform/gowaves/convert?tag=HEAD-b73f074-250628T214758-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "75c2ad6b29e8a8390b3a1eb74eb4fd9c29d6999682cf1ca27281bc93d260eb9f",
+  "size": "16 MB",
+  "size_raw": "15782464",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

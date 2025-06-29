@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "wallet",
+  "pkg_family": "gowaves",
+  "pkg_id": "wallet#github.com_wavesplatform_gowaves",
+  "pkg_name": "wallet",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/wavesplatform/gowaves",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go implementation of Waves node, libraries and tools for Waves blockchain",
+  "homepage": [
+    "https://github.com/wavesplatform/gowaves"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "binclient",
+    "blockcmp",
+    "chaincmp",
+    "compiler",
+    "convert",
+    "generate",
+    "genesis",
+    "importer",
+    "node",
+    "retransmitter",
+    "rollback",
+    "statecmp",
+    "statehash",
+    "wallet",
+    "wmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/wavesplatform/gowaves/archive/b73f074de9f2b1e22a57f29b5cea8a4d71971dc2.tar.gz"
+  ],
+  "tag": [
+    "blockchain",
+    "cryptography",
+    "decentralized-applications",
+    "smart-contracts",
+    "waves"
+  ],
+  "version": "HEAD-b73f074-250628T214758",
+  "version_upstream": "",
+  "bsum": "44d1dbe489e7bf2460f1fd3daa0820a0770565c1850a2609637882397fa56454",
+  "build_date": "2025-06-29T07:45:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15952605042",
+  "build_id": "15952605042",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wavesplatform/gowaves/wallet?tag=HEAD-b73f074-250628T214758-x86_64-Linux&download=wallet.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "86",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wavesplatform/gowaves/wallet?tag=HEAD-b73f074-250628T214758-x86_64-Linux&download=wallet",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/wavesplatform/gowaves/wallet:HEAD-b73f074-250628T214758-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/wavesplatform/gowaves/wallet",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wavesplatform/gowaves/wallet?tag=HEAD-b73f074-250628T214758-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1db8aa4e4d4c6aff73f9f2fa56330014c1c2da77347404a85afd9ca8c5dca55d",
+  "size": "16 MB",
+  "size_raw": "16035488",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
