@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "lxd-benchmark",
+  "pkg_family": "lxd",
+  "pkg_id": "lxd-benchmark#github.com_canonical_lxd",
+  "pkg_name": "lxd-benchmark",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/canonical/lxd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Powerful system container and virtual machine manager",
+  "homepage": [
+    "https://github.com/canonical/lxd"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "devlxd-client",
+    "freshschema",
+    "generate",
+    "lxc",
+    "lxd-benchmark",
+    "lxd-metadata",
+    "lxd-user",
+    "mini-oidc",
+    "sysinfo"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/canonical/lxd/archive/129550717a54a131346ae6232043dfa92a088dee.tar.gz"
+  ],
+  "tag": [
+    "containers",
+    "criu",
+    "go",
+    "hacktoberfest",
+    "lxc",
+    "lxd"
+  ],
+  "version": "HEAD-1295507-250628T171309",
+  "version_upstream": "",
+  "bsum": "027049f9615d1d9c2509c22e817f7b599d7f6f19d810c58c83c7f012cbe9b658",
+  "build_date": "2025-06-29T10:12:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15953897808",
+  "build_id": "15953897808",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/lxd/lxd-benchmark?tag=HEAD-1295507-250628T171309-riscv64-Linux&download=lxd-benchmark.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4524",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/lxd/lxd-benchmark?tag=HEAD-1295507-250628T171309-riscv64-Linux&download=lxd-benchmark",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/canonical/lxd/lxd-benchmark:HEAD-1295507-250628T171309-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/canonical/lxd/lxd-benchmark",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/canonical/lxd/lxd-benchmark?tag=HEAD-1295507-250628T171309-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8e56a2c46a4681999158193bcc3a564fb3cad11f79b4ecb524fd8dd2be1aee67",
+  "size": "13 MB",
+  "size_raw": "13088376",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-5290649-250619T134116-riscv64-Linux",
+    "HEAD-5ee6dd8-250621T220730-riscv64-Linux",
+    "HEAD-a8d328a-250622T215306-riscv64-Linux",
+    "HEAD-b5483fc-250623T144539-riscv64-Linux",
+    "HEAD-c946fe2-250623T230720-riscv64-Linux",
+    "HEAD-4767b9e-250624T142828-riscv64-Linux",
+    "HEAD-b84b2fa-250624T201349-riscv64-Linux",
+    "HEAD-676e098-250625T192107-riscv64-Linux",
+    "HEAD-e340378-250626T091257-riscv64-Linux",
+    "HEAD-b102391-250627T084044-riscv64-Linux",
+    "HEAD-e14d70b-250627T214910-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
