@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "turboalloc",
+  "pkg_family": "TurboAlloc",
+  "pkg_id": "turboalloc#github.com_TimeWtr_TurboAlloc",
+  "pkg_name": "turboalloc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/TimeWtr/TurboAlloc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A high-performance dedicated memory allocator based on Go, focusing on 1KB-32KB memory allocation scenarios​",
+  "homepage": [
+    "https://github.com/TimeWtr/TurboAlloc"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "turboalloc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/TimeWtr/TurboAlloc/archive/44cb3577b3b21e00c9eae96a205a36f0018345ee.tar.gz"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "HEAD-44cb357-250628T224021",
+  "version_upstream": "",
+  "bsum": "c4b37599c942e32f9081279637c85fb922fa31a5f97b290c1aa5357da61b05e3",
+  "build_date": "2025-06-29T13:09:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15955500685",
+  "build_id": "15955500685",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/timewtr/turboalloc/turboalloc?tag=HEAD-44cb357-250628T224021-loongarch64-Linux&download=turboalloc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "99",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/timewtr/turboalloc/turboalloc?tag=HEAD-44cb357-250628T224021-loongarch64-Linux&download=turboalloc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/timewtr/turboalloc/turboalloc:HEAD-44cb357-250628T224021-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/timewtr/turboalloc/turboalloc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/timewtr/turboalloc/turboalloc?tag=HEAD-44cb357-250628T224021-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8e976b122e3668d6803d55a645e6e3951ddd2490c04b5397d5031189f4be867c",
+  "size": "2.8 MB",
+  "size_raw": "2898520",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-c878bfb-250627T180546-loongarch64-Linux",
+    "HEAD-3b1658a-250628T185509-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
