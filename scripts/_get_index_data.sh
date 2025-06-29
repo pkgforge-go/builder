@@ -65,7 +65,7 @@ install_tool "go-enricher" "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/go-
  awk '/^\s*{\s*$/{flag=1; buffer="{\n"; next} /^\s*}\s*$/{if(flag){buffer=buffer"}\n"; print buffer}; flag=0; next} flag{buffer=buffer$0"\n"}' "${TEMP_DIR}/RAW.json.tmp" | jq -c '. as $line | (fromjson? | .message) // $line' >> "${TEMP_DIR}/RAW.json.raw"
  jq -s '[.[] | select(type == "object" and has("source"))] | unique_by(.source | ascii_downcase) | sort_by(.source | ascii_downcase) | walk(if type == "object" then with_entries(select(.value != null and .value != "" and .value != "null")) elif type == "boolean" or type == "number" then tostring else . end) | map(to_entries | sort_by(.key) | from_entries)' \
  "${TEMP_DIR}/RAW.json.raw" > "${TEMP_DIR}/RAW.json"
-  if [[ "$(jq -r '.[] | .source' "${TEMP_DIR}/RAW.json" | grep -Eiv '^null$' | sort -u | wc -l | tr -cd '[:digit:]')" -ge 1000 ]]; then
+  if [[ "$(jq -r '.[] | .source' "${TEMP_DIR}/RAW.json" | grep -Eiv '^null$' | sort -u | wc -l | tr -cd '[:digit:]')" -ge 100 ]]; then
      cp -fv "${TEMP_DIR}/RAW.json" "${OUT_DIR}/RAW.json"
   else
      echo -e "\n[✗] FATAL: Failed to parse PKG Data Lists\n"
@@ -118,7 +118,7 @@ install_tool "go-enricher" "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/go-
      end
    )
   ' "${OUT_DIR}/RAW.json" "${TEMP_DIR}/PKG_DUMP.json" > "${TEMP_DIR}/PKG_DUMP.json.tmp"
-  if [[ "$(jq -r '.[] | .source' "${TEMP_DIR}/PKG_DUMP.json.tmp" | grep -Eiv '^null$' | sort -u | wc -l | tr -cd '[:digit:]')" -ge 1000 ]]; then
+  if [[ "$(jq -r '.[] | .source' "${TEMP_DIR}/PKG_DUMP.json.tmp" | grep -Eiv '^null$' | sort -u | wc -l | tr -cd '[:digit:]')" -ge 100 ]]; then
      cp -fv "${TEMP_DIR}/PKG_DUMP.json.tmp" "${TEMP_DIR}/PKG_DUMP.json"
   else
      echo -e "\n[✗] FATAL: Failed to enrich PKG Data Lists\n"
@@ -226,7 +226,7 @@ install_tool "go-enricher" "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/go-
       . + {"is_cli": "true"}
     ]
    ' "${TEMP_DIR}/DETECTION.json" "${TEMP_DIR}/PKG_DUMP.json" > "${TEMP_DIR}/PKG_DUMP.json.tmp"
-  if [[ "$(jq -r '.[] | .source' "${TEMP_DIR}/PKG_DUMP.json.tmp" | grep -Eiv '^null$' | sort -u | wc -l | tr -cd '[:digit:]')" -ge 1000 ]]; then
+  if [[ "$(jq -r '.[] | .source' "${TEMP_DIR}/PKG_DUMP.json.tmp" | grep -Eiv '^null$' | sort -u | wc -l | tr -cd '[:digit:]')" -ge 100 ]]; then
      cp -fv "${TEMP_DIR}/PKG_DUMP.json.tmp" "${TEMP_DIR}/PKG_DUMP.json"
   else
      echo -e "\n[✗] FATAL: Failed to add CLI Lists\n"
@@ -238,7 +238,7 @@ install_tool "go-enricher" "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/go-
    (.[1] | reduce .[] as $item ({}; .[$item.source] = $item)) as $pkg_lookup |
    .[0] | map(select($pkg_lookup[.source]) | . + $pkg_lookup[.source])
   ' "${OUT_DIR}/RAW.json" "${TEMP_DIR}/PKG_DUMP.json" > "${TEMP_DIR}/PKG_DUMP.json.tmp"
-  if [[ "$(jq -r '.[] | .source' "${TEMP_DIR}/PKG_DUMP.json.tmp" | grep -Eiv '^null$' | sort -u | wc -l | tr -cd '[:digit:]')" -ge 1000 ]]; then
+  if [[ "$(jq -r '.[] | .source' "${TEMP_DIR}/PKG_DUMP.json.tmp" | grep -Eiv '^null$' | sort -u | wc -l | tr -cd '[:digit:]')" -ge 100 ]]; then
      cp -fv "${TEMP_DIR}/PKG_DUMP.json.tmp" "${TEMP_DIR}/PKG_DUMP.json"
   else
      echo -e "\n[✗] FATAL: Failed to Merge Final Lists\n"
@@ -261,7 +261,7 @@ install_tool "go-enricher" "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/go-
     .is_cli != null and .is_cli != "" and
     .version != null and .version != ""
  ))' | jq 'unique_by(.source) | sort_by(.rank | tonumber) | [range(length)] as $indices | [., $indices] | transpose | map(.[0] + {rank: (.[1] + 1 | tostring)})' > "${TEMP_DIR}/PKG_DUMP.json"
-  if [[ "$(jq -r '.[] | .source' "${TEMP_DIR}/PKG_DUMP.json" | grep -Eiv '^null$' | sort -u | wc -l | tr -cd '[:digit:]')" -ge 1000 ]]; then
+  if [[ "$(jq -r '.[] | .source' "${TEMP_DIR}/PKG_DUMP.json" | grep -Eiv '^null$' | sort -u | wc -l | tr -cd '[:digit:]')" -ge 100 ]]; then
      cp -fv "${TEMP_DIR}/PKG_DUMP.json" "${OUT_DIR}/PKG_DUMP.json"
   else
      echo -e "\n[✗] FATAL: Failed to create Final Metadata\n"
@@ -278,7 +278,7 @@ install_tool "go-enricher" "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/go-
 popd &>/dev/null
 #Copy
 PKG_COUNT="$(jq -r '.[] | .name' "${OUT_DIR}/PKG_DUMP.json" | sort -u | wc -l | tr -d '[:space:]')"
-if [[ "${PKG_COUNT}" -ge 1000 ]]; then
+if [[ "${PKG_COUNT}" -ge 100 ]]; then
   if [[ ! -d "${SYSTMP}" ]]; then
     SYSTMP="$(dirname $(mktemp -u))"
   fi

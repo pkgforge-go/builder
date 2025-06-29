@@ -73,7 +73,7 @@ jobs:
           ##Copy (PKG_RAW.json)
           if [[ -s "${SYSTMP}/PKG_RAW.json" && $(stat -c%s "${SYSTMP}PKG_RAW.json") -gt 1024 ]]; then
             PKG_COUNT="$(jq -r '.[] | .pkg_id' "${SYSTMP}/PKG_RAW.json" | grep -iv 'null' | sort -u | wc -l | tr -d '[:space:]')"
-            if [[ "${PKG_COUNT}" -ge 1000 ]]; then
+            if [[ "${PKG_COUNT}" -ge 100 ]]; then
                cp -fv "${SYSTMP}/PKG_RAW.json" "${O_D}/PKG_RAW.json"
             fi
           fi
@@ -122,14 +122,14 @@ jobs:
           ##Copy (REPO_DUMP.json)
           if [[ -s "${SYSTMP}/REPO_DUMP.json" && $(stat -c%s "${SYSTMP}/REPO_DUMP.json") -gt 1024 ]]; then
             PKG_COUNT="$(jq -r '.[] | .name' "${SYSTMP}/REPO_DUMP.json" | grep -iv 'null' | sort -u | wc -l | tr -d '[:space:]')"
-            if [[ "${PKG_COUNT}" -ge 1000 ]]; then
+            if [[ "${PKG_COUNT}" -ge 100 ]]; then
                cp -fv "${SYSTMP}/REPO_DUMP.json" "${GITHUB_WORKSPACE}/main/data/REPO_DUMP.json"
             fi
           fi
           ##Copy (PKGS_CLI_ONLY.json)
           if [[ -s "${SYSTMP}/PKGS_CLI_ONLY.json" && $(stat -c%s "${SYSTMP}/PKGS_CLI_ONLY.json") -gt 1024 ]]; then
             PKG_COUNT="$(jq -r '.[] | .name' "${SYSTMP}/PKGS_CLI_ONLY.json" | grep -iv 'null' | sort -u | wc -l | tr -d '[:space:]')"
-            if [[ "${PKG_COUNT}" -ge 1000 ]]; then
+            if [[ "${PKG_COUNT}" -ge 100 ]]; then
                cp -fv "${SYSTMP}/PKGS_CLI_ONLY.json" "${GITHUB_WORKSPACE}/main/data/PKGS_CLI_ONLY.json"
             fi
           fi
