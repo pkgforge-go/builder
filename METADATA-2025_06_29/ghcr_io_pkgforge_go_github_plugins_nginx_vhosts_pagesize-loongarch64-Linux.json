@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "pagesize",
+  "pkg_family": "nginx-vhosts",
+  "pkg_id": "pagesize#github.com_dokku_dokku_plugins_nginx_vhosts",
+  "pkg_name": "pagesize",
+  "pkg_type": "static",
+  "pkg_webpage": "https://dokku.com",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A docker-powered PaaS that helps you build and manage the lifecycle of applications",
+  "homepage": [
+    "https://dokku.com"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pagesize"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/dokku/dokku/plugins/nginx-vhosts/@v/v0.0.0-20250618161309-8d0c35f1333c.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250618161309-8d0c35f1333c",
+  "version_upstream": "",
+  "bsum": "7a85895b986fb3cdf31c33a45c37a37c01f79a64e8e3b92559dd6fe0eb63b1c0",
+  "build_date": "2025-06-29T23:27:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15960288479",
+  "build_id": "15960288479",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/plugins/nginx-vhosts/pagesize?tag=v0.0.0-20250618161309-8d0c35f1333c-loongarch64-Linux&download=pagesize.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "30709",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/plugins/nginx-vhosts/pagesize?tag=v0.0.0-20250618161309-8d0c35f1333c-loongarch64-Linux&download=pagesize",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/plugins/nginx-vhosts/pagesize:v0.0.0-20250618161309-8d0c35f1333c-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/plugins/nginx-vhosts/pagesize",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/plugins/nginx-vhosts/pagesize?tag=v0.0.0-20250618161309-8d0c35f1333c-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c2adce81332466874d7a4346f933e1615bf6058f3c15ea038c01ffbe897dc38e",
+  "size": "1.6 MB",
+  "size_raw": "1642520",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
