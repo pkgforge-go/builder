@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "slack-bot",
+  "pkg_family": "sillybot",
+  "pkg_id": "slack-bot#github.com_maruel_sillybot",
+  "pkg_name": "slack-bot",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/maruel/sillybot",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A simple Discord&Slack bot that runs LLM (Llama-3, Phi-3, Gemma-2, Mistral) and Stable Diffusion",
+  "homepage": [
+    "https://github.com/maruel/sillybot"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bsky-bot",
+    "discord-bot",
+    "slack-bot"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/maruel/sillybot/@v/v0.0.0-20250613193351-2e3673a7902b.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250613193351-2e3673a7902b",
+  "version_upstream": "",
+  "bsum": "cdc1c4afd0260b1f9b1d3762cf1ee6d5bfd7db1378addf026b5274a602ae0466",
+  "build_date": "2025-06-30T20:39:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15982679919",
+  "build_id": "15982679919",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/maruel/sillybot/slack-bot?tag=v0.0.0-20250613193351-2e3673a7902b-aarch64-Linux&download=slack-bot.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/maruel/sillybot/slack-bot?tag=v0.0.0-20250613193351-2e3673a7902b-aarch64-Linux&download=slack-bot",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/maruel/sillybot/slack-bot:v0.0.0-20250613193351-2e3673a7902b-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/maruel/sillybot/slack-bot",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/maruel/sillybot/slack-bot?tag=v0.0.0-20250613193351-2e3673a7902b-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "39358182774ad6c602e66d4c8117ff629dadb55d17fbe86e7bc09a03377f114d",
+  "size": "9.7 MB",
+  "size_raw": "10159520",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
