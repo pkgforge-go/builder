@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "proxy",
+  "pkg_family": "battools",
+  "pkg_id": "proxy#github.com_kahlys_battools",
+  "pkg_name": "proxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kahlys/battools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Personnal tools",
+  "homepage": [
+    "https://github.com/kahlys/battools"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "basespy",
+    "geninter",
+    "oracle",
+    "osv-viewer",
+    "pika",
+    "proxy",
+    "test",
+    "wanda"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/kahlys/battools/@v/v0.0.0-20250514141100-2b66616e4e80.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250514141100-2b66616e4e80",
+  "version_upstream": "",
+  "bsum": "dd2f59790d45b2ac8c9c8b0510c94d9b035a3d4c7199b174608500469085d746",
+  "build_date": "2025-06-30T16:45:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15978024123",
+  "build_id": "15978024123",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kahlys/battools/proxy?tag=v0.0.0-20250514141100-2b66616e4e80-loongarch64-Linux&download=proxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kahlys/battools/proxy?tag=v0.0.0-20250514141100-2b66616e4e80-loongarch64-Linux&download=proxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kahlys/battools/proxy:v0.0.0-20250514141100-2b66616e4e80-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kahlys/battools/proxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kahlys/battools/proxy?tag=v0.0.0-20250514141100-2b66616e4e80-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fea909d105ad536d94dd4a312a873f95eb4a861ce946caababdf9cc6e92eee56",
+  "size": "4.8 MB",
+  "size_raw": "4998816",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
