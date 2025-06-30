@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "baseimage",
+  "pkg_family": "baseimage",
+  "pkg_id": "baseimage#github.com_google_android_cuttlefish_tools_baseimage",
+  "pkg_name": "baseimage",
+  "pkg_type": "static",
+  "pkg_webpage": "https://source.android.com/setup/create/cuttlefish",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cuttlefish host support debian package",
+  "homepage": [
+    "https://source.android.com/setup/create/cuttlefish"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "baseimage"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/google/android-cuttlefish/tools/baseimage/@v/v0.0.0-20250627234742-012697ff9b7a.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250627234742-012697ff9b7a",
+  "version_upstream": "",
+  "bsum": "78dbd1438a1d7c3aa163c87be2b2b28a8b2dff8a65392e87452971cfc33c9fa8",
+  "build_date": "2025-06-30T10:12:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15969640913",
+  "build_id": "15969640913",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/android-cuttlefish/tools/baseimage/baseimage?tag=v0.0.0-20250627234742-012697ff9b7a-aarch64-Linux&download=baseimage.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "501",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/android-cuttlefish/tools/baseimage/baseimage?tag=v0.0.0-20250627234742-012697ff9b7a-aarch64-Linux&download=baseimage",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/google/android-cuttlefish/tools/baseimage/baseimage:v0.0.0-20250627234742-012697ff9b7a-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/google/android-cuttlefish/tools/baseimage/baseimage",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/android-cuttlefish/tools/baseimage/baseimage?tag=v0.0.0-20250627234742-012697ff9b7a-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b48b5437fbf741c8ee83cce6dbdc69ab90bc9e947135d6b0e50c3b23b8da653b",
+  "size": "15 MB",
+  "size_raw": "15587456",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
