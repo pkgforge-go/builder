@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "dns-prime",
+  "pkg_family": "dns-prime",
+  "pkg_id": "dns-prime#github.com_jimmystewpot_dns_prime",
+  "pkg_name": "dns-prime",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jimmystewpot/dns-prime",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Dns-prime will prime a dns cache with ptr records to avoid massive latency over satellite time outs for SMTP reverse lookups",
+  "homepage": [
+    "https://github.com/jimmystewpot/dns-prime"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dns-prime"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/jimmystewpot/dns-prime/@v/v0.0.0-20250512193321-b9639b238e02.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250512193321-b9639b238e02",
+  "version_upstream": "",
+  "bsum": "7ae8c4e5bd63aebfb8019787197e33f4c5baf0ebe7e444a6f3cf1432340ef8c0",
+  "build_date": "2025-06-30T15:01:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15975703761",
+  "build_id": "15975703761",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jimmystewpot/dns-prime/dns-prime?tag=v0.0.0-20250512193321-b9639b238e02-riscv64-Linux&download=dns-prime.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jimmystewpot/dns-prime/dns-prime?tag=v0.0.0-20250512193321-b9639b238e02-riscv64-Linux&download=dns-prime",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jimmystewpot/dns-prime/dns-prime:v0.0.0-20250512193321-b9639b238e02-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jimmystewpot/dns-prime/dns-prime",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jimmystewpot/dns-prime/dns-prime?tag=v0.0.0-20250512193321-b9639b238e02-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7f7e924f5c218ecc12cda97d9d17ec0798234e3bba57b94b4e49365e601d18bf",
+  "size": "2.3 MB",
+  "size_raw": "2320872",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
