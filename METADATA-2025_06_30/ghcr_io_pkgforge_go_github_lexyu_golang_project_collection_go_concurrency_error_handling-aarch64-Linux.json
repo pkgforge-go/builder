@@ -1,0 +1,93 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "error_handling",
+  "pkg_family": "go-concurrency",
+  "pkg_id": "error_handling#github.com_lexyu_golang_project_collection_go_concurrency",
+  "pkg_name": "error_handling",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lexyu-golang-project-collection/go-concurrency",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go Concurrency Usages Practices",
+  "homepage": [
+    "https://github.com/lexyu-golang-project-collection/go-concurrency"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "01-boring",
+    "02-chan",
+    "03-generator",
+    "04-fanin",
+    "06-select-timeout",
+    "07-quit-signal",
+    "09-google1.0",
+    "10-google2.0",
+    "11-google2.1",
+    "12-google3.0",
+    "14-adv-subscription",
+    "15-bounded-parallelism",
+    "17-ring-buffer-channel",
+    "basic",
+    "cancel",
+    "close_and_range",
+    "deadlock_panic",
+    "deadlocks",
+    "error",
+    "error_handling",
+    "go-fanout",
+    "graceful_shutdown",
+    "mem_leak",
+    "misuse",
+    "nil_chan",
+    "race_cond",
+    "resource_leak",
+    "timeout",
+    "trasmit",
+    "with_select_retry_jitter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/lexyu-golang-project-collection/go-concurrency/@v/v0.0.0-20250615135617-4386f9079d61.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250615135617-4386f9079d61",
+  "version_upstream": "",
+  "bsum": "010e925c34cb82b50b375d2eff1f7f9c92b7a3dd9c72f78b41177e2380416c22",
+  "build_date": "2025-06-30T19:32:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15981395550",
+  "build_id": "15981395550",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lexyu-golang-project-collection/go-concurrency/error_handling?tag=v0.0.0-20250615135617-4386f9079d61-aarch64-Linux&download=error_handling.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lexyu-golang-project-collection/go-concurrency/error_handling?tag=v0.0.0-20250615135617-4386f9079d61-aarch64-Linux&download=error_handling",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lexyu-golang-project-collection/go-concurrency/error_handling:v0.0.0-20250615135617-4386f9079d61-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lexyu-golang-project-collection/go-concurrency/error_handling",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lexyu-golang-project-collection/go-concurrency/error_handling?tag=v0.0.0-20250615135617-4386f9079d61-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cdeefb1f104ea04c76a1e0858b2a622ff8c2013d005b90e7171e98c9c4997ef3",
+  "size": "1.6 MB",
+  "size_raw": "1648184",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
