@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "wslistener",
+  "pkg_family": "ransimware",
+  "pkg_id": "wslistener#github.com_mjwhitta_ransimware",
+  "pkg_name": "wslistener",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mjwhitta/ransimware",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Simulate ransomware behavior and techniques",
+  "homepage": [
+    "https://github.com/mjwhitta/ransimware"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "genrsa",
+    "httplistener",
+    "ransimware",
+    "wslistener"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/mjwhitta/ransimware/@v/v0.29.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.29.1",
+  "version_upstream": "",
+  "bsum": "5c14c6b43aa5e76349dcad5bfd6f9c1976d3ba86b33f231910d52a90e0959a2a",
+  "build_date": "2025-06-30T22:34:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15984552131",
+  "build_id": "15984552131",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mjwhitta/ransimware/wslistener?tag=v0.29.1-riscv64-Linux&download=wslistener.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mjwhitta/ransimware/wslistener?tag=v0.29.1-riscv64-Linux&download=wslistener",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mjwhitta/ransimware/wslistener:v0.29.1-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mjwhitta/ransimware/wslistener",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mjwhitta/ransimware/wslistener?tag=v0.29.1-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5f4405faa07afb4364323bf5d48d50d4efc001b6e32ff014a17911b1cff6f0eb",
+  "size": "6.2 MB",
+  "size_raw": "6402904",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
