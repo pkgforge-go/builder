@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "apiversion",
+  "pkg_family": "tooling",
+  "pkg_id": "apiversion#github.com_gravitational_teleport_build.assets_tooling",
+  "pkg_name": "apiversion",
+  "pkg_type": "static",
+  "pkg_webpage": "https://goteleport.com",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The easiest, and most secure way to access and protect all of your infrastructure",
+  "homepage": [
+    "https://goteleport.com"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apiversion",
+    "check",
+    "difftest",
+    "goderive",
+    "protoc-gen-eventschema",
+    "query-latest",
+    "render-helm-ref",
+    "render-tests",
+    "rerun",
+    "update-plist-version"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/gravitational/teleport/build.assets/tooling/@v/v0.0.0-20250627210727-059fb3740a3a.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250627210727-059fb3740a3a",
+  "version_upstream": "",
+  "bsum": "d6072944fb84e65b41ba320c6fb5ca9bfd106c8422a60f17b1a4e3b6630c398a",
+  "build_date": "2025-06-30T10:43:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15969936623",
+  "build_id": "15969936623",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gravitational/teleport/build.assets/tooling/apiversion?tag=v0.0.0-20250627210727-059fb3740a3a-x86_64-Linux&download=apiversion.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18696",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gravitational/teleport/build.assets/tooling/apiversion?tag=v0.0.0-20250627210727-059fb3740a3a-x86_64-Linux&download=apiversion",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gravitational/teleport/build.assets/tooling/apiversion:v0.0.0-20250627210727-059fb3740a3a-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gravitational/teleport/build.assets/tooling/apiversion",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gravitational/teleport/build.assets/tooling/apiversion?tag=v0.0.0-20250627210727-059fb3740a3a-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "da512dc57ca81ba77a3eba86628e036ab62c84004017fff281bb80b18423fdc1",
+  "size": "3.2 MB",
+  "size_raw": "3263832",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
