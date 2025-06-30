@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "check-update",
+  "pkg_family": "kernel-ntc-chip",
+  "pkg_id": "check-update#github.com_jshield_kernel_ntc_chip",
+  "pkg_name": "check-update",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jshield/kernel-ntc-chip",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Gokrazy kernel for the NTC CHIP and compatible boards",
+  "homepage": [
+    "https://github.com/jshield/kernel-ntc-chip"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check-update",
+    "compile"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/jshield/kernel-ntc-chip/@v/v1.0.2-6.15.4.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.2-6.15.4",
+  "version_upstream": "",
+  "bsum": "c1bfab10f283040eed6f311bf4d56d28c9d2200d1f764c8c600233634b9c220b",
+  "build_date": "2025-06-30T16:21:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15977720366",
+  "build_id": "15977720366",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jshield/kernel-ntc-chip/check-update?tag=v1.0.2-6.15.4-loongarch64-Linux&download=check-update.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jshield/kernel-ntc-chip/check-update?tag=v1.0.2-6.15.4-loongarch64-Linux&download=check-update",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jshield/kernel-ntc-chip/check-update:v1.0.2-6.15.4-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jshield/kernel-ntc-chip/check-update",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jshield/kernel-ntc-chip/check-update?tag=v1.0.2-6.15.4-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a64be2cac1eeeb06e9cf33b9b3cf006daa7f67387baa1443948e6bf78d61cdcd",
+  "size": "6.1 MB",
+  "size_raw": "6320768",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
