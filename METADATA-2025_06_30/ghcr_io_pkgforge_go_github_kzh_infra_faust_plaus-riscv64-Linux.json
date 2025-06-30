@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "plaus",
+  "pkg_family": "infra-faust",
+  "pkg_id": "plaus#github.com_kzh_infra_faust",
+  "pkg_name": "plaus",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kzh/infra-faust",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Infra for me (pulumi, k8s, pki, etc",
+  "homepage": [
+    "https://github.com/kzh/infra-faust"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "connect",
+    "mx",
+    "plaus"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/kzh/infra-faust/@v/v0.0.0-20250409031208-87184231ba98.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250409031208-87184231ba98",
+  "version_upstream": "",
+  "bsum": "bec2f6b329e11c33020ed601ceff75cbfdc11646b9baca4d75ab094dae0353cc",
+  "build_date": "2025-06-30T19:08:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15981299337",
+  "build_id": "15981299337",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kzh/infra-faust/plaus?tag=v0.0.0-20250409031208-87184231ba98-riscv64-Linux&download=plaus.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kzh/infra-faust/plaus?tag=v0.0.0-20250409031208-87184231ba98-riscv64-Linux&download=plaus",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kzh/infra-faust/plaus:v0.0.0-20250409031208-87184231ba98-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kzh/infra-faust/plaus",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kzh/infra-faust/plaus?tag=v0.0.0-20250409031208-87184231ba98-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b933b6a6cc14a084dafea1b8185ac7877a9dc58bc9a3220cb31222ba7a067742",
+  "size": "120 MB",
+  "size_raw": "125739256",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
