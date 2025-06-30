@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "goverify",
+  "pkg_family": "go-uefi",
+  "pkg_id": "goverify#github.com_foxboron_go_uefi",
+  "pkg_name": "goverify",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/foxboron/go-uefi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Linux UEFI library written in pure Go",
+  "homepage": [
+    "https://github.com/foxboron/go-uefi"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appendmicrosoft",
+    "efianalyze",
+    "gosiglist",
+    "gosign",
+    "govarsign",
+    "goverify",
+    "gowritevar"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/foxboron/go-uefi/@v/v0.0.0-20250625111927-a3183a1bfc84.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250625111927-a3183a1bfc84",
+  "version_upstream": "",
+  "bsum": "9d284086da9ae3d99ae3c01a440a5a5b7c4c9d7df496d8ed4116744f44910f8f",
+  "build_date": "2025-06-30T04:08:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15963065186",
+  "build_id": "15963065186",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foxboron/go-uefi/goverify?tag=v0.0.0-20250625111927-a3183a1bfc84-aarch64-Linux&download=goverify.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "150",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foxboron/go-uefi/goverify?tag=v0.0.0-20250625111927-a3183a1bfc84-aarch64-Linux&download=goverify",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/foxboron/go-uefi/goverify:v0.0.0-20250625111927-a3183a1bfc84-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/foxboron/go-uefi/goverify",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foxboron/go-uefi/goverify?tag=v0.0.0-20250625111927-a3183a1bfc84-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8b718fcd6daf9ce7e8b988a3052c2ad27f8aa3069cb53309d8a2734b53ea9b03",
+  "size": "4.1 MB",
+  "size_raw": "4284352",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-3915337-250618T225220-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
