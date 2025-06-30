@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "mqttproducer",
+  "pkg_family": "shelly-mqtt-to-influx",
+  "pkg_id": "mqttproducer#github.com_mistadave_shelly_mqtt_to_influx",
+  "pkg_name": "mqttproducer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mistadave/shelly-mqtt-to-influx",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Shelly mqtt consumer which pushes data to influxdb",
+  "homepage": [
+    "https://github.com/mistadave/shelly-mqtt-to-influx"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mqttproducer",
+    "shelly-mqtt-to-influx"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/mistadave/shelly-mqtt-to-influx/@v/v0.0.0-20250627094651-44ca2bc78d59.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250627094651-44ca2bc78d59",
+  "version_upstream": "",
+  "bsum": "9e8bbe85df99deeeeca3e5cd69222c2c024221902d2dbb8b0740c34b2e34353e",
+  "build_date": "2025-06-30T22:29:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15984521329",
+  "build_id": "15984521329",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mistadave/shelly-mqtt-to-influx/mqttproducer?tag=v0.0.0-20250627094651-44ca2bc78d59-loongarch64-Linux&download=mqttproducer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mistadave/shelly-mqtt-to-influx/mqttproducer?tag=v0.0.0-20250627094651-44ca2bc78d59-loongarch64-Linux&download=mqttproducer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mistadave/shelly-mqtt-to-influx/mqttproducer:v0.0.0-20250627094651-44ca2bc78d59-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mistadave/shelly-mqtt-to-influx/mqttproducer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mistadave/shelly-mqtt-to-influx/mqttproducer?tag=v0.0.0-20250627094651-44ca2bc78d59-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2fe1e5a6ac30954b370b174467eed9f1ee59f66ea56de231eec95cb57bd7ca6f",
+  "size": "5.6 MB",
+  "size_raw": "5839456",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
