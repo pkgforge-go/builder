@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "extra",
+  "pkg_family": "uptime-kuma",
+  "pkg_id": "extra#github.com_louislam_uptime_kuma",
+  "pkg_name": "extra",
+  "pkg_type": "static",
+  "pkg_webpage": "https://uptime.kuma.pet",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A fancy self-hosted monitoring tool",
+  "homepage": [
+    "https://uptime.kuma.pet"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "extra",
+    "go",
+    "uptime-kuma-push"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/louislam/uptime-kuma/@v/v0.0.0-20250630003741-9506b3a16be5.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250630003741-9506b3a16be5",
+  "version_upstream": "",
+  "bsum": "2ad8d7de8f7dd512a2c1714a9925a5d4f8a3990af18b86052d67e52928d8ee3b",
+  "build_date": "2025-06-30T19:56:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15982059997",
+  "build_id": "15982059997",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/louislam/uptime-kuma/extra?tag=v0.0.0-20250630003741-9506b3a16be5-x86_64-Linux&download=extra.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "71153",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/louislam/uptime-kuma/extra?tag=v0.0.0-20250630003741-9506b3a16be5-x86_64-Linux&download=extra",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/louislam/uptime-kuma/extra:v0.0.0-20250630003741-9506b3a16be5-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/louislam/uptime-kuma/extra",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/louislam/uptime-kuma/extra?tag=v0.0.0-20250630003741-9506b3a16be5-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "18da1a3b57a16fd2e7c2fba1a2c516f76ef757824d13753c5757a4965358dbe3",
+  "size": "6.0 MB",
+  "size_raw": "6194240",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
