@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "agent-bench",
+  "pkg_family": "ssh-agent-win",
+  "pkg_id": "agent-bench#github.com_masahide_ssh_agent_win",
+  "pkg_name": "agent-bench",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/masahide/ssh-agent-win",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Integrated ssh-agent for windows. (pageant compatible. openSSH ssh-agent etc",
+  "homepage": [
+    "https://github.com/masahide/ssh-agent-win"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent-bench",
+    "test",
+    "wsl2-ssh-agent-proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/masahide/ssh-agent-win/@v/v0.5.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.5.1",
+  "version_upstream": "",
+  "bsum": "d82a847ec7b3b628654a2293dc3384b6c76ab1d4b08f8dd14ba446e8df97d7fb",
+  "build_date": "2025-06-30T20:41:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15982681646",
+  "build_id": "15982681646",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/masahide/ssh-agent-win/agent-bench?tag=v0.5.1-x86_64-Linux&download=agent-bench.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "142",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/masahide/ssh-agent-win/agent-bench?tag=v0.5.1-x86_64-Linux&download=agent-bench",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/masahide/ssh-agent-win/agent-bench:v0.5.1-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/masahide/ssh-agent-win/agent-bench",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/masahide/ssh-agent-win/agent-bench?tag=v0.5.1-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "74a562831557d04eb3d72cd40649e7f886d5865b5f5c7ceb11f7011cc5dd2c10",
+  "size": "3.8 MB",
+  "size_raw": "3924928",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "wsl2-ssh-agent-proxy",
+  "pkg_family": "ssh-agent-win",
+  "pkg_id": "wsl2-ssh-agent-proxy#github.com_masahide_ssh_agent_win",
+  "pkg_name": "wsl2-ssh-agent-proxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/masahide/ssh-agent-win",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Integrated ssh-agent for windows. (pageant compatible. openSSH ssh-agent etc",
+  "homepage": [
+    "https://github.com/masahide/ssh-agent-win"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent-bench",
+    "test",
+    "wsl2-ssh-agent-proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/masahide/ssh-agent-win/@v/v0.5.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.5.1",
+  "version_upstream": "",
+  "bsum": "dea50c92e0bc47a51290d19ee39acbe60e62b89ebe0b206cedf9cd8b521563a3",
+  "build_date": "2025-06-30T20:41:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15982681646",
+  "build_id": "15982681646",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/masahide/ssh-agent-win/wsl2-ssh-agent-proxy?tag=v0.5.1-x86_64-Linux&download=wsl2-ssh-agent-proxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "142",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/masahide/ssh-agent-win/wsl2-ssh-agent-proxy?tag=v0.5.1-x86_64-Linux&download=wsl2-ssh-agent-proxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/masahide/ssh-agent-win/wsl2-ssh-agent-proxy:v0.5.1-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/masahide/ssh-agent-win/wsl2-ssh-agent-proxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/masahide/ssh-agent-win/wsl2-ssh-agent-proxy?tag=v0.5.1-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7a2258e575fc342868727a735f7ae6ffe044186cdf50c9a2594f4473208f9b55",
+  "size": "2.7 MB",
+  "size_raw": "2750968",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
