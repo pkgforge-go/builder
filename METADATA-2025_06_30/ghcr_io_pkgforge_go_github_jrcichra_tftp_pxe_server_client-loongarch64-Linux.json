@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "client",
+  "pkg_family": "tftp-pxe-server",
+  "pkg_id": "client#github.com_jrcichra_tftp_pxe_server",
+  "pkg_name": "client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jrcichra/tftp-pxe-server",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A modern TFTP PXE server designed for supporting multiple Raspberry Pis",
+  "homepage": [
+    "https://github.com/jrcichra/tftp-pxe-server"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/jrcichra/tftp-pxe-server/@v/v0.0.0-20250603122119-5bcacd5b1ccd.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250603122119-5bcacd5b1ccd",
+  "version_upstream": "",
+  "bsum": "24b6cf9261f95c95b82711e65b5845a88dbba33ea958f07aecf861a3c9fde354",
+  "build_date": "2025-06-30T16:21:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15977718150",
+  "build_id": "15977718150",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jrcichra/tftp-pxe-server/client?tag=v0.0.0-20250603122119-5bcacd5b1ccd-loongarch64-Linux&download=client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jrcichra/tftp-pxe-server/client?tag=v0.0.0-20250603122119-5bcacd5b1ccd-loongarch64-Linux&download=client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jrcichra/tftp-pxe-server/client:v0.0.0-20250603122119-5bcacd5b1ccd-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jrcichra/tftp-pxe-server/client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jrcichra/tftp-pxe-server/client?tag=v0.0.0-20250603122119-5bcacd5b1ccd-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0420f718a73a9df005dc6e50362aaf666c25eeb58f4e2d371e6d6b25e5ce9e4c",
+  "size": "2.5 MB",
+  "size_raw": "2582072",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
