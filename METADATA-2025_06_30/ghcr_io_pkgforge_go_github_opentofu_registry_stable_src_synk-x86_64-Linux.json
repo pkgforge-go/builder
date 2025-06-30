@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "synk",
+  "pkg_family": "src",
+  "pkg_id": "synk#github.com_opentofu_registry_stable_src",
+  "pkg_name": "synk",
+  "pkg_type": "static",
+  "pkg_webpage": "https://search.opentofu.org",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Metadata and tooling for the OpenTofu registry",
+  "homepage": [
+    "https://search.opentofu.org"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "app-rollout-controller",
+    "chart-assignment-controller",
+    "cr-syncer",
+    "cr-syncer-auth-webhook",
+    "gcr-credential-refresher",
+    "metadata-server",
+    "setup-dev",
+    "setup-robot",
+    "synk",
+    "token-vendor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/googlecloudrobotics/core/src/@v/v0.0.0-20250625181549-d33cad2b0bac.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250630000214-b212b9918d81",
+  "version_upstream": "",
+  "bsum": "c040cf0e8aa8d3620b9cd52d0b3ec6f0eade83880005db167244d30d6322ccaf",
+  "build_date": "2025-06-30T10:33:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15969702484",
+  "build_id": "15969702484",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opentofu/registry-stable/src/synk?tag=v0.0.0-20250630000214-b212b9918d81-x86_64-Linux&download=synk.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "373",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opentofu/registry-stable/src/synk?tag=v0.0.0-20250630000214-b212b9918d81-x86_64-Linux&download=synk",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/opentofu/registry-stable/src/synk:v0.0.0-20250630000214-b212b9918d81-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/opentofu/registry-stable/src/synk",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opentofu/registry-stable/src/synk?tag=v0.0.0-20250630000214-b212b9918d81-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3df4fca111ffe8cd9045fb0281329fe7ca118359b79d1a02db4e3a336d96d5d9",
+  "size": "50 MB",
+  "size_raw": "52299648",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

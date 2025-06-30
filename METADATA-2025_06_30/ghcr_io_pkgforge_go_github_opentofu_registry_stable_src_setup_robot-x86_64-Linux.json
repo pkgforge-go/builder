@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "setup-robot",
+  "pkg_family": "src",
+  "pkg_id": "setup-robot#github.com_opentofu_registry_stable_src",
+  "pkg_name": "setup-robot",
+  "pkg_type": "static",
+  "pkg_webpage": "https://search.opentofu.org",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Metadata and tooling for the OpenTofu registry",
+  "homepage": [
+    "https://search.opentofu.org"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "app-rollout-controller",
+    "chart-assignment-controller",
+    "cr-syncer",
+    "cr-syncer-auth-webhook",
+    "gcr-credential-refresher",
+    "metadata-server",
+    "setup-dev",
+    "setup-robot",
+    "synk",
+    "token-vendor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/googlecloudrobotics/core/src/@v/v0.0.0-20250625181549-d33cad2b0bac.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250630000214-b212b9918d81",
+  "version_upstream": "",
+  "bsum": "d6dca9af821d2ad0b93d86a4089605dc2c89a21fb5354f2b96f0944a92aa392c",
+  "build_date": "2025-06-30T10:32:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15969702484",
+  "build_id": "15969702484",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opentofu/registry-stable/src/setup-robot?tag=v0.0.0-20250630000214-b212b9918d81-x86_64-Linux&download=setup-robot.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "373",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opentofu/registry-stable/src/setup-robot?tag=v0.0.0-20250630000214-b212b9918d81-x86_64-Linux&download=setup-robot",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/opentofu/registry-stable/src/setup-robot:v0.0.0-20250630000214-b212b9918d81-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/opentofu/registry-stable/src/setup-robot",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opentofu/registry-stable/src/setup-robot?tag=v0.0.0-20250630000214-b212b9918d81-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2876031b92319c2570d6c4fd4398046acebf7036b868f51a9e6287a596fa3278",
+  "size": "45 MB",
+  "size_raw": "46828320",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
