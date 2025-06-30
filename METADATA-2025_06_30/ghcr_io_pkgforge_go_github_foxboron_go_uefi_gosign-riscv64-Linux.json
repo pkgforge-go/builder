@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gosign",
+  "pkg_family": "go-uefi",
+  "pkg_id": "gosign#github.com_foxboron_go_uefi",
+  "pkg_name": "gosign",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/foxboron/go-uefi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Linux UEFI library written in pure Go",
+  "homepage": [
+    "https://github.com/foxboron/go-uefi"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appendmicrosoft",
+    "efianalyze",
+    "gosiglist",
+    "gosign",
+    "govarsign",
+    "goverify",
+    "gowritevar"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/foxboron/go-uefi/@v/v0.0.0-20250625111927-a3183a1bfc84.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250625111927-a3183a1bfc84",
+  "version_upstream": "",
+  "bsum": "9b83ff37b52b9651643a11ba9b42056bc000f4468dd37ea4266a37e28d6d1efa",
+  "build_date": "2025-06-30T04:09:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15963065186",
+  "build_id": "15963065186",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foxboron/go-uefi/gosign?tag=v0.0.0-20250625111927-a3183a1bfc84-riscv64-Linux&download=gosign.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "150",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foxboron/go-uefi/gosign?tag=v0.0.0-20250625111927-a3183a1bfc84-riscv64-Linux&download=gosign",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/foxboron/go-uefi/gosign:v0.0.0-20250625111927-a3183a1bfc84-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/foxboron/go-uefi/gosign",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foxboron/go-uefi/gosign?tag=v0.0.0-20250625111927-a3183a1bfc84-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ada0e5d97a6ef9d355b8f3335aac5246584b65628c6a32516e072d8759650160",
+  "size": "4.3 MB",
+  "size_raw": "4428600",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-3915337-250618T225220-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
