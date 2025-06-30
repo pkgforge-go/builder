@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "gosiglist",
+  "pkg_family": "go-uefi",
+  "pkg_id": "gosiglist#github.com_foxboron_go_uefi",
+  "pkg_name": "gosiglist",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/foxboron/go-uefi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Linux UEFI library written in pure Go",
+  "homepage": [
+    "https://github.com/foxboron/go-uefi"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appendmicrosoft",
+    "efianalyze",
+    "gosiglist",
+    "gosign",
+    "govarsign",
+    "goverify",
+    "gowritevar"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/foxboron/go-uefi/@v/v0.0.0-20250625111927-a3183a1bfc84.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250625111927-a3183a1bfc84",
+  "version_upstream": "",
+  "bsum": "fb1d2c9a4efa3ad8afa43e469458c0c49d3d0a3690abf33b240696d961af1fa2",
+  "build_date": "2025-06-30T04:08:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15963065186",
+  "build_id": "15963065186",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foxboron/go-uefi/gosiglist?tag=v0.0.0-20250625111927-a3183a1bfc84-loongarch64-Linux&download=gosiglist.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "150",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foxboron/go-uefi/gosiglist?tag=v0.0.0-20250625111927-a3183a1bfc84-loongarch64-Linux&download=gosiglist",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/foxboron/go-uefi/gosiglist:v0.0.0-20250625111927-a3183a1bfc84-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/foxboron/go-uefi/gosiglist",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foxboron/go-uefi/gosiglist?tag=v0.0.0-20250625111927-a3183a1bfc84-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a8ab61ecb2bfcf23cb9ac5cf7ed83f1413f162b972d7ccfbd345d9983b5344ee",
+  "size": "3.6 MB",
+  "size_raw": "3712576",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-3915337-250618T225220-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
