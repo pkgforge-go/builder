@@ -1,0 +1,93 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "resource_leak",
+  "pkg_family": "go-concurrency",
+  "pkg_id": "resource_leak#github.com_lexyu_golang_project_collection_go_concurrency",
+  "pkg_name": "resource_leak",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lexyu-golang-project-collection/go-concurrency",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go Concurrency Usages Practices",
+  "homepage": [
+    "https://github.com/lexyu-golang-project-collection/go-concurrency"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "01-boring",
+    "02-chan",
+    "03-generator",
+    "04-fanin",
+    "06-select-timeout",
+    "07-quit-signal",
+    "09-google1.0",
+    "10-google2.0",
+    "11-google2.1",
+    "12-google3.0",
+    "14-adv-subscription",
+    "15-bounded-parallelism",
+    "17-ring-buffer-channel",
+    "basic",
+    "cancel",
+    "close_and_range",
+    "deadlock_panic",
+    "deadlocks",
+    "error",
+    "error_handling",
+    "go-fanout",
+    "graceful_shutdown",
+    "mem_leak",
+    "misuse",
+    "nil_chan",
+    "race_cond",
+    "resource_leak",
+    "timeout",
+    "trasmit",
+    "with_select_retry_jitter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/lexyu-golang-project-collection/go-concurrency/@v/v0.0.0-20250615135617-4386f9079d61.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250615135617-4386f9079d61",
+  "version_upstream": "",
+  "bsum": "b2d19f802b7597fac2eb8f62dc71a7ca2a892161db4d83aa54feeb66477b7cbb",
+  "build_date": "2025-06-30T19:31:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15981395550",
+  "build_id": "15981395550",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lexyu-golang-project-collection/go-concurrency/resource_leak?tag=v0.0.0-20250615135617-4386f9079d61-loongarch64-Linux&download=resource_leak.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lexyu-golang-project-collection/go-concurrency/resource_leak?tag=v0.0.0-20250615135617-4386f9079d61-loongarch64-Linux&download=resource_leak",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lexyu-golang-project-collection/go-concurrency/resource_leak:v0.0.0-20250615135617-4386f9079d61-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lexyu-golang-project-collection/go-concurrency/resource_leak",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lexyu-golang-project-collection/go-concurrency/resource_leak?tag=v0.0.0-20250615135617-4386f9079d61-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5c820bb775d7a660d7e3764481ce4358bab9e10783161ca608c4999760c10fd0",
+  "size": "1.8 MB",
+  "size_raw": "1788824",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
