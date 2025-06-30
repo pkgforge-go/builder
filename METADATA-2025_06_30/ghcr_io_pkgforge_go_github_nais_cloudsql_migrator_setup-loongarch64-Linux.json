@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "setup",
+  "pkg_family": "cloudsql-migrator",
+  "pkg_id": "setup#github.com_nais_cloudsql_migrator",
+  "pkg_name": "setup",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nais/cloudsql-migrator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Manage migration between CloudSQL instances",
+  "homepage": [
+    "https://github.com/nais/cloudsql-migrator"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "finalize",
+    "promote",
+    "rollback",
+    "setup"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/nais/cloudsql-migrator/@v/v0.0.0-20250626070753-2567543a39d3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250626070753-2567543a39d3",
+  "version_upstream": "",
+  "bsum": "6a2d0ecddd7e10f5c468ccc13ac6e6ae2f496a730ba4a11efc3e098bd66a31d7",
+  "build_date": "2025-06-30T23:29:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15985320883",
+  "build_id": "15985320883",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/cloudsql-migrator/setup?tag=v0.0.0-20250626070753-2567543a39d3-loongarch64-Linux&download=setup.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/cloudsql-migrator/setup?tag=v0.0.0-20250626070753-2567543a39d3-loongarch64-Linux&download=setup",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nais/cloudsql-migrator/setup:v0.0.0-20250626070753-2567543a39d3-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nais/cloudsql-migrator/setup",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/cloudsql-migrator/setup?tag=v0.0.0-20250626070753-2567543a39d3-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "80c3a3b91b3bfd32d0e8116157efe9cc4623bd67f06654466d88b4b151ed4e6b",
+  "size": "57 MB",
+  "size_raw": "59312608",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
