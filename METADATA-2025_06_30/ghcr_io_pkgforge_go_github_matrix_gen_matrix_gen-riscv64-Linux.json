@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "matrix_gen",
+  "pkg_family": "matrix_gen",
+  "pkg_id": "matrix_gen#github.com_falcosecurity_kernel_testing_matrix_gen",
+  "pkg_name": "matrix_gen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://falcosecurity.github.io/libs/matrix/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Ansible playbooks to provision firecracker VMs and run Falco kernel tests",
+  "homepage": [
+    "https://falcosecurity.github.io/libs/matrix/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "matrix_gen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/falcosecurity/kernel-testing/matrix_gen/@v/v0.0.0-20250625075149-612c30d3c7d0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250625075149-612c30d3c7d0",
+  "version_upstream": "",
+  "bsum": "b39d9227a72b053487b840f37af473664bed3a4585e2b1f89865209b27e66810",
+  "build_date": "2025-06-30T03:34:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15962789330",
+  "build_id": "15962789330",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matrix/gen/matrix_gen?tag=v0.0.0-20250625075149-612c30d3c7d0-riscv64-Linux&download=matrix_gen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matrix/gen/matrix_gen?tag=v0.0.0-20250625075149-612c30d3c7d0-riscv64-Linux&download=matrix_gen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/matrix/gen/matrix_gen:v0.0.0-20250625075149-612c30d3c7d0-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/matrix/gen/matrix_gen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matrix/gen/matrix_gen?tag=v0.0.0-20250625075149-612c30d3c7d0-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c1ffc7739516657b5d561f50f15508fd138e6473ee7e5ebd0f8369dc1e13c216",
+  "size": "2.5 MB",
+  "size_raw": "2557192",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
