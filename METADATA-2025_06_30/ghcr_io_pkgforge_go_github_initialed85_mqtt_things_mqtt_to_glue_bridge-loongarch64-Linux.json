@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "mqtt_to_glue_bridge",
+  "pkg_family": "mqtt_things",
+  "pkg_id": "mqtt_to_glue_bridge#github.com_initialed85_mqtt_things",
+  "pkg_name": "mqtt_to_glue_bridge",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/initialed85/mqtt_things",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Some MQTT things exposed using Go",
+  "homepage": [
+    "https://github.com/initialed85/mqtt_things"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aircons_cli",
+    "circumstances_cli",
+    "heater_cli",
+    "http_cli",
+    "ir_learn_cli",
+    "lights_cli",
+    "mqtt_to_glue_bridge",
+    "sensors_cli",
+    "smart_aircons_cli",
+    "sprinklers_cli",
+    "switches_cli",
+    "topic_cli",
+    "topic_exporter_cli",
+    "weather_cli"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/initialed85/mqtt_things/@v/v0.0.0-20250628011600-671e25ab875e.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250628011600-671e25ab875e",
+  "version_upstream": "",
+  "bsum": "9e9897f9705c9732f2fcd0b8cb4fa84abd8627adb15e1387ee7451eb149f2d3b",
+  "build_date": "2025-06-30T13:43:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15973872624",
+  "build_id": "15973872624",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/initialed85/mqtt/things/mqtt_to_glue_bridge?tag=v0.0.0-20250628011600-671e25ab875e-loongarch64-Linux&download=mqtt_to_glue_bridge.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/initialed85/mqtt/things/mqtt_to_glue_bridge?tag=v0.0.0-20250628011600-671e25ab875e-loongarch64-Linux&download=mqtt_to_glue_bridge",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/initialed85/mqtt/things/mqtt_to_glue_bridge:v0.0.0-20250628011600-671e25ab875e-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/initialed85/mqtt/things/mqtt_to_glue_bridge",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/initialed85/mqtt/things/mqtt_to_glue_bridge?tag=v0.0.0-20250628011600-671e25ab875e-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f91f9dd046c64b652c1185851934bf6541eafbf8bd492173313d3897348af057",
+  "size": "5.7 MB",
+  "size_raw": "5972032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
