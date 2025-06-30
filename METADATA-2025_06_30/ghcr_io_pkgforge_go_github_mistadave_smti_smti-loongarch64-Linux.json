@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "smti",
+  "pkg_family": "smti",
+  "pkg_id": "smti#github.com_mistadave_smti",
+  "pkg_name": "smti",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mistadave/smti",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Shelly mqtt consumer which pushes data to influxdb",
+  "homepage": [
+    "https://github.com/mistadave/smti"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mqttproducer",
+    "smti"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/mistadave/smti/@v/v0.0.0-20250627094651-44ca2bc78d59.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250627094651-44ca2bc78d59",
+  "version_upstream": "",
+  "bsum": "a87edc6efe310aa259919850a2e2e078a246a02c767420cd8744a5430984436c",
+  "build_date": "2025-06-30T22:31:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15984522024",
+  "build_id": "15984522024",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mistadave/smti/smti?tag=v0.0.0-20250627094651-44ca2bc78d59-loongarch64-Linux&download=smti.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mistadave/smti/smti?tag=v0.0.0-20250627094651-44ca2bc78d59-loongarch64-Linux&download=smti",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mistadave/smti/smti:v0.0.0-20250627094651-44ca2bc78d59-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mistadave/smti/smti",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mistadave/smti/smti?tag=v0.0.0-20250627094651-44ca2bc78d59-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "69f9597ccf65cacefd234e49caad6d80d95093a140b0f0aed9f279605c913486",
+  "size": "7.1 MB",
+  "size_raw": "7353632",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
