@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "sprinklers_cli",
+  "pkg_family": "mqtt_things",
+  "pkg_id": "sprinklers_cli#github.com_initialed85_mqtt_things",
+  "pkg_name": "sprinklers_cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/initialed85/mqtt_things",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Some MQTT things exposed using Go",
+  "homepage": [
+    "https://github.com/initialed85/mqtt_things"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aircons_cli",
+    "circumstances_cli",
+    "heater_cli",
+    "http_cli",
+    "ir_learn_cli",
+    "lights_cli",
+    "mqtt_to_glue_bridge",
+    "sensors_cli",
+    "smart_aircons_cli",
+    "sprinklers_cli",
+    "switches_cli",
+    "topic_cli",
+    "topic_exporter_cli",
+    "weather_cli"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/initialed85/mqtt_things/@v/v0.0.0-20250628011600-671e25ab875e.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250628011600-671e25ab875e",
+  "version_upstream": "",
+  "bsum": "c49552bc03b25f8c2410c1423ee4b95ad18f6c4540033109456bbe5030775b6f",
+  "build_date": "2025-06-30T13:41:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15973872624",
+  "build_id": "15973872624",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/initialed85/mqtt/things/sprinklers_cli?tag=v0.0.0-20250628011600-671e25ab875e-aarch64-Linux&download=sprinklers_cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/initialed85/mqtt/things/sprinklers_cli?tag=v0.0.0-20250628011600-671e25ab875e-aarch64-Linux&download=sprinklers_cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/initialed85/mqtt/things/sprinklers_cli:v0.0.0-20250628011600-671e25ab875e-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/initialed85/mqtt/things/sprinklers_cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/initialed85/mqtt/things/sprinklers_cli?tag=v0.0.0-20250628011600-671e25ab875e-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "91986e461a7f3f620757e2940e7e9178244c6516a242b98b6f665ab86a588e6a",
+  "size": "6.4 MB",
+  "size_raw": "6672192",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
