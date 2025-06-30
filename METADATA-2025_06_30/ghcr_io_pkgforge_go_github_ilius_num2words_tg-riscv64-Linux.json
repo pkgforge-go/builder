@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "tg",
+  "pkg_family": "num2words",
+  "pkg_id": "tg#github.com_ilius_num2words",
+  "pkg_name": "tg",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ilius/num2words",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A number to words converter for Python and Go, supporting English, Persian, Arabic, Tajik",
+  "homepage": [
+    "https://github.com/ilius/num2words"
+  ],
+  "license": [
+    "LGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ar",
+    "en",
+    "fa",
+    "gen-test-data",
+    "tg"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/ilius/num2words/@v/v0.0.0-20250312005751-9c41f6027808.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250312005751-9c41f6027808",
+  "version_upstream": "",
+  "bsum": "cb39115fc934b443a0fc6a50843b5167ef851a20a565762ad36c7e55a9c6b6d2",
+  "build_date": "2025-06-30T13:28:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15973840436",
+  "build_id": "15973840436",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ilius/num2words/tg?tag=v0.0.0-20250312005751-9c41f6027808-riscv64-Linux&download=tg.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ilius/num2words/tg?tag=v0.0.0-20250312005751-9c41f6027808-riscv64-Linux&download=tg",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ilius/num2words/tg:v0.0.0-20250312005751-9c41f6027808-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ilius/num2words/tg",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ilius/num2words/tg?tag=v0.0.0-20250312005751-9c41f6027808-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7a36a0c217fe4011db834f2e4de58dae75917fc22f81b9b9203ae8e2fbdee133",
+  "size": "1.6 MB",
+  "size_raw": "1596328",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
