@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "genrsa",
+  "pkg_family": "ransimware",
+  "pkg_id": "genrsa#github.com_mjwhitta_ransimware",
+  "pkg_name": "genrsa",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mjwhitta/ransimware",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Simulate ransomware behavior and techniques",
+  "homepage": [
+    "https://github.com/mjwhitta/ransimware"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "genrsa",
+    "httplistener",
+    "ransimware",
+    "wslistener"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/mjwhitta/ransimware/@v/v0.29.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.29.1",
+  "version_upstream": "",
+  "bsum": "bf46c5b3e9cf8250cf6300f13e5631c4939f10e331438e5b72bcf1473a5baefc",
+  "build_date": "2025-06-30T22:34:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15984552131",
+  "build_id": "15984552131",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mjwhitta/ransimware/genrsa?tag=v0.29.1-loongarch64-Linux&download=genrsa.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mjwhitta/ransimware/genrsa?tag=v0.29.1-loongarch64-Linux&download=genrsa",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mjwhitta/ransimware/genrsa:v0.29.1-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mjwhitta/ransimware/genrsa",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mjwhitta/ransimware/genrsa?tag=v0.29.1-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b4605b5995f7313e40c53cb4a4b8ce57cd7135dea51f2f0318f50a267be32d54",
+  "size": "3.1 MB",
+  "size_raw": "3166208",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
