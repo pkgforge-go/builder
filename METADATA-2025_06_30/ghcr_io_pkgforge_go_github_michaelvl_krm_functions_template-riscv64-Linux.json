@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "template",
+  "pkg_family": "krm-functions",
+  "pkg_id": "template#github.com_michaelvl_krm_functions",
+  "pkg_name": "template",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/michaelvl/krm-functions",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "KRM functions catalog",
+  "homepage": [
+    "https://github.com/michaelvl/krm-functions"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apply-setters",
+    "digester",
+    "gatekeeper-set-enforcement-action",
+    "helm-upgrader",
+    "kubeconform",
+    "package-compositor",
+    "remove-local-config-resources",
+    "render-helm-chart",
+    "set-annotations",
+    "set-labels",
+    "source-helm-chart",
+    "template",
+    "template-kyaml"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/michaelvl/krm-functions/@v/v0.0.0-20250629073418-d4e84da03b2a.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250629073418-d4e84da03b2a",
+  "version_upstream": "",
+  "bsum": "8af60b593d90d37d1a63c2331dc949e87f22b9133517bb0362054d3c3d53b8a3",
+  "build_date": "2025-06-30T22:06:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15984368874",
+  "build_id": "15984368874",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/michaelvl/krm-functions/template?tag=v0.0.0-20250629073418-d4e84da03b2a-riscv64-Linux&download=template.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/michaelvl/krm-functions/template?tag=v0.0.0-20250629073418-d4e84da03b2a-riscv64-Linux&download=template",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/michaelvl/krm-functions/template:v0.0.0-20250629073418-d4e84da03b2a-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/michaelvl/krm-functions/template",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/michaelvl/krm-functions/template?tag=v0.0.0-20250629073418-d4e84da03b2a-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4b72fd6f8ab187991072090d65926e56626c8801aeb6d2e9bbae45a14c99275d",
+  "size": "6.8 MB",
+  "size_raw": "7028760",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

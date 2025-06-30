@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "remove-local-config-resources",
+  "pkg_family": "krm-functions",
+  "pkg_id": "remove-local-config-resources#github.com_michaelvl_krm_functions",
+  "pkg_name": "remove-local-config-resources",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/michaelvl/krm-functions",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "KRM functions catalog",
+  "homepage": [
+    "https://github.com/michaelvl/krm-functions"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apply-setters",
+    "digester",
+    "gatekeeper-set-enforcement-action",
+    "helm-upgrader",
+    "kubeconform",
+    "package-compositor",
+    "remove-local-config-resources",
+    "render-helm-chart",
+    "set-annotations",
+    "set-labels",
+    "source-helm-chart",
+    "template",
+    "template-kyaml"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/michaelvl/krm-functions/@v/v0.0.0-20250629073418-d4e84da03b2a.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250629073418-d4e84da03b2a",
+  "version_upstream": "",
+  "bsum": "03be2b9a51e8181fd2c7100c56c1765d5332a7e10b8240972ae97d7b0637ae13",
+  "build_date": "2025-06-30T22:06:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15984368874",
+  "build_id": "15984368874",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/michaelvl/krm-functions/remove-local-config-resources?tag=v0.0.0-20250629073418-d4e84da03b2a-riscv64-Linux&download=remove-local-config-resources.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/michaelvl/krm-functions/remove-local-config-resources?tag=v0.0.0-20250629073418-d4e84da03b2a-riscv64-Linux&download=remove-local-config-resources",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/michaelvl/krm-functions/remove-local-config-resources:v0.0.0-20250629073418-d4e84da03b2a-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/michaelvl/krm-functions/remove-local-config-resources",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/michaelvl/krm-functions/remove-local-config-resources?tag=v0.0.0-20250629073418-d4e84da03b2a-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b3bb5bdd0a391f4ee7354381e268c8f0f9d24bbc94ad1f843e7428eb4512881d",
+  "size": "8.0 MB",
+  "size_raw": "8375960",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
