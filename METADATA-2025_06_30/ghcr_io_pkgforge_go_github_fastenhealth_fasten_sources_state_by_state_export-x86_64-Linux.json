@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "state-by-state-export",
+  "pkg_family": "fasten-sources",
+  "pkg_id": "state-by-state-export#github.com_fastenhealth_fasten_sources",
+  "pkg_name": "state-by-state-export",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fastenhealth/fasten-sources",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Fasten Sources is a library that defines medical provider metadata _definitions - OpenID Metadata documents_ and http clients _OAuth2/Smart-on-FHIR clients_ which can be used to retrieve data from various Medical Providers _clients_.",
+  "homepage": [
+    "https://github.com/fastenhealth/fasten-sources"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "health-system-count",
+    "state-by-state-export",
+    "test-smart-client"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/fastenhealth/fasten-sources/archive/c239795402e17f08331fa74e939b0d208a011afe.tar.gz"
+  ],
+  "tag": [
+    "emr",
+    "fhir-client",
+    "healthcare",
+    "personal-health-record",
+    "smart-on-fhir"
+  ],
+  "version": "HEAD-c239795-250629T073841",
+  "version_upstream": "",
+  "bsum": "c045328e92ca4e2e69180775a079d021beea180c71d9b34454c66686b71b9dc1",
+  "build_date": "2025-06-30T03:43:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15962823743",
+  "build_id": "15962823743",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fastenhealth/fasten-sources/state-by-state-export?tag=HEAD-c239795-250629T073841-x86_64-Linux&download=state-by-state-export.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "27",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fastenhealth/fasten-sources/state-by-state-export?tag=HEAD-c239795-250629T073841-x86_64-Linux&download=state-by-state-export",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fastenhealth/fasten-sources/state-by-state-export:HEAD-c239795-250629T073841-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fastenhealth/fasten-sources/state-by-state-export",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fastenhealth/fasten-sources/state-by-state-export?tag=HEAD-c239795-250629T073841-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3c9e772d075ec59bd46709e5b0759fa6cb12c8ac4115210a1c991c6af649852e",
+  "size": "93 MB",
+  "size_raw": "96782720",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
