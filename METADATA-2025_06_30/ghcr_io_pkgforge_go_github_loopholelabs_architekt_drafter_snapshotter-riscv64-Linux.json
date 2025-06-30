@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "drafter-snapshotter",
+  "pkg_family": "architekt",
+  "pkg_id": "drafter-snapshotter#github.com_loopholelabs_architekt",
+  "pkg_name": "drafter-snapshotter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://loopholelabs.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Compute Primitive Designed for Live Migration",
+  "homepage": [
+    "https://loopholelabs.io"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "drafter-agent",
+    "drafter-forwarder",
+    "drafter-liveness",
+    "drafter-mignettest",
+    "drafter-migtest",
+    "drafter-nat",
+    "drafter-packager",
+    "drafter-peer",
+    "drafter-perf",
+    "drafter-snapshotter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/loopholelabs/architekt/@v/v0.7.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.7.3",
+  "version_upstream": "",
+  "bsum": "20930d5e6596368e042c140fd5ce61fdb6f971be056407469ad26dc06df95268",
+  "build_date": "2025-06-30T19:56:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15982012294",
+  "build_id": "15982012294",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/loopholelabs/architekt/drafter-snapshotter?tag=v0.7.3-riscv64-Linux&download=drafter-snapshotter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "131",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/loopholelabs/architekt/drafter-snapshotter?tag=v0.7.3-riscv64-Linux&download=drafter-snapshotter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/loopholelabs/architekt/drafter-snapshotter:v0.7.3-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/loopholelabs/architekt/drafter-snapshotter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/loopholelabs/architekt/drafter-snapshotter?tag=v0.7.3-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3f93dc4f1f19bb0ff1c8bdc5a13c45288018e44063f0eee22c85227feb143656",
+  "size": "18 MB",
+  "size_raw": "18180216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

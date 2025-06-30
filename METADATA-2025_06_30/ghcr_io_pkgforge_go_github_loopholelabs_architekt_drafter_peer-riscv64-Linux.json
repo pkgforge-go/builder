@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "drafter-peer",
+  "pkg_family": "architekt",
+  "pkg_id": "drafter-peer#github.com_loopholelabs_architekt",
+  "pkg_name": "drafter-peer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://loopholelabs.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Compute Primitive Designed for Live Migration",
+  "homepage": [
+    "https://loopholelabs.io"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "drafter-agent",
+    "drafter-forwarder",
+    "drafter-liveness",
+    "drafter-mignettest",
+    "drafter-migtest",
+    "drafter-nat",
+    "drafter-packager",
+    "drafter-peer",
+    "drafter-perf",
+    "drafter-snapshotter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/loopholelabs/architekt/@v/v0.7.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.7.3",
+  "version_upstream": "",
+  "bsum": "6f2741d74d8091727d6b19a22327ea837e0a2937fe15b021a011d8e2ef2d72cb",
+  "build_date": "2025-06-30T19:57:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15982012294",
+  "build_id": "15982012294",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/loopholelabs/architekt/drafter-peer?tag=v0.7.3-riscv64-Linux&download=drafter-peer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "131",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/loopholelabs/architekt/drafter-peer?tag=v0.7.3-riscv64-Linux&download=drafter-peer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/loopholelabs/architekt/drafter-peer:v0.7.3-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/loopholelabs/architekt/drafter-peer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/loopholelabs/architekt/drafter-peer?tag=v0.7.3-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c8ba511e2e284e9504bf1de105c72fa00957e790be3f654a3b5cfaa62fa92ed9",
+  "size": "22 MB",
+  "size_raw": "22852216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
