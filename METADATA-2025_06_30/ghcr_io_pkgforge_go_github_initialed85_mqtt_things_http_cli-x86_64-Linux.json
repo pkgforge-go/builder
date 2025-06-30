@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "http_cli",
+  "pkg_family": "mqtt_things",
+  "pkg_id": "http_cli#github.com_initialed85_mqtt_things",
+  "pkg_name": "http_cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/initialed85/mqtt_things",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Some MQTT things exposed using Go",
+  "homepage": [
+    "https://github.com/initialed85/mqtt_things"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aircons_cli",
+    "circumstances_cli",
+    "heater_cli",
+    "http_cli",
+    "ir_learn_cli",
+    "lights_cli",
+    "mqtt_to_glue_bridge",
+    "sensors_cli",
+    "smart_aircons_cli",
+    "sprinklers_cli",
+    "switches_cli",
+    "topic_cli",
+    "topic_exporter_cli",
+    "weather_cli"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/initialed85/mqtt_things/@v/v0.0.0-20250628011600-671e25ab875e.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250628011600-671e25ab875e",
+  "version_upstream": "",
+  "bsum": "e8920fae41385084c4bdd2044aba568b6bdaa0392580bfe061ccc299ffdd9e2f",
+  "build_date": "2025-06-30T13:41:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15973872624",
+  "build_id": "15973872624",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/initialed85/mqtt/things/http_cli?tag=v0.0.0-20250628011600-671e25ab875e-x86_64-Linux&download=http_cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/initialed85/mqtt/things/http_cli?tag=v0.0.0-20250628011600-671e25ab875e-x86_64-Linux&download=http_cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/initialed85/mqtt/things/http_cli:v0.0.0-20250628011600-671e25ab875e-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/initialed85/mqtt/things/http_cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/initialed85/mqtt/things/http_cli?tag=v0.0.0-20250628011600-671e25ab875e-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "196b53c55a4359a71424546437794c47e34a75506c93b626b8b17e211c018026",
+  "size": "7.6 MB",
+  "size_raw": "7895136",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

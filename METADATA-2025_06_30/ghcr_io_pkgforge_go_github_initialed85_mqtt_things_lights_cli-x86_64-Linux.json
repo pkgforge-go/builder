@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "lights_cli",
+  "pkg_family": "mqtt_things",
+  "pkg_id": "lights_cli#github.com_initialed85_mqtt_things",
+  "pkg_name": "lights_cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/initialed85/mqtt_things",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Some MQTT things exposed using Go",
+  "homepage": [
+    "https://github.com/initialed85/mqtt_things"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aircons_cli",
+    "circumstances_cli",
+    "heater_cli",
+    "http_cli",
+    "ir_learn_cli",
+    "lights_cli",
+    "mqtt_to_glue_bridge",
+    "sensors_cli",
+    "smart_aircons_cli",
+    "sprinklers_cli",
+    "switches_cli",
+    "topic_cli",
+    "topic_exporter_cli",
+    "weather_cli"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/initialed85/mqtt_things/@v/v0.0.0-20250628011600-671e25ab875e.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250628011600-671e25ab875e",
+  "version_upstream": "",
+  "bsum": "4bba8c71891b43c7452eb1d780db47c51821cd87dcf4a3bc5df0e7c52cc09a3e",
+  "build_date": "2025-06-30T13:40:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15973872624",
+  "build_id": "15973872624",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/initialed85/mqtt/things/lights_cli?tag=v0.0.0-20250628011600-671e25ab875e-x86_64-Linux&download=lights_cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/initialed85/mqtt/things/lights_cli?tag=v0.0.0-20250628011600-671e25ab875e-x86_64-Linux&download=lights_cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/initialed85/mqtt/things/lights_cli:v0.0.0-20250628011600-671e25ab875e-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/initialed85/mqtt/things/lights_cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/initialed85/mqtt/things/lights_cli?tag=v0.0.0-20250628011600-671e25ab875e-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "38be2f5e0c7c64270ddd31351fb97d91596cc05afbe5649ac22e06785938ff08",
+  "size": "7.7 MB",
+  "size_raw": "8009856",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
