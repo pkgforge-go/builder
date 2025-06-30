@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "source-helm-chart",
+  "pkg_family": "krm-functions",
+  "pkg_id": "source-helm-chart#github.com_michaelvl_krm_functions",
+  "pkg_name": "source-helm-chart",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/michaelvl/krm-functions",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "KRM functions catalog",
+  "homepage": [
+    "https://github.com/michaelvl/krm-functions"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apply-setters",
+    "digester",
+    "gatekeeper-set-enforcement-action",
+    "helm-upgrader",
+    "kubeconform",
+    "package-compositor",
+    "remove-local-config-resources",
+    "render-helm-chart",
+    "set-annotations",
+    "set-labels",
+    "source-helm-chart",
+    "template",
+    "template-kyaml"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/michaelvl/krm-functions/@v/v0.0.0-20250629073418-d4e84da03b2a.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250629073418-d4e84da03b2a",
+  "version_upstream": "",
+  "bsum": "b01aaaade9414ce4530e06cd037b296adae73d54133cf8180446e48d0d547f8b",
+  "build_date": "2025-06-30T22:09:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15984368874",
+  "build_id": "15984368874",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/michaelvl/krm-functions/source-helm-chart?tag=v0.0.0-20250629073418-d4e84da03b2a-aarch64-Linux&download=source-helm-chart.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/michaelvl/krm-functions/source-helm-chart?tag=v0.0.0-20250629073418-d4e84da03b2a-aarch64-Linux&download=source-helm-chart",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/michaelvl/krm-functions/source-helm-chart:v0.0.0-20250629073418-d4e84da03b2a-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/michaelvl/krm-functions/source-helm-chart",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/michaelvl/krm-functions/source-helm-chart?tag=v0.0.0-20250629073418-d4e84da03b2a-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b64113ed803e94a4876ae58e61dc1eac1e8b10e0f1b270247301cd66a9dc95b8",
+  "size": "7.0 MB",
+  "size_raw": "7319296",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

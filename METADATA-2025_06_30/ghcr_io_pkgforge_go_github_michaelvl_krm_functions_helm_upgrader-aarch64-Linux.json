@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "helm-upgrader",
+  "pkg_family": "krm-functions",
+  "pkg_id": "helm-upgrader#github.com_michaelvl_krm_functions",
+  "pkg_name": "helm-upgrader",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/michaelvl/krm-functions",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "KRM functions catalog",
+  "homepage": [
+    "https://github.com/michaelvl/krm-functions"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apply-setters",
+    "digester",
+    "gatekeeper-set-enforcement-action",
+    "helm-upgrader",
+    "kubeconform",
+    "package-compositor",
+    "remove-local-config-resources",
+    "render-helm-chart",
+    "set-annotations",
+    "set-labels",
+    "source-helm-chart",
+    "template",
+    "template-kyaml"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/michaelvl/krm-functions/@v/v0.0.0-20250629073418-d4e84da03b2a.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250629073418-d4e84da03b2a",
+  "version_upstream": "",
+  "bsum": "7973d0e2b577a03d4cbf6a1e96632fe46b042f08687fc99a2a35a95d96a318e0",
+  "build_date": "2025-06-30T22:09:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15984368874",
+  "build_id": "15984368874",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/michaelvl/krm-functions/helm-upgrader?tag=v0.0.0-20250629073418-d4e84da03b2a-aarch64-Linux&download=helm-upgrader.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/michaelvl/krm-functions/helm-upgrader?tag=v0.0.0-20250629073418-d4e84da03b2a-aarch64-Linux&download=helm-upgrader",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/michaelvl/krm-functions/helm-upgrader:v0.0.0-20250629073418-d4e84da03b2a-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/michaelvl/krm-functions/helm-upgrader",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/michaelvl/krm-functions/helm-upgrader?tag=v0.0.0-20250629073418-d4e84da03b2a-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "38d4a0b047519c27896a07c4a9c7dbb596a6854f0be5cd793bfa34cb2a0c1394",
+  "size": "7.1 MB",
+  "size_raw": "7403680",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
