@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "echo-grpc",
+  "pkg_id": "server#github.com_automenu_echo_grpc",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/automenu/echo-grpc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A tiny gRPC service that echos what you start it with",
+  "homepage": [
+    "https://github.com/automenu/echo-grpc"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/automenu/echo-grpc/@v/v0.0.0-20250323193602-529eb367512b.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250323193602-529eb367512b",
+  "version_upstream": "",
+  "bsum": "f262bcd64d99ebe05f448bbff46cc2e1c563c4a28193de6df4cbbd7c806e3f0a",
+  "build_date": "2025-06-30T07:21:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15966054070",
+  "build_id": "15966054070",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/automenu/echo-grpc/server?tag=v0.0.0-20250323193602-529eb367512b-loongarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/automenu/echo-grpc/server?tag=v0.0.0-20250323193602-529eb367512b-loongarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/automenu/echo-grpc/server:v0.0.0-20250323193602-529eb367512b-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/automenu/echo-grpc/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/automenu/echo-grpc/server?tag=v0.0.0-20250323193602-529eb367512b-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2c671217c1fb22e4168bc5643a921438a68bea64b53e147fcdcec39306094862",
+  "size": "9.3 MB",
+  "size_raw": "9657152",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
