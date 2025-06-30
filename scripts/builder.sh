@@ -443,7 +443,7 @@ install_tool "go-detector" "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/go-
      export PKG_DOWNLOAD_COUNT
     #GHCR
      GHCRPKG_TAG="${PKG_VERSION}-${HOST_TRIPLET}"
-     GHCRPKG_RAND="$(echo "${GPKG_ID}" | awk -F'_' '{for(i=1;i<=NF;i++) if($i!="") a[++n]=$i; if(n>=3) print a[n-1]"/"a[n]; else if(n==2) print a[2]; delete a; n=0}' | tr '[:upper:]' '[:lower:]' | tr -d '[:space:]')"
+     GHCRPKG_RAND="$(echo "${GPKG_ID}" | awk -F'_' '{for(i=1;i<=NF;i++)if($i!="")a[++n]=$i;if(n==2)print a[2];else if(n==3)print a[2]"/"a[3];else if(n>3){s=a[2];for(i=3;i<=n;i++)s=s"/"a[i];print s}delete a}' | tr '[:upper:]' '[:lower:]' | tr -d '[:space:]')"
      if echo "${GPKG_SRCURL}" | grep -qi "bitbucket.org"; then
         GPKG_FORGE="bitbucket"
      elif echo "${GPKG_SRCURL}" | grep -qi "buildroot.net"; then
