@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "drafter-liveness",
+  "pkg_family": "drafter",
+  "pkg_id": "drafter-liveness#github.com_loopholelabs_drafter",
+  "pkg_name": "drafter-liveness",
+  "pkg_type": "static",
+  "pkg_webpage": "https://loopholelabs.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Compute Primitive Designed for Live Migration",
+  "homepage": [
+    "https://loopholelabs.io"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "drafter-agent",
+    "drafter-forwarder",
+    "drafter-liveness",
+    "drafter-mignettest",
+    "drafter-migtest",
+    "drafter-nat",
+    "drafter-packager",
+    "drafter-peer",
+    "drafter-perf",
+    "drafter-snapshotter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/loopholelabs/drafter/@v/v0.7.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.7.3",
+  "version_upstream": "",
+  "bsum": "a0c52b0c555b0e3ff9e5239112bd7ee69a7853cc5bdb574e1f0fdde9ccc05650",
+  "build_date": "2025-06-30T19:59:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15982050314",
+  "build_id": "15982050314",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/loopholelabs/drafter/drafter-liveness?tag=v0.7.3-loongarch64-Linux&download=drafter-liveness.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "131",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/loopholelabs/drafter/drafter-liveness?tag=v0.7.3-loongarch64-Linux&download=drafter-liveness",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/loopholelabs/drafter/drafter-liveness:v0.7.3-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/loopholelabs/drafter/drafter-liveness",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/loopholelabs/drafter/drafter-liveness?tag=v0.7.3-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bb1db5e2c2ef1933703bc872c6e5c842a2b92c79cf7b2da4777c91c17f884092",
+  "size": "2.6 MB",
+  "size_raw": "2702208",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

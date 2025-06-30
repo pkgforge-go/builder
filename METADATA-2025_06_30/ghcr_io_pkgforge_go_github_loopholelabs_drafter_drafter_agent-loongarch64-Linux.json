@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "drafter-agent",
+  "pkg_family": "drafter",
+  "pkg_id": "drafter-agent#github.com_loopholelabs_drafter",
+  "pkg_name": "drafter-agent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://loopholelabs.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Compute Primitive Designed for Live Migration",
+  "homepage": [
+    "https://loopholelabs.io"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "drafter-agent",
+    "drafter-forwarder",
+    "drafter-liveness",
+    "drafter-mignettest",
+    "drafter-migtest",
+    "drafter-nat",
+    "drafter-packager",
+    "drafter-peer",
+    "drafter-perf",
+    "drafter-snapshotter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/loopholelabs/drafter/@v/v0.7.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.7.3",
+  "version_upstream": "",
+  "bsum": "75fc4f4986f5498cc7ff868827f3620d64c1eada13a7b3248b0aa170779a5a65",
+  "build_date": "2025-06-30T19:59:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15982050314",
+  "build_id": "15982050314",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/loopholelabs/drafter/drafter-agent?tag=v0.7.3-loongarch64-Linux&download=drafter-agent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "131",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/loopholelabs/drafter/drafter-agent?tag=v0.7.3-loongarch64-Linux&download=drafter-agent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/loopholelabs/drafter/drafter-agent:v0.7.3-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/loopholelabs/drafter/drafter-agent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/loopholelabs/drafter/drafter-agent?tag=v0.7.3-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6c491c58b0f33e9632c7084e209b25f575ee07bdc5345f7cad6b14bd4ec3e1f4",
+  "size": "4.1 MB",
+  "size_raw": "4215584",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

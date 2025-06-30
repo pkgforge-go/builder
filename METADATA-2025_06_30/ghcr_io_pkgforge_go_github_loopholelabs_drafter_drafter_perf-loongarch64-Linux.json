@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "drafter-perf",
+  "pkg_family": "drafter",
+  "pkg_id": "drafter-perf#github.com_loopholelabs_drafter",
+  "pkg_name": "drafter-perf",
+  "pkg_type": "static",
+  "pkg_webpage": "https://loopholelabs.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Compute Primitive Designed for Live Migration",
+  "homepage": [
+    "https://loopholelabs.io"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "drafter-agent",
+    "drafter-forwarder",
+    "drafter-liveness",
+    "drafter-mignettest",
+    "drafter-migtest",
+    "drafter-nat",
+    "drafter-packager",
+    "drafter-peer",
+    "drafter-perf",
+    "drafter-snapshotter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/loopholelabs/drafter/@v/v0.7.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.7.3",
+  "version_upstream": "",
+  "bsum": "61a5d9bcaa4a2d642ad8936ac7756d232c46f8dc0e5ab60845db417d2564d9be",
+  "build_date": "2025-06-30T20:00:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15982050314",
+  "build_id": "15982050314",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/loopholelabs/drafter/drafter-perf?tag=v0.7.3-loongarch64-Linux&download=drafter-perf.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "131",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/loopholelabs/drafter/drafter-perf?tag=v0.7.3-loongarch64-Linux&download=drafter-perf",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/loopholelabs/drafter/drafter-perf:v0.7.3-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/loopholelabs/drafter/drafter-perf",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/loopholelabs/drafter/drafter-perf?tag=v0.7.3-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4e32b0e425520182bbfd79a0ef61c0d8e79cf5ac6489df4f4e022fc22a4256a0",
+  "size": "38 MB",
+  "size_raw": "38966672",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
