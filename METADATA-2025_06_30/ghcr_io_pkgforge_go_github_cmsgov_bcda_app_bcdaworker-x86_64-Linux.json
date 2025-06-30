@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "bcdaworker",
+  "pkg_family": "bcda-app",
+  "pkg_id": "bcdaworker#github.com_cmsgov_bcda_app",
+  "pkg_name": "bcdaworker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://bcda.cms.gov/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Beneficiary Claims Data API",
+  "homepage": [
+    "https://bcda.cms.gov/"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admin_aco_deny",
+    "admin_create_aco",
+    "admin_create_aco_creds",
+    "admin_create_group",
+    "bcdaworker",
+    "datagenerator",
+    "optout",
+    "performance_test",
+    "smoke_test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cmsgov/bcda-app/@v/v0.0.0-20250627173249-68662fcd58cd.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250627173249-68662fcd58cd",
+  "version_upstream": "",
+  "bsum": "df9613f478de8498842c0c947674890f8a310b7875aeadf7461ec4d458ac94d6",
+  "build_date": "2025-06-30T16:02:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15977635795",
+  "build_id": "15977635795",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cmsgov/bcda-app/bcdaworker?tag=v0.0.0-20250627173249-68662fcd58cd-x86_64-Linux&download=bcdaworker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "48",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cmsgov/bcda-app/bcdaworker?tag=v0.0.0-20250627173249-68662fcd58cd-x86_64-Linux&download=bcdaworker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cmsgov/bcda-app/bcdaworker:v0.0.0-20250627173249-68662fcd58cd-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cmsgov/bcda-app/bcdaworker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cmsgov/bcda-app/bcdaworker?tag=v0.0.0-20250627173249-68662fcd58cd-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6a1752944941673fd2af657760e3c952d78b723524cda6de405d99f1d6d64ad0",
+  "size": "56 MB",
+  "size_raw": "58070704",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
