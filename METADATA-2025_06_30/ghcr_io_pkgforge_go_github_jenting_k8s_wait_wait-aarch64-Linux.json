@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "wait",
+  "pkg_family": "k8s-wait",
+  "pkg_id": "wait#github.com_jenting_k8s_wait",
+  "pkg_name": "wait",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jenting/k8s-wait",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Examples of Kubernetes apimachinery wait library",
+  "homepage": [
+    "https://github.com/jenting/k8s-wait"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "exponential",
+    "wait"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/jenting/k8s-wait/@v/v0.0.0-20250623220221-7f3b6933ab22.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250623220221-7f3b6933ab22",
+  "version_upstream": "",
+  "bsum": "5621a5969b40e2599b6914c425bb8933fb3d2c01e15dbcca7215dd2e8968e4cf",
+  "build_date": "2025-06-30T14:30:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15974835560",
+  "build_id": "15974835560",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jenting/k8s-wait/wait?tag=v0.0.0-20250623220221-7f3b6933ab22-aarch64-Linux&download=wait.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jenting/k8s-wait/wait?tag=v0.0.0-20250623220221-7f3b6933ab22-aarch64-Linux&download=wait",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jenting/k8s-wait/wait:v0.0.0-20250623220221-7f3b6933ab22-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jenting/k8s-wait/wait",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jenting/k8s-wait/wait?tag=v0.0.0-20250623220221-7f3b6933ab22-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9f8502a553993a177b6d4b34849735b4390f3955c6903f5cb4acb6adbb79971c",
+  "size": "3.8 MB",
+  "size_raw": "3948128",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
