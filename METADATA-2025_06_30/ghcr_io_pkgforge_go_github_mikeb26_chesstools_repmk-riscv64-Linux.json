@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "repmk",
+  "pkg_family": "chesstools",
+  "pkg_id": "repmk#github.com_mikeb26_chesstools",
+  "pkg_name": "repmk",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mikeb26/chesstools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Collection of chess related utilities",
+  "homepage": [
+    "https://github.com/mikeb26/chesstools"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "960gen",
+    "cteval",
+    "ctsplunk",
+    "fencat",
+    "pgn2fen",
+    "pgnfilt",
+    "pgnmk",
+    "repmk",
+    "repvld"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/mikeb26/chesstools/@v/v0.0.0-20250605181310-dd1c08368bdf.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250605181310-dd1c08368bdf",
+  "version_upstream": "",
+  "bsum": "9a460a0c806513bba3b3dd80867886db997bcd248862b76d011a9e8f64774229",
+  "build_date": "2025-06-30T22:17:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15984437562",
+  "build_id": "15984437562",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mikeb26/chesstools/repmk?tag=v0.0.0-20250605181310-dd1c08368bdf-riscv64-Linux&download=repmk.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mikeb26/chesstools/repmk?tag=v0.0.0-20250605181310-dd1c08368bdf-riscv64-Linux&download=repmk",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mikeb26/chesstools/repmk:v0.0.0-20250605181310-dd1c08368bdf-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mikeb26/chesstools/repmk",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mikeb26/chesstools/repmk?tag=v0.0.0-20250605181310-dd1c08368bdf-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c78e15a487c7e02e99fd1483c335f787339f11bb643a3e63eb890e0a922def67",
+  "size": "7.0 MB",
+  "size_raw": "7297304",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

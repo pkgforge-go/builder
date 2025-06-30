@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "pgnmk",
+  "pkg_family": "chesstools",
+  "pkg_id": "pgnmk#github.com_mikeb26_chesstools",
+  "pkg_name": "pgnmk",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mikeb26/chesstools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Collection of chess related utilities",
+  "homepage": [
+    "https://github.com/mikeb26/chesstools"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "960gen",
+    "cteval",
+    "ctsplunk",
+    "fencat",
+    "pgn2fen",
+    "pgnfilt",
+    "pgnmk",
+    "repmk",
+    "repvld"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/mikeb26/chesstools/@v/v0.0.0-20250605181310-dd1c08368bdf.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250605181310-dd1c08368bdf",
+  "version_upstream": "",
+  "bsum": "f9d8bade53c1963ec9b56397c85615b68c232f55d7b07df63c18b11c81786143",
+  "build_date": "2025-06-30T22:17:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15984437562",
+  "build_id": "15984437562",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mikeb26/chesstools/pgnmk?tag=v0.0.0-20250605181310-dd1c08368bdf-riscv64-Linux&download=pgnmk.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mikeb26/chesstools/pgnmk?tag=v0.0.0-20250605181310-dd1c08368bdf-riscv64-Linux&download=pgnmk",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mikeb26/chesstools/pgnmk:v0.0.0-20250605181310-dd1c08368bdf-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mikeb26/chesstools/pgnmk",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mikeb26/chesstools/pgnmk?tag=v0.0.0-20250605181310-dd1c08368bdf-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5cb4dfc766ea5e4b77d3dc22f119db0246e547ff3a0f15badccebb3f42578e06",
+  "size": "6.5 MB",
+  "size_raw": "6774008",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
