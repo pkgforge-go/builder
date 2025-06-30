@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "monitor",
+  "pkg_family": "water-monitor",
+  "pkg_id": "monitor#github.com_mctofu_water_monitor",
+  "pkg_name": "monitor",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mctofu/water-monitor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go tools for monitoring SFPUC water account usage",
+  "homepage": [
+    "https://github.com/mctofu/water-monitor"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "analyze",
+    "monitor",
+    "retrieve"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/mctofu/water-monitor/@v/v0.0.0-20250610170259-42c9bd9f51a9.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250610170259-42c9bd9f51a9",
+  "version_upstream": "",
+  "bsum": "559a6b3bd04f6941063b187140a15ba9eaeb2f594ad38b6ff818b9fabe6a7f5e",
+  "build_date": "2025-06-30T21:47:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15984355275",
+  "build_id": "15984355275",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mctofu/water-monitor/monitor?tag=v0.0.0-20250610170259-42c9bd9f51a9-loongarch64-Linux&download=monitor.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mctofu/water-monitor/monitor?tag=v0.0.0-20250610170259-42c9bd9f51a9-loongarch64-Linux&download=monitor",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mctofu/water-monitor/monitor:v0.0.0-20250610170259-42c9bd9f51a9-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mctofu/water-monitor/monitor",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mctofu/water-monitor/monitor?tag=v0.0.0-20250610170259-42c9bd9f51a9-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ca1332cec1495b05b62e69018214b3a379baab838c37ceb343d29b221920f5c9",
+  "size": "15 MB",
+  "size_raw": "14700608",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
