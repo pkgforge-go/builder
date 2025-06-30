@@ -77,22 +77,27 @@ install_tool "go-enricher" "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/go-
    '
     map(select(.description != "No Description Provided")) |
     map(select(
-      has("download") and 
-      has("source") and 
+      has("download") and
+      has("source") and
       has("version")
     )) |
     map(select(
-      (has("stars") | not) or 
+      (has("stars") | not) or
       (.stars | tonumber >= -1)
     )) |
     map(
-      if (has("homepage") | not) or 
-         .homepage == "" or 
-         .homepage == null 
-      then 
-        .homepage = "https://" + .source 
-      else 
-        . 
+      if (has("homepage") | not) or
+         .homepage == "" or
+         .homepage == null
+      then
+        if (.source | test("^(bitbucket\\.org|codeberg\\.org|gitee\\.com|github\\.com|gitlab\\.com|sr\\.ht|sourceforge\\.net)/"))
+        then
+          .homepage = "https://" + (.source | split("/") | .[0:3] | join("/"))
+        else
+          .homepage = "https://" + .source
+        end
+      else
+        .
       end
     ) |
     unique_by(.source) |
