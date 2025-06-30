@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "pika",
+  "pkg_family": "battools",
+  "pkg_id": "pika#github.com_kahlys_battools",
+  "pkg_name": "pika",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kahlys/battools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Personnal tools",
+  "homepage": [
+    "https://github.com/kahlys/battools"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "basespy",
+    "geninter",
+    "oracle",
+    "osv-viewer",
+    "pika",
+    "proxy",
+    "test",
+    "wanda"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/kahlys/battools/@v/v0.0.0-20250514141100-2b66616e4e80.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250514141100-2b66616e4e80",
+  "version_upstream": "",
+  "bsum": "ccbfdba27f022a7f1c17ece9c09b252581c2af49e86439dc1e9e5314e57ccf1d",
+  "build_date": "2025-06-30T16:44:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15978024123",
+  "build_id": "15978024123",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kahlys/battools/pika?tag=v0.0.0-20250514141100-2b66616e4e80-riscv64-Linux&download=pika.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kahlys/battools/pika?tag=v0.0.0-20250514141100-2b66616e4e80-riscv64-Linux&download=pika",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kahlys/battools/pika:v0.0.0-20250514141100-2b66616e4e80-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kahlys/battools/pika",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kahlys/battools/pika?tag=v0.0.0-20250514141100-2b66616e4e80-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e005cfa7f7d2fc35c8da4f09043359d820eee9ad72a5e45d93527cb07bf4331d",
+  "size": "3.0 MB",
+  "size_raw": "3092248",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
