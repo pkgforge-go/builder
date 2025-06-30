@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "ransimware",
+  "pkg_family": "ransimware",
+  "pkg_id": "ransimware#github.com_mjwhitta_ransimware",
+  "pkg_name": "ransimware",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mjwhitta/ransimware",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Simulate ransomware behavior and techniques",
+  "homepage": [
+    "https://github.com/mjwhitta/ransimware"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "genrsa",
+    "httplistener",
+    "ransimware",
+    "wslistener"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/mjwhitta/ransimware/@v/v0.29.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.29.1",
+  "version_upstream": "",
+  "bsum": "3997203b7d219c21cc8fa31b89edd16fe5022616d33793757b68abf05e82b477",
+  "build_date": "2025-06-30T22:34:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15984552131",
+  "build_id": "15984552131",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mjwhitta/ransimware/ransimware?tag=v0.29.1-x86_64-Linux&download=ransimware.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mjwhitta/ransimware/ransimware?tag=v0.29.1-x86_64-Linux&download=ransimware",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mjwhitta/ransimware/ransimware:v0.29.1-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mjwhitta/ransimware/ransimware",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mjwhitta/ransimware/ransimware?tag=v0.29.1-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e7ca7d235d5f2caddd7fbdb26f7d8550f453e8db69f9533c6e3e4acd3c9e0c79",
+  "size": "6.7 MB",
+  "size_raw": "7006176",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
