@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "verify-pr",
+  "pkg_family": "release-tools",
+  "pkg_id": "verify-pr#github.com_konveyor_release_tools",
+  "pkg_name": "verify-pr",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/konveyor/release-tools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Release tooling for Konveyor projects",
+  "homepage": [
+    "https://github.com/konveyor/release-tools"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "labels",
+    "milestones",
+    "verify-pr"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/konveyor/release-tools/@v/v0.0.0-20250516061127-3c5933ad9b84.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250516061127-3c5933ad9b84",
+  "version_upstream": "",
+  "bsum": "69577672de3b3639864e21c7aad1f73c60e68df63e125955fabf5fb0f06015b8",
+  "build_date": "2025-06-30T17:35:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15978974174",
+  "build_id": "15978974174",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/konveyor/release-tools/verify-pr?tag=v0.0.0-20250516061127-3c5933ad9b84-x86_64-Linux&download=verify-pr.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/konveyor/release-tools/verify-pr?tag=v0.0.0-20250516061127-3c5933ad9b84-x86_64-Linux&download=verify-pr",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/konveyor/release-tools/verify-pr:v0.0.0-20250516061127-3c5933ad9b84-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/konveyor/release-tools/verify-pr",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/konveyor/release-tools/verify-pr?tag=v0.0.0-20250516061127-3c5933ad9b84-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9978429599a145d7082f21429706a834b068bf8f07cca82be95e9ae27591dac6",
+  "size": "4.7 MB",
+  "size_raw": "4882368",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
