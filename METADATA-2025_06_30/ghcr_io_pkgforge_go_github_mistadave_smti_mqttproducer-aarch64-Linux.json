@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "mqttproducer",
+  "pkg_family": "smti",
+  "pkg_id": "mqttproducer#github.com_mistadave_smti",
+  "pkg_name": "mqttproducer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mistadave/smti",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Shelly mqtt consumer which pushes data to influxdb",
+  "homepage": [
+    "https://github.com/mistadave/smti"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mqttproducer",
+    "smti"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/mistadave/smti/@v/v0.0.0-20250627094651-44ca2bc78d59.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250627094651-44ca2bc78d59",
+  "version_upstream": "",
+  "bsum": "373d08befa2e7119fa6482b64c5d76d4506e9cd00ceeed48219a161eebb0798d",
+  "build_date": "2025-06-30T22:27:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15984522024",
+  "build_id": "15984522024",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mistadave/smti/mqttproducer?tag=v0.0.0-20250627094651-44ca2bc78d59-aarch64-Linux&download=mqttproducer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mistadave/smti/mqttproducer?tag=v0.0.0-20250627094651-44ca2bc78d59-aarch64-Linux&download=mqttproducer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mistadave/smti/mqttproducer:v0.0.0-20250627094651-44ca2bc78d59-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mistadave/smti/mqttproducer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mistadave/smti/mqttproducer?tag=v0.0.0-20250627094651-44ca2bc78d59-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4fdf5e3b5e9da8c6efdf87d7f50aef3425dd7db7baf2a562cb4979c79d12ed29",
+  "size": "5.5 MB",
+  "size_raw": "5680064",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
