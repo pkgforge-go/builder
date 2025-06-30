@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "kubeconform",
+  "pkg_family": "krm-functions",
+  "pkg_id": "kubeconform#github.com_michaelvl_krm_functions",
+  "pkg_name": "kubeconform",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/michaelvl/krm-functions",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "KRM functions catalog",
+  "homepage": [
+    "https://github.com/michaelvl/krm-functions"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apply-setters",
+    "digester",
+    "gatekeeper-set-enforcement-action",
+    "helm-upgrader",
+    "kubeconform",
+    "package-compositor",
+    "remove-local-config-resources",
+    "render-helm-chart",
+    "set-annotations",
+    "set-labels",
+    "source-helm-chart",
+    "template",
+    "template-kyaml"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/michaelvl/krm-functions/@v/v0.0.0-20250629073418-d4e84da03b2a.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250629073418-d4e84da03b2a",
+  "version_upstream": "",
+  "bsum": "165bbe1f6f1f288e760e1653748a380ce00aa2d6458ae7548c4daf3b2d452a17",
+  "build_date": "2025-06-30T22:08:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15984368874",
+  "build_id": "15984368874",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/michaelvl/krm-functions/kubeconform?tag=v0.0.0-20250629073418-d4e84da03b2a-x86_64-Linux&download=kubeconform.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/michaelvl/krm-functions/kubeconform?tag=v0.0.0-20250629073418-d4e84da03b2a-x86_64-Linux&download=kubeconform",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/michaelvl/krm-functions/kubeconform:v0.0.0-20250629073418-d4e84da03b2a-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/michaelvl/krm-functions/kubeconform",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/michaelvl/krm-functions/kubeconform?tag=v0.0.0-20250629073418-d4e84da03b2a-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b81075b2ff8151a9cc15e85087f158b18b903417e4078f05cf8dd6ba8f5c9ca4",
+  "size": "16 MB",
+  "size_raw": "16560384",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
