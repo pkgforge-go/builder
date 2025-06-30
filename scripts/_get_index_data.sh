@@ -60,6 +60,9 @@ install_tool "go-enricher" "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/go-
       pkg_id: ((.source // "") | sub("^https?://"; "") | gsub("[^a-zA-Z0-9.-]"; "_")) | sanitize,
       download: ("https://proxy.golang.org/" + .source + "/@v/" + .versions[-1] + ".zip")
     }
+  | select(
+      (.download | test("/test/@v/|/tests/@v/|/example/@v/|/examples/@v/|/vendor/@v/") | not)
+  )
  ' "${TEMP_DIR}/INDEX.processed.json" > "${TEMP_DIR}/RAW.json.tmp"
 ##Merge
  awk '/^\s*{\s*$/{flag=1; buffer="{\n"; next} /^\s*}\s*$/{if(flag){buffer=buffer"}\n"; print buffer}; flag=0; next} flag{buffer=buffer$0"\n"}' "${TEMP_DIR}/RAW.json.tmp" | jq -c '. as $line | (fromjson? | .message) // $line' >> "${TEMP_DIR}/RAW.json.raw"
