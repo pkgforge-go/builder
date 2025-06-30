@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "cassandra",
+  "pkg_family": "windows-testing",
+  "pkg_id": "cassandra#github.com_kubernetes_sigs_windows_testing",
+  "pkg_name": "cassandra",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/windows-testing",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Containers, scripts and documentation for running Kubernetes tests with Windows nodes",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/windows-testing"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cassandra",
+    "getent"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/kubernetes-sigs/windows-testing/@v/v0.0.0-20250604212106-a553e9bdc272.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250604212106-a553e9bdc272",
+  "version_upstream": "",
+  "bsum": "95054f65efae1d1a418a08f8c4fdab2f9a1aae409b35cfba3faebf81b5b7ae0f",
+  "build_date": "2025-06-30T17:52:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15979508255",
+  "build_id": "15979508255",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/windows-testing/cassandra?tag=v0.0.0-20250604212106-a553e9bdc272-x86_64-Linux&download=cassandra.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "42",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/windows-testing/cassandra?tag=v0.0.0-20250604212106-a553e9bdc272-x86_64-Linux&download=cassandra",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/windows-testing/cassandra:v0.0.0-20250604212106-a553e9bdc272-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/windows-testing/cassandra",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/windows-testing/cassandra?tag=v0.0.0-20250604212106-a553e9bdc272-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "947b183548b374430469776d03faee3c3b5c17462232ba8a63e2dcbee7e5dd1c",
+  "size": "1.9 MB",
+  "size_raw": "1981432",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
