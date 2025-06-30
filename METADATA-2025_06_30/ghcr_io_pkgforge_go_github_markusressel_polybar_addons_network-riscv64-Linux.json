@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "network",
+  "pkg_family": "polybar-addons",
+  "pkg_id": "network#github.com_markusressel_polybar_addons",
+  "pkg_name": "network",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/markusressel/polybar-addons",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A selection of utility programs for displaying stuff in polybar",
+  "homepage": [
+    "https://github.com/markusressel/polybar-addons"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "battery",
+    "disk",
+    "network",
+    "zfs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/markusressel/polybar-addons/@v/v0.0.0-20250604001026-b27f84b9157c.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250604001026-b27f84b9157c",
+  "version_upstream": "",
+  "bsum": "a4f69270aa6695935050d0960a3f9efa937f9217fababd51f9fde03c63fe99c8",
+  "build_date": "2025-06-30T20:36:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15982671692",
+  "build_id": "15982671692",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/markusressel/polybar-addons/network?tag=v0.0.0-20250604001026-b27f84b9157c-riscv64-Linux&download=network.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/markusressel/polybar-addons/network?tag=v0.0.0-20250604001026-b27f84b9157c-riscv64-Linux&download=network",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/markusressel/polybar-addons/network:v0.0.0-20250604001026-b27f84b9157c-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/markusressel/polybar-addons/network",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/markusressel/polybar-addons/network?tag=v0.0.0-20250604001026-b27f84b9157c-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d53ff47f9a01a1e330b19aef9fe2440d9a14dd2e31e60aa706b4431b48412ddb",
+  "size": "1.7 MB",
+  "size_raw": "1723112",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

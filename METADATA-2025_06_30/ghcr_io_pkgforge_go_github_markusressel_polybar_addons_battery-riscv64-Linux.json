@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "battery",
+  "pkg_family": "polybar-addons",
+  "pkg_id": "battery#github.com_markusressel_polybar_addons",
+  "pkg_name": "battery",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/markusressel/polybar-addons",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A selection of utility programs for displaying stuff in polybar",
+  "homepage": [
+    "https://github.com/markusressel/polybar-addons"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "battery",
+    "disk",
+    "network",
+    "zfs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/markusressel/polybar-addons/@v/v0.0.0-20250604001026-b27f84b9157c.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250604001026-b27f84b9157c",
+  "version_upstream": "",
+  "bsum": "2c7f9494bce6bae7917514774c6a86a04bf452c1d40047ac536da956edad763e",
+  "build_date": "2025-06-30T20:36:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15982671692",
+  "build_id": "15982671692",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/markusressel/polybar-addons/battery?tag=v0.0.0-20250604001026-b27f84b9157c-riscv64-Linux&download=battery.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/markusressel/polybar-addons/battery?tag=v0.0.0-20250604001026-b27f84b9157c-riscv64-Linux&download=battery",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/markusressel/polybar-addons/battery:v0.0.0-20250604001026-b27f84b9157c-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/markusressel/polybar-addons/battery",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/markusressel/polybar-addons/battery?tag=v0.0.0-20250604001026-b27f84b9157c-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "eb0c007a1e694f5ccbdc2b29e809d324290529df4bf88886b922f03894f32581",
+  "size": "1.7 MB",
+  "size_raw": "1704552",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
