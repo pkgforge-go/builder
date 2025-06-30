@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "wg-fake",
+  "pkg_family": "wg-fake",
+  "pkg_id": "wg-fake#github.com_lastbyte32_wg_fake",
+  "pkg_name": "wg-fake",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lastbyte32/wg-fake",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fake handshake for WireGuard. Allows to bypass DPI blocking of the WireGuard protocol by sending a \"magic\" packet",
+  "homepage": [
+    "https://github.com/lastbyte32/wg-fake"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "wg-fake"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/lastbyte32/wg-fake/@v/v0.0.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.1",
+  "version_upstream": "",
+  "bsum": "6209592ed56d821bdb4de8c33cb34545f82d89cbd5f47a61853dd12d6903b04c",
+  "build_date": "2025-06-30T19:14:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15981309516",
+  "build_id": "15981309516",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lastbyte32/wg-fake/wg-fake?tag=v0.0.1-riscv64-Linux&download=wg-fake.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "33",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lastbyte32/wg-fake/wg-fake?tag=v0.0.1-riscv64-Linux&download=wg-fake",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lastbyte32/wg-fake/wg-fake:v0.0.1-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lastbyte32/wg-fake/wg-fake",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lastbyte32/wg-fake/wg-fake?tag=v0.0.1-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9df47fed07688e78fd14f24ae909670966c91935cafcde9f7bee58c91e7528ab",
+  "size": "2.3 MB",
+  "size_raw": "2322728",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
