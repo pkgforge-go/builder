@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "exponential",
+  "pkg_family": "k8s-wait",
+  "pkg_id": "exponential#github.com_jenting_k8s_wait",
+  "pkg_name": "exponential",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jenting/k8s-wait",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Examples of Kubernetes apimachinery wait library",
+  "homepage": [
+    "https://github.com/jenting/k8s-wait"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "exponential",
+    "wait"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/jenting/k8s-wait/@v/v0.0.0-20250623220221-7f3b6933ab22.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250623220221-7f3b6933ab22",
+  "version_upstream": "",
+  "bsum": "ffbab0851d3ebb13abef91b64af5f34cd25274b16c26aa61347e4a694650cee2",
+  "build_date": "2025-06-30T14:31:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15974835560",
+  "build_id": "15974835560",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jenting/k8s-wait/exponential?tag=v0.0.0-20250623220221-7f3b6933ab22-loongarch64-Linux&download=exponential.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jenting/k8s-wait/exponential?tag=v0.0.0-20250623220221-7f3b6933ab22-loongarch64-Linux&download=exponential",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jenting/k8s-wait/exponential:v0.0.0-20250623220221-7f3b6933ab22-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jenting/k8s-wait/exponential",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jenting/k8s-wait/exponential?tag=v0.0.0-20250623220221-7f3b6933ab22-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "40287c97780483bbaab531edd09bf24ca5e6528b7c7a316c7754f95606c3b3cb",
+  "size": "3.9 MB",
+  "size_raw": "4066368",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
