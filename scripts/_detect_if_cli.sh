@@ -4,6 +4,7 @@
 #Entirely Vibe coded by Claude but tested/verified
 #Determines if a Go project is a CLI tool or library from a git URL or archive URL
 #Self: https://raw.githubusercontent.com/pkgforge-go/builder/refs/heads/main/scripts/_detect_if_cli.sh
+#Requires: "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/extraxtor"
 #-------------------------------------------------------#
 
 #-------------------------------------------------------#
@@ -106,6 +107,12 @@ EOF
     exit 1
 }
 #-------------------------------------------------------#
+##Check if we have extraxtor
+hash -r &>/dev/null
+if ! command -v extraxtor &>/dev/null; then
+    log_error "Requires extraxtor: https://github.com/pkgforge/devscripts/tree/main/Linux/extraxtor"
+   exit 1
+fi
 #-------------------------------------------------------#
 ##Detect URL type and normalize
 detect_url_type() {
@@ -201,77 +208,12 @@ download_and_extract_archive() {
     #Detect archive type and extract accordingly
     local file_type
     file_type=$(file -b "$archive_file" 2>/dev/null || echo "unknown")
-    
-    case "$file_type" in
-        *"gzip compressed"*|*"tar archive"*)
-            if tar -tzf "$archive_file" >/dev/null 2>&1; then
-                log_verbose "Extracting tar.gz archive"
-                tar -xzf "$archive_file" --strip-components=1 2>/dev/null || {
-                    log_warning "Failed to strip components, extracting normally"
-                    tar -xzf "$archive_file" 2>/dev/null || {
-                        log_error "Failed to extract tar.gz archive"
-                        return 1
-                    }
-                    #If we couldn't strip components, find the top-level directory and move contents
-                    local top_dirs=(*)
-                    if [[ ${#top_dirs[@]} -eq 1 && -d "${top_dirs[0]}" ]]; then
-                        log_verbose "Moving contents from ${top_dirs[0]}/ to current directory"
-                        mv "${top_dirs[0]}"/* . 2>/dev/null || true
-                        mv "${top_dirs[0]}"/.[!.]* . 2>/dev/null || true
-                        rmdir "${top_dirs[0]}" 2>/dev/null || true
-                    fi
-                }
-            else
-                log_error "Invalid tar.gz archive"
-                return 1
-            fi
-            ;;
-        *"Zip archive"*)
-            if command -v unzip >/dev/null 2>&1; then
-                log_verbose "Extracting zip archive"
-                unzip -o -q "$archive_file" -d "$repo_dir" 2>/dev/null || {
-                    log_error "Failed to extract zip archive"
+    echo -e "\n" ; extraxtor --input "${archive_file}" --output "${repo_dir}" --debug --force || {
+                    log_error "Failed to extract ${archive_file}"
                     return 1
                 }
-                #Handle zip extraction similar to tar
-                local top_dirs=(*)
-                if [[ ${#top_dirs[@]} -eq 1 && -d "${top_dirs[0]}" && "${top_dirs[0]}" != "repo.archive" ]]; then
-                    log_verbose "Moving contents from ${top_dirs[0]}/ to current directory"
-                    mv "${top_dirs[0]}"/* . 2>/dev/null || true
-                    mv "${top_dirs[0]}"/.[!.]* . 2>/dev/null || true
-                    rmdir "${top_dirs[0]}" 2>/dev/null || true
-                fi
-            else
-                log_error "unzip command not available for zip archive"
-                return 1
-            fi
-            ;;
-        *)
-            #Try to extract as tar.gz first, then zip
-            log_verbose "Unknown file type, trying tar.gz extraction"
-            if tar -tzf "$archive_file" >/dev/null 2>&1 && tar -xzf "$archive_file" --strip-components=1 2>/dev/null; then
-                log_verbose "Successfully extracted as tar.gz"
-            elif command -v unzip >/dev/null 2>&1 && unzip -tq "$archive_file" >/dev/null 2>&1; then
-                log_verbose "Trying zip extraction"
-                unzip -q "$archive_file" 2>/dev/null || {
-                    log_error "Failed to extract as zip"
-                    return 1
-                }
-                #Handle directory structure
-                local top_dirs=(*)
-                if [[ ${#top_dirs[@]} -eq 1 && -d "${top_dirs[0]}" && "${top_dirs[0]}" != "repo.archive" ]]; then
-                    log_verbose "Moving contents from ${top_dirs[0]}/ to current directory"
-                    mv "${top_dirs[0]}"/* . 2>/dev/null || true
-                    mv "${top_dirs[0]}"/.[!.]* . 2>/dev/null || true
-                    rmdir "${top_dirs[0]}" 2>/dev/null || true
-                fi
-            else
-                log_error "Unable to extract archive (unsupported format or corrupted)"
-                return 1
-            fi
-            ;;
-    esac
-    
+    echo -e "\n"
+
     #Clean up archive file
     rm -f "$archive_file"
     

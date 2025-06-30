@@ -17,12 +17,15 @@ rm -rf "${OUT_DIR}" 2>/dev/null ; mkdir -p "${OUT_DIR}/TEMP" "${TEMP_DIR}/tmp"
 echo -e "\n[+] Using TEMP dir: ${TEMP_DIR}"
 echo -e "[+] Using OUT dir: ${OUT_DIR}\n"
 ##Cmd
-sudo curl -qfsSL "https://raw.githubusercontent.com/pkgforge-go/builder/refs/heads/main/scripts/_detect_if_cli.sh" -o "/usr/local/bin/_detect_if_cli"
-sudo chmod 'a+x' "/usr/local/bin/_detect_if_cli" ; hash -r &>/dev/null
-if ! command -v _detect_if_cli &> /dev/null; then
-   echo -e "\n[-] _detect_if_cli NOT Found"
-  exit 1
-fi
+install_tool() {
+    sudo curl -qfsSL "$2" -o "/usr/local/bin/$1"
+    sudo chmod 'a+x' "/usr/local/bin/$1"
+    hash -r &>/dev/null
+    command -v "$1" &>/dev/null || { echo -e "\n[-] $1 NOT Found"; exit 1; }
+}
+install_tool "_detect_if_cli" "https://raw.githubusercontent.com/pkgforge-go/builder/refs/heads/main/scripts/_detect_if_cli.sh"
+#install_tool "extraxtor" "https://github.com/pkgforge/devscripts/raw/refs/heads/main/Linux/extraxtor.sh"
+install_tool "extraxtor" "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/extraxtor"
 ##Token
 if [[ -n ${GITHUB_TOKEN+x} && -n ${GITHUB_TOKEN//[[:space:]]/} ]]; then
    :

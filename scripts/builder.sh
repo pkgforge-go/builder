@@ -20,7 +20,8 @@ install_tool() {
     command -v "$1" &>/dev/null || { echo -e "\n[-] $1 NOT Found"; exit 1; }
 }
 install_tool "_detect_if_cli" "https://raw.githubusercontent.com/pkgforge-go/builder/refs/heads/main/scripts/_detect_if_cli.sh"
-install_tool "extraxtor" "https://github.com/pkgforge/devscripts/raw/refs/heads/main/Linux/extraxtor.sh"
+#install_tool "extraxtor" "https://github.com/pkgforge/devscripts/raw/refs/heads/main/Linux/extraxtor.sh"
+install_tool "extraxtor" "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/extraxtor"
 install_tool "go-detector" "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/go-detector"
 #-------------------------------------------------------#
 
@@ -306,7 +307,8 @@ install_tool "go-detector" "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/go-
         cd "${BUILD_DIR}/BUILD_GPKG"
         archive_file="${BUILD_DIR}/BUILD_TMP/${GPKG_NAME}.archive"
         curl -w "(DL) <== %{url}\n" -qfsSL "${GPKG_SRCURL}" -o "${archive_file}"
-        echo -e "\n" ; extraxtor --input "${archive_file}" --output "${BUILD_DIR}/BUILD_GPKG" --force --tree ; echo -e "\n"
+        echo -e "\n" ; extraxtor --input "${archive_file}" --output "${BUILD_DIR}/BUILD_GPKG" --debug --force
+        tree -L 2 "${BUILD_DIR}/BUILD_GPKG" 2>/dev/null ; echo -e "\n"
      else
         # Clone repository
         cd "${BUILD_DIR}" &&\
