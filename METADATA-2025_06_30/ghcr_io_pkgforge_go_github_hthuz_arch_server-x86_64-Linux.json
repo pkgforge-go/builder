@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "arch",
+  "pkg_id": "server#github.com_hthuz_arch",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hthuz/arch",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Quick Notes",
+  "homepage": [
+    "https://github.com/hthuz/arch"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "atomic",
+    "client",
+    "context",
+    "contextcancel",
+    "func",
+    "goroutine",
+    "hello",
+    "interface",
+    "reflect_demo",
+    "server",
+    "tree",
+    "win_syscall"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/hthuz/arch/@v/v0.0.0-20250415073323-5781b7864047.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250415073323-5781b7864047",
+  "version_upstream": "",
+  "bsum": "43ef36a3deb52613325a44d4a27ebdac307c5bea7d0f5eeb3969cd8dfeb8a331",
+  "build_date": "2025-06-30T11:44:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15971445825",
+  "build_id": "15971445825",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hthuz/arch/server?tag=v0.0.0-20250415073323-5781b7864047-x86_64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hthuz/arch/server?tag=v0.0.0-20250415073323-5781b7864047-x86_64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hthuz/arch/server:v0.0.0-20250415073323-5781b7864047-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hthuz/arch/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hthuz/arch/server?tag=v0.0.0-20250415073323-5781b7864047-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7cbe1d3c59b4812aaa21c0a5bd89e4da1d2a78c593ea1267e79be7af3fc151e9",
+  "size": "5.9 MB",
+  "size_raw": "6120544",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
