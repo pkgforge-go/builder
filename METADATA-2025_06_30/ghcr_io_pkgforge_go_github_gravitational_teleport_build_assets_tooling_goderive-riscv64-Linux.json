@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "goderive",
+  "pkg_family": "tooling",
+  "pkg_id": "goderive#github.com_gravitational_teleport_build.assets_tooling",
+  "pkg_name": "goderive",
+  "pkg_type": "static",
+  "pkg_webpage": "https://goteleport.com",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The easiest, and most secure way to access and protect all of your infrastructure",
+  "homepage": [
+    "https://goteleport.com"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apiversion",
+    "check",
+    "difftest",
+    "goderive",
+    "protoc-gen-eventschema",
+    "query-latest",
+    "render-helm-ref",
+    "render-tests",
+    "rerun",
+    "update-plist-version"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/gravitational/teleport/build.assets/tooling/@v/v0.0.0-20250627210727-059fb3740a3a.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250627210727-059fb3740a3a",
+  "version_upstream": "",
+  "bsum": "1639065546e1ecec781b5619b24df5cc6ef801e16bb05e8063d4d6a0176cb8b1",
+  "build_date": "2025-06-30T10:42:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15969936623",
+  "build_id": "15969936623",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gravitational/teleport/build.assets/tooling/goderive?tag=v0.0.0-20250627210727-059fb3740a3a-riscv64-Linux&download=goderive.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18696",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gravitational/teleport/build.assets/tooling/goderive?tag=v0.0.0-20250627210727-059fb3740a3a-riscv64-Linux&download=goderive",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gravitational/teleport/build.assets/tooling/goderive:v0.0.0-20250627210727-059fb3740a3a-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gravitational/teleport/build.assets/tooling/goderive",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gravitational/teleport/build.assets/tooling/goderive?tag=v0.0.0-20250627210727-059fb3740a3a-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a17b6b92a384fbdafb1310a93433f74962ad5251bbebde7dbb9174ad0706d756",
+  "size": "4.4 MB",
+  "size_raw": "4524584",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
