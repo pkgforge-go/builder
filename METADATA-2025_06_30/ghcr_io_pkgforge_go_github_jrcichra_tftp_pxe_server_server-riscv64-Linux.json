@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "tftp-pxe-server",
+  "pkg_id": "server#github.com_jrcichra_tftp_pxe_server",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jrcichra/tftp-pxe-server",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A modern TFTP PXE server designed for supporting multiple Raspberry Pis",
+  "homepage": [
+    "https://github.com/jrcichra/tftp-pxe-server"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/jrcichra/tftp-pxe-server/@v/v0.0.0-20250603122119-5bcacd5b1ccd.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250603122119-5bcacd5b1ccd",
+  "version_upstream": "",
+  "bsum": "2179a05a7d3d3ed17d30701ea67b38010ec0ef405f144af2cb6d750754cb8b62",
+  "build_date": "2025-06-30T16:20:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15977718150",
+  "build_id": "15977718150",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jrcichra/tftp-pxe-server/server?tag=v0.0.0-20250603122119-5bcacd5b1ccd-riscv64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jrcichra/tftp-pxe-server/server?tag=v0.0.0-20250603122119-5bcacd5b1ccd-riscv64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jrcichra/tftp-pxe-server/server:v0.0.0-20250603122119-5bcacd5b1ccd-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jrcichra/tftp-pxe-server/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jrcichra/tftp-pxe-server/server?tag=v0.0.0-20250603122119-5bcacd5b1ccd-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "65dc93d99517db03c180909ad26c25f5b6308e8ebdf83514b6797801c1b2fc83",
+  "size": "9.3 MB",
+  "size_raw": "9706872",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
