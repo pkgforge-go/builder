@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "template-kyaml",
+  "pkg_family": "catalog",
+  "pkg_id": "template-kyaml#github.com_krm_functions_catalog",
+  "pkg_name": "template-kyaml",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/krm-functions/catalog",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "KRM functions catalog",
+  "homepage": [
+    "https://github.com/krm-functions/catalog"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apply-setters",
+    "digester",
+    "gatekeeper-set-enforcement-action",
+    "helm-upgrader",
+    "kubeconform",
+    "package-compositor",
+    "remove-local-config-resources",
+    "render-helm-chart",
+    "set-annotations",
+    "set-labels",
+    "source-helm-chart",
+    "template",
+    "template-kyaml"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/krm-functions/catalog/@v/v0.0.0-20250629073418-d4e84da03b2a.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250629073418-d4e84da03b2a",
+  "version_upstream": "",
+  "bsum": "fec5947d3fffc1132da93c9a4811473260be404b219e311d1236328071103e2b",
+  "build_date": "2025-06-30T17:49:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15979356227",
+  "build_id": "15979356227",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/krm-functions/catalog/template-kyaml?tag=v0.0.0-20250629073418-d4e84da03b2a-aarch64-Linux&download=template-kyaml.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/krm-functions/catalog/template-kyaml?tag=v0.0.0-20250629073418-d4e84da03b2a-aarch64-Linux&download=template-kyaml",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/krm-functions/catalog/template-kyaml:v0.0.0-20250629073418-d4e84da03b2a-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/krm-functions/catalog/template-kyaml",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/krm-functions/catalog/template-kyaml?tag=v0.0.0-20250629073418-d4e84da03b2a-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3bf7e45a36f3df4651ca7f78318df774fa23726c3115fe5fb46c77c309ae44bd",
+  "size": "22 MB",
+  "size_raw": "22072032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
