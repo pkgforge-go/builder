@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "ingress-backend",
+  "pkg_family": "ingress-backend",
+  "pkg_id": "ingress-backend#github.com_lab42_ingress_backend",
+  "pkg_name": "ingress-backend",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lab42/ingress-backend",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Kubernetes default backend container for Ingress controllers, designed to handle unmatched requests and provide a catch-all solution for traffic management",
+  "homepage": [
+    "https://github.com/lab42/ingress-backend"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ingress-backend"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/lab42/ingress-backend/@v/v0.1.31.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.1.31",
+  "version_upstream": "",
+  "bsum": "b573bf69920df6724dd93ec9f4902c7fd157d8a5ac33ddc8d69a74e27cb3a627",
+  "build_date": "2025-06-30T19:06:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15981301090",
+  "build_id": "15981301090",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lab42/ingress-backend/ingress-backend?tag=v0.1.31-aarch64-Linux&download=ingress-backend.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lab42/ingress-backend/ingress-backend?tag=v0.1.31-aarch64-Linux&download=ingress-backend",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lab42/ingress-backend/ingress-backend:v0.1.31-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lab42/ingress-backend/ingress-backend",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lab42/ingress-backend/ingress-backend?tag=v0.1.31-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b2e3042cd643d813b2da0fb5d6085c351b7ff737cb7b1c93c02904ecf00398a5",
+  "size": "11 MB",
+  "size_raw": "11405056",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
