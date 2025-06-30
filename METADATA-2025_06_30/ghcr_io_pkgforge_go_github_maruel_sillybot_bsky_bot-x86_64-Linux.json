@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "bsky-bot",
+  "pkg_family": "sillybot",
+  "pkg_id": "bsky-bot#github.com_maruel_sillybot",
+  "pkg_name": "bsky-bot",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/maruel/sillybot",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A simple Discord&Slack bot that runs LLM (Llama-3, Phi-3, Gemma-2, Mistral) and Stable Diffusion",
+  "homepage": [
+    "https://github.com/maruel/sillybot"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bsky-bot",
+    "discord-bot",
+    "slack-bot"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/maruel/sillybot/@v/v0.0.0-20250613193351-2e3673a7902b.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250613193351-2e3673a7902b",
+  "version_upstream": "",
+  "bsum": "7bd29262bc5bc2a9c6ddd1ea8eecd580891545cda4e0ebca1e0668dead6f827c",
+  "build_date": "2025-06-30T20:39:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15982679919",
+  "build_id": "15982679919",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/maruel/sillybot/bsky-bot?tag=v0.0.0-20250613193351-2e3673a7902b-x86_64-Linux&download=bsky-bot.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/maruel/sillybot/bsky-bot?tag=v0.0.0-20250613193351-2e3673a7902b-x86_64-Linux&download=bsky-bot",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/maruel/sillybot/bsky-bot:v0.0.0-20250613193351-2e3673a7902b-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/maruel/sillybot/bsky-bot",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/maruel/sillybot/bsky-bot?tag=v0.0.0-20250613193351-2e3673a7902b-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6de659a076306c12fbdf51eb4ac3532a0e00c97f740c7fac70c48e4885081237",
+  "size": "19 MB",
+  "size_raw": "19598448",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
