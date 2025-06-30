@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ar",
+  "pkg_family": "num2words",
+  "pkg_id": "ar#github.com_ilius_num2words",
+  "pkg_name": "ar",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ilius/num2words",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A number to words converter for Python and Go, supporting English, Persian, Arabic, Tajik",
+  "homepage": [
+    "https://github.com/ilius/num2words"
+  ],
+  "license": [
+    "LGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ar",
+    "en",
+    "fa",
+    "gen-test-data",
+    "tg"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/ilius/num2words/@v/v0.0.0-20250312005751-9c41f6027808.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250312005751-9c41f6027808",
+  "version_upstream": "",
+  "bsum": "5dcc0c04a741d08fc8f9a4a67830116822d10e591a46d6aad94c823869d673ed",
+  "build_date": "2025-06-30T13:27:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15973840436",
+  "build_id": "15973840436",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ilius/num2words/ar?tag=v0.0.0-20250312005751-9c41f6027808-loongarch64-Linux&download=ar.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ilius/num2words/ar?tag=v0.0.0-20250312005751-9c41f6027808-loongarch64-Linux&download=ar",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ilius/num2words/ar:v0.0.0-20250312005751-9c41f6027808-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ilius/num2words/ar",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ilius/num2words/ar?tag=v0.0.0-20250312005751-9c41f6027808-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "684afdde5477e0956946204a2fa4476edc144fa1aa5515f1e80c161b6d379657",
+  "size": "1.6 MB",
+  "size_raw": "1674456",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
