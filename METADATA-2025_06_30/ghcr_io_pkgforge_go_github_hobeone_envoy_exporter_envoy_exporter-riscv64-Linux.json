@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "envoy-exporter",
+  "pkg_family": "envoy-exporter",
+  "pkg_id": "envoy-exporter#github.com_hobeone_envoy_exporter",
+  "pkg_name": "envoy-exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hobeone/envoy-exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Small demon to scrape information from a local Envoy gateway and write to an Influxdb instance",
+  "homepage": [
+    "https://github.com/hobeone/envoy-exporter"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "envoy-exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/hobeone/envoy-exporter/@v/v0.0.0-20250417000057-fbb897ca17b8.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250417000057-fbb897ca17b8",
+  "version_upstream": "",
+  "bsum": "e7518eb12df2a2292ea68d06fcdd423f79cea9ee37d3ef749e454099c9b0c94c",
+  "build_date": "2025-06-30T11:33:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15971232208",
+  "build_id": "15971232208",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hobeone/envoy-exporter/envoy-exporter?tag=v0.0.0-20250417000057-fbb897ca17b8-riscv64-Linux&download=envoy-exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hobeone/envoy-exporter/envoy-exporter?tag=v0.0.0-20250417000057-fbb897ca17b8-riscv64-Linux&download=envoy-exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hobeone/envoy-exporter/envoy-exporter:v0.0.0-20250417000057-fbb897ca17b8-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hobeone/envoy-exporter/envoy-exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hobeone/envoy-exporter/envoy-exporter?tag=v0.0.0-20250417000057-fbb897ca17b8-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b0fab44b879a7954e3c92aa1f7c9464d6e34b452767f8d30b9d46027c56acd15",
+  "size": "7.6 MB",
+  "size_raw": "7931256",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
