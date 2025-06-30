@@ -162,6 +162,7 @@ install_tool "go-detector" "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/go-
   presetup_go()
   {
    #Cleanup
+    echo -e "\n[+] Garbage Collecting...\n"
     go clean -x -cache -modcache -testcache -fuzzcache
     rm -rvf "./go.sum" "./go.work" "./go.work.sum" 2>/dev/null
    #Init mod
@@ -169,8 +170,10 @@ install_tool "go-detector" "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/go-
       go mod init "${PKG_REPO}/${GPKG_NAME}"
     fi
    #Tidy
-    go mod tidy -v 
+    echo -e "\n[+] Tidying GOMOD...\n"
+    go mod tidy -v
    #Generate
+    echo -e "\n[+] Generating GOSRC...\n"
     go generate ./...
   }
   export -f presetup_go
