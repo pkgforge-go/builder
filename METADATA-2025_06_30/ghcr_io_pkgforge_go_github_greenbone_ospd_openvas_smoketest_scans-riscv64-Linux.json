@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "scans",
+  "pkg_family": "smoketest",
+  "pkg_id": "scans#github.com_greenbone_ospd_openvas_smoketest",
+  "pkg_name": "scans",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/greenbone/ospd-openvas/smoketest",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Ospd-openvas is an OSP server implementation to allow GVM to remotely control an OpenVAS Scanner",
+  "homepage": [
+    "https://github.com/greenbone/ospd-openvas/smoketest"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "feed-preparer",
+    "scans",
+    "test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/greenbone/ospd-openvas/smoketest/@v/v0.0.0-20250625103011-b27ac2629de0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250625103011-b27ac2629de0",
+  "version_upstream": "",
+  "bsum": "6160d6de3161b6d11e00c124fabbb841f812975504f45631bd06ca1af4224690",
+  "build_date": "2025-06-30T10:44:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15970002974",
+  "build_id": "15970002974",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/greenbone/ospd-openvas/smoketest/scans?tag=v0.0.0-20250625103011-b27ac2629de0-riscv64-Linux&download=scans.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "73",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/greenbone/ospd-openvas/smoketest/scans?tag=v0.0.0-20250625103011-b27ac2629de0-riscv64-Linux&download=scans",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/greenbone/ospd-openvas/smoketest/scans:v0.0.0-20250625103011-b27ac2629de0-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/greenbone/ospd-openvas/smoketest/scans",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/greenbone/ospd-openvas/smoketest/scans?tag=v0.0.0-20250625103011-b27ac2629de0-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "74c88ec2c48d280c4929b23685019498b57a60010dbcd8eefb5f6b6aa601a3c7",
+  "size": "4.8 MB",
+  "size_raw": "4982552",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
