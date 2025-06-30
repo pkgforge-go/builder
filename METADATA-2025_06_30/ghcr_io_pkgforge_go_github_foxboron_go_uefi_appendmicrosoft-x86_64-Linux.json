@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "appendmicrosoft",
+  "pkg_family": "go-uefi",
+  "pkg_id": "appendmicrosoft#github.com_foxboron_go_uefi",
+  "pkg_name": "appendmicrosoft",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/foxboron/go-uefi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Linux UEFI library written in pure Go",
+  "homepage": [
+    "https://github.com/foxboron/go-uefi"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appendmicrosoft",
+    "efianalyze",
+    "gosiglist",
+    "gosign",
+    "govarsign",
+    "goverify",
+    "gowritevar"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/foxboron/go-uefi/@v/v0.0.0-20250625111927-a3183a1bfc84.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250625111927-a3183a1bfc84",
+  "version_upstream": "",
+  "bsum": "ac1bc9b6edacfa7b00f39a79557926547d6c7a1ce8708c5707a21a074cc272cf",
+  "build_date": "2025-06-30T04:09:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15963065186",
+  "build_id": "15963065186",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foxboron/go-uefi/appendmicrosoft?tag=v0.0.0-20250625111927-a3183a1bfc84-x86_64-Linux&download=appendmicrosoft.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "150",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foxboron/go-uefi/appendmicrosoft?tag=v0.0.0-20250625111927-a3183a1bfc84-x86_64-Linux&download=appendmicrosoft",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/foxboron/go-uefi/appendmicrosoft:v0.0.0-20250625111927-a3183a1bfc84-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/foxboron/go-uefi/appendmicrosoft",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foxboron/go-uefi/appendmicrosoft?tag=v0.0.0-20250625111927-a3183a1bfc84-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "32ee438d192edc8487a90e9e9363182432e767e4a9844f01bc68005607c5e294",
+  "size": "1.7 MB",
+  "size_raw": "1762936",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-3915337-250618T225220-x86_64-Linux"
+  ],
+  "trusted": "true"
+}

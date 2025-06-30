@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "govarsign",
+  "pkg_family": "go-uefi",
+  "pkg_id": "govarsign#github.com_foxboron_go_uefi",
+  "pkg_name": "govarsign",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/foxboron/go-uefi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Linux UEFI library written in pure Go",
+  "homepage": [
+    "https://github.com/foxboron/go-uefi"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appendmicrosoft",
+    "efianalyze",
+    "gosiglist",
+    "gosign",
+    "govarsign",
+    "goverify",
+    "gowritevar"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/foxboron/go-uefi/@v/v0.0.0-20250625111927-a3183a1bfc84.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250625111927-a3183a1bfc84",
+  "version_upstream": "",
+  "bsum": "81be86e59659f9f4b2d8dcdaf7d6627f856919b6f2e8ae87c86e1ca9d54f3ad9",
+  "build_date": "2025-06-30T04:09:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15963065186",
+  "build_id": "15963065186",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foxboron/go-uefi/govarsign?tag=v0.0.0-20250625111927-a3183a1bfc84-x86_64-Linux&download=govarsign.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "150",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foxboron/go-uefi/govarsign?tag=v0.0.0-20250625111927-a3183a1bfc84-x86_64-Linux&download=govarsign",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/foxboron/go-uefi/govarsign:v0.0.0-20250625111927-a3183a1bfc84-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/foxboron/go-uefi/govarsign",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foxboron/go-uefi/govarsign?tag=v0.0.0-20250625111927-a3183a1bfc84-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fa51fb41bb53935579f178b15b5c64dc0d87fff8edce8bb66517ef89e558ea4f",
+  "size": "4.5 MB",
+  "size_raw": "4617792",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-3915337-250618T225220-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
