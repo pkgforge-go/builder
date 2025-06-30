@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "regress",
+  "pkg_family": "waffle",
+  "pkg_id": "regress#github.com_erikbryant_waffle",
+  "pkg_name": "regress",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/erikbryant/waffle",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Solver for the Waffle game https://wafflegame.net",
+  "homepage": [
+    "https://github.com/erikbryant/waffle"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "decoder",
+    "regress",
+    "waffle"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/erikbryant/waffle/@v/v0.0.0-20250625022336-7b493176a4d2.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250625022336-7b493176a4d2",
+  "version_upstream": "",
+  "bsum": "6ee530e8296cfb6b2c45fc80c92de0fb8a8cc08d59858827d6b3fd269723bba4",
+  "build_date": "2025-06-30T03:09:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15962356123",
+  "build_id": "15962356123",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/erikbryant/waffle/regress?tag=v0.0.0-20250625022336-7b493176a4d2-x86_64-Linux&download=regress.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/erikbryant/waffle/regress?tag=v0.0.0-20250625022336-7b493176a4d2-x86_64-Linux&download=regress",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/erikbryant/waffle/regress:v0.0.0-20250625022336-7b493176a4d2-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/erikbryant/waffle/regress",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/erikbryant/waffle/regress?tag=v0.0.0-20250625022336-7b493176a4d2-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d610d9a7d92ffe279133001ad88e3055eabdb4e885208c6e8651780f71665d3c",
+  "size": "2.3 MB",
+  "size_raw": "2340256",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
