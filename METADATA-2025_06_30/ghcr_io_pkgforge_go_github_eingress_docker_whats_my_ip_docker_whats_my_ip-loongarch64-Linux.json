@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "docker-whats-my-ip",
+  "pkg_family": "docker-whats-my-ip",
+  "pkg_id": "docker-whats-my-ip#github.com_eingress_docker_whats_my_ip",
+  "pkg_name": "docker-whats-my-ip",
+  "pkg_type": "static",
+  "pkg_webpage": "https://hub.docker.com/r/eingressio/whats-my-ip",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A simple ip echo service that runs behind Cloudflare proxy",
+  "homepage": [
+    "https://hub.docker.com/r/eingressio/whats-my-ip"
+  ],
+  "license": [
+    "ISC"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docker-whats-my-ip"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/eingress/docker-whats-my-ip/@v/v0.0.0-20250517175848-3cd87ce79775.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250517175848-3cd87ce79775",
+  "version_upstream": "",
+  "bsum": "163aa92c4d1424d497a553c6445ea08b041bebd25bb96aefaa726149560680c9",
+  "build_date": "2025-06-30T02:34:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15962302406",
+  "build_id": "15962302406",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eingress/docker-whats-my-ip/docker-whats-my-ip?tag=v0.0.0-20250517175848-3cd87ce79775-loongarch64-Linux&download=docker-whats-my-ip.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eingress/docker-whats-my-ip/docker-whats-my-ip?tag=v0.0.0-20250517175848-3cd87ce79775-loongarch64-Linux&download=docker-whats-my-ip",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/eingress/docker-whats-my-ip/docker-whats-my-ip:v0.0.0-20250517175848-3cd87ce79775-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/eingress/docker-whats-my-ip/docker-whats-my-ip",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eingress/docker-whats-my-ip/docker-whats-my-ip?tag=v0.0.0-20250517175848-3cd87ce79775-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "04e255b14589a3b0be29a2ec45d8d91cef72ad23ac5a3ed0645c3aea41527b3c",
+  "size": "5.6 MB",
+  "size_raw": "5862944",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
