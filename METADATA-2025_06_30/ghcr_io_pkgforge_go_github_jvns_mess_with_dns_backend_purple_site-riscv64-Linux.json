@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "purple-site",
+  "pkg_family": "mess-with-dns-backend",
+  "pkg_id": "purple-site#github.com_jvns_mess_with_dns_backend",
+  "pkg_name": "purple-site",
+  "pkg_type": "static",
+  "pkg_webpage": "https://messwithdns.net",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Source for Mess With DNS",
+  "homepage": [
+    "https://messwithdns.net"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "orange-site",
+    "purple-site",
+    "scripts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/jvns/mess-with-dns-backend/@v/v0.0.0-20250606203054-caad7bbe38f8.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250606203054-caad7bbe38f8",
+  "version_upstream": "",
+  "bsum": "909329734b4491b3323f782722ddd629ceede76bb5eeff395f18f26f2f71414f",
+  "build_date": "2025-06-30T16:36:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15977893463",
+  "build_id": "15977893463",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jvns/mess-with-dns-backend/purple-site?tag=v0.0.0-20250606203054-caad7bbe38f8-riscv64-Linux&download=purple-site.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "258",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jvns/mess-with-dns-backend/purple-site?tag=v0.0.0-20250606203054-caad7bbe38f8-riscv64-Linux&download=purple-site",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jvns/mess-with-dns-backend/purple-site:v0.0.0-20250606203054-caad7bbe38f8-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jvns/mess-with-dns-backend/purple-site",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jvns/mess-with-dns-backend/purple-site?tag=v0.0.0-20250606203054-caad7bbe38f8-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dd8313721e72be5fe9358be957b414d02b3411aaf72d216ced3a2fe0cfdbe0d2",
+  "size": "5.6 MB",
+  "size_raw": "5796440",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
