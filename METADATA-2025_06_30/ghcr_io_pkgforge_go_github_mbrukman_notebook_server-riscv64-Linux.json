@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "notebook",
+  "pkg_id": "server#github.com_mbrukman_notebook",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mbrukman/notebook",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A digital notebook for semi-structured data",
+  "homepage": [
+    "https://github.com/mbrukman/notebook"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "fileviewer",
+    "proxy",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/mbrukman/notebook/@v/v0.0.0-20250626234219-0bb9738a8bf6.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250626234219-0bb9738a8bf6",
+  "version_upstream": "",
+  "bsum": "9b939e10a2012d66252039e3957c9e72e49f415e60d2cf2ffd3e34954e708765",
+  "build_date": "2025-06-30T20:50:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15982792823",
+  "build_id": "15982792823",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mbrukman/notebook/server?tag=v0.0.0-20250626234219-0bb9738a8bf6-riscv64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mbrukman/notebook/server?tag=v0.0.0-20250626234219-0bb9738a8bf6-riscv64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mbrukman/notebook/server:v0.0.0-20250626234219-0bb9738a8bf6-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mbrukman/notebook/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mbrukman/notebook/server?tag=v0.0.0-20250626234219-0bb9738a8bf6-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "eef7bc0e4a291547020e2ffc251baad19ab236790c3344d4735c80437714150c",
+  "size": "5.9 MB",
+  "size_raw": "6167384",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
