@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "whoami",
+  "pkg_family": "whoami",
+  "pkg_id": "whoami#github.com_jrcichra_whoami",
+  "pkg_name": "whoami",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jrcichra/whoami",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Simple HTTP docker service that prints its container ID (inspired by jwilder",
+  "homepage": [
+    "https://github.com/jrcichra/whoami"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "whoami"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/jrcichra/whoami/@v/v0.0.0-20250606133713-dc1fe4b76a4b.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250606133713-dc1fe4b76a4b",
+  "version_upstream": "",
+  "bsum": "cb6b0e2ce8bfef4647fb8224cb01ae1e8c17c7ee264fdfb8214bf08cef29eb1d",
+  "build_date": "2025-06-30T16:18:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15977717898",
+  "build_id": "15977717898",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jrcichra/whoami/whoami?tag=v0.0.0-20250606133713-dc1fe4b76a4b-aarch64-Linux&download=whoami.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jrcichra/whoami/whoami?tag=v0.0.0-20250606133713-dc1fe4b76a4b-aarch64-Linux&download=whoami",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jrcichra/whoami/whoami:v0.0.0-20250606133713-dc1fe4b76a4b-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jrcichra/whoami/whoami",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jrcichra/whoami/whoami?tag=v0.0.0-20250606133713-dc1fe4b76a4b-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ee622eea8ab20d598ed6fd820f636c76ebe7eb88ccc2470118b3e9558e864984",
+  "size": "5.5 MB",
+  "size_raw": "5709152",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
