@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "performance_test",
+  "pkg_family": "bcda-app",
+  "pkg_id": "performance_test#github.com_cmsgov_bcda_app",
+  "pkg_name": "performance_test",
+  "pkg_type": "static",
+  "pkg_webpage": "https://bcda.cms.gov/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Beneficiary Claims Data API",
+  "homepage": [
+    "https://bcda.cms.gov/"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admin_aco_deny",
+    "admin_create_aco",
+    "admin_create_aco_creds",
+    "admin_create_group",
+    "bcdaworker",
+    "datagenerator",
+    "optout",
+    "performance_test",
+    "smoke_test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cmsgov/bcda-app/@v/v0.0.0-20250627173249-68662fcd58cd.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250627173249-68662fcd58cd",
+  "version_upstream": "",
+  "bsum": "bd6eaca273b127a1878eb5ab4de6b69b1eb295f2538d837fc66c1b5d8af9dd66",
+  "build_date": "2025-06-30T16:03:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15977635795",
+  "build_id": "15977635795",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cmsgov/bcda-app/performance_test?tag=v0.0.0-20250627173249-68662fcd58cd-riscv64-Linux&download=performance_test.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "48",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cmsgov/bcda-app/performance_test?tag=v0.0.0-20250627173249-68662fcd58cd-riscv64-Linux&download=performance_test",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cmsgov/bcda-app/performance_test:v0.0.0-20250627173249-68662fcd58cd-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cmsgov/bcda-app/performance_test",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cmsgov/bcda-app/performance_test?tag=v0.0.0-20250627173249-68662fcd58cd-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8494a437eeadb314664d168e75a2efbde8295d230b7462df1fde22379e55bd1c",
+  "size": "8.3 MB",
+  "size_raw": "8670392",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
