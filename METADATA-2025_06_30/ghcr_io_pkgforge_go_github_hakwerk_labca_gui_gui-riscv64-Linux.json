@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gui",
+  "pkg_family": "gui",
+  "pkg_id": "gui#github.com_hakwerk_labca_gui",
+  "pkg_name": "gui",
+  "pkg_type": "static",
+  "pkg_webpage": "https://lab-ca.net",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A private Certificate Authority for internal (lab) use, based on the open source ACME Automated Certificate Management Environment implementation from Let's Encrypt (tm",
+  "homepage": [
+    "https://lab-ca.net"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gui"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/hakwerk/labca/gui/@v/v0.0.0-20250604192817-ec77c14f6233.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250604192817-ec77c14f6233",
+  "version_upstream": "",
+  "bsum": "b0d495bb9ec8991098b8c87d0c8b8daa6bae7503ad28a374caa174f3704f36ea",
+  "build_date": "2025-06-30T11:10:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15970588355",
+  "build_id": "15970588355",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hakwerk/labca/gui/gui?tag=v0.0.0-20250604192817-ec77c14f6233-riscv64-Linux&download=gui.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "440",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hakwerk/labca/gui/gui?tag=v0.0.0-20250604192817-ec77c14f6233-riscv64-Linux&download=gui",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hakwerk/labca/gui/gui:v0.0.0-20250604192817-ec77c14f6233-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hakwerk/labca/gui/gui",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hakwerk/labca/gui/gui?tag=v0.0.0-20250604192817-ec77c14f6233-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f220a3edb1aa88f1dafda739100824aa709d7582bad3e3e3482176923ae60c76",
+  "size": "28 MB",
+  "size_raw": "28623032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
