@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "drafter-forwarder",
+  "pkg_family": "architekt",
+  "pkg_id": "drafter-forwarder#github.com_loopholelabs_architekt",
+  "pkg_name": "drafter-forwarder",
+  "pkg_type": "static",
+  "pkg_webpage": "https://loopholelabs.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Compute Primitive Designed for Live Migration",
+  "homepage": [
+    "https://loopholelabs.io"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "drafter-agent",
+    "drafter-forwarder",
+    "drafter-liveness",
+    "drafter-mignettest",
+    "drafter-migtest",
+    "drafter-nat",
+    "drafter-packager",
+    "drafter-peer",
+    "drafter-perf",
+    "drafter-snapshotter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/loopholelabs/architekt/@v/v0.7.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.7.3",
+  "version_upstream": "",
+  "bsum": "63f6d623d0fd3aa9118eeb69faab28488183f32517c63c0ea28120e27c62b934",
+  "build_date": "2025-06-30T19:57:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15982012294",
+  "build_id": "15982012294",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/loopholelabs/architekt/drafter-forwarder?tag=v0.7.3-aarch64-Linux&download=drafter-forwarder.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "131",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/loopholelabs/architekt/drafter-forwarder?tag=v0.7.3-aarch64-Linux&download=drafter-forwarder",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/loopholelabs/architekt/drafter-forwarder:v0.7.3-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/loopholelabs/architekt/drafter-forwarder",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/loopholelabs/architekt/drafter-forwarder?tag=v0.7.3-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4900aeb06a18efaab876995c4b480316884bc1e40511fd11ab25afb861f83401",
+  "size": "3.4 MB",
+  "size_raw": "3551000",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
