@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "setup-dev",
+  "pkg_family": "src",
+  "pkg_id": "setup-dev#github.com_opentofu_registry_stable_src",
+  "pkg_name": "setup-dev",
+  "pkg_type": "static",
+  "pkg_webpage": "https://search.opentofu.org",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Metadata and tooling for the OpenTofu registry",
+  "homepage": [
+    "https://search.opentofu.org"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "app-rollout-controller",
+    "cr-syncer",
+    "cr-syncer-auth-webhook",
+    "gcr-credential-refresher",
+    "metadata-server",
+    "setup-dev",
+    "setup-robot",
+    "token-vendor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/googlecloudrobotics/core/src/@v/v0.0.0-20250625181549-d33cad2b0bac.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250630000214-b212b9918d81",
+  "version_upstream": "",
+  "bsum": "31e5d467abbded2262a541aa88b5d9939559afc7b7a58a26cbf1d8654ad98d40",
+  "build_date": "2025-06-30T10:33:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15969702484",
+  "build_id": "15969702484",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opentofu/registry-stable/src/setup-dev?tag=v0.0.0-20250630000214-b212b9918d81-aarch64-Linux&download=setup-dev.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "373",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opentofu/registry-stable/src/setup-dev?tag=v0.0.0-20250630000214-b212b9918d81-aarch64-Linux&download=setup-dev",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/opentofu/registry-stable/src/setup-dev:v0.0.0-20250630000214-b212b9918d81-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/opentofu/registry-stable/src/setup-dev",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opentofu/registry-stable/src/setup-dev?tag=v0.0.0-20250630000214-b212b9918d81-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "97c5d8b6e070cdf01326882bbcb7c080f5e5ec67c8b203f905b9b4ec4f1016b5",
+  "size": "42 MB",
+  "size_raw": "43474304",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
