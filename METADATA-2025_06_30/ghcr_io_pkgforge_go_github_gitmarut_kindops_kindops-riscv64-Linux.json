@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "kindops",
+  "pkg_family": "kindops",
+  "pkg_id": "kindops#github.com_gitmarut_kindops",
+  "pkg_name": "kindops",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gitmarut/kindops",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A simple package to make a fully functional k8s kind cluster in a Linux(Ubuntu) with Load Balancer, Volume support, helm chart installation support, kubectl like apply of yaml etc",
+  "homepage": [
+    "https://github.com/gitmarut/kindops"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kindops"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/gitmarut/kindops/@v/v0.0.0-20250623000608-99dc147a112e.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250623000608-99dc147a112e",
+  "version_upstream": "",
+  "bsum": "d9c36b11f54368fff37004f51f4a3cd18ec0c081b1368f701cc92fb060f03fbc",
+  "build_date": "2025-06-30T08:21:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15967309736",
+  "build_id": "15967309736",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gitmarut/kindops/kindops?tag=v0.0.0-20250623000608-99dc147a112e-riscv64-Linux&download=kindops.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gitmarut/kindops/kindops?tag=v0.0.0-20250623000608-99dc147a112e-riscv64-Linux&download=kindops",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gitmarut/kindops/kindops:v0.0.0-20250623000608-99dc147a112e-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gitmarut/kindops/kindops",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gitmarut/kindops/kindops?tag=v0.0.0-20250623000608-99dc147a112e-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6b4edc6dbc47f6d3e652e512abe557d62b2d6333939a2359c3ca91cf7077e3e1",
+  "size": "66 MB",
+  "size_raw": "68454296",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
