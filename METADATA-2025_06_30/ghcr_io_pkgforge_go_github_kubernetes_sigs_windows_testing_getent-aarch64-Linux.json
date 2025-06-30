@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "getent",
+  "pkg_family": "windows-testing",
+  "pkg_id": "getent#github.com_kubernetes_sigs_windows_testing",
+  "pkg_name": "getent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-sigs/windows-testing",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Containers, scripts and documentation for running Kubernetes tests with Windows nodes",
+  "homepage": [
+    "https://github.com/kubernetes-sigs/windows-testing"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cassandra",
+    "getent"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/kubernetes-sigs/windows-testing/@v/v0.0.0-20250604212106-a553e9bdc272.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250604212106-a553e9bdc272",
+  "version_upstream": "",
+  "bsum": "4e714e01acb71bdf16f5264f4cfb98ae05bba9c7c78f8c9d85a39fd5e233c7f2",
+  "build_date": "2025-06-30T17:52:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15979508255",
+  "build_id": "15979508255",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/windows-testing/getent?tag=v0.0.0-20250604212106-a553e9bdc272-aarch64-Linux&download=getent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "42",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/windows-testing/getent?tag=v0.0.0-20250604212106-a553e9bdc272-aarch64-Linux&download=getent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/windows-testing/getent:v0.0.0-20250604212106-a553e9bdc272-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/windows-testing/getent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/windows-testing/getent?tag=v0.0.0-20250604212106-a553e9bdc272-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "58744f8198b5b867d705a1944b0136054725c885b07b23bd00d348ebbf291859",
+  "size": "2.0 MB",
+  "size_raw": "2030392",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
