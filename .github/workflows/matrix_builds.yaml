@@ -267,9 +267,11 @@ jobs:
                 echo "GPKG_SRCURL=${GPKG_SRCURL}" >> "${GITHUB_ENV}"
               fi
             fi
-           #Check if Lib 
+           #Check if Lib
+            sudo curl -qfsSL "https://bin.pkgforge.dev/$(uname -m)-$(uname -s)/extraxtor" -o "/usr/local/bin/extraxtor"
             sudo curl -qfsSL "https://raw.githubusercontent.com/pkgforge-go/builder/refs/heads/main/scripts/_detect_if_cli.sh" -o "/usr/local/bin/_detect_if_cli"
-            sudo chmod 'a+x' "/usr/local/bin/_detect_if_cli" ; hash -r &>/dev/null 
+            sudo chmod 'a+x' "/usr/local/bin/extraxtor" "/usr/local/bin/_detect_if_cli"
+            hash -r &>/dev/null
             if ! command -v _detect_if_cli &> /dev/null; then
                echo -e "\n[✗] FATAL: _detect_if_cli NOT Found"
                echo "CONTINUE_GHRUN=FALSE" >> "${GITHUB_ENV}"
