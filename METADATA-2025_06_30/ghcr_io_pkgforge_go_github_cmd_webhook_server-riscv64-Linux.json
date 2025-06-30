@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "webhook",
+  "pkg_id": "server#github.com_jetstack_cert_manager_cmd_webhook",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://cert-manager.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Automatically provision and manage TLS certificates in Kubernetes",
+  "homepage": [
+    "https://cert-manager.io"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/franela/webhook/@v/v0.0.0-20250625202845-3b9ac59b1cb1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250619123710-63b4706a2e27",
+  "version_upstream": "",
+  "bsum": "eceb97b7c05577f6e04176fa77dfe89554528b1984203c25fb7e7e4a602c2ec8",
+  "build_date": "2025-06-30T04:12:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15963163208",
+  "build_id": "15963163208",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cmd/webhook/server?tag=v0.0.0-20250619123710-63b4706a2e27-riscv64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12916",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cmd/webhook/server?tag=v0.0.0-20250619123710-63b4706a2e27-riscv64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cmd/webhook/server:v0.0.0-20250619123710-63b4706a2e27-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cmd/webhook/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cmd/webhook/server?tag=v0.0.0-20250619123710-63b4706a2e27-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "31dc3e3d803c6888999fa474143135d83158b5c98cbc5699a4a407a8d0ade438",
+  "size": "16 MB",
+  "size_raw": "16563224",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
