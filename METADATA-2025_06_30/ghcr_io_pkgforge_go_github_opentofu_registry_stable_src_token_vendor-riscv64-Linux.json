@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "token-vendor",
+  "pkg_family": "src",
+  "pkg_id": "token-vendor#github.com_opentofu_registry_stable_src",
+  "pkg_name": "token-vendor",
+  "pkg_type": "static",
+  "pkg_webpage": "https://search.opentofu.org",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Metadata and tooling for the OpenTofu registry",
+  "homepage": [
+    "https://search.opentofu.org"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "app-rollout-controller",
+    "chart-assignment-controller",
+    "cr-syncer",
+    "cr-syncer-auth-webhook",
+    "gcr-credential-refresher",
+    "metadata-server",
+    "setup-dev",
+    "setup-robot",
+    "synk",
+    "token-vendor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/googlecloudrobotics/core/src/@v/v0.0.0-20250625181549-d33cad2b0bac.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250630000214-b212b9918d81",
+  "version_upstream": "",
+  "bsum": "3ab7f0941069c7c770efb1c2c2bd222e7e699a9d9cd78af8cde2621cc3cef635",
+  "build_date": "2025-06-30T10:33:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15969702484",
+  "build_id": "15969702484",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opentofu/registry-stable/src/token-vendor?tag=v0.0.0-20250630000214-b212b9918d81-riscv64-Linux&download=token-vendor.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "373",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opentofu/registry-stable/src/token-vendor?tag=v0.0.0-20250630000214-b212b9918d81-riscv64-Linux&download=token-vendor",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/opentofu/registry-stable/src/token-vendor:v0.0.0-20250630000214-b212b9918d81-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/opentofu/registry-stable/src/token-vendor",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opentofu/registry-stable/src/token-vendor?tag=v0.0.0-20250630000214-b212b9918d81-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "36207dc61aa94fa3238b8061262d1d1041b87ac04e23edf325d29293142fc19d",
+  "size": "42 MB",
+  "size_raw": "43107160",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
