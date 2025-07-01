@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "echoserver",
+  "pkg_family": "echoserver",
+  "pkg_id": "echoserver#github.com_tsaarni_echoserver",
+  "pkg_name": "echoserver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tsaarni/echoserver",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Echoserver is an HTTP server that returns request details as JSON document and it includes client-side web apps for testing requests and authentication",
+  "homepage": [
+    "https://github.com/tsaarni/echoserver"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "echoserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/tsaarni/echoserver/@v/v0.0.0-20250315210633-db62131bfbce.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250315210633-db62131bfbce",
+  "version_upstream": "",
+  "bsum": "c136b0286ef2c3902bc535b4c58378283c74a82e723fdd4665fa96f0313fb79e",
+  "build_date": "2025-07-01T20:07:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16008130089",
+  "build_id": "16008130089",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tsaarni/echoserver/echoserver?tag=v0.0.0-20250315210633-db62131bfbce-riscv64-Linux&download=echoserver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tsaarni/echoserver/echoserver?tag=v0.0.0-20250315210633-db62131bfbce-riscv64-Linux&download=echoserver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tsaarni/echoserver/echoserver:v0.0.0-20250315210633-db62131bfbce-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tsaarni/echoserver/echoserver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tsaarni/echoserver/echoserver?tag=v0.0.0-20250315210633-db62131bfbce-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "42c47709aafefb1d8d9b539e4d0ef90eb206530cd1f2212ec55b46f051ea1ea9",
+  "size": "8.0 MB",
+  "size_raw": "8379736",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
