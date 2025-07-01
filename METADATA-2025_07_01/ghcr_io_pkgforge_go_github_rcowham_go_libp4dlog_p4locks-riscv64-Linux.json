@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "p4locks",
+  "pkg_family": "go-libp4dlog",
+  "pkg_id": "p4locks#github.com_rcowham_go_libp4dlog",
+  "pkg_name": "p4locks",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rcowham/go-libp4dlog",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go-libp4dlog is a library for Go to parse Perforce Helix Core p4d text log files",
+  "homepage": [
+    "https://github.com/rcowham/go-libp4dlog"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "p4dpending",
+    "p4locks",
+    "p4plog2sql"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/rcowham/go-libp4dlog/@v/v0.14.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.14.3",
+  "version_upstream": "",
+  "bsum": "302330674de36f06114d53724047e38cc1050331ac4617a4b1c14bfaa65a835f",
+  "build_date": "2025-07-01T09:59:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15995934608",
+  "build_id": "15995934608",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rcowham/go-libp4dlog/p4locks?tag=v0.14.3-riscv64-Linux&download=p4locks.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rcowham/go-libp4dlog/p4locks?tag=v0.14.3-riscv64-Linux&download=p4locks",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rcowham/go-libp4dlog/p4locks:v0.14.3-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rcowham/go-libp4dlog/p4locks",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rcowham/go-libp4dlog/p4locks?tag=v0.14.3-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8f957bcae4717f380297e33383f91440002d9e0b729ae97b60a268bf1165e15c",
+  "size": "6.8 MB",
+  "size_raw": "7117912",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
