@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "fusermount-server",
+  "pkg_family": "fuse-proxy",
+  "pkg_id": "fusermount-server#github.com_skypilot_org_skypilot_addons_fuse_proxy",
+  "pkg_name": "fusermount-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://docs.skypilot.co/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface",
+  "homepage": [
+    "https://docs.skypilot.co/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "fusermount-server",
+    "fusermount-shim",
+    "fusermount-wrapper"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/skypilot-org/skypilot/addons/fuse-proxy/@v/v0.0.0-20250628052826-ba3330073144.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250628052826-ba3330073144",
+  "version_upstream": "",
+  "bsum": "8febba32a5d4cef1c714738eee3005cc94db0368eddf80b0f6abb44e6aa0b33c",
+  "build_date": "2025-07-01T14:01:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16000831398",
+  "build_id": "16000831398",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/skypilot-org/skypilot/addons/fuse-proxy/fusermount-server?tag=v0.0.0-20250628052826-ba3330073144-loongarch64-Linux&download=fusermount-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8292",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/skypilot-org/skypilot/addons/fuse-proxy/fusermount-server?tag=v0.0.0-20250628052826-ba3330073144-loongarch64-Linux&download=fusermount-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/skypilot-org/skypilot/addons/fuse-proxy/fusermount-server:v0.0.0-20250628052826-ba3330073144-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/skypilot-org/skypilot/addons/fuse-proxy/fusermount-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/skypilot-org/skypilot/addons/fuse-proxy/fusermount-server?tag=v0.0.0-20250628052826-ba3330073144-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "19dbd325bc5860a4fb086f776dd7ee1030ec341e0e8a7e45fe9b7803a0b3416e",
+  "size": "3.1 MB",
+  "size_raw": "3217656",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
