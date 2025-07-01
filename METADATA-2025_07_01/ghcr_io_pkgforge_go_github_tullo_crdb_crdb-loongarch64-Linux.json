@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "crdb",
+  "pkg_family": "crdb",
+  "pkg_id": "crdb#github.com_tullo_crdb",
+  "pkg_name": "crdb",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tullo/crdb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CRDB for local dev",
+  "homepage": [
+    "https://github.com/tullo/crdb"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "crdb",
+    "driver-pg",
+    "driver-pgx",
+    "gorm",
+    "upper"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/tullo/crdb/@v/v0.0.0-20250630174856-f50ff21d2b7b.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250630174856-f50ff21d2b7b",
+  "version_upstream": "",
+  "bsum": "43e68ba126f8bf93752d3927d01a1bcb74855b9293c65464befc0e397c929536",
+  "build_date": "2025-07-01T20:13:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16008274919",
+  "build_id": "16008274919",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tullo/crdb/crdb?tag=v0.0.0-20250630174856-f50ff21d2b7b-loongarch64-Linux&download=crdb.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tullo/crdb/crdb?tag=v0.0.0-20250630174856-f50ff21d2b7b-loongarch64-Linux&download=crdb",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tullo/crdb/crdb:v0.0.0-20250630174856-f50ff21d2b7b-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tullo/crdb/crdb",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tullo/crdb/crdb?tag=v0.0.0-20250630174856-f50ff21d2b7b-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "37f01054909cee8fceb5591d1a2c7e2837de1e4979458649064b5eaa977ecee5",
+  "size": "8.2 MB",
+  "size_raw": "8567760",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
