@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "hello-openshift",
+  "pkg_family": "hello-openshift",
+  "pkg_id": "hello-openshift#github.com_openshift_origin_examples_hello_openshift",
+  "pkg_name": "hello-openshift",
+  "pkg_type": "static",
+  "pkg_webpage": "http://www.openshift.org",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Conformance test suite for OpenShift",
+  "homepage": [
+    "http://www.openshift.org"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hello-openshift"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/openshift/origin/examples/hello-openshift/@v/v0.0.0-20250627144512-25259415f83d.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250627144512-25259415f83d",
+  "version_upstream": "",
+  "bsum": "ab87b975c0f46f0b53b8e592c53ad8910af1e1841297503a4ad354e1c6454db8",
+  "build_date": "2025-07-01T03:32:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15988761577",
+  "build_id": "15988761577",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/origin/examples/hello-openshift/hello-openshift?tag=v0.0.0-20250627144512-25259415f83d-loongarch64-Linux&download=hello-openshift.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8553",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/origin/examples/hello-openshift/hello-openshift?tag=v0.0.0-20250627144512-25259415f83d-loongarch64-Linux&download=hello-openshift",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/origin/examples/hello-openshift/hello-openshift:v0.0.0-20250627144512-25259415f83d-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/origin/examples/hello-openshift/hello-openshift",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/origin/examples/hello-openshift/hello-openshift?tag=v0.0.0-20250627144512-25259415f83d-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "08be8eed11a8da20fa9ae4a3b8dba0ca5f85308cb03a0eb83b7179ad1bba5dfb",
+  "size": "5.6 MB",
+  "size_raw": "5864288",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
