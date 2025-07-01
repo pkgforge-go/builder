@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "openadp-decrypt",
+  "pkg_family": "openadp",
+  "pkg_id": "openadp-decrypt#github.com_openadp_openadp",
+  "pkg_name": "openadp-decrypt",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openadp/openadp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open source Advanced Data Protection for everyone",
+  "homepage": [
+    "https://github.com/openadp/openadp"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "openadp",
+    "openadp-cli",
+    "openadp-decrypt",
+    "openadp-demo",
+    "openadp-encrypt",
+    "openadp-keygen",
+    "openadp-server",
+    "run-tests"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/openadp/openadp/@v/v0.0.0-20250623003851-a0cf9be561e8.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250623003851-a0cf9be561e8",
+  "version_upstream": "",
+  "bsum": "e7b25068978b865bd87ca40141dd1f1204a836535ba952404e069cbd00aa7d7b",
+  "build_date": "2025-07-01T03:27:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15988694464",
+  "build_id": "15988694464",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openadp/openadp/openadp-decrypt?tag=v0.0.0-20250623003851-a0cf9be561e8-loongarch64-Linux&download=openadp-decrypt.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openadp/openadp/openadp-decrypt?tag=v0.0.0-20250623003851-a0cf9be561e8-loongarch64-Linux&download=openadp-decrypt",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openadp/openadp/openadp-decrypt:v0.0.0-20250623003851-a0cf9be561e8-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openadp/openadp/openadp-decrypt",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openadp/openadp/openadp-decrypt?tag=v0.0.0-20250623003851-a0cf9be561e8-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b9f5c6f2b4e35b25385eee2051e21dd40ed8e31f423697110400250f5319a4d9",
+  "size": "6.3 MB",
+  "size_raw": "6501344",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-97506f8-250618T162703-loongarch64-Linux",
+    "HEAD-01c58ae-250622T210502-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
