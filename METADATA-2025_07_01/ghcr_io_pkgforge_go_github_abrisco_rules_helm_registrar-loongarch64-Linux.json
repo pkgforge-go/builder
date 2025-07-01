@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "registrar",
+  "pkg_family": "rules_helm",
+  "pkg_id": "registrar#github.com_abrisco_rules_helm",
+  "pkg_name": "registrar",
+  "pkg_type": "static",
+  "pkg_webpage": "https://abrisco.github.io/rules_helm/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Bazel rules for producing Helm charts",
+  "homepage": [
+    "https://abrisco.github.io/rules_helm/"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "copier",
+    "fetch_shas",
+    "json_to_yaml",
+    "linter",
+    "package_regex_tester",
+    "packager",
+    "plugin",
+    "registrar",
+    "runner",
+    "stamper",
+    "with_multiple_templates"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/abrisco/rules_helm/@v/v0.0.0-20250523173340-e77470d4d315.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250523173340-e77470d4d315",
+  "version_upstream": "",
+  "bsum": "39441082367dfbbe6073c0a69e8ee53a82ae760439402d07980b1b1de9e09ed3",
+  "build_date": "2025-07-01T04:45:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15989970926",
+  "build_id": "15989970926",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/abrisco/rules/helm/registrar?tag=v0.0.0-20250523173340-e77470d4d315-loongarch64-Linux&download=registrar.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "34",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/abrisco/rules/helm/registrar?tag=v0.0.0-20250523173340-e77470d4d315-loongarch64-Linux&download=registrar",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/abrisco/rules/helm/registrar:v0.0.0-20250523173340-e77470d4d315-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/abrisco/rules/helm/registrar",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/abrisco/rules/helm/registrar?tag=v0.0.0-20250523173340-e77470d4d315-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "26498f3fc84e49a35efeb4a0985d76ae2d5bf974ddd0e5e506d289d83defceb9",
+  "size": "2.4 MB",
+  "size_raw": "2428184",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
