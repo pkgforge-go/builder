@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "runner",
+  "pkg_family": "rules_helm",
+  "pkg_id": "runner#github.com_abrisco_rules_helm",
+  "pkg_name": "runner",
+  "pkg_type": "static",
+  "pkg_webpage": "https://abrisco.github.io/rules_helm/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Bazel rules for producing Helm charts",
+  "homepage": [
+    "https://abrisco.github.io/rules_helm/"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "copier",
+    "fetch_shas",
+    "json_to_yaml",
+    "linter",
+    "package_regex_tester",
+    "packager",
+    "plugin",
+    "registrar",
+    "runner",
+    "stamper",
+    "with_multiple_templates"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/abrisco/rules_helm/@v/v0.0.0-20250523173340-e77470d4d315.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250523173340-e77470d4d315",
+  "version_upstream": "",
+  "bsum": "f1a7f9d0f8bad8ca051b3a5e7e3c5fdf13815a00c04c0b10d39d50652a53a261",
+  "build_date": "2025-07-01T04:46:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15989970926",
+  "build_id": "15989970926",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/abrisco/rules/helm/runner?tag=v0.0.0-20250523173340-e77470d4d315-riscv64-Linux&download=runner.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "34",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/abrisco/rules/helm/runner?tag=v0.0.0-20250523173340-e77470d4d315-riscv64-Linux&download=runner",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/abrisco/rules/helm/runner:v0.0.0-20250523173340-e77470d4d315-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/abrisco/rules/helm/runner",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/abrisco/rules/helm/runner?tag=v0.0.0-20250523173340-e77470d4d315-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ac567c9a5417b484146fed95d766f6dd874017d76965f1cd342006cb16c6b302",
+  "size": "2.6 MB",
+  "size_raw": "2656488",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
