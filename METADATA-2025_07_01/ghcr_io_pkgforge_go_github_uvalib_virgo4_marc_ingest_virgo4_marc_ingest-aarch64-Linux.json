@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "virgo4-marc-ingest",
+  "pkg_family": "virgo4-marc-ingest",
+  "pkg_id": "virgo4-marc-ingest#github.com_uvalib_virgo4_marc_ingest",
+  "pkg_name": "virgo4-marc-ingest",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/uvalib/virgo4-marc-ingest",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A service that processes files from S3 containing MARC records. Records are nominally decoded and written to an SQS queue",
+  "homepage": [
+    "https://github.com/uvalib/virgo4-marc-ingest"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "virgo4-marc-ingest"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/uvalib/virgo4-marc-ingest/@v/v0.0.0-20250611140722-010e27704636.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250611140722-010e27704636",
+  "version_upstream": "",
+  "bsum": "0d08997182d365e5ea8c8d677934da1d2686fe6a9b4e8b6fc8ec3ec663d29a88",
+  "build_date": "2025-07-01T20:56:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16009053611",
+  "build_id": "16009053611",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uvalib/virgo4-marc-ingest/virgo4-marc-ingest?tag=v0.0.0-20250611140722-010e27704636-aarch64-Linux&download=virgo4-marc-ingest.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uvalib/virgo4-marc-ingest/virgo4-marc-ingest?tag=v0.0.0-20250611140722-010e27704636-aarch64-Linux&download=virgo4-marc-ingest",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/uvalib/virgo4-marc-ingest/virgo4-marc-ingest:v0.0.0-20250611140722-010e27704636-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/uvalib/virgo4-marc-ingest/virgo4-marc-ingest",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uvalib/virgo4-marc-ingest/virgo4-marc-ingest?tag=v0.0.0-20250611140722-010e27704636-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ab91a96c701f88cc061be41e8848b34a4e50762e110ba2aa8abc0d5163fad51e",
+  "size": "13 MB",
+  "size_raw": "13282912",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
