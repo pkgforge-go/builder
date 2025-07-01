@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "multicluster-observability-operator-examples",
+  "pkg_family": "multicluster-observability-operator",
+  "pkg_id": "multicluster-observability-operator-examples#github.com_open_cluster_management_multicluster_observability_operator",
+  "pkg_name": "multicluster-observability-operator-examples",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/open-cluster-management/multicluster-observability-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator for Multi-Cluster Monitoring with Thanos",
+  "homepage": [
+    "https://github.com/open-cluster-management/multicluster-observability-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alert-forward",
+    "cmd",
+    "cmo-config-revert",
+    "copyright",
+    "dashcheck",
+    "endpointmetrics",
+    "metrics-collector",
+    "multicluster-observability-operator-examples",
+    "multiclusterobservability",
+    "rulescheck"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/stolostron/multicluster-observability-operator/@v/v0.0.0-20250624153109-8bf6adde73e7.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250624153109-8bf6adde73e7",
+  "version_upstream": "",
+  "bsum": "2a1066cb844cb60c0a82bd8457ef62a21d95dd1f95827ce6acc138c081a62785",
+  "build_date": "2025-07-01T15:27:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16002247194",
+  "build_id": "16002247194",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-cluster-management/multicluster-observability-operator/multicluster-observability-operator-examples?tag=v0.0.0-20250624153109-8bf6adde73e7-loongarch64-Linux&download=multicluster-observability-operator-examples.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "132",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-cluster-management/multicluster-observability-operator/multicluster-observability-operator-examples?tag=v0.0.0-20250624153109-8bf6adde73e7-loongarch64-Linux&download=multicluster-observability-operator-examples",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/open-cluster-management/multicluster-observability-operator/multicluster-observability-operator-examples:v0.0.0-20250624153109-8bf6adde73e7-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/open-cluster-management/multicluster-observability-operator/multicluster-observability-operator-examples",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-cluster-management/multicluster-observability-operator/multicluster-observability-operator-examples?tag=v0.0.0-20250624153109-8bf6adde73e7-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f09c8cc99eac0b04f85b3f6c80240b64fab2516210159280db3f230e88988910",
+  "size": "3.1 MB",
+  "size_raw": "3212256",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
