@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "greeter_es",
+  "pkg_family": "example-golang",
+  "pkg_id": "greeter_es#github.com_pantsbuild_example_golang",
+  "pkg_name": "greeter_es",
+  "pkg_type": "static",
+  "pkg_webpage": "https://www.pantsbuild.org/2.20/docs/go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An example repo to demonstrate Go support in Pants",
+  "homepage": [
+    "https://www.pantsbuild.org/2.20/docs/go"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "greeter_en",
+    "greeter_es"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/pantsbuild/example-golang/@v/v0.0.0-20250508000134-e22668d78a61.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250508000134-e22668d78a61",
+  "version_upstream": "",
+  "bsum": "79a3bdc112e25ab1f66802b391cd6989396d632808ead71b3c1b0e2d63ce779d",
+  "build_date": "2025-07-01T04:18:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15989319765",
+  "build_id": "15989319765",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pantsbuild/example-golang/greeter_es?tag=v0.0.0-20250508000134-e22668d78a61-aarch64-Linux&download=greeter_es.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pantsbuild/example-golang/greeter_es?tag=v0.0.0-20250508000134-e22668d78a61-aarch64-Linux&download=greeter_es",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pantsbuild/example-golang/greeter_es:v0.0.0-20250508000134-e22668d78a61-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pantsbuild/example-golang/greeter_es",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pantsbuild/example-golang/greeter_es?tag=v0.0.0-20250508000134-e22668d78a61-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "83014ba501989dc594946693306c21bd283b2cbf4cba5585c58b12641452f017",
+  "size": "2.0 MB",
+  "size_raw": "2095360",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
