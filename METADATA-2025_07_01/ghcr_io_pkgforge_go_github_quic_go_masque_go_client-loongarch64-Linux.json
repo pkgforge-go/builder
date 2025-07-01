@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "client",
+  "pkg_family": "masque-go",
+  "pkg_id": "client#github.com_quic_go_masque_go",
+  "pkg_name": "client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/quic-go/masque-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "MASQUE: Proxying UDP in HTTP/3, RFC 9298",
+  "homepage": [
+    "https://github.com/quic-go/masque-go"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/quic-go/masque-go/@v/v0.3.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.3.0",
+  "version_upstream": "",
+  "bsum": "90778a950dd1ac0d7c393fe29767f69df9fb8f862c94709ccffd69a800cc8c35",
+  "build_date": "2025-07-01T08:48:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15993946762",
+  "build_id": "15993946762",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quic-go/masque-go/client?tag=v0.3.0-loongarch64-Linux&download=client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "124",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quic-go/masque-go/client?tag=v0.3.0-loongarch64-Linux&download=client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/quic-go/masque-go/client:v0.3.0-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/quic-go/masque-go/client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/quic-go/masque-go/client?tag=v0.3.0-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b97dbd3136dbc08b2eedc787a73399bb19f2d10efd69305f85bd38d2acc1dc4f",
+  "size": "7.6 MB",
+  "size_raw": "7966176",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
