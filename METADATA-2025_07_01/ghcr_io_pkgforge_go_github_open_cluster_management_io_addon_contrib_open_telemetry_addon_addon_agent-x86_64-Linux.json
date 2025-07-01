@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "addon_agent",
+  "pkg_family": "open-telemetry-addon",
+  "pkg_id": "addon_agent#github.com_open_cluster_management_io_addon_contrib_open_telemetry_addon",
+  "pkg_name": "addon_agent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/open-cluster-management-io/addon-contrib/open-telemetry-addon",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This is to host ocm addons in staging",
+  "homepage": [
+    "https://github.com/open-cluster-management-io/addon-contrib/open-telemetry-addon"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "addon_agent",
+    "addon_manager"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/open-cluster-management-io/addon-contrib/open-telemetry-addon/@v/v0.0.0-20250623071347-7ab7dff0f8a5.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250623071347-7ab7dff0f8a5",
+  "version_upstream": "",
+  "bsum": "cb9000bdd2a41590cdba4d72c066ee051a7837f3e3ad540bd8636a81ead50aef",
+  "build_date": "2025-07-01T03:24:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15988663221",
+  "build_id": "15988663221",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-cluster-management-io/addon-contrib/open-telemetry-addon/addon_agent?tag=v0.0.0-20250623071347-7ab7dff0f8a5-x86_64-Linux&download=addon_agent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-cluster-management-io/addon-contrib/open-telemetry-addon/addon_agent?tag=v0.0.0-20250623071347-7ab7dff0f8a5-x86_64-Linux&download=addon_agent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/open-cluster-management-io/addon-contrib/open-telemetry-addon/addon_agent:v0.0.0-20250623071347-7ab7dff0f8a5-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/open-cluster-management-io/addon-contrib/open-telemetry-addon/addon_agent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-cluster-management-io/addon-contrib/open-telemetry-addon/addon_agent?tag=v0.0.0-20250623071347-7ab7dff0f8a5-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "262f71590a691083a045ed1561ef8b07370f7a0065c05514a6d7d08d28ad4ff8",
+  "size": "36 MB",
+  "size_raw": "37673664",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
