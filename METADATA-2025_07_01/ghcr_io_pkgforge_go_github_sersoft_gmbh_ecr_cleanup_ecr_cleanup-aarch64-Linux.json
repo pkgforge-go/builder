@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "ecr-cleanup",
+  "pkg_family": "ecr-cleanup",
+  "pkg_id": "ecr-cleanup#github.com_sersoft_gmbh_ecr_cleanup",
+  "pkg_name": "ecr-cleanup",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sersoft-gmbh/ecr-cleanup",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cleans Amazon ECR docker repositories by deleting unused images",
+  "homepage": [
+    "https://github.com/sersoft-gmbh/ecr-cleanup"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ecr-cleanup"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sersoft-gmbh/ecr-cleanup/@v/v0.0.0-20250620053940-22461089540f.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250620053940-22461089540f",
+  "version_upstream": "",
+  "bsum": "43ffc5b74b1b57b23dd965003da5c5b5d85963c5185f5385d5474bd8de1a0f08",
+  "build_date": "2025-07-01T13:14:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16000307322",
+  "build_id": "16000307322",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sersoft-gmbh/ecr-cleanup/ecr-cleanup?tag=v0.0.0-20250620053940-22461089540f-aarch64-Linux&download=ecr-cleanup.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sersoft-gmbh/ecr-cleanup/ecr-cleanup?tag=v0.0.0-20250620053940-22461089540f-aarch64-Linux&download=ecr-cleanup",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sersoft-gmbh/ecr-cleanup/ecr-cleanup:v0.0.0-20250620053940-22461089540f-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sersoft-gmbh/ecr-cleanup/ecr-cleanup",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sersoft-gmbh/ecr-cleanup/ecr-cleanup?tag=v0.0.0-20250620053940-22461089540f-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cb975058b1a8fae3d653562ab2332c673bf4894ae7d058c68488f96a2b386bf7",
+  "size": "42 MB",
+  "size_raw": "43590272",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
