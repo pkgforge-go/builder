@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "main",
+  "pkg_family": "java-memory-assistant",
+  "pkg_id": "main#github.com_paketo_buildpacks_java_memory_assistant",
+  "pkg_name": "main",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/paketo-buildpacks/java-memory-assistant",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Cloud Native Buildpack that configures the SAP Java Memory Assistant (JMA) Agent for Java applications",
+  "homepage": [
+    "https://github.com/paketo-buildpacks/java-memory-assistant"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "helper",
+    "main"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/paketo-buildpacks/java-memory-assistant/@v/v1.8.2.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.8.2",
+  "version_upstream": "",
+  "bsum": "a85aa6a919d5abc399b93dbbbdaf9d709ee4f98dc2949b57629baed0a39d037e",
+  "build_date": "2025-07-01T04:12:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15989283070",
+  "build_id": "15989283070",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paketo-buildpacks/java-memory-assistant/main?tag=v1.8.2-riscv64-Linux&download=main.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paketo-buildpacks/java-memory-assistant/main?tag=v1.8.2-riscv64-Linux&download=main",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/paketo-buildpacks/java-memory-assistant/main:v1.8.2-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/paketo-buildpacks/java-memory-assistant/main",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paketo-buildpacks/java-memory-assistant/main?tag=v1.8.2-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b478398b7fd9c34afc9988f579d5fb8f5da6b16f0ba697f58dffbcac50ed5a9a",
+  "size": "6.7 MB",
+  "size_raw": "7013272",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
