@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "verify-gpg-key",
+  "pkg_family": "src",
+  "pkg_id": "verify-gpg-key#github.com_opentofu_registry_stable_src",
+  "pkg_name": "verify-gpg-key",
+  "pkg_type": "static",
+  "pkg_webpage": "https://search.opentofu.org",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Metadata and tooling for the OpenTofu registry",
+  "homepage": [
+    "https://search.opentofu.org"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "add-module",
+    "add-provider",
+    "bump-versions",
+    "generate-v1",
+    "run-server",
+    "validate",
+    "verify-gpg-key"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/opentofu/registry/src/@v/v0.0.0-20250630000214-b212b9918d81.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250630000214-b212b9918d81",
+  "version_upstream": "",
+  "bsum": "fa3be4a999b7b885004121496979f5f84dac1729115ac669eb73d68a4bb0ebf8",
+  "build_date": "2025-07-01T03:38:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15988790034",
+  "build_id": "15988790034",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opentofu/registry-stable/src/verify-gpg-key?tag=v0.0.0-20250630000214-b212b9918d81-x86_64-Linux&download=verify-gpg-key.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "373",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opentofu/registry-stable/src/verify-gpg-key?tag=v0.0.0-20250630000214-b212b9918d81-x86_64-Linux&download=verify-gpg-key",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/opentofu/registry-stable/src/verify-gpg-key:v0.0.0-20250630000214-b212b9918d81-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/opentofu/registry-stable/src/verify-gpg-key",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opentofu/registry-stable/src/verify-gpg-key?tag=v0.0.0-20250630000214-b212b9918d81-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a25b64101779ac52d6f7ecf3f211078cb2792a2b5ff1b31175fed1798f917672",
+  "size": "8.5 MB",
+  "size_raw": "8811072",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
