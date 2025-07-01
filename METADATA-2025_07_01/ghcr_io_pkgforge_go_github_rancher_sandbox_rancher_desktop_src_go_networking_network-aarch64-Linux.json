@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "network",
+  "pkg_family": "networking",
+  "pkg_id": "network#github.com_rancher_sandbox_rancher_desktop_src_go_networking",
+  "pkg_name": "network",
+  "pkg_type": "static",
+  "pkg_webpage": "https://rancherdesktop.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Container Management and Kubernetes on the Desktop",
+  "homepage": [
+    "https://rancherdesktop.io"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "network",
+    "proxy",
+    "vm"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/rancher-sandbox/rancher-desktop/src/go/networking/@v/v0.0.0-20250627182217-babb6c92c6c9.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250627182217-babb6c92c6c9",
+  "version_upstream": "",
+  "bsum": "d6005381127f5589ac7f476563700a341881f8c1558f99174fd53d2a24ff0b5f",
+  "build_date": "2025-07-01T09:05:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15994043958",
+  "build_id": "15994043958",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher-sandbox/rancher-desktop/src/go/networking/network?tag=v0.0.0-20250627182217-babb6c92c6c9-aarch64-Linux&download=network.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6519",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher-sandbox/rancher-desktop/src/go/networking/network?tag=v0.0.0-20250627182217-babb6c92c6c9-aarch64-Linux&download=network",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rancher-sandbox/rancher-desktop/src/go/networking/network:v0.0.0-20250627182217-babb6c92c6c9-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rancher-sandbox/rancher-desktop/src/go/networking/network",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rancher-sandbox/rancher-desktop/src/go/networking/network?tag=v0.0.0-20250627182217-babb6c92c6c9-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "494a3e1067c9665378649a4beb64b79e27216a109c5cd25ba2092a2725e6a676",
+  "size": "3.8 MB",
+  "size_raw": "3927328",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
