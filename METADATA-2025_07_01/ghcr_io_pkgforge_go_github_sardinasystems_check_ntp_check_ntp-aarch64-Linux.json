@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "check-ntp",
+  "pkg_family": "check-ntp",
+  "pkg_id": "check-ntp#github.com_sardinasystems_check_ntp",
+  "pkg_name": "check-ntp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sardinasystems/check-ntp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Sensu NTP offset check for Linux (ntpd or chrony",
+  "homepage": [
+    "https://github.com/sardinasystems/check-ntp"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check-ntp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sardinasystems/check-ntp/@v/v0.0.0-20250311094044-a16979a9107a.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250311094044-a16979a9107a",
+  "version_upstream": "",
+  "bsum": "cc691d200a60ddc5907b62e8a1c83b497f4b7e6ef177eea2568bfa3be4f7dd99",
+  "build_date": "2025-07-01T11:16:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15996964389",
+  "build_id": "15996964389",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sardinasystems/check-ntp/check-ntp?tag=v0.0.0-20250311094044-a16979a9107a-aarch64-Linux&download=check-ntp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sardinasystems/check-ntp/check-ntp?tag=v0.0.0-20250311094044-a16979a9107a-aarch64-Linux&download=check-ntp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sardinasystems/check-ntp/check-ntp:v0.0.0-20250311094044-a16979a9107a-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sardinasystems/check-ntp/check-ntp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sardinasystems/check-ntp/check-ntp?tag=v0.0.0-20250311094044-a16979a9107a-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2af02e62fb23cd823aa495e42d3a3ac558476344a5e6617a3b0b122946b10ab4",
+  "size": "18 MB",
+  "size_raw": "18698528",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
