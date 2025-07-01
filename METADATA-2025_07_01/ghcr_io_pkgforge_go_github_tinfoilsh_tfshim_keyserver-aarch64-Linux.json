@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "keyserver",
+  "pkg_family": "tfshim",
+  "pkg_id": "keyserver#github.com_tinfoilsh_tfshim",
+  "pkg_name": "keyserver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tinfoilsh/tfshim",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tinfoil guest attestation proxy",
+  "homepage": [
+    "https://github.com/tinfoilsh/tfshim"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "clientutil",
+    "keygen",
+    "keyserver",
+    "tfshim"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/tinfoilsh/tfshim/@v/v0.0.35.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.35",
+  "version_upstream": "",
+  "bsum": "11689dfd0bd81ca2062dd9a3ca0f1f7ef8e62ca6039b8c4617ff9f9dd4548195",
+  "build_date": "2025-07-01T18:15:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16005882307",
+  "build_id": "16005882307",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinfoilsh/tfshim/keyserver?tag=v0.0.35-aarch64-Linux&download=keyserver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinfoilsh/tfshim/keyserver?tag=v0.0.35-aarch64-Linux&download=keyserver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tinfoilsh/tfshim/keyserver:v0.0.35-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tinfoilsh/tfshim/keyserver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinfoilsh/tfshim/keyserver?tag=v0.0.35-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5786af2497d3af6fb2fa1ad5c1401300fba337caa5a92090239be783935462e7",
+  "size": "5.8 MB",
+  "size_raw": "6030560",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
