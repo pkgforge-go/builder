@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gpu-driver-container",
+  "pkg_family": "gpu-driver-container",
+  "pkg_id": "gpu-driver-container#github.com_nvidia_gpu_driver_container",
+  "pkg_name": "gpu-driver-container",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nvidia/gpu-driver-container",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The NVIDIA GPU driver container allows the provisioning of the NVIDIA driver through the use of containers",
+  "homepage": [
+    "https://github.com/nvidia/gpu-driver-container"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gpu-driver-container"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/nvidia/gpu-driver-container/@v/v0.0.0-20250625200956-9af209cee585.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250625200956-9af209cee585",
+  "version_upstream": "",
+  "bsum": "4ed16ef9a2a421e776f46a37a566ad68b179f9e8109382cc53a7399e14982a2c",
+  "build_date": "2025-07-01T02:57:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15988292631",
+  "build_id": "15988292631",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/gpu-driver-container/gpu-driver-container?tag=v0.0.0-20250625200956-9af209cee585-riscv64-Linux&download=gpu-driver-container.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "115",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/gpu-driver-container/gpu-driver-container?tag=v0.0.0-20250625200956-9af209cee585-riscv64-Linux&download=gpu-driver-container",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nvidia/gpu-driver-container/gpu-driver-container:v0.0.0-20250625200956-9af209cee585-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nvidia/gpu-driver-container/gpu-driver-container",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/gpu-driver-container/gpu-driver-container?tag=v0.0.0-20250625200956-9af209cee585-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fa8674be44219a219eb30bb76d093b52e350857647b42f2f3474fd029948f992",
+  "size": "2.3 MB",
+  "size_raw": "2403976",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
