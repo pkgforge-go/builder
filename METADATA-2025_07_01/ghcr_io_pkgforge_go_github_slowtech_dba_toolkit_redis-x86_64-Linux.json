@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "redis",
+  "pkg_family": "dba-toolkit",
+  "pkg_id": "redis#github.com_slowtech_dba_toolkit",
+  "pkg_name": "redis",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/slowtech/dba-toolkit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Some useful tools personally written for MySQL Daily Administration",
+  "homepage": [
+    "https://github.com/slowtech/dba-toolkit"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "redis",
+    "redis_migrate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/slowtech/dba-toolkit/@v/v0.0.0-20250313070643-fccbc572b766.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250313070643-fccbc572b766",
+  "version_upstream": "",
+  "bsum": "c48ceb5beb1d3075a286961c1a939e27c6b348b59239524d3e7baa017547f975",
+  "build_date": "2025-07-01T14:07:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16000925283",
+  "build_id": "16000925283",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/slowtech/dba-toolkit/redis?tag=v0.0.0-20250313070643-fccbc572b766-x86_64-Linux&download=redis.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "53",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/slowtech/dba-toolkit/redis?tag=v0.0.0-20250313070643-fccbc572b766-x86_64-Linux&download=redis",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/slowtech/dba-toolkit/redis:v0.0.0-20250313070643-fccbc572b766-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/slowtech/dba-toolkit/redis",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/slowtech/dba-toolkit/redis?tag=v0.0.0-20250313070643-fccbc572b766-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "afffc7c34414d7d8f5d77ecf880d98177125cb7a94cd0100b4ff8f5068add377",
+  "size": "5.0 MB",
+  "size_raw": "5162656",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
