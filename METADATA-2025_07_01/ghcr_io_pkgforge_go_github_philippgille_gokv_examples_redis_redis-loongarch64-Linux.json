@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "redis",
+  "pkg_family": "redis",
+  "pkg_id": "redis#github.com_philippgille_gokv_examples_redis",
+  "pkg_name": "redis",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/philippgille/gokv/examples/redis",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Simple key-value store abstraction and implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more",
+  "homepage": [
+    "https://github.com/philippgille/gokv/examples/redis"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "redis"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/philippgille/gokv/examples/redis/@v/v0.0.0-20250627195511-62058bc225ad.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250627195511-62058bc225ad",
+  "version_upstream": "",
+  "bsum": "7c9170639c6714710ab1272422f67aa1b3398263949c0c44149d1358ce2a52dc",
+  "build_date": "2025-07-01T07:30:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15992216125",
+  "build_id": "15992216125",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/philippgille/gokv/examples/redis/redis?tag=v0.0.0-20250627195511-62058bc225ad-loongarch64-Linux&download=redis.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "795",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/philippgille/gokv/examples/redis/redis?tag=v0.0.0-20250627195511-62058bc225ad-loongarch64-Linux&download=redis",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/philippgille/gokv/examples/redis/redis:v0.0.0-20250627195511-62058bc225ad-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/philippgille/gokv/examples/redis/redis",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/philippgille/gokv/examples/redis/redis?tag=v0.0.0-20250627195511-62058bc225ad-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4f654ca0eee81da93156807979888fcc352ebce9cad44da1291cf12fb8f03455",
+  "size": "5.5 MB",
+  "size_raw": "5663040",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
