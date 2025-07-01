@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "v1",
+  "pkg_family": "operator-framework-tooling",
+  "pkg_id": "v1#github.com_openshift_operator_framework_tooling",
+  "pkg_name": "v1",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/operator-framework-tooling",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Developer tooling for the Operator Framework repositories",
+  "homepage": [
+    "https://github.com/openshift/operator-framework-tooling"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "v0",
+    "v1"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/openshift/operator-framework-tooling/@v/v0.0.0-20250623200603-4240cefc3c72.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250623200603-4240cefc3c72",
+  "version_upstream": "",
+  "bsum": "ac299bfb1e2cd081c04f2e791bb59688e8745284a68a3df78890fb2cb7a0e64a",
+  "build_date": "2025-07-01T03:33:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15988760428",
+  "build_id": "15988760428",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/operator-framework-tooling/v1?tag=v0.0.0-20250623200603-4240cefc3c72-aarch64-Linux&download=v1.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/operator-framework-tooling/v1?tag=v0.0.0-20250623200603-4240cefc3c72-aarch64-Linux&download=v1",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/operator-framework-tooling/v1:v0.0.0-20250623200603-4240cefc3c72-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/operator-framework-tooling/v1",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/operator-framework-tooling/v1?tag=v0.0.0-20250623200603-4240cefc3c72-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ac7cb8bbcf2e0676238ff9b409398d317913d319e7306123b3d80411e902c1da",
+  "size": "44 MB",
+  "size_raw": "46098368",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
