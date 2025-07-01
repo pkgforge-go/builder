@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "gateway",
+  "pkg_family": "prometheus-mimic",
+  "pkg_id": "gateway#github.com_vitalvas_prometheus_mimic",
+  "pkg_name": "gateway",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/vitalvas/prometheus-mimic",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Use Kafka as a remote storage buffer for Prometheus",
+  "homepage": [
+    "https://github.com/vitalvas/prometheus-mimic"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gateway",
+    "worker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/vitalvas/prometheus-mimic/@v/v0.0.0-20250615223434-b183e0995715.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250615223434-b183e0995715",
+  "version_upstream": "",
+  "bsum": "417110a672f5d1dd0d009499b9638d21c72b04f25adbfcda5c09c6f55bf4176a",
+  "build_date": "2025-07-01T21:26:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16009933863",
+  "build_id": "16009933863",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vitalvas/prometheus-mimic/gateway?tag=v0.0.0-20250615223434-b183e0995715-aarch64-Linux&download=gateway.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vitalvas/prometheus-mimic/gateway?tag=v0.0.0-20250615223434-b183e0995715-aarch64-Linux&download=gateway",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/vitalvas/prometheus-mimic/gateway:v0.0.0-20250615223434-b183e0995715-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/vitalvas/prometheus-mimic/gateway",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vitalvas/prometheus-mimic/gateway?tag=v0.0.0-20250615223434-b183e0995715-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d19210be8f3e65152f3bae687c0bf5a1b4f73981e85eb77d9d8ad59ebdfa8b42",
+  "size": "15 MB",
+  "size_raw": "15101280",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
