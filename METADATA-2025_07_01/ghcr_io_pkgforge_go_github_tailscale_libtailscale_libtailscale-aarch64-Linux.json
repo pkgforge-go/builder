@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "libtailscale",
+  "pkg_family": "libtailscale",
+  "pkg_id": "libtailscale#github.com_tailscale_libtailscale",
+  "pkg_name": "libtailscale",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tailscale/libtailscale",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tailscale C library",
+  "homepage": [
+    "https://github.com/tailscale/libtailscale"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "libtailscale",
+    "tstestcontrol"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/tailscale/libtailscale/@v/v0.0.0-20250523202947-cab04836d052.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250523202947-cab04836d052",
+  "version_upstream": "",
+  "bsum": "126d354b8f8c9c2cbe26ee94de0cf5cc4b6e1d26fd762d6cda5a32fb46156438",
+  "build_date": "2025-07-01T16:44:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16004284735",
+  "build_id": "16004284735",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tailscale/libtailscale/libtailscale?tag=v0.0.0-20250523202947-cab04836d052-aarch64-Linux&download=libtailscale.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "230",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tailscale/libtailscale/libtailscale?tag=v0.0.0-20250523202947-cab04836d052-aarch64-Linux&download=libtailscale",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tailscale/libtailscale/libtailscale:v0.0.0-20250523202947-cab04836d052-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tailscale/libtailscale/libtailscale",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tailscale/libtailscale/libtailscale?tag=v0.0.0-20250523202947-cab04836d052-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "24a5d3436dda65808d09ef6d38061e51a37db6b84b286a2716086f2df7518763",
+  "size": "25 MB",
+  "size_raw": "25435424",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
