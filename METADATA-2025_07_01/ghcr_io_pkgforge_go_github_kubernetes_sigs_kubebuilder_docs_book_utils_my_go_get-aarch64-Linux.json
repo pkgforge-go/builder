@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "my_go_get",
+  "pkg_family": "utils",
+  "pkg_id": "my_go_get#github.com_kubernetes_sigs_kubebuilder_docs_book_utils",
+  "pkg_name": "my_go_get",
+  "pkg_type": "static",
+  "pkg_webpage": "http://book.kubebuilder.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubebuilder - SDK for building Kubernetes APIs using CRDs",
+  "homepage": [
+    "http://book.kubebuilder.io"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "copy_in_cmd",
+    "dockergo",
+    "multi_grep_in_go",
+    "my_go_get"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/obgnail/utils/@v/v0.0.0-20250615075805-37fea5359209.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250622073052-202a630aba03",
+  "version_upstream": "",
+  "bsum": "79cb73ea26ab8eebaa2595a972666068a2f5f95f2f6d8cfffeda3f73b1210f96",
+  "build_date": "2025-07-01T03:01:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15988296950",
+  "build_id": "15988296950",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/kubebuilder/docs/book/utils/my_go_get?tag=v0.0.0-20250622073052-202a630aba03-aarch64-Linux&download=my_go_get.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8515",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/kubebuilder/docs/book/utils/my_go_get?tag=v0.0.0-20250622073052-202a630aba03-aarch64-Linux&download=my_go_get",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/kubebuilder/docs/book/utils/my_go_get:v0.0.0-20250622073052-202a630aba03-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/kubebuilder/docs/book/utils/my_go_get",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/kubebuilder/docs/book/utils/my_go_get?tag=v0.0.0-20250622073052-202a630aba03-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "99e1b291db43c1a5b94be7dc358da5ec3264d8cfdc2144bde367428259b06f68",
+  "size": "1.9 MB",
+  "size_raw": "1952952",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
