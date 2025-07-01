@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "metrics",
+  "pkg_family": "continuous-integration",
+  "pkg_id": "metrics#github.com_bazelbuild_continuous_integration",
+  "pkg_name": "metrics",
+  "pkg_type": "static",
+  "pkg_webpage": "https://buildkite.com",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Bazel's Continuous Integration Setup",
+  "homepage": [
+    "https://buildkite.com"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "export",
+    "metrics",
+    "pipestats",
+    "update",
+    "validate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/bazelbuild/continuous-integration/@v/v0.0.0-20250630112755-9d35a0e82173.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250630112755-9d35a0e82173",
+  "version_upstream": "",
+  "bsum": "1dfaed42cce173dca7c2237fa2c1101f983cde9e2b57d77d6d4bf42a5471820e",
+  "build_date": "2025-07-01T05:04:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15990006115",
+  "build_id": "15990006115",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bazelbuild/continuous-integration/metrics?tag=v0.0.0-20250630112755-9d35a0e82173-aarch64-Linux&download=metrics.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "275",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bazelbuild/continuous-integration/metrics?tag=v0.0.0-20250630112755-9d35a0e82173-aarch64-Linux&download=metrics",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bazelbuild/continuous-integration/metrics:v0.0.0-20250630112755-9d35a0e82173-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bazelbuild/continuous-integration/metrics",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bazelbuild/continuous-integration/metrics?tag=v0.0.0-20250630112755-9d35a0e82173-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2bcda6266fc707d24a67b67c1bea394819cf22f0777809c8ffdff0a7c06c9e3f",
+  "size": "28 MB",
+  "size_raw": "29097088",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
