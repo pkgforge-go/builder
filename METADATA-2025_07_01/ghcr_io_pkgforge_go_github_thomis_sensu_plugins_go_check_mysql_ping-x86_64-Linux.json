@@ -1,0 +1,92 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "check-mysql-ping",
+  "pkg_family": "sensu-plugins-go",
+  "pkg_id": "check-mysql-ping#github.com_thomis_sensu_plugins_go",
+  "pkg_name": "check-mysql-ping",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/thomis/sensu-plugins-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Sensu plugins & libraries written in go",
+  "homepage": [
+    "https://github.com/thomis/sensu-plugins-go"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check-certificate",
+    "check-cpu",
+    "check-disk",
+    "check-elasticsearch",
+    "check-http",
+    "check-http-json",
+    "check-memory",
+    "check-mysql-ping",
+    "check-mysql-processes",
+    "check-nginx",
+    "check-oracle-ping",
+    "check-oracle-validity",
+    "check-ping",
+    "check-postfix",
+    "check-postfix-queue",
+    "check-postgres",
+    "check-process",
+    "check-rabbitmq",
+    "check-redis",
+    "check-uptime",
+    "handler-delete",
+    "handler-elasticsearch",
+    "handler-hubot",
+    "handler-slack",
+    "metrics-cpu",
+    "metrics-disk",
+    "metrics-memory",
+    "metrics-snmp",
+    "metrics-traffic"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/thomis/sensu-plugins-go/@v/v0.0.0-20250607064934-74f500445898.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250607064934-74f500445898",
+  "version_upstream": "",
+  "bsum": "4d9808b5cf8f36cb8d8ae4961d4908e4518d2f51e69332501c01d5c98ac731c8",
+  "build_date": "2025-07-01T18:10:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16005525680",
+  "build_id": "16005525680",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/thomis/sensu-plugins-go/check-mysql-ping?tag=v0.0.0-20250607064934-74f500445898-x86_64-Linux&download=check-mysql-ping.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/thomis/sensu-plugins-go/check-mysql-ping?tag=v0.0.0-20250607064934-74f500445898-x86_64-Linux&download=check-mysql-ping",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/thomis/sensu-plugins-go/check-mysql-ping:v0.0.0-20250607064934-74f500445898-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/thomis/sensu-plugins-go/check-mysql-ping",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/thomis/sensu-plugins-go/check-mysql-ping?tag=v0.0.0-20250607064934-74f500445898-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f04526532914475aa08807ae06906a7faf863e5f8dc2b48b9ceee298994516e2",
+  "size": "5.6 MB",
+  "size_raw": "5814336",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
