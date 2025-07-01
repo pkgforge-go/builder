@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "tls2jwt",
+  "pkg_family": "v6",
+  "pkg_id": "tls2jwt#github.com_buildkite_elastic_ci_stack_for_aws_v6",
+  "pkg_name": "tls2jwt",
+  "pkg_type": "static",
+  "pkg_webpage": "https://buildkite.com/docs/quickstart/elastic-ci-stack-aws",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An auto-scaling cluster of build agents running in your own AWS VPC",
+  "homepage": [
+    "https://buildkite.com/docs/quickstart/elastic-ci-stack-aws"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dev_incus-client",
+    "generate-config",
+    "generate-database",
+    "incus",
+    "incus-benchmark",
+    "incus-migrate",
+    "incus-simplestreams",
+    "lxd-to-incus",
+    "mini-oidc",
+    "sysinfo",
+    "tls2jwt"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/breml/incus/v6/@v/v6.0.0-20250627193255-7f792e6fabf6.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v6.40.4",
+  "version_upstream": "",
+  "bsum": "0ab5540ce3a97f0f5ba85576d102e3f38ac1b37b78093c79097f27e2c9016cfe",
+  "build_date": "2025-07-01T16:02:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16004144696",
+  "build_id": "16004144696",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/buildkite/elastic-ci-stack-for-aws/v6/tls2jwt?tag=v6.40.4-x86_64-Linux&download=tls2jwt.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "422",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/buildkite/elastic-ci-stack-for-aws/v6/tls2jwt?tag=v6.40.4-x86_64-Linux&download=tls2jwt",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/buildkite/elastic-ci-stack-for-aws/v6/tls2jwt:v6.40.4-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/buildkite/elastic-ci-stack-for-aws/v6/tls2jwt",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/buildkite/elastic-ci-stack-for-aws/v6/tls2jwt?tag=v6.40.4-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b97c7d63d7369ba034361821e69e11c1fbc0e7ca63e9e23575ab9702254577cb",
+  "size": "3.6 MB",
+  "size_raw": "3708864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
