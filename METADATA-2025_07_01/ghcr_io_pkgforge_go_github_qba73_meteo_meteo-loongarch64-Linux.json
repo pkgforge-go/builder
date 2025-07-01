@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "meteo",
+  "pkg_family": "meteo",
+  "pkg_id": "meteo#github.com_qba73_meteo",
+  "pkg_name": "meteo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/qba73/meteo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go client library for the Norwegian Meteorological Institute and the Norwegian Broadcasting Corporation weather API",
+  "homepage": [
+    "https://github.com/qba73/meteo"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "basic",
+    "concurrent",
+    "forecast",
+    "meteo"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/qba73/meteo/@v/v0.0.0-20250225061236-409c7cee1334.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250225061236-409c7cee1334",
+  "version_upstream": "",
+  "bsum": "18cf93e033bade7cabb8a4a1ce0d6b11b7602c06e1932feaa5335f9a5c0e6875",
+  "build_date": "2025-07-01T08:43:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15993774504",
+  "build_id": "15993774504",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/qba73/meteo/meteo?tag=v0.0.0-20250225061236-409c7cee1334-loongarch64-Linux&download=meteo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/qba73/meteo/meteo?tag=v0.0.0-20250225061236-409c7cee1334-loongarch64-Linux&download=meteo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/qba73/meteo/meteo:v0.0.0-20250225061236-409c7cee1334-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/qba73/meteo/meteo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/qba73/meteo/meteo?tag=v0.0.0-20250225061236-409c7cee1334-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ed3dd64de1d8bc7fafe5e3994ee35bc61162fd8815e6ac9f508ec18d0b414426",
+  "size": "6.3 MB",
+  "size_raw": "6583648",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
