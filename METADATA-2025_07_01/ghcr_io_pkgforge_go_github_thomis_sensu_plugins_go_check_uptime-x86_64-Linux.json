@@ -1,0 +1,92 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "check-uptime",
+  "pkg_family": "sensu-plugins-go",
+  "pkg_id": "check-uptime#github.com_thomis_sensu_plugins_go",
+  "pkg_name": "check-uptime",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/thomis/sensu-plugins-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Sensu plugins & libraries written in go",
+  "homepage": [
+    "https://github.com/thomis/sensu-plugins-go"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check-certificate",
+    "check-cpu",
+    "check-disk",
+    "check-elasticsearch",
+    "check-http",
+    "check-http-json",
+    "check-memory",
+    "check-mysql-ping",
+    "check-mysql-processes",
+    "check-nginx",
+    "check-oracle-ping",
+    "check-oracle-validity",
+    "check-ping",
+    "check-postfix",
+    "check-postfix-queue",
+    "check-postgres",
+    "check-process",
+    "check-rabbitmq",
+    "check-redis",
+    "check-uptime",
+    "handler-delete",
+    "handler-elasticsearch",
+    "handler-hubot",
+    "handler-slack",
+    "metrics-cpu",
+    "metrics-disk",
+    "metrics-memory",
+    "metrics-snmp",
+    "metrics-traffic"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/thomis/sensu-plugins-go/@v/v0.0.0-20250607064934-74f500445898.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250607064934-74f500445898",
+  "version_upstream": "",
+  "bsum": "124c975d620bd8f699b4766243e0e0b27963a05b11179a0e2b22432a54ab5f7f",
+  "build_date": "2025-07-01T18:09:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16005525680",
+  "build_id": "16005525680",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/thomis/sensu-plugins-go/check-uptime?tag=v0.0.0-20250607064934-74f500445898-x86_64-Linux&download=check-uptime.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/thomis/sensu-plugins-go/check-uptime?tag=v0.0.0-20250607064934-74f500445898-x86_64-Linux&download=check-uptime",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/thomis/sensu-plugins-go/check-uptime:v0.0.0-20250607064934-74f500445898-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/thomis/sensu-plugins-go/check-uptime",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/thomis/sensu-plugins-go/check-uptime?tag=v0.0.0-20250607064934-74f500445898-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fc0495559c2eef37a7c69827ee1ece7532dbb5a62426d26b73ba101320a2b85a",
+  "size": "2.2 MB",
+  "size_raw": "2257720",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

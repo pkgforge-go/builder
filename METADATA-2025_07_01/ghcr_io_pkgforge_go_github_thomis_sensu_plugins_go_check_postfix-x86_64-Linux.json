@@ -1,0 +1,92 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "check-postfix",
+  "pkg_family": "sensu-plugins-go",
+  "pkg_id": "check-postfix#github.com_thomis_sensu_plugins_go",
+  "pkg_name": "check-postfix",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/thomis/sensu-plugins-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Sensu plugins & libraries written in go",
+  "homepage": [
+    "https://github.com/thomis/sensu-plugins-go"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check-certificate",
+    "check-cpu",
+    "check-disk",
+    "check-elasticsearch",
+    "check-http",
+    "check-http-json",
+    "check-memory",
+    "check-mysql-ping",
+    "check-mysql-processes",
+    "check-nginx",
+    "check-oracle-ping",
+    "check-oracle-validity",
+    "check-ping",
+    "check-postfix",
+    "check-postfix-queue",
+    "check-postgres",
+    "check-process",
+    "check-rabbitmq",
+    "check-redis",
+    "check-uptime",
+    "handler-delete",
+    "handler-elasticsearch",
+    "handler-hubot",
+    "handler-slack",
+    "metrics-cpu",
+    "metrics-disk",
+    "metrics-memory",
+    "metrics-snmp",
+    "metrics-traffic"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/thomis/sensu-plugins-go/@v/v0.0.0-20250607064934-74f500445898.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250607064934-74f500445898",
+  "version_upstream": "",
+  "bsum": "52c196fa361be2d24297872028b02e76495959271647d95950069f2fee783c8e",
+  "build_date": "2025-07-01T18:09:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16005525680",
+  "build_id": "16005525680",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/thomis/sensu-plugins-go/check-postfix?tag=v0.0.0-20250607064934-74f500445898-x86_64-Linux&download=check-postfix.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/thomis/sensu-plugins-go/check-postfix?tag=v0.0.0-20250607064934-74f500445898-x86_64-Linux&download=check-postfix",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/thomis/sensu-plugins-go/check-postfix:v0.0.0-20250607064934-74f500445898-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/thomis/sensu-plugins-go/check-postfix",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/thomis/sensu-plugins-go/check-postfix?tag=v0.0.0-20250607064934-74f500445898-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fa6b3eec579c5ef5a792bdc0e0d8c61e9aeb070527b7c3a08d918e5e0e09734d",
+  "size": "2.2 MB",
+  "size_raw": "2258072",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
