@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "helm-manifest-parser",
+  "pkg_family": "gatekeeper-addons",
+  "pkg_id": "helm-manifest-parser#github.com_sapcc_gatekeeper_addons",
+  "pkg_name": "helm-manifest-parser",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sapcc/gatekeeper-addons",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Addons for our setup of OPA Gatekeeper",
+  "homepage": [
+    "https://github.com/sapcc/gatekeeper-addons"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "doop-analyzer",
+    "doop-api",
+    "doop-image-checker",
+    "helm-manifest-generator",
+    "helm-manifest-parser"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sapcc/gatekeeper-addons/@v/v0.0.0-20250626150858-2f6048c960c8.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250626150858-2f6048c960c8",
+  "version_upstream": "",
+  "bsum": "329a5fbc6b0831189b0a6359673980e0048c1bcc098515c096adf09c9fe66c3f",
+  "build_date": "2025-07-01T11:11:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15996911020",
+  "build_id": "15996911020",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/gatekeeper-addons/helm-manifest-parser?tag=v0.0.0-20250626150858-2f6048c960c8-aarch64-Linux&download=helm-manifest-parser.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/gatekeeper-addons/helm-manifest-parser?tag=v0.0.0-20250626150858-2f6048c960c8-aarch64-Linux&download=helm-manifest-parser",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sapcc/gatekeeper-addons/helm-manifest-parser:v0.0.0-20250626150858-2f6048c960c8-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sapcc/gatekeeper-addons/helm-manifest-parser",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/gatekeeper-addons/helm-manifest-parser?tag=v0.0.0-20250626150858-2f6048c960c8-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dae57e682f6c7c5e3b211890167ef015602e471deb96e5369559db19e5836471",
+  "size": "8.5 MB",
+  "size_raw": "8885216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

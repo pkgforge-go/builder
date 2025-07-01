@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "helm-manifest-generator",
+  "pkg_family": "gatekeeper-addons",
+  "pkg_id": "helm-manifest-generator#github.com_sapcc_gatekeeper_addons",
+  "pkg_name": "helm-manifest-generator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sapcc/gatekeeper-addons",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Addons for our setup of OPA Gatekeeper",
+  "homepage": [
+    "https://github.com/sapcc/gatekeeper-addons"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "doop-analyzer",
+    "doop-api",
+    "doop-image-checker",
+    "helm-manifest-generator",
+    "helm-manifest-parser"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sapcc/gatekeeper-addons/@v/v0.0.0-20250626150858-2f6048c960c8.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250626150858-2f6048c960c8",
+  "version_upstream": "",
+  "bsum": "111a0b53165806e4a356b7a7d54d20777b2e1de0b2cb79a72971490bbf0c0d24",
+  "build_date": "2025-07-01T11:11:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15996911020",
+  "build_id": "15996911020",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/gatekeeper-addons/helm-manifest-generator?tag=v0.0.0-20250626150858-2f6048c960c8-aarch64-Linux&download=helm-manifest-generator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/gatekeeper-addons/helm-manifest-generator?tag=v0.0.0-20250626150858-2f6048c960c8-aarch64-Linux&download=helm-manifest-generator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sapcc/gatekeeper-addons/helm-manifest-generator:v0.0.0-20250626150858-2f6048c960c8-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sapcc/gatekeeper-addons/helm-manifest-generator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/gatekeeper-addons/helm-manifest-generator?tag=v0.0.0-20250626150858-2f6048c960c8-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a3361b361de00ca88a2ff3117d6ffefb2b4e19bed55168ba695a33557ea2f010",
+  "size": "3.2 MB",
+  "size_raw": "3293440",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
