@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "boshupdate_exporter-cli",
+  "pkg_family": "boshupdate_exporter",
+  "pkg_id": "boshupdate_exporter-cli#github.com_orange_cloudfoundry_boshupdate_exporter",
+  "pkg_name": "boshupdate_exporter-cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/orange-cloudfoundry/boshupdate_exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A prometheus exporter that monitor github releases",
+  "homepage": [
+    "https://github.com/orange-cloudfoundry/boshupdate_exporter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "boshupdate_exporter-cli",
+    "exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/orange-cloudfoundry/boshupdate_exporter/@v/v0.69.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.69.1",
+  "version_upstream": "",
+  "bsum": "0da6bcd6939cc015907bfdcd1f565ed180e63aa197850f7ee3618c1e1418c510",
+  "build_date": "2025-07-01T03:44:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15988828656",
+  "build_id": "15988828656",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/orange-cloudfoundry/boshupdate/exporter/boshupdate_exporter-cli?tag=v0.69.1-riscv64-Linux&download=boshupdate_exporter-cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/orange-cloudfoundry/boshupdate/exporter/boshupdate_exporter-cli?tag=v0.69.1-riscv64-Linux&download=boshupdate_exporter-cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/orange-cloudfoundry/boshupdate/exporter/boshupdate_exporter-cli:v0.69.1-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/orange-cloudfoundry/boshupdate/exporter/boshupdate_exporter-cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/orange-cloudfoundry/boshupdate/exporter/boshupdate_exporter-cli?tag=v0.69.1-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "10310abd8b964058cbcc10c9692ec8df7bee9534701a04e6a38395ab8f706f51",
+  "size": "11 MB",
+  "size_raw": "10805944",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
