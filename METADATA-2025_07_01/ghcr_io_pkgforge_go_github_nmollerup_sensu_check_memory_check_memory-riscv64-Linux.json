@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "check-memory",
+  "pkg_family": "sensu-check-memory",
+  "pkg_id": "check-memory#github.com_nmollerup_sensu_check_memory",
+  "pkg_name": "check-memory",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nmollerup/sensu-check-memory",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cross platform memory check for Sensu",
+  "homepage": [
+    "https://github.com/nmollerup/sensu-check-memory"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check-memory",
+    "check-swap"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/nmollerup/sensu-check-memory/@v/v0.0.0-20250604114340-f07c46b1a8a0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250604114340-f07c46b1a8a0",
+  "version_upstream": "",
+  "bsum": "2f0d6439ba7f29f3909a731acc5399f54a8b4cfa80f44e5aa3190b537a05da2e",
+  "build_date": "2025-07-01T02:45:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15988230951",
+  "build_id": "15988230951",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nmollerup/sensu-check-memory/check-memory?tag=v0.0.0-20250604114340-f07c46b1a8a0-riscv64-Linux&download=check-memory.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nmollerup/sensu-check-memory/check-memory?tag=v0.0.0-20250604114340-f07c46b1a8a0-riscv64-Linux&download=check-memory",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nmollerup/sensu-check-memory/check-memory:v0.0.0-20250604114340-f07c46b1a8a0-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nmollerup/sensu-check-memory/check-memory",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nmollerup/sensu-check-memory/check-memory?tag=v0.0.0-20250604114340-f07c46b1a8a0-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2f39a583db17910c90f2fb96764a593ee59c9ea363aea944767298462b380ba7",
+  "size": "16 MB",
+  "size_raw": "16437720",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
