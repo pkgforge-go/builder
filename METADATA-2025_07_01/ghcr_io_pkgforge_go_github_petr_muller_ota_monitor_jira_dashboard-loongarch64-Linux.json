@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "monitor-jira-dashboard",
+  "pkg_family": "ota",
+  "pkg_id": "monitor-jira-dashboard#github.com_petr_muller_ota",
+  "pkg_name": "monitor-jira-dashboard",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/petr-muller/ota",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OTA Team CLI (personal & experimental",
+  "homepage": [
+    "https://github.com/petr-muller/ota"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "graph-extend-or-fix",
+    "graph-spread-edge-changes",
+    "monitor",
+    "monitor-jira-clear-labels",
+    "monitor-jira-create-impact-statement-request",
+    "monitor-jira-dashboard",
+    "monitor-jira-move-to-proposed",
+    "monitor-jira-move-to-updaterecommendationblocked",
+    "planned-sprint-summary"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/petr-muller/ota/@v/v0.0.0-20250604175317-a480a29368e4.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250604175317-a480a29368e4",
+  "version_upstream": "",
+  "bsum": "5809103f811602c84c43893d4714ae839e8e8c27bd82b0aaf72480f0580b8389",
+  "build_date": "2025-07-01T07:29:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15992185731",
+  "build_id": "15992185731",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/petr-muller/ota/monitor-jira-dashboard?tag=v0.0.0-20250604175317-a480a29368e4-loongarch64-Linux&download=monitor-jira-dashboard.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/petr-muller/ota/monitor-jira-dashboard?tag=v0.0.0-20250604175317-a480a29368e4-loongarch64-Linux&download=monitor-jira-dashboard",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/petr-muller/ota/monitor-jira-dashboard:v0.0.0-20250604175317-a480a29368e4-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/petr-muller/ota/monitor-jira-dashboard",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/petr-muller/ota/monitor-jira-dashboard?tag=v0.0.0-20250604175317-a480a29368e4-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b6423f6d53edfa64253857754a871f021c4a135bdc3b24e9dd917fd370f07efe",
+  "size": "49 MB",
+  "size_raw": "51214912",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
