@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "linter",
+  "pkg_family": "rules_helm",
+  "pkg_id": "linter#github.com_abrisco_rules_helm",
+  "pkg_name": "linter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://abrisco.github.io/rules_helm/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Bazel rules for producing Helm charts",
+  "homepage": [
+    "https://abrisco.github.io/rules_helm/"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "copier",
+    "fetch_shas",
+    "json_to_yaml",
+    "linter",
+    "package_regex_tester",
+    "packager",
+    "plugin",
+    "registrar",
+    "runner",
+    "stamper",
+    "with_multiple_templates"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/abrisco/rules_helm/@v/v0.0.0-20250523173340-e77470d4d315.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250523173340-e77470d4d315",
+  "version_upstream": "",
+  "bsum": "b32bcd70ebd25bfb2d3c5eb07275a051b08ca8c26413b21449dfb08de9ac9187",
+  "build_date": "2025-07-01T04:45:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15989970926",
+  "build_id": "15989970926",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/abrisco/rules/helm/linter?tag=v0.0.0-20250523173340-e77470d4d315-x86_64-Linux&download=linter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "34",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/abrisco/rules/helm/linter?tag=v0.0.0-20250523173340-e77470d4d315-x86_64-Linux&download=linter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/abrisco/rules/helm/linter:v0.0.0-20250523173340-e77470d4d315-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/abrisco/rules/helm/linter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/abrisco/rules/helm/linter?tag=v0.0.0-20250523173340-e77470d4d315-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "55c420064cfce7a8b324e4a4d2e0f905bcbaecd2176ff61440d6bb64683efeba",
+  "size": "2.7 MB",
+  "size_raw": "2820800",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
