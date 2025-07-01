@@ -23,9 +23,7 @@
     "pkgforge-go (https://github.com/pkgforge-go/builder)"
   ],
   "provides": [
-    "notes",
-    "server",
-    "staticgen"
+    "notes"
   ],
   "note": [
     "[EXTERNAL] (This is an Official but externally maintained repository)",
@@ -34,17 +32,17 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://proxy.golang.org/github.com/nkawaller/notes/@v/v0.0.0-20250427203753-a7083b05e80a.zip"
+    "https://proxy.golang.org/github.com/xscorp/notes/@v/v0.0.0-20250629161043-9d3c9879f8dc.zip"
   ],
   "tag": [
     "Utility"
   ],
   "version": "v0.0.0-20250629161043-9d3c9879f8dc",
   "version_upstream": "",
-  "bsum": "d53c7341b96303988e417498def6cb8db38b9343654afcf3ea7c0fa64f573dcd",
-  "build_date": "2025-07-01T02:42:45Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15988227938",
-  "build_id": "15988227938",
+  "bsum": "10261051dd84a7b1dfbadab885927cd361f8ab8383ed8910240872d2529d8706",
+  "build_date": "2025-07-01T23:12:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16011737150",
+  "build_id": "16011737150",
   "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xscorp/notes/notes?tag=v0.0.0-20250629161043-9d3c9879f8dc-loongarch64-Linux&download=notes.log",
   "deprecated": "false",
   "desktop_integration": "false",
@@ -57,10 +55,12 @@
   "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xscorp/notes/notes?tag=v0.0.0-20250629161043-9d3c9879f8dc-loongarch64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "00d9033cb72c30c9d88f4769e53b90a13c22ffe74fdd6a20ab90a15380525f02",
-  "size": "1.9 MB",
-  "size_raw": "1967864",
+  "shasum": "014645d425f5f54f99bc2ace280abc8404c7e2433961bf7c11fb5f53dedfa9cb",
+  "size": "5.7 MB",
+  "size_raw": "5943008",
   "soar_syms": "false",
-  "snapshots": [],
+  "snapshots": [
+    "v0.0.0-20250629161043-9d3c9879f8dc-loongarch64-Linux"
+  ],
   "trusted": "true"
 }
