@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "p4plog2sql",
+  "pkg_family": "go-libp4dlog",
+  "pkg_id": "p4plog2sql#github.com_rcowham_go_libp4dlog",
+  "pkg_name": "p4plog2sql",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rcowham/go-libp4dlog",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go-libp4dlog is a library for Go to parse Perforce Helix Core p4d text log files",
+  "homepage": [
+    "https://github.com/rcowham/go-libp4dlog"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "p4dpending",
+    "p4locks",
+    "p4plog2sql"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/rcowham/go-libp4dlog/@v/v0.14.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.14.3",
+  "version_upstream": "",
+  "bsum": "233ecf635e710168c844b29dbaa14d73600daf4b731b4b5e4d6538982c84d892",
+  "build_date": "2025-07-01T09:59:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15995934608",
+  "build_id": "15995934608",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rcowham/go-libp4dlog/p4plog2sql?tag=v0.14.3-aarch64-Linux&download=p4plog2sql.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rcowham/go-libp4dlog/p4plog2sql?tag=v0.14.3-aarch64-Linux&download=p4plog2sql",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rcowham/go-libp4dlog/p4plog2sql:v0.14.3-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rcowham/go-libp4dlog/p4plog2sql",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rcowham/go-libp4dlog/p4plog2sql?tag=v0.14.3-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "716a2fe506676cabc539aba8d76339080cd49c24c08b1fd8ddc71ec6001f3c8f",
+  "size": "7.7 MB",
+  "size_raw": "8052032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
