@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "validate",
+  "pkg_family": "src",
+  "pkg_id": "validate#github.com_opentofu_registry_stable_src",
+  "pkg_name": "validate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://search.opentofu.org",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Metadata and tooling for the OpenTofu registry",
+  "homepage": [
+    "https://search.opentofu.org"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "add-module",
+    "add-provider",
+    "bump-versions",
+    "generate-v1",
+    "run-server",
+    "validate",
+    "verify-gpg-key"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/opentofu/registry/src/@v/v0.0.0-20250630000214-b212b9918d81.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250630000214-b212b9918d81",
+  "version_upstream": "",
+  "bsum": "60d0dce129f6448efd92c2243e92d48f65a0463cd15e0bea1740e07504109afc",
+  "build_date": "2025-07-01T03:37:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15988790034",
+  "build_id": "15988790034",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opentofu/registry-stable/src/validate?tag=v0.0.0-20250630000214-b212b9918d81-loongarch64-Linux&download=validate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "373",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opentofu/registry-stable/src/validate?tag=v0.0.0-20250630000214-b212b9918d81-loongarch64-Linux&download=validate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/opentofu/registry-stable/src/validate:v0.0.0-20250630000214-b212b9918d81-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/opentofu/registry-stable/src/validate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opentofu/registry-stable/src/validate?tag=v0.0.0-20250630000214-b212b9918d81-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6427d7ab483966ef8abae5ca15dc204e536453e1cf6cfe259ceecc068c385d80",
+  "size": "5.0 MB",
+  "size_raw": "5167904",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
