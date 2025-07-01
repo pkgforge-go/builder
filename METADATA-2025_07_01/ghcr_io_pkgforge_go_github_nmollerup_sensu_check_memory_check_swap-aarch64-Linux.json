@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "check-swap",
+  "pkg_family": "sensu-check-memory",
+  "pkg_id": "check-swap#github.com_nmollerup_sensu_check_memory",
+  "pkg_name": "check-swap",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nmollerup/sensu-check-memory",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cross platform memory check for Sensu",
+  "homepage": [
+    "https://github.com/nmollerup/sensu-check-memory"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check-memory",
+    "check-swap"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/nmollerup/sensu-check-memory/@v/v0.0.0-20250604114340-f07c46b1a8a0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250604114340-f07c46b1a8a0",
+  "version_upstream": "",
+  "bsum": "69b6d2b283cb62805749bf458e988240f29e4c5b684b0cc53c250fc1b78a1c52",
+  "build_date": "2025-07-01T02:45:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15988230951",
+  "build_id": "15988230951",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nmollerup/sensu-check-memory/check-swap?tag=v0.0.0-20250604114340-f07c46b1a8a0-aarch64-Linux&download=check-swap.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nmollerup/sensu-check-memory/check-swap?tag=v0.0.0-20250604114340-f07c46b1a8a0-aarch64-Linux&download=check-swap",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nmollerup/sensu-check-memory/check-swap:v0.0.0-20250604114340-f07c46b1a8a0-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nmollerup/sensu-check-memory/check-swap",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nmollerup/sensu-check-memory/check-swap?tag=v0.0.0-20250604114340-f07c46b1a8a0-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3d09eb8ed3b52d38ddaccb7b9839377fe8f70d1d7cd84918b7146ccefee36e33",
+  "size": "16 MB",
+  "size_raw": "16540000",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
