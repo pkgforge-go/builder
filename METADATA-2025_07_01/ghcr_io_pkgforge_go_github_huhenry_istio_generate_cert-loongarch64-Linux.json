@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "generate_cert",
+  "pkg_family": "istio",
+  "pkg_id": "generate_cert#github.com_huhenry_istio",
+  "pkg_name": "generate_cert",
+  "pkg_type": "static",
+  "pkg_webpage": "https://istio.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Connect, secure, control, and observe services",
+  "homepage": [
+    "https://istio.io"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "docker-builder",
+    "extauthz",
+    "gce_metadata_server",
+    "generate_cert",
+    "generate_csr",
+    "health-check",
+    "imageregistry",
+    "pilot-agent",
+    "server",
+    "src"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/huhenry/istio/@v/v0.0.0-20250630182122-ec526a53442c.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250630182122-ec526a53442c",
+  "version_upstream": "",
+  "bsum": "38dce30f4f07e6e6acd3caf8352144c0d4b119da591232c8d4cdf6018dd6c99f",
+  "build_date": "2025-07-01T16:05:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16004144111",
+  "build_id": "16004144111",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/huhenry/istio/generate_cert?tag=v0.0.0-20250630182122-ec526a53442c-loongarch64-Linux&download=generate_cert.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/huhenry/istio/generate_cert?tag=v0.0.0-20250630182122-ec526a53442c-loongarch64-Linux&download=generate_cert",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/huhenry/istio/generate_cert:v0.0.0-20250630182122-ec526a53442c-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/huhenry/istio/generate_cert",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/huhenry/istio/generate_cert?tag=v0.0.0-20250630182122-ec526a53442c-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "71a82757b6917c25369b24deab6dfda2d004bd771b4fddf8955c41a107a53d6f",
+  "size": "36 MB",
+  "size_raw": "37725568",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
