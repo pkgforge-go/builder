@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "clusterpools",
+  "pkg_family": "clusterclaims-controller",
+  "pkg_id": "clusterpools#github.com_stolostron_clusterclaims_controller",
+  "pkg_name": "clusterpools",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/stolostron/clusterclaims-controller",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Will create ManagedCluster resources when a clusterClaim kind is detected",
+  "homepage": [
+    "https://github.com/stolostron/clusterclaims-controller"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "clusterclaims",
+    "clusterpools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/stolostron/clusterclaims-controller/@v/v0.0.0-20250619142710-fcfee3477c42.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250619142710-fcfee3477c42",
+  "version_upstream": "",
+  "bsum": "7552e2c01d2a1c37e255227437c3686bc2ad0697a4f87a13edd018ae423ab7be",
+  "build_date": "2025-07-01T15:21:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16002242029",
+  "build_id": "16002242029",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stolostron/clusterclaims-controller/clusterpools?tag=v0.0.0-20250619142710-fcfee3477c42-aarch64-Linux&download=clusterpools.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stolostron/clusterclaims-controller/clusterpools?tag=v0.0.0-20250619142710-fcfee3477c42-aarch64-Linux&download=clusterpools",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/stolostron/clusterclaims-controller/clusterpools:v0.0.0-20250619142710-fcfee3477c42-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/stolostron/clusterclaims-controller/clusterpools",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stolostron/clusterclaims-controller/clusterpools?tag=v0.0.0-20250619142710-fcfee3477c42-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bae086c9155d1b8f10aaf4ddeeac9518cae8350e73d288b6490f8f840f10de25",
+  "size": "51 MB",
+  "size_raw": "53139264",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

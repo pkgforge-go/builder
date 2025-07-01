@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "clusterclaims",
+  "pkg_family": "clusterclaims-controller",
+  "pkg_id": "clusterclaims#github.com_stolostron_clusterclaims_controller",
+  "pkg_name": "clusterclaims",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/stolostron/clusterclaims-controller",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Will create ManagedCluster resources when a clusterClaim kind is detected",
+  "homepage": [
+    "https://github.com/stolostron/clusterclaims-controller"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "clusterclaims",
+    "clusterpools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/stolostron/clusterclaims-controller/@v/v0.0.0-20250619142710-fcfee3477c42.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250619142710-fcfee3477c42",
+  "version_upstream": "",
+  "bsum": "4e6073cfdb7827f3d766e4818ea5baa86193416b6303bdb301ddc95a7f2fe057",
+  "build_date": "2025-07-01T15:21:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16002242029",
+  "build_id": "16002242029",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stolostron/clusterclaims-controller/clusterclaims?tag=v0.0.0-20250619142710-fcfee3477c42-aarch64-Linux&download=clusterclaims.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stolostron/clusterclaims-controller/clusterclaims?tag=v0.0.0-20250619142710-fcfee3477c42-aarch64-Linux&download=clusterclaims",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/stolostron/clusterclaims-controller/clusterclaims:v0.0.0-20250619142710-fcfee3477c42-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/stolostron/clusterclaims-controller/clusterclaims",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stolostron/clusterclaims-controller/clusterclaims?tag=v0.0.0-20250619142710-fcfee3477c42-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6d4fb094ac204a73f7276b7da3af4c7922f9005b5d721471612bab0e966af534",
+  "size": "43 MB",
+  "size_raw": "45008480",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
