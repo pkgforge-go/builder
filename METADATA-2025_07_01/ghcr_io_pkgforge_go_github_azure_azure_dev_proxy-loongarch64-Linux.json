@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "proxy",
+  "pkg_family": "azure-dev",
+  "pkg_id": "proxy#github.com_azure_azure_dev",
+  "pkg_name": "proxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://aka.ms/azd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A developer CLI that reduces the time it takes to get started on Azure. The Azure Developer CLI (azd) provides commands that map to key workflow stages: code, build, deploy, monitor, repeat",
+  "homepage": [
+    "https://aka.ms/azd"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appdetect",
+    "avmres",
+    "azd",
+    "docs",
+    "microsoft.azd.ai.builder",
+    "microsoft.azd.demo",
+    "microsoft.azd.extensions",
+    "proxy",
+    "tfoidc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/azure/azure-dev/@v/v0.0.0-20250630234414-49eca2a301fc.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250630234414-49eca2a301fc",
+  "version_upstream": "",
+  "bsum": "40aeee655aeae23943e178ad0c0d4409567f8f7086388f56d3eafdd773864b6c",
+  "build_date": "2025-07-01T15:56:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16004144679",
+  "build_id": "16004144679",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/azure-dev/proxy?tag=v0.0.0-20250630234414-49eca2a301fc-loongarch64-Linux&download=proxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "459",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/azure-dev/proxy?tag=v0.0.0-20250630234414-49eca2a301fc-loongarch64-Linux&download=proxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azure/azure-dev/proxy:v0.0.0-20250630234414-49eca2a301fc-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azure/azure-dev/proxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/azure-dev/proxy?tag=v0.0.0-20250630234414-49eca2a301fc-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "01807b6daf50888c6a799ab6f437557e4fbcea63dd2d2db84b93ff21a87e6455",
+  "size": "4.6 MB",
+  "size_raw": "4760640",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ef9775e-250617T135436-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
