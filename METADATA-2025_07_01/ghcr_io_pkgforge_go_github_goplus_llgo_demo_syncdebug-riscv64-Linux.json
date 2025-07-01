@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "syncdebug",
+  "pkg_family": "_demo",
+  "pkg_id": "syncdebug#github.com_goplus_llgo_demo",
+  "pkg_name": "syncdebug",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/goplus/llgo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Go compiler based on LLVM in order to better integrate Go with the C ecosystem including Python",
+  "homepage": [
+    "https://github.com/goplus/llgo"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "async",
+    "catomic",
+    "checkfile",
+    "commandrun",
+    "complex",
+    "defer",
+    "goroutine",
+    "gotime",
+    "logdemo",
+    "math",
+    "mimeheader",
+    "mkdirdemo",
+    "oslookpath",
+    "randcrypt",
+    "randdemo",
+    "reflectfunc",
+    "stacktrace",
+    "sync",
+    "syncdebug",
+    "sysexec",
+    "timedur"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/goplus/llgo/_demo/@v/v0.0.0-20250625151445-f0728c4fe028.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250625151445-f0728c4fe028",
+  "version_upstream": "",
+  "bsum": "5f697a86d936167f74a39e1b1169638426102285f4c582d53c4efd8258c32d8c",
+  "build_date": "2025-07-01T05:50:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15990469990",
+  "build_id": "15990469990",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/goplus/llgo/demo/syncdebug?tag=v0.0.0-20250625151445-f0728c4fe028-riscv64-Linux&download=syncdebug.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "511",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/goplus/llgo/demo/syncdebug?tag=v0.0.0-20250625151445-f0728c4fe028-riscv64-Linux&download=syncdebug",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/goplus/llgo/demo/syncdebug:v0.0.0-20250625151445-f0728c4fe028-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/goplus/llgo/demo/syncdebug",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/goplus/llgo/demo/syncdebug?tag=v0.0.0-20250625151445-f0728c4fe028-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5582408e4c2efd7ed4780ed4c0c7ad18f51b98c79a7c1415cab531da6bf1d4b7",
+  "size": "1.3 MB",
+  "size_raw": "1341072",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
