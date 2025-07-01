@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "hsts-cookie",
+  "pkg_id": "server#github.com_nevkontakte_hsts_cookie",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "http://hsts.nevkontakte.com",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "HSTS super-cookie proof of concept",
+  "homepage": [
+    "http://hsts.nevkontakte.com"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "do",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/nevkontakte/hsts-cookie/@v/v0.0.0-20250421144355-6e206e1b4af8.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250421144355-6e206e1b4af8",
+  "version_upstream": "",
+  "bsum": "e4442012485527eef6d7307a53454e1e26425479bf3ce18310f0745efe42ed7e",
+  "build_date": "2025-07-01T02:28:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15988206320",
+  "build_id": "15988206320",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nevkontakte/hsts-cookie/server?tag=v0.0.0-20250421144355-6e206e1b4af8-loongarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nevkontakte/hsts-cookie/server?tag=v0.0.0-20250421144355-6e206e1b4af8-loongarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nevkontakte/hsts-cookie/server:v0.0.0-20250421144355-6e206e1b4af8-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nevkontakte/hsts-cookie/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nevkontakte/hsts-cookie/server?tag=v0.0.0-20250421144355-6e206e1b4af8-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9750dca502f6d82fd710692df0f982b33fd26a424a6b2a80e026d7b8b58846f6",
+  "size": "9.6 MB",
+  "size_raw": "10045760",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
