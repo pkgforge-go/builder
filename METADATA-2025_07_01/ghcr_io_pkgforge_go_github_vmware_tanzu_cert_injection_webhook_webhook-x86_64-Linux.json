@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "webhook",
+  "pkg_family": "cert-injection-webhook",
+  "pkg_id": "webhook#github.com_vmware_tanzu_cert_injection_webhook",
+  "pkg_name": "webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/vmware-tanzu/cert-injection-webhook",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Provides a Kubernetes webhook to inject CA certificates and proxy environment variables into pods",
+  "homepage": [
+    "https://github.com/vmware-tanzu/cert-injection-webhook"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "setup-ca-certs",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/vmware-tanzu/cert-injection-webhook/@v/v0.6.4.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.6.4",
+  "version_upstream": "",
+  "bsum": "6569c9484a517441e0f3ced288a8feb499577ab66b0dd8cb4be6903bb05a6857",
+  "build_date": "2025-07-01T21:41:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16010031070",
+  "build_id": "16010031070",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware-tanzu/cert-injection-webhook/webhook?tag=v0.6.4-x86_64-Linux&download=webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "44",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware-tanzu/cert-injection-webhook/webhook?tag=v0.6.4-x86_64-Linux&download=webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/vmware-tanzu/cert-injection-webhook/webhook:v0.6.4-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/vmware-tanzu/cert-injection-webhook/webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware-tanzu/cert-injection-webhook/webhook?tag=v0.6.4-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d9e5b3a648a1d4ba658ef2fe873dd939a0b5ece27a6122ed8018456d4ea6aa11",
+  "size": "58 MB",
+  "size_raw": "60502144",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

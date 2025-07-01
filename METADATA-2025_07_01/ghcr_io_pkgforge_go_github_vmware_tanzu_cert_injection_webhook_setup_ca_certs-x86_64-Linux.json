@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "setup-ca-certs",
+  "pkg_family": "cert-injection-webhook",
+  "pkg_id": "setup-ca-certs#github.com_vmware_tanzu_cert_injection_webhook",
+  "pkg_name": "setup-ca-certs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/vmware-tanzu/cert-injection-webhook",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Provides a Kubernetes webhook to inject CA certificates and proxy environment variables into pods",
+  "homepage": [
+    "https://github.com/vmware-tanzu/cert-injection-webhook"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "setup-ca-certs",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/vmware-tanzu/cert-injection-webhook/@v/v0.6.4.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.6.4",
+  "version_upstream": "",
+  "bsum": "8f683452da532887c7015d3771b6121acad58c3cf91340f133a0662d8924e260",
+  "build_date": "2025-07-01T21:41:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16010031070",
+  "build_id": "16010031070",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware-tanzu/cert-injection-webhook/setup-ca-certs?tag=v0.6.4-x86_64-Linux&download=setup-ca-certs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "44",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware-tanzu/cert-injection-webhook/setup-ca-certs?tag=v0.6.4-x86_64-Linux&download=setup-ca-certs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/vmware-tanzu/cert-injection-webhook/setup-ca-certs:v0.6.4-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/vmware-tanzu/cert-injection-webhook/setup-ca-certs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vmware-tanzu/cert-injection-webhook/setup-ca-certs?tag=v0.6.4-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "21e79e9323e2511b64bd8026e398331bd61490b45afd5df5ae6f70bf1bb4aed9",
+  "size": "2.0 MB",
+  "size_raw": "2086392",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
