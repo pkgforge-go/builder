@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "files209-cli",
+  "pkg_family": "files209",
+  "pkg_id": "files209-cli#github.com_saenuma_files209",
+  "pkg_name": "files209-cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/saenuma/files209",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Files209 is an infinite file store",
+  "homepage": [
+    "https://github.com/saenuma/files209"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "f2store",
+    "files209-cli",
+    "prod"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/saenuma/files209/@v/v0.0.0-20250523222853-f4748e5fcba6.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250523222853-f4748e5fcba6",
+  "version_upstream": "",
+  "bsum": "d11804f62d2f94f9fc8bb4cce11135950261eadbbfff12b24708c75acac75d78",
+  "build_date": "2025-07-01T10:53:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15996654778",
+  "build_id": "15996654778",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/saenuma/files209/files209-cli?tag=v0.0.0-20250523222853-f4748e5fcba6-riscv64-Linux&download=files209-cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/saenuma/files209/files209-cli?tag=v0.0.0-20250523222853-f4748e5fcba6-riscv64-Linux&download=files209-cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/saenuma/files209/files209-cli:v0.0.0-20250523222853-f4748e5fcba6-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/saenuma/files209/files209-cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/saenuma/files209/files209-cli?tag=v0.0.0-20250523222853-f4748e5fcba6-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e5147815748a5cd815167a25b813c7a33bb88840efe592636a26d969c469d9f0",
+  "size": "6.2 MB",
+  "size_raw": "6489592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
