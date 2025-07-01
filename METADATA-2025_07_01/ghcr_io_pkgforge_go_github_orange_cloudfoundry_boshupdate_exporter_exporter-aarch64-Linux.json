@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "exporter",
+  "pkg_family": "boshupdate_exporter",
+  "pkg_id": "exporter#github.com_orange_cloudfoundry_boshupdate_exporter",
+  "pkg_name": "exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/orange-cloudfoundry/boshupdate_exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A prometheus exporter that monitor github releases",
+  "homepage": [
+    "https://github.com/orange-cloudfoundry/boshupdate_exporter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "boshupdate_exporter-cli",
+    "exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/orange-cloudfoundry/boshupdate_exporter/@v/v0.69.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.69.1",
+  "version_upstream": "",
+  "bsum": "49bb5c68a9003d3e052e933e5d4861b87eca559753f60e23b0e89e5c17209596",
+  "build_date": "2025-07-01T03:44:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15988828656",
+  "build_id": "15988828656",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/orange-cloudfoundry/boshupdate/exporter/exporter?tag=v0.69.1-aarch64-Linux&download=exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/orange-cloudfoundry/boshupdate/exporter/exporter?tag=v0.69.1-aarch64-Linux&download=exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/orange-cloudfoundry/boshupdate/exporter/exporter:v0.69.1-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/orange-cloudfoundry/boshupdate/exporter/exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/orange-cloudfoundry/boshupdate/exporter/exporter?tag=v0.69.1-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "315704e1bbb2bc0a8418ca3a587a05dbb0bd0d258939444bf311ea42a0f57161",
+  "size": "14 MB",
+  "size_raw": "14035968",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
