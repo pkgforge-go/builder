@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "worker",
+  "pkg_family": "grpc-proxy",
+  "pkg_id": "worker#github.com_temporalio_samples_go_grpc_proxy",
+  "pkg_name": "worker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://docs.temporal.io/docs/go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Temporal Go SDK samples",
+  "homepage": [
+    "https://docs.temporal.io/docs/go"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "proxy-server",
+    "starter",
+    "worker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/temporalio/samples-go/grpc-proxy/@v/v0.0.0-20250624143534-57e0e2764d30.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250624143534-57e0e2764d30",
+  "version_upstream": "",
+  "bsum": "97c90f7c22be31625b2aec74c745b5c900e13d282b904d34c81e49478371e770",
+  "build_date": "2025-07-01T17:34:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16005304268",
+  "build_id": "16005304268",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/temporalio/samples-go/grpc-proxy/worker?tag=v0.0.0-20250624143534-57e0e2764d30-riscv64-Linux&download=worker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "581",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/temporalio/samples-go/grpc-proxy/worker?tag=v0.0.0-20250624143534-57e0e2764d30-riscv64-Linux&download=worker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/temporalio/samples-go/grpc-proxy/worker:v0.0.0-20250624143534-57e0e2764d30-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/temporalio/samples-go/grpc-proxy/worker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/temporalio/samples-go/grpc-proxy/worker?tag=v0.0.0-20250624143534-57e0e2764d30-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8ab5d8f5c3a9ee64d2406195a8aa24ea2e3aaf33ec73907b88af5a71da716003",
+  "size": "19 MB",
+  "size_raw": "19370328",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
