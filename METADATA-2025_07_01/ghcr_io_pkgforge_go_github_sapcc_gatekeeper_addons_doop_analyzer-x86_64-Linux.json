@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "doop-analyzer",
+  "pkg_family": "gatekeeper-addons",
+  "pkg_id": "doop-analyzer#github.com_sapcc_gatekeeper_addons",
+  "pkg_name": "doop-analyzer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sapcc/gatekeeper-addons",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Addons for our setup of OPA Gatekeeper",
+  "homepage": [
+    "https://github.com/sapcc/gatekeeper-addons"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "doop-analyzer",
+    "doop-api",
+    "doop-image-checker",
+    "helm-manifest-generator",
+    "helm-manifest-parser"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sapcc/gatekeeper-addons/@v/v0.0.0-20250626150858-2f6048c960c8.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250626150858-2f6048c960c8",
+  "version_upstream": "",
+  "bsum": "2ad22bb7981b92abb69dc84d3f98797d739ad597bc5bb41e99c121236327a21c",
+  "build_date": "2025-07-01T11:10:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15996911020",
+  "build_id": "15996911020",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/gatekeeper-addons/doop-analyzer?tag=v0.0.0-20250626150858-2f6048c960c8-x86_64-Linux&download=doop-analyzer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/gatekeeper-addons/doop-analyzer?tag=v0.0.0-20250626150858-2f6048c960c8-x86_64-Linux&download=doop-analyzer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sapcc/gatekeeper-addons/doop-analyzer:v0.0.0-20250626150858-2f6048c960c8-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sapcc/gatekeeper-addons/doop-analyzer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/gatekeeper-addons/doop-analyzer?tag=v0.0.0-20250626150858-2f6048c960c8-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "361116c112885c75017f2d4f3b618255731900846120c6b20629461336c54166",
+  "size": "35 MB",
+  "size_raw": "36642624",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

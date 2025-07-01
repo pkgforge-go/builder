@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "doop-api",
+  "pkg_family": "gatekeeper-addons",
+  "pkg_id": "doop-api#github.com_sapcc_gatekeeper_addons",
+  "pkg_name": "doop-api",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sapcc/gatekeeper-addons",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Addons for our setup of OPA Gatekeeper",
+  "homepage": [
+    "https://github.com/sapcc/gatekeeper-addons"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "doop-analyzer",
+    "doop-api",
+    "doop-image-checker",
+    "helm-manifest-generator",
+    "helm-manifest-parser"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sapcc/gatekeeper-addons/@v/v0.0.0-20250626150858-2f6048c960c8.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250626150858-2f6048c960c8",
+  "version_upstream": "",
+  "bsum": "a4f29dc8e3d5162ab2179c11d5248631d47cca358a0a4ec4811386a7b4250976",
+  "build_date": "2025-07-01T11:10:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15996911020",
+  "build_id": "15996911020",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/gatekeeper-addons/doop-api?tag=v0.0.0-20250626150858-2f6048c960c8-x86_64-Linux&download=doop-api.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/gatekeeper-addons/doop-api?tag=v0.0.0-20250626150858-2f6048c960c8-x86_64-Linux&download=doop-api",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sapcc/gatekeeper-addons/doop-api:v0.0.0-20250626150858-2f6048c960c8-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sapcc/gatekeeper-addons/doop-api",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sapcc/gatekeeper-addons/doop-api?tag=v0.0.0-20250626150858-2f6048c960c8-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c3a59bbfc78820ee1975caad70e8e34d41b93863a718f9f06d1cbfe0b7b8be77",
+  "size": "11 MB",
+  "size_raw": "11180096",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
