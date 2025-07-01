@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "driver-pg",
+  "pkg_family": "crdb",
+  "pkg_id": "driver-pg#github.com_tullo_crdb",
+  "pkg_name": "driver-pg",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tullo/crdb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CRDB for local dev",
+  "homepage": [
+    "https://github.com/tullo/crdb"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "crdb",
+    "driver-pg",
+    "driver-pgx",
+    "gorm",
+    "upper"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/tullo/crdb/@v/v0.0.0-20250630174856-f50ff21d2b7b.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250630174856-f50ff21d2b7b",
+  "version_upstream": "",
+  "bsum": "c5811dc6437c69ec66b176dc49fc0f50971ed74b87390d0c68749aca3c1a7ec8",
+  "build_date": "2025-07-01T20:12:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16008274919",
+  "build_id": "16008274919",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tullo/crdb/driver-pg?tag=v0.0.0-20250630174856-f50ff21d2b7b-x86_64-Linux&download=driver-pg.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tullo/crdb/driver-pg?tag=v0.0.0-20250630174856-f50ff21d2b7b-x86_64-Linux&download=driver-pg",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tullo/crdb/driver-pg:v0.0.0-20250630174856-f50ff21d2b7b-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tullo/crdb/driver-pg",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tullo/crdb/driver-pg?tag=v0.0.0-20250630174856-f50ff21d2b7b-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0a904952fa4e11874d047026671687c0a72e901861e07fa5bfb465f5216b8362",
+  "size": "5.7 MB",
+  "size_raw": "5946624",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
