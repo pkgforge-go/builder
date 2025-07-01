@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "events-to-csv",
+  "pkg_family": "eventkit",
+  "pkg_id": "events-to-csv#github.com_storj_eventkit",
+  "pkg_name": "events-to-csv",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/storj/eventkit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A go library for reporting multidimensional events over UDP",
+  "homepage": [
+    "https://github.com/storj/eventkit"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "eventkit-generator",
+    "eventkit-load",
+    "eventkit-receiver",
+    "eventkit-save-bq",
+    "eventkit-sender",
+    "eventkit-time",
+    "eventkit-tui",
+    "eventkitd",
+    "eventkitd-bigquery",
+    "events-to-csv",
+    "events-to-json"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/storj/eventkit/@v/v0.0.0-20250410172343-61f26d3de156.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250410172343-61f26d3de156",
+  "version_upstream": "",
+  "bsum": "be8d6827d7c054819884970abfbd5b8b77895dabca969eacce83410ed4f47fbe",
+  "build_date": "2025-07-01T15:25:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16002327037",
+  "build_id": "16002327037",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/storj/eventkit/events-to-csv?tag=v0.0.0-20250410172343-61f26d3de156-riscv64-Linux&download=events-to-csv.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/storj/eventkit/events-to-csv?tag=v0.0.0-20250410172343-61f26d3de156-riscv64-Linux&download=events-to-csv",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/storj/eventkit/events-to-csv:v0.0.0-20250410172343-61f26d3de156-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/storj/eventkit/events-to-csv",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/storj/eventkit/events-to-csv?tag=v0.0.0-20250410172343-61f26d3de156-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "670f090cd49e65ee3535929d311dd243044f9aca31c23f46870a3f2b5486f0ee",
+  "size": "1.9 MB",
+  "size_raw": "1957928",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
