@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "http",
+  "pkg_family": "apps",
+  "pkg_id": "http#github.com_dokku_dokku_plugins_apps",
+  "pkg_name": "http",
+  "pkg_type": "static",
+  "pkg_webpage": "https://dokku.com",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A docker-powered PaaS that helps you build and manage the lifecycle of applications",
+  "homepage": [
+    "https://dokku.com"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "backloader",
+    "batcher",
+    "bigquery",
+    "crontask",
+    "csv2json",
+    "db-check",
+    "deduper",
+    "filecopy",
+    "files",
+    "filewatcher",
+    "flowlord",
+    "fz",
+    "http",
+    "json2csv",
+    "logger",
+    "nop",
+    "recap",
+    "retry",
+    "sort2file",
+    "sql-load",
+    "sql-readx",
+    "stats",
+    "transform"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/pcelvng/task-tools/apps/@v/v0.0.0-20250627195058-76babe11fda4.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250618161309-8d0c35f1333c",
+  "version_upstream": "",
+  "bsum": "d70c0bedb068babcbafceb09aa8aa7812c001c615a1cf6f1e42f72bf7452838e",
+  "build_date": "2025-07-01T07:13:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15992174569",
+  "build_id": "15992174569",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dokku/dokku/plugins/apps/http?tag=v0.0.0-20250618161309-8d0c35f1333c-aarch64-Linux&download=http.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "30709",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dokku/dokku/plugins/apps/http?tag=v0.0.0-20250618161309-8d0c35f1333c-aarch64-Linux&download=http",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dokku/dokku/plugins/apps/http:v0.0.0-20250618161309-8d0c35f1333c-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dokku/dokku/plugins/apps/http",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dokku/dokku/plugins/apps/http?tag=v0.0.0-20250618161309-8d0c35f1333c-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "acd8e361fe7b65df0ec2cbd66b157d7eecae8ec1c566f1ed2c70bde8ac54ffa8",
+  "size": "18 MB",
+  "size_raw": "18829824",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
