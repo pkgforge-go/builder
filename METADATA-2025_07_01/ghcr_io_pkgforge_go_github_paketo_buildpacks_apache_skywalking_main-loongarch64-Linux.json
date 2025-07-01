@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "main",
+  "pkg_family": "apache-skywalking",
+  "pkg_id": "main#github.com_paketo_buildpacks_apache_skywalking",
+  "pkg_name": "main",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/paketo-buildpacks/apache-skywalking",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Cloud Native Buildpack that contributes the Apache SkyWalking Agent and configures it to connect to the service",
+  "homepage": [
+    "https://github.com/paketo-buildpacks/apache-skywalking"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "helper",
+    "main"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/paketo-buildpacks/apache-skywalking/@v/v0.0.0-20250624150059-8cd56615e6b8.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250624150059-8cd56615e6b8",
+  "version_upstream": "",
+  "bsum": "402680a02bace111ae711aa9e9805ec0ed20a7c5e3809315e3f424667a4d1cf6",
+  "build_date": "2025-07-01T04:00:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15989168349",
+  "build_id": "15989168349",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paketo-buildpacks/apache-skywalking/main?tag=v0.0.0-20250624150059-8cd56615e6b8-loongarch64-Linux&download=main.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paketo-buildpacks/apache-skywalking/main?tag=v0.0.0-20250624150059-8cd56615e6b8-loongarch64-Linux&download=main",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/paketo-buildpacks/apache-skywalking/main:v0.0.0-20250624150059-8cd56615e6b8-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/paketo-buildpacks/apache-skywalking/main",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paketo-buildpacks/apache-skywalking/main?tag=v0.0.0-20250624150059-8cd56615e6b8-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f692b51191e5f1e411b339c1c16d33bf4ab09d07245beaef5966fa87c7079ea7",
+  "size": "7.1 MB",
+  "size_raw": "7360352",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
