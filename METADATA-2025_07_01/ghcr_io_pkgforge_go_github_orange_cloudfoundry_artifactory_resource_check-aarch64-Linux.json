@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "check",
+  "pkg_family": "artifactory-resource",
+  "pkg_id": "check#github.com_orange_cloudfoundry_artifactory_resource",
+  "pkg_name": "check",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/orange-cloudfoundry/artifactory-resource",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A concourse resource for push and download files from/to artifactory with semver functionnality",
+  "homepage": [
+    "https://github.com/orange-cloudfoundry/artifactory-resource"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check",
+    "in",
+    "out"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/orange-cloudfoundry/artifactory-resource/@v/v0.0.0-20250627165224-cea355cf1d10.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250627165224-cea355cf1d10",
+  "version_upstream": "",
+  "bsum": "8d197b41d0fada7a82a2a25021f6122bce9a45809f2ecc7fc778a4a2b7c6d42b",
+  "build_date": "2025-07-01T03:45:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15988826251",
+  "build_id": "15988826251",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/orange-cloudfoundry/artifactory-resource/check?tag=v0.0.0-20250627165224-cea355cf1d10-aarch64-Linux&download=check.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/orange-cloudfoundry/artifactory-resource/check?tag=v0.0.0-20250627165224-cea355cf1d10-aarch64-Linux&download=check",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/orange-cloudfoundry/artifactory-resource/check:v0.0.0-20250627165224-cea355cf1d10-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/orange-cloudfoundry/artifactory-resource/check",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/orange-cloudfoundry/artifactory-resource/check?tag=v0.0.0-20250627165224-cea355cf1d10-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6aff04e5217604f4123c69637567736b8862897ca6ab4f39401fbd5ab2048a38",
+  "size": "12 MB",
+  "size_raw": "12187328",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
