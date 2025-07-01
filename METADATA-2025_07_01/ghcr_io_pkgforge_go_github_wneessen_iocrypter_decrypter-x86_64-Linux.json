@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "decrypter",
+  "pkg_family": "iocrypter",
+  "pkg_id": "decrypter#github.com_wneessen_iocrypter",
+  "pkg_name": "decrypter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/wneessen/iocrypter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "AES-256-CTR encryption with SHA-512 HMAC authentication as a Go io.Reader interface",
+  "homepage": [
+    "https://github.com/wneessen/iocrypter"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "decrypter",
+    "encrypter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/wneessen/iocrypter/@v/v0.3.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.3.1",
+  "version_upstream": "",
+  "bsum": "d6b1a3f4d152dc299e0f631d41aefb3e1ba5efdc56e3254cb54877d3ccd913cf",
+  "build_date": "2025-07-01T22:41:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16011101331",
+  "build_id": "16011101331",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wneessen/iocrypter/decrypter?tag=v0.3.1-x86_64-Linux&download=decrypter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wneessen/iocrypter/decrypter?tag=v0.3.1-x86_64-Linux&download=decrypter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/wneessen/iocrypter/decrypter:v0.3.1-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/wneessen/iocrypter/decrypter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wneessen/iocrypter/decrypter?tag=v0.3.1-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8666036415aab96048fc884b194bfeddfd22b9331d4023ef0e6a8497ca310295",
+  "size": "2.2 MB",
+  "size_raw": "2268704",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
