@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "concurrent",
+  "pkg_family": "meteo",
+  "pkg_id": "concurrent#github.com_qba73_meteo",
+  "pkg_name": "concurrent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/qba73/meteo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go client library for the Norwegian Meteorological Institute and the Norwegian Broadcasting Corporation weather API",
+  "homepage": [
+    "https://github.com/qba73/meteo"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "basic",
+    "concurrent",
+    "forecast",
+    "meteo"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/qba73/meteo/@v/v0.0.0-20250225061236-409c7cee1334.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250225061236-409c7cee1334",
+  "version_upstream": "",
+  "bsum": "eb794446de16bf805710c1f0f8abf56835c667dc689e578625f2b5ed95c354ed",
+  "build_date": "2025-07-01T08:44:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15993774504",
+  "build_id": "15993774504",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/qba73/meteo/concurrent?tag=v0.0.0-20250225061236-409c7cee1334-riscv64-Linux&download=concurrent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/qba73/meteo/concurrent?tag=v0.0.0-20250225061236-409c7cee1334-riscv64-Linux&download=concurrent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/qba73/meteo/concurrent:v0.0.0-20250225061236-409c7cee1334-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/qba73/meteo/concurrent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/qba73/meteo/concurrent?tag=v0.0.0-20250225061236-409c7cee1334-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f30572b8d63c28b0027a92d53e3039893ece183c82e685a7f1fa4f6ae368edfd",
+  "size": "6.2 MB",
+  "size_raw": "6451640",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
