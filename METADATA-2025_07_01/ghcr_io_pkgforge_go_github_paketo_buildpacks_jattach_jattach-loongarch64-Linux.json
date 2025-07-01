@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "jattach",
+  "pkg_family": "jattach",
+  "pkg_id": "jattach#github.com_paketo_buildpacks_jattach",
+  "pkg_name": "jattach",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/paketo-buildpacks/jattach",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Cloud Native Buildpack that provides the JAttach binary to send commands to a remote JVM via Dynamic Attach mechanism",
+  "homepage": [
+    "https://github.com/paketo-buildpacks/jattach"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "jattach"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/paketo-buildpacks/jattach/@v/v1.10.2.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.10.2",
+  "version_upstream": "",
+  "bsum": "447d7edee388b46953b4b4c5f517681703b9e084220f79759febc1a602e15959",
+  "build_date": "2025-07-01T04:12:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15989270052",
+  "build_id": "15989270052",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paketo-buildpacks/jattach/jattach?tag=v1.10.2-loongarch64-Linux&download=jattach.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paketo-buildpacks/jattach/jattach?tag=v1.10.2-loongarch64-Linux&download=jattach",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/paketo-buildpacks/jattach/jattach:v1.10.2-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/paketo-buildpacks/jattach/jattach",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paketo-buildpacks/jattach/jattach?tag=v1.10.2-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "eac5e4be60ecf97055fbb918f1bf903ad776be94ab280baddb1179420f2f8d33",
+  "size": "7.2 MB",
+  "size_raw": "7533952",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
