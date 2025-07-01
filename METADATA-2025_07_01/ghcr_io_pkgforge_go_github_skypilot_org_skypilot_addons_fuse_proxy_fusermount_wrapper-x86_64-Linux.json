@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "fusermount-wrapper",
+  "pkg_family": "fuse-proxy",
+  "pkg_id": "fusermount-wrapper#github.com_skypilot_org_skypilot_addons_fuse_proxy",
+  "pkg_name": "fusermount-wrapper",
+  "pkg_type": "static",
+  "pkg_webpage": "https://docs.skypilot.co/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface",
+  "homepage": [
+    "https://docs.skypilot.co/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "fusermount-server",
+    "fusermount-shim",
+    "fusermount-wrapper"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/skypilot-org/skypilot/addons/fuse-proxy/@v/v0.0.0-20250628052826-ba3330073144.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250628052826-ba3330073144",
+  "version_upstream": "",
+  "bsum": "6767614b8b5ad942469efcaac322a92bbeeb0460fe0305be423f0663d96d7bf8",
+  "build_date": "2025-07-01T14:00:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16000831398",
+  "build_id": "16000831398",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/skypilot-org/skypilot/addons/fuse-proxy/fusermount-wrapper?tag=v0.0.0-20250628052826-ba3330073144-x86_64-Linux&download=fusermount-wrapper.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8292",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/skypilot-org/skypilot/addons/fuse-proxy/fusermount-wrapper?tag=v0.0.0-20250628052826-ba3330073144-x86_64-Linux&download=fusermount-wrapper",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/skypilot-org/skypilot/addons/fuse-proxy/fusermount-wrapper:v0.0.0-20250628052826-ba3330073144-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/skypilot-org/skypilot/addons/fuse-proxy/fusermount-wrapper",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/skypilot-org/skypilot/addons/fuse-proxy/fusermount-wrapper?tag=v0.0.0-20250628052826-ba3330073144-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "934c86e1518b12fba4717c52a38fe43eaab2466a831c650cf403d51bc73c5872",
+  "size": "2.9 MB",
+  "size_raw": "3025208",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
