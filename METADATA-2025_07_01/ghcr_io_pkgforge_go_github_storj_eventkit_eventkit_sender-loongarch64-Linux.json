@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "eventkit-sender",
+  "pkg_family": "eventkit",
+  "pkg_id": "eventkit-sender#github.com_storj_eventkit",
+  "pkg_name": "eventkit-sender",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/storj/eventkit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A go library for reporting multidimensional events over UDP",
+  "homepage": [
+    "https://github.com/storj/eventkit"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "eventkit-generator",
+    "eventkit-load",
+    "eventkit-receiver",
+    "eventkit-save-bq",
+    "eventkit-sender",
+    "eventkit-time",
+    "eventkit-tui",
+    "eventkitd",
+    "eventkitd-bigquery",
+    "events-to-csv",
+    "events-to-json"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/storj/eventkit/@v/v0.0.0-20250410172343-61f26d3de156.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250410172343-61f26d3de156",
+  "version_upstream": "",
+  "bsum": "10b4808ad5dc578be7361b3d0824ba6dc929baa9423142097a74efc08fee216a",
+  "build_date": "2025-07-01T15:24:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16002327037",
+  "build_id": "16002327037",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/storj/eventkit/eventkit-sender?tag=v0.0.0-20250410172343-61f26d3de156-loongarch64-Linux&download=eventkit-sender.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/storj/eventkit/eventkit-sender?tag=v0.0.0-20250410172343-61f26d3de156-loongarch64-Linux&download=eventkit-sender",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/storj/eventkit/eventkit-sender:v0.0.0-20250410172343-61f26d3de156-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/storj/eventkit/eventkit-sender",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/storj/eventkit/eventkit-sender?tag=v0.0.0-20250410172343-61f26d3de156-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a48d12cf03b85ae1f4788c2e24748f0f3e926787c6f7282a7c025140fe0494a8",
+  "size": "23 MB",
+  "size_raw": "23906992",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
