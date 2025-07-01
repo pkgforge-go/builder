@@ -39,7 +39,8 @@
 ## ℹ️ About
 This repo, scrapes Go Packages from variety of sources & builds them as Statically Linked relocatable binaries for `aarch64-Linux`, `loongarch64-Linux`, `riscv64-Linux` & `x86_64-Linux`.<br>
 The [build script](https://github.com/pkgforge-go/builder/blob/main/scripts/builder.sh) uses [Zig](https://zig.guide/working-with-c/zig-cc/) to compile the packages on [Github Actions](https://github.com/pkgforge-go/builder/actions) & then uploads the artifacts to [ghcr.io](https://github.com/orgs/pkgforge-go/packages?repo_name=builder) using [Oras](https://github.com/oras-project/oras).<br>
-All of which are downloadable & installable with soar by adding `pkgforge-go` as an [external repo](https://docs.pkgforge.dev/repositories/external/pkgforge-go).
+All of which are downloadable & installable with soar by adding `pkgforge-go` as an [external repo](https://docs.pkgforge.dev/repositories/external/pkgforge-go).<br>
+Blog: https://blog.pkgforge.dev/cross-compiling-10000-go-cli-packages-statically
 
 ## 🏗️ Build Constraints
 - [X] Must have a source published publicly, preferably [`Github`](https://github.com/search?q=lang%3Ago&type=repositories)
