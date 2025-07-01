@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "fed-data-collection",
+  "pkg_id": "server#github.com_njuettner_fed_data_collection",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "http://juni.io/fed",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This repository contains a collection of tools for gathering FED data information such as money supply, consumer price index and federal funds rate",
+  "homepage": [
+    "http://juni.io/fed"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "fed-data-collection",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/njuettner/fed-data-collection/@v/v0.0.0-20250629070518-f99086611c39.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250629070518-f99086611c39",
+  "version_upstream": "",
+  "bsum": "577056545155b37324e9bf88c27bf1927052bc27d7d4c7e8664c6d99577e93a4",
+  "build_date": "2025-07-01T02:41:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15988227285",
+  "build_id": "15988227285",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/njuettner/fed-data-collection/server?tag=v0.0.0-20250629070518-f99086611c39-loongarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/njuettner/fed-data-collection/server?tag=v0.0.0-20250629070518-f99086611c39-loongarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/njuettner/fed-data-collection/server:v0.0.0-20250629070518-f99086611c39-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/njuettner/fed-data-collection/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/njuettner/fed-data-collection/server?tag=v0.0.0-20250629070518-f99086611c39-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "47edd7aee4b4925e3fe4db85d1e06b25640bd913d1822a30bb032cd348adf028",
+  "size": "6.1 MB",
+  "size_raw": "6394240",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
