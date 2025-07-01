@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "validate",
+  "pkg_family": "continuous-integration",
+  "pkg_id": "validate#github.com_bazelbuild_continuous_integration",
+  "pkg_name": "validate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://buildkite.com",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Bazel's Continuous Integration Setup",
+  "homepage": [
+    "https://buildkite.com"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "export",
+    "metrics",
+    "pipestats",
+    "update",
+    "validate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/bazelbuild/continuous-integration/@v/v0.0.0-20250630112755-9d35a0e82173.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250630112755-9d35a0e82173",
+  "version_upstream": "",
+  "bsum": "97b25d833b7a46ecb4983346437271e92433f2c9ae792eb397c60162921f07d1",
+  "build_date": "2025-07-01T05:04:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15990006115",
+  "build_id": "15990006115",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bazelbuild/continuous-integration/validate?tag=v0.0.0-20250630112755-9d35a0e82173-aarch64-Linux&download=validate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "275",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bazelbuild/continuous-integration/validate?tag=v0.0.0-20250630112755-9d35a0e82173-aarch64-Linux&download=validate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bazelbuild/continuous-integration/validate:v0.0.0-20250630112755-9d35a0e82173-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bazelbuild/continuous-integration/validate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bazelbuild/continuous-integration/validate?tag=v0.0.0-20250630112755-9d35a0e82173-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a34c5beb9d61fbbfa3b52f165e89c356b39310aa5862a71040e02d0b840e5000",
+  "size": "6.5 MB",
+  "size_raw": "6785216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
