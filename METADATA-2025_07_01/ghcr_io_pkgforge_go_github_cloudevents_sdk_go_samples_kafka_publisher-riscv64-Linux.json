@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "publisher",
+  "pkg_family": "kafka",
+  "pkg_id": "publisher#github.com_cloudevents_sdk_go_samples_kafka",
+  "pkg_name": "publisher",
+  "pkg_type": "static",
+  "pkg_webpage": "https://cloudevents.github.io/sdk-go/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go SDK for CloudEvents",
+  "homepage": [
+    "https://cloudevents.github.io/sdk-go/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "consumer",
+    "publisher"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/syafdia/go-exercise/src/etc/kafka/@v/v0.0.0-20250323053431-87de8e7aeb60.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250630074109-a9ca6131519a",
+  "version_upstream": "",
+  "bsum": "64ecc3fa9245f22ce6ecab027feccf5b83747363b49c8d4ae78505f0e17be36a",
+  "build_date": "2025-07-01T16:29:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16004209761",
+  "build_id": "16004209761",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudevents/sdk-go/samples/kafka/publisher?tag=v0.0.0-20250630074109-a9ca6131519a-riscv64-Linux&download=publisher.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "887",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudevents/sdk-go/samples/kafka/publisher?tag=v0.0.0-20250630074109-a9ca6131519a-riscv64-Linux&download=publisher",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudevents/sdk-go/samples/kafka/publisher:v0.0.0-20250630074109-a9ca6131519a-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudevents/sdk-go/samples/kafka/publisher",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudevents/sdk-go/samples/kafka/publisher?tag=v0.0.0-20250630074109-a9ca6131519a-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6bed22be9fd3a9be7388f10826a6efd307d145a84fc4499548199e15a32d8692",
+  "size": "5.5 MB",
+  "size_raw": "5720664",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
