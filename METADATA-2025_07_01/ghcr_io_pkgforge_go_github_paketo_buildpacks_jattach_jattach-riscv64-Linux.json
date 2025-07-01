@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "jattach",
+  "pkg_family": "jattach",
+  "pkg_id": "jattach#github.com_paketo_buildpacks_jattach",
+  "pkg_name": "jattach",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/paketo-buildpacks/jattach",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Cloud Native Buildpack that provides the JAttach binary to send commands to a remote JVM via Dynamic Attach mechanism",
+  "homepage": [
+    "https://github.com/paketo-buildpacks/jattach"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "jattach"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/paketo-buildpacks/jattach/@v/v1.10.2.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.10.2",
+  "version_upstream": "",
+  "bsum": "66a4094d559af76fe57741a6577468fd21c21319bfbddecec55274a3d483e5e5",
+  "build_date": "2025-07-01T04:12:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15989270052",
+  "build_id": "15989270052",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paketo-buildpacks/jattach/jattach?tag=v1.10.2-riscv64-Linux&download=jattach.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paketo-buildpacks/jattach/jattach?tag=v1.10.2-riscv64-Linux&download=jattach",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/paketo-buildpacks/jattach/jattach:v1.10.2-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/paketo-buildpacks/jattach/jattach",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paketo-buildpacks/jattach/jattach?tag=v1.10.2-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "56a3db030f9961ff8543b1a7839124b22cb06f4b9217ba9396b828c893718c5b",
+  "size": "7.1 MB",
+  "size_raw": "7394904",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
