@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "greeter_server",
+  "pkg_family": "go-grpc",
+  "pkg_id": "greeter_server#github.com_wso2_choreo_samples_go_grpc",
+  "pkg_name": "greeter_server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/wso2/choreo-samples",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This will contain integration and service samples displayed in choreo",
+  "homepage": [
+    "https://github.com/wso2/choreo-samples"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "greeter_client",
+    "greeter_server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/wso2/choreo-samples/go-grpc/@v/v0.0.0-20250516060556-9ecffe97fb0f.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250516060556-9ecffe97fb0f",
+  "version_upstream": "",
+  "bsum": "6f443a4eeeac1ee9827c834b3967b82ebc60f42807ca2a47b5828d0341fbc6fd",
+  "build_date": "2025-07-01T22:51:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16011190456",
+  "build_id": "16011190456",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wso2/choreo-samples/go-grpc/greeter_server?tag=v0.0.0-20250516060556-9ecffe97fb0f-riscv64-Linux&download=greeter_server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "50",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wso2/choreo-samples/go-grpc/greeter_server?tag=v0.0.0-20250516060556-9ecffe97fb0f-riscv64-Linux&download=greeter_server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/wso2/choreo-samples/go-grpc/greeter_server:v0.0.0-20250516060556-9ecffe97fb0f-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/wso2/choreo-samples/go-grpc/greeter_server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wso2/choreo-samples/go-grpc/greeter_server?tag=v0.0.0-20250516060556-9ecffe97fb0f-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2902b03c02ef19336b4b5b2756e89a882dbdbe80ddd105b5bdeff9bc72b54c82",
+  "size": "10 MB",
+  "size_raw": "10467032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
