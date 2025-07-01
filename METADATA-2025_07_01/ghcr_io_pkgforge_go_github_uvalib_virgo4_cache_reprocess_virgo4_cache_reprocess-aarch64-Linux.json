@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "virgo4-cache-reprocess",
+  "pkg_family": "virgo4-cache-reprocess",
+  "pkg_id": "virgo4-cache-reprocess#github.com_uvalib_virgo4_cache_reprocess",
+  "pkg_name": "virgo4-cache-reprocess",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/uvalib/virgo4-cache-reprocess",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Service that processes files from S3 containing the identifiers of documents to be reprocessed. Reads source record from the cache and adds them back into the ingest queue",
+  "homepage": [
+    "https://github.com/uvalib/virgo4-cache-reprocess"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "virgo4-cache-reprocess"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/uvalib/virgo4-cache-reprocess/@v/v0.0.0-20250611135438-31ad34fd577c.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250611135438-31ad34fd577c",
+  "version_upstream": "",
+  "bsum": "b77fffa0f4ec64b3009ed342004bd024d74ecae3d2d9ee64afde9b1e8f390c84",
+  "build_date": "2025-07-01T20:54:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16009046824",
+  "build_id": "16009046824",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uvalib/virgo4-cache-reprocess/virgo4-cache-reprocess?tag=v0.0.0-20250611135438-31ad34fd577c-aarch64-Linux&download=virgo4-cache-reprocess.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uvalib/virgo4-cache-reprocess/virgo4-cache-reprocess?tag=v0.0.0-20250611135438-31ad34fd577c-aarch64-Linux&download=virgo4-cache-reprocess",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/uvalib/virgo4-cache-reprocess/virgo4-cache-reprocess:v0.0.0-20250611135438-31ad34fd577c-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/uvalib/virgo4-cache-reprocess/virgo4-cache-reprocess",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/uvalib/virgo4-cache-reprocess/virgo4-cache-reprocess?tag=v0.0.0-20250611135438-31ad34fd577c-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8f9f329e73d75a47100fbb89f66c19e2096d8965acb1dc66c7114dfecea9a86b",
+  "size": "14 MB",
+  "size_raw": "13869440",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
