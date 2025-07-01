@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "svc",
+  "pkg_id": "server#github.com_paulja_go_fib_grpc_svc",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/paulja/go-fib-grpc/svc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Example gRPC service in Go with Docker Compose and TLS",
+  "homepage": [
+    "https://github.com/paulja/go-fib-grpc/svc"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/paulja/go-fib-grpc/svc/@v/v0.0.0-20250326124555-04c07af1efba.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250326124555-04c07af1efba",
+  "version_upstream": "",
+  "bsum": "08b649d41d6e64ab54c3b72b4a5950db8c811f73be917e561cc8e788a4818401",
+  "build_date": "2025-07-01T06:40:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/15991338490",
+  "build_id": "15991338490",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paulja/go-fib-grpc/svc/server?tag=v0.0.0-20250326124555-04c07af1efba-loongarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paulja/go-fib-grpc/svc/server?tag=v0.0.0-20250326124555-04c07af1efba-loongarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/paulja/go-fib-grpc/svc/server:v0.0.0-20250326124555-04c07af1efba-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/paulja/go-fib-grpc/svc/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paulja/go-fib-grpc/svc/server?tag=v0.0.0-20250326124555-04c07af1efba-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4f2f83b9688c359c629fa5322eaa68b8c37f9794b2ed6ca905de48d4eaf56d57",
+  "size": "11 MB",
+  "size_raw": "11216640",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
