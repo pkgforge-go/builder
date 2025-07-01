@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "containerd-registry",
+  "pkg_family": "containerd-registry",
+  "pkg_id": "containerd-registry#github.com_tianon_containerd_registry",
+  "pkg_name": "containerd-registry",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tianon/containerd-registry",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A basic OCI registry built on top of containerd's image/content store",
+  "homepage": [
+    "https://github.com/tianon/containerd-registry"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "containerd-registry"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/tianon/containerd-registry/@v/v0.0.0-20250527223030-1fb6cc592c9f.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250527223030-1fb6cc592c9f",
+  "version_upstream": "",
+  "bsum": "2ce1bbb28da8426be939f1072e45c82fe1126e4af477dff833de89a2750a53ef",
+  "build_date": "2025-07-01T18:07:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16005674926",
+  "build_id": "16005674926",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tianon/containerd-registry/containerd-registry?tag=v0.0.0-20250527223030-1fb6cc592c9f-riscv64-Linux&download=containerd-registry.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tianon/containerd-registry/containerd-registry?tag=v0.0.0-20250527223030-1fb6cc592c9f-riscv64-Linux&download=containerd-registry",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tianon/containerd-registry/containerd-registry:v0.0.0-20250527223030-1fb6cc592c9f-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tianon/containerd-registry/containerd-registry",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tianon/containerd-registry/containerd-registry?tag=v0.0.0-20250527223030-1fb6cc592c9f-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c196f284bd14ffc65569a0797b3a36d9e67f1300d6d598c1d347ed535ef55d5c",
+  "size": "16 MB",
+  "size_raw": "16728248",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
