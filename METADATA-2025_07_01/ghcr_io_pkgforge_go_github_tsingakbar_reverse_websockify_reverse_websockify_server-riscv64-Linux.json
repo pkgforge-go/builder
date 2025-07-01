@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "reverse_websockify_server",
+  "pkg_family": "reverse_websockify",
+  "pkg_id": "reverse_websockify_server#github.com_tsingakbar_reverse_websockify",
+  "pkg_name": "reverse_websockify_server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tsingakbar/reverse_websockify",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Similar to novnc's websockify, but reversed: tcp service is the http client side",
+  "homepage": [
+    "https://github.com/tsingakbar/reverse_websockify"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "reverse_websockify_agent_service_side",
+    "reverse_websockify_server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/tsingakbar/reverse_websockify/@v/v0.0.0-20250508083244-0bca5baec482.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250508083244-0bca5baec482",
+  "version_upstream": "",
+  "bsum": "339804c480b53c2a02aa15ded71fd7dc1a43339ce1c61823e3ee8011f36560e8",
+  "build_date": "2025-07-01T20:08:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16008178239",
+  "build_id": "16008178239",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tsingakbar/reverse/websockify/reverse_websockify_server?tag=v0.0.0-20250508083244-0bca5baec482-riscv64-Linux&download=reverse_websockify_server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tsingakbar/reverse/websockify/reverse_websockify_server?tag=v0.0.0-20250508083244-0bca5baec482-riscv64-Linux&download=reverse_websockify_server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tsingakbar/reverse/websockify/reverse_websockify_server:v0.0.0-20250508083244-0bca5baec482-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tsingakbar/reverse/websockify/reverse_websockify_server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tsingakbar/reverse/websockify/reverse_websockify_server?tag=v0.0.0-20250508083244-0bca5baec482-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "27eb25a625b3e3aaef0ddddc15fdc207535824258b21ade0038e37dc3254194e",
+  "size": "6.2 MB",
+  "size_raw": "6454200",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
