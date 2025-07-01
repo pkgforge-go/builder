@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "avmres",
+  "pkg_family": "azure-dev",
+  "pkg_id": "avmres#github.com_azure_azure_dev",
+  "pkg_name": "avmres",
+  "pkg_type": "static",
+  "pkg_webpage": "https://aka.ms/azd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A developer CLI that reduces the time it takes to get started on Azure. The Azure Developer CLI (azd) provides commands that map to key workflow stages: code, build, deploy, monitor, repeat",
+  "homepage": [
+    "https://aka.ms/azd"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appdetect",
+    "avmres",
+    "azd",
+    "docs",
+    "microsoft.azd.ai.builder",
+    "microsoft.azd.demo",
+    "microsoft.azd.extensions",
+    "proxy",
+    "tfoidc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/azure/azure-dev/@v/v0.0.0-20250630234414-49eca2a301fc.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250630234414-49eca2a301fc",
+  "version_upstream": "",
+  "bsum": "26076c6c87f5b28d3908047a97f9494a7a26bde38cecda4b86e69462640f035c",
+  "build_date": "2025-07-01T16:02:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16004144679",
+  "build_id": "16004144679",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/azure-dev/avmres?tag=v0.0.0-20250630234414-49eca2a301fc-riscv64-Linux&download=avmres.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "459",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/azure-dev/avmres?tag=v0.0.0-20250630234414-49eca2a301fc-riscv64-Linux&download=avmres",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azure/azure-dev/avmres:v0.0.0-20250630234414-49eca2a301fc-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azure/azure-dev/avmres",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azure/azure-dev/avmres?tag=v0.0.0-20250630234414-49eca2a301fc-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "58199c08d811ec141d12ed2bfd622a6db58d4acf323e0c81f4f0a2f75592faae",
+  "size": "7.4 MB",
+  "size_raw": "7730360",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-ef9775e-250617T135436-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
