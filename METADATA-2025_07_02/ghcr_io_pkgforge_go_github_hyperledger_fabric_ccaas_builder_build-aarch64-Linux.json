@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "build",
+  "pkg_family": "ccaas_builder",
+  "pkg_id": "build#github.com_hyperledger_fabric_ccaas_builder",
+  "pkg_name": "build",
+  "pkg_type": "static",
+  "pkg_webpage": "https://lf-hyperledger.atlassian.net/wiki/spaces/fabric",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy",
+  "homepage": [
+    "https://lf-hyperledger.atlassian.net/wiki/spaces/fabric"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build",
+    "detect",
+    "release"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/hyperledger/fabric/ccaas_builder/@v/v0.0.0-20250630120749-49dfcb9173f7.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250630120749-49dfcb9173f7",
+  "version_upstream": "",
+  "bsum": "83fcfb3214ab08de2baba5e3711d0383f4d23257516581b6caa25762d81e3ccc",
+  "build_date": "2025-07-02T07:29:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16018328130",
+  "build_id": "16018328130",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hyperledger/fabric/ccaas/builder/build?tag=v0.0.0-20250630120749-49dfcb9173f7-aarch64-Linux&download=build.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16166",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hyperledger/fabric/ccaas/builder/build?tag=v0.0.0-20250630120749-49dfcb9173f7-aarch64-Linux&download=build",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hyperledger/fabric/ccaas/builder/build:v0.0.0-20250630120749-49dfcb9173f7-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hyperledger/fabric/ccaas/builder/build",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hyperledger/fabric/ccaas/builder/build?tag=v0.0.0-20250630120749-49dfcb9173f7-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dda9bb4ad609a5decab475467900d15b1053fb8e9de16285d7f07cde5ad83c3c",
+  "size": "3.2 MB",
+  "size_raw": "3257496",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250628074921-f2ef20824a6d-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
