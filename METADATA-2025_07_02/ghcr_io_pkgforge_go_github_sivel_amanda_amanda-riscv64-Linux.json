@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "amanda",
+  "pkg_family": "amanda",
+  "pkg_id": "amanda#github.com_sivel_amanda",
+  "pkg_name": "amanda",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sivel/amanda",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A simple web application, to mimic the v3 API endpoints for Ansible Galaxy Collections, with no database, just a directory with artifacts",
+  "homepage": [
+    "https://github.com/sivel/amanda"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "amanda"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sivel/amanda/@v/v0.0.0-20250630211155-577f87d5a2fa.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250630211155-577f87d5a2fa",
+  "version_upstream": "",
+  "bsum": "7c1d9f424970c8800a2ff678f27e5436471a27fb6d71fb8c4941cab327cb3f9b",
+  "build_date": "2025-07-02T07:53:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16018432703",
+  "build_id": "16018432703",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sivel/amanda/amanda?tag=v0.0.0-20250630211155-577f87d5a2fa-riscv64-Linux&download=amanda.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sivel/amanda/amanda?tag=v0.0.0-20250630211155-577f87d5a2fa-riscv64-Linux&download=amanda",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sivel/amanda/amanda:v0.0.0-20250630211155-577f87d5a2fa-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sivel/amanda/amanda",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sivel/amanda/amanda?tag=v0.0.0-20250630211155-577f87d5a2fa-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "65e0fa61477ecf133ceb66040b803ede32bf65ad2c799e267011ce9566c057ad",
+  "size": "8.9 MB",
+  "size_raw": "9294392",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-f7e35ca-250623T152436-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
