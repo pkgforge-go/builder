@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "pressuretest",
+  "pkg_family": "things",
+  "pkg_id": "pressuretest#github.com_go_things_things",
+  "pkg_name": "pressuretest",
+  "pkg_type": "static",
+  "pkg_webpage": "https://doc.unitedrhino.com/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "联犀是基于golang,gozero框架构建的SaaS云原生微服务物联网平台(iot)，支持MQTT、CoAP、HTTP、TCP、阿里云、腾讯云、涂鸦云,物美等云云对接及设备协议，实现海量多样设备连接。支持多租户、多应用和项目管理，内置小程序功能,适应多样化业务场景.支持单体、集群和微服务部署，适应不同企业规模和需求。支持mysql和pgsql，满足数据存储需求,适用于智能家居、智慧楼宇",
+  "homepage": [
+    "https://doc.unitedrhino.com/"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apisvr",
+    "asynq",
+    "dgsvr",
+    "dmsvr",
+    "jsont",
+    "pressuretest",
+    "protocolsync",
+    "tcp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/go-things/things/@v/v1.4.52.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.4.52",
+  "version_upstream": "",
+  "bsum": "bad05a3c58942b91316b702d37bc95885f304eef8f18b19776c80b0a4af2e520",
+  "build_date": "2025-07-02T05:07:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16016019075",
+  "build_id": "16016019075",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-things/things/pressuretest?tag=v1.4.52-aarch64-Linux&download=pressuretest.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "529",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-things/things/pressuretest?tag=v1.4.52-aarch64-Linux&download=pressuretest",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go-things/things/pressuretest:v1.4.52-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go-things/things/pressuretest",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-things/things/pressuretest?tag=v1.4.52-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7fe040ed32a602044a4e96d88d78b26ef13b6e24e9020a0183df3cb342224c35",
+  "size": "56 MB",
+  "size_raw": "58264096",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

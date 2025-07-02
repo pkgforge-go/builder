@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "dmsvr",
+  "pkg_family": "things",
+  "pkg_id": "dmsvr#github.com_go_things_things",
+  "pkg_name": "dmsvr",
+  "pkg_type": "static",
+  "pkg_webpage": "https://doc.unitedrhino.com/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "联犀是基于golang,gozero框架构建的SaaS云原生微服务物联网平台(iot)，支持MQTT、CoAP、HTTP、TCP、阿里云、腾讯云、涂鸦云,物美等云云对接及设备协议，实现海量多样设备连接。支持多租户、多应用和项目管理，内置小程序功能,适应多样化业务场景.支持单体、集群和微服务部署，适应不同企业规模和需求。支持mysql和pgsql，满足数据存储需求,适用于智能家居、智慧楼宇",
+  "homepage": [
+    "https://doc.unitedrhino.com/"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apisvr",
+    "asynq",
+    "dgsvr",
+    "dmsvr",
+    "jsont",
+    "pressuretest",
+    "protocolsync",
+    "tcp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/go-things/things/@v/v1.4.52.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.4.52",
+  "version_upstream": "",
+  "bsum": "aceba4d3891d74b73101a7ce98fa1e9e446e4384253e4074f5d60db7869816f3",
+  "build_date": "2025-07-02T05:07:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16016019075",
+  "build_id": "16016019075",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-things/things/dmsvr?tag=v1.4.52-aarch64-Linux&download=dmsvr.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "529",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-things/things/dmsvr?tag=v1.4.52-aarch64-Linux&download=dmsvr",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go-things/things/dmsvr:v1.4.52-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go-things/things/dmsvr",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-things/things/dmsvr?tag=v1.4.52-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "80496400faeae3dfd596a1a5479240a159dc102c58273c3f245efa4a05d2f4a4",
+  "size": "98 MB",
+  "size_raw": "102707904",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
