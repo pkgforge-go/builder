@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "steam",
+  "pkg_family": "steam",
+  "pkg_id": "steam#github.com_zalgonoise_x_steam",
+  "pkg_name": "steam",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/zalgonoise/x",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Experimental Go libraries (take it with a grain of salt",
+  "homepage": [
+    "https://github.com/zalgonoise/x"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appslist-rebuild-db",
+    "appslist-renew",
+    "steam"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/zalgonoise/x/steam/@v/v0.0.0-20250630173507-dd638b9a49c9.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250630173507-dd638b9a49c9",
+  "version_upstream": "",
+  "bsum": "7df12d9b4121f382dfc817b8c1115776c52388ec20e5b14a972df635e59d4550",
+  "build_date": "2025-07-02T00:05:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16012419247",
+  "build_id": "16012419247",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zalgonoise/x/steam/steam?tag=v0.0.0-20250630173507-dd638b9a49c9-x86_64-Linux&download=steam.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zalgonoise/x/steam/steam?tag=v0.0.0-20250630173507-dd638b9a49c9-x86_64-Linux&download=steam",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/zalgonoise/x/steam/steam:v0.0.0-20250630173507-dd638b9a49c9-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/zalgonoise/x/steam/steam",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zalgonoise/x/steam/steam?tag=v0.0.0-20250630173507-dd638b9a49c9-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4109f8fe6d2276a49a4e50185fe7a19fd4ad3aaf1f1fb96a6e87c78ee6f77454",
+  "size": "26 MB",
+  "size_raw": "26814784",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
