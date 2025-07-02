@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ctclone",
+  "pkg_family": "trillian-examples",
+  "pkg_id": "ctclone#github.com_google_trillian_examples",
+  "pkg_name": "ctclone",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/google/trillian-examples",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A place to store some examples which use Trillian APIs to build things",
+  "homepage": [
+    "https://github.com/google/trillian-examples"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build",
+    "clone2serverless",
+    "cmd",
+    "ctclone",
+    "ctverify",
+    "dummy",
+    "flash_tool",
+    "ft_monitor",
+    "ft_personality",
+    "ft_witness",
+    "ftmap",
+    "ftmapserver",
+    "modify_bundle",
+    "publisher",
+    "serverlessclone",
+    "sumdbclone",
+    "sumdbverify",
+    "verify",
+    "versions"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/google/trillian-examples/@v/v0.0.0-20250701095427-96b70c27f5f9.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250701095427-96b70c27f5f9",
+  "version_upstream": "",
+  "bsum": "d404bbb3ae73c3178208a0165f28c066b0b587c84d91067fd68de783ba235d90",
+  "build_date": "2025-07-02T05:08:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16016021808",
+  "build_id": "16016021808",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/trillian-examples/ctclone?tag=v0.0.0-20250701095427-96b70c27f5f9-riscv64-Linux&download=ctclone.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "168",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/trillian-examples/ctclone?tag=v0.0.0-20250701095427-96b70c27f5f9-riscv64-Linux&download=ctclone",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/google/trillian-examples/ctclone:v0.0.0-20250701095427-96b70c27f5f9-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/google/trillian-examples/ctclone",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/trillian-examples/ctclone?tag=v0.0.0-20250701095427-96b70c27f5f9-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a73f08fd32676e8726ea2c63ca4163957dda749e445f3c54cae901a72f8b6118",
+  "size": "7.2 MB",
+  "size_raw": "7466008",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ft_monitor",
+  "pkg_family": "trillian-examples",
+  "pkg_id": "ft_monitor#github.com_google_trillian_examples",
+  "pkg_name": "ft_monitor",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/google/trillian-examples",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A place to store some examples which use Trillian APIs to build things",
+  "homepage": [
+    "https://github.com/google/trillian-examples"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build",
+    "clone2serverless",
+    "cmd",
+    "ctclone",
+    "ctverify",
+    "dummy",
+    "flash_tool",
+    "ft_monitor",
+    "ft_personality",
+    "ft_witness",
+    "ftmap",
+    "ftmapserver",
+    "modify_bundle",
+    "publisher",
+    "serverlessclone",
+    "sumdbclone",
+    "sumdbverify",
+    "verify",
+    "versions"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/google/trillian-examples/@v/v0.0.0-20250701095427-96b70c27f5f9.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250701095427-96b70c27f5f9",
+  "version_upstream": "",
+  "bsum": "294aea2d05395b3329ee82b341e27648ebd665793bce9a2ff83ab58d515439ac",
+  "build_date": "2025-07-02T05:08:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16016021808",
+  "build_id": "16016021808",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/trillian-examples/ft_monitor?tag=v0.0.0-20250701095427-96b70c27f5f9-riscv64-Linux&download=ft_monitor.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "168",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/trillian-examples/ft_monitor?tag=v0.0.0-20250701095427-96b70c27f5f9-riscv64-Linux&download=ft_monitor",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/google/trillian-examples/ft_monitor:v0.0.0-20250701095427-96b70c27f5f9-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/google/trillian-examples/ft_monitor",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/trillian-examples/ft_monitor?tag=v0.0.0-20250701095427-96b70c27f5f9-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1c430d53e500e83b31660e68736c99535748caa3dff5d40e3f53062f72c7c6f8",
+  "size": "8.4 MB",
+  "size_raw": "8723992",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
