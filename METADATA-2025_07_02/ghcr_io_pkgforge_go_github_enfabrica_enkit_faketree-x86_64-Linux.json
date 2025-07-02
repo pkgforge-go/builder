@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "faketree",
+  "pkg_family": "enkit",
+  "pkg_id": "faketree#github.com_enfabrica_enkit",
+  "pkg_name": "faketree",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/enfabrica/enkit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Toolkit for lean builds and team management",
+  "homepage": [
+    "https://github.com/enfabrica/enkit"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bb_reporter",
+    "build_nark",
+    "cli",
+    "cmd",
+    "deploy",
+    "enkit_credential_helper",
+    "faketree",
+    "k8s_dummy",
+    "monitor",
+    "nomad_license_manage",
+    "remote_apis_build_demo",
+    "staco",
+    "template",
+    "validate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/enfabrica/enkit/@v/v0.0.0-20250701213156-970ed86fa7db.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250701213156-970ed86fa7db",
+  "version_upstream": "",
+  "bsum": "98cca1608bc345a269380712b7415a56a107b0d76904896fd00df17adc079a7f",
+  "build_date": "2025-07-02T16:13:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16029854656",
+  "build_id": "16029854656",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/faketree?tag=v0.0.0-20250701213156-970ed86fa7db-x86_64-Linux&download=faketree.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "31",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/faketree?tag=v0.0.0-20250701213156-970ed86fa7db-x86_64-Linux&download=faketree",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/enfabrica/enkit/faketree:v0.0.0-20250701213156-970ed86fa7db-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/enfabrica/enkit/faketree",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/faketree?tag=v0.0.0-20250701213156-970ed86fa7db-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "72ae9fdd699ff6ed742c3f181431c00239d5a2850d0da2130b74282fa8e881bc",
+  "size": "2.4 MB",
+  "size_raw": "2443576",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a1810c2-250619T143504-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
