@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "smtpmock",
+  "pkg_id": "server#github.com_ovh_cds_tools_smtpmock",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://ovh.github.io/cds/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform",
+  "homepage": [
+    "https://ovh.github.io/cds/"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "server",
+    "smtpmock-cli"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/ovh/cds/tools/smtpmock/@v/v0.0.0-20250630074600-495dd01c751b.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250630074600-495dd01c751b",
+  "version_upstream": "",
+  "bsum": "8ee448819c6afc35349d3014ccdbda43da5f9d4a3d84825b3a7a863c9aa326ae",
+  "build_date": "2025-07-02T10:24:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16022008773",
+  "build_id": "16022008773",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ovh/cds/tools/smtpmock/server?tag=v0.0.0-20250630074600-495dd01c751b-riscv64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4726",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ovh/cds/tools/smtpmock/server?tag=v0.0.0-20250630074600-495dd01c751b-riscv64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ovh/cds/tools/smtpmock/server:v0.0.0-20250630074600-495dd01c751b-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ovh/cds/tools/smtpmock/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ovh/cds/tools/smtpmock/server?tag=v0.0.0-20250630074600-495dd01c751b-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d49b44f71a90ea3dd1853c6ffc36e1da586047dac035da796aa7b7e769f70d68",
+  "size": "11 MB",
+  "size_raw": "11387544",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250625135845-6ab7d8e4fa3f-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
