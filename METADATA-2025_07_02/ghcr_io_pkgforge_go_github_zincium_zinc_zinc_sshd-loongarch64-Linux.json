@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "zinc-sshd",
+  "pkg_family": "zinc",
+  "pkg_id": "zinc-sshd#github.com_zincium_zinc",
+  "pkg_name": "zinc-sshd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/zincium/zinc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The whims and realizations of Git hosting services",
+  "homepage": [
+    "https://github.com/zincium/zinc"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "balance-update",
+    "h3",
+    "netcat",
+    "post-receive",
+    "pre-receive",
+    "silver-sshd",
+    "update",
+    "zinc",
+    "zinc-balanced",
+    "zinc-sshd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/zincium/zinc/@v/v0.0.0-20250626041134-ca67ba3761ce.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250626041134-ca67ba3761ce",
+  "version_upstream": "",
+  "bsum": "e0d32d23431eb578aa2417385d3c0d49b06ba18c3c2455355180cdc4fd598815",
+  "build_date": "2025-07-02T08:03:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16018463048",
+  "build_id": "16018463048",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zincium/zinc/zinc-sshd?tag=v0.0.0-20250626041134-ca67ba3761ce-loongarch64-Linux&download=zinc-sshd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zincium/zinc/zinc-sshd?tag=v0.0.0-20250626041134-ca67ba3761ce-loongarch64-Linux&download=zinc-sshd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/zincium/zinc/zinc-sshd:v0.0.0-20250626041134-ca67ba3761ce-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/zincium/zinc/zinc-sshd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zincium/zinc/zinc-sshd?tag=v0.0.0-20250626041134-ca67ba3761ce-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5e322fa5f8e2e262fe0e5276b3709e8d3bc25e5376ca91f0bf8843c7e83650aa",
+  "size": "2.9 MB",
+  "size_raw": "2952256",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-77909b8-250624T203255-loongarch64-Linux",
+    "HEAD-3279f5c-250626T093819-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
