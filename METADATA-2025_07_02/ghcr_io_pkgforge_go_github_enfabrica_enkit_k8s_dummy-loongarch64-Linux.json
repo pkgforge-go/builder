@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "k8s_dummy",
+  "pkg_family": "enkit",
+  "pkg_id": "k8s_dummy#github.com_enfabrica_enkit",
+  "pkg_name": "k8s_dummy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/enfabrica/enkit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Toolkit for lean builds and team management",
+  "homepage": [
+    "https://github.com/enfabrica/enkit"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bb_reporter",
+    "build_nark",
+    "cli",
+    "cmd",
+    "deploy",
+    "enkit_credential_helper",
+    "faketree",
+    "k8s_dummy",
+    "monitor",
+    "nomad_license_manage",
+    "remote_apis_build_demo",
+    "staco",
+    "template",
+    "validate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/enfabrica/enkit/@v/v0.0.0-20250701213156-970ed86fa7db.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250701213156-970ed86fa7db",
+  "version_upstream": "",
+  "bsum": "1dab6b8c4a0ffbe4bc816be52a8eb7a930e3784196343d911c12cb01f96173c8",
+  "build_date": "2025-07-02T16:14:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16029854656",
+  "build_id": "16029854656",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/k8s_dummy?tag=v0.0.0-20250701213156-970ed86fa7db-loongarch64-Linux&download=k8s_dummy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "31",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/k8s_dummy?tag=v0.0.0-20250701213156-970ed86fa7db-loongarch64-Linux&download=k8s_dummy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/enfabrica/enkit/k8s_dummy:v0.0.0-20250701213156-970ed86fa7db-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/enfabrica/enkit/k8s_dummy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/k8s_dummy?tag=v0.0.0-20250701213156-970ed86fa7db-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "58ad0c9011a75d5df800ab500405bbb29b4cce999ba6697778acaab680b0c0df",
+  "size": "14 MB",
+  "size_raw": "14233824",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a1810c2-250619T143504-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}

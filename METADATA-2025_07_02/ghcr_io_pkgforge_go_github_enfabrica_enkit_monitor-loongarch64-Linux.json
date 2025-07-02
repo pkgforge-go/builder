@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "monitor",
+  "pkg_family": "enkit",
+  "pkg_id": "monitor#github.com_enfabrica_enkit",
+  "pkg_name": "monitor",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/enfabrica/enkit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Toolkit for lean builds and team management",
+  "homepage": [
+    "https://github.com/enfabrica/enkit"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bb_reporter",
+    "build_nark",
+    "cli",
+    "cmd",
+    "deploy",
+    "enkit_credential_helper",
+    "faketree",
+    "k8s_dummy",
+    "monitor",
+    "nomad_license_manage",
+    "remote_apis_build_demo",
+    "staco",
+    "template",
+    "validate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/enfabrica/enkit/@v/v0.0.0-20250701213156-970ed86fa7db.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250701213156-970ed86fa7db",
+  "version_upstream": "",
+  "bsum": "1bcaf63b544a21fdcb7c528a5f4883d5256a64a2687e87b41c3b1a066fd10d48",
+  "build_date": "2025-07-02T16:14:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16029854656",
+  "build_id": "16029854656",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/monitor?tag=v0.0.0-20250701213156-970ed86fa7db-loongarch64-Linux&download=monitor.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "31",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/monitor?tag=v0.0.0-20250701213156-970ed86fa7db-loongarch64-Linux&download=monitor",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/enfabrica/enkit/monitor:v0.0.0-20250701213156-970ed86fa7db-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/enfabrica/enkit/monitor",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/monitor?tag=v0.0.0-20250701213156-970ed86fa7db-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6238aa83760672c39c432b32895e3ad0e46fb9f035ab8776f2e69badf0500f2d",
+  "size": "17 MB",
+  "size_raw": "17761792",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a1810c2-250619T143504-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
