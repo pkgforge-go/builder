@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "asynq",
+  "pkg_family": "things",
+  "pkg_id": "asynq#github.com_go_things_things",
+  "pkg_name": "asynq",
+  "pkg_type": "static",
+  "pkg_webpage": "https://doc.unitedrhino.com/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "联犀是基于golang,gozero框架构建的SaaS云原生微服务物联网平台(iot)，支持MQTT、CoAP、HTTP、TCP、阿里云、腾讯云、涂鸦云,物美等云云对接及设备协议，实现海量多样设备连接。支持多租户、多应用和项目管理，内置小程序功能,适应多样化业务场景.支持单体、集群和微服务部署，适应不同企业规模和需求。支持mysql和pgsql，满足数据存储需求,适用于智能家居、智慧楼宇",
+  "homepage": [
+    "https://doc.unitedrhino.com/"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apisvr",
+    "asynq",
+    "dgsvr",
+    "dmsvr",
+    "jsont",
+    "pressuretest",
+    "protocolsync",
+    "tcp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/go-things/things/@v/v1.4.52.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.4.52",
+  "version_upstream": "",
+  "bsum": "664599c79bc4242ab06fcbe7470664690f130a6b28c86199dcb433d05c95f7d1",
+  "build_date": "2025-07-02T05:08:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16016019075",
+  "build_id": "16016019075",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-things/things/asynq?tag=v1.4.52-riscv64-Linux&download=asynq.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "529",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-things/things/asynq?tag=v1.4.52-riscv64-Linux&download=asynq",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go-things/things/asynq:v1.4.52-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go-things/things/asynq",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-things/things/asynq?tag=v1.4.52-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "78e814162a982509ba62f7eb8ff70fbb307052a3b3fcd4b1edc2ed1c68131c49",
+  "size": "8.1 MB",
+  "size_raw": "8395864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
