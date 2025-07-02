@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "zfind",
+  "pkg_family": "zfind",
+  "pkg_id": "zfind#github.com_laktak_zfind",
+  "pkg_name": "zfind",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/laktak/zfind",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Search for files (even inside tar/zip/7z/rar) using a SQL-WHERE filter",
+  "homepage": [
+    "https://github.com/laktak/zfind"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "scripts",
+    "zfind"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/laktak/zfind/@v/v0.4.7.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.4.7",
+  "version_upstream": "",
+  "bsum": "499eb8331f9567d6993a29180093bb00b6f42e0796d6767df2e8525455aa6d30",
+  "build_date": "2025-07-02T10:19:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16021970786",
+  "build_id": "16021970786",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/laktak/zfind/zfind?tag=v0.4.7-loongarch64-Linux&download=zfind.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "395",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/laktak/zfind/zfind?tag=v0.4.7-loongarch64-Linux&download=zfind",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/laktak/zfind/zfind:v0.4.7-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/laktak/zfind/zfind",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/laktak/zfind/zfind?tag=v0.4.7-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3674fe1f0cac2e95d6366cd42e7f3f3501778b8fe884cee8a465cfcfcdc4b24c",
+  "size": "8.7 MB",
+  "size_raw": "9065408",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-56bcf97-250613T222939-loongarch64-Linux",
+    "HEAD-15a3a06-250621T213306-loongarch64-Linux[v0.4.7]"
+  ],
+  "trusted": "true"
+}
