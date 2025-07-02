@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "functional-test",
+  "pkg_family": "cdncheck",
+  "pkg_id": "functional-test#github.com_projectdiscovery_cdncheck",
+  "pkg_name": "functional-test",
+  "pkg_type": "static",
+  "pkg_webpage": "https://projectdiscovery.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A utility to detect various technology for a given IP address",
+  "homepage": [
+    "https://projectdiscovery.io"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cdncheck",
+    "cdncheck-examples",
+    "functional-test",
+    "generate-index",
+    "integration-test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/projectdiscovery/cdncheck/@v/v1.1.25.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.1.25",
+  "version_upstream": "",
+  "bsum": "f8e87da471241831cd408b1c92449650b2e6b2013bb1b42714d127f0554bcafc",
+  "build_date": "2025-07-02T07:49:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16018422375",
+  "build_id": "16018422375",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/cdncheck/functional-test?tag=v1.1.25-x86_64-Linux&download=functional-test.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "843",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/cdncheck/functional-test?tag=v1.1.25-x86_64-Linux&download=functional-test",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/projectdiscovery/cdncheck/functional-test:v1.1.25-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/projectdiscovery/cdncheck/functional-test",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/cdncheck/functional-test?tag=v1.1.25-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6139e6891d923c25211fabea10676859ca318b8a2080c3a0197dce5c3f6b0b63",
+  "size": "2.2 MB",
+  "size_raw": "2253240",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-dbdc966-250615T001226-x86_64-Linux[v1.1.23]",
+    "HEAD-0443e5b-250622T001220-x86_64-Linux[v1.1.24]",
+    "HEAD-d4e3c75-250629T001237-x86_64-Linux[v1.1.25]"
+  ],
+  "trusted": "true"
+}
