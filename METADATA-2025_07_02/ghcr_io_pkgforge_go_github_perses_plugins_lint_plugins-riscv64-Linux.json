@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "lint-plugins",
+  "pkg_family": "plugins",
+  "pkg_id": "lint-plugins#github.com_perses_plugins",
+  "pkg_name": "lint-plugins",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/perses/plugins",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The core plugins for Perses",
+  "homepage": [
+    "https://github.com/perses/plugins"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build-archive",
+    "build-plugins",
+    "cue-publish",
+    "lint-plugins",
+    "npm-publish",
+    "release",
+    "tidy-modules",
+    "upload-archive"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/perses/plugins/@v/v0.0.0-20250624125548-bb9eb8ec67f7.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250624125548-bb9eb8ec67f7",
+  "version_upstream": "",
+  "bsum": "1ba11c786a200f553ba89b98d12a416acfa8d440004e2e62085c3fd57fce4310",
+  "build_date": "2025-07-02T05:38:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16016637221",
+  "build_id": "16016637221",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/perses/plugins/lint-plugins?tag=v0.0.0-20250624125548-bb9eb8ec67f7-riscv64-Linux&download=lint-plugins.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/perses/plugins/lint-plugins?tag=v0.0.0-20250624125548-bb9eb8ec67f7-riscv64-Linux&download=lint-plugins",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/perses/plugins/lint-plugins:v0.0.0-20250624125548-bb9eb8ec67f7-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/perses/plugins/lint-plugins",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/perses/plugins/lint-plugins?tag=v0.0.0-20250624125548-bb9eb8ec67f7-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "96d1afef9dfaead4794360bfec36eea250c9a3156c065b4c298bc48a00f1c6ef",
+  "size": "2.3 MB",
+  "size_raw": "2411592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
