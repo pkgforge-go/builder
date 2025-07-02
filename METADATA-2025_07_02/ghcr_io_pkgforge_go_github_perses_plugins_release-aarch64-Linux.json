@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "release",
+  "pkg_family": "plugins",
+  "pkg_id": "release#github.com_perses_plugins",
+  "pkg_name": "release",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/perses/plugins",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The core plugins for Perses",
+  "homepage": [
+    "https://github.com/perses/plugins"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build-archive",
+    "build-plugins",
+    "cue-publish",
+    "lint-plugins",
+    "npm-publish",
+    "release",
+    "tidy-modules",
+    "upload-archive"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/perses/plugins/@v/v0.0.0-20250624125548-bb9eb8ec67f7.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250624125548-bb9eb8ec67f7",
+  "version_upstream": "",
+  "bsum": "3eab2cdd9d46fe9eeade61f6065ee6cdecbf47b06738039f8c22949484e07a84",
+  "build_date": "2025-07-02T05:37:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16016637221",
+  "build_id": "16016637221",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/perses/plugins/release?tag=v0.0.0-20250624125548-bb9eb8ec67f7-aarch64-Linux&download=release.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/perses/plugins/release?tag=v0.0.0-20250624125548-bb9eb8ec67f7-aarch64-Linux&download=release",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/perses/plugins/release:v0.0.0-20250624125548-bb9eb8ec67f7-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/perses/plugins/release",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/perses/plugins/release?tag=v0.0.0-20250624125548-bb9eb8ec67f7-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "752f63ec1b8ac19b8dfd6db7fa82b5d51738e27f58b39b99d0fb7532f44196ee",
+  "size": "2.4 MB",
+  "size_raw": "2475672",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
