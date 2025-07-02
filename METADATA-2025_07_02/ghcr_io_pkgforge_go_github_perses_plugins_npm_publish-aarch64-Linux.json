@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "npm-publish",
+  "pkg_family": "plugins",
+  "pkg_id": "npm-publish#github.com_perses_plugins",
+  "pkg_name": "npm-publish",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/perses/plugins",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The core plugins for Perses",
+  "homepage": [
+    "https://github.com/perses/plugins"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build-archive",
+    "build-plugins",
+    "cue-publish",
+    "lint-plugins",
+    "npm-publish",
+    "release",
+    "tidy-modules",
+    "upload-archive"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/perses/plugins/@v/v0.0.0-20250624125548-bb9eb8ec67f7.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250624125548-bb9eb8ec67f7",
+  "version_upstream": "",
+  "bsum": "530d451ed797c550b2cf634e441e1bb7ce2142958c8406b25412a00d781c93b0",
+  "build_date": "2025-07-02T05:38:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16016637221",
+  "build_id": "16016637221",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/perses/plugins/npm-publish?tag=v0.0.0-20250624125548-bb9eb8ec67f7-aarch64-Linux&download=npm-publish.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/perses/plugins/npm-publish?tag=v0.0.0-20250624125548-bb9eb8ec67f7-aarch64-Linux&download=npm-publish",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/perses/plugins/npm-publish:v0.0.0-20250624125548-bb9eb8ec67f7-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/perses/plugins/npm-publish",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/perses/plugins/npm-publish?tag=v0.0.0-20250624125548-bb9eb8ec67f7-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "244f6a5e8cfdac8a04842c3c0f9b594bb5ac1b35e5ffde4e91ea4a547cfa6841",
+  "size": "2.7 MB",
+  "size_raw": "2743096",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
