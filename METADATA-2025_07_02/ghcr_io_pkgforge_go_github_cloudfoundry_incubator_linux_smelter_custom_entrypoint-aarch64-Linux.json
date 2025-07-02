@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "custom_entrypoint",
+  "pkg_family": "linux-smelter",
+  "pkg_id": "custom_entrypoint#github.com_cloudfoundry_incubator_linux_smelter",
+  "pkg_name": "custom_entrypoint",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudfoundry-incubator/linux-smelter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The bit that takes some bits, mashes them together with other bits, and produces a new bit",
+  "homepage": [
+    "https://github.com/cloudfoundry-incubator/linux-smelter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "builder",
+    "custom_entrypoint",
+    "getenv",
+    "hello",
+    "launcher",
+    "shell"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cloudfoundry-incubator/linux-smelter/@v/v0.0.0-20250325202005-36f93002c0f3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250325202005-36f93002c0f3",
+  "version_upstream": "",
+  "bsum": "487b877433c5d4f9624538e8ddd1c1da0d538e04f593b694ef6e7f7b888ffd3d",
+  "build_date": "2025-07-02T04:38:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16015996988",
+  "build_id": "16015996988",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry-incubator/linux-smelter/custom_entrypoint?tag=v0.0.0-20250325202005-36f93002c0f3-aarch64-Linux&download=custom_entrypoint.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry-incubator/linux-smelter/custom_entrypoint?tag=v0.0.0-20250325202005-36f93002c0f3-aarch64-Linux&download=custom_entrypoint",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry-incubator/linux-smelter/custom_entrypoint:v0.0.0-20250325202005-36f93002c0f3-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry-incubator/linux-smelter/custom_entrypoint",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry-incubator/linux-smelter/custom_entrypoint?tag=v0.0.0-20250325202005-36f93002c0f3-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8c5069af3eb4141de041cdb44eadc6848567b731c572aa09a1291c1122493f32",
+  "size": "1.6 MB",
+  "size_raw": "1630584",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
