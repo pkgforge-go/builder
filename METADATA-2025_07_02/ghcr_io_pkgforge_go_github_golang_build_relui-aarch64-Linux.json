@@ -1,0 +1,110 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "relui",
+  "pkg_family": "build",
+  "pkg_id": "relui#github.com_golang_build",
+  "pkg_name": "relui",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/golang/build",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Mirror] Go's continuous build and release infrastructure (no stability promises",
+  "homepage": [
+    "https://github.com/golang/build"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appengine",
+    "azure",
+    "bootstrapswarm",
+    "buildlet",
+    "buildstats",
+    "coordinator",
+    "debugnewvm",
+    "devapp",
+    "docker2boot",
+    "fetchlogs",
+    "files",
+    "genbootstrap",
+    "genbotcert",
+    "genbuilderkey",
+    "gerritbot",
+    "gitmirror",
+    "gomote",
+    "gomoteserver",
+    "gopherbot",
+    "gorebuild",
+    "greplogs",
+    "influx",
+    "maintnerd",
+    "maintq",
+    "maintwatch",
+    "makemac",
+    "perf",
+    "perfrun",
+    "pubsubhelper",
+    "racebuild",
+    "releaseschedule",
+    "relnote",
+    "relui",
+    "retrybuilds",
+    "rundockerbuildlet",
+    "runqemubuildlet",
+    "stage0",
+    "testssh",
+    "update-protos",
+    "updatestd",
+    "upload",
+    "watchflakes",
+    "xb"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/golang/build/@v/v0.0.0-20250624215200-ded945642211.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250624215200-ded945642211",
+  "version_upstream": "",
+  "bsum": "ea18c9da4c75a97232b33a30ee79f45eb46a9446d0c59c513ef590b4a869834c",
+  "build_date": "2025-07-02T07:42:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16018319136",
+  "build_id": "16018319136",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/build/relui?tag=v0.0.0-20250624215200-ded945642211-aarch64-Linux&download=relui.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "687",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/build/relui?tag=v0.0.0-20250624215200-ded945642211-aarch64-Linux&download=relui",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/golang/build/relui:v0.0.0-20250624215200-ded945642211-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/golang/build/relui",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/build/relui?tag=v0.0.0-20250624215200-ded945642211-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ebdce26fbbd9a2876008c67a7187f8ff0031bb139417796a28b4132745e4ddba",
+  "size": "42 MB",
+  "size_raw": "43020832",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-7b5b8eb-250618T232758-aarch64-Linux",
+    "HEAD-5fcdc06-250623T072728-aarch64-Linux",
+    "HEAD-ded9456-250624T145200-aarch64-Linux"
+  ],
+  "trusted": "true"
+}

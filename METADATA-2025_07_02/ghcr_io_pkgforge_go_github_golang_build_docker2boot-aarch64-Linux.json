@@ -1,0 +1,110 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "docker2boot",
+  "pkg_family": "build",
+  "pkg_id": "docker2boot#github.com_golang_build",
+  "pkg_name": "docker2boot",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/golang/build",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Mirror] Go's continuous build and release infrastructure (no stability promises",
+  "homepage": [
+    "https://github.com/golang/build"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appengine",
+    "azure",
+    "bootstrapswarm",
+    "buildlet",
+    "buildstats",
+    "coordinator",
+    "debugnewvm",
+    "devapp",
+    "docker2boot",
+    "fetchlogs",
+    "files",
+    "genbootstrap",
+    "genbotcert",
+    "genbuilderkey",
+    "gerritbot",
+    "gitmirror",
+    "gomote",
+    "gomoteserver",
+    "gopherbot",
+    "gorebuild",
+    "greplogs",
+    "influx",
+    "maintnerd",
+    "maintq",
+    "maintwatch",
+    "makemac",
+    "perf",
+    "perfrun",
+    "pubsubhelper",
+    "racebuild",
+    "releaseschedule",
+    "relnote",
+    "relui",
+    "retrybuilds",
+    "rundockerbuildlet",
+    "runqemubuildlet",
+    "stage0",
+    "testssh",
+    "update-protos",
+    "updatestd",
+    "upload",
+    "watchflakes",
+    "xb"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/golang/build/@v/v0.0.0-20250624215200-ded945642211.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250624215200-ded945642211",
+  "version_upstream": "",
+  "bsum": "015092b2fd3673a63c59ff668e946bd7a356e8942f960f5d6069ab1f6e284a35",
+  "build_date": "2025-07-02T07:42:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16018319136",
+  "build_id": "16018319136",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/build/docker2boot?tag=v0.0.0-20250624215200-ded945642211-aarch64-Linux&download=docker2boot.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "687",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/build/docker2boot?tag=v0.0.0-20250624215200-ded945642211-aarch64-Linux&download=docker2boot",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/golang/build/docker2boot:v0.0.0-20250624215200-ded945642211-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/golang/build/docker2boot",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/build/docker2boot?tag=v0.0.0-20250624215200-ded945642211-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "246dbb61376b99cb66d3ee6e23d980c1c5bf18f048987af22b1c05bd7de8f04b",
+  "size": "6.0 MB",
+  "size_raw": "6229248",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-7b5b8eb-250618T232758-aarch64-Linux",
+    "HEAD-5fcdc06-250623T072728-aarch64-Linux",
+    "HEAD-ded9456-250624T145200-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
