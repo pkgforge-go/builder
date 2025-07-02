@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "yopass",
+  "pkg_family": "yopass",
+  "pkg_id": "yopass#github.com_jhaals_yopass",
+  "pkg_name": "yopass",
+  "pkg_type": "static",
+  "pkg_webpage": "https://yopass.se",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Secure sharing of secrets, passwords and files",
+  "homepage": [
+    "https://yopass.se"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "yopass",
+    "yopass-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/jhaals/yopass/@v/v0.0.0-20250630045051-ae4d4fdf737d.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250630045051-ae4d4fdf737d",
+  "version_upstream": "",
+  "bsum": "4968a4b29e9ccffeb60f199b6f4f376636298b5d6376d6f11010eaab99c8efb2",
+  "build_date": "2025-07-02T10:15:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16021961567",
+  "build_id": "16021961567",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jhaals/yopass/yopass?tag=v0.0.0-20250630045051-ae4d4fdf737d-loongarch64-Linux&download=yopass.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2127",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jhaals/yopass/yopass?tag=v0.0.0-20250630045051-ae4d4fdf737d-loongarch64-Linux&download=yopass",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jhaals/yopass/yopass:v0.0.0-20250630045051-ae4d4fdf737d-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jhaals/yopass/yopass",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jhaals/yopass/yopass?tag=v0.0.0-20250630045051-ae4d4fdf737d-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dfb178d8e81e6764d1571e61b4aada15c406da0b9f784df37e6e5188a2b88291",
+  "size": "7.7 MB",
+  "size_raw": "8037536",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-556a372-250627T165622-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
