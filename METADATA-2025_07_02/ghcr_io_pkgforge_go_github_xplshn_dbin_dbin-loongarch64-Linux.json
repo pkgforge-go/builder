@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "dbin",
+  "pkg_family": "dbin",
+  "pkg_id": "dbin#github.com_xplshn_dbin",
+  "pkg_name": "dbin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/xplshn/dbin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Poor man's package manager. +4150 statically linked binaries in the default repos (amd64/arm64/riscv)! The easy to use, easy to get, suckless software distribution system",
+  "homepage": [
+    "https://github.com/xplshn/dbin"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dbin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/dpi0/dbin/@v/v0.0.0-20250317160458-54c3463e7db5.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250630080557-450737100bff",
+  "version_upstream": "",
+  "bsum": "f1e3a2ea3e82bf869657b5f849850e8d6c82c5af41e299e26bc7fda8d1cb82f6",
+  "build_date": "2025-07-02T04:44:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16016000646",
+  "build_id": "16016000646",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xplshn/dbin/dbin?tag=v0.0.0-20250630080557-450737100bff-loongarch64-Linux&download=dbin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "240",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xplshn/dbin/dbin?tag=v0.0.0-20250630080557-450737100bff-loongarch64-Linux&download=dbin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xplshn/dbin/dbin:v0.0.0-20250630080557-450737100bff-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xplshn/dbin/dbin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xplshn/dbin/dbin?tag=v0.0.0-20250630080557-450737100bff-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7027f2b392f52d67920a869ad2b7ddb0ca813a3fef20b73f34f3ded338d6d99c",
+  "size": "6.8 MB",
+  "size_raw": "7117152",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a1137b5-250620T010519-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
