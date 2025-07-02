@@ -12,6 +12,7 @@
 - 🐹 **[reorder-disks](https://min.io/download?license=agpl&platform=linux)**: MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - 🐹 **[s3-verify](https://min.io/download?license=agpl&platform=linux)**: MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - 🐹 **[xattr](https://min.io/download?license=agpl&platform=linux)**: MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+- 🐹 **[kong](https://konghq.com/install/)**: The Cloud-Native API Gateway and AI Gateway.
 - 🐹 **[tests](https://docs.ccxt.com)**: A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges.
 - 🐹 **[mmgotool](https://mattermost.com)**: Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - 🐹 **[mmgotool](https://mattermost.com)**: Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
@@ -1059,6 +1060,7 @@
 - 🐹 **[tree](https://github.com/a8m/tree)**: An implementation of the Unix tree command written in Go, that can be used programmatically.
 - 🐹 **[wallabako](https://gitlab.com/anarcat/wallabako)**: Wallabag client for Kobo readers.
 - 🐹 **[go](https://catalog.kpt.dev)**: Curated catalog of generally useful kpt functions.
+- 🐹 **[v4](https://docs.aerospike.com/cloud/kubernetes/operator)**: Kubernetes operator for the Aerospike database.
 - 🐹 **[simple-proxy](https://github.com/jthomperoo/simple-proxy)**: Simple HTTP/HTTPS proxy - designed to be distributed as a self-contained binary that can be dropped in anywhere and run.
 - 🐹 **[tftp-now](https://github.com/puhitaku/tftp-now)**: Single-binary TFTP server and client that you can use right now.
 - 🐹 **[examples](https://bank-vaults.dev/docs/operator/)**: Kubernetes operator for Hashicorp Vault.
@@ -1494,6 +1496,7 @@
 - 🐹 **[protoc-gen-connecpy](https://github.com/i2y/connecpy)**: Python implementation of Connect Protocol.
 - 🐹 **[vault-env](https://github.com/bank-vaults/vault-env)**: Minimalistic init system for containers with Hashicorp Vault secrets support.
 - 🐹 **[algorithm-solutions](https://github.com/tiemma/algorithm-solutions)**: REPO containing code solutions for algorithm problems, solved in Go & Python to solidify language skills.
+- 🐹 **[enkit](https://github.com/enfabrica/enkit)**: Toolkit for lean builds and team management.
 - 🐹 **[hack](https://github.com/nico/hack)**: Various small things not worth their own repo.
 - 🐹 **[icloud-private-relay-mmdb](https://github.com/nextdns/icloud-private-relay-mmdb)**: Apple's iCloud Private Relay egress IP ranges in MMDB format.
 - 🐹 **[rolling-shutter](https://twitter.com/ShutterNetwork/)**: A threshold encryption framework for L1 & L2 EVM-compatible chains.
