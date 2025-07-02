@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "upload-archive",
+  "pkg_family": "plugins",
+  "pkg_id": "upload-archive#github.com_perses_plugins",
+  "pkg_name": "upload-archive",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/perses/plugins",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The core plugins for Perses",
+  "homepage": [
+    "https://github.com/perses/plugins"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build-archive",
+    "build-plugins",
+    "cue-publish",
+    "lint-plugins",
+    "npm-publish",
+    "release",
+    "tidy-modules",
+    "upload-archive"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/perses/plugins/@v/v0.0.0-20250624125548-bb9eb8ec67f7.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250624125548-bb9eb8ec67f7",
+  "version_upstream": "",
+  "bsum": "9a4660af579125bc1f5a10b349822560d1775af8e6ec5a1d89f1ab4d3f896330",
+  "build_date": "2025-07-02T05:38:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16016637221",
+  "build_id": "16016637221",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/perses/plugins/upload-archive?tag=v0.0.0-20250624125548-bb9eb8ec67f7-x86_64-Linux&download=upload-archive.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/perses/plugins/upload-archive?tag=v0.0.0-20250624125548-bb9eb8ec67f7-x86_64-Linux&download=upload-archive",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/perses/plugins/upload-archive:v0.0.0-20250624125548-bb9eb8ec67f7-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/perses/plugins/upload-archive",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/perses/plugins/upload-archive?tag=v0.0.0-20250624125548-bb9eb8ec67f7-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "93f27b248661027233ea4d87d535f2420b5608f1de95e46516a6ae7c135c1742",
+  "size": "2.7 MB",
+  "size_raw": "2818328",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
