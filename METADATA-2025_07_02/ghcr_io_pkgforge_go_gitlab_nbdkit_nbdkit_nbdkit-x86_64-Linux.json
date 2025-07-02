@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "nbdkit",
+  "pkg_family": "nbdkit",
+  "pkg_id": "nbdkit#gitlab.com_nbdkit_nbdkit",
+  "pkg_name": "nbdkit",
+  "pkg_type": "static",
+  "pkg_webpage": "https://gitlab.com/nbdkit/nbdkit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "NBD server with stable plugin ABI and permissive license",
+  "homepage": [
+    "https://gitlab.com/nbdkit/nbdkit"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "nbdkit"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/gitlab.com/nbdkit/nbdkit/@v/v1.42.5.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.42.5",
+  "version_upstream": "",
+  "bsum": "282791b468cb6a4dee0d84a92a444d3ac94e35552117f507f96d6b68405ec7f8",
+  "build_date": "2025-07-02T02:35:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16014453664",
+  "build_id": "16014453664",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/nbdkit/nbdkit/nbdkit?tag=v1.42.5-x86_64-Linux&download=nbdkit.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "39",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/nbdkit/nbdkit/nbdkit?tag=v1.42.5-x86_64-Linux&download=nbdkit",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/gitlab/nbdkit/nbdkit/nbdkit:v1.42.5-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/gitlab/nbdkit/nbdkit/nbdkit",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/nbdkit/nbdkit/nbdkit?tag=v1.42.5-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6faf96c4a49293bb243807fd36ea7879edced8c15aed4384c1ccc93e6ded96ed",
+  "size": "1.1 MB",
+  "size_raw": "1139736",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
