@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "simple",
+  "pkg_family": "pkgproxy",
+  "pkg_id": "simple#github.com_qba73_pkgproxy",
+  "pkg_name": "simple",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/qba73/pkgproxy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CLI & REST API for pkg.go.dev",
+  "homepage": [
+    "https://github.com/qba73/pkgproxy"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "custom_colly_collector",
+    "pkg",
+    "simple",
+    "simple_json"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/qba73/pkgproxy/@v/v0.1.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.1.1",
+  "version_upstream": "",
+  "bsum": "55bd55e379501dd4e4c398bf2446c89eb449bd0ec5c57790f34547fc3410c07d",
+  "build_date": "2025-07-02T05:41:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16016650207",
+  "build_id": "16016650207",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/qba73/pkgproxy/simple?tag=v0.1.1-x86_64-Linux&download=simple.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/qba73/pkgproxy/simple?tag=v0.1.1-x86_64-Linux&download=simple",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/qba73/pkgproxy/simple:v0.1.1-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/qba73/pkgproxy/simple",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/qba73/pkgproxy/simple?tag=v0.1.1-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4f7c9ef8cc8e8cae54c025aa4ccc0b310f8097853fc231b154f6dd82d7a6fc39",
+  "size": "11 MB",
+  "size_raw": "11195520",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
