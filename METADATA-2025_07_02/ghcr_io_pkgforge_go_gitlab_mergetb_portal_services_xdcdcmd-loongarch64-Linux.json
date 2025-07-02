@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "xdcdcmd",
+  "pkg_family": "services",
+  "pkg_id": "xdcdcmd#gitlab.com_mergetb_portal_services",
+  "pkg_name": "xdcdcmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://gitlab.com/mergetb/portal/services",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The mergetb core services",
+  "homepage": [
+    "https://gitlab.com/mergetb/portal/services"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ops-init",
+    "portalpw",
+    "xdcdcmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/gitlab.com/mergetb/portal/services/@v/v1.4.16.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.4.16",
+  "version_upstream": "",
+  "bsum": "71a85cf7bd4fc03e946b6f3c170080bb9979ca9c2feee969a9a4d7a839a4705a",
+  "build_date": "2025-07-02T16:34:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16029965584",
+  "build_id": "16029965584",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/mergetb/portal/services/xdcdcmd?tag=v1.4.16-loongarch64-Linux&download=xdcdcmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/mergetb/portal/services/xdcdcmd?tag=v1.4.16-loongarch64-Linux&download=xdcdcmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/gitlab/mergetb/portal/services/xdcdcmd:v1.4.16-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/gitlab/mergetb/portal/services/xdcdcmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/mergetb/portal/services/xdcdcmd?tag=v1.4.16-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6274b20eb001bdee859420bdf487ab82d08b22118a6c79ff57c2c3e2774adffc",
+  "size": "21 MB",
+  "size_raw": "21671440",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
