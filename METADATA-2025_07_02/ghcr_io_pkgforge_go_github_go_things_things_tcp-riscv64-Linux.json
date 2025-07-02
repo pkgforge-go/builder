@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "tcp",
+  "pkg_family": "things",
+  "pkg_id": "tcp#github.com_go_things_things",
+  "pkg_name": "tcp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://doc.unitedrhino.com/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "联犀是基于golang,gozero框架构建的SaaS云原生微服务物联网平台(iot)，支持MQTT、CoAP、HTTP、TCP、阿里云、腾讯云、涂鸦云,物美等云云对接及设备协议，实现海量多样设备连接。支持多租户、多应用和项目管理，内置小程序功能,适应多样化业务场景.支持单体、集群和微服务部署，适应不同企业规模和需求。支持mysql和pgsql，满足数据存储需求,适用于智能家居、智慧楼宇",
+  "homepage": [
+    "https://doc.unitedrhino.com/"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apisvr",
+    "asynq",
+    "dgsvr",
+    "dmsvr",
+    "jsont",
+    "pressuretest",
+    "protocolsync",
+    "tcp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/go-things/things/@v/v1.4.52.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.4.52",
+  "version_upstream": "",
+  "bsum": "9ede50dc84fd08e3d61fabe6afb27d895b925bcc64c7cd2c4f2eb31dc6cb917a",
+  "build_date": "2025-07-02T05:09:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16016019075",
+  "build_id": "16016019075",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-things/things/tcp?tag=v1.4.52-riscv64-Linux&download=tcp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "529",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-things/things/tcp?tag=v1.4.52-riscv64-Linux&download=tcp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go-things/things/tcp:v1.4.52-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go-things/things/tcp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-things/things/tcp?tag=v1.4.52-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "aa029623eea7f1dd59c54b5d6619e13fd411ac0d1977b4feb8d62e9f0202a83e",
+  "size": "2.2 MB",
+  "size_raw": "2261288",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
