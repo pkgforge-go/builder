@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "launcher",
+  "pkg_family": "sshpiper",
+  "pkg_id": "launcher#github.com_tg123_sshpiper",
+  "pkg_name": "launcher",
+  "pkg_type": "static",
+  "pkg_webpage": "https://sshpiper.com/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The missing reverse proxy for ssh scp",
+  "homepage": [
+    "https://sshpiper.com/"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "configgen",
+    "launcher"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/tg123/sshpiper/@v/v1.5.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.5.0",
+  "version_upstream": "",
+  "bsum": "bd7c6fe1a6a3f7c2cd4dc56a67df77606b68cf8b615c84aff8bcfe23354b47d6",
+  "build_date": "2025-07-02T07:56:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16018453699",
+  "build_id": "16018453699",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tg123/sshpiper/launcher?tag=v1.5.0-loongarch64-Linux&download=launcher.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1084",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tg123/sshpiper/launcher?tag=v1.5.0-loongarch64-Linux&download=launcher",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tg123/sshpiper/launcher:v1.5.0-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tg123/sshpiper/launcher",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tg123/sshpiper/launcher?tag=v1.5.0-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "636dcc0a5ac74974845fb7e7edd44d8c06acfcbba03cdcdd7d34baabe32daa87",
+  "size": "2.4 MB",
+  "size_raw": "2416440",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a472360-250621T221751-loongarch64-Linux",
+    "HEAD-a3c5888-250625T154424-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
