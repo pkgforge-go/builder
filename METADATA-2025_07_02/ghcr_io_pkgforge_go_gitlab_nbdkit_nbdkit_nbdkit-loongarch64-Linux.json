@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "nbdkit",
+  "pkg_family": "nbdkit",
+  "pkg_id": "nbdkit#gitlab.com_nbdkit_nbdkit",
+  "pkg_name": "nbdkit",
+  "pkg_type": "static",
+  "pkg_webpage": "https://gitlab.com/nbdkit/nbdkit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "NBD server with stable plugin ABI and permissive license",
+  "homepage": [
+    "https://gitlab.com/nbdkit/nbdkit"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "nbdkit"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/gitlab.com/nbdkit/nbdkit/@v/v1.42.5.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.42.5",
+  "version_upstream": "",
+  "bsum": "7ce204ce95a1575d92c393f4b1517b6e1036d9fd25bbdfb6effba57fdb38cb20",
+  "build_date": "2025-07-02T02:34:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16014453664",
+  "build_id": "16014453664",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/nbdkit/nbdkit/nbdkit?tag=v1.42.5-loongarch64-Linux&download=nbdkit.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "39",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/nbdkit/nbdkit/nbdkit?tag=v1.42.5-loongarch64-Linux&download=nbdkit",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/gitlab/nbdkit/nbdkit/nbdkit:v1.42.5-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/gitlab/nbdkit/nbdkit/nbdkit",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/nbdkit/nbdkit/nbdkit?tag=v1.42.5-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bb7a403532ca0592d64b3d5cb5f03ae3c1e0d69af6753d5af2b4af7e80cdf4cd",
+  "size": "1.1 MB",
+  "size_raw": "1121176",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
