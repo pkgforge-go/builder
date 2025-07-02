@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "build_nark",
+  "pkg_family": "enkit",
+  "pkg_id": "build_nark#github.com_enfabrica_enkit",
+  "pkg_name": "build_nark",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/enfabrica/enkit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Toolkit for lean builds and team management",
+  "homepage": [
+    "https://github.com/enfabrica/enkit"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bb_reporter",
+    "build_nark",
+    "cli",
+    "cmd",
+    "deploy",
+    "enkit_credential_helper",
+    "faketree",
+    "k8s_dummy",
+    "monitor",
+    "nomad_license_manage",
+    "remote_apis_build_demo",
+    "staco",
+    "template",
+    "validate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/enfabrica/enkit/@v/v0.0.0-20250701213156-970ed86fa7db.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250701213156-970ed86fa7db",
+  "version_upstream": "",
+  "bsum": "e9b103a114769b0a202b129734af27b737c7828d1b0e716f25a7affd5845247c",
+  "build_date": "2025-07-02T16:20:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16029854656",
+  "build_id": "16029854656",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/build_nark?tag=v0.0.0-20250701213156-970ed86fa7db-aarch64-Linux&download=build_nark.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "31",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/build_nark?tag=v0.0.0-20250701213156-970ed86fa7db-aarch64-Linux&download=build_nark",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/enfabrica/enkit/build_nark:v0.0.0-20250701213156-970ed86fa7db-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/enfabrica/enkit/build_nark",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/build_nark?tag=v0.0.0-20250701213156-970ed86fa7db-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7926758e50fefa70fb8a873bee07aae3ac0028d5772a0a11bf90c6adeeac6308",
+  "size": "37 MB",
+  "size_raw": "38693632",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a1810c2-250619T143504-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
