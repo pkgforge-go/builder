@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "builder",
+  "pkg_family": "linux-smelter",
+  "pkg_id": "builder#github.com_cloudfoundry_incubator_linux_smelter",
+  "pkg_name": "builder",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudfoundry-incubator/linux-smelter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The bit that takes some bits, mashes them together with other bits, and produces a new bit",
+  "homepage": [
+    "https://github.com/cloudfoundry-incubator/linux-smelter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "builder",
+    "custom_entrypoint",
+    "getenv",
+    "hello",
+    "launcher",
+    "shell"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cloudfoundry-incubator/linux-smelter/@v/v0.0.0-20250325202005-36f93002c0f3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250325202005-36f93002c0f3",
+  "version_upstream": "",
+  "bsum": "762009c2c95528d0bdcfb29657a11731c32c3720ba8a42eb92e9fec3091c29e7",
+  "build_date": "2025-07-02T04:39:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16015996988",
+  "build_id": "16015996988",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry-incubator/linux-smelter/builder?tag=v0.0.0-20250325202005-36f93002c0f3-riscv64-Linux&download=builder.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry-incubator/linux-smelter/builder?tag=v0.0.0-20250325202005-36f93002c0f3-riscv64-Linux&download=builder",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry-incubator/linux-smelter/builder:v0.0.0-20250325202005-36f93002c0f3-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry-incubator/linux-smelter/builder",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry-incubator/linux-smelter/builder?tag=v0.0.0-20250325202005-36f93002c0f3-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c73970904b223988d78b9422ecc3a24d3744b29c929996ef04d81754d8eaea60",
+  "size": "7.6 MB",
+  "size_raw": "7951992",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
