@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "hello",
+  "pkg_family": "linux-smelter",
+  "pkg_id": "hello#github.com_cloudfoundry_incubator_linux_smelter",
+  "pkg_name": "hello",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudfoundry-incubator/linux-smelter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The bit that takes some bits, mashes them together with other bits, and produces a new bit",
+  "homepage": [
+    "https://github.com/cloudfoundry-incubator/linux-smelter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "builder",
+    "custom_entrypoint",
+    "getenv",
+    "hello",
+    "launcher",
+    "shell"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cloudfoundry-incubator/linux-smelter/@v/v0.0.0-20250325202005-36f93002c0f3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250325202005-36f93002c0f3",
+  "version_upstream": "",
+  "bsum": "b58ab5e4cd4a26c603ab7688fdd1d6d3600365052039430675e3ce1b92d4c650",
+  "build_date": "2025-07-02T04:38:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16015996988",
+  "build_id": "16015996988",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry-incubator/linux-smelter/hello?tag=v0.0.0-20250325202005-36f93002c0f3-x86_64-Linux&download=hello.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry-incubator/linux-smelter/hello?tag=v0.0.0-20250325202005-36f93002c0f3-x86_64-Linux&download=hello",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry-incubator/linux-smelter/hello:v0.0.0-20250325202005-36f93002c0f3-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry-incubator/linux-smelter/hello",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry-incubator/linux-smelter/hello?tag=v0.0.0-20250325202005-36f93002c0f3-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "13598974ac91de790fb8b0d81f483ffce45799bcd5f68e9deb7b36c887258b0a",
+  "size": "1.6 MB",
+  "size_raw": "1640088",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
