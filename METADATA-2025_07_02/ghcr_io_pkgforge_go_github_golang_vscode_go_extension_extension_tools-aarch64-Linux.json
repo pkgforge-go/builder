@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "extension-tools",
+  "pkg_family": "extension",
+  "pkg_id": "extension-tools#github.com_golang_vscode_go_extension",
+  "pkg_name": "extension-tools",
+  "pkg_type": "static",
+  "pkg_webpage": "https://marketplace.visualstudio.com/items?itemName=golang.Go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go extension for Visual Studio Code",
+  "homepage": [
+    "https://marketplace.visualstudio.com/items?itemName=golang.Go"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docs2wiki",
+    "extension-tools",
+    "installtools",
+    "release"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/golang/vscode-go/extension/@v/v0.0.0-20250630153039-fd2ae27e68f1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250630153039-fd2ae27e68f1",
+  "version_upstream": "",
+  "bsum": "32600520ab231c9bd1dc59cabf216c00473e01648959abebc2902182e5a0f49a",
+  "build_date": "2025-07-02T04:56:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16016019494",
+  "build_id": "16016019494",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/vscode-go/extension/extension-tools?tag=v0.0.0-20250630153039-fd2ae27e68f1-aarch64-Linux&download=extension-tools.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4075",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/vscode-go/extension/extension-tools?tag=v0.0.0-20250630153039-fd2ae27e68f1-aarch64-Linux&download=extension-tools",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/golang/vscode-go/extension/extension-tools:v0.0.0-20250630153039-fd2ae27e68f1-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/golang/vscode-go/extension/extension-tools",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/vscode-go/extension/extension-tools?tag=v0.0.0-20250630153039-fd2ae27e68f1-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8a20fbf24c558e90bc66f8959bc3a45c1c90a24fdc18989392e64dd8311157c2",
+  "size": "2.5 MB",
+  "size_raw": "2533528",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
