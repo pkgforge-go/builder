@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "clone2serverless",
+  "pkg_family": "trillian-examples",
+  "pkg_id": "clone2serverless#github.com_google_trillian_examples",
+  "pkg_name": "clone2serverless",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/google/trillian-examples",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A place to store some examples which use Trillian APIs to build things",
+  "homepage": [
+    "https://github.com/google/trillian-examples"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build",
+    "clone2serverless",
+    "cmd",
+    "ctclone",
+    "ctverify",
+    "dummy",
+    "flash_tool",
+    "ft_monitor",
+    "ft_personality",
+    "ft_witness",
+    "ftmap",
+    "ftmapserver",
+    "modify_bundle",
+    "publisher",
+    "serverlessclone",
+    "sumdbclone",
+    "sumdbverify",
+    "verify",
+    "versions"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/google/trillian-examples/@v/v0.0.0-20250701095427-96b70c27f5f9.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250701095427-96b70c27f5f9",
+  "version_upstream": "",
+  "bsum": "1d5e9fa445a64af89df1932be0ab2f20c3819eb8c1bc49a4f27d0e816fdb06dd",
+  "build_date": "2025-07-02T05:10:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16016021808",
+  "build_id": "16016021808",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/trillian-examples/clone2serverless?tag=v0.0.0-20250701095427-96b70c27f5f9-loongarch64-Linux&download=clone2serverless.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "168",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/trillian-examples/clone2serverless?tag=v0.0.0-20250701095427-96b70c27f5f9-loongarch64-Linux&download=clone2serverless",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/google/trillian-examples/clone2serverless:v0.0.0-20250701095427-96b70c27f5f9-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/google/trillian-examples/clone2serverless",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/trillian-examples/clone2serverless?tag=v0.0.0-20250701095427-96b70c27f5f9-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "be4a67c7720cdb0430f35184f149a0367bd47161d237c9075701e6d26190ae3e",
+  "size": "6.0 MB",
+  "size_raw": "6276448",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
