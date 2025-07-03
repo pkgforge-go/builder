@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "slackapp",
+  "pkg_family": "irc-slack",
+  "pkg_id": "slackapp#github.com_insomniacslk_irc_slack",
+  "pkg_name": "slackapp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/insomniacslk/irc-slack",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "IRC-to-Slack gateway",
+  "homepage": [
+    "https://github.com/insomniacslk/irc-slack"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "autotoken",
+    "irc-slack",
+    "slackapp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/insomniacslk/irc-slack/@v/v0.0.0-20250623153817-bbaab62caa11.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250623153817-bbaab62caa11",
+  "version_upstream": "",
+  "bsum": "ecb6507fc9d6f645f1b15a2f928abf62bd15e88d741929652164a78b8f0f5d53",
+  "build_date": "2025-07-03T04:59:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16041505295",
+  "build_id": "16041505295",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/insomniacslk/irc-slack/slackapp?tag=v0.0.0-20250623153817-bbaab62caa11-x86_64-Linux&download=slackapp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "201",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/insomniacslk/irc-slack/slackapp?tag=v0.0.0-20250623153817-bbaab62caa11-x86_64-Linux&download=slackapp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/insomniacslk/irc-slack/slackapp:v0.0.0-20250623153817-bbaab62caa11-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/insomniacslk/irc-slack/slackapp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/insomniacslk/irc-slack/slackapp?tag=v0.0.0-20250623153817-bbaab62caa11-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d47df3ef1e4d9e770f04a591a7997bbd947936242cb67e07a3263547dd099174",
+  "size": "6.8 MB",
+  "size_raw": "7083712",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
