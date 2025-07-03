@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "app-exposer",
+  "pkg_family": "app-exposer",
+  "pkg_id": "app-exposer#github.com_cyverse_de_app_exposer",
+  "pkg_name": "app-exposer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cyverse-de/app-exposer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Allows clients to create Ingress, Service, and Endpoint objects in a K8s cluster. Intended for interactive apps in the DE",
+  "homepage": [
+    "https://github.com/cyverse-de/app-exposer"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "app-exposer",
+    "workflow-builder"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cyverse-de/app-exposer/@v/v0.0.0-20250630170306-83470b84a3e0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250630170306-83470b84a3e0",
+  "version_upstream": "",
+  "bsum": "75e78480cfd6b83fcb24d44df569bc40e13fdeffbc59c6e27e16109f2c1aebfe",
+  "build_date": "2025-07-03T04:39:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16041452329",
+  "build_id": "16041452329",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cyverse-de/app-exposer/app-exposer?tag=v0.0.0-20250630170306-83470b84a3e0-riscv64-Linux&download=app-exposer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cyverse-de/app-exposer/app-exposer?tag=v0.0.0-20250630170306-83470b84a3e0-riscv64-Linux&download=app-exposer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cyverse-de/app-exposer/app-exposer:v0.0.0-20250630170306-83470b84a3e0-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cyverse-de/app-exposer/app-exposer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cyverse-de/app-exposer/app-exposer?tag=v0.0.0-20250630170306-83470b84a3e0-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1694bbe536ca560789c036e18325e807cb93f82bde70fe44809e90c11f051ccb",
+  "size": "77 MB",
+  "size_raw": "80233208",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
