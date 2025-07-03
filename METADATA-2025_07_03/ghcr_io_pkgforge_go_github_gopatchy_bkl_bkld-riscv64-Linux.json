@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "bkld",
+  "pkg_family": "bkl",
+  "pkg_id": "bkld#github.com_gopatchy_bkl",
+  "pkg_name": "bkld",
+  "pkg_type": "static",
+  "pkg_webpage": "https://bkl.gopatchy.io/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Layered Configuration Language",
+  "homepage": [
+    "https://bkl.gopatchy.io/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bkl",
+    "bkl-docs",
+    "bkl-mcp",
+    "bklb",
+    "bkld",
+    "bkli",
+    "bklr",
+    "kubectl-bkl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/gopatchy/bkl/@v/v1.0.51.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.51",
+  "version_upstream": "",
+  "bsum": "b8dd7b6a28c9a8aecd605e8b591acca0dad6e1f75999a533ea334572f9a11a56",
+  "build_date": "2025-07-03T02:27:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16039990577",
+  "build_id": "16039990577",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gopatchy/bkl/bkld?tag=v1.0.51-riscv64-Linux&download=bkld.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gopatchy/bkl/bkld?tag=v1.0.51-riscv64-Linux&download=bkld",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gopatchy/bkl/bkld:v1.0.51-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gopatchy/bkl/bkld",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gopatchy/bkl/bkld?tag=v1.0.51-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "38c569a706f2b58fea84f435ea5e6b880da9ec717b55cd7a645d1887621b6907",
+  "size": "3.4 MB",
+  "size_raw": "3549048",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0d7305b-250620T001905-riscv64-Linux",
+    "HEAD-77a43a1-250621T235940-riscv64-Linux",
+    "HEAD-d01f478-250622T211058-riscv64-Linux",
+    "HEAD-7f738c2-250623T203905-riscv64-Linux",
+    "HEAD-75cc93d-250624T163631-riscv64-Linux",
+    "HEAD-d764f31-250625T202006-riscv64-Linux",
+    "HEAD-e475e1e-250626T180334-riscv64-Linux",
+    "HEAD-9d48882-250627T203614-riscv64-Linux",
+    "HEAD-e610ca2-250627T225906-riscv64-Linux",
+    "HEAD-8344b20-250628T102621-riscv64-Linux",
+    "HEAD-f341833-250628T223332-riscv64-Linux",
+    "v1.0.51-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
