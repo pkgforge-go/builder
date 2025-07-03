@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "monica_to_stics",
+  "pkg_family": "build-pipeline",
+  "pkg_id": "monica_to_stics#github.com_zalf_rpm_build_pipeline",
+  "pkg_name": "monica_to_stics",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/zalf-rpm/build-pipeline",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This project contains build scripts, setup and how-to instructions",
+  "homepage": [
+    "https://github.com/zalf-rpm/build-pipeline"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agmip_to_monica",
+    "apsimoutput",
+    "copydir",
+    "correct_climate_data",
+    "extract_slurm_nodelist",
+    "generatejobfiles",
+    "monica_out_to_agmip",
+    "monica_to_stics",
+    "sim_schedule",
+    "simplace_output_verify",
+    "verify_climate_data"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/zalf-rpm/build-pipeline/@v/v0.0.0-20250701111235-9eab14969aab.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250701111235-9eab14969aab",
+  "version_upstream": "",
+  "bsum": "0145fef1064fc837ef724e5b197198ae004d0f25d5105d308793d20fe2faee8f",
+  "build_date": "2025-07-03T05:34:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16042001463",
+  "build_id": "16042001463",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zalf-rpm/build-pipeline/monica_to_stics?tag=v0.0.0-20250701111235-9eab14969aab-loongarch64-Linux&download=monica_to_stics.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zalf-rpm/build-pipeline/monica_to_stics?tag=v0.0.0-20250701111235-9eab14969aab-loongarch64-Linux&download=monica_to_stics",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/zalf-rpm/build-pipeline/monica_to_stics:v0.0.0-20250701111235-9eab14969aab-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/zalf-rpm/build-pipeline/monica_to_stics",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zalf-rpm/build-pipeline/monica_to_stics?tag=v0.0.0-20250701111235-9eab14969aab-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a8435360de48f6b6c1dba4f5b35c49123419da9dfcb96056e0b996c7682e2397",
+  "size": "1.9 MB",
+  "size_raw": "1976792",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
