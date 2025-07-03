@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "leakcheck",
+  "pkg_family": "leakcheck",
+  "pkg_id": "leakcheck#github.com_rleungx_leakcheck",
+  "pkg_name": "leakcheck",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rleungx/leakcheck",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A static analysis tool that ensures all Go test functions are properly covered by goleak for goroutine leak detection",
+  "homepage": [
+    "https://github.com/rleungx/leakcheck"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "leakcheck"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/rleungx/leakcheck/@v/v0.0.0-20250701072419-aa7be56dff4b.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250701072419-aa7be56dff4b",
+  "version_upstream": "",
+  "bsum": "7737dca06d19dc685c9f4f03762e676dba245c42dadda4a9cc1bd6ac47d7a7a5",
+  "build_date": "2025-07-03T05:24:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16041876484",
+  "build_id": "16041876484",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rleungx/leakcheck/leakcheck?tag=v0.0.0-20250701072419-aa7be56dff4b-x86_64-Linux&download=leakcheck.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rleungx/leakcheck/leakcheck?tag=v0.0.0-20250701072419-aa7be56dff4b-x86_64-Linux&download=leakcheck",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rleungx/leakcheck/leakcheck:v0.0.0-20250701072419-aa7be56dff4b-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rleungx/leakcheck/leakcheck",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rleungx/leakcheck/leakcheck?tag=v0.0.0-20250701072419-aa7be56dff4b-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fe8173df3b08883cbaca9d4471155f1c8feac3b43eee28eae2bef9568350b02d",
+  "size": "5.9 MB",
+  "size_raw": "6165664",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
