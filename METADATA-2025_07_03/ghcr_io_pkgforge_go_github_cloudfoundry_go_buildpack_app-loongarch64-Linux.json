@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "app",
+  "pkg_family": "go-buildpack",
+  "pkg_id": "app#github.com_cloudfoundry_go_buildpack",
+  "pkg_name": "app",
+  "pkg_type": "static",
+  "pkg_webpage": "http://docs.cloudfoundry.org/buildpacks/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud Foundry buildpack for the Go Language",
+  "homepage": [
+    "http://docs.cloudfoundry.org/buildpacks/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "app",
+    "brats",
+    "builtin",
+    "conda",
+    "dotnet",
+    "go_version",
+    "godir",
+    "ldflags",
+    "nltk",
+    "no_gopackagename",
+    "no_procfile",
+    "nodejs",
+    "python",
+    "ruby",
+    "simple",
+    "single_file",
+    "symlink_dir",
+    "toolchain",
+    "wildcard_go_version"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cloudfoundry/go-buildpack/@v/v1.10.38.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.10.38",
+  "version_upstream": "",
+  "bsum": "dece7296523687c3e1f502acb47f806b86957eff18dd547ddfd2e55b50d97f91",
+  "build_date": "2025-07-03T04:33:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16041450218",
+  "build_id": "16041450218",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/go-buildpack/app?tag=v1.10.38-loongarch64-Linux&download=app.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "82",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/go-buildpack/app?tag=v1.10.38-loongarch64-Linux&download=app",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry/go-buildpack/app:v1.10.38-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry/go-buildpack/app",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/go-buildpack/app?tag=v1.10.38-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f901044e5bc8b8801c0cf18b4af21299f9f0cd4b651e68eff07ffb6015e0cc14",
+  "size": "5.6 MB",
+  "size_raw": "5860928",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

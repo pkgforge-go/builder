@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "brats",
+  "pkg_family": "go-buildpack",
+  "pkg_id": "brats#github.com_cloudfoundry_go_buildpack",
+  "pkg_name": "brats",
+  "pkg_type": "static",
+  "pkg_webpage": "http://docs.cloudfoundry.org/buildpacks/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud Foundry buildpack for the Go Language",
+  "homepage": [
+    "http://docs.cloudfoundry.org/buildpacks/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "app",
+    "brats",
+    "builtin",
+    "conda",
+    "dotnet",
+    "go_version",
+    "godir",
+    "ldflags",
+    "nltk",
+    "no_gopackagename",
+    "no_procfile",
+    "nodejs",
+    "python",
+    "ruby",
+    "simple",
+    "single_file",
+    "symlink_dir",
+    "toolchain",
+    "wildcard_go_version"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cloudfoundry/go-buildpack/@v/v1.10.38.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.10.38",
+  "version_upstream": "",
+  "bsum": "0a03ec190359d378d545e64fdaf8aec3c2029e49ad2cbda5a3373b5f7964aae9",
+  "build_date": "2025-07-03T04:34:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16041450218",
+  "build_id": "16041450218",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/go-buildpack/brats?tag=v1.10.38-loongarch64-Linux&download=brats.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "82",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/go-buildpack/brats?tag=v1.10.38-loongarch64-Linux&download=brats",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry/go-buildpack/brats:v1.10.38-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry/go-buildpack/brats",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/go-buildpack/brats?tag=v1.10.38-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4f21f25e93fea9423dfe1ecb0297b3d3896571557c0e129869e52078977b8bc9",
+  "size": "5.6 MB",
+  "size_raw": "5860928",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

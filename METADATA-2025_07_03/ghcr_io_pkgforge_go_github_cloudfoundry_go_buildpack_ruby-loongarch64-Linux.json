@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ruby",
+  "pkg_family": "go-buildpack",
+  "pkg_id": "ruby#github.com_cloudfoundry_go_buildpack",
+  "pkg_name": "ruby",
+  "pkg_type": "static",
+  "pkg_webpage": "http://docs.cloudfoundry.org/buildpacks/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud Foundry buildpack for the Go Language",
+  "homepage": [
+    "http://docs.cloudfoundry.org/buildpacks/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "app",
+    "brats",
+    "builtin",
+    "conda",
+    "dotnet",
+    "go_version",
+    "godir",
+    "ldflags",
+    "nltk",
+    "no_gopackagename",
+    "no_procfile",
+    "nodejs",
+    "python",
+    "ruby",
+    "simple",
+    "single_file",
+    "symlink_dir",
+    "toolchain",
+    "wildcard_go_version"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cloudfoundry/go-buildpack/@v/v1.10.38.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.10.38",
+  "version_upstream": "",
+  "bsum": "b3b5e20a62a14ff893b8bb7290fbe7bb1668ba9f723b75c8ac2ec32073980ea2",
+  "build_date": "2025-07-03T04:34:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16041450218",
+  "build_id": "16041450218",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/go-buildpack/ruby?tag=v1.10.38-loongarch64-Linux&download=ruby.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "82",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/go-buildpack/ruby?tag=v1.10.38-loongarch64-Linux&download=ruby",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry/go-buildpack/ruby:v1.10.38-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry/go-buildpack/ruby",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/go-buildpack/ruby?tag=v1.10.38-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f1e7bd673b62ba95cc1a5322bf32259cb49f2f77f7b711224c1342ab190c0b20",
+  "size": "5.7 MB",
+  "size_raw": "5964192",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
