@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "am-support",
+  "pkg_family": "dbin",
+  "pkg_id": "am-support#github.com_xplshn_dbin",
+  "pkg_name": "am-support",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/xplshn/dbin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Poor man's package manager. +4150 statically linked binaries in the default repos (amd64/arm64/riscv)! The easy to use, easy to get, suckless software distribution system",
+  "homepage": [
+    "https://github.com/xplshn/dbin"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "am-support"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/xplshn/dbin/@v/v0.0.0-20250630080557-450737100bff.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250630080557-450737100bff",
+  "version_upstream": "",
+  "bsum": "ac2d2b3b30527ad7f535750c237a30c9218641dbde083859e305936ec154bc67",
+  "build_date": "2025-07-03T02:28:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16039993297",
+  "build_id": "16039993297",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xplshn/dbin/am-support?tag=v0.0.0-20250630080557-450737100bff-riscv64-Linux&download=am-support.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "240",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xplshn/dbin/am-support?tag=v0.0.0-20250630080557-450737100bff-riscv64-Linux&download=am-support",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xplshn/dbin/am-support:v0.0.0-20250630080557-450737100bff-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xplshn/dbin/am-support",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xplshn/dbin/am-support?tag=v0.0.0-20250630080557-450737100bff-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1a508f0f95c53290a2b2b0328acb5099a94d4ab74cc5154ca7cdc31599d1e46b",
+  "size": "5.9 MB",
+  "size_raw": "6083576",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a1137b5-250620T010519-riscv64-Linux",
+    "HEAD-23895e2-250623T030022-riscv64-Linux",
+    "HEAD-eaa22df-250623T224210-riscv64-Linux",
+    "HEAD-600a834-250624T073846-riscv64-Linux",
+    "HEAD-25b3447-250625T163456-riscv64-Linux",
+    "HEAD-55f401f-250626T045648-riscv64-Linux",
+    "HEAD-226bd09-250627T092311-riscv64-Linux",
+    "HEAD-3b5a482-250629T014811-riscv64-Linux",
+    "v0.0.0-20250630080557-450737100bff-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
