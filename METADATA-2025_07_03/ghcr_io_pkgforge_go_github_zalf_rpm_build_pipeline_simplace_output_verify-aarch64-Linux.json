@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "simplace_output_verify",
+  "pkg_family": "build-pipeline",
+  "pkg_id": "simplace_output_verify#github.com_zalf_rpm_build_pipeline",
+  "pkg_name": "simplace_output_verify",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/zalf-rpm/build-pipeline",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This project contains build scripts, setup and how-to instructions",
+  "homepage": [
+    "https://github.com/zalf-rpm/build-pipeline"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agmip_to_monica",
+    "apsimoutput",
+    "copydir",
+    "correct_climate_data",
+    "extract_slurm_nodelist",
+    "generatejobfiles",
+    "monica_out_to_agmip",
+    "monica_to_stics",
+    "sim_schedule",
+    "simplace_output_verify",
+    "verify_climate_data"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/zalf-rpm/build-pipeline/@v/v0.0.0-20250701111235-9eab14969aab.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250701111235-9eab14969aab",
+  "version_upstream": "",
+  "bsum": "a2272d61f4e177bfab6ad6301b7f7ef3d630e3f25e0e3bd7ca48d28582b7e6f5",
+  "build_date": "2025-07-03T05:33:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16042001463",
+  "build_id": "16042001463",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zalf-rpm/build-pipeline/simplace_output_verify?tag=v0.0.0-20250701111235-9eab14969aab-aarch64-Linux&download=simplace_output_verify.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zalf-rpm/build-pipeline/simplace_output_verify?tag=v0.0.0-20250701111235-9eab14969aab-aarch64-Linux&download=simplace_output_verify",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/zalf-rpm/build-pipeline/simplace_output_verify:v0.0.0-20250701111235-9eab14969aab-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/zalf-rpm/build-pipeline/simplace_output_verify",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zalf-rpm/build-pipeline/simplace_output_verify?tag=v0.0.0-20250701111235-9eab14969aab-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "71aee70f2a4f3df7df0f549bfe0181d34b889a81b1c899c09f2f6bf0eee3a74c",
+  "size": "1.7 MB",
+  "size_raw": "1710072",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
