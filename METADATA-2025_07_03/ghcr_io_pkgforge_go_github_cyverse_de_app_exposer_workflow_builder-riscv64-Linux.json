@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "workflow-builder",
+  "pkg_family": "app-exposer",
+  "pkg_id": "workflow-builder#github.com_cyverse_de_app_exposer",
+  "pkg_name": "workflow-builder",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cyverse-de/app-exposer",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Allows clients to create Ingress, Service, and Endpoint objects in a K8s cluster. Intended for interactive apps in the DE",
+  "homepage": [
+    "https://github.com/cyverse-de/app-exposer"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "app-exposer",
+    "workflow-builder"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cyverse-de/app-exposer/@v/v0.0.0-20250630170306-83470b84a3e0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250630170306-83470b84a3e0",
+  "version_upstream": "",
+  "bsum": "ade937d74e5d57e153616754ab1bb3a917a7dcc4af6e3af0f7629e40573c62fd",
+  "build_date": "2025-07-03T04:39:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16041452329",
+  "build_id": "16041452329",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cyverse-de/app-exposer/workflow-builder?tag=v0.0.0-20250630170306-83470b84a3e0-riscv64-Linux&download=workflow-builder.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cyverse-de/app-exposer/workflow-builder?tag=v0.0.0-20250630170306-83470b84a3e0-riscv64-Linux&download=workflow-builder",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cyverse-de/app-exposer/workflow-builder:v0.0.0-20250630170306-83470b84a3e0-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cyverse-de/app-exposer/workflow-builder",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cyverse-de/app-exposer/workflow-builder?tag=v0.0.0-20250630170306-83470b84a3e0-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3ff89b175c1bee56967f1240718cf9dd9008fc615507b3da5add76a908150c4f",
+  "size": "60 MB",
+  "size_raw": "62648888",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
