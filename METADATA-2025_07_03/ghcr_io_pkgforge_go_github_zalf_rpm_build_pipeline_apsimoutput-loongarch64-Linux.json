@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "apsimoutput",
+  "pkg_family": "build-pipeline",
+  "pkg_id": "apsimoutput#github.com_zalf_rpm_build_pipeline",
+  "pkg_name": "apsimoutput",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/zalf-rpm/build-pipeline",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This project contains build scripts, setup and how-to instructions",
+  "homepage": [
+    "https://github.com/zalf-rpm/build-pipeline"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agmip_to_monica",
+    "apsimoutput",
+    "copydir",
+    "correct_climate_data",
+    "extract_slurm_nodelist",
+    "generatejobfiles",
+    "monica_out_to_agmip",
+    "monica_to_stics",
+    "sim_schedule",
+    "simplace_output_verify",
+    "verify_climate_data"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/zalf-rpm/build-pipeline/@v/v0.0.0-20250701111235-9eab14969aab.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250701111235-9eab14969aab",
+  "version_upstream": "",
+  "bsum": "2fd79580bc9afebe99bc2d28d5edbecd7be476a97bacdcee797f70264b9f6e28",
+  "build_date": "2025-07-03T05:33:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16042001463",
+  "build_id": "16042001463",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zalf-rpm/build-pipeline/apsimoutput?tag=v0.0.0-20250701111235-9eab14969aab-loongarch64-Linux&download=apsimoutput.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zalf-rpm/build-pipeline/apsimoutput?tag=v0.0.0-20250701111235-9eab14969aab-loongarch64-Linux&download=apsimoutput",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/zalf-rpm/build-pipeline/apsimoutput:v0.0.0-20250701111235-9eab14969aab-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/zalf-rpm/build-pipeline/apsimoutput",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zalf-rpm/build-pipeline/apsimoutput?tag=v0.0.0-20250701111235-9eab14969aab-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "20a8cf2d818daae33c372add753d529e79e5fc99721b12e20e7b307b69cb9e72",
+  "size": "1.8 MB",
+  "size_raw": "1871736",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
