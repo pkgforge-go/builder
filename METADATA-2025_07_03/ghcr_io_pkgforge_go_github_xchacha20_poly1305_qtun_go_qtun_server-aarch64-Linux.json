@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "qtun-server",
+  "pkg_family": "qtun-go",
+  "pkg_id": "qtun-server#github.com_xchacha20_poly1305_qtun_go",
+  "pkg_name": "qtun-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://pkg.go.dev/github.com/xchacha20-poly1305/qtun-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Yet another SIP003 plugin based on quic-go",
+  "homepage": [
+    "https://pkg.go.dev/github.com/xchacha20-poly1305/qtun-go"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "qtun-client",
+    "qtun-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/xchacha20-poly1305/qtun-go/@v/v0.0.4.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.4",
+  "version_upstream": "",
+  "bsum": "76e3f2b341edc84335261cb34240d27665296fff938575bbe13f6164ffe6ca03",
+  "build_date": "2025-07-03T05:30:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16041994716",
+  "build_id": "16041994716",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xchacha20-poly1305/qtun-go/qtun-server?tag=v0.0.4-aarch64-Linux&download=qtun-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xchacha20-poly1305/qtun-go/qtun-server?tag=v0.0.4-aarch64-Linux&download=qtun-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xchacha20-poly1305/qtun-go/qtun-server:v0.0.4-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xchacha20-poly1305/qtun-go/qtun-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xchacha20-poly1305/qtun-go/qtun-server?tag=v0.0.4-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "90c5cc15fdcd970a574831c51946d28b9dadf694f0e6c238f1f25267fb072a29",
+  "size": "6.1 MB",
+  "size_raw": "6323488",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
