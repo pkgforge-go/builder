@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "correct_climate_data",
+  "pkg_family": "build-pipeline",
+  "pkg_id": "correct_climate_data#github.com_zalf_rpm_build_pipeline",
+  "pkg_name": "correct_climate_data",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/zalf-rpm/build-pipeline",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This project contains build scripts, setup and how-to instructions",
+  "homepage": [
+    "https://github.com/zalf-rpm/build-pipeline"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agmip_to_monica",
+    "apsimoutput",
+    "copydir",
+    "correct_climate_data",
+    "extract_slurm_nodelist",
+    "generatejobfiles",
+    "monica_out_to_agmip",
+    "monica_to_stics",
+    "sim_schedule",
+    "simplace_output_verify",
+    "verify_climate_data"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/zalf-rpm/build-pipeline/@v/v0.0.0-20250701111235-9eab14969aab.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250701111235-9eab14969aab",
+  "version_upstream": "",
+  "bsum": "71de2d038caa7c0a5864433d80e7d7ad09ea670b20f49f0c2ec3465e925eff02",
+  "build_date": "2025-07-03T05:34:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16042001463",
+  "build_id": "16042001463",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zalf-rpm/build-pipeline/correct_climate_data?tag=v0.0.0-20250701111235-9eab14969aab-riscv64-Linux&download=correct_climate_data.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zalf-rpm/build-pipeline/correct_climate_data?tag=v0.0.0-20250701111235-9eab14969aab-riscv64-Linux&download=correct_climate_data",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/zalf-rpm/build-pipeline/correct_climate_data:v0.0.0-20250701111235-9eab14969aab-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/zalf-rpm/build-pipeline/correct_climate_data",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zalf-rpm/build-pipeline/correct_climate_data?tag=v0.0.0-20250701111235-9eab14969aab-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3959f44480fbdc04a5b06afce2e88fc38a75d355a8c98de34d22fe40dd305cda",
+  "size": "1.9 MB",
+  "size_raw": "1929128",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
