@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "tftp",
+  "pkg_family": "mars",
+  "pkg_id": "tftp#gitlab.com_mergetb_facility_mars",
+  "pkg_name": "tftp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://gitlab.com/mergetb/facility/mars",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Merge Automated Resource Space",
+  "homepage": [
+    "https://gitlab.com/mergetb/facility/mars"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apiserver",
+    "canopy",
+    "dance",
+    "dancecmd",
+    "imaging",
+    "metal",
+    "moacmd",
+    "moactl",
+    "moactld",
+    "mrs",
+    "podinit",
+    "sled",
+    "spore",
+    "tftp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/gitlab.com/mergetb/facility/mars/@v/v1.4.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.4.0",
+  "version_upstream": "",
+  "bsum": "1393880d5773af3247441d2efb2101d78b7fe9cbd0935e7a6451ad9c431b7dca",
+  "build_date": "2025-07-03T16:02:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16054898354",
+  "build_id": "16054898354",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/mergetb/facility/mars/tftp?tag=v1.4.0-x86_64-Linux&download=tftp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/mergetb/facility/mars/tftp?tag=v1.4.0-x86_64-Linux&download=tftp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/gitlab/mergetb/facility/mars/tftp:v1.4.0-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/gitlab/mergetb/facility/mars/tftp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/mergetb/facility/mars/tftp?tag=v1.4.0-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "318ec2b1eb04d0ac8f6a2181e36aa805e33faecd93d263225656407c5e64a734",
+  "size": "2.9 MB",
+  "size_raw": "2938104",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
