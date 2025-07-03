@@ -1,3 +1,4 @@
+- 🐹 **[cmd](https://go.dev)**: The Go programming language.
 - 🐹 **[misc](https://go.dev)**: The Go programming language.
 - 🐹 **[sample-cli-plugin](https://kubernetes.io)**: Production-Grade Container Scheduling and Management.
 - 🐹 **[uptime-kuma](https://uptime.kuma.pet)**: A fancy self-hosted monitoring tool.
@@ -366,6 +367,7 @@
 - 🐹 **[zeebe](https://camunda.com/platform/)**: Process Orchestration Framework.
 - 🐹 **[golden](https://opentelemetry.io)**: Contrib repository for the OpenTelemetry Collector.
 - 🐹 **[sampleapp](https://opentelemetry.io)**: Contrib repository for the OpenTelemetry Collector.
+- 🐹 **[pants](https://www.pantsbuild.org)**: The Pants Build System.
 - 🐹 **[go](https://www.pantsbuild.org)**: The Pants Build System.
 - 🐹 **[generator](http://fabric8.io)**: Java client for Kubernetes & OpenShift.
 - 🐹 **[cli-docgen](https://odigos.io)**: Distributed tracing without code changes.
@@ -420,6 +422,7 @@
 - 🐹 **[circuitbreaker_rule_transform](https://polarismesh.cn)**: Service Discovery and Governance Platform for Microservice and Distributed Architecture.
 - 🐹 **[govc](https://github.com/vmware/govmomi/govc)**: Go library for the VMware vSphere API.
 - 🐹 **[vcsim](https://github.com/vmware/govmomi/vcsim)**: Go library for the VMware vSphere API.
+- 🐹 **[engine](https://www.qovery.com)**: The Orchestration Engine To Deliver Self-Service Infrastructure.
 - 🐹 **[agent](https://github.com/aws/amazon-vpc-cni-k8s/test/agent)**: Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS.
 - 🐹 **[piranha](https://github.com/uber/piranha)**: A tool for refactoring code related to feature flag APIs.
 - 🐹 **[backup](https://vearch.github.io)**: Distributed vector search for AI-native applications.
@@ -499,6 +502,7 @@
 - 🐹 **[sidecar](https://min.io/docs/minio/kubernetes/upstream/index.html)**: Simple Kubernetes Operator for MinIO clusters :computer.
 - 🐹 **[v3](https://github.com/enfein/mieru/v3)**: Mieru is a socks5 / HTTP / HTTPS proxy to bypass censorship.
 - 🐹 **[test_dep](https://github.com/bazelbuild/bazel-gazelle/tests/bcr/go_work/test_dep)**: Gazelle is a Bazel build file generator for Bazel projects.
+- 🐹 **[_examples](https://pkg.go.dev/github.com/centrifugal/centrifuge)**: Real-time messaging library for Go.
 - 🐹 **[elasticsql](https://github.com/cch123/elasticsql)**: convert sql to elasticsearch DSL in golang_go_.
 - 🐹 **[operator](https://cyphernet.es)**: A Kubernetes Query Language.
 - 🐹 **[protoc-gen-auth](https://pipecd.dev)**: The One CD for All {applications, platforms, operations.
@@ -627,6 +631,7 @@
 - 🐹 **[cli](https://github.com/mkideal/cli)**: CLI - A package for building command line app with go.
 - 🐹 **[golang](https://github.com/rpcpool/yellowstone-grpc)**: Solana geyser grpc service.
 - 🐹 **[golang](https://github.com/rpcpool/solana-geyser-grpc/examples/golang)**: Solana geyser grpc service.
+- 🐹 **[basex](http://basex.org)**: BaseX Main Repository.
 - 🐹 **[go-txdb](https://github.com/DATA-DOG/go-txdb)**: Immutable transaction isolated sql driver for golang.
 - 🐹 **[kustomize-sops](https://github.com/viaduct-ai/kustomize-sops)**: KSOPS - A Flexible Kustomize Plugin for SOPS Encrypted Resources.
 - 🐹 **[keystone](https://opendev.org/openstack/keystone)**: OpenStack Identity (Keystone).
@@ -1352,6 +1357,7 @@
 - 🐹 **[gorm](https://github.com/crazy-max/goxx/examples/gorm)**: Go CGO cross-compiler Docker image.
 - 🐹 **[goxx](https://github.com/crazy-max/goxx)**: Go CGO cross-compiler Docker image.
 - 🐹 **[heartbeat](https://github.com/cybozu/neco-containers/heartbeat)**: Dockerfiles for OSS products used in Neco.
+- 🐹 **[isardvdi](https://gitlab.com/isard/isardvdi)**: Isard VDI (Virtual Desktop Infraestructure) Project.
 - 🐹 **[machines-endpoints](https://github.com/cybozu/neco-containers/machines-endpoints)**: Dockerfiles for OSS products used in Neco.
 - 🐹 **[odov3](https://registry.devfile.io)**: Source repository for the public community devfile registry.
 - 🐹 **[patch2pr](https://github.com/bluekeyes/patch2pr)**: Create pull requests from patches without cloning the repository.
@@ -1387,6 +1393,7 @@
 - 🐹 **[apiserver-proxy](https://github.com/phosae/x-kubernetes/apiserver-proxy)**: Extend Kubernetes like a Pro.
 - 🐹 **[configuration](https://github.com/kubernetes-sigs/windows-testing/capz/gmsa/configuration)**: Containers, scripts and documentation for running Kubernetes tests with Windows nodes.
 - 🐹 **[knife](https://github.com/gostaticanalysis/knife)**: Tools: knife lists type information of the package.
+- 🐹 **[v4](https://github.com/gravwell/gravwell)**: The main gravwell monorepo for ingesters and ingest code.
 - 🐹 **[windows-testing](https://github.com/kubernetes-sigs/windows-testing)**: Containers, scripts and documentation for running Kubernetes tests with Windows nodes.
 - 🐹 **[wl](https://github.com/s0md3v/wl)**: convert case style of words.
 - 🐹 **[Goid](https://github.com/jakenvac/Goid)**: A UUIDv4 generation package written in go.
@@ -1834,6 +1841,7 @@
 - 🐹 **[policy](https://conforma.dev/docs/ec-policies/)**: Rego policies for use with Conforma.
 - 🐹 **[provider](https://github.com/pulumiverse/pulumi-unifi/provider)**: Pulumi provider for Unifi network gear.
 - 🐹 **[template](https://github.com/goyek/goyek)**: Go application GitHub repository template using goyek.
+- 🐹 **[tierceron](https://github.com/trimble-oss/tierceron)**: Tierceron is a framework of services and tools for securely storing, managing (via tools, data flows, and services), distributing (via deployments to microservices), and visualizing secrets (via command line output and diff, database, and 3D visualization); powered by Go, Apache Kubernetes, Apache Dolthub, G3n, and HashiCorp Vault.
 - 🐹 **[trcchatproxy](https://github.com/trimble-oss/tierceron)**: Tierceron is a framework of services and tools for securely storing, managing (via tools, data flows, and services), distributing (via deployments to microservices), and visualizing secrets (via command line output and diff, database, and 3D visualization); powered by Go, Apache Kubernetes, Apache Dolthub, G3n, and HashiCorp Vault.
 - 🐹 **[trcdb](https://github.com/trimble-oss/tierceron)**: Tierceron is a framework of services and tools for securely storing, managing (via tools, data flows, and services), distributing (via deployments to microservices), and visualizing secrets (via command line output and diff, database, and 3D visualization); powered by Go, Apache Kubernetes, Apache Dolthub, G3n, and HashiCorp Vault.
 - 🐹 **[trcfenestra](https://github.com/trimble-oss/tierceron)**: Tierceron is a framework of services and tools for securely storing, managing (via tools, data flows, and services), distributing (via deployments to microservices), and visualizing secrets (via command line output and diff, database, and 3D visualization); powered by Go, Apache Kubernetes, Apache Dolthub, G3n, and HashiCorp Vault.
