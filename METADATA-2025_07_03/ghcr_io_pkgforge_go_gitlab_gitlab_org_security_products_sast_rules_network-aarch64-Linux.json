@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "network",
+  "pkg_family": "sast-rules",
+  "pkg_id": "network#gitlab.com_gitlab_org_security_products_sast_rules",
+  "pkg_name": "network",
+  "pkg_type": "static",
+  "pkg_webpage": "https://gitlab.com/gitlab-org/security-products/sast-rules",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Rule Repository for GitLab SAST",
+  "homepage": [
+    "https://gitlab.com/gitlab-org/security-products/sast-rules"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "network",
+    "secrets",
+    "unsafe"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/gitlab.com/gitlab-org/security-products/sast-rules/@v/v1.3.37.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.3.37",
+  "version_upstream": "",
+  "bsum": "69ab26954f20d253ee0a99692e1484b390afd5eed076a0fa3b98532a884083db",
+  "build_date": "2025-07-03T05:33:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16042002947",
+  "build_id": "16042002947",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/gitlab-org/security-products/sast-rules/network?tag=v1.3.37-aarch64-Linux&download=network.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "28",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/gitlab-org/security-products/sast-rules/network?tag=v1.3.37-aarch64-Linux&download=network",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/gitlab/gitlab-org/security-products/sast-rules/network:v1.3.37-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/gitlab/gitlab-org/security-products/sast-rules/network",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/gitlab-org/security-products/sast-rules/network?tag=v1.3.37-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b33ea1a505644da411411fea25c9fe30832dc951a5cf8b4a8fd76410767bffdd",
+  "size": "2.3 MB",
+  "size_raw": "2315064",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
