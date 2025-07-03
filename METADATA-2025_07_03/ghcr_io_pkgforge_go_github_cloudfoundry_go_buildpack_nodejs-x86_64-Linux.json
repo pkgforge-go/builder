@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "nodejs",
+  "pkg_family": "go-buildpack",
+  "pkg_id": "nodejs#github.com_cloudfoundry_go_buildpack",
+  "pkg_name": "nodejs",
+  "pkg_type": "static",
+  "pkg_webpage": "http://docs.cloudfoundry.org/buildpacks/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud Foundry buildpack for the Go Language",
+  "homepage": [
+    "http://docs.cloudfoundry.org/buildpacks/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "app",
+    "brats",
+    "builtin",
+    "conda",
+    "dotnet",
+    "go_version",
+    "godir",
+    "ldflags",
+    "nltk",
+    "no_gopackagename",
+    "no_procfile",
+    "nodejs",
+    "python",
+    "ruby",
+    "simple",
+    "single_file",
+    "symlink_dir",
+    "toolchain",
+    "wildcard_go_version"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cloudfoundry/go-buildpack/@v/v1.10.38.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.10.38",
+  "version_upstream": "",
+  "bsum": "860debad06346a405e699d3f9a6ba6a9262bf4b676b48eec4f92e0de72db6cde",
+  "build_date": "2025-07-03T04:33:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16041450218",
+  "build_id": "16041450218",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/go-buildpack/nodejs?tag=v1.10.38-x86_64-Linux&download=nodejs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "82",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/go-buildpack/nodejs?tag=v1.10.38-x86_64-Linux&download=nodejs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry/go-buildpack/nodejs:v1.10.38-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry/go-buildpack/nodejs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/go-buildpack/nodejs?tag=v1.10.38-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5ef5165137ff166cc4636b638c82297eaa3af502d1ae0a3774cc80703e8f8cd3",
+  "size": "6.0 MB",
+  "size_raw": "6221440",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

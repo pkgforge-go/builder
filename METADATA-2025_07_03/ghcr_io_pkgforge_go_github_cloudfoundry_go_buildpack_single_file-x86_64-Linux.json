@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "single_file",
+  "pkg_family": "go-buildpack",
+  "pkg_id": "single_file#github.com_cloudfoundry_go_buildpack",
+  "pkg_name": "single_file",
+  "pkg_type": "static",
+  "pkg_webpage": "http://docs.cloudfoundry.org/buildpacks/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud Foundry buildpack for the Go Language",
+  "homepage": [
+    "http://docs.cloudfoundry.org/buildpacks/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "app",
+    "brats",
+    "builtin",
+    "conda",
+    "dotnet",
+    "go_version",
+    "godir",
+    "ldflags",
+    "nltk",
+    "no_gopackagename",
+    "no_procfile",
+    "nodejs",
+    "python",
+    "ruby",
+    "simple",
+    "single_file",
+    "symlink_dir",
+    "toolchain",
+    "wildcard_go_version"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cloudfoundry/go-buildpack/@v/v1.10.38.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.10.38",
+  "version_upstream": "",
+  "bsum": "680b3b0e545618140b10cfede69d89d36297f973376b69ed9520e5307c8c3ab7",
+  "build_date": "2025-07-03T04:33:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16041450218",
+  "build_id": "16041450218",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/go-buildpack/single_file?tag=v1.10.38-x86_64-Linux&download=single_file.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "82",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/go-buildpack/single_file?tag=v1.10.38-x86_64-Linux&download=single_file",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry/go-buildpack/single_file:v1.10.38-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry/go-buildpack/single_file",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/go-buildpack/single_file?tag=v1.10.38-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "83bb6db34479c0d9c48ceb23e22af67aebc975800c69f436e0e67d724e917bf4",
+  "size": "5.9 MB",
+  "size_raw": "6116032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
