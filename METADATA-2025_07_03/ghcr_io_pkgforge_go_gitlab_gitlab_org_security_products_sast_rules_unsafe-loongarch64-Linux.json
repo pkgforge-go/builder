@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "unsafe",
+  "pkg_family": "sast-rules",
+  "pkg_id": "unsafe#gitlab.com_gitlab_org_security_products_sast_rules",
+  "pkg_name": "unsafe",
+  "pkg_type": "static",
+  "pkg_webpage": "https://gitlab.com/gitlab-org/security-products/sast-rules",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Rule Repository for GitLab SAST",
+  "homepage": [
+    "https://gitlab.com/gitlab-org/security-products/sast-rules"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "network",
+    "secrets",
+    "unsafe"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/gitlab.com/gitlab-org/security-products/sast-rules/@v/v1.3.37.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.3.37",
+  "version_upstream": "",
+  "bsum": "01b93c765740dd4a88e1f2e727fa7b03584949e778f32970699e7c9537e9ba20",
+  "build_date": "2025-07-03T05:33:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16042002947",
+  "build_id": "16042002947",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/gitlab-org/security-products/sast-rules/unsafe?tag=v1.3.37-loongarch64-Linux&download=unsafe.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "28",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/gitlab-org/security-products/sast-rules/unsafe?tag=v1.3.37-loongarch64-Linux&download=unsafe",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/gitlab/gitlab-org/security-products/sast-rules/unsafe:v1.3.37-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/gitlab/gitlab-org/security-products/sast-rules/unsafe",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/gitlab-org/security-products/sast-rules/unsafe?tag=v1.3.37-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "df409e8323a9af9a5d028fc2a1cc6a796a86a35911865ca234b55159f2e80cc1",
+  "size": "1.6 MB",
+  "size_raw": "1651160",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
