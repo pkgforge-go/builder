@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "login-protector",
+  "pkg_family": "login-protector",
+  "pkg_id": "login-protector#github.com_cybozu_go_login_protector",
+  "pkg_name": "login-protector",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cybozu-go/login-protector",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Login-protector provides a feature to prevent the reboot of Pods that are logged in within a Kubernetes cluster",
+  "homepage": [
+    "https://github.com/cybozu-go/login-protector"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "local-session-tracker",
+    "login-protector"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cybozu-go/login-protector/@v/v0.3.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.3.0",
+  "version_upstream": "",
+  "bsum": "b601645ff022e926ea97b1dfd598372986fbbaababa400dcdc2cf61e6681085a",
+  "build_date": "2025-07-03T04:36:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16041452181",
+  "build_id": "16041452181",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/login-protector/login-protector?tag=v0.3.0-riscv64-Linux&download=login-protector.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/login-protector/login-protector?tag=v0.3.0-riscv64-Linux&download=login-protector",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cybozu-go/login-protector/login-protector:v0.3.0-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cybozu-go/login-protector/login-protector",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/login-protector/login-protector?tag=v0.3.0-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6341231fc6b920f63b807235ae12a88beed260d4e2b8ffa3e8cba1cc29b75f4b",
+  "size": "51 MB",
+  "size_raw": "52675736",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
