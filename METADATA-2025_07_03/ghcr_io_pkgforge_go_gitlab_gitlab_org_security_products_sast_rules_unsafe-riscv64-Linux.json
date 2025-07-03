@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "unsafe",
+  "pkg_family": "sast-rules",
+  "pkg_id": "unsafe#gitlab.com_gitlab_org_security_products_sast_rules",
+  "pkg_name": "unsafe",
+  "pkg_type": "static",
+  "pkg_webpage": "https://gitlab.com/gitlab-org/security-products/sast-rules",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Rule Repository for GitLab SAST",
+  "homepage": [
+    "https://gitlab.com/gitlab-org/security-products/sast-rules"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "network",
+    "secrets",
+    "unsafe"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/gitlab.com/gitlab-org/security-products/sast-rules/@v/v1.3.37.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.3.37",
+  "version_upstream": "",
+  "bsum": "173a8bae3f28d1028c464784f3fcbed015384bcde6f62da913a4d0df6bf8784a",
+  "build_date": "2025-07-03T05:33:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16042002947",
+  "build_id": "16042002947",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/gitlab-org/security-products/sast-rules/unsafe?tag=v1.3.37-riscv64-Linux&download=unsafe.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "28",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/gitlab-org/security-products/sast-rules/unsafe?tag=v1.3.37-riscv64-Linux&download=unsafe",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/gitlab/gitlab-org/security-products/sast-rules/unsafe:v1.3.37-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/gitlab/gitlab-org/security-products/sast-rules/unsafe",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/gitlab-org/security-products/sast-rules/unsafe?tag=v1.3.37-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "62a70512f020d8c74844a1e1d07857e88caa6b7a5b9c1ba314c0de062f594881",
+  "size": "1.6 MB",
+  "size_raw": "1578472",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
