@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "spore",
+  "pkg_family": "mars",
+  "pkg_id": "spore#gitlab.com_mergetb_facility_mars",
+  "pkg_name": "spore",
+  "pkg_type": "static",
+  "pkg_webpage": "https://gitlab.com/mergetb/facility/mars",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Merge Automated Resource Space",
+  "homepage": [
+    "https://gitlab.com/mergetb/facility/mars"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apiserver",
+    "canopy",
+    "dance",
+    "dancecmd",
+    "imaging",
+    "metal",
+    "moacmd",
+    "moactl",
+    "moactld",
+    "mrs",
+    "podinit",
+    "sled",
+    "spore",
+    "tftp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/gitlab.com/mergetb/facility/mars/@v/v1.4.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.4.0",
+  "version_upstream": "",
+  "bsum": "0a657e999a3f0e256206c786496453536e3af66690062183cc86554a983546e9",
+  "build_date": "2025-07-03T16:01:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16054898354",
+  "build_id": "16054898354",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/mergetb/facility/mars/spore?tag=v1.4.0-riscv64-Linux&download=spore.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/mergetb/facility/mars/spore?tag=v1.4.0-riscv64-Linux&download=spore",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/gitlab/mergetb/facility/mars/spore:v1.4.0-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/gitlab/mergetb/facility/mars/spore",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/mergetb/facility/mars/spore?tag=v1.4.0-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4fb72ccfd406d0d0959971869f5f867814d89de4d56d5043a87b23b64245f887",
+  "size": "13 MB",
+  "size_raw": "12646200",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
