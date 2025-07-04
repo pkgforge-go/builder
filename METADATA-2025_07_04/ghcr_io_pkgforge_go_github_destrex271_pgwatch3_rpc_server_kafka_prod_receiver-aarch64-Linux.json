@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "kafka_prod_receiver",
+  "pkg_family": "pgwatch3_rpc_server",
+  "pkg_id": "kafka_prod_receiver#github.com_destrex271_pgwatch3_rpc_server",
+  "pkg_name": "kafka_prod_receiver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/destrex271/pgwatch3_rpc_server",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "RPC Server Implementation for pgwatch3",
+  "homepage": [
+    "https://github.com/destrex271/pgwatch3_rpc_server"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "clickhouse_receiver",
+    "csv_receiver",
+    "kafka_prod_receiver",
+    "llama_receiver",
+    "parquet_receiver",
+    "pinot_receiver",
+    "s3_receiver",
+    "text_receiver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/destrex271/pgwatch3_rpc_server/@v/v0.0.0-20250701173032-632370f89c89.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250701173032-632370f89c89",
+  "version_upstream": "",
+  "bsum": "c79407e02ce86bbe95961d7ab1f8d693ac5b5a89fd1dbaedf9b925cb51ba0856",
+  "build_date": "2025-07-04T07:18:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16067762893",
+  "build_id": "16067762893",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/destrex271/pgwatch3/rpc/server/kafka_prod_receiver?tag=v0.0.0-20250701173032-632370f89c89-aarch64-Linux&download=kafka_prod_receiver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/destrex271/pgwatch3/rpc/server/kafka_prod_receiver?tag=v0.0.0-20250701173032-632370f89c89-aarch64-Linux&download=kafka_prod_receiver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/destrex271/pgwatch3/rpc/server/kafka_prod_receiver:v0.0.0-20250701173032-632370f89c89-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/destrex271/pgwatch3/rpc/server/kafka_prod_receiver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/destrex271/pgwatch3/rpc/server/kafka_prod_receiver?tag=v0.0.0-20250701173032-632370f89c89-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2a8ab0896b572bde63e8b20689d1f1d9729fdd4d8765af6302be01a332cb219c",
+  "size": "20 MB",
+  "size_raw": "20719840",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250624122302-fb0ede4b2dcc-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
