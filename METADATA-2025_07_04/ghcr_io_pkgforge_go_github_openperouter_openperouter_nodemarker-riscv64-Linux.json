@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "nodemarker",
+  "pkg_family": "openperouter",
+  "pkg_id": "nodemarker#github.com_openperouter_openperouter",
+  "pkg_name": "nodemarker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openperouter/openperouter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenPERouter (Provider Edge Router) meant to run on linux and to interact with the host through veths",
+  "homepage": [
+    "https://github.com/openperouter/openperouter"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "assign_ips",
+    "cp-tool",
+    "generate_kind_config",
+    "generate_leaf_config",
+    "hostcontroller",
+    "nodemarker",
+    "operator",
+    "reloader"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/openperouter/openperouter/@v/v0.0.0-20250703170524-347ee45a75f7.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250703170524-347ee45a75f7",
+  "version_upstream": "",
+  "bsum": "42f043bf9220ff4ab7fb52eb5dd8ce61e6f1b11e95d8a52517a7d9d391518a84",
+  "build_date": "2025-07-04T04:55:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16065720006",
+  "build_id": "16065720006",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openperouter/openperouter/nodemarker?tag=v0.0.0-20250703170524-347ee45a75f7-riscv64-Linux&download=nodemarker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openperouter/openperouter/nodemarker?tag=v0.0.0-20250703170524-347ee45a75f7-riscv64-Linux&download=nodemarker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openperouter/openperouter/nodemarker:v0.0.0-20250703170524-347ee45a75f7-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openperouter/openperouter/nodemarker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openperouter/openperouter/nodemarker?tag=v0.0.0-20250703170524-347ee45a75f7-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a96a0f111b1ef1db91fa2e786a6093177ec11998ee3d7f1373873bbff8960737",
+  "size": "42 MB",
+  "size_raw": "43585496",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
