@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "smtpmock",
+  "pkg_id": "server#github.com_ovh_cds_tools_smtpmock",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://ovh.github.io/cds/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform",
+  "homepage": [
+    "https://ovh.github.io/cds/"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "server",
+    "smtpmock-cli"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/ovh/cds/tools/smtpmock/@v/v0.0.0-20250703074502-67bd98d3e4c0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250703074502-67bd98d3e4c0",
+  "version_upstream": "",
+  "bsum": "bdce2b025d9c7367ff797d88898dd78d879a22f608471956dbf5d8a8b5885539",
+  "build_date": "2025-07-04T10:23:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16071033681",
+  "build_id": "16071033681",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ovh/cds/tools/smtpmock/server?tag=v0.0.0-20250703074502-67bd98d3e4c0-loongarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4726",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ovh/cds/tools/smtpmock/server?tag=v0.0.0-20250703074502-67bd98d3e4c0-loongarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ovh/cds/tools/smtpmock/server:v0.0.0-20250703074502-67bd98d3e4c0-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ovh/cds/tools/smtpmock/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ovh/cds/tools/smtpmock/server?tag=v0.0.0-20250703074502-67bd98d3e4c0-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "029170b260dfdf7671b49e0f265bcf37f6a0a53f97e665fee099fda35a13ab24",
+  "size": "12 MB",
+  "size_raw": "11573072",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250625135845-6ab7d8e4fa3f-loongarch64-Linux",
+    "v0.0.0-20250630074600-495dd01c751b-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
