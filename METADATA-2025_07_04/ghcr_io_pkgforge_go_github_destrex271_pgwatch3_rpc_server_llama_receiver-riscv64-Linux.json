@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "llama_receiver",
+  "pkg_family": "pgwatch3_rpc_server",
+  "pkg_id": "llama_receiver#github.com_destrex271_pgwatch3_rpc_server",
+  "pkg_name": "llama_receiver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/destrex271/pgwatch3_rpc_server",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "RPC Server Implementation for pgwatch3",
+  "homepage": [
+    "https://github.com/destrex271/pgwatch3_rpc_server"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "clickhouse_receiver",
+    "csv_receiver",
+    "kafka_prod_receiver",
+    "llama_receiver",
+    "parquet_receiver",
+    "pinot_receiver",
+    "s3_receiver",
+    "text_receiver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/destrex271/pgwatch3_rpc_server/@v/v0.0.0-20250701173032-632370f89c89.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250701173032-632370f89c89",
+  "version_upstream": "",
+  "bsum": "77d2d9d23a1f43d1324840a74ecec2050968dc6a0bab0ac4074aea26e20076a8",
+  "build_date": "2025-07-04T07:17:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16067762893",
+  "build_id": "16067762893",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/destrex271/pgwatch3/rpc/server/llama_receiver?tag=v0.0.0-20250701173032-632370f89c89-riscv64-Linux&download=llama_receiver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/destrex271/pgwatch3/rpc/server/llama_receiver?tag=v0.0.0-20250701173032-632370f89c89-riscv64-Linux&download=llama_receiver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/destrex271/pgwatch3/rpc/server/llama_receiver:v0.0.0-20250701173032-632370f89c89-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/destrex271/pgwatch3/rpc/server/llama_receiver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/destrex271/pgwatch3/rpc/server/llama_receiver?tag=v0.0.0-20250701173032-632370f89c89-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bce0df7ad5eb7d8a05cfe02b91f445e6f22a9968316adf04d2bddb4aa9c09fe4",
+  "size": "23 MB",
+  "size_raw": "23578264",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250624122302-fb0ede4b2dcc-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
