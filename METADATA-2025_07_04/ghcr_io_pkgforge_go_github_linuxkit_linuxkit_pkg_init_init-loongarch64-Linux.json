@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "init",
+  "pkg_family": "init",
+  "pkg_id": "init#github.com_linuxkit_linuxkit_pkg_init",
+  "pkg_name": "init",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/linuxkit/linuxkit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A toolkit for building secure, portable and lean operating systems for containers",
+  "homepage": [
+    "https://github.com/linuxkit/linuxkit"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "init"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/aerokube/init/@v/v0.0.0-20250626152641-cc51075160d2.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250630175850-940c1b7b3b05",
+  "version_upstream": "",
+  "bsum": "b3c445a881c79459a2d481c2ff4d68f048a5ea1e9a16cfc1168ef400fd18b7ac",
+  "build_date": "2025-07-04T02:13:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16064309265",
+  "build_id": "16064309265",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linuxkit/linuxkit/pkg/init/init?tag=v0.0.0-20250630175850-940c1b7b3b05-loongarch64-Linux&download=init.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8468",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linuxkit/linuxkit/pkg/init/init?tag=v0.0.0-20250630175850-940c1b7b3b05-loongarch64-Linux&download=init",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/linuxkit/linuxkit/pkg/init/init:v0.0.0-20250630175850-940c1b7b3b05-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/linuxkit/linuxkit/pkg/init/init",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linuxkit/linuxkit/pkg/init/init?tag=v0.0.0-20250630175850-940c1b7b3b05-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "14c020eb783d4604f64d0b2fcf02d638d432b480700d8433725f54b43b156fd3",
+  "size": "2.0 MB",
+  "size_raw": "2003128",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250630175850-940c1b7b3b05-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
