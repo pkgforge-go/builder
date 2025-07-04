@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kaniko-gar",
+  "pkg_family": "drone-kaniko",
+  "pkg_id": "kaniko-gar#github.com_drone_drone_kaniko",
+  "pkg_name": "kaniko-gar",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/drone/drone-kaniko",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Drone plugin for building and publishing Docker images",
+  "homepage": [
+    "https://github.com/drone/drone-kaniko"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kaniko-acr",
+    "kaniko-docker",
+    "kaniko-ecr",
+    "kaniko-gar",
+    "kaniko-gcr"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/drone/drone-kaniko/@v/v1.11.3-debug.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.11.3-debug",
+  "version_upstream": "",
+  "bsum": "bbda5b323f419c87df136a9d15914bb0d672c51ddbebec48242ac4a102fc9bc8",
+  "build_date": "2025-07-04T04:25:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16065644096",
+  "build_id": "16065644096",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drone/drone-kaniko/kaniko-gar?tag=v1.11.3-debug-loongarch64-Linux&download=kaniko-gar.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "60",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drone/drone-kaniko/kaniko-gar?tag=v1.11.3-debug-loongarch64-Linux&download=kaniko-gar",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/drone/drone-kaniko/kaniko-gar:v1.11.3-debug-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/drone/drone-kaniko/kaniko-gar",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drone/drone-kaniko/kaniko-gar?tag=v1.11.3-debug-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "860e4e47cc1c16e93675f2965f2e0f7393ff5401da7d58ea927fb22af0430553",
+  "size": "9.7 MB",
+  "size_raw": "10148848",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
