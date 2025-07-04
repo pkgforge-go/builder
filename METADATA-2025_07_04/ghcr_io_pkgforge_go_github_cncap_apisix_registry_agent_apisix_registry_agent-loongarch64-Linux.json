@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "apisix-registry-agent",
+  "pkg_family": "apisix-registry-agent",
+  "pkg_id": "apisix-registry-agent#github.com_cncap_apisix_registry_agent",
+  "pkg_name": "apisix-registry-agent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cncap/apisix-registry-agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Go agent for automatic registration and deregistration of microservices to APISIX via the Admin API. Supports gRPC/REST, proto parsing, plugin templates, graceful shutdown, and is suitable for both local development and production environments",
+  "homepage": [
+    "https://github.com/cncap/apisix-registry-agent"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apisix-registry-agent"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cncap/apisix-registry-agent/@v/v1.0.2.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.2",
+  "version_upstream": "",
+  "bsum": "eca5ceec0beef2ce0a3166ed5d89a372d6b717ef40e0126639f4bd7c61e0a6f1",
+  "build_date": "2025-07-04T04:16:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16065640857",
+  "build_id": "16065640857",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cncap/apisix-registry-agent/apisix-registry-agent?tag=v1.0.2-loongarch64-Linux&download=apisix-registry-agent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cncap/apisix-registry-agent/apisix-registry-agent?tag=v1.0.2-loongarch64-Linux&download=apisix-registry-agent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cncap/apisix-registry-agent/apisix-registry-agent:v1.0.2-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cncap/apisix-registry-agent/apisix-registry-agent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cncap/apisix-registry-agent/apisix-registry-agent?tag=v1.0.2-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "48db4a0d936d79bdc9454016cba56bf56b0dde99bbd7682939edcad545cca8d3",
+  "size": "6.6 MB",
+  "size_raw": "6902592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
