@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "kaniko-ecr",
+  "pkg_family": "drone-kaniko",
+  "pkg_id": "kaniko-ecr#github.com_drone_drone_kaniko",
+  "pkg_name": "kaniko-ecr",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/drone/drone-kaniko",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Drone plugin for building and publishing Docker images",
+  "homepage": [
+    "https://github.com/drone/drone-kaniko"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kaniko-acr",
+    "kaniko-docker",
+    "kaniko-ecr",
+    "kaniko-gar",
+    "kaniko-gcr"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/drone/drone-kaniko/@v/v1.11.3-debug.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.11.3-debug",
+  "version_upstream": "",
+  "bsum": "905ca3d3bc366a663d22c5ff7f335d742bc0603af1627b43ea6bc9785948f3d5",
+  "build_date": "2025-07-04T04:25:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16065644096",
+  "build_id": "16065644096",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drone/drone-kaniko/kaniko-ecr?tag=v1.11.3-debug-riscv64-Linux&download=kaniko-ecr.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "60",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drone/drone-kaniko/kaniko-ecr?tag=v1.11.3-debug-riscv64-Linux&download=kaniko-ecr",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/drone/drone-kaniko/kaniko-ecr:v1.11.3-debug-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/drone/drone-kaniko/kaniko-ecr",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drone/drone-kaniko/kaniko-ecr?tag=v1.11.3-debug-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "97edf804e913cf1e73c7e95559a74a3ade3b1457e03f89d86f60ae302d5447fa",
+  "size": "16 MB",
+  "size_raw": "16189528",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
