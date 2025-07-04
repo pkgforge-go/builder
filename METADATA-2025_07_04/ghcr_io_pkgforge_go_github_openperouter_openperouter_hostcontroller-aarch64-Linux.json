@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "hostcontroller",
+  "pkg_family": "openperouter",
+  "pkg_id": "hostcontroller#github.com_openperouter_openperouter",
+  "pkg_name": "hostcontroller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openperouter/openperouter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenPERouter (Provider Edge Router) meant to run on linux and to interact with the host through veths",
+  "homepage": [
+    "https://github.com/openperouter/openperouter"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "assign_ips",
+    "cp-tool",
+    "generate_kind_config",
+    "generate_leaf_config",
+    "hostcontroller",
+    "nodemarker",
+    "reloader"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/openperouter/openperouter/@v/v0.0.0-20250703170524-347ee45a75f7.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250703170524-347ee45a75f7",
+  "version_upstream": "",
+  "bsum": "0bbb6a1fc1e1f45a9c9f3eafff620b55c56506be15d554f5e903fdbe4028a575",
+  "build_date": "2025-07-04T04:58:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16065720006",
+  "build_id": "16065720006",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openperouter/openperouter/hostcontroller?tag=v0.0.0-20250703170524-347ee45a75f7-aarch64-Linux&download=hostcontroller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openperouter/openperouter/hostcontroller?tag=v0.0.0-20250703170524-347ee45a75f7-aarch64-Linux&download=hostcontroller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openperouter/openperouter/hostcontroller:v0.0.0-20250703170524-347ee45a75f7-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openperouter/openperouter/hostcontroller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openperouter/openperouter/hostcontroller?tag=v0.0.0-20250703170524-347ee45a75f7-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4348c3d2019689215cb789a18741e21e0a30a21c562acdc7229b0016ac170cf4",
+  "size": "47 MB",
+  "size_raw": "48670752",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
