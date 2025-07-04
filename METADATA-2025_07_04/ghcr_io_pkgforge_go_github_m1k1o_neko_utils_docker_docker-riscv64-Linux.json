@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "docker",
+  "pkg_family": "docker",
+  "pkg_id": "docker#github.com_m1k1o_neko_utils_docker",
+  "pkg_name": "docker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://neko.m1k1o.net/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A self hosted virtual browser that runs in docker and uses WebRTC",
+  "homepage": [
+    "https://neko.m1k1o.net/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/julien040/anyquery/plugins/docker/@v/v0.0.0-20250702121959-3c08194e28cd.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250617080527-04c0d5ea1599",
+  "version_upstream": "",
+  "bsum": "60ed7513459b98ad353d35834c587f727cc143b84ebc979f85d86022fe4d82fd",
+  "build_date": "2025-07-04T04:32:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16065672472",
+  "build_id": "16065672472",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/m1k1o/neko/utils/docker/docker?tag=v0.0.0-20250617080527-04c0d5ea1599-riscv64-Linux&download=docker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10604",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/m1k1o/neko/utils/docker/docker?tag=v0.0.0-20250617080527-04c0d5ea1599-riscv64-Linux&download=docker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/m1k1o/neko/utils/docker/docker:v0.0.0-20250617080527-04c0d5ea1599-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/m1k1o/neko/utils/docker/docker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/m1k1o/neko/utils/docker/docker?tag=v0.0.0-20250617080527-04c0d5ea1599-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ce518225b5564ed47878791c9663e13873084003675eb7518c31a045d59f1939",
+  "size": "15 MB",
+  "size_raw": "15096472",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250617080527-04c0d5ea1599-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
