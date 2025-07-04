@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "clangpp",
+  "pkg_family": "llgo",
+  "pkg_id": "clangpp#github.com_luoliwoshang_llgo",
+  "pkg_name": "clangpp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/luoliwoshang/llgo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Go compiler based on LLVM in order to better integrate Go with the C ecosystem including Python",
+  "homepage": [
+    "https://github.com/luoliwoshang/llgo"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ardump",
+    "clangpp",
+    "dylibdeps",
+    "nmdump",
+    "nmindex"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/luoliwoshang/llgo/@v/v0.12.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.12.3",
+  "version_upstream": "",
+  "bsum": "6d5bec6e3125635e3e0a074f2004f2cec9f46c866b336c496e7e74d8f358c923",
+  "build_date": "2025-07-04T16:09:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16077217299",
+  "build_id": "16077217299",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/luoliwoshang/llgo/clangpp?tag=v0.12.3-riscv64-Linux&download=clangpp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/luoliwoshang/llgo/clangpp?tag=v0.12.3-riscv64-Linux&download=clangpp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/luoliwoshang/llgo/clangpp:v0.12.3-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/luoliwoshang/llgo/clangpp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/luoliwoshang/llgo/clangpp?tag=v0.12.3-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "74048c2d1d2666589bc116c9f6a98c5b4fce0c699291e5931e64a27dc0712ca2",
+  "size": "1.9 MB",
+  "size_raw": "1905128",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
