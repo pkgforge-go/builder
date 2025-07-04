@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "upper",
+  "pkg_family": "crdb",
+  "pkg_id": "upper#github.com_tullo_crdb",
+  "pkg_name": "upper",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tullo/crdb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CRDB for local dev",
+  "homepage": [
+    "https://github.com/tullo/crdb"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "crdb",
+    "driver-pg",
+    "driver-pgx",
+    "gorm",
+    "upper"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/tullo/crdb/@v/v0.0.0-20250703112648-227e2cf73899.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250703112648-227e2cf73899",
+  "version_upstream": "",
+  "bsum": "0795e7d0fef62bb5ec4c9a57e76612af27132069160624afab2f01d8d5451cd8",
+  "build_date": "2025-07-04T07:49:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16067962681",
+  "build_id": "16067962681",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tullo/crdb/upper?tag=v0.0.0-20250703112648-227e2cf73899-loongarch64-Linux&download=upper.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tullo/crdb/upper?tag=v0.0.0-20250703112648-227e2cf73899-loongarch64-Linux&download=upper",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tullo/crdb/upper:v0.0.0-20250703112648-227e2cf73899-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tullo/crdb/upper",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tullo/crdb/upper?tag=v0.0.0-20250703112648-227e2cf73899-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f75e5bdc060652cb7edeea4f048c8fa1adf7f1492216178cb3bb2b16943de2dd",
+  "size": "14 MB",
+  "size_raw": "13742304",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250630174856-f50ff21d2b7b-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
