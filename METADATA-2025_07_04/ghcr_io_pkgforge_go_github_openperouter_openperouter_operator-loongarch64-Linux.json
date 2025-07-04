@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "operator",
+  "pkg_family": "openperouter",
+  "pkg_id": "operator#github.com_openperouter_openperouter",
+  "pkg_name": "operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openperouter/openperouter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenPERouter (Provider Edge Router) meant to run on linux and to interact with the host through veths",
+  "homepage": [
+    "https://github.com/openperouter/openperouter"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "assign_ips",
+    "cp-tool",
+    "generate_kind_config",
+    "generate_leaf_config",
+    "hostcontroller",
+    "nodemarker",
+    "operator",
+    "reloader"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/openperouter/openperouter/@v/v0.0.0-20250703170524-347ee45a75f7.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250703170524-347ee45a75f7",
+  "version_upstream": "",
+  "bsum": "1be5577730147122776e5900f58c41832c489e473e7948e7f280555f85393aa4",
+  "build_date": "2025-07-04T04:55:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16065720006",
+  "build_id": "16065720006",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openperouter/openperouter/operator?tag=v0.0.0-20250703170524-347ee45a75f7-loongarch64-Linux&download=operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openperouter/openperouter/operator?tag=v0.0.0-20250703170524-347ee45a75f7-loongarch64-Linux&download=operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openperouter/openperouter/operator:v0.0.0-20250703170524-347ee45a75f7-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openperouter/openperouter/operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openperouter/openperouter/operator?tag=v0.0.0-20250703170524-347ee45a75f7-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "977146f5a4c33fa878274015eacb162effb51e0cafb0690e3f25dafca4c00467",
+  "size": "94 MB",
+  "size_raw": "97975840",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
