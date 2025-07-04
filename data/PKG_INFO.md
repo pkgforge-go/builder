@@ -453,6 +453,7 @@
 - 🐹 **[http-echo-tinygo](https://wasmcloud.com)**: WasmCloud is an open source Cloud Native Computing Foundation (CNCF) project that enables teams to build, manage, and scale polyglot apps across any cloud, K8s, or edge.
 - 🐹 **[http-hello-world](https://wasmcloud.com)**: WasmCloud is an open source Cloud Native Computing Foundation (CNCF) project that enables teams to build, manage, and scale polyglot apps across any cloud, K8s, or edge.
 - 🐹 **[opa](https://wasmcloud.com)**: WasmCloud is an open source Cloud Native Computing Foundation (CNCF) project that enables teams to build, manage, and scale polyglot apps across any cloud, K8s, or edge.
+- 🐹 **[wasmcloud](https://wasmcloud.com)**: WasmCloud is an open source Cloud Native Computing Foundation (CNCF) project that enables teams to build, manage, and scale polyglot apps across any cloud, K8s, or edge.
 - 🐹 **[pool_context](https://github.com/alitto/pond/examples/pool_context)**: Minimalistic and High-performance goroutine worker pool written in Go.
 - 🐹 **[task_group](https://github.com/alitto/pond/examples/task_group)**: Minimalistic and High-performance goroutine worker pool written in Go.
 - 🐹 **[examples](https://github.com/gotd/td/examples)**: Telegram client, in Go.
@@ -929,6 +930,7 @@
 - 🐹 **[tools](https://github.com/metal3-io/cluster-api-provider-metal3)**: Metal³ integration with https://github.
 - 🐹 **[examples](https://github.com/centrifugal/centrifuge-go/examples)**: Go client SDK for bidirectional communication with Centrifugo and Centrifuge-based server over WebSocket.
 - 🐹 **[libtailscale](https://github.com/tailscale/libtailscale)**: Tailscale C library.
+- 🐹 **[vitepress-simple](http://vpsimple.xiaod.co)**: VitePress Visual Configuration Tool.
 - 🐹 **[tsnsrv](https://boinkor.net/2023/07/tsnsrv-or-easily-accessing-services-on-your-tailscale-network/)**: A reverse proxy that exposes services on your tailnet (as their own tailscale participants.
 - 🐹 **[test](https://tilt.dev/)**: Extensions for Tilt.
 - 🐹 **[client](https://richdestiny.app)**: A discord rich presence tool for destiny 2 (pc.
