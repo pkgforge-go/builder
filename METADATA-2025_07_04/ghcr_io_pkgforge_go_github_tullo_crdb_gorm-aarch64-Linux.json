@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "gorm",
+  "pkg_family": "crdb",
+  "pkg_id": "gorm#github.com_tullo_crdb",
+  "pkg_name": "gorm",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tullo/crdb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CRDB for local dev",
+  "homepage": [
+    "https://github.com/tullo/crdb"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "crdb",
+    "driver-pg",
+    "driver-pgx",
+    "gorm",
+    "upper"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/tullo/crdb/@v/v0.0.0-20250703112648-227e2cf73899.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250703112648-227e2cf73899",
+  "version_upstream": "",
+  "bsum": "5b50bf7d729bb8f84c44bbb2d6217073d651ab5e6dee2f55bc9388a7b401a86c",
+  "build_date": "2025-07-04T07:51:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16067962681",
+  "build_id": "16067962681",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tullo/crdb/gorm?tag=v0.0.0-20250703112648-227e2cf73899-aarch64-Linux&download=gorm.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tullo/crdb/gorm?tag=v0.0.0-20250703112648-227e2cf73899-aarch64-Linux&download=gorm",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tullo/crdb/gorm:v0.0.0-20250703112648-227e2cf73899-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tullo/crdb/gorm",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tullo/crdb/gorm?tag=v0.0.0-20250703112648-227e2cf73899-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "505c614e0a0f36e2ee7d5eaa73101c9fe7a756baf7561ecbe4639df4b8d6a4af",
+  "size": "11 MB",
+  "size_raw": "11100864",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250630174856-f50ff21d2b7b-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
