@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "clusterclaims",
+  "pkg_family": "clusterclaims-controller",
+  "pkg_id": "clusterclaims#github.com_open_cluster_management_clusterclaims_controller",
+  "pkg_name": "clusterclaims",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/open-cluster-management/clusterclaims-controller",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Will create ManagedCluster resources when a clusterClaim kind is detected",
+  "homepage": [
+    "https://github.com/open-cluster-management/clusterclaims-controller"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "clusterclaims",
+    "clusterpools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/open-cluster-management/clusterclaims-controller/@v/v0.0.0-20250619142710-fcfee3477c42.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250619142710-fcfee3477c42",
+  "version_upstream": "",
+  "bsum": "da102202adb6c2615e2f58df75440329229efec0b0fcd0542e30431683aa017c",
+  "build_date": "2025-07-04T04:47:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16065719781",
+  "build_id": "16065719781",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-cluster-management/clusterclaims-controller/clusterclaims?tag=v0.0.0-20250619142710-fcfee3477c42-loongarch64-Linux&download=clusterclaims.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-cluster-management/clusterclaims-controller/clusterclaims?tag=v0.0.0-20250619142710-fcfee3477c42-loongarch64-Linux&download=clusterclaims",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/open-cluster-management/clusterclaims-controller/clusterclaims:v0.0.0-20250619142710-fcfee3477c42-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/open-cluster-management/clusterclaims-controller/clusterclaims",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-cluster-management/clusterclaims-controller/clusterclaims?tag=v0.0.0-20250619142710-fcfee3477c42-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c5f1136e09c5ccf895430ad3f56d58cca6e8530526d2b81373b5dc60c0ab838a",
+  "size": "44 MB",
+  "size_raw": "45396928",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
