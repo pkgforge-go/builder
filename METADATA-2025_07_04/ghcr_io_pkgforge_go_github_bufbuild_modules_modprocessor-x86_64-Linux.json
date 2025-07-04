@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "modprocessor",
+  "pkg_family": "modules",
+  "pkg_id": "modprocessor#github.com_bufbuild_modules",
+  "pkg_name": "modprocessor",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bufbuild/modules",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Collection of third-party modules managed and synced by Buf",
+  "homepage": [
+    "https://github.com/bufbuild/modules"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "casdiff",
+    "modprocessor",
+    "release",
+    "releaseprocessor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/bufbuild/modules/@v/v0.0.0-20250703140851-b05b09bd8718.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250703140851-b05b09bd8718",
+  "version_upstream": "",
+  "bsum": "5e1e60099d13d2705156a89cc3029bbf83e1e96fd2e98b9cf5e61fa6f203130a",
+  "build_date": "2025-07-04T07:04:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16067760564",
+  "build_id": "16067760564",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bufbuild/modules/modprocessor?tag=v0.0.0-20250703140851-b05b09bd8718-x86_64-Linux&download=modprocessor.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "27",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bufbuild/modules/modprocessor?tag=v0.0.0-20250703140851-b05b09bd8718-x86_64-Linux&download=modprocessor",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bufbuild/modules/modprocessor:v0.0.0-20250703140851-b05b09bd8718-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bufbuild/modules/modprocessor",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bufbuild/modules/modprocessor?tag=v0.0.0-20250703140851-b05b09bd8718-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0cd17a576f20f354d24d6b4e787a2864a6297c50a70adab8cd120927e41a8442",
+  "size": "11 MB",
+  "size_raw": "10838328",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a314f06-250623T082357-x86_64-Linux",
+    "HEAD-1022a94-250624T091525-x86_64-Linux",
+    "HEAD-8e52688-250625T143212-x86_64-Linux[20250625.1]",
+    "HEAD-2504175-250626T085942-x86_64-Linux",
+    "HEAD-978f4bf-250627T175402-x86_64-Linux",
+    "v0.0.0-20250627215402-978f4bfb101c-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
