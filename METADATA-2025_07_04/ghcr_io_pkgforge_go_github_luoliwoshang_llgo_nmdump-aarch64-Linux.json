@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "nmdump",
+  "pkg_family": "llgo",
+  "pkg_id": "nmdump#github.com_luoliwoshang_llgo",
+  "pkg_name": "nmdump",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/luoliwoshang/llgo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Go compiler based on LLVM in order to better integrate Go with the C ecosystem including Python",
+  "homepage": [
+    "https://github.com/luoliwoshang/llgo"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ardump",
+    "clangpp",
+    "dylibdeps",
+    "nmdump",
+    "nmindex"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/luoliwoshang/llgo/@v/v0.12.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.12.3",
+  "version_upstream": "",
+  "bsum": "342cf5e0da42281aabe503e242dcd967c0604f55f90121d6c7fd62dc6afa6971",
+  "build_date": "2025-07-04T16:10:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16077217299",
+  "build_id": "16077217299",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/luoliwoshang/llgo/nmdump?tag=v0.12.3-aarch64-Linux&download=nmdump.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/luoliwoshang/llgo/nmdump?tag=v0.12.3-aarch64-Linux&download=nmdump",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/luoliwoshang/llgo/nmdump:v0.12.3-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/luoliwoshang/llgo/nmdump",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/luoliwoshang/llgo/nmdump?tag=v0.12.3-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e15643644600a668745d3029ea3c43eaeac11851b936bd2ce8a5030c1b9989d6",
+  "size": "1.9 MB",
+  "size_raw": "1991768",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

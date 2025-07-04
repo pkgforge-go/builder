@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "ardump",
+  "pkg_family": "llgo",
+  "pkg_id": "ardump#github.com_luoliwoshang_llgo",
+  "pkg_name": "ardump",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/luoliwoshang/llgo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Go compiler based on LLVM in order to better integrate Go with the C ecosystem including Python",
+  "homepage": [
+    "https://github.com/luoliwoshang/llgo"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ardump",
+    "clangpp",
+    "dylibdeps",
+    "nmdump",
+    "nmindex"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/luoliwoshang/llgo/@v/v0.12.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.12.3",
+  "version_upstream": "",
+  "bsum": "066ae960f0709bdf512a87d2049eb44810f6683eea0e895bea98c9b7d38d6cf8",
+  "build_date": "2025-07-04T16:10:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16077217299",
+  "build_id": "16077217299",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/luoliwoshang/llgo/ardump?tag=v0.12.3-aarch64-Linux&download=ardump.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/luoliwoshang/llgo/ardump?tag=v0.12.3-aarch64-Linux&download=ardump",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/luoliwoshang/llgo/ardump:v0.12.3-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/luoliwoshang/llgo/ardump",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/luoliwoshang/llgo/ardump?tag=v0.12.3-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "65ce4c2bca2f2221be029d3e3545b3b626a2419904922f3c2ef81bc16defb8a3",
+  "size": "1.7 MB",
+  "size_raw": "1761496",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
