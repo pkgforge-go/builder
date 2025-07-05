@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "harbor-container-webhook",
+  "pkg_family": "harbor-container-webhook",
+  "pkg_id": "harbor-container-webhook#github.com_indeedeng_harbor_container_webhook",
+  "pkg_name": "harbor-container-webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/indeedeng/harbor-container-webhook",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Mutating webhook which rewrites container images to use a Harbor proxy cache",
+  "homepage": [
+    "https://github.com/indeedeng/harbor-container-webhook"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "harbor-container-webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/indeedeng/harbor-container-webhook/@v/v0.3.2.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.3.2",
+  "version_upstream": "",
+  "bsum": "63f7175cfa7c2a78c928a369f07c766e7aeb813562d811607de135c8db06cfa5",
+  "build_date": "2025-07-05T04:31:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16084375265",
+  "build_id": "16084375265",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/indeedeng/harbor-container-webhook/harbor-container-webhook?tag=v0.3.2-x86_64-Linux&download=harbor-container-webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "91",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/indeedeng/harbor-container-webhook/harbor-container-webhook?tag=v0.3.2-x86_64-Linux&download=harbor-container-webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/indeedeng/harbor-container-webhook/harbor-container-webhook:v0.3.2-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/indeedeng/harbor-container-webhook/harbor-container-webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/indeedeng/harbor-container-webhook/harbor-container-webhook?tag=v0.3.2-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a51df507dc92ba2b7519fc6e64a6f16db229bf73037cbc1ce7a054d56794b37f",
+  "size": "34 MB",
+  "size_raw": "35342016",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
