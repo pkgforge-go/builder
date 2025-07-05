@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "manager",
+  "pkg_family": "valkey-operator",
+  "pkg_id": "manager#github.com_hyperspike_valkey_operator",
+  "pkg_name": "manager",
+  "pkg_type": "static",
+  "pkg_webpage": "https://docs.hyperspike.io/valkey-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Kubernetes Operator to deploy and manage Valkey Clusters",
+  "homepage": [
+    "https://docs.hyperspike.io/valkey-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "manager",
+    "sidecar"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/hyperspike/valkey-operator/@v/v0.0.58.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.58",
+  "version_upstream": "",
+  "bsum": "3b05fa02ae15815531ade7e8d9b0718072d6d29873a6959b65d08023a9de8cc2",
+  "build_date": "2025-07-05T04:31:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16084374899",
+  "build_id": "16084374899",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hyperspike/valkey-operator/manager?tag=v0.0.58-loongarch64-Linux&download=manager.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "167",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hyperspike/valkey-operator/manager?tag=v0.0.58-loongarch64-Linux&download=manager",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hyperspike/valkey-operator/manager:v0.0.58-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hyperspike/valkey-operator/manager",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hyperspike/valkey-operator/manager?tag=v0.0.58-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7c6cda6a317f69748887047773bc65ef5f2b58e3d725a8a410dd0af2166b8452",
+  "size": "52 MB",
+  "size_raw": "54089888",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
