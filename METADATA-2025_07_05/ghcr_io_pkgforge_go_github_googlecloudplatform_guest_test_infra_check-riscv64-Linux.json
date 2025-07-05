@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "check",
+  "pkg_family": "guest-test-infra",
+  "pkg_id": "check#github.com_googlecloudplatform_guest_test_infra",
+  "pkg_name": "check",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/googlecloudplatform/guest-test-infra",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Compute Engine Guest OS - Test infrastructure",
+  "homepage": [
+    "https://github.com/googlecloudplatform/guest-test-infra"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check",
+    "in",
+    "publish-coverage",
+    "publish-job-result",
+    "publish-time-since"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/googlecloudplatform/guest-test-infra/@v/v0.0.0-20250702225319-225d65018773.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250702225319-225d65018773",
+  "version_upstream": "",
+  "bsum": "b2d2869b31ba759a0c74c3e75e8644c2052819c2c22b072bb2e8fff93298833f",
+  "build_date": "2025-07-05T04:29:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16084372343",
+  "build_id": "16084372343",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/guest-test-infra/check?tag=v0.0.0-20250702225319-225d65018773-riscv64-Linux&download=check.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "40",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/guest-test-infra/check?tag=v0.0.0-20250702225319-225d65018773-riscv64-Linux&download=check",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googlecloudplatform/guest-test-infra/check:v0.0.0-20250702225319-225d65018773-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googlecloudplatform/guest-test-infra/check",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/guest-test-infra/check?tag=v0.0.0-20250702225319-225d65018773-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "085341c2cbc8598c7c7a00c93e3a30ea9981405349043d010f21be3da09cb8b1",
+  "size": "13 MB",
+  "size_raw": "12698680",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
