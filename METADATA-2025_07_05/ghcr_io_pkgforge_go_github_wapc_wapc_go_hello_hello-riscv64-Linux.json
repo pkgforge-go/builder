@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "hello",
+  "pkg_family": "hello",
+  "pkg_id": "hello#github.com_wapc_wapc_go_hello",
+  "pkg_name": "hello",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/wapc/wapc-go/hello",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Golang-based WebAssembly Host Runtime for waPC-compliant modules",
+  "homepage": [
+    "https://github.com/wapc/wapc-go/hello"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hello"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/ben-auo/hello/@v/v1.0.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250220020831-a72aedbbe70d",
+  "version_upstream": "",
+  "bsum": "06ad258b7997ee0961dc568a693a314ad688d1f0ef373d089ef8f13b49c34826",
+  "build_date": "2025-07-05T04:19:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16084354473",
+  "build_id": "16084354473",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wapc/wapc-go/hello/hello?tag=v0.0.0-20250220020831-a72aedbbe70d-riscv64-Linux&download=hello.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "101",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wapc/wapc-go/hello/hello?tag=v0.0.0-20250220020831-a72aedbbe70d-riscv64-Linux&download=hello",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/wapc/wapc-go/hello/hello:v0.0.0-20250220020831-a72aedbbe70d-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/wapc/wapc-go/hello/hello",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wapc/wapc-go/hello/hello?tag=v0.0.0-20250220020831-a72aedbbe70d-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7bf07ba810328c44ce3f575470664afade9e9a9e880cb2149aab40222dc03c7f",
+  "size": "1.5 MB",
+  "size_raw": "1570344",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250220020831-a72aedbbe70d-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
