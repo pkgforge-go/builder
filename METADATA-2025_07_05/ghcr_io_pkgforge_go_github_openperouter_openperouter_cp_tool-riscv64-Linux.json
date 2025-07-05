@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cp-tool",
+  "pkg_family": "openperouter",
+  "pkg_id": "cp-tool#github.com_openperouter_openperouter",
+  "pkg_name": "cp-tool",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openperouter/openperouter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenPERouter (Provider Edge Router) meant to run on linux and to interact with the host through veths",
+  "homepage": [
+    "https://github.com/openperouter/openperouter"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "assign_ips",
+    "cp-tool",
+    "generate_kind_config",
+    "generate_leaf_config",
+    "hostcontroller",
+    "nodemarker",
+    "operator",
+    "reloader"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/openperouter/openperouter/@v/v0.0.0-20250704134729-723209f725bb.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250704134729-723209f725bb",
+  "version_upstream": "",
+  "bsum": "98ebebabb02557ebdbdb5dda1afd7cc25aa249ee3f1a1c769bf64b58f2ac3c01",
+  "build_date": "2025-07-05T16:20:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16089679563",
+  "build_id": "16089679563",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openperouter/openperouter/cp-tool?tag=v0.0.0-20250704134729-723209f725bb-riscv64-Linux&download=cp-tool.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openperouter/openperouter/cp-tool?tag=v0.0.0-20250704134729-723209f725bb-riscv64-Linux&download=cp-tool",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openperouter/openperouter/cp-tool:v0.0.0-20250704134729-723209f725bb-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openperouter/openperouter/cp-tool",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openperouter/openperouter/cp-tool?tag=v0.0.0-20250704134729-723209f725bb-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ab0daed1e975609fb40f84a86efca2c75b68c0968ccb9f932378c885c4065507",
+  "size": "1.7 MB",
+  "size_raw": "1756456",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250703170524-347ee45a75f7-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
