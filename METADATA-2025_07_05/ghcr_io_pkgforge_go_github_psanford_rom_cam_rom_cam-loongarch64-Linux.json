@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "rom-cam",
+  "pkg_family": "rom-cam",
+  "pkg_id": "rom-cam#github.com_psanford_rom_cam",
+  "pkg_name": "rom-cam",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/psanford/rom-cam",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Record on motion raspberry pi security camera in Go",
+  "homepage": [
+    "https://github.com/psanford/rom-cam"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "rom-cam",
+    "rom-cam-cli"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/psanford/rom-cam/@v/v0.0.0-20250617154125-2546a98ec7c3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250617154125-2546a98ec7c3",
+  "version_upstream": "",
+  "bsum": "8dfad82731c7216548287bc42c5b8f4d047d1d4ce315725c384ab0ded5928073",
+  "build_date": "2025-07-05T04:49:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16084421487",
+  "build_id": "16084421487",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/psanford/rom-cam/rom-cam?tag=v0.0.0-20250617154125-2546a98ec7c3-loongarch64-Linux&download=rom-cam.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/psanford/rom-cam/rom-cam?tag=v0.0.0-20250617154125-2546a98ec7c3-loongarch64-Linux&download=rom-cam",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/psanford/rom-cam/rom-cam:v0.0.0-20250617154125-2546a98ec7c3-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/psanford/rom-cam/rom-cam",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/psanford/rom-cam/rom-cam?tag=v0.0.0-20250617154125-2546a98ec7c3-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3798f331a812cf7c4e9ea0c0724f7d192a1b47ac57cd0eff1d5fd825dcdb0b01",
+  "size": "11 MB",
+  "size_raw": "10777920",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
