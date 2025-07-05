@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "builtin",
+  "pkg_family": "cf-buildpack-go",
+  "pkg_id": "builtin#github.com_cloudfoundry_incubator_cf_buildpack_go",
+  "pkg_name": "builtin",
+  "pkg_type": "static",
+  "pkg_webpage": "http://docs.cloudfoundry.org/buildpacks/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cloud Foundry buildpack for the Go Language",
+  "homepage": [
+    "http://docs.cloudfoundry.org/buildpacks/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "app",
+    "brats",
+    "builtin",
+    "conda",
+    "dotnet",
+    "go_version",
+    "godir",
+    "ldflags",
+    "nltk",
+    "no_gopackagename",
+    "no_procfile",
+    "nodejs",
+    "python",
+    "ruby",
+    "simple",
+    "single_file",
+    "symlink_dir",
+    "toolchain",
+    "wildcard_go_version"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cloudfoundry-incubator/cf-buildpack-go/@v/v1.10.38.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.10.38",
+  "version_upstream": "",
+  "bsum": "5b1ea1ca3d11d9568270d34910c91c05c78c3ad7fd472e2f5989ad1202dc44c7",
+  "build_date": "2025-07-05T04:26:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16084356270",
+  "build_id": "16084356270",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry-incubator/cf-buildpack-go/builtin?tag=v1.10.38-aarch64-Linux&download=builtin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "82",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry-incubator/cf-buildpack-go/builtin?tag=v1.10.38-aarch64-Linux&download=builtin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry-incubator/cf-buildpack-go/builtin:v1.10.38-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry-incubator/cf-buildpack-go/builtin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry-incubator/cf-buildpack-go/builtin?tag=v1.10.38-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9274fe61b6e467910fe57a8855dd0d4410a46e9ab3d275de2ba4f56bdcd25630",
+  "size": "5.5 MB",
+  "size_raw": "5705984",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
