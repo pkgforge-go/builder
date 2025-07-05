@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "sqli",
+  "pkg_family": "taint",
+  "pkg_id": "sqli#github.com_picatz_taint",
+  "pkg_name": "sqli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://picatz.github.io/#blog/taint",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Static taint analysis for Go programs",
+  "homepage": [
+    "https://picatz.github.io/#blog/taint"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "example",
+    "logi",
+    "sqli",
+    "ssadump",
+    "taint",
+    "xss"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/picatz/taint/@v/v0.0.0-20250704145703-bdda21515b34.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250704145703-bdda21515b34",
+  "version_upstream": "",
+  "bsum": "a9989f9ce04339eb561a3b3f0e6e3552717dcb83a25c90f963242ce0f137f84e",
+  "build_date": "2025-07-05T04:46:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16084421082",
+  "build_id": "16084421082",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/picatz/taint/sqli?tag=v0.0.0-20250704145703-bdda21515b34-aarch64-Linux&download=sqli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "69",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/picatz/taint/sqli?tag=v0.0.0-20250704145703-bdda21515b34-aarch64-Linux&download=sqli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/picatz/taint/sqli:v0.0.0-20250704145703-bdda21515b34-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/picatz/taint/sqli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/picatz/taint/sqli?tag=v0.0.0-20250704145703-bdda21515b34-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d095741067765c659bf33cdafb408b108120a3fae7f535a62efacdf0ab90198e",
+  "size": "7.2 MB",
+  "size_raw": "7511008",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
