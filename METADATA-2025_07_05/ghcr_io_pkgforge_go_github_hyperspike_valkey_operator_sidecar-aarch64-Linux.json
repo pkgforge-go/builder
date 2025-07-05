@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "sidecar",
+  "pkg_family": "valkey-operator",
+  "pkg_id": "sidecar#github.com_hyperspike_valkey_operator",
+  "pkg_name": "sidecar",
+  "pkg_type": "static",
+  "pkg_webpage": "https://docs.hyperspike.io/valkey-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Kubernetes Operator to deploy and manage Valkey Clusters",
+  "homepage": [
+    "https://docs.hyperspike.io/valkey-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "manager",
+    "sidecar"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/hyperspike/valkey-operator/@v/v0.0.58.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.58",
+  "version_upstream": "",
+  "bsum": "440fd9e76fadba138078fc602383345223dc2c3b4ce9f454f4c4ca7d89c3e61d",
+  "build_date": "2025-07-05T04:31:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16084374899",
+  "build_id": "16084374899",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hyperspike/valkey-operator/sidecar?tag=v0.0.58-aarch64-Linux&download=sidecar.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "167",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hyperspike/valkey-operator/sidecar?tag=v0.0.58-aarch64-Linux&download=sidecar",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hyperspike/valkey-operator/sidecar:v0.0.58-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hyperspike/valkey-operator/sidecar",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hyperspike/valkey-operator/sidecar?tag=v0.0.58-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "be9ceb4658a68f03f8d40cd13ee02334a532b4a17f82df5212ff08d3b82d3b9c",
+  "size": "11 MB",
+  "size_raw": "10678912",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
