@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "client",
+  "pkg_family": "loki-mcp",
+  "pkg_id": "client#github.com_scottlepp_loki_mcp",
+  "pkg_name": "client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/grafana/loki",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An MCP ( Model Context Protocol ) Server for Grafana Loki",
+  "homepage": [
+    "https://github.com/grafana/loki"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/scottlepp/loki-mcp/@v/v0.1.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.1.0",
+  "version_upstream": "",
+  "bsum": "97fe285658cea3859c3cf5315a31d4f5f60db945e8807fab875804bbd5a3afd3",
+  "build_date": "2025-07-05T04:50:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16084423720",
+  "build_id": "16084423720",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/scottlepp/loki-mcp/client?tag=v0.1.0-loongarch64-Linux&download=client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/scottlepp/loki-mcp/client?tag=v0.1.0-loongarch64-Linux&download=client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/scottlepp/loki-mcp/client:v0.1.0-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/scottlepp/loki-mcp/client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/scottlepp/loki-mcp/client?tag=v0.1.0-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e6faebbb85522b7b9c020466402bec6ec94e36ee8766951c92583a55dfe16ff9",
+  "size": "2.3 MB",
+  "size_raw": "2386424",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
