@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "dhcp",
+  "pkg_family": "dhcp",
+  "pkg_id": "dhcp#github.com_kubernetes_kops_tools_metal_dhcp",
+  "pkg_name": "dhcp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://kops.sigs.k8s.io/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management",
+  "homepage": [
+    "https://kops.sigs.k8s.io/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dhcp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/kubernetes/kops/tools/metal/dhcp/@v/v0.0.0-20250704192125-aeaed55a30d5.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250704192125-aeaed55a30d5",
+  "version_upstream": "",
+  "bsum": "0c003ebc21888717e251f68c6c2b6d6160953a4d21e776e5d176da661fc30f98",
+  "build_date": "2025-07-05T16:08:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16089666116",
+  "build_id": "16089666116",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/kops/tools/metal/dhcp/dhcp?tag=v0.0.0-20250704192125-aeaed55a30d5-loongarch64-Linux&download=dhcp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16255",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/kops/tools/metal/dhcp/dhcp?tag=v0.0.0-20250704192125-aeaed55a30d5-loongarch64-Linux&download=dhcp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/kops/tools/metal/dhcp/dhcp:v0.0.0-20250704192125-aeaed55a30d5-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/kops/tools/metal/dhcp/dhcp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/kops/tools/metal/dhcp/dhcp?tag=v0.0.0-20250704192125-aeaed55a30d5-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "08bc38b49b760770560db3b7a4c9a88015605b36a330508017d0c17dac39a224",
+  "size": "2.3 MB",
+  "size_raw": "2344312",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250629174629-6d1ba3dfbc3e-loongarch64-Linux",
+    "v0.0.0-20250630164032-2f3a7b63895a-loongarch64-Linux",
+    "v0.0.0-20250703153527-8502cca41e80-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
