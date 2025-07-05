@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "generate_leaf_config",
+  "pkg_family": "openperouter",
+  "pkg_id": "generate_leaf_config#github.com_openperouter_openperouter",
+  "pkg_name": "generate_leaf_config",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openperouter/openperouter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenPERouter (Provider Edge Router) meant to run on linux and to interact with the host through veths",
+  "homepage": [
+    "https://github.com/openperouter/openperouter"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "assign_ips",
+    "cp-tool",
+    "generate_kind_config",
+    "generate_leaf_config",
+    "hostcontroller",
+    "nodemarker",
+    "operator",
+    "reloader"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/openperouter/openperouter/@v/v0.0.0-20250704134729-723209f725bb.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250704134729-723209f725bb",
+  "version_upstream": "",
+  "bsum": "b57da10df58c1d79c354aceb7ca0402f5f8a100c3adf601a701b8397271e3993",
+  "build_date": "2025-07-05T16:19:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16089679563",
+  "build_id": "16089679563",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openperouter/openperouter/generate_leaf_config?tag=v0.0.0-20250704134729-723209f725bb-loongarch64-Linux&download=generate_leaf_config.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openperouter/openperouter/generate_leaf_config?tag=v0.0.0-20250704134729-723209f725bb-loongarch64-Linux&download=generate_leaf_config",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openperouter/openperouter/generate_leaf_config:v0.0.0-20250704134729-723209f725bb-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openperouter/openperouter/generate_leaf_config",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openperouter/openperouter/generate_leaf_config?tag=v0.0.0-20250704134729-723209f725bb-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5538c820513f12fa23db1f39854e9df7171ad4f70a09b4ceb7cfc2aa8d406489",
+  "size": "3.7 MB",
+  "size_raw": "3841112",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250703170524-347ee45a75f7-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
