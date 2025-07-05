@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "lobby",
+  "pkg_family": "chachacha",
+  "pkg_id": "lobby#github.com_alesr_chachacha",
+  "pkg_name": "lobby",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/alesr/chachacha",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A matchmaking service for multiplayer games in Go",
+  "homepage": [
+    "https://github.com/alesr/chachacha"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "lobby",
+    "manual",
+    "matcher"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/alesr/chachacha/@v/v0.0.0-20250604112014-2f0802bf7629.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250604112014-2f0802bf7629",
+  "version_upstream": "",
+  "bsum": "7220a310449fa90f44f4f929b813409bb9c68680ea6eb1866d647179f121935f",
+  "build_date": "2025-07-05T04:06:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16084353117",
+  "build_id": "16084353117",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/alesr/chachacha/lobby?tag=v0.0.0-20250604112014-2f0802bf7629-loongarch64-Linux&download=lobby.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/alesr/chachacha/lobby?tag=v0.0.0-20250604112014-2f0802bf7629-loongarch64-Linux&download=lobby",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/alesr/chachacha/lobby:v0.0.0-20250604112014-2f0802bf7629-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/alesr/chachacha/lobby",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/alesr/chachacha/lobby?tag=v0.0.0-20250604112014-2f0802bf7629-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "28bd2d9091a5e69c76e0a27cef37aa87e2af59a501f8e2f9fd33d5a75fc7b73c",
+  "size": "5.9 MB",
+  "size_raw": "6165408",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
