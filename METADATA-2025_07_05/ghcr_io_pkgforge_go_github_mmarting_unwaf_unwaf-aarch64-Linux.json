@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "unwaf",
+  "pkg_family": "unwaf",
+  "pkg_id": "unwaf#github.com_mmarting_unwaf",
+  "pkg_name": "unwaf",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mmarting/unwaf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Unwaf is a Go tool designed to help identify WAF bypasses using passive techniques, such as: SPF records and DNS history. By default, Unwaf will check SPF records",
+  "homepage": [
+    "https://github.com/mmarting/unwaf"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "unwaf"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/mmarting/unwaf/@v/v0.0.0-20250704061516-06f19a49d048.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250704061516-06f19a49d048",
+  "version_upstream": "",
+  "bsum": "8067c77e14305a2acecf5982f68308c9b93a6e5bb756c13dc86cace4d217f48a",
+  "build_date": "2025-07-05T04:39:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16084408973",
+  "build_id": "16084408973",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mmarting/unwaf/unwaf?tag=v0.0.0-20250704061516-06f19a49d048-aarch64-Linux&download=unwaf.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "91",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mmarting/unwaf/unwaf?tag=v0.0.0-20250704061516-06f19a49d048-aarch64-Linux&download=unwaf",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mmarting/unwaf/unwaf:v0.0.0-20250704061516-06f19a49d048-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mmarting/unwaf/unwaf",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mmarting/unwaf/unwaf?tag=v0.0.0-20250704061516-06f19a49d048-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5879e016454c601e35064586259d632517cab56901c18ecd780e24673420ad36",
+  "size": "7.2 MB",
+  "size_raw": "7474592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
