@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "prune-images",
+  "pkg_family": "prune-images",
+  "pkg_id": "prune-images#github.com_clever_prune_images",
+  "pkg_name": "prune-images",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/clever/prune-images",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A worker that prunes old images from ECR and Docker Hub",
+  "homepage": [
+    "https://github.com/clever/prune-images"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "prune-images"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/clever/prune-images/@v/v0.0.0-20250609201841-4317e3d0fa0b.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250609201841-4317e3d0fa0b",
+  "version_upstream": "",
+  "bsum": "9f058344ff2e42b251301c773bea28ab8a4720745ce977a812b3f8bfe94e65ec",
+  "build_date": "2025-07-06T04:30:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16095148240",
+  "build_id": "16095148240",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clever/prune-images/prune-images?tag=v0.0.0-20250609201841-4317e3d0fa0b-aarch64-Linux&download=prune-images.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clever/prune-images/prune-images?tag=v0.0.0-20250609201841-4317e3d0fa0b-aarch64-Linux&download=prune-images",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/clever/prune-images/prune-images:v0.0.0-20250609201841-4317e3d0fa0b-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/clever/prune-images/prune-images",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clever/prune-images/prune-images?tag=v0.0.0-20250609201841-4317e3d0fa0b-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d1d39c62af1f7e0cf9f9e50871eb1f908b3da617735adff30e85925514ecdcbc",
+  "size": "8.2 MB",
+  "size_raw": "8596672",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
