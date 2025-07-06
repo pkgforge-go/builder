@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "sshc",
+  "pkg_family": "sshc",
+  "pkg_id": "sshc#github.com_azysir_sshc",
+  "pkg_name": "sshc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/azysir/sshc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Repository just to print out a more readable SSH Config. Good for when using lots of jump boxes over multiple environments & clients",
+  "homepage": [
+    "https://github.com/azysir/sshc"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sshc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/azysir/sshc/@v/v0.0.0-20250622000051-0260c6257b92.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250622000051-0260c6257b92",
+  "version_upstream": "",
+  "bsum": "27373ebe47b62b7bf987b3228830a39cfec731d7c7ed73cab06f7ba302fb49cf",
+  "build_date": "2025-07-06T04:13:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16095142839",
+  "build_id": "16095142839",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azysir/sshc/sshc?tag=v0.0.0-20250622000051-0260c6257b92-riscv64-Linux&download=sshc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azysir/sshc/sshc?tag=v0.0.0-20250622000051-0260c6257b92-riscv64-Linux&download=sshc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/azysir/sshc/sshc:v0.0.0-20250622000051-0260c6257b92-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/azysir/sshc/sshc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/azysir/sshc/sshc?tag=v0.0.0-20250622000051-0260c6257b92-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0c27df10c58825afe14b1cdeeebc27e0d0f876ba12bef705b4fe66fb8ceba758",
+  "size": "4.8 MB",
+  "size_raw": "4967608",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
