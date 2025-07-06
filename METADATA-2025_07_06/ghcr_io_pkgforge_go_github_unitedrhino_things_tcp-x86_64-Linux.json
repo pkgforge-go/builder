@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "tcp",
+  "pkg_family": "things",
+  "pkg_id": "tcp#github.com_unitedrhino_things",
+  "pkg_name": "tcp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://doc.unitedrhino.com/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "联犀是基于golang,gozero框架构建的SaaS云原生微服务物联网平台(iot)，支持MQTT、CoAP、HTTP、TCP、阿里云、腾讯云、涂鸦云,物美等云云对接及设备协议，实现海量多样设备连接。支持多租户、多应用和项目管理，内置小程序功能,适应多样化业务场景.支持单体、集群和微服务部署，适应不同企业规模和需求。支持mysql和pgsql，满足数据存储需求,适用于智能家居、智慧楼宇",
+  "homepage": [
+    "https://doc.unitedrhino.com/"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apisvr",
+    "asynq",
+    "dgsvr",
+    "dmsvr",
+    "jsont",
+    "pressuretest",
+    "protocolsync",
+    "tcp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/unitedrhino/things/@v/v1.4.54.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.4.54",
+  "version_upstream": "",
+  "bsum": "ea48c4e690f53e836a36e291050205b97cc26aca308cc02fea3cfbc35daec484",
+  "build_date": "2025-07-06T05:14:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16095213023",
+  "build_id": "16095213023",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/unitedrhino/things/tcp?tag=v1.4.54-x86_64-Linux&download=tcp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "532",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/unitedrhino/things/tcp?tag=v1.4.54-x86_64-Linux&download=tcp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/unitedrhino/things/tcp:v1.4.54-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/unitedrhino/things/tcp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/unitedrhino/things/tcp?tag=v1.4.54-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "03d3f9d126e0012c800b1f08e83ce3f33707bda81b39c6147184a9943c6b8735",
+  "size": "2.3 MB",
+  "size_raw": "2352056",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
