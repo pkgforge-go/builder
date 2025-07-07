@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "playready",
+  "pkg_family": "playready",
+  "pkg_id": "playready#github.com_3052_playready",
+  "pkg_name": "playready",
+  "pkg_type": "static",
+  "pkg_webpage": "https://41.neocities.org/playReady",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "PlayReady implementation",
+  "homepage": [
+    "https://41.neocities.org/playReady"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "2025-05",
+    "2025-07-02",
+    "cbc",
+    "ecb",
+    "playready"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/3052/playready/@v/v1.1.2.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.1.2",
+  "version_upstream": "",
+  "bsum": "c3e0f0f9e74bafd220b7b9d39fd3be72d1bb1b5b9e54228499bddd5c3b3e080d",
+  "build_date": "2025-07-07T15:39:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16121422840",
+  "build_id": "16121422840",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/3052/playready/playready?tag=v1.1.2-loongarch64-Linux&download=playready.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "30",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/3052/playready/playready?tag=v1.1.2-loongarch64-Linux&download=playready",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/3052/playready/playready:v1.1.2-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/3052/playready/playready",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/3052/playready/playready?tag=v1.1.2-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "762de16b8cd827e86f302ef548685c92870b993abef086cd7aa2954103502d20",
+  "size": "1.9 MB",
+  "size_raw": "1947936",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
