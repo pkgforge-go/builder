@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "privhunterai",
+  "pkg_family": "privhunterai",
+  "pkg_id": "privhunterai#github.com_ed1s0nz_privhunterai",
+  "pkg_name": "privhunterai",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ed1s0nz/privhunterai",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "一款通过被动代理方式，利用主流 AI（如 Kimi、DeepSeek、GPT 等）检测越权漏洞的工具。其核心检测功能依托相关 AI 引擎的开放 API 构建，支持 HTTPS 协议的数据传输与交互",
+  "homepage": [
+    "https://github.com/ed1s0nz/privhunterai"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "privhunterai"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/ed1s0nz/privhunterai/@v/v1.0.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.1",
+  "version_upstream": "",
+  "bsum": "3311804492888f8d048c14d78e000fd606fb279ab5467189f11a5375448326ae",
+  "build_date": "2025-07-07T15:43:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16121427253",
+  "build_id": "16121427253",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ed1s0nz/privhunterai/privhunterai?tag=v1.0.1-riscv64-Linux&download=privhunterai.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "314",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ed1s0nz/privhunterai/privhunterai?tag=v1.0.1-riscv64-Linux&download=privhunterai",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ed1s0nz/privhunterai/privhunterai:v1.0.1-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ed1s0nz/privhunterai/privhunterai",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ed1s0nz/privhunterai/privhunterai?tag=v1.0.1-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "aa6713869e9571f48d97831d4f9ae673f02152b88c4665bc9d14f78478386948",
+  "size": "14 MB",
+  "size_raw": "14204856",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-2c842cb-250607T122653-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
