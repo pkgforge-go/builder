@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "unigode",
+  "pkg_family": "unigode",
+  "pkg_id": "unigode#github.com_yasha_ops_unigode",
+  "pkg_name": "unigode",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/yasha-ops/unigode",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Unicode payload obfuscator designed to exploit Windows' best-fit character mapping. It replaces ASCII characters with visually similar Unicode homoglyphs that are silently converted back on vulnerable systems — especially on Windows — making your payloads stealthy and WAF-resistant",
+  "homepage": [
+    "https://github.com/yasha-ops/unigode"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "unigode"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/yasha-ops/unigode/@v/v0.1.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.1.3",
+  "version_upstream": "",
+  "bsum": "63e2008cf6ae6966e8185d30b242b0fcb523439ea1e3c9d10ce8bcfcde3b187a",
+  "build_date": "2025-07-07T04:50:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16107512840",
+  "build_id": "16107512840",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yasha-ops/unigode/unigode?tag=v0.1.3-riscv64-Linux&download=unigode.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yasha-ops/unigode/unigode?tag=v0.1.3-riscv64-Linux&download=unigode",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/yasha-ops/unigode/unigode:v0.1.3-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/yasha-ops/unigode/unigode",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yasha-ops/unigode/unigode?tag=v0.1.3-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "13b094f22d2556fb6a3b02fafdf71c441cddd8cfa647826ee8b3a0e9d88b3d15",
+  "size": "1.7 MB",
+  "size_raw": "1718344",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
