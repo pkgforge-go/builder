@@ -204,6 +204,7 @@
 - 🐹 **[tools](https://www.talos.dev)**: Talos Linux is a modern Linux distribution built for Kubernetes.
 - 🐹 **[go](https://beam.apache.org/)**: Apache Beam is a unified programming model for Batch and Streaming data processing.
 - 🐹 **[foo](https://ko.build)**: Build and deploy Go applications.
+- 🐹 **[res-downloader](https://github.com/putyy/res-downloader)**: 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载.
 - 🐹 **[javareach](https://google.github.io/osv-scanner/)**: Vulnerability scanner written in Go which uses the data provided by https://osv.
 - 🐹 **[scripts](https://chain.link)**: Node of the decentralized oracle network, bridging on and off-chain computation.
 - 🐹 **[tests](https://chain.link)**: Node of the decentralized oracle network, bridging on and off-chain computation.
@@ -495,6 +496,7 @@
 - 🐹 **[task_group](https://github.com/alitto/pond/examples/task_group)**: Minimalistic and High-performance goroutine worker pool written in Go.
 - 🐹 **[examples](https://github.com/gotd/td/examples)**: Telegram client, in Go.
 - 🐹 **[nodeinit](https://octelium.com/docs)**: A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP & A2A architectures or even as an ngrok-alternative and a homelab infrastructure.
+- 🐹 **[portal](https://octelium.com/docs)**: A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP & A2A architectures or even as an ngrok-alternative and a homelab infrastructure.
 - 🐹 **[registry](https://github.com/modelcontextprotocol/registry)**: A community driven registry service for Model Context Protocol (MCP) servers.
 - 🐹 **[sitev2](https://kpt.dev)**: Automate Kubernetes Configuration Editing.
 - 🐹 **[sitev2](https://kpt.dev)**: Automate Kubernetes Configuration Editing.
