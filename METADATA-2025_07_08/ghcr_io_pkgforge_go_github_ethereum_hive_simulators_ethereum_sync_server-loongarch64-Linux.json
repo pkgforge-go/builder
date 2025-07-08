@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "sync",
+  "pkg_id": "server#github.com_ethereum_hive_simulators_ethereum_sync",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ethereum/hive",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Ethereum end-to-end test harness",
+  "homepage": [
+    "https://github.com/ethereum/hive"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/katexochen/sync/@v/v0.0.0-20250707120738-685c5b1d507d.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250702143403-5894bba2403d",
+  "version_upstream": "",
+  "bsum": "454d680663cfb8859c9f6b000e9dad463c4f227fcead10c33b644acd54195016",
+  "build_date": "2025-07-08T04:43:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16133661852",
+  "build_id": "16133661852",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ethereum/hive/simulators/ethereum/sync/server?tag=v0.0.0-20250702143403-5894bba2403d-loongarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "461",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ethereum/hive/simulators/ethereum/sync/server?tag=v0.0.0-20250702143403-5894bba2403d-loongarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ethereum/hive/simulators/ethereum/sync/server:v0.0.0-20250702143403-5894bba2403d-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ethereum/hive/simulators/ethereum/sync/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ethereum/hive/simulators/ethereum/sync/server?tag=v0.0.0-20250702143403-5894bba2403d-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "17fb432682e61ee3ba2647e35b78279c27e9bbdb7f39f4ab71a32d48a6c54cf0",
+  "size": "6.0 MB",
+  "size_raw": "6194112",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
