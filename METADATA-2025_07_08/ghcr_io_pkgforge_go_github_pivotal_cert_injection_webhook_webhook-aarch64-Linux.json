@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "webhook",
+  "pkg_family": "cert-injection-webhook",
+  "pkg_id": "webhook#github.com_pivotal_cert_injection_webhook",
+  "pkg_name": "webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pivotal/cert-injection-webhook",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Provides a Kubernetes webhook to inject CA certificates and proxy environment variables into pods",
+  "homepage": [
+    "https://github.com/pivotal/cert-injection-webhook"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "setup-ca-certs",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/pivotal/cert-injection-webhook/@v/v0.6.4.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.6.4",
+  "version_upstream": "",
+  "bsum": "bf47004bae6b7353e3680cd5135bd9fcee113f1c6fe53d46c23ed08a3bec0c98",
+  "build_date": "2025-07-08T04:58:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16133837274",
+  "build_id": "16133837274",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pivotal/cert-injection-webhook/webhook?tag=v0.6.4-aarch64-Linux&download=webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "44",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pivotal/cert-injection-webhook/webhook?tag=v0.6.4-aarch64-Linux&download=webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pivotal/cert-injection-webhook/webhook:v0.6.4-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pivotal/cert-injection-webhook/webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pivotal/cert-injection-webhook/webhook?tag=v0.6.4-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9c3f8167237a5df563a7b4d11fac207a2e57854a096c63b593d98e96058e9d4d",
+  "size": "56 MB",
+  "size_raw": "58147232",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
