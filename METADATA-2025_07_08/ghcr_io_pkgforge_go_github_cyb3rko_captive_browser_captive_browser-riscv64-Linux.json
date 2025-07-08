@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "captive-browser",
+  "pkg_family": "captive-browser",
+  "pkg_id": "captive-browser#github.com_cyb3rko_captive_browser",
+  "pkg_name": "captive-browser",
+  "pkg_type": "static",
+  "pkg_webpage": "https://blog.filippo.io/captive-browser",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A dedicated browser instance (Firefox, Chrome, etc.) to log into captive portals without messing with DNS settings",
+  "homepage": [
+    "https://blog.filippo.io/captive-browser"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "captive-browser",
+    "systemd-networkd-dns"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cyb3rko/captive-browser/@v/v0.0.0-20250707175118-ee437777e4d5.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250707175118-ee437777e4d5",
+  "version_upstream": "",
+  "bsum": "6f841a5f339178a3c8106cb722e0fe690977bd67b1efa5c09597c9c21f960242",
+  "build_date": "2025-07-08T04:14:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16133591704",
+  "build_id": "16133591704",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cyb3rko/captive-browser/captive-browser?tag=v0.0.0-20250707175118-ee437777e4d5-riscv64-Linux&download=captive-browser.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cyb3rko/captive-browser/captive-browser?tag=v0.0.0-20250707175118-ee437777e4d5-riscv64-Linux&download=captive-browser",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cyb3rko/captive-browser/captive-browser:v0.0.0-20250707175118-ee437777e4d5-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cyb3rko/captive-browser/captive-browser",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cyb3rko/captive-browser/captive-browser?tag=v0.0.0-20250707175118-ee437777e4d5-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2f12d8aa8bc8a3d7034b6675d61ada2904a6e3773d11b712f8758f1579a5b190",
+  "size": "3.1 MB",
+  "size_raw": "3240136",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
