@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "globalaccounts",
+  "pkg_family": "kyma-environment-broker",
+  "pkg_id": "globalaccounts#github.com_kyma_project_kyma_environment_broker",
+  "pkg_name": "globalaccounts",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kyma-project/kyma-environment-broker",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kyma Environment Broker",
+  "homepage": [
+    "https://github.com/kyma-project/kyma-environment-broker"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "accountcleanup",
+    "archiver",
+    "broker",
+    "deprovisionretrigger",
+    "edp-registrator",
+    "environmentscleanup",
+    "expirator",
+    "globalaccounts",
+    "parser",
+    "runtimereconciler",
+    "schemamigrator",
+    "servicebindingcleanup",
+    "subaccountsync",
+    "trialcleanup"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/kyma-project/kyma-environment-broker/@v/v0.0.0-20250707133404-88761fe145a0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250707133404-88761fe145a0",
+  "version_upstream": "",
+  "bsum": "ea156c9d2664ad48e0c399b1d171baa32981788f2b5538f08ed9741e4f36de23",
+  "build_date": "2025-07-08T16:05:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16147785171",
+  "build_id": "16147785171",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyma-project/kyma-environment-broker/globalaccounts?tag=v0.0.0-20250707133404-88761fe145a0-riscv64-Linux&download=globalaccounts.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyma-project/kyma-environment-broker/globalaccounts?tag=v0.0.0-20250707133404-88761fe145a0-riscv64-Linux&download=globalaccounts",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kyma-project/kyma-environment-broker/globalaccounts:v0.0.0-20250707133404-88761fe145a0-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kyma-project/kyma-environment-broker/globalaccounts",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyma-project/kyma-environment-broker/globalaccounts?tag=v0.0.0-20250707133404-88761fe145a0-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "18dac51b417ef674d4869039dfd6ec461b38dbb517394e6a5e1cd92cc9920e88",
+  "size": "41 MB",
+  "size_raw": "42307896",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

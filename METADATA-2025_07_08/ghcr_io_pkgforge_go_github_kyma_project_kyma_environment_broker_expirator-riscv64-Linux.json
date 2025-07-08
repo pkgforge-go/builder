@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "expirator",
+  "pkg_family": "kyma-environment-broker",
+  "pkg_id": "expirator#github.com_kyma_project_kyma_environment_broker",
+  "pkg_name": "expirator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kyma-project/kyma-environment-broker",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kyma Environment Broker",
+  "homepage": [
+    "https://github.com/kyma-project/kyma-environment-broker"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "accountcleanup",
+    "archiver",
+    "broker",
+    "deprovisionretrigger",
+    "edp-registrator",
+    "environmentscleanup",
+    "expirator",
+    "globalaccounts",
+    "parser",
+    "runtimereconciler",
+    "schemamigrator",
+    "servicebindingcleanup",
+    "subaccountsync",
+    "trialcleanup"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/kyma-project/kyma-environment-broker/@v/v0.0.0-20250707133404-88761fe145a0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250707133404-88761fe145a0",
+  "version_upstream": "",
+  "bsum": "7a3fca6998c04c9ecba884e4fdb0a9ca0391ef1437e453b91937ea07d18e6930",
+  "build_date": "2025-07-08T16:08:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16147785171",
+  "build_id": "16147785171",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyma-project/kyma-environment-broker/expirator?tag=v0.0.0-20250707133404-88761fe145a0-riscv64-Linux&download=expirator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyma-project/kyma-environment-broker/expirator?tag=v0.0.0-20250707133404-88761fe145a0-riscv64-Linux&download=expirator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kyma-project/kyma-environment-broker/expirator:v0.0.0-20250707133404-88761fe145a0-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kyma-project/kyma-environment-broker/expirator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kyma-project/kyma-environment-broker/expirator?tag=v0.0.0-20250707133404-88761fe145a0-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6a7e93624abe2a0673d85e8fe9d6a6e227da8d10b4e85352fff92a872beab5b0",
+  "size": "40 MB",
+  "size_raw": "40999800",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
