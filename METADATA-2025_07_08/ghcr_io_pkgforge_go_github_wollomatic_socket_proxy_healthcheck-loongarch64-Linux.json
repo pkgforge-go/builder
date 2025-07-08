@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "healthcheck",
+  "pkg_family": "socket-proxy",
+  "pkg_id": "healthcheck#github.com_wollomatic_socket_proxy",
+  "pkg_name": "healthcheck",
+  "pkg_type": "static",
+  "pkg_webpage": "https://hub.docker.com/r/wollomatic/socket-proxy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A secure-by-design and flexible unix socket proxy. No external dependencies. Needs no shell or interpreter in a container. Written in Go (memory safe). Can replace tecnativa/docker-socket-proxy or linuxserver/docker-socket-proxy. Most flexible configuration with regular expressions",
+  "homepage": [
+    "https://hub.docker.com/r/wollomatic/socket-proxy"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "healthcheck",
+    "socket-proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/wollomatic/socket-proxy/@v/v0.0.0-20250614104025-2bc12303881a.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250614104025-2bc12303881a",
+  "version_upstream": "",
+  "bsum": "1a0a0e292edc8c1388244ebb08b29ce09528a48d80ffb50d9c6d2cacdf789bf9",
+  "build_date": "2025-07-08T05:07:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16134072700",
+  "build_id": "16134072700",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wollomatic/socket-proxy/healthcheck?tag=v0.0.0-20250614104025-2bc12303881a-loongarch64-Linux&download=healthcheck.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "166",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wollomatic/socket-proxy/healthcheck?tag=v0.0.0-20250614104025-2bc12303881a-loongarch64-Linux&download=healthcheck",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/wollomatic/socket-proxy/healthcheck:v0.0.0-20250614104025-2bc12303881a-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/wollomatic/socket-proxy/healthcheck",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wollomatic/socket-proxy/healthcheck?tag=v0.0.0-20250614104025-2bc12303881a-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ae62ee39c1d0ce482e04aa7dd6a5d0f13810578017bac9d1723d07009f2cb27a",
+  "size": "5.7 MB",
+  "size_raw": "5943104",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
