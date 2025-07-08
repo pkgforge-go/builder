@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "setup-ca-certs",
+  "pkg_family": "cert-injection-webhook",
+  "pkg_id": "setup-ca-certs#github.com_pivotal_cert_injection_webhook",
+  "pkg_name": "setup-ca-certs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pivotal/cert-injection-webhook",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Provides a Kubernetes webhook to inject CA certificates and proxy environment variables into pods",
+  "homepage": [
+    "https://github.com/pivotal/cert-injection-webhook"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "setup-ca-certs",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/pivotal/cert-injection-webhook/@v/v0.6.4.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.6.4",
+  "version_upstream": "",
+  "bsum": "a68eb3df39234272e5150d0c538c300747723a13d19dbc7ba0c37e40531c6e7a",
+  "build_date": "2025-07-08T04:59:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16133837274",
+  "build_id": "16133837274",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pivotal/cert-injection-webhook/setup-ca-certs?tag=v0.6.4-loongarch64-Linux&download=setup-ca-certs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "44",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pivotal/cert-injection-webhook/setup-ca-certs?tag=v0.6.4-loongarch64-Linux&download=setup-ca-certs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pivotal/cert-injection-webhook/setup-ca-certs:v0.6.4-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pivotal/cert-injection-webhook/setup-ca-certs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pivotal/cert-injection-webhook/setup-ca-certs?tag=v0.6.4-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3de160dc71b9ea38c7c2071ac1838ecfc3ec9b0a8ef7f4872cd7e3f2a8417d57",
+  "size": "2.0 MB",
+  "size_raw": "2080280",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
