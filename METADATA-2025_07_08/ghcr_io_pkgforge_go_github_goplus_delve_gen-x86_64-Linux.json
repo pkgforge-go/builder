@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "gen",
+  "pkg_family": "delve",
+  "pkg_id": "gen#github.com_goplus_delve",
+  "pkg_name": "gen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/goplus/gopdlv",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Delve is a fork from github.com/go-delve/delve to support the Go/XGo programming language",
+  "homepage": [
+    "https://github.com/goplus/gopdlv"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gen",
+    "xgodlv"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/goplus/delve/@v/v1.25.7.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.25.7",
+  "version_upstream": "",
+  "bsum": "2746fd87f6d138972c048df577ae50fd24dcbd08b4b11eb9787969ac4d04c1f0",
+  "build_date": "2025-07-08T04:37:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16133653051",
+  "build_id": "16133653051",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/goplus/delve/gen?tag=v1.25.7-x86_64-Linux&download=gen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/goplus/delve/gen?tag=v1.25.7-x86_64-Linux&download=gen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/goplus/delve/gen:v1.25.7-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/goplus/delve/gen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/goplus/delve/gen?tag=v1.25.7-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "aad6128c512717ae1fbd214c8aa55eaef0b1621c1ca4650139cd92f266f6a5a8",
+  "size": "6.7 MB",
+  "size_raw": "7002464",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
