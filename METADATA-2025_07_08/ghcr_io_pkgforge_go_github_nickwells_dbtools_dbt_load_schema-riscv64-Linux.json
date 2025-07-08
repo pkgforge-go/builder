@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "dbt_load_schema",
+  "pkg_family": "dbtools",
+  "pkg_id": "dbt_load_schema#github.com_nickwells_dbtools",
+  "pkg_name": "dbt_load_schema",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nickwells/dbtools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tools for manipulating postgresql databases",
+  "homepage": [
+    "https://github.com/nickwells/dbtools"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dbt_apply_changes",
+    "dbt_load_schema",
+    "dbt_make_dirs"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/nickwells/dbtools/@v/v1.0.75.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.75",
+  "version_upstream": "",
+  "bsum": "d139ce689c1aa3139b0b41d7efe768ac73e922c43080f28c305aad867ca5e57b",
+  "build_date": "2025-07-08T04:49:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16133691678",
+  "build_id": "16133691678",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nickwells/dbtools/dbt_load_schema?tag=v1.0.75-riscv64-Linux&download=dbt_load_schema.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nickwells/dbtools/dbt_load_schema?tag=v1.0.75-riscv64-Linux&download=dbt_load_schema",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nickwells/dbtools/dbt_load_schema:v1.0.75-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nickwells/dbtools/dbt_load_schema",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nickwells/dbtools/dbt_load_schema?tag=v1.0.75-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ff3ae52d162840ffce5485e3c0d058211041302e7c335e482b199ad64c19a95b",
+  "size": "3.2 MB",
+  "size_raw": "3290728",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
