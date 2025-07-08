@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "unitlist",
+  "pkg_family": "unittools",
+  "pkg_id": "unitlist#github.com_nickwells_unittools",
+  "pkg_name": "unitlist",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nickwells/unittools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Various commands wrapping the units package",
+  "homepage": [
+    "https://github.com/nickwells/unittools"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "unitconv",
+    "unitlist",
+    "unittags"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/nickwells/unittools/@v/v1.1.39.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.1.39",
+  "version_upstream": "",
+  "bsum": "1cd983602787c33fdcd572f5817d2fefd94ec779c63927d362df517535976e30",
+  "build_date": "2025-07-08T04:51:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16133719749",
+  "build_id": "16133719749",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nickwells/unittools/unitlist?tag=v1.1.39-loongarch64-Linux&download=unitlist.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nickwells/unittools/unitlist?tag=v1.1.39-loongarch64-Linux&download=unitlist",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nickwells/unittools/unitlist:v1.1.39-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nickwells/unittools/unitlist",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nickwells/unittools/unitlist?tag=v1.1.39-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "22e009afd77fd802029c579779ed3a6ae4ee2826582547ddcdd249e16e39c9a5",
+  "size": "3.5 MB",
+  "size_raw": "3649880",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
