@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "validate",
+  "pkg_family": "jsonsign",
+  "pkg_id": "validate#github.com_danielklim_jsonsign",
+  "pkg_name": "validate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/danielklim/jsonsign",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The jsonsign library provides functionality to digitally sign JSON data using RSA cryptography",
+  "homepage": [
+    "https://github.com/danielklim/jsonsign"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sign",
+    "validate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/danielklim/jsonsign/@v/v0.1.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.1.1",
+  "version_upstream": "",
+  "bsum": "c6b17fac82b7147fe5acbcccb55e05ee327d51a722ef2ce9552566ec00c5b126",
+  "build_date": "2025-07-08T04:14:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16133591536",
+  "build_id": "16133591536",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/danielklim/jsonsign/validate?tag=v0.1.1-riscv64-Linux&download=validate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/danielklim/jsonsign/validate?tag=v0.1.1-riscv64-Linux&download=validate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/danielklim/jsonsign/validate:v0.1.1-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/danielklim/jsonsign/validate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/danielklim/jsonsign/validate?tag=v0.1.1-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3b7416e34ab5ec7bd35d11b62f5fd1240397a0bef7c443bb047bc0eb7a94600f",
+  "size": "3.1 MB",
+  "size_raw": "3193304",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
