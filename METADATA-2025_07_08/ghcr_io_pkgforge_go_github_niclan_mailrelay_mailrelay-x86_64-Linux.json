@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "mailrelay",
+  "pkg_family": "mailrelay",
+  "pkg_id": "mailrelay#github.com_niclan_mailrelay",
+  "pkg_name": "mailrelay",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/niclan/mailrelay",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Simple mail relay that can take unauthenticated SMTP emails (e.g. over port 25) and relay them to authenticated, TLS-enabled SMTP servers",
+  "homepage": [
+    "https://github.com/niclan/mailrelay"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mailrelay"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/niclan/mailrelay/@v/v0.0.0-20250522213127-b6d0d7da961a.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250522213127-b6d0d7da961a",
+  "version_upstream": "",
+  "bsum": "d2fdbd316237ca9047b6856ea0aab298cf3aa5ef3a77e82196a856ffa537e86e",
+  "build_date": "2025-07-08T04:52:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16133742363",
+  "build_id": "16133742363",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/niclan/mailrelay/mailrelay?tag=v0.0.0-20250522213127-b6d0d7da961a-x86_64-Linux&download=mailrelay.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/niclan/mailrelay/mailrelay?tag=v0.0.0-20250522213127-b6d0d7da961a-x86_64-Linux&download=mailrelay",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/niclan/mailrelay/mailrelay:v0.0.0-20250522213127-b6d0d7da961a-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/niclan/mailrelay/mailrelay",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/niclan/mailrelay/mailrelay?tag=v0.0.0-20250522213127-b6d0d7da961a-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b1a5060d54997f28cd5fc599cdb62551e1677b19a021295e1dda84570defd42f",
+  "size": "7.3 MB",
+  "size_raw": "7571712",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
