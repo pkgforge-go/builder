@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "validate",
+  "pkg_family": "jsonsign",
+  "pkg_id": "validate#github.com_danielklim_jsonsign",
+  "pkg_name": "validate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/danielklim/jsonsign",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The jsonsign library provides functionality to digitally sign JSON data using RSA cryptography",
+  "homepage": [
+    "https://github.com/danielklim/jsonsign"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sign",
+    "validate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/danielklim/jsonsign/@v/v0.1.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.1.1",
+  "version_upstream": "",
+  "bsum": "aa0c256b62140cd29562a94289c75bc17241d09e22eba6b533ee1363433be0c8",
+  "build_date": "2025-07-08T04:14:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16133591536",
+  "build_id": "16133591536",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/danielklim/jsonsign/validate?tag=v0.1.1-loongarch64-Linux&download=validate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/danielklim/jsonsign/validate?tag=v0.1.1-loongarch64-Linux&download=validate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/danielklim/jsonsign/validate:v0.1.1-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/danielklim/jsonsign/validate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/danielklim/jsonsign/validate?tag=v0.1.1-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "47f4f335bfeadecd393e58dcc376ceefbb686f80d50214a4e48945f42e04e2af",
+  "size": "3.2 MB",
+  "size_raw": "3288288",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
