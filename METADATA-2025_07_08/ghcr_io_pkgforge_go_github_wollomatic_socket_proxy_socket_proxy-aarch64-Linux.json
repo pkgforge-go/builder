@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "socket-proxy",
+  "pkg_family": "socket-proxy",
+  "pkg_id": "socket-proxy#github.com_wollomatic_socket_proxy",
+  "pkg_name": "socket-proxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://hub.docker.com/r/wollomatic/socket-proxy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A secure-by-design and flexible unix socket proxy. No external dependencies. Needs no shell or interpreter in a container. Written in Go (memory safe). Can replace tecnativa/docker-socket-proxy or linuxserver/docker-socket-proxy. Most flexible configuration with regular expressions",
+  "homepage": [
+    "https://hub.docker.com/r/wollomatic/socket-proxy"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "healthcheck",
+    "socket-proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/wollomatic/socket-proxy/@v/v0.0.0-20250614104025-2bc12303881a.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250614104025-2bc12303881a",
+  "version_upstream": "",
+  "bsum": "429cda56f7204126926475838adb79f1fff3960f4a4e0def19e5ef81799544d9",
+  "build_date": "2025-07-08T05:07:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16134072700",
+  "build_id": "16134072700",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wollomatic/socket-proxy/socket-proxy?tag=v0.0.0-20250614104025-2bc12303881a-aarch64-Linux&download=socket-proxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "166",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wollomatic/socket-proxy/socket-proxy?tag=v0.0.0-20250614104025-2bc12303881a-aarch64-Linux&download=socket-proxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/wollomatic/socket-proxy/socket-proxy:v0.0.0-20250614104025-2bc12303881a-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/wollomatic/socket-proxy/socket-proxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wollomatic/socket-proxy/socket-proxy?tag=v0.0.0-20250614104025-2bc12303881a-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e4ea381e9f6df77556b8c48a017f2ad47eb8bfe432ee754e332f3857e47e8d72",
+  "size": "6.7 MB",
+  "size_raw": "6928960",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
