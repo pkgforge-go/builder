@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "bench-req",
+  "pkg_family": "nats-box",
+  "pkg_id": "bench-req#github.com_nats_io_nats_box",
+  "pkg_name": "bench-req",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nats-io/nats-box",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A container with NATS utilities",
+  "homepage": [
+    "https://github.com/nats-io/nats-box"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bench-pub",
+    "bench-req",
+    "bench-sub"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/nats-io/nats-box/@v/v0.0.0-20250707073420-786393dde55d.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250707073420-786393dde55d",
+  "version_upstream": "",
+  "bsum": "0c7928dd600cecdfd8473abe968e2395412ee75ac1ecb3ca5b14030a0da08ac8",
+  "build_date": "2025-07-08T04:48:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16133687886",
+  "build_id": "16133687886",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nats-io/nats-box/bench-req?tag=v0.0.0-20250707073420-786393dde55d-loongarch64-Linux&download=bench-req.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "130",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nats-io/nats-box/bench-req?tag=v0.0.0-20250707073420-786393dde55d-loongarch64-Linux&download=bench-req",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nats-io/nats-box/bench-req:v0.0.0-20250707073420-786393dde55d-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nats-io/nats-box/bench-req",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nats-io/nats-box/bench-req?tag=v0.0.0-20250707073420-786393dde55d-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ec70507f0d93d7df4a5193f5b721e3437cfa5f87ea02982d481c54410cc56a9f",
+  "size": "6.3 MB",
+  "size_raw": "6540288",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
