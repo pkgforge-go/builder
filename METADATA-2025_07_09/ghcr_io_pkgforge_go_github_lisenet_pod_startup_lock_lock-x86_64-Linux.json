@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "lock",
+  "pkg_family": "pod-startup-lock",
+  "pkg_id": "lock#github.com_lisenet_pod_startup_lock",
+  "pkg_name": "lock",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lisenet/pod-startup-lock",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Simple time-based lock service to delay pod startup in Kubernetes",
+  "homepage": [
+    "https://github.com/lisenet/pod-startup-lock"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "lock",
+    "pod-startup-lock-init"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/lisenet/pod-startup-lock/@v/v0.0.0-20250708160739-0bc529f42db5.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250708160739-0bc529f42db5",
+  "version_upstream": "",
+  "bsum": "bccf431b44d3db316ceba88f24c85f376005c618d0db619c0fc03c166d05b06b",
+  "build_date": "2025-07-09T04:28:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16160017832",
+  "build_id": "16160017832",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lisenet/pod-startup-lock/lock?tag=v0.0.0-20250708160739-0bc529f42db5-x86_64-Linux&download=lock.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lisenet/pod-startup-lock/lock?tag=v0.0.0-20250708160739-0bc529f42db5-x86_64-Linux&download=lock",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lisenet/pod-startup-lock/lock:v0.0.0-20250708160739-0bc529f42db5-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lisenet/pod-startup-lock/lock",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lisenet/pod-startup-lock/lock?tag=v0.0.0-20250708160739-0bc529f42db5-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d3baa6b457edc64b97f5de907ffaa8a5ba88a58a4e36ac3b53063a11ff32df93",
+  "size": "6.7 MB",
+  "size_raw": "6988960",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
