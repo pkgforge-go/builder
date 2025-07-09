@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "transformer-definition",
+  "pkg_family": "pgstream",
+  "pkg_id": "transformer-definition#github.com_xataio_pgstream",
+  "pkg_name": "transformer-definition",
+  "pkg_type": "static",
+  "pkg_webpage": "http://www.xata.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "PostgreSQL replication with DDL changes",
+  "homepage": [
+    "http://www.xata.io"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pgstream",
+    "pgstream-tools",
+    "transformer-definition",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/xataio/pgstream/@v/v0.7.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.7.3",
+  "version_upstream": "",
+  "bsum": "cfc99d121ae064ad3922af29a52cd50e1a66152694eeb746973ef6756f2ec011",
+  "build_date": "2025-07-09T16:04:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16173743529",
+  "build_id": "16173743529",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xataio/pgstream/transformer-definition?tag=v0.7.3-aarch64-Linux&download=transformer-definition.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "612",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xataio/pgstream/transformer-definition?tag=v0.7.3-aarch64-Linux&download=transformer-definition",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xataio/pgstream/transformer-definition:v0.7.3-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xataio/pgstream/transformer-definition",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xataio/pgstream/transformer-definition?tag=v0.7.3-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "728c3c6d660fd4ed26247d6700ebc8d871dc49c37393cdbe705ae8ee675e10ea",
+  "size": "125 MB",
+  "size_raw": "130842464",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-438b44a-250620T131309-aarch64-Linux[v0.7.1]",
+    "HEAD-227bfc8-250624T160434-aarch64-Linux",
+    "HEAD-b1d174b-250625T100327-aarch64-Linux[v0.7.2]"
+  ],
+  "trusted": "true"
+}
