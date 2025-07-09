@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "winit",
+  "pkg_family": "guardian",
+  "pkg_id": "winit#github.com_cloudfoundry_guardian",
+  "pkg_name": "winit",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudfoundry/guardian",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Containers4life",
+  "homepage": [
+    "https://github.com/cloudfoundry/guardian"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "execas",
+    "fake_runc",
+    "fake_runc_stderr",
+    "socket2me",
+    "winit"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cloudfoundry/guardian/@v/v0.0.0-20250703143417-fc142cb4fe84.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250703143417-fc142cb4fe84",
+  "version_upstream": "",
+  "bsum": "d7075b59a1001fe01a0a0e57d1058296e151eeefe875f7799dad6f9a0c3edd3b",
+  "build_date": "2025-07-09T02:02:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16158494868",
+  "build_id": "16158494868",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/guardian/winit?tag=v0.0.0-20250703143417-fc142cb4fe84-riscv64-Linux&download=winit.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "78",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/guardian/winit?tag=v0.0.0-20250703143417-fc142cb4fe84-riscv64-Linux&download=winit",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry/guardian/winit:v0.0.0-20250703143417-fc142cb4fe84-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry/guardian/winit",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/guardian/winit?tag=v0.0.0-20250703143417-fc142cb4fe84-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0ec6021063d0464f797b5209a4be016e8f2499d0862edfdb749e81ba1d5b431c",
+  "size": "1.2 MB",
+  "size_raw": "1232112",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-79e4be1-250625T021013-riscv64-Linux",
+    "v0.0.0-20250703143417-fc142cb4fe84-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
