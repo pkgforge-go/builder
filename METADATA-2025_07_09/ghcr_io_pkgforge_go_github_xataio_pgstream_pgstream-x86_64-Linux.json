@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "pgstream",
+  "pkg_family": "pgstream",
+  "pkg_id": "pgstream#github.com_xataio_pgstream",
+  "pkg_name": "pgstream",
+  "pkg_type": "static",
+  "pkg_webpage": "http://www.xata.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "PostgreSQL replication with DDL changes",
+  "homepage": [
+    "http://www.xata.io"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pgstream",
+    "pgstream-tools",
+    "transformer-definition",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/xataio/pgstream/@v/v0.7.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.7.3",
+  "version_upstream": "",
+  "bsum": "912b06cbef8c55ce88a4a69d3e8b11f5fe0b43289d753964a64cfd94280dd656",
+  "build_date": "2025-07-09T16:04:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16173743529",
+  "build_id": "16173743529",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xataio/pgstream/pgstream?tag=v0.7.3-x86_64-Linux&download=pgstream.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "612",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xataio/pgstream/pgstream?tag=v0.7.3-x86_64-Linux&download=pgstream",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xataio/pgstream/pgstream:v0.7.3-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xataio/pgstream/pgstream",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xataio/pgstream/pgstream?tag=v0.7.3-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "68fc9d477fc1fec0716746bf0c1741739ae2e72e7da8ce10ee1c092d5548a0bc",
+  "size": "158 MB",
+  "size_raw": "164639520",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-438b44a-250620T131309-x86_64-Linux[v0.7.1]",
+    "HEAD-227bfc8-250624T160434-x86_64-Linux",
+    "HEAD-b1d174b-250625T100327-x86_64-Linux[v0.7.2]"
+  ],
+  "trusted": "true"
+}
