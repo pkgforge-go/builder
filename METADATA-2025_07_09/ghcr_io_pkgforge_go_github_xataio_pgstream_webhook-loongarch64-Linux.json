@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "webhook",
+  "pkg_family": "pgstream",
+  "pkg_id": "webhook#github.com_xataio_pgstream",
+  "pkg_name": "webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "http://www.xata.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "PostgreSQL replication with DDL changes",
+  "homepage": [
+    "http://www.xata.io"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pgstream",
+    "pgstream-tools",
+    "transformer-definition",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/xataio/pgstream/@v/v0.7.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.7.3",
+  "version_upstream": "",
+  "bsum": "f84dee80dc2d72308e27f727543bbbf9c3db1fce122c8166c6e57358dca20cb4",
+  "build_date": "2025-07-09T16:06:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16173743529",
+  "build_id": "16173743529",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xataio/pgstream/webhook?tag=v0.7.3-loongarch64-Linux&download=webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "612",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xataio/pgstream/webhook?tag=v0.7.3-loongarch64-Linux&download=webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xataio/pgstream/webhook:v0.7.3-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xataio/pgstream/webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xataio/pgstream/webhook?tag=v0.7.3-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1d868ae10748162c90c3bf4440fa93f0f56261c3f7311b79d14943b4f3a1f32d",
+  "size": "6.1 MB",
+  "size_raw": "6330816",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-438b44a-250620T131309-loongarch64-Linux[v0.7.1]",
+    "HEAD-227bfc8-250624T160434-loongarch64-Linux",
+    "HEAD-b1d174b-250625T100327-loongarch64-Linux[v0.7.2]"
+  ],
+  "trusted": "true"
+}

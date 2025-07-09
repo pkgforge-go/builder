@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "pgstream-tools",
+  "pkg_family": "pgstream",
+  "pkg_id": "pgstream-tools#github.com_xataio_pgstream",
+  "pkg_name": "pgstream-tools",
+  "pkg_type": "static",
+  "pkg_webpage": "http://www.xata.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "PostgreSQL replication with DDL changes",
+  "homepage": [
+    "http://www.xata.io"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pgstream",
+    "pgstream-tools",
+    "transformer-definition",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/xataio/pgstream/@v/v0.7.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.7.3",
+  "version_upstream": "",
+  "bsum": "89f1281026c350178fc62b0afa358776d33aa31f9e49082930efe5dcefb50f9a",
+  "build_date": "2025-07-09T16:06:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16173743529",
+  "build_id": "16173743529",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xataio/pgstream/pgstream-tools?tag=v0.7.3-loongarch64-Linux&download=pgstream-tools.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "612",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xataio/pgstream/pgstream-tools?tag=v0.7.3-loongarch64-Linux&download=pgstream-tools",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xataio/pgstream/pgstream-tools:v0.7.3-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xataio/pgstream/pgstream-tools",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xataio/pgstream/pgstream-tools?tag=v0.7.3-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2f7731d2b1033f527d2ea3a4e08d3f498529861ff9de7d43c5e2eb159a05a186",
+  "size": "152 MB",
+  "size_raw": "158596224",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-438b44a-250620T131309-loongarch64-Linux[v0.7.1]",
+    "HEAD-227bfc8-250624T160434-loongarch64-Linux",
+    "HEAD-b1d174b-250625T100327-loongarch64-Linux[v0.7.2]"
+  ],
+  "trusted": "true"
+}
