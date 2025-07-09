@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "proxy",
+  "pkg_family": "smoke",
+  "pkg_id": "proxy#github.com_dragonflyoss_image_service_smoke",
+  "pkg_name": "proxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://nydus.dev/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Nydus - the Dragonfly image service, providing fast, secure and easy access to container images",
+  "homepage": [
+    "https://nydus.dev/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "golang",
+    "proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/dragonflyoss/image-service/smoke/@v/v0.0.0-20250708023827-80f80dda0e25.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250708023827-80f80dda0e25",
+  "version_upstream": "",
+  "bsum": "bb6b041748aa15c0f5d2429c8bd36006b94859d48ee1a7349ccb5baf55e7e4ce",
+  "build_date": "2025-07-09T04:11:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16159970235",
+  "build_id": "16159970235",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dragonflyoss/image-service/smoke/proxy?tag=v0.0.0-20250708023827-80f80dda0e25-riscv64-Linux&download=proxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1341",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dragonflyoss/image-service/smoke/proxy?tag=v0.0.0-20250708023827-80f80dda0e25-riscv64-Linux&download=proxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dragonflyoss/image-service/smoke/proxy:v0.0.0-20250708023827-80f80dda0e25-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dragonflyoss/image-service/smoke/proxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dragonflyoss/image-service/smoke/proxy?tag=v0.0.0-20250708023827-80f80dda0e25-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "31bb86dba7009da7c44003ed89d46f25d7625547b61967cf59b26a5060895003",
+  "size": "6.0 MB",
+  "size_raw": "6250264",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
