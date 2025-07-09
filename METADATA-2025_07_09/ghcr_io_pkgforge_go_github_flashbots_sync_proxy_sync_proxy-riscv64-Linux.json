@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "sync-proxy",
+  "pkg_family": "sync-proxy",
+  "pkg_id": "sync-proxy#github.com_flashbots_sync_proxy",
+  "pkg_name": "sync-proxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/flashbots/sync-proxy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Proxy from consensus client to block builders",
+  "homepage": [
+    "https://github.com/flashbots/sync-proxy"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "jwt-tokens-service",
+    "sync-proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/flashbots/sync-proxy/@v/v0.3.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.3.1",
+  "version_upstream": "",
+  "bsum": "6e3c208d9a64f11bd3500cae13783eb62d6d1997eb9cc21ba367a939ef951396",
+  "build_date": "2025-07-09T04:11:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16159970459",
+  "build_id": "16159970459",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/flashbots/sync-proxy/sync-proxy?tag=v0.3.1-riscv64-Linux&download=sync-proxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "36",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/flashbots/sync-proxy/sync-proxy?tag=v0.3.1-riscv64-Linux&download=sync-proxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/flashbots/sync-proxy/sync-proxy:v0.3.1-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/flashbots/sync-proxy/sync-proxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/flashbots/sync-proxy/sync-proxy?tag=v0.3.1-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "79c41430b78789c483466356b6dfd671178b05a9ebd7868e7c8b52d46dea6389",
+  "size": "8.2 MB",
+  "size_raw": "8518648",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
