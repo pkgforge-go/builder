@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "logger",
+  "pkg_family": "gosnowflake",
+  "pkg_id": "logger#github.com_dbt_labs_gosnowflake",
+  "pkg_name": "logger",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dbt-labs/gosnowflake",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go Snowflake Driver",
+  "homepage": [
+    "https://github.com/dbt-labs/gosnowflake"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "async",
+    "batches",
+    "distributedfetch",
+    "externalbrowser",
+    "fetchresultbyid",
+    "filestransfer",
+    "keepalive",
+    "keypair",
+    "logger",
+    "mfa",
+    "multistatement",
+    "noconnpool",
+    "oauth",
+    "programmatic_access_token",
+    "select1",
+    "selectmany",
+    "showparam",
+    "tomlfileconnection",
+    "transform_batches_to_rows",
+    "variant",
+    "verifycert"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/dbt-labs/gosnowflake/@v/v1.14.2.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.14.2",
+  "version_upstream": "",
+  "bsum": "0edba4b6ffe5330ea2c44e04941ed6bcf5158ecb0e17aa8bf13439d3f12708b6",
+  "build_date": "2025-07-10T04:28:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16185809387",
+  "build_id": "16185809387",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dbt-labs/gosnowflake/logger?tag=v1.14.2-aarch64-Linux&download=logger.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dbt-labs/gosnowflake/logger?tag=v1.14.2-aarch64-Linux&download=logger",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dbt-labs/gosnowflake/logger:v1.14.2-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dbt-labs/gosnowflake/logger",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dbt-labs/gosnowflake/logger?tag=v1.14.2-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a97d6feab34ff403ce5cc647e851364242e202f147af7aaa59a4e1f3cf33affb",
+  "size": "21 MB",
+  "size_raw": "21452000",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
