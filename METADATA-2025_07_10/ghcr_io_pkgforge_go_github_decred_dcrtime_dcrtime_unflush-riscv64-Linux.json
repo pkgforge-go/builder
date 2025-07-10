@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "dcrtime_unflush",
+  "pkg_family": "dcrtime",
+  "pkg_id": "dcrtime_unflush#github.com_decred_dcrtime",
+  "pkg_name": "dcrtime_unflush",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/decred/dcrtime",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Decred anchored timestamp client, proxy, and server",
+  "homepage": [
+    "https://github.com/decred/dcrtime"
+  ],
+  "license": [
+    "ISC"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dcrtime",
+    "dcrtime_checker",
+    "dcrtime_dumpdb",
+    "dcrtime_fsck",
+    "dcrtime_timestamp",
+    "dcrtime_unflush",
+    "dcrtimed"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/decred/dcrtime/@v/v0.0.0-20250708203540-6304e64869df.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250708203540-6304e64869df",
+  "version_upstream": "",
+  "bsum": "64902f91fd40ccebddd4d50abaaba6f7da13d66f91ef1f40d4a51e80b5da69cd",
+  "build_date": "2025-07-10T04:17:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16185810158",
+  "build_id": "16185810158",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/decred/dcrtime/dcrtime_unflush?tag=v0.0.0-20250708203540-6304e64869df-riscv64-Linux&download=dcrtime_unflush.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "28",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/decred/dcrtime/dcrtime_unflush?tag=v0.0.0-20250708203540-6304e64869df-riscv64-Linux&download=dcrtime_unflush",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/decred/dcrtime/dcrtime_unflush:v0.0.0-20250708203540-6304e64869df-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/decred/dcrtime/dcrtime_unflush",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/decred/dcrtime/dcrtime_unflush?tag=v0.0.0-20250708203540-6304e64869df-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9f4db9e7e5c79f04d5f62ff64e611cb7bcca3d201dc6cf37cf9f9b9fb417fbd2",
+  "size": "16 MB",
+  "size_raw": "16310488",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
