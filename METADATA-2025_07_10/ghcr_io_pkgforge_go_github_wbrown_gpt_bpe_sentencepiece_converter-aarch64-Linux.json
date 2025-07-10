@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "sentencepiece_converter",
+  "pkg_family": "gpt_bpe",
+  "pkg_id": "sentencepiece_converter#github.com_wbrown_gpt_bpe",
+  "pkg_name": "sentencepiece_converter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/wbrown/gpt_bpe",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "GPT2 Byte Pair Encoding implementation in Golang",
+  "homepage": [
+    "https://github.com/wbrown/gpt_bpe"
+  ],
+  "license": [
+    "LGPL-2.1"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "detokenizer",
+    "js",
+    "lib",
+    "model_downloader",
+    "sentencepiece_converter",
+    "tokens_transformer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/wbrown/gpt_bpe/@v/v0.0.0-20250709161131-1571a6e8ad2d.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250709161131-1571a6e8ad2d",
+  "version_upstream": "",
+  "bsum": "d1d5a072ac046d4cfcb48b21921708ced15e07270d88b424a4072935a3e4f67f",
+  "build_date": "2025-07-10T15:51:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16199473373",
+  "build_id": "16199473373",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wbrown/gpt/bpe/sentencepiece_converter?tag=v0.0.0-20250709161131-1571a6e8ad2d-aarch64-Linux&download=sentencepiece_converter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "24",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wbrown/gpt/bpe/sentencepiece_converter?tag=v0.0.0-20250709161131-1571a6e8ad2d-aarch64-Linux&download=sentencepiece_converter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/wbrown/gpt/bpe/sentencepiece_converter:v0.0.0-20250709161131-1571a6e8ad2d-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/wbrown/gpt/bpe/sentencepiece_converter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wbrown/gpt/bpe/sentencepiece_converter?tag=v0.0.0-20250709161131-1571a6e8ad2d-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a25c11228b6c33096a25d32ef441729acffd080619b61517d5f76b616b7eeb81",
+  "size": "13 MB",
+  "size_raw": "13576448",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
