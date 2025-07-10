@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "systemd-state",
+  "pkg_family": "systemd-state",
+  "pkg_id": "systemd-state#github.com_arnested_systemd_state",
+  "pkg_name": "systemd-state",
+  "pkg_type": "static",
+  "pkg_webpage": "https://systemd-state.arnested.dk",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Systemd state - http server for monitoring systemd state",
+  "homepage": [
+    "https://systemd-state.arnested.dk"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "systemd-state"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/arnested/systemd-state/@v/v1.3.220.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.3.220",
+  "version_upstream": "",
+  "bsum": "033ed7ab35f08b83b69b05d2277dc7c13cac3adf106a70e23d209b05d5a89663",
+  "build_date": "2025-07-10T04:03:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16185807452",
+  "build_id": "16185807452",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arnested/systemd-state/systemd-state?tag=v1.3.220-loongarch64-Linux&download=systemd-state.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arnested/systemd-state/systemd-state?tag=v1.3.220-loongarch64-Linux&download=systemd-state",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/arnested/systemd-state/systemd-state:v1.3.220-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/arnested/systemd-state/systemd-state",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arnested/systemd-state/systemd-state?tag=v1.3.220-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "90aebd8532447be026fd4a98c7e1a518d60932bbf7e3756d3347009a8c44ecc4",
+  "size": "8.7 MB",
+  "size_raw": "9041216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
