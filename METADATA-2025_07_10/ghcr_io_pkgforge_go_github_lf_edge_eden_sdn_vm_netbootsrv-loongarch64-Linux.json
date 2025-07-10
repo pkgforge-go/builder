@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "netbootsrv",
+  "pkg_family": "vm",
+  "pkg_id": "netbootsrv#github.com_lf_edge_eden_sdn_vm",
+  "pkg_name": "netbootsrv",
+  "pkg_type": "static",
+  "pkg_webpage": "https://projecteve.dev",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Eden is where EVE and Adam get tried and tested",
+  "homepage": [
+    "https://projecteve.dev"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "conntrack",
+    "dns64proxy",
+    "goproxy",
+    "httpsrv",
+    "netbootsrv",
+    "sdnagent"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/lf-edge/eden/sdn/vm/@v/v0.0.0-20250707113257-c797facd8634.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250707113257-c797facd8634",
+  "version_upstream": "",
+  "bsum": "a490787d7159045e8e421ce2207ff06d29f7b2a92ca7607193d20b27fe37902b",
+  "build_date": "2025-07-10T04:41:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16185870977",
+  "build_id": "16185870977",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lf-edge/eden/sdn/vm/netbootsrv?tag=v0.0.0-20250707113257-c797facd8634-loongarch64-Linux&download=netbootsrv.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "55",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lf-edge/eden/sdn/vm/netbootsrv?tag=v0.0.0-20250707113257-c797facd8634-loongarch64-Linux&download=netbootsrv",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lf-edge/eden/sdn/vm/netbootsrv:v0.0.0-20250707113257-c797facd8634-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lf-edge/eden/sdn/vm/netbootsrv",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lf-edge/eden/sdn/vm/netbootsrv?tag=v0.0.0-20250707113257-c797facd8634-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2b85e57f953627b09658637418bac35dbc7972a786ff3a23d450cbb499570eab",
+  "size": "1.6 MB",
+  "size_raw": "1644216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
