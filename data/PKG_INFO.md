@@ -39,6 +39,8 @@
 - 🐹 **[scheduler](https://dokku.com)**: A docker-powered PaaS that helps you build and manage the lifecycle of applications.
 - 🐹 **[scheduler-docker-local](https://dokku.com)**: A docker-powered PaaS that helps you build and manage the lifecycle of applications.
 - 🐹 **[scheduler-k3s](https://dokku.com)**: A docker-powered PaaS that helps you build and manage the lifecycle of applications.
+- 🐹 **[proto-gen-rpc-glue](https://www.consul.io)**: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+- 🐹 **[protoc-gen-consul-rate-limit](https://www.consul.io)**: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - 🐹 **[jumpserver](https://jumpserver.com)**: JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.
 - 🐹 **[test_data](https://www.envoyproxy.io)**: Cloud-native high-performance edge/middle/service proxy.
 - 🐹 **[chunks-inspect](https://grafana.com/loki)**: Like Prometheus, but for logs.
@@ -179,6 +181,7 @@
 - 🐹 **[update-examples-deps](https://watermill.io)**: Building event-driven applications the easy way in Go.
 - 🐹 **[validate-examples](https://watermill.io)**: Building event-driven applications the easy way in Go.
 - 🐹 **[hello-openshift](http://www.openshift.org)**: Conformance test suite for OpenShift.
+- 🐹 **[project](http://book.kubebuilder.io)**: Kubebuilder - SDK for building Kubernetes APIs using CRDs.
 - 🐹 **[utils](http://book.kubebuilder.io)**: Kubebuilder - SDK for building Kubernetes APIs using CRDs.
 - 🐹 **[trigger-depup](https://medium.com/@haya14busa/reviewdog-a-code-review-dog-who-keeps-your-codebase-healthy-d957c471938b#.8xctbaw5u)**: Automated code review tool integrated with any code analysis tools regardless of programming language.
 - 🐹 **[binfmt](https://github.com/linuxkit/linuxkit)**: A toolkit for building secure, portable and lean operating systems for containers.
@@ -287,6 +290,7 @@
 - 🐹 **[integration](https://atlasgo.io)**: Manage your database schema as code.
 - 🐹 **[relnotesgen](https://www.telepresence.io)**: Local development against a remote Kubernetes or OpenShift cluster.
 - 🐹 **[docker-images](https://developer.oracle.com/use-cases/#containers)**: Official source of container configurations, images, and examples for Oracle products and projects.
+- 🐹 **[go](http://www.rabbitmq.com/getstarted.html)**: Tutorials for using RabbitMQ in various ways.
 - 🐹 **[official-images](https://hub.docker.com/u/library)**: Primary source of truth for the Docker "Official Images" program.
 - 🐹 **[tools](https://vektra.github.io/mockery/)**: A mock code autogenerator for Go.
 - 🐹 **[calico](https://docs.tigera.io/calico/latest/about/)**: Cloud native networking and network security.
@@ -337,6 +341,8 @@
 - 🐹 **[v2](https://github.com/confluentinc/confluent-kafka-go)**: Confluent's Apache Kafka Golang client.
 - 🐹 **[v2](https://github.com/confluentinc/confluent-kafka-go)**: Confluent's Apache Kafka Golang client.
 - 🐹 **[v2](https://github.com/confluentinc/confluent-kafka-go)**: Confluent's Apache Kafka Golang client.
+- 🐹 **[assetmanagerd](https://go.unkey.com)**: Open source API management platform.
+- 🐹 **[billaged](https://go.unkey.com)**: Open source API management platform.
 - 🐹 **[chproxy](https://go.unkey.com)**: Open source API management platform.
 - 🐹 **[grpc-ping-go](https://knative.dev/docs/)**: User documentation for Knative components.
 - 🐹 **[helloworld-go](https://knative.dev/docs/)**: User documentation for Knative components.
@@ -388,6 +394,7 @@
 - 🐹 **[pubsub](https://github.com/googlecloudplatform/golang-samples)**: Sample apps and code written for Google Cloud in the Go programming language.
 - 🐹 **[releaser](https://docs.docker.com)**: Source repo for Docker's Documentation.
 - 🐹 **[qpext](https://kserve.github.io/website/)**: Standardized Serverless ML Inference Platform on Kubernetes.
+- 🐹 **[rel-many-to-many](https://bun.uptrace.dev)**: SQL-first Golang ORM.
 - 🐹 **[create-table-index](https://bun.uptrace.dev)**: SQL-first Golang ORM.
 - 🐹 **[cursor-pagination](https://bun.uptrace.dev)**: SQL-first Golang ORM.
 - 🐹 **[custom-type](https://bun.uptrace.dev)**: SQL-first Golang ORM.
@@ -419,6 +426,7 @@
 - 🐹 **[myapp](https://youtube.com/antonputra)**: DevOps Tutorials.
 - 🐹 **[myapp](https://youtube.com/antonputra)**: DevOps Tutorials.
 - 🐹 **[myapp](https://youtube.com/antonputra)**: DevOps Tutorials.
+- 🐹 **[gcpckms](https://boundaryproject.io)**: Boundary enables identity-based access management for dynamic infrastructure.
 - 🐹 **[transit](https://boundaryproject.io)**: Boundary enables identity-based access management for dynamic infrastructure.
 - 🐹 **[azure](https://boundaryproject.io)**: Boundary enables identity-based access management for dynamic infrastructure.
 - 🐹 **[test-infra](https://github.com/kubernetes/test-infra)**: Test infrastructure for the Kubernetes project.
@@ -435,6 +443,8 @@
 - 🐹 **[zeebe](https://camunda.com/platform/)**: Process Orchestration Framework.
 - 🐹 **[golden](https://opentelemetry.io)**: Contrib repository for the OpenTelemetry Collector.
 - 🐹 **[sampleapp](https://opentelemetry.io)**: Contrib repository for the OpenTelemetry Collector.
+- 🐹 **[back-end](https://aws.github.io/copilot-cli/)**: The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
+- 🐹 **[front-end](https://aws.github.io/copilot-cli/)**: The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
 - 🐹 **[go](https://www.pantsbuild.org)**: The Pants Build System.
 - 🐹 **[pants](https://www.pantsbuild.org)**: The Pants Build System.
 - 🐹 **[generator](http://fabric8.io)**: Java client for Kubernetes & OpenShift.
@@ -466,6 +476,7 @@
 - 🐹 **[nacos](https://sentinelguard.io/)**: Sentinel Go enables reliability and resiliency for Go microservices.
 - 🐹 **[asciigraph](https://github.com/guptarohit/asciigraph)**: Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
 - 🐹 **[examples](https://github.com/charmbracelet/glamour/examples)**: Stylesheet-based markdown rendering for your CLI apps.
+- 🐹 **[helloserver](https://github.com/golang/example)**: Go example projects.
 - 🐹 **[format_self](https://www.git-town.com)**: Git branches made easy.
 - 🐹 **[format_unittests](https://www.git-town.com)**: Git branches made easy.
 - 🐹 **[lint_steps](https://www.git-town.com)**: Git branches made easy.
@@ -493,6 +504,7 @@
 - 🐹 **[test](https://please.build)**: High-performance extensible build system for reproducible multi-language builds.
 - 🐹 **[juju-mongotop](https://juju.is)**: Orchestration engine that enables the deployment, integration and lifecycle management of applications at any scale, on any infrastructure (Kubernetes or otherwise.
 - 🐹 **[xbar-plugins](https://xbarapp.com)**: Plugin repository for xbar (the BitBar reboot.
+- 🐹 **[scripts](https://registry.terraform.io/providers/hashicorp/google/latest/docs)**: Terraform Provider for Google Cloud Platform.
 - 🐹 **[dnstester](https://www.inspektor-gadget.io)**: Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF.
 - 🐹 **[testjson2md](https://www.inspektor-gadget.io)**: Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF.
 - 🐹 **[circuitbreaker_rule_transform](https://polarismesh.cn)**: Service Discovery and Governance Platform for Microservice and Distributed Architecture.
@@ -607,6 +619,7 @@
 - 🐹 **[go-hands-on](https://crg.eti.br/tags/grupo-estudos-golang/)**: Material para estudo de Golang, tutoriais, videos e exemplos para quem quer aprender Go.
 - 🐹 **[grupo-estudos-golang](https://crg.eti.br/tags/grupo-estudos-golang/)**: Material para estudo de Golang, tutoriais, videos e exemplos para quem quer aprender Go.
 - 🐹 **[testdata](https://github.com/klauspost/cpuid/testdata)**: CPU feature identification for Go.
+- 🐹 **[redress](https://github.com/goretk/redress)**: Redress - A tool for analyzing stripped Go binaries.
 - 🐹 **[sshpiper](https://sshpiper.com/)**: The missing reverse proxy for ssh scp.
 - 🐹 **[history](https://golang.design/history)**: Go: A Documentary | https://golang.
 - 🐹 **[k8gb](https://www.k8gb.io)**: A cloud native Kubernetes Global Balancer.
@@ -677,6 +690,7 @@
 - 🐹 **[aws-costexplorer-export](https://git.k8s.io/community/sig-k8s-infra)**: Code and configuration to manage Kubernetes project infrastructure, including various *.
 - 🐹 **[e2e](https://opentelemetry.io)**: OpenTelemetry Auto Instrumentation using eBPF.
 - 🐹 **[pgtest](https://kanister.io)**: An extensible framework for application-level data management on Kubernetes, Kanister is a Cloud Native Computing Foundation sandbox project and was originally created by the Veeam Kasten team.
+- 🐹 **[risor-lsp](https://risor.io)**: Fast and flexible scripting for Go developers and DevOps.
 - 🐹 **[youtubeuploader](https://github.com/porjo/youtubeuploader)**: Scripted uploads to Youtube.
 - 🐹 **[attachgenericfd](https://github.com/aquasecurity/libbpfgo/selftest/attachgenericfd)**: EBPF library for Go.
 - 🐹 **[cgroup](https://github.com/aquasecurity/libbpfgo)**: EBPF library for Go.
@@ -765,6 +779,7 @@
 - 🐹 **[cni](https://developer.hashicorp.com/consul/docs/k8s)**: First-class support for Consul Service Mesh on Kubernetes.
 - 🐹 **[copy-crds-to-chart](https://developer.hashicorp.com/consul/docs/k8s)**: First-class support for Consul Service Mesh on Kubernetes.
 - 🐹 **[helm-reference-gen](https://developer.hashicorp.com/consul/docs/k8s)**: First-class support for Consul Service Mesh on Kubernetes.
+- 🐹 **[clash-speedtest](https://github.com/faceair/clash-speedtest)**: Clash speedtest.
 - 🐹 **[gfxsotn](https://sotn.xee.dev/)**: Decompilation of Castlevania: Symphony of the Night (PSX, PSP, Saturn.
 - 🐹 **[rf](https://github.com/rsc/rf)**: A refactoring tool for Go.
 - 🐹 **[mcp](https://github.com/cinar/indicator)**: Indicator Go delivers a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework.
