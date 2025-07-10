@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "redress",
+  "pkg_family": "redress",
+  "pkg_id": "redress#github.com_goretk_redress",
+  "pkg_name": "redress",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/goretk/redress",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Redress - A tool for analyzing stripped Go binaries",
+  "homepage": [
+    "https://github.com/goretk/redress"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "redress"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/goretk/redress/@v/v1.2.31.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.2.31",
+  "version_upstream": "",
+  "bsum": "a0e23ebd78e06fc8fedf393fbd2396187c99f609cd2c867f54ded8cebf7418cd",
+  "build_date": "2025-07-10T06:52:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16188054118",
+  "build_id": "16188054118",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/goretk/redress/redress?tag=v1.2.31-aarch64-Linux&download=redress.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1085",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/goretk/redress/redress?tag=v1.2.31-aarch64-Linux&download=redress",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/goretk/redress/redress:v1.2.31-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/goretk/redress/redress",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/goretk/redress/redress?tag=v1.2.31-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f823bcfc841efb9a6526bde6d844c2ec94b74e5c57ec15ef588e508267372e6e",
+  "size": "11 MB",
+  "size_raw": "10525120",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-fe38d96-241012T215229-aarch64-Linux[v1.2.2]"
+  ],
+  "trusted": "true"
+}
