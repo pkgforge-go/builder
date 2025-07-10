@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "tokens_transformer",
+  "pkg_family": "gpt_bpe",
+  "pkg_id": "tokens_transformer#github.com_wbrown_gpt_bpe",
+  "pkg_name": "tokens_transformer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/wbrown/gpt_bpe",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "GPT2 Byte Pair Encoding implementation in Golang",
+  "homepage": [
+    "https://github.com/wbrown/gpt_bpe"
+  ],
+  "license": [
+    "LGPL-2.1"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "detokenizer",
+    "js",
+    "lib",
+    "model_downloader",
+    "sentencepiece_converter",
+    "tokens_transformer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/wbrown/gpt_bpe/@v/v0.0.0-20250709161131-1571a6e8ad2d.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250709161131-1571a6e8ad2d",
+  "version_upstream": "",
+  "bsum": "a4e76777216545e8ef492ce4014bc5e10c30fc42d6f8653e0591d9f47a9157bb",
+  "build_date": "2025-07-10T15:51:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16199473373",
+  "build_id": "16199473373",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wbrown/gpt/bpe/tokens_transformer?tag=v0.0.0-20250709161131-1571a6e8ad2d-riscv64-Linux&download=tokens_transformer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "24",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wbrown/gpt/bpe/tokens_transformer?tag=v0.0.0-20250709161131-1571a6e8ad2d-riscv64-Linux&download=tokens_transformer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/wbrown/gpt/bpe/tokens_transformer:v0.0.0-20250709161131-1571a6e8ad2d-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/wbrown/gpt/bpe/tokens_transformer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wbrown/gpt/bpe/tokens_transformer?tag=v0.0.0-20250709161131-1571a6e8ad2d-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9ea2890a502f177be30fb2b590fbdc0e17b2f9865c6fee24fa40b896926a2ad3",
+  "size": "37 MB",
+  "size_raw": "38735704",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
