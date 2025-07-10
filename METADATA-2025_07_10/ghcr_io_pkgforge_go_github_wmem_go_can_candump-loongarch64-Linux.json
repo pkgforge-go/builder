@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "candump",
+  "pkg_family": "go-can",
+  "pkg_id": "candump#github.com_wmem_go_can",
+  "pkg_name": "candump",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/wmem/go-can",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Linux socket can write by go",
+  "homepage": [
+    "https://github.com/wmem/go-can"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "canctl",
+    "candump",
+    "cansend"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/wmem/go-can/@v/v0.0.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.1",
+  "version_upstream": "",
+  "bsum": "ee4347190e06ec6c93d685f18bb5f3d95ee68c97a6c105d9cd1db708d020846d",
+  "build_date": "2025-07-10T04:52:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16185885012",
+  "build_id": "16185885012",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wmem/go-can/candump?tag=v0.0.1-loongarch64-Linux&download=candump.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wmem/go-can/candump?tag=v0.0.1-loongarch64-Linux&download=candump",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/wmem/go-can/candump:v0.0.1-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/wmem/go-can/candump",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wmem/go-can/candump?tag=v0.0.1-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d9732f633af8b3babf459a3553c2e63077ad0e9adf464345f79d3bd6e5f432a6",
+  "size": "2.6 MB",
+  "size_raw": "2642776",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
