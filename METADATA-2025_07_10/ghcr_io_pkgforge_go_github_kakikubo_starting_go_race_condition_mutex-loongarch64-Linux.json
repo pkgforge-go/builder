@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "race_condition_mutex",
+  "pkg_family": "starting-go",
+  "pkg_id": "race_condition_mutex#github.com_kakikubo_starting_go",
+  "pkg_name": "race_condition_mutex",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kakikubo/starting-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Starting Go",
+  "homepage": [
+    "https://github.com/kakikubo/starting-go"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bufio",
+    "getflags",
+    "io_sample",
+    "net_http",
+    "race_condition",
+    "race_condition_mutex",
+    "server",
+    "starting-go",
+    "sync_waitgroup",
+    "tmpfile"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/kakikubo/starting-go/@v/v1.0.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.3",
+  "version_upstream": "",
+  "bsum": "9699af16e3e3df2e6f77f4681c3e3df38317401194fc4a52d70faf339c676862",
+  "build_date": "2025-07-10T04:37:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16185867404",
+  "build_id": "16185867404",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kakikubo/starting-go/race_condition_mutex?tag=v1.0.3-loongarch64-Linux&download=race_condition_mutex.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kakikubo/starting-go/race_condition_mutex?tag=v1.0.3-loongarch64-Linux&download=race_condition_mutex",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kakikubo/starting-go/race_condition_mutex:v1.0.3-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kakikubo/starting-go/race_condition_mutex",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kakikubo/starting-go/race_condition_mutex?tag=v1.0.3-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cc2bbb12e080382cb7669d1147dce3075454340c6fb9cc9980f6e8ad844e2917",
+  "size": "1.6 MB",
+  "size_raw": "1645688",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
