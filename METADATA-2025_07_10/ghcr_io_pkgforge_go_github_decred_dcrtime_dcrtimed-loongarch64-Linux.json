@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "dcrtimed",
+  "pkg_family": "dcrtime",
+  "pkg_id": "dcrtimed#github.com_decred_dcrtime",
+  "pkg_name": "dcrtimed",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/decred/dcrtime",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Decred anchored timestamp client, proxy, and server",
+  "homepage": [
+    "https://github.com/decred/dcrtime"
+  ],
+  "license": [
+    "ISC"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dcrtime",
+    "dcrtime_checker",
+    "dcrtime_dumpdb",
+    "dcrtime_fsck",
+    "dcrtime_timestamp",
+    "dcrtime_unflush",
+    "dcrtimed"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/decred/dcrtime/@v/v0.0.0-20250708203540-6304e64869df.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250708203540-6304e64869df",
+  "version_upstream": "",
+  "bsum": "60518aedc623768efab551d5d2207e717a793a28832092e93367681466213453",
+  "build_date": "2025-07-10T04:16:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16185810158",
+  "build_id": "16185810158",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/decred/dcrtime/dcrtimed?tag=v0.0.0-20250708203540-6304e64869df-loongarch64-Linux&download=dcrtimed.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "28",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/decred/dcrtime/dcrtimed?tag=v0.0.0-20250708203540-6304e64869df-loongarch64-Linux&download=dcrtimed",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/decred/dcrtime/dcrtimed:v0.0.0-20250708203540-6304e64869df-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/decred/dcrtime/dcrtimed",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/decred/dcrtime/dcrtimed?tag=v0.0.0-20250708203540-6304e64869df-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c489c979c3f3c384e099074a9738737ed65960415b29d3bd843b01db9f164e13",
+  "size": "19 MB",
+  "size_raw": "19687120",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
