@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "race_condition",
+  "pkg_family": "starting-go",
+  "pkg_id": "race_condition#github.com_kakikubo_starting_go",
+  "pkg_name": "race_condition",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kakikubo/starting-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Starting Go",
+  "homepage": [
+    "https://github.com/kakikubo/starting-go"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bufio",
+    "getflags",
+    "io_sample",
+    "net_http",
+    "race_condition",
+    "race_condition_mutex",
+    "server",
+    "starting-go",
+    "sync_waitgroup",
+    "tmpfile"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/kakikubo/starting-go/@v/v1.0.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.3",
+  "version_upstream": "",
+  "bsum": "17527115e9c8622429c777950ffdfdfae240d009593cd8d543f832863788dd61",
+  "build_date": "2025-07-10T04:35:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16185867404",
+  "build_id": "16185867404",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kakikubo/starting-go/race_condition?tag=v1.0.3-x86_64-Linux&download=race_condition.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kakikubo/starting-go/race_condition?tag=v1.0.3-x86_64-Linux&download=race_condition",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kakikubo/starting-go/race_condition:v1.0.3-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kakikubo/starting-go/race_condition",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kakikubo/starting-go/race_condition?tag=v1.0.3-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4ec0f026c3a6daf2f89e27f840091f6966e8fecdab0868ce0d3663419ff40ed6",
+  "size": "1.6 MB",
+  "size_raw": "1643032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
