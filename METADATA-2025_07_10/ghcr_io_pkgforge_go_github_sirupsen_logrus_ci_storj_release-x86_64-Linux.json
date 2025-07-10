@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "storj-release",
+  "pkg_family": "ci",
+  "pkg_id": "storj-release#github.com_sirupsen_logrus_ci",
+  "pkg_name": "storj-release",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sirupsen/logrus/ci",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Structured, pluggable logging for Go",
+  "homepage": [
+    "https://github.com/sirupsen/logrus/ci"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "automerge",
+    "check-atomic-align",
+    "check-callsize",
+    "check-clean-directory",
+    "check-copyright",
+    "check-cross-compile",
+    "check-deferloop",
+    "check-dependency",
+    "check-downgrades",
+    "check-errs",
+    "check-imports",
+    "check-large-files",
+    "check-mod-tidy",
+    "check-monitoring",
+    "check-monkit",
+    "check-peer-constraints",
+    "fail-on-race",
+    "filter-cover-profile",
+    "storj-protobuf",
+    "storj-release",
+    "test-time-summary",
+    "use-ports",
+    "xunit"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/storj/ci/@v/v0.0.0-20250709081840-c0df31befd42.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250620175740-70b809335b84",
+  "version_upstream": "",
+  "bsum": "28e7353f8f4dc469ffb5f88e4f550e7a8a942db10ebfeeeb122bb7bf59e84fc5",
+  "build_date": "2025-07-10T04:53:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16185877797",
+  "build_id": "16185877797",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sirupsen/logrus/ci/storj-release?tag=v0.0.0-20250620175740-70b809335b84-x86_64-Linux&download=storj-release.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "25325",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sirupsen/logrus/ci/storj-release?tag=v0.0.0-20250620175740-70b809335b84-x86_64-Linux&download=storj-release",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sirupsen/logrus/ci/storj-release:v0.0.0-20250620175740-70b809335b84-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sirupsen/logrus/ci/storj-release",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sirupsen/logrus/ci/storj-release?tag=v0.0.0-20250620175740-70b809335b84-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f251644ab225c9342b1dbf4bd26987a23e07344aa73c31045715ad1ad009055f",
+  "size": "2.3 MB",
+  "size_raw": "2334616",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "check-peer-constraints",
+  "pkg_family": "ci",
+  "pkg_id": "check-peer-constraints#github.com_sirupsen_logrus_ci",
+  "pkg_name": "check-peer-constraints",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sirupsen/logrus/ci",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Structured, pluggable logging for Go",
+  "homepage": [
+    "https://github.com/sirupsen/logrus/ci"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "automerge",
+    "check-atomic-align",
+    "check-callsize",
+    "check-clean-directory",
+    "check-copyright",
+    "check-cross-compile",
+    "check-deferloop",
+    "check-dependency",
+    "check-downgrades",
+    "check-errs",
+    "check-imports",
+    "check-large-files",
+    "check-mod-tidy",
+    "check-monitoring",
+    "check-monkit",
+    "check-peer-constraints",
+    "fail-on-race",
+    "filter-cover-profile",
+    "storj-protobuf",
+    "storj-release",
+    "test-time-summary",
+    "use-ports",
+    "xunit"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/storj/ci/@v/v0.0.0-20250709081840-c0df31befd42.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250620175740-70b809335b84",
+  "version_upstream": "",
+  "bsum": "d8529d20a8cbffea453efe841434af155db4214a774984932a9bc11221026c5e",
+  "build_date": "2025-07-10T04:53:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16185877797",
+  "build_id": "16185877797",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sirupsen/logrus/ci/check-peer-constraints?tag=v0.0.0-20250620175740-70b809335b84-x86_64-Linux&download=check-peer-constraints.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "25325",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sirupsen/logrus/ci/check-peer-constraints?tag=v0.0.0-20250620175740-70b809335b84-x86_64-Linux&download=check-peer-constraints",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sirupsen/logrus/ci/check-peer-constraints:v0.0.0-20250620175740-70b809335b84-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sirupsen/logrus/ci/check-peer-constraints",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sirupsen/logrus/ci/check-peer-constraints?tag=v0.0.0-20250620175740-70b809335b84-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "514935dfa12b4aa44fe8836972db1c31772e8678b68e9da65b4cf536479fd979",
+  "size": "5.1 MB",
+  "size_raw": "5340672",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
