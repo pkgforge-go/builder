@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "check-clean-directory",
+  "pkg_family": "ci",
+  "pkg_id": "check-clean-directory#github.com_sirupsen_logrus_ci",
+  "pkg_name": "check-clean-directory",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sirupsen/logrus/ci",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Structured, pluggable logging for Go",
+  "homepage": [
+    "https://github.com/sirupsen/logrus/ci"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "automerge",
+    "check-atomic-align",
+    "check-callsize",
+    "check-clean-directory",
+    "check-copyright",
+    "check-cross-compile",
+    "check-deferloop",
+    "check-dependency",
+    "check-downgrades",
+    "check-errs",
+    "check-imports",
+    "check-large-files",
+    "check-mod-tidy",
+    "check-monitoring",
+    "check-monkit",
+    "check-peer-constraints",
+    "fail-on-race",
+    "filter-cover-profile",
+    "storj-protobuf",
+    "storj-release",
+    "test-time-summary",
+    "use-ports",
+    "xunit"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/storj/ci/@v/v0.0.0-20250709081840-c0df31befd42.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250620175740-70b809335b84",
+  "version_upstream": "",
+  "bsum": "11ed17dc3073b61b5e5cc83a2910070442cad0edbc544b38dc05358d84f5ac9b",
+  "build_date": "2025-07-10T04:51:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16185877797",
+  "build_id": "16185877797",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sirupsen/logrus/ci/check-clean-directory?tag=v0.0.0-20250620175740-70b809335b84-aarch64-Linux&download=check-clean-directory.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "25325",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sirupsen/logrus/ci/check-clean-directory?tag=v0.0.0-20250620175740-70b809335b84-aarch64-Linux&download=check-clean-directory",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sirupsen/logrus/ci/check-clean-directory:v0.0.0-20250620175740-70b809335b84-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sirupsen/logrus/ci/check-clean-directory",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sirupsen/logrus/ci/check-clean-directory?tag=v0.0.0-20250620175740-70b809335b84-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "08e6051fdc9e25981d86df79d87a4e3640e30b72b57905dc63455e3111f61135",
+  "size": "1.9 MB",
+  "size_raw": "1938648",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
