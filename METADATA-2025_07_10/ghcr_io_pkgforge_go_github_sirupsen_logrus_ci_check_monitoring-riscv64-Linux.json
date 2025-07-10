@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "check-monitoring",
+  "pkg_family": "ci",
+  "pkg_id": "check-monitoring#github.com_sirupsen_logrus_ci",
+  "pkg_name": "check-monitoring",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sirupsen/logrus/ci",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Structured, pluggable logging for Go",
+  "homepage": [
+    "https://github.com/sirupsen/logrus/ci"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "automerge",
+    "check-atomic-align",
+    "check-callsize",
+    "check-clean-directory",
+    "check-copyright",
+    "check-cross-compile",
+    "check-deferloop",
+    "check-dependency",
+    "check-downgrades",
+    "check-errs",
+    "check-imports",
+    "check-large-files",
+    "check-mod-tidy",
+    "check-monitoring",
+    "check-monkit",
+    "check-peer-constraints",
+    "fail-on-race",
+    "filter-cover-profile",
+    "storj-protobuf",
+    "storj-release",
+    "test-time-summary",
+    "use-ports",
+    "xunit"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/storj/ci/@v/v0.0.0-20250709081840-c0df31befd42.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250620175740-70b809335b84",
+  "version_upstream": "",
+  "bsum": "a0f84f8104c7670f11ac945f7fe4c68af59c685bc913bed9955a224a24617f83",
+  "build_date": "2025-07-10T04:51:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16185877797",
+  "build_id": "16185877797",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sirupsen/logrus/ci/check-monitoring?tag=v0.0.0-20250620175740-70b809335b84-riscv64-Linux&download=check-monitoring.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "25325",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sirupsen/logrus/ci/check-monitoring?tag=v0.0.0-20250620175740-70b809335b84-riscv64-Linux&download=check-monitoring",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sirupsen/logrus/ci/check-monitoring:v0.0.0-20250620175740-70b809335b84-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sirupsen/logrus/ci/check-monitoring",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sirupsen/logrus/ci/check-monitoring?tag=v0.0.0-20250620175740-70b809335b84-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2f9932918fc0d06d905aadaca78746bda0b24b773e4250aac304c17a590de1cd",
+  "size": "4.8 MB",
+  "size_raw": "4947288",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

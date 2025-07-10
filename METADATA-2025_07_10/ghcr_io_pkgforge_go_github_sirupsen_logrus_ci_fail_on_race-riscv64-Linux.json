@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "fail-on-race",
+  "pkg_family": "ci",
+  "pkg_id": "fail-on-race#github.com_sirupsen_logrus_ci",
+  "pkg_name": "fail-on-race",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sirupsen/logrus/ci",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Structured, pluggable logging for Go",
+  "homepage": [
+    "https://github.com/sirupsen/logrus/ci"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "automerge",
+    "check-atomic-align",
+    "check-callsize",
+    "check-clean-directory",
+    "check-copyright",
+    "check-cross-compile",
+    "check-deferloop",
+    "check-dependency",
+    "check-downgrades",
+    "check-errs",
+    "check-imports",
+    "check-large-files",
+    "check-mod-tidy",
+    "check-monitoring",
+    "check-monkit",
+    "check-peer-constraints",
+    "fail-on-race",
+    "filter-cover-profile",
+    "storj-protobuf",
+    "storj-release",
+    "test-time-summary",
+    "use-ports",
+    "xunit"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/storj/ci/@v/v0.0.0-20250709081840-c0df31befd42.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250620175740-70b809335b84",
+  "version_upstream": "",
+  "bsum": "98b8ec2193e768b5ff944dfff038edfbdf5b2b8c181aceac297191a7e5df1afa",
+  "build_date": "2025-07-10T04:53:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16185877797",
+  "build_id": "16185877797",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sirupsen/logrus/ci/fail-on-race?tag=v0.0.0-20250620175740-70b809335b84-riscv64-Linux&download=fail-on-race.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "25325",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sirupsen/logrus/ci/fail-on-race?tag=v0.0.0-20250620175740-70b809335b84-riscv64-Linux&download=fail-on-race",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sirupsen/logrus/ci/fail-on-race:v0.0.0-20250620175740-70b809335b84-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sirupsen/logrus/ci/fail-on-race",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sirupsen/logrus/ci/fail-on-race?tag=v0.0.0-20250620175740-70b809335b84-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "77071768f76df14ac2177466a9e271056f28dc3887e55d676908f7c88b0bad75",
+  "size": "1.4 MB",
+  "size_raw": "1401368",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
