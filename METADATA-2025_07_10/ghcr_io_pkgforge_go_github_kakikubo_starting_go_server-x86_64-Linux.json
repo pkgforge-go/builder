@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "starting-go",
+  "pkg_id": "server#github.com_kakikubo_starting_go",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kakikubo/starting-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Starting Go",
+  "homepage": [
+    "https://github.com/kakikubo/starting-go"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bufio",
+    "getflags",
+    "io_sample",
+    "net_http",
+    "race_condition",
+    "race_condition_mutex",
+    "server",
+    "starting-go",
+    "sync_waitgroup",
+    "tmpfile"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/kakikubo/starting-go/@v/v1.0.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.3",
+  "version_upstream": "",
+  "bsum": "d88366fff1726299987613666c710cd95da511509f4dfd42430e1d01e231d1a3",
+  "build_date": "2025-07-10T04:34:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16185867404",
+  "build_id": "16185867404",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kakikubo/starting-go/server?tag=v1.0.3-x86_64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kakikubo/starting-go/server?tag=v1.0.3-x86_64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kakikubo/starting-go/server:v1.0.3-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kakikubo/starting-go/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kakikubo/starting-go/server?tag=v1.0.3-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6ded91490db61be7f23a2d20ac9f6a1cc224271148690594b6fd49aba88c2299",
+  "size": "5.9 MB",
+  "size_raw": "6116096",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
