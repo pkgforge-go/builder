@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "dcrtime_fsck",
+  "pkg_family": "dcrtime",
+  "pkg_id": "dcrtime_fsck#github.com_decred_dcrtime",
+  "pkg_name": "dcrtime_fsck",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/decred/dcrtime",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Decred anchored timestamp client, proxy, and server",
+  "homepage": [
+    "https://github.com/decred/dcrtime"
+  ],
+  "license": [
+    "ISC"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dcrtime",
+    "dcrtime_checker",
+    "dcrtime_dumpdb",
+    "dcrtime_fsck",
+    "dcrtime_timestamp",
+    "dcrtime_unflush",
+    "dcrtimed"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/decred/dcrtime/@v/v0.0.0-20250708203540-6304e64869df.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250708203540-6304e64869df",
+  "version_upstream": "",
+  "bsum": "5b77f68b7339b6fc3f22a7e0540960c8d9ff15c6fa38b411c7c4fffd62d6fef7",
+  "build_date": "2025-07-10T04:16:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16185810158",
+  "build_id": "16185810158",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/decred/dcrtime/dcrtime_fsck?tag=v0.0.0-20250708203540-6304e64869df-aarch64-Linux&download=dcrtime_fsck.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "28",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/decred/dcrtime/dcrtime_fsck?tag=v0.0.0-20250708203540-6304e64869df-aarch64-Linux&download=dcrtime_fsck",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/decred/dcrtime/dcrtime_fsck:v0.0.0-20250708203540-6304e64869df-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/decred/dcrtime/dcrtime_fsck",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/decred/dcrtime/dcrtime_fsck?tag=v0.0.0-20250708203540-6304e64869df-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "78d76950c18912f5578833cf20343603efab555b9a4f5921216a04d0cefb39f1",
+  "size": "18 MB",
+  "size_raw": "17826112",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
