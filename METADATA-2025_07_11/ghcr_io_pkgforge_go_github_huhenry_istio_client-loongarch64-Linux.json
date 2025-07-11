@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "client",
+  "pkg_family": "istio",
+  "pkg_id": "client#github.com_huhenry_istio",
+  "pkg_name": "client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://istio.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Connect, secure, control, and observe services",
+  "homepage": [
+    "https://istio.io"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "docker-builder",
+    "extauthz",
+    "gce_metadata_server",
+    "generate_cert",
+    "generate_csr",
+    "health-check",
+    "imageregistry",
+    "pilot-agent",
+    "server",
+    "src"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/huhenry/istio/@v/v0.0.0-20250705153527-126c084d063c.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250705153527-126c084d063c",
+  "version_upstream": "",
+  "bsum": "d5462e71e3b61a70a314176f9176114967d98a4d5f56b197285f6fc4af47323e",
+  "build_date": "2025-07-11T16:20:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16223955978",
+  "build_id": "16223955978",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/huhenry/istio/client?tag=v0.0.0-20250705153527-126c084d063c-loongarch64-Linux&download=client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/huhenry/istio/client?tag=v0.0.0-20250705153527-126c084d063c-loongarch64-Linux&download=client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/huhenry/istio/client:v0.0.0-20250705153527-126c084d063c-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/huhenry/istio/client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/huhenry/istio/client?tag=v0.0.0-20250705153527-126c084d063c-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5a30e39e94c64862dca6bf204b5c040df642edd25d5668fd7633ffda774773ed",
+  "size": "33 MB",
+  "size_raw": "33744640",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250630182122-ec526a53442c-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
