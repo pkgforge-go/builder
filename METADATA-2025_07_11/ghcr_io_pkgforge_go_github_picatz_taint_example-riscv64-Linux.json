@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "example",
+  "pkg_family": "taint",
+  "pkg_id": "example#github.com_picatz_taint",
+  "pkg_name": "example",
+  "pkg_type": "static",
+  "pkg_webpage": "https://picatz.github.io/#blog/taint",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Static taint analysis for Go programs",
+  "homepage": [
+    "https://picatz.github.io/#blog/taint"
+  ],
+  "license": [
+    "MPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "example",
+    "logi",
+    "sqli",
+    "ssadump",
+    "taint",
+    "xss"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/picatz/taint/@v/v0.0.0-20250707191740-d1a012a9de21.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250707191740-d1a012a9de21",
+  "version_upstream": "",
+  "bsum": "939993b65d121375447fe80b78d0fd6c6da69be8404fdf106e646b01690f6e7d",
+  "build_date": "2025-07-11T16:25:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16224010189",
+  "build_id": "16224010189",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/picatz/taint/example?tag=v0.0.0-20250707191740-d1a012a9de21-riscv64-Linux&download=example.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "69",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/picatz/taint/example?tag=v0.0.0-20250707191740-d1a012a9de21-riscv64-Linux&download=example",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/picatz/taint/example:v0.0.0-20250707191740-d1a012a9de21-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/picatz/taint/example",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/picatz/taint/example?tag=v0.0.0-20250707191740-d1a012a9de21-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fdf4162b841a612bcc194800711f8f2d0d68c7d8f8b81193bdf3baa0b72b5469",
+  "size": "5.6 MB",
+  "size_raw": "5840536",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250704145703-bdda21515b34-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
