@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "windows_go_grpc_unix_sox",
+  "pkg_id": "server#github.com_maxhorowitz_windows_go_grpc_unix_sox",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/maxhorowitz/windows_go_grpc_unix_sox",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Golang gRPC over unix socket, testing on Windows",
+  "homepage": [
+    "https://github.com/maxhorowitz/windows_go_grpc_unix_sox"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/maxhorowitz/windows_go_grpc_unix_sox/@v/v0.0.0-20250114210552-28f0b931e85e.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250114210552-28f0b931e85e",
+  "version_upstream": "",
+  "bsum": "ee5f4b65d3c678cbf2b3dba41a4e5dac10418b4eea6c1ac6177a2b295f7e4180",
+  "build_date": "2025-07-11T04:39:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16211580181",
+  "build_id": "16211580181",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/maxhorowitz/windows/go/grpc/unix/sox/server?tag=v0.0.0-20250114210552-28f0b931e85e-loongarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/maxhorowitz/windows/go/grpc/unix/sox/server?tag=v0.0.0-20250114210552-28f0b931e85e-loongarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/maxhorowitz/windows/go/grpc/unix/sox/server:v0.0.0-20250114210552-28f0b931e85e-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/maxhorowitz/windows/go/grpc/unix/sox/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/maxhorowitz/windows/go/grpc/unix/sox/server?tag=v0.0.0-20250114210552-28f0b931e85e-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d683049a2237929257230cf738d37a9d1fd980032e5482363fd6b829b104694b",
+  "size": "11 MB",
+  "size_raw": "11344384",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
