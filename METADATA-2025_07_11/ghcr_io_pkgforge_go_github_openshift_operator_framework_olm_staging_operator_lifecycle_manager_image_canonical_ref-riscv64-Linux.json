@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "image-canonical-ref",
+  "pkg_family": "operator-lifecycle-manager",
+  "pkg_id": "image-canonical-ref#github.com_openshift_operator_framework_olm_staging_operator_lifecycle_manager",
+  "pkg_name": "image-canonical-ref",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/operator-framework-olm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A management framework for extending Kubernetes with Operators",
+  "homepage": [
+    "https://github.com/openshift/operator-framework-olm"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "catalog",
+    "copy-content",
+    "cpb",
+    "image-canonical-ref",
+    "kiali-image-registry",
+    "olm",
+    "package-server",
+    "split"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/openshift/operator-framework-olm/staging/operator-lifecycle-manager/@v/v0.0.0-20250701162626-53e474a39626.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250701162626-53e474a39626",
+  "version_upstream": "",
+  "bsum": "3001615979e3cf6bc87e424aa00f6452cd0622c79c820534bd1574850ef003e6",
+  "build_date": "2025-07-11T04:51:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16211587801",
+  "build_id": "16211587801",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/operator-framework-olm/staging/operator-lifecycle-manager/image-canonical-ref?tag=v0.0.0-20250701162626-53e474a39626-riscv64-Linux&download=image-canonical-ref.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "17",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/operator-framework-olm/staging/operator-lifecycle-manager/image-canonical-ref?tag=v0.0.0-20250701162626-53e474a39626-riscv64-Linux&download=image-canonical-ref",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/operator-framework-olm/staging/operator-lifecycle-manager/image-canonical-ref:v0.0.0-20250701162626-53e474a39626-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/operator-framework-olm/staging/operator-lifecycle-manager/image-canonical-ref",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/operator-framework-olm/staging/operator-lifecycle-manager/image-canonical-ref?tag=v0.0.0-20250701162626-53e474a39626-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e057f6a8774d9713ff5e11dad2c8152a335ebd7b3c42680d234dde865c7d391a",
+  "size": "7.3 MB",
+  "size_raw": "7647264",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
