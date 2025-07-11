@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "udpsender",
+  "pkg_family": "httpfromtcp",
+  "pkg_id": "udpsender#github.com_lucoand_httpfromtcp",
+  "pkg_name": "udpsender",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lucoand/httpfromtcp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Http server from scratch project from boot.dev",
+  "homepage": [
+    "https://github.com/lucoand/httpfromtcp"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "httpserver",
+    "tcplistener",
+    "udpsender"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/lucoand/httpfromtcp/@v/v0.0.0-20250707033340-1df131486e83.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250707033340-1df131486e83",
+  "version_upstream": "",
+  "bsum": "7359b31f73ca1c970e8fa0a12a722206aee082cf58b77bd4ef13592c82b8d20b",
+  "build_date": "2025-07-11T04:32:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16211568213",
+  "build_id": "16211568213",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lucoand/httpfromtcp/udpsender?tag=v0.0.0-20250707033340-1df131486e83-x86_64-Linux&download=udpsender.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lucoand/httpfromtcp/udpsender?tag=v0.0.0-20250707033340-1df131486e83-x86_64-Linux&download=udpsender",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lucoand/httpfromtcp/udpsender:v0.0.0-20250707033340-1df131486e83-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lucoand/httpfromtcp/udpsender",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lucoand/httpfromtcp/udpsender?tag=v0.0.0-20250707033340-1df131486e83-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e8f039abacc68ea8565a06bedea8aa0a07303b5e5fc66c77d04660c3cbbb1c7e",
+  "size": "2.3 MB",
+  "size_raw": "2375320",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
