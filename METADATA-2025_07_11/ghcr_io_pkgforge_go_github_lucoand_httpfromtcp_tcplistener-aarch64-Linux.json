@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "tcplistener",
+  "pkg_family": "httpfromtcp",
+  "pkg_id": "tcplistener#github.com_lucoand_httpfromtcp",
+  "pkg_name": "tcplistener",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lucoand/httpfromtcp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Http server from scratch project from boot.dev",
+  "homepage": [
+    "https://github.com/lucoand/httpfromtcp"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "httpserver",
+    "tcplistener",
+    "udpsender"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/lucoand/httpfromtcp/@v/v0.0.0-20250707033340-1df131486e83.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250707033340-1df131486e83",
+  "version_upstream": "",
+  "bsum": "c41488324ea44dee8b812373389b998e4ef28a14266042ae07854a4263e7d3ac",
+  "build_date": "2025-07-11T04:32:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16211568213",
+  "build_id": "16211568213",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lucoand/httpfromtcp/tcplistener?tag=v0.0.0-20250707033340-1df131486e83-aarch64-Linux&download=tcplistener.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lucoand/httpfromtcp/tcplistener?tag=v0.0.0-20250707033340-1df131486e83-aarch64-Linux&download=tcplistener",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lucoand/httpfromtcp/tcplistener:v0.0.0-20250707033340-1df131486e83-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lucoand/httpfromtcp/tcplistener",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lucoand/httpfromtcp/tcplistener?tag=v0.0.0-20250707033340-1df131486e83-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1cfe7e6a4dbba9e6c7a5d15fcb14ed2f4abe884141e7d146c8bcad0c93c38af3",
+  "size": "2.3 MB",
+  "size_raw": "2396696",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
