@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "integration-test",
+  "pkg_family": "cdncheck",
+  "pkg_id": "integration-test#github.com_projectdiscovery_cdncheck",
+  "pkg_name": "integration-test",
+  "pkg_type": "static",
+  "pkg_webpage": "https://projectdiscovery.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A utility to detect various technology for a given IP address",
+  "homepage": [
+    "https://projectdiscovery.io"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cdncheck",
+    "cdncheck-examples",
+    "functional-test",
+    "generate-index",
+    "integration-test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/projectdiscovery/cdncheck/@v/v1.1.26.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.1.26",
+  "version_upstream": "",
+  "bsum": "13b9c8a3034593ed300e93d7a1ce9220be371d7d45100d9dea1c6a53f38246f9",
+  "build_date": "2025-07-11T16:29:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16224020580",
+  "build_id": "16224020580",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/cdncheck/integration-test?tag=v1.1.26-riscv64-Linux&download=integration-test.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "848",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/cdncheck/integration-test?tag=v1.1.26-riscv64-Linux&download=integration-test",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/projectdiscovery/cdncheck/integration-test:v1.1.26-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/projectdiscovery/cdncheck/integration-test",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/cdncheck/integration-test?tag=v1.1.26-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2d58e59d0666df776a0686c826e103f29f772e331b8db284465860fa012701a9",
+  "size": "7.0 MB",
+  "size_raw": "7290680",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-dbdc966-250615T001226-riscv64-Linux[v1.1.23]",
+    "HEAD-0443e5b-250622T001220-riscv64-Linux[v1.1.24]",
+    "HEAD-d4e3c75-250629T001237-riscv64-Linux[v1.1.25]",
+    "v1.1.25-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
