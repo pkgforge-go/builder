@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "winlogbeat",
+  "pkg_family": "beats",
+  "pkg_id": "winlogbeat#github.com_apache_doris_extension_beats",
+  "pkg_name": "winlogbeat",
+  "pkg_type": "static",
+  "pkg_webpage": "https://doris.apache.org",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Apache Doris is an easy-to-use, high performance and unified analytics database",
+  "homepage": [
+    "https://doris.apache.org"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auditbeat",
+    "filebeat",
+    "heartbeat",
+    "metricbeat",
+    "winlogbeat"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/apache/doris/extension/beats/@v/v0.0.0-20250710231157-1ab8911dcdda.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250710231157-1ab8911dcdda",
+  "version_upstream": "",
+  "bsum": "175dd0e09235d4d1e606626e6e05dd5c51fa2f827e0db34e5ef2a00ec05927af",
+  "build_date": "2025-07-11T15:41:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16223841829",
+  "build_id": "16223841829",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/doris/extension/beats/winlogbeat?tag=v0.0.0-20250710231157-1ab8911dcdda-x86_64-Linux&download=winlogbeat.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13892",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/doris/extension/beats/winlogbeat?tag=v0.0.0-20250710231157-1ab8911dcdda-x86_64-Linux&download=winlogbeat",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/apache/doris/extension/beats/winlogbeat:v0.0.0-20250710231157-1ab8911dcdda-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/apache/doris/extension/beats/winlogbeat",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/doris/extension/beats/winlogbeat?tag=v0.0.0-20250710231157-1ab8911dcdda-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d2d92200de1202f5416d5be072a07394dfe9289b97377b33c082475da734672c",
+  "size": "70 MB",
+  "size_raw": "73082888",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250630113607-a1653f8d67ce-x86_64-Linux",
+    "v0.0.0-20250703133715-ce3bbf97e7a8-x86_64-Linux",
+    "v0.0.0-20250704141805-641fe19d193f-x86_64-Linux"
+  ],
+  "trusted": "true"
+}

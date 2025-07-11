@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "filebeat",
+  "pkg_family": "beats",
+  "pkg_id": "filebeat#github.com_apache_doris_extension_beats",
+  "pkg_name": "filebeat",
+  "pkg_type": "static",
+  "pkg_webpage": "https://doris.apache.org",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Apache Doris is an easy-to-use, high performance and unified analytics database",
+  "homepage": [
+    "https://doris.apache.org"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auditbeat",
+    "filebeat",
+    "heartbeat",
+    "metricbeat",
+    "winlogbeat"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/apache/doris/extension/beats/@v/v0.0.0-20250710231157-1ab8911dcdda.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250710231157-1ab8911dcdda",
+  "version_upstream": "",
+  "bsum": "9ed0612863089b07bce21d9b8460d18bf6391825b89625885c1bc42928a6287a",
+  "build_date": "2025-07-11T15:42:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16223841829",
+  "build_id": "16223841829",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/doris/extension/beats/filebeat?tag=v0.0.0-20250710231157-1ab8911dcdda-x86_64-Linux&download=filebeat.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13892",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/doris/extension/beats/filebeat?tag=v0.0.0-20250710231157-1ab8911dcdda-x86_64-Linux&download=filebeat",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/apache/doris/extension/beats/filebeat:v0.0.0-20250710231157-1ab8911dcdda-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/apache/doris/extension/beats/filebeat",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/doris/extension/beats/filebeat?tag=v0.0.0-20250710231157-1ab8911dcdda-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0ac56da24e5e85a3739563d373e548fac3c88362ee9aa3107f928f6bc8b1ac63",
+  "size": "74 MB",
+  "size_raw": "77298312",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250630113607-a1653f8d67ce-x86_64-Linux",
+    "v0.0.0-20250703133715-ce3bbf97e7a8-x86_64-Linux",
+    "v0.0.0-20250704141805-641fe19d193f-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
