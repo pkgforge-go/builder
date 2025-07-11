@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "nbdkit",
+  "pkg_family": "nbdkit",
+  "pkg_id": "nbdkit#gitlab.com_nbdkit_nbdkit",
+  "pkg_name": "nbdkit",
+  "pkg_type": "static",
+  "pkg_webpage": "https://gitlab.com/nbdkit/nbdkit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "NBD server with stable plugin ABI and permissive license",
+  "homepage": [
+    "https://gitlab.com/nbdkit/nbdkit"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "nbdkit"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/gitlab.com/nbdkit/nbdkit/@v/v1.42.6.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.42.6",
+  "version_upstream": "",
+  "bsum": "80a03de04de47d21d22b872b9785dd1c906a187149d5c2ada09cdd3113bba075",
+  "build_date": "2025-07-11T19:34:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16227374425",
+  "build_id": "16227374425",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/nbdkit/nbdkit/nbdkit?tag=v1.42.6-aarch64-Linux&download=nbdkit.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "39",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/nbdkit/nbdkit/nbdkit?tag=v1.42.6-aarch64-Linux&download=nbdkit",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/gitlab/nbdkit/nbdkit/nbdkit:v1.42.6-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/gitlab/nbdkit/nbdkit/nbdkit",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/nbdkit/nbdkit/nbdkit?tag=v1.42.6-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a67e3b11a351aa83543bd7ab404adb385dd8bb775caa60dab73d6f2a537d50f5",
+  "size": "1.1 MB",
+  "size_raw": "1130016",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.42.5-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
