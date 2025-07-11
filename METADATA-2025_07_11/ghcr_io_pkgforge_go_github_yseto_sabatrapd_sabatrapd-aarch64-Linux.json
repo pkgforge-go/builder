@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "sabatrapd",
+  "pkg_family": "sabatrapd",
+  "pkg_id": "sabatrapd#github.com_yseto_sabatrapd",
+  "pkg_name": "sabatrapd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/yseto/sabatrapd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Sabatrapd is the SNMP Trap handler for Mackerel",
+  "homepage": [
+    "https://github.com/yseto/sabatrapd"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sabatrapd",
+    "trap-send"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/yseto/sabatrapd/@v/v0.2.2.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.2.2",
+  "version_upstream": "",
+  "bsum": "105f21ed1461eba243c07125c4320f79898d076857ae4d7be8f69fda401104ae",
+  "build_date": "2025-07-11T04:57:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16211748045",
+  "build_id": "16211748045",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yseto/sabatrapd/sabatrapd?tag=v0.2.2-aarch64-Linux&download=sabatrapd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yseto/sabatrapd/sabatrapd?tag=v0.2.2-aarch64-Linux&download=sabatrapd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/yseto/sabatrapd/sabatrapd:v0.2.2-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/yseto/sabatrapd/sabatrapd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yseto/sabatrapd/sabatrapd?tag=v0.2.2-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9b367bca3c2ff2e5632dddd19b65c4bb1c1bca1c5830dae91ba33d6c6f7b8f3d",
+  "size": "9.5 MB",
+  "size_raw": "9859168",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
