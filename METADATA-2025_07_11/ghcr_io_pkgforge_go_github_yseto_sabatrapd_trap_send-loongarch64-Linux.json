@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "trap-send",
+  "pkg_family": "sabatrapd",
+  "pkg_id": "trap-send#github.com_yseto_sabatrapd",
+  "pkg_name": "trap-send",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/yseto/sabatrapd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Sabatrapd is the SNMP Trap handler for Mackerel",
+  "homepage": [
+    "https://github.com/yseto/sabatrapd"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sabatrapd",
+    "trap-send"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/yseto/sabatrapd/@v/v0.2.2.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.2.2",
+  "version_upstream": "",
+  "bsum": "2e9de67122392a25a4c5a1874d62de16e6e658801c197fbf1e5d9b530389776e",
+  "build_date": "2025-07-11T04:57:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16211748045",
+  "build_id": "16211748045",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yseto/sabatrapd/trap-send?tag=v0.2.2-loongarch64-Linux&download=trap-send.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yseto/sabatrapd/trap-send?tag=v0.2.2-loongarch64-Linux&download=trap-send",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/yseto/sabatrapd/trap-send:v0.2.2-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/yseto/sabatrapd/trap-send",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yseto/sabatrapd/trap-send?tag=v0.2.2-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b4d55e97be73bdc1e1ac20c156333e502bf6f90075df31f26ffcb333d2aa3c59",
+  "size": "2.8 MB",
+  "size_raw": "2927968",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
