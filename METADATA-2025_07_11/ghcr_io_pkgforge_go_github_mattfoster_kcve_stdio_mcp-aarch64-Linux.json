@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "stdio-mcp",
+  "pkg_family": "kcve",
+  "pkg_id": "stdio-mcp#github.com_mattfoster_kcve",
+  "pkg_name": "stdio-mcp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mattfoster/kcve",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "MCP server which reads info on Linux Kernel CVES",
+  "homepage": [
+    "https://github.com/mattfoster/kcve"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kernel-list-to-sqlite",
+    "stdio-mcp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/mattfoster/kcve/@v/v0.0.0-20250503125257-f7b63e503494.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250503125257-f7b63e503494",
+  "version_upstream": "",
+  "bsum": "de28ab6b104c203157bd7be456902d4448b9e3299e957b0e292abf1c9a0c960f",
+  "build_date": "2025-07-11T04:34:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16211572292",
+  "build_id": "16211572292",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mattfoster/kcve/stdio-mcp?tag=v0.0.0-20250503125257-f7b63e503494-aarch64-Linux&download=stdio-mcp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mattfoster/kcve/stdio-mcp?tag=v0.0.0-20250503125257-f7b63e503494-aarch64-Linux&download=stdio-mcp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mattfoster/kcve/stdio-mcp:v0.0.0-20250503125257-f7b63e503494-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mattfoster/kcve/stdio-mcp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mattfoster/kcve/stdio-mcp?tag=v0.0.0-20250503125257-f7b63e503494-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7d2b139cc47e5cc94a72c35fdbacd8f13c017be3d312cecd86353d1a9eb315a2",
+  "size": "6.9 MB",
+  "size_raw": "7153568",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
