@@ -1,0 +1,111 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "buildstats",
+  "pkg_family": "build",
+  "pkg_id": "buildstats#github.com_golang_build",
+  "pkg_name": "buildstats",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/golang/build",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Mirror] Go's continuous build and release infrastructure (no stability promises",
+  "homepage": [
+    "https://github.com/golang/build"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appengine",
+    "azure",
+    "bootstrapswarm",
+    "buildlet",
+    "buildstats",
+    "coordinator",
+    "debugnewvm",
+    "devapp",
+    "docker2boot",
+    "fetchlogs",
+    "files",
+    "genbootstrap",
+    "genbotcert",
+    "genbuilderkey",
+    "gerritbot",
+    "gitmirror",
+    "gomote",
+    "gomoteserver",
+    "gopherbot",
+    "gorebuild",
+    "greplogs",
+    "influx",
+    "maintnerd",
+    "maintq",
+    "maintwatch",
+    "makemac",
+    "perf",
+    "perfrun",
+    "pubsubhelper",
+    "racebuild",
+    "releaseschedule",
+    "relnote",
+    "relui",
+    "retrybuilds",
+    "rundockerbuildlet",
+    "runqemubuildlet",
+    "stage0",
+    "testssh",
+    "update-protos",
+    "updatestd",
+    "upload",
+    "watchflakes",
+    "xb"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/golang/build/@v/v0.0.0-20250710192051-c1e2729d3413.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250710192051-c1e2729d3413",
+  "version_upstream": "",
+  "bsum": "4dc3881cb49b39cf58daade2ed715301955220b5fc29472dbd542e10a9b4297d",
+  "build_date": "2025-07-11T16:27:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16223943613",
+  "build_id": "16223943613",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/build/buildstats?tag=v0.0.0-20250710192051-c1e2729d3413-loongarch64-Linux&download=buildstats.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "686",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/build/buildstats?tag=v0.0.0-20250710192051-c1e2729d3413-loongarch64-Linux&download=buildstats",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/golang/build/buildstats:v0.0.0-20250710192051-c1e2729d3413-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/golang/build/buildstats",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/build/buildstats?tag=v0.0.0-20250710192051-c1e2729d3413-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8475ba5a3267b125c393ef7e8ea99b9dd7a66dfb922bae58ffafad786745d7a4",
+  "size": "24 MB",
+  "size_raw": "24260592",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-7b5b8eb-250618T232758-loongarch64-Linux",
+    "HEAD-5fcdc06-250623T072728-loongarch64-Linux",
+    "HEAD-ded9456-250624T145200-loongarch64-Linux",
+    "v0.0.0-20250624215200-ded945642211-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
