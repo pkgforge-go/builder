@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "split",
+  "pkg_family": "operator-lifecycle-manager",
+  "pkg_id": "split#github.com_openshift_operator_framework_olm_staging_operator_lifecycle_manager",
+  "pkg_name": "split",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/operator-framework-olm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A management framework for extending Kubernetes with Operators",
+  "homepage": [
+    "https://github.com/openshift/operator-framework-olm"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "catalog",
+    "copy-content",
+    "cpb",
+    "image-canonical-ref",
+    "kiali-image-registry",
+    "olm",
+    "package-server",
+    "split"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/openshift/operator-framework-olm/staging/operator-lifecycle-manager/@v/v0.0.0-20250701162626-53e474a39626.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250701162626-53e474a39626",
+  "version_upstream": "",
+  "bsum": "440ff4b80a650a83a5d06a61d19f4585ba336093f5f8c145d6aaa4be4e392657",
+  "build_date": "2025-07-11T04:50:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16211587801",
+  "build_id": "16211587801",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/operator-framework-olm/staging/operator-lifecycle-manager/split?tag=v0.0.0-20250701162626-53e474a39626-riscv64-Linux&download=split.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "17",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/operator-framework-olm/staging/operator-lifecycle-manager/split?tag=v0.0.0-20250701162626-53e474a39626-riscv64-Linux&download=split",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/operator-framework-olm/staging/operator-lifecycle-manager/split:v0.0.0-20250701162626-53e474a39626-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/operator-framework-olm/staging/operator-lifecycle-manager/split",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/operator-framework-olm/staging/operator-lifecycle-manager/split?tag=v0.0.0-20250701162626-53e474a39626-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5a7cd6cf5e0a8fc04351e47bb7da5a7abc391b8cc38c6c74f05fb1c6c2eff2c8",
+  "size": "2.3 MB",
+  "size_raw": "2332040",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "kiali-image-registry",
+  "pkg_family": "operator-lifecycle-manager",
+  "pkg_id": "kiali-image-registry#github.com_openshift_operator_framework_olm_staging_operator_lifecycle_manager",
+  "pkg_name": "kiali-image-registry",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/operator-framework-olm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A management framework for extending Kubernetes with Operators",
+  "homepage": [
+    "https://github.com/openshift/operator-framework-olm"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "catalog",
+    "copy-content",
+    "cpb",
+    "image-canonical-ref",
+    "kiali-image-registry",
+    "olm",
+    "package-server",
+    "split"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/openshift/operator-framework-olm/staging/operator-lifecycle-manager/@v/v0.0.0-20250701162626-53e474a39626.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250701162626-53e474a39626",
+  "version_upstream": "",
+  "bsum": "17797e5353a31df2adc0a60a0efaf2f1e5a3d00ba1e62ec22f516a3203b661f7",
+  "build_date": "2025-07-11T04:50:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16211587801",
+  "build_id": "16211587801",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/operator-framework-olm/staging/operator-lifecycle-manager/kiali-image-registry?tag=v0.0.0-20250701162626-53e474a39626-riscv64-Linux&download=kiali-image-registry.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "17",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/operator-framework-olm/staging/operator-lifecycle-manager/kiali-image-registry?tag=v0.0.0-20250701162626-53e474a39626-riscv64-Linux&download=kiali-image-registry",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/operator-framework-olm/staging/operator-lifecycle-manager/kiali-image-registry:v0.0.0-20250701162626-53e474a39626-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/operator-framework-olm/staging/operator-lifecycle-manager/kiali-image-registry",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/operator-framework-olm/staging/operator-lifecycle-manager/kiali-image-registry?tag=v0.0.0-20250701162626-53e474a39626-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3c7c9b396def0b2c0a1360b35a3bd77070f6ed7e0581a55e87cb6ac1ee4582a8",
+  "size": "31 MB",
+  "size_raw": "32366872",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
