@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "extauthz",
+  "pkg_family": "istio",
+  "pkg_id": "extauthz#github.com_huhenry_istio",
+  "pkg_name": "extauthz",
+  "pkg_type": "static",
+  "pkg_webpage": "https://istio.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Connect, secure, control, and observe services",
+  "homepage": [
+    "https://istio.io"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "docker-builder",
+    "extauthz",
+    "gce_metadata_server",
+    "generate_cert",
+    "generate_csr",
+    "health-check",
+    "imageregistry",
+    "pilot-agent",
+    "server",
+    "src"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/huhenry/istio/@v/v0.0.0-20250705153527-126c084d063c.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250705153527-126c084d063c",
+  "version_upstream": "",
+  "bsum": "cebe0540abdf83ed2343f7c04b3d45a2b962777d59a03d3945e2f3708146f939",
+  "build_date": "2025-07-11T16:20:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16223955978",
+  "build_id": "16223955978",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/huhenry/istio/extauthz?tag=v0.0.0-20250705153527-126c084d063c-aarch64-Linux&download=extauthz.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/huhenry/istio/extauthz?tag=v0.0.0-20250705153527-126c084d063c-aarch64-Linux&download=extauthz",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/huhenry/istio/extauthz:v0.0.0-20250705153527-126c084d063c-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/huhenry/istio/extauthz",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/huhenry/istio/extauthz?tag=v0.0.0-20250705153527-126c084d063c-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "64b11ae06e354cb07816aa56e564e66db01a99b333e819d4caadb5093531b1bc",
+  "size": "17 MB",
+  "size_raw": "17128736",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250630182122-ec526a53442c-aarch64-Linux"
+  ],
+  "trusted": "true"
+}

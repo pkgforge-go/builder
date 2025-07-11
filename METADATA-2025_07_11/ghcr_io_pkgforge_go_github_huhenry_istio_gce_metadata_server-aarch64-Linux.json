@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "gce_metadata_server",
+  "pkg_family": "istio",
+  "pkg_id": "gce_metadata_server#github.com_huhenry_istio",
+  "pkg_name": "gce_metadata_server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://istio.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Connect, secure, control, and observe services",
+  "homepage": [
+    "https://istio.io"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "docker-builder",
+    "extauthz",
+    "gce_metadata_server",
+    "generate_cert",
+    "generate_csr",
+    "health-check",
+    "imageregistry",
+    "pilot-agent",
+    "server",
+    "src"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/huhenry/istio/@v/v0.0.0-20250705153527-126c084d063c.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250705153527-126c084d063c",
+  "version_upstream": "",
+  "bsum": "a55b461e6ac8f0d1d6acfb402d4233d21b9ac380a0d914eec7c66e817fe0947c",
+  "build_date": "2025-07-11T16:19:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16223955978",
+  "build_id": "16223955978",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/huhenry/istio/gce_metadata_server?tag=v0.0.0-20250705153527-126c084d063c-aarch64-Linux&download=gce_metadata_server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/huhenry/istio/gce_metadata_server?tag=v0.0.0-20250705153527-126c084d063c-aarch64-Linux&download=gce_metadata_server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/huhenry/istio/gce_metadata_server:v0.0.0-20250705153527-126c084d063c-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/huhenry/istio/gce_metadata_server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/huhenry/istio/gce_metadata_server?tag=v0.0.0-20250705153527-126c084d063c-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e59d284c0302a58ab1c4387329895b71884bb3b28889bb8541e2a065db90d19d",
+  "size": "5.8 MB",
+  "size_raw": "6018784",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250630182122-ec526a53442c-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
