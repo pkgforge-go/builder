@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "xdcdcmd",
+  "pkg_family": "services",
+  "pkg_id": "xdcdcmd#gitlab.com_mergetb_portal_services",
+  "pkg_name": "xdcdcmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://gitlab.com/mergetb/portal/services",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The mergetb core services",
+  "homepage": [
+    "https://gitlab.com/mergetb/portal/services"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ops-init",
+    "portalpw",
+    "xdcdcmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/gitlab.com/mergetb/portal/services/@v/v1.4.20.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.4.20",
+  "version_upstream": "",
+  "bsum": "a2ba698b914b342fb9e1070e5b17a604775ba0d49959952986dae197b9e6a2d5",
+  "build_date": "2025-07-11T19:52:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16227372184",
+  "build_id": "16227372184",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/mergetb/portal/services/xdcdcmd?tag=v1.4.20-aarch64-Linux&download=xdcdcmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/mergetb/portal/services/xdcdcmd?tag=v1.4.20-aarch64-Linux&download=xdcdcmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/gitlab/mergetb/portal/services/xdcdcmd:v1.4.20-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/gitlab/mergetb/portal/services/xdcdcmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/mergetb/portal/services/xdcdcmd?tag=v1.4.20-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "04294744497cbe10ea166886af0e8b0375cb1a3159bec25f3f76329d5a6b6b27",
+  "size": "21 MB",
+  "size_raw": "21464672",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.4.16-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
