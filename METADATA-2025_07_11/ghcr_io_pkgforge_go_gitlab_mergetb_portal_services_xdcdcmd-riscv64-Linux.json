@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "xdcdcmd",
+  "pkg_family": "services",
+  "pkg_id": "xdcdcmd#gitlab.com_mergetb_portal_services",
+  "pkg_name": "xdcdcmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://gitlab.com/mergetb/portal/services",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The mergetb core services",
+  "homepage": [
+    "https://gitlab.com/mergetb/portal/services"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ops-init",
+    "portalpw",
+    "xdcdcmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/gitlab.com/mergetb/portal/services/@v/v1.4.20.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.4.20",
+  "version_upstream": "",
+  "bsum": "39f51b75e95de9d91129952237b9777e8382ab2e7f131bb91c150770cd729d0c",
+  "build_date": "2025-07-11T19:54:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16227372184",
+  "build_id": "16227372184",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/mergetb/portal/services/xdcdcmd?tag=v1.4.20-riscv64-Linux&download=xdcdcmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/mergetb/portal/services/xdcdcmd?tag=v1.4.20-riscv64-Linux&download=xdcdcmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/gitlab/mergetb/portal/services/xdcdcmd:v1.4.20-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/gitlab/mergetb/portal/services/xdcdcmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/mergetb/portal/services/xdcdcmd?tag=v1.4.20-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1467415aa30d54ff4a6dccac8729d09a41c0793333f1ecaa2f4f8ce592837c70",
+  "size": "21 MB",
+  "size_raw": "21321240",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.4.16-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
