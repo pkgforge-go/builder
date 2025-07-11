@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "portalpw",
+  "pkg_family": "services",
+  "pkg_id": "portalpw#gitlab.com_mergetb_portal_services",
+  "pkg_name": "portalpw",
+  "pkg_type": "static",
+  "pkg_webpage": "https://gitlab.com/mergetb/portal/services",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The mergetb core services",
+  "homepage": [
+    "https://gitlab.com/mergetb/portal/services"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ops-init",
+    "portalpw",
+    "xdcdcmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/gitlab.com/mergetb/portal/services/@v/v1.4.20.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.4.20",
+  "version_upstream": "",
+  "bsum": "bb86bf50db2b16319e3bf87b96652fce62c53c59b9cec498161b7d04c90c3609",
+  "build_date": "2025-07-11T19:53:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16227372184",
+  "build_id": "16227372184",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/mergetb/portal/services/portalpw?tag=v1.4.20-x86_64-Linux&download=portalpw.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/mergetb/portal/services/portalpw?tag=v1.4.20-x86_64-Linux&download=portalpw",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/gitlab/mergetb/portal/services/portalpw:v1.4.20-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/gitlab/mergetb/portal/services/portalpw",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/mergetb/portal/services/portalpw?tag=v1.4.20-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d139737a3f9e8bcb222ef1ab6c4f34db5cf9ff5de7076abf8056d6431dd47b98",
+  "size": "11 MB",
+  "size_raw": "11374144",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.4.16-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
