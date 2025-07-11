@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "httpserver",
+  "pkg_family": "httpfromtcp",
+  "pkg_id": "httpserver#github.com_lucoand_httpfromtcp",
+  "pkg_name": "httpserver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lucoand/httpfromtcp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Http server from scratch project from boot.dev",
+  "homepage": [
+    "https://github.com/lucoand/httpfromtcp"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "httpserver",
+    "tcplistener",
+    "udpsender"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/lucoand/httpfromtcp/@v/v0.0.0-20250707033340-1df131486e83.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250707033340-1df131486e83",
+  "version_upstream": "",
+  "bsum": "7a58ab85452d73aacb2551064122bb0cb7a08c5eeb9634e9c3f6666e504c07c5",
+  "build_date": "2025-07-11T04:32:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16211568213",
+  "build_id": "16211568213",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lucoand/httpfromtcp/httpserver?tag=v0.0.0-20250707033340-1df131486e83-riscv64-Linux&download=httpserver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lucoand/httpfromtcp/httpserver?tag=v0.0.0-20250707033340-1df131486e83-riscv64-Linux&download=httpserver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lucoand/httpfromtcp/httpserver:v0.0.0-20250707033340-1df131486e83-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lucoand/httpfromtcp/httpserver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lucoand/httpfromtcp/httpserver?tag=v0.0.0-20250707033340-1df131486e83-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2ac8d92809273850e26ed94a23d0bafcb03b49601a7f32acc3b95f857bd339dd",
+  "size": "2.4 MB",
+  "size_raw": "2435752",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
