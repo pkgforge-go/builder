@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "integration-test",
+  "pkg_family": "cdncheck",
+  "pkg_id": "integration-test#github.com_projectdiscovery_cdncheck",
+  "pkg_name": "integration-test",
+  "pkg_type": "static",
+  "pkg_webpage": "https://projectdiscovery.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A utility to detect various technology for a given IP address",
+  "homepage": [
+    "https://projectdiscovery.io"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cdncheck",
+    "cdncheck-examples",
+    "functional-test",
+    "generate-index",
+    "integration-test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/projectdiscovery/cdncheck/@v/v1.1.26.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.1.26",
+  "version_upstream": "",
+  "bsum": "0ded6eab0e8a1983375ecf104ab9be716f5c062179dccfbc2282f6fb33f166fb",
+  "build_date": "2025-07-11T16:29:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16224020580",
+  "build_id": "16224020580",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/cdncheck/integration-test?tag=v1.1.26-aarch64-Linux&download=integration-test.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "848",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/cdncheck/integration-test?tag=v1.1.26-aarch64-Linux&download=integration-test",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/projectdiscovery/cdncheck/integration-test:v1.1.26-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/projectdiscovery/cdncheck/integration-test",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/cdncheck/integration-test?tag=v1.1.26-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "215f54895a1809f169e390609f5fa9998ccde9875d9334bea0579d9a51ef5e47",
+  "size": "7.0 MB",
+  "size_raw": "7295104",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-dbdc966-250615T001226-aarch64-Linux[v1.1.23]",
+    "HEAD-0443e5b-250622T001220-aarch64-Linux[v1.1.24]",
+    "HEAD-d4e3c75-250629T001237-aarch64-Linux[v1.1.25]",
+    "v1.1.25-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
