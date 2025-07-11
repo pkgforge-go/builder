@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "vpkverify",
+  "pkg_family": "vpk",
+  "pkg_id": "vpkverify#github.com_galaco_vpk",
+  "pkg_name": "vpkverify",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/galaco/vpk",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Package vpk implements file operations on Valve Software's VPK format",
+  "homepage": [
+    "https://github.com/galaco/vpk"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "vpkcollision",
+    "vpkcreate",
+    "vpkverify"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/galaco/vpk/@v/v1.0.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.0",
+  "version_upstream": "",
+  "bsum": "725e7b3cf41527d5c6f7969ca9be03fb3f6e5c81f4757e2d16d4549c039f68e8",
+  "build_date": "2025-07-11T04:18:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16211523111",
+  "build_id": "16211523111",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/galaco/vpk/vpkverify?tag=v1.0.0-riscv64-Linux&download=vpkverify.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/galaco/vpk/vpkverify?tag=v1.0.0-riscv64-Linux&download=vpkverify",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/galaco/vpk/vpkverify:v1.0.0-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/galaco/vpk/vpkverify",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/galaco/vpk/vpkverify?tag=v1.0.0-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8c9e19d0a491e07329b7df78231ca6f4cd2b89680b8a3097b2a81bf2918a6ac9",
+  "size": "3.5 MB",
+  "size_raw": "3629368",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
