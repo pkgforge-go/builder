@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "moactld",
+  "pkg_family": "mars",
+  "pkg_id": "moactld#gitlab.com_mergetb_facility_mars",
+  "pkg_name": "moactld",
+  "pkg_type": "static",
+  "pkg_webpage": "https://gitlab.com/mergetb/facility/mars",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Merge Automated Resource Space",
+  "homepage": [
+    "https://gitlab.com/mergetb/facility/mars"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apiserver",
+    "canopy",
+    "dance",
+    "dancecmd",
+    "imaging",
+    "metal",
+    "moacmd",
+    "moactl",
+    "moactld",
+    "mrs",
+    "podinit",
+    "sled",
+    "spore",
+    "tftp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/gitlab.com/mergetb/facility/mars/@v/v1.4.2.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.4.2",
+  "version_upstream": "",
+  "bsum": "bec305ded50d3f16d1cd37a8e6194165c105e2c9700b9a579b35ca7878ddabb3",
+  "build_date": "2025-07-11T17:00:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16224139458",
+  "build_id": "16224139458",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/mergetb/facility/mars/moactld?tag=v1.4.2-aarch64-Linux&download=moactld.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/mergetb/facility/mars/moactld?tag=v1.4.2-aarch64-Linux&download=moactld",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/gitlab/mergetb/facility/mars/moactld:v1.4.2-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/gitlab/mergetb/facility/mars/moactld",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/mergetb/facility/mars/moactld?tag=v1.4.2-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "45e5298f46e1230835a5528e5da3ce02981b46be6e72fe65558b2e0056801095",
+  "size": "24 MB",
+  "size_raw": "24581216",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.4.0-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
