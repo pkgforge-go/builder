@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "gardener-vpn-gateway",
+  "pkg_family": "gardener-vpn-gateway",
+  "pkg_id": "gardener-vpn-gateway#github.com_metal_stack_gardener_vpn_gateway",
+  "pkg_name": "gardener-vpn-gateway",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/metal-stack/gardener-vpn-gateway",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A proxy service that enables a control plane component to connect to a service in its shoot cluster",
+  "homepage": [
+    "https://github.com/metal-stack/gardener-vpn-gateway"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gardener-vpn-gateway"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/metal-stack/gardener-vpn-gateway/@v/v0.1.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.1.1",
+  "version_upstream": "",
+  "bsum": "cd990348aab99e5a1b7097eb040cc991be2f455a8cab80d5a57c860d328706d0",
+  "build_date": "2025-07-11T04:37:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16211581653",
+  "build_id": "16211581653",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metal-stack/gardener-vpn-gateway/gardener-vpn-gateway?tag=v0.1.1-x86_64-Linux&download=gardener-vpn-gateway.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metal-stack/gardener-vpn-gateway/gardener-vpn-gateway?tag=v0.1.1-x86_64-Linux&download=gardener-vpn-gateway",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/metal-stack/gardener-vpn-gateway/gardener-vpn-gateway:v0.1.1-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/metal-stack/gardener-vpn-gateway/gardener-vpn-gateway",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/metal-stack/gardener-vpn-gateway/gardener-vpn-gateway?tag=v0.1.1-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ee65d87054b8e06e0a6d53ba5101cddab37c9d91ad38770cd1dfa2243084a283",
+  "size": "44 MB",
+  "size_raw": "45399680",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
