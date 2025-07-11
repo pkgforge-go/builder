@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "dcrtime_checker",
+  "pkg_family": "dcrtime",
+  "pkg_id": "dcrtime_checker#github.com_decred_dcrtime",
+  "pkg_name": "dcrtime_checker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/decred/dcrtime",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Decred anchored timestamp client, proxy, and server",
+  "homepage": [
+    "https://github.com/decred/dcrtime"
+  ],
+  "license": [
+    "ISC"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dcrtime",
+    "dcrtime_checker",
+    "dcrtime_dumpdb",
+    "dcrtime_fsck",
+    "dcrtime_timestamp",
+    "dcrtime_unflush",
+    "dcrtimed"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/decred/dcrtime/@v/v0.0.0-20250710120027-55f88f33ff85.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250710120027-55f88f33ff85",
+  "version_upstream": "",
+  "bsum": "893d25e02b3c0af1446b68bc281f02c010e9e58c952d9d838d9d09e4f4abd97a",
+  "build_date": "2025-07-11T15:54:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16223850103",
+  "build_id": "16223850103",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/decred/dcrtime/dcrtime_checker?tag=v0.0.0-20250710120027-55f88f33ff85-riscv64-Linux&download=dcrtime_checker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "28",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/decred/dcrtime/dcrtime_checker?tag=v0.0.0-20250710120027-55f88f33ff85-riscv64-Linux&download=dcrtime_checker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/decred/dcrtime/dcrtime_checker:v0.0.0-20250710120027-55f88f33ff85-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/decred/dcrtime/dcrtime_checker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/decred/dcrtime/dcrtime_checker?tag=v0.0.0-20250710120027-55f88f33ff85-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e4dce41e641995fba4b10fccb9a23079536eab9be2f31d689edf4d2ce5fa038c",
+  "size": "11 MB",
+  "size_raw": "10515640",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250708203540-6304e64869df-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
