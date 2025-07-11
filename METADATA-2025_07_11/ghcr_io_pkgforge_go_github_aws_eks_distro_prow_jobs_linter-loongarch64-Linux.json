@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "linter",
+  "pkg_family": "eks-distro-prow-jobs",
+  "pkg_id": "linter#github.com_aws_eks_distro_prow_jobs",
+  "pkg_name": "linter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://distro.eks.amazonaws.com/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This repository contains Prow Job configuration for the EKS Distro installation of Prow, which is available at https://prow.eks.amazonaws.com",
+  "homepage": [
+    "https://distro.eks.amazonaws.com/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "linter",
+    "templater"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/aws/eks-distro-prow-jobs/@v/v0.0.0-20250710192239-39a32f28d890.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250710192239-39a32f28d890",
+  "version_upstream": "",
+  "bsum": "e789074acdd95267b3d489c069bbe81742e92bcbb1cad8197f9b2d95e3387134",
+  "build_date": "2025-07-11T04:07:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16211520413",
+  "build_id": "16211520413",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/eks-distro-prow-jobs/linter?tag=v0.0.0-20250710192239-39a32f28d890-loongarch64-Linux&download=linter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "27",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/eks-distro-prow-jobs/linter?tag=v0.0.0-20250710192239-39a32f28d890-loongarch64-Linux&download=linter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aws/eks-distro-prow-jobs/linter:v0.0.0-20250710192239-39a32f28d890-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aws/eks-distro-prow-jobs/linter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/eks-distro-prow-jobs/linter?tag=v0.0.0-20250710192239-39a32f28d890-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "98a6722c9f7e15b9a81bde011620813e30bd0bea00d153ae6bfda8b5eab89547",
+  "size": "46 MB",
+  "size_raw": "47838112",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

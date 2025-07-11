@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "templater",
+  "pkg_family": "eks-distro-prow-jobs",
+  "pkg_id": "templater#github.com_aws_eks_distro_prow_jobs",
+  "pkg_name": "templater",
+  "pkg_type": "static",
+  "pkg_webpage": "https://distro.eks.amazonaws.com/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This repository contains Prow Job configuration for the EKS Distro installation of Prow, which is available at https://prow.eks.amazonaws.com",
+  "homepage": [
+    "https://distro.eks.amazonaws.com/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "linter",
+    "templater"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/aws/eks-distro-prow-jobs/@v/v0.0.0-20250710192239-39a32f28d890.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250710192239-39a32f28d890",
+  "version_upstream": "",
+  "bsum": "42ca8c2abd65c836b3888c7284b6b0c08f9e5a67074dd5b38715d1381b3ea5f8",
+  "build_date": "2025-07-11T04:07:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16211520413",
+  "build_id": "16211520413",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/eks-distro-prow-jobs/templater?tag=v0.0.0-20250710192239-39a32f28d890-loongarch64-Linux&download=templater.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "27",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/eks-distro-prow-jobs/templater?tag=v0.0.0-20250710192239-39a32f28d890-loongarch64-Linux&download=templater",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aws/eks-distro-prow-jobs/templater:v0.0.0-20250710192239-39a32f28d890-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aws/eks-distro-prow-jobs/templater",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/eks-distro-prow-jobs/templater?tag=v0.0.0-20250710192239-39a32f28d890-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ce77e941b5970749b5760c08f5d58da8171cbbf4332b92a09cb6d69de0490679",
+  "size": "3.8 MB",
+  "size_raw": "3928472",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
