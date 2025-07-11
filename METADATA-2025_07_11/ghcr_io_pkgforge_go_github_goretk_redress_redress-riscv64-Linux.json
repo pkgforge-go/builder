@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "redress",
+  "pkg_family": "redress",
+  "pkg_id": "redress#github.com_goretk_redress",
+  "pkg_name": "redress",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/goretk/redress",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Redress - A tool for analyzing stripped Go binaries",
+  "homepage": [
+    "https://github.com/goretk/redress"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "redress"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/goretk/redress/@v/v1.2.32.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.2.32",
+  "version_upstream": "",
+  "bsum": "d141e8f7f0b2598fa9efac13e514f6fe16e1bd7c2ddfca387d1a999de35b8b2e",
+  "build_date": "2025-07-11T18:57:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16227307084",
+  "build_id": "16227307084",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/goretk/redress/redress?tag=v1.2.32-riscv64-Linux&download=redress.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1085",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/goretk/redress/redress?tag=v1.2.32-riscv64-Linux&download=redress",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/goretk/redress/redress:v1.2.32-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/goretk/redress/redress",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/goretk/redress/redress?tag=v1.2.32-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b980d6d68f3be6dcda0f58f9bd240e4a64c40c23efdff21a6013d7daa81566b2",
+  "size": "11 MB",
+  "size_raw": "10500216",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-fe38d96-241012T215229-riscv64-Linux[v1.2.2]",
+    "v1.2.31-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
