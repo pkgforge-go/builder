@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "sample-apiserver",
+  "pkg_family": "apiserver-runtime",
+  "pkg_id": "sample-apiserver#github.com_alauda_apiserver_runtime",
+  "pkg_name": "sample-apiserver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/alauda/apiserver-runtime",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Libraries for implementing aggregated apiservers",
+  "homepage": [
+    "https://github.com/alauda/apiserver-runtime"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apiserver",
+    "apiserver-runtime-gen",
+    "cmd",
+    "sample-apiserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/alauda/apiserver-runtime/@v/v0.0.0-20250710085836-6e456273fa43.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250710085836-6e456273fa43",
+  "version_upstream": "",
+  "bsum": "e5e04fd1d7d31bb8dfcd9b7574c33271ac8178eb821e4abd4d8f008e4ab25d3e",
+  "build_date": "2025-07-11T15:40:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16223841954",
+  "build_id": "16223841954",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/alauda/apiserver-runtime/sample-apiserver?tag=v0.0.0-20250710085836-6e456273fa43-loongarch64-Linux&download=sample-apiserver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/alauda/apiserver-runtime/sample-apiserver?tag=v0.0.0-20250710085836-6e456273fa43-loongarch64-Linux&download=sample-apiserver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/alauda/apiserver-runtime/sample-apiserver:v0.0.0-20250710085836-6e456273fa43-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/alauda/apiserver-runtime/sample-apiserver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/alauda/apiserver-runtime/sample-apiserver?tag=v0.0.0-20250710085836-6e456273fa43-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "abb6755d3b3646f107e9cc95b24132644d237cc30300836f6ea62fdd3347dc63",
+  "size": "70 MB",
+  "size_raw": "73300384",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
