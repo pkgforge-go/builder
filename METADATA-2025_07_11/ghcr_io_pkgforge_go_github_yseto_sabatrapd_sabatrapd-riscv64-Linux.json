@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "sabatrapd",
+  "pkg_family": "sabatrapd",
+  "pkg_id": "sabatrapd#github.com_yseto_sabatrapd",
+  "pkg_name": "sabatrapd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/yseto/sabatrapd",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Sabatrapd is the SNMP Trap handler for Mackerel",
+  "homepage": [
+    "https://github.com/yseto/sabatrapd"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sabatrapd",
+    "trap-send"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/yseto/sabatrapd/@v/v0.2.2.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.2.2",
+  "version_upstream": "",
+  "bsum": "ec13b939d8ca81074d193f20c33830dcd5404037240e0d8639ae87f172817028",
+  "build_date": "2025-07-11T05:00:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16211748045",
+  "build_id": "16211748045",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yseto/sabatrapd/sabatrapd?tag=v0.2.2-riscv64-Linux&download=sabatrapd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yseto/sabatrapd/sabatrapd?tag=v0.2.2-riscv64-Linux&download=sabatrapd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/yseto/sabatrapd/sabatrapd:v0.2.2-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/yseto/sabatrapd/sabatrapd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yseto/sabatrapd/sabatrapd?tag=v0.2.2-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "453b329eda34632595d0d45f0d55f4cbebf087c8c3278e858202092bbf00fa23",
+  "size": "9.4 MB",
+  "size_raw": "9830488",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
