@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "setup-isoreboot",
+  "pkg_family": "setup-hw",
+  "pkg_id": "setup-isoreboot#github.com_cybozu_go_setup_hw",
+  "pkg_name": "setup-isoreboot",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cybozu-go/setup-hw",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Build container image to configure BMC and BIOS",
+  "homepage": [
+    "https://github.com/cybozu-go/setup-hw"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "collector",
+    "idrac-passwd-hash",
+    "monitor-hw",
+    "render-rules",
+    "setup-apply-firmware",
+    "setup-hw",
+    "setup-isoreboot"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cybozu-go/setup-hw/@v/v1.22.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.22.0",
+  "version_upstream": "",
+  "bsum": "c46d49bd20425011520171a315977718ec825770dd36276014bbfc725f178b95",
+  "build_date": "2025-07-12T04:14:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16234105751",
+  "build_id": "16234105751",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/setup-hw/setup-isoreboot?tag=v1.22.0-loongarch64-Linux&download=setup-isoreboot.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/setup-hw/setup-isoreboot?tag=v1.22.0-loongarch64-Linux&download=setup-isoreboot",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cybozu-go/setup-hw/setup-isoreboot:v1.22.0-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cybozu-go/setup-hw/setup-isoreboot",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/setup-hw/setup-isoreboot?tag=v1.22.0-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "81b79be74402be7b6526be087d41f7ef1cf8f91cd652936dca8246e08005fd9e",
+  "size": "4.8 MB",
+  "size_raw": "5016128",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

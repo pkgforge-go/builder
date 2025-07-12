@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "collector",
+  "pkg_family": "setup-hw",
+  "pkg_id": "collector#github.com_cybozu_go_setup_hw",
+  "pkg_name": "collector",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cybozu-go/setup-hw",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Build container image to configure BMC and BIOS",
+  "homepage": [
+    "https://github.com/cybozu-go/setup-hw"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "collector",
+    "idrac-passwd-hash",
+    "monitor-hw",
+    "render-rules",
+    "setup-apply-firmware",
+    "setup-hw",
+    "setup-isoreboot"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cybozu-go/setup-hw/@v/v1.22.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.22.0",
+  "version_upstream": "",
+  "bsum": "0db9375e42d4c2f13f92a11c2209ab02b063fc5843d65b9ee0c7109c76f75f6b",
+  "build_date": "2025-07-12T04:14:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16234105751",
+  "build_id": "16234105751",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/setup-hw/collector?tag=v1.22.0-loongarch64-Linux&download=collector.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/setup-hw/collector?tag=v1.22.0-loongarch64-Linux&download=collector",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cybozu-go/setup-hw/collector:v1.22.0-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cybozu-go/setup-hw/collector",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/setup-hw/collector?tag=v1.22.0-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ff630c129947865ad178c2a80240d6ee955bdd237456c8538dad60a559571e23",
+  "size": "9.6 MB",
+  "size_raw": "10003840",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
