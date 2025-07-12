@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "idrac-passwd-hash",
+  "pkg_family": "setup-hw",
+  "pkg_id": "idrac-passwd-hash#github.com_cybozu_go_setup_hw",
+  "pkg_name": "idrac-passwd-hash",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cybozu-go/setup-hw",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Build container image to configure BMC and BIOS",
+  "homepage": [
+    "https://github.com/cybozu-go/setup-hw"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "collector",
+    "idrac-passwd-hash",
+    "monitor-hw",
+    "render-rules",
+    "setup-apply-firmware",
+    "setup-hw",
+    "setup-isoreboot"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cybozu-go/setup-hw/@v/v1.22.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.22.0",
+  "version_upstream": "",
+  "bsum": "c994de9d270af074f0294c18f5908918e69cec4772c71174c2dfbf372ab759a4",
+  "build_date": "2025-07-12T04:13:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16234105751",
+  "build_id": "16234105751",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/setup-hw/idrac-passwd-hash?tag=v1.22.0-x86_64-Linux&download=idrac-passwd-hash.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/setup-hw/idrac-passwd-hash?tag=v1.22.0-x86_64-Linux&download=idrac-passwd-hash",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cybozu-go/setup-hw/idrac-passwd-hash:v1.22.0-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cybozu-go/setup-hw/idrac-passwd-hash",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/setup-hw/idrac-passwd-hash?tag=v1.22.0-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3a8de10e760a88b8d3b961f2b4f635b5957e4ae08a007ccba0908fc7a810e8c2",
+  "size": "2.9 MB",
+  "size_raw": "3000960",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
