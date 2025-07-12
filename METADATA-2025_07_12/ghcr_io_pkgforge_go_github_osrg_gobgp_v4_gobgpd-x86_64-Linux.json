@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "gobgpd",
+  "pkg_family": "v4",
+  "pkg_id": "gobgpd#github.com_osrg_gobgp_v4",
+  "pkg_name": "gobgpd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://osrg.github.io/gobgp/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "BGP implemented in the Go Programming Language",
+  "homepage": [
+    "https://osrg.github.io/gobgp/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "config",
+    "gobgp",
+    "gobgpd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/osrg/gobgp/v4/@v/v4.0.0-20250710094740-01aba7f0e059.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v4.0.0-20250710094740-01aba7f0e059",
+  "version_upstream": "",
+  "bsum": "28a25799a43770480ef6f7e00101e1c4142f17ff78866ac0e51e80d8e4ddb86d",
+  "build_date": "2025-07-12T02:17:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16233111676",
+  "build_id": "16233111676",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osrg/gobgp/v4/gobgpd?tag=v4.0.0-20250710094740-01aba7f0e059-x86_64-Linux&download=gobgpd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3825",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osrg/gobgp/v4/gobgpd?tag=v4.0.0-20250710094740-01aba7f0e059-x86_64-Linux&download=gobgpd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/osrg/gobgp/v4/gobgpd:v4.0.0-20250710094740-01aba7f0e059-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/osrg/gobgp/v4/gobgpd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osrg/gobgp/v4/gobgpd?tag=v4.0.0-20250710094740-01aba7f0e059-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "15f40219161a772d0c2f0b149ed47c5f59c20ac943808088663e24f3e6e5b1f5",
+  "size": "23 MB",
+  "size_raw": "23267840",
+  "soar_syms": "false",
+  "snapshots": [
+    "v4.0.0-20250702120554-305f14f86867-x86_64-Linux",
+    "v4.0.0-20250705000641-c867115bf487-x86_64-Linux",
+    "v4.0.0-20250710094740-01aba7f0e059-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
