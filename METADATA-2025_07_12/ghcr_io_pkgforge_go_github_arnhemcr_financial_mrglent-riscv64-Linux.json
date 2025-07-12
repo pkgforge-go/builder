@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "mrglent",
+  "pkg_family": "financial",
+  "pkg_id": "mrglent#github.com_arnhemcr_financial",
+  "pkg_name": "mrglent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/arnhemcr/financial",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This Go module provides programs to translate a CSV account statement into a Ledger journal and merge multiple Ledger journals into one",
+  "homepage": [
+    "https://github.com/arnhemcr/financial"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "csv2trn",
+    "mrglent"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/arnhemcr/financial/@v/v1.6.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.6.0",
+  "version_upstream": "",
+  "bsum": "1d290b8475cfc2c27f07bc1f9eb2f5e9403606c1de98760924b1b6f76478be70",
+  "build_date": "2025-07-12T02:02:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16233103110",
+  "build_id": "16233103110",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arnhemcr/financial/mrglent?tag=v1.6.0-riscv64-Linux&download=mrglent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arnhemcr/financial/mrglent?tag=v1.6.0-riscv64-Linux&download=mrglent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/arnhemcr/financial/mrglent:v1.6.0-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/arnhemcr/financial/mrglent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arnhemcr/financial/mrglent?tag=v1.6.0-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "018a8924ceb14645307cb8d93358c03ad0bf264d6a774ded61125e882de237ef",
+  "size": "1.8 MB",
+  "size_raw": "1870664",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.6.0-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
