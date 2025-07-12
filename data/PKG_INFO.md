@@ -135,6 +135,7 @@
 - 🐹 **[codegen](https://www.gitpod.io)**: The developer platform for on-demand cloud development environments to create software faster and more securely.
 - 🐹 **[prettylog](https://www.gitpod.io)**: The developer platform for on-demand cloud development environments to create software faster and more securely.
 - 🐹 **[webhook](https://cert-manager.io)**: Automatically provision and manage TLS certificates in Kubernetes.
+- 🐹 **[webhook](https://cert-manager.io)**: Automatically provision and manage TLS certificates in Kubernetes.
 - 🐹 **[tview](https://github.com/rivo/tview)**: Terminal UI library with rich, interactive widgets — written in Golang.
 - 🐹 **[dnscrypt-proxy](https://dnscrypt.info)**: Dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - 🐹 **[interceptors](https://github.com/shopify/sarama)**: Sarama is a Go library for Apache Kafka.
@@ -165,6 +166,8 @@
 - 🐹 **[falcon](https://falcon.readthedocs.io)**: The no-magic web API and microservices framework for Python developers, with an emphasis on reliability and performance at scale.
 - 🐹 **[scripts](https://prometheus-operator.dev)**: Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes.
 - 🐹 **[scripts](https://prometheus-operator.dev)**: Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes.
+- 🐹 **[integration-go-echarts](https://templ.guide/)**: A language for writing HTML user interfaces in Go.
+- 🐹 **[typescript](https://templ.guide/)**: A language for writing HTML user interfaces in Go.
 - 🐹 **[counter](https://templ.guide/)**: A language for writing HTML user interfaces in Go.
 - 🐹 **[external-libraries](https://templ.guide/)**: A language for writing HTML user interfaces in Go.
 - 🐹 **[integration-chi](https://templ.guide/)**: A language for writing HTML user interfaces in Go.
@@ -312,6 +315,7 @@
 - 🐹 **[speedscope](https://www.speedscope.app)**: A fast, interactive web-based viewer for performance profiles.
 - 🐹 **[docgen](https://k3d.io/)**: Little helper to run CNCF's k3s in Docker.
 - 🐹 **[tools](https://k3d.io/)**: Little helper to run CNCF's k3s in Docker.
+- 🐹 **[cluster-key-rate-limit](https://higress.ai)**: AI Gateway | AI Native API Gateway.
 - 🐹 **[hello-world](https://higress.ai)**: AI Gateway | AI Native API Gateway.
 - 🐹 **[ip-restriction](https://higress.ai)**: AI Gateway | AI Native API Gateway.
 - 🐹 **[request-validation](https://higress.ai)**: AI Gateway | AI Native API Gateway.
@@ -323,6 +327,7 @@
 - 🐹 **[linked_roles](https://github.com/bwmarrin/discordgo)**: Golang) Go bindings for Discord.
 - 🐹 **[voice_receive](https://github.com/bwmarrin/discordgo)**: Golang) Go bindings for Discord.
 - 🐹 **[devtools](https://github.com/cockroachdb/pebble)**: RocksDB/LevelDB inspired key-value database in Go.
+- 🐹 **[greptimedb](https://greptime.com/)**: Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming.
 - 🐹 **[k8s-tutorials](https://guangzhengli.com/courses/kubernetes)**: K8s tutorials | k8s 教程.
 - 🐹 **[cli](https://github.com/docker/cli)**: The Docker CLI.
 - 🐹 **[gost](https://gost.run)**: GO Simple Tunnel - a simple tunnel written in golang.
@@ -343,6 +348,7 @@
 - 🐹 **[v2](https://github.com/confluentinc/confluent-kafka-go)**: Confluent's Apache Kafka Golang client.
 - 🐹 **[assetmanagerd](https://go.unkey.com)**: Open source API management platform.
 - 🐹 **[billaged](https://go.unkey.com)**: Open source API management platform.
+- 🐹 **[builderd](https://go.unkey.com)**: Open source API management platform.
 - 🐹 **[chproxy](https://go.unkey.com)**: Open source API management platform.
 - 🐹 **[grpc-ping-go](https://knative.dev/docs/)**: User documentation for Knative components.
 - 🐹 **[helloworld-go](https://knative.dev/docs/)**: User documentation for Knative components.
@@ -377,6 +383,7 @@
 - 🐹 **[grpc-ping](https://github.com/googlecloudplatform/golang-samples)**: Sample apps and code written for Google Cloud in the Go programming language.
 - 🐹 **[h2c](https://github.com/googlecloudplatform/golang-samples)**: Sample apps and code written for Google Cloud in the Go programming language.
 - 🐹 **[handle_task](https://github.com/googlecloudplatform/golang-samples)**: Sample apps and code written for Google Cloud in the Go programming language.
+- 🐹 **[hello-broken](https://github.com/googlecloudplatform/golang-samples)**: Sample apps and code written for Google Cloud in the Go programming language.
 - 🐹 **[helloworld](https://github.com/googlecloudplatform/golang-samples)**: Sample apps and code written for Google Cloud in the Go programming language.
 - 🐹 **[logging-manual](https://github.com/googlecloudplatform/golang-samples)**: Sample apps and code written for Google Cloud in the Go programming language.
 - 🐹 **[renderer](https://github.com/googlecloudplatform/golang-samples)**: Sample apps and code written for Google Cloud in the Go programming language.
@@ -395,6 +402,9 @@
 - 🐹 **[pubsub](https://github.com/googlecloudplatform/golang-samples)**: Sample apps and code written for Google Cloud in the Go programming language.
 - 🐹 **[releaser](https://docs.docker.com)**: Source repo for Docker's Documentation.
 - 🐹 **[qpext](https://kserve.github.io/website/)**: Standardized Serverless ML Inference Platform on Kubernetes.
+- 🐹 **[pg-listen](https://bun.uptrace.dev)**: SQL-first Golang ORM.
+- 🐹 **[rel-has-many](https://bun.uptrace.dev)**: SQL-first Golang ORM.
+- 🐹 **[rel-has-one](https://bun.uptrace.dev)**: SQL-first Golang ORM.
 - 🐹 **[rel-many-to-many](https://bun.uptrace.dev)**: SQL-first Golang ORM.
 - 🐹 **[rel-many-to-many-self](https://bun.uptrace.dev)**: SQL-first Golang ORM.
 - 🐹 **[create-table-index](https://bun.uptrace.dev)**: SQL-first Golang ORM.
@@ -428,7 +438,10 @@
 - 🐹 **[myapp](https://youtube.com/antonputra)**: DevOps Tutorials.
 - 🐹 **[myapp](https://youtube.com/antonputra)**: DevOps Tutorials.
 - 🐹 **[test-infra](https://github.com/kubernetes/test-infra)**: Test infrastructure for the Kubernetes project.
+- 🐹 **[awskms](https://boundaryproject.io)**: Boundary enables identity-based access management for dynamic infrastructure.
+- 🐹 **[azurekeyvault](https://boundaryproject.io)**: Boundary enables identity-based access management for dynamic infrastructure.
 - 🐹 **[gcpckms](https://boundaryproject.io)**: Boundary enables identity-based access management for dynamic infrastructure.
+- 🐹 **[minio](https://boundaryproject.io)**: Boundary enables identity-based access management for dynamic infrastructure.
 - 🐹 **[transit](https://boundaryproject.io)**: Boundary enables identity-based access management for dynamic infrastructure.
 - 🐹 **[azure](https://boundaryproject.io)**: Boundary enables identity-based access management for dynamic infrastructure.
 - 🐹 **[testsplit](https://cerbos.dev)**: Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.
@@ -607,6 +620,7 @@
 - 🐹 **[v3](https://github.com/enfein/mieru/v3)**: Mieru is a socks5 / HTTP / HTTPS proxy to bypass censorship.
 - 🐹 **[test_dep](https://github.com/bazelbuild/bazel-gazelle/tests/bcr/go_work/test_dep)**: Gazelle is a Bazel build file generator for Bazel projects.
 - 🐹 **[_examples](https://pkg.go.dev/github.com/centrifugal/centrifuge)**: Real-time messaging library for Go.
+- 🐹 **[v2](https://go-doudou.github.io)**: Go-doudou（doudou pronounce /dəudəu/）is OpenAPI 3.
 - 🐹 **[kubectl-cypher](https://cyphernet.es)**: A Kubernetes Query Language.
 - 🐹 **[operator](https://cyphernet.es)**: A Kubernetes Query Language.
 - 🐹 **[protoc-gen-auth](https://pipecd.dev)**: The One CD for All {applications, platforms, operations.
@@ -629,11 +643,27 @@
 - 🐹 **[sshpiper](https://sshpiper.com/)**: The missing reverse proxy for ssh scp.
 - 🐹 **[history](https://golang.design/history)**: Go: A Documentary | https://golang.
 - 🐹 **[k8gb](https://www.k8gb.io)**: A cloud native Kubernetes Global Balancer.
+- 🐹 **[brave](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
 - 🐹 **[chrome](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
+- 🐹 **[coda](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
+- 🐹 **[discord](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
 - 🐹 **[git](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
+- 🐹 **[google_contacts](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
+- 🐹 **[google_forms](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
+- 🐹 **[google_sheets](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
+- 🐹 **[hacker-news](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
+- 🐹 **[hubspot](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
+- 🐹 **[ip-api](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
+- 🐹 **[notes](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
+- 🐹 **[nylas](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
 - 🐹 **[rss](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
 - 🐹 **[safari](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
+- 🐹 **[salesforce_custom](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
+- 🐹 **[shopify](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
 - 🐹 **[spotify](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
+- 🐹 **[system](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
+- 🐹 **[typeform](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
+- 🐹 **[vercel](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
 - 🐹 **[go](https://github.com/d99kris/nchat)**: Terminal-based Telegram / WhatsApp client for Linux and macOS.
 - 🐹 **[dragonos](https://dragonos.org)**: DragonOS is an operating system developed from scratch using Rust, with Linux compatibility.
 - 🐹 **[airtable](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
@@ -686,6 +716,7 @@
 - 🐹 **[v3](https://cloudevents.github.io/sdk-go/)**: Go SDK for CloudEvents.
 - 🐹 **[code-used-on-daniel-lemire-s-blog](http://lemire.me/blog/)**: This is a repository for the code posted on my blog.
 - 🐹 **[template-check](https://googlecloudplatform.github.io/magic-modules/)**: Add Google Cloud Platform support to Terraform.
+- 🐹 **[tpgtools](https://googlecloudplatform.github.io/magic-modules/)**: Add Google Cloud Platform support to Terraform.
 - 🐹 **[experiments](https://github.com/bigwhite/experiments)**: Personal code, scripts and config files for experiments.
 - 🐹 **[humanlayer-tui](https://humanlayer.dev)**: HumanLayer enables AI agents to communicate with humans in tool-based and async workflows.
 - 🐹 **[wappalyzergo](https://github.com/projectdiscovery/wappalyzergo)**: A high performance go implementation of Wappalyzer Technology Detection Library.
@@ -840,6 +871,7 @@
 - 🐹 **[openai-proxy](https://github.com/geekai-dev/openai-proxy)**: 基于 Go 实现的 OpenAI HTTP 代理（云函数、lambda 函数、自己部署均可.
 - 🐹 **[things](https://doc.unitedrhino.com/)**: 联犀是基于golang,gozero框架构建的SaaS云原生微服务物联网平台(iot)，支持MQTT、CoAP、HTTP、TCP、阿里云、腾讯云、涂鸦云,物美等云云对接及设备协议，实现海量多样设备连接。支持多租户、多应用和项目管理，内置小程序功能,适应多样化业务场景.
 - 🐹 **[things](https://doc.unitedrhino.com/)**: 联犀是基于golang,gozero框架构建的SaaS云原生微服务物联网平台(iot)，支持MQTT、CoAP、HTTP、TCP、阿里云、腾讯云、涂鸦云,物美等云云对接及设备协议，实现海量多样设备连接。支持多租户、多应用和项目管理，内置小程序功能,适应多样化业务场景.
+- 🐹 **[ipmi_exporter](https://github.com/prometheus-community/ipmi_exporter)**: Remote IPMI exporter for Prometheus.
 - 🐹 **[tools](https://conduit.io)**: Conduit streams data between data stores.
 - 🐹 **[broccoli](https://github.com/tucnak/broccoli)**: Using brotli compression to embed static files in Go.
 - 🐹 **[things](https://doc.unitedrhino.com/)**: 联犀是基于golang,gozero框架构建的SaaS云原生微服务物联网平台(iot)，支持MQTT、CoAP、HTTP、TCP、阿里云、腾讯云、涂鸦云,物美等云云对接及设备协议，实现海量多样设备连接。支持多租户、多应用和项目管理，内置小程序功能,适应多样化业务场景.
