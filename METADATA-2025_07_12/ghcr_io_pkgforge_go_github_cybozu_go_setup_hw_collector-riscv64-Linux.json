@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "collector",
+  "pkg_family": "setup-hw",
+  "pkg_id": "collector#github.com_cybozu_go_setup_hw",
+  "pkg_name": "collector",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cybozu-go/setup-hw",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Build container image to configure BMC and BIOS",
+  "homepage": [
+    "https://github.com/cybozu-go/setup-hw"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "collector",
+    "idrac-passwd-hash",
+    "monitor-hw",
+    "render-rules",
+    "setup-apply-firmware",
+    "setup-hw",
+    "setup-isoreboot"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cybozu-go/setup-hw/@v/v1.22.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.22.0",
+  "version_upstream": "",
+  "bsum": "633a8152fbcf95b371da4f40dc3c23da18f771bbb8c1a4a6a18b832a4c638e32",
+  "build_date": "2025-07-12T04:13:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16234105751",
+  "build_id": "16234105751",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/setup-hw/collector?tag=v1.22.0-riscv64-Linux&download=collector.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/setup-hw/collector?tag=v1.22.0-riscv64-Linux&download=collector",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cybozu-go/setup-hw/collector:v1.22.0-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cybozu-go/setup-hw/collector",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/setup-hw/collector?tag=v1.22.0-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "36e2c20c03858804e58b5c22c82494a7b613b7322b9622f1ab28f4fa2792b590",
+  "size": "9.5 MB",
+  "size_raw": "9862360",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "idrac-passwd-hash",
+  "pkg_family": "setup-hw",
+  "pkg_id": "idrac-passwd-hash#github.com_cybozu_go_setup_hw",
+  "pkg_name": "idrac-passwd-hash",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cybozu-go/setup-hw",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Build container image to configure BMC and BIOS",
+  "homepage": [
+    "https://github.com/cybozu-go/setup-hw"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "collector",
+    "idrac-passwd-hash",
+    "monitor-hw",
+    "render-rules",
+    "setup-apply-firmware",
+    "setup-hw",
+    "setup-isoreboot"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cybozu-go/setup-hw/@v/v1.22.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.22.0",
+  "version_upstream": "",
+  "bsum": "d90e9ab585dc2a59a7a4eb6efa26d6d95596bc28b672b974a373a5df3886a334",
+  "build_date": "2025-07-12T04:13:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16234105751",
+  "build_id": "16234105751",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/setup-hw/idrac-passwd-hash?tag=v1.22.0-riscv64-Linux&download=idrac-passwd-hash.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/setup-hw/idrac-passwd-hash?tag=v1.22.0-riscv64-Linux&download=idrac-passwd-hash",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cybozu-go/setup-hw/idrac-passwd-hash:v1.22.0-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cybozu-go/setup-hw/idrac-passwd-hash",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cybozu-go/setup-hw/idrac-passwd-hash?tag=v1.22.0-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "817548faf05790afd8537d03c2c663671f788a292bba0dbd7dae354d2202595c",
+  "size": "2.7 MB",
+  "size_raw": "2815608",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
