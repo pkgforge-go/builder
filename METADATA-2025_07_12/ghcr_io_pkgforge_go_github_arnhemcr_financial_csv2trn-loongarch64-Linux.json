@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "csv2trn",
+  "pkg_family": "financial",
+  "pkg_id": "csv2trn#github.com_arnhemcr_financial",
+  "pkg_name": "csv2trn",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/arnhemcr/financial",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This Go module provides programs to translate a CSV account statement into a Ledger journal and merge multiple Ledger journals into one",
+  "homepage": [
+    "https://github.com/arnhemcr/financial"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "csv2trn",
+    "mrglent"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/arnhemcr/financial/@v/v1.6.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.6.0",
+  "version_upstream": "",
+  "bsum": "5512ca864b3198f0228dd408b17dc0141b7f90d2c5ca0f9472adc33d4ee93d55",
+  "build_date": "2025-07-12T02:03:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16233103110",
+  "build_id": "16233103110",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arnhemcr/financial/csv2trn?tag=v1.6.0-loongarch64-Linux&download=csv2trn.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arnhemcr/financial/csv2trn?tag=v1.6.0-loongarch64-Linux&download=csv2trn",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/arnhemcr/financial/csv2trn:v1.6.0-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/arnhemcr/financial/csv2trn",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/arnhemcr/financial/csv2trn?tag=v1.6.0-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "eedb85c73f4212f7939d182e55f00783fbb50bf6737fb6e849c281e683a3b8c2",
+  "size": "2.1 MB",
+  "size_raw": "2152696",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.4.0-loongarch64-Linux",
+    "v1.6.0-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
