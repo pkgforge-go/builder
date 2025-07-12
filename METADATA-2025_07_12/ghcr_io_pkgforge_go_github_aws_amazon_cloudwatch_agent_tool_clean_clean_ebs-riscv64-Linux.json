@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "clean_ebs",
+  "pkg_family": "clean",
+  "pkg_id": "clean_ebs#github.com_aws_amazon_cloudwatch_agent_tool_clean",
+  "pkg_name": "clean_ebs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aws/amazon-cloudwatch-agent",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CloudWatch Agent enables you to collect and export host-level metrics and logs on instances running Linux or Windows server",
+  "homepage": [
+    "https://github.com/aws/amazon-cloudwatch-agent"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "clean_auto_scaling_groups",
+    "clean_ebs",
+    "clean_eks",
+    "clean_host",
+    "clean_iam_roles",
+    "clean_launch_configuration",
+    "clean_log_group",
+    "clean_security_group"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/aws/amazon-cloudwatch-agent/tool/clean/@v/v0.0.0-20250710145518-df626d1af40b.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250710145518-df626d1af40b",
+  "version_upstream": "",
+  "bsum": "90e8479dd5e7148a4164b35c57a21f6a784494fe3d570c3bc49a8b082ca88191",
+  "build_date": "2025-07-12T04:07:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16234104149",
+  "build_id": "16234104149",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-cloudwatch-agent/tool/clean/clean_ebs?tag=v0.0.0-20250710145518-df626d1af40b-riscv64-Linux&download=clean_ebs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "487",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-cloudwatch-agent/tool/clean/clean_ebs?tag=v0.0.0-20250710145518-df626d1af40b-riscv64-Linux&download=clean_ebs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aws/amazon-cloudwatch-agent/tool/clean/clean_ebs:v0.0.0-20250710145518-df626d1af40b-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aws/amazon-cloudwatch-agent/tool/clean/clean_ebs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-cloudwatch-agent/tool/clean/clean_ebs?tag=v0.0.0-20250710145518-df626d1af40b-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d8b1028dc0b44d489f9c319b79293c12bb419cb94ee550246dada6d9e5e5bcf6",
+  "size": "8.2 MB",
+  "size_raw": "8495864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
