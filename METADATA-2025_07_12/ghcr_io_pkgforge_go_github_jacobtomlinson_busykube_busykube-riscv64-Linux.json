@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "busykube",
+  "pkg_family": "busykube",
+  "pkg_id": "busykube#github.com_jacobtomlinson_busykube",
+  "pkg_name": "busykube",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jacobtomlinson/busykube",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A busybox style all-in-one binary for Kubernetes. All your favourite Kubernetes tools in a single executable",
+  "homepage": [
+    "https://github.com/jacobtomlinson/busykube"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "busykube"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/jacobtomlinson/busykube/@v/v0.202507.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.202507.0",
+  "version_upstream": "",
+  "bsum": "e2634d13131bd5374c0adc4d93e4ff149de749ed945879b15bc748ed2b838a44",
+  "build_date": "2025-07-12T04:23:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16234134339",
+  "build_id": "16234134339",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jacobtomlinson/busykube/busykube?tag=v0.202507.0-riscv64-Linux&download=busykube.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jacobtomlinson/busykube/busykube?tag=v0.202507.0-riscv64-Linux&download=busykube",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jacobtomlinson/busykube/busykube:v0.202507.0-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jacobtomlinson/busykube/busykube",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jacobtomlinson/busykube/busykube?tag=v0.202507.0-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "afa9942750a651f9378ea6becf104ba03c3d7ae24c1dc8bc93d433221e175110",
+  "size": "86 MB",
+  "size_raw": "89570776",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
