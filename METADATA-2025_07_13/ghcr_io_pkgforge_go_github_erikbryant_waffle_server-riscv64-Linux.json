@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "waffle",
+  "pkg_id": "server#github.com_erikbryant_waffle",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/erikbryant/waffle",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Solver for the Waffle game https://wafflegame.net",
+  "homepage": [
+    "https://github.com/erikbryant/waffle"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/fitumi0/waffle/@v/v0.0.0-20250712221832-f0546441e45a.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250625022336-7b493176a4d2",
+  "version_upstream": "",
+  "bsum": "897514362f35e21c71ebdbcec44b47af6b28f61606f295cca00b07b91a7ac557",
+  "build_date": "2025-07-13T04:21:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16245159515",
+  "build_id": "16245159515",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/erikbryant/waffle/server?tag=v0.0.0-20250625022336-7b493176a4d2-riscv64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/erikbryant/waffle/server?tag=v0.0.0-20250625022336-7b493176a4d2-riscv64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/erikbryant/waffle/server:v0.0.0-20250625022336-7b493176a4d2-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/erikbryant/waffle/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/erikbryant/waffle/server?tag=v0.0.0-20250625022336-7b493176a4d2-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6008ec68528cfeabaa0da3c54e7c0f46f2da45b30eb8d3af85444bfb173ad07e",
+  "size": "11 MB",
+  "size_raw": "10958936",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
