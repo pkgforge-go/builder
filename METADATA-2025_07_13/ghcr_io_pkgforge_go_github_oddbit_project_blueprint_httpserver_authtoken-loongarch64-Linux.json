@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "httpserver-authtoken",
+  "pkg_family": "blueprint",
+  "pkg_id": "httpserver-authtoken#github.com_oddbit_project_blueprint",
+  "pkg_name": "httpserver-authtoken",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/oddbit-project/blueprint",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Misc Go routines",
+  "homepage": [
+    "https://github.com/oddbit-project/blueprint"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "application",
+    "ch-migrations",
+    "clickhouse",
+    "console",
+    "dbgrid",
+    "filelogging",
+    "htpasswd",
+    "http-csrf",
+    "httpserver",
+    "httpserver-authtoken",
+    "jwtprovider-example",
+    "kafka",
+    "metrics",
+    "mqtt",
+    "nats",
+    "nextjs-api-demo",
+    "pgsql",
+    "pgsql_migrations",
+    "session"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/oddbit-project/blueprint/@v/v0.5.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.5.0",
+  "version_upstream": "",
+  "bsum": "e14df45ce836f4e380744f1d7e3efd93b8afa9e18e7d44fa6be9206f4847cbdc",
+  "build_date": "2025-07-13T15:48:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16250672047",
+  "build_id": "16250672047",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/oddbit-project/blueprint/httpserver-authtoken?tag=v0.5.0-loongarch64-Linux&download=httpserver-authtoken.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/oddbit-project/blueprint/httpserver-authtoken?tag=v0.5.0-loongarch64-Linux&download=httpserver-authtoken",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/oddbit-project/blueprint/httpserver-authtoken:v0.5.0-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/oddbit-project/blueprint/httpserver-authtoken",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/oddbit-project/blueprint/httpserver-authtoken?tag=v0.5.0-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "823baf24eb9ac8ed4fa76b3205b04f889550512cbfedc185d71ab2d23a0f948b",
+  "size": "9.1 MB",
+  "size_raw": "9461920",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "clickhouse",
+  "pkg_family": "blueprint",
+  "pkg_id": "clickhouse#github.com_oddbit_project_blueprint",
+  "pkg_name": "clickhouse",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/oddbit-project/blueprint",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Misc Go routines",
+  "homepage": [
+    "https://github.com/oddbit-project/blueprint"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "application",
+    "ch-migrations",
+    "clickhouse",
+    "console",
+    "dbgrid",
+    "filelogging",
+    "htpasswd",
+    "http-csrf",
+    "httpserver",
+    "httpserver-authtoken",
+    "jwtprovider-example",
+    "kafka",
+    "metrics",
+    "mqtt",
+    "nats",
+    "nextjs-api-demo",
+    "pgsql",
+    "pgsql_migrations",
+    "session"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/oddbit-project/blueprint/@v/v0.5.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.5.0",
+  "version_upstream": "",
+  "bsum": "6cc88b06a70fa4f21852ffe9dd88db540ffbdc4c0d0560206ae1c1a0941b2a28",
+  "build_date": "2025-07-13T15:48:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16250672047",
+  "build_id": "16250672047",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/oddbit-project/blueprint/clickhouse?tag=v0.5.0-loongarch64-Linux&download=clickhouse.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/oddbit-project/blueprint/clickhouse?tag=v0.5.0-loongarch64-Linux&download=clickhouse",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/oddbit-project/blueprint/clickhouse:v0.5.0-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/oddbit-project/blueprint/clickhouse",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/oddbit-project/blueprint/clickhouse?tag=v0.5.0-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "346f7bcdca2eccb5eb332f68a6c625c0e932674e5d74ee6b0810548bbd389862",
+  "size": "8.8 MB",
+  "size_raw": "9220576",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
