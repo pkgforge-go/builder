@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "client",
+  "pkg_family": "snowflake",
+  "pkg_id": "client#github.com_tgragnato_snowflake",
+  "pkg_name": "client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://tgragnato.it/snowflake/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "WebRTC Pluggable Transport",
+  "homepage": [
+    "https://tgragnato.it/snowflake/"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "broker",
+    "client",
+    "probetest",
+    "proxy",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/gitlab.com/torproject/snowflake/@v/v1.0.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250710143712-b796409d8ee3",
+  "version_upstream": "",
+  "bsum": "64fab46cebf64ef8493ee3aaeadd8a0526d1a694d9b0a1f119175bc0585a7d1c",
+  "build_date": "2025-07-13T04:55:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16245223578",
+  "build_id": "16245223578",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/tgragnato/snowflake/client?tag=v0.0.0-20250710143712-b796409d8ee3-aarch64-Linux&download=client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/tgragnato/snowflake/client?tag=v0.0.0-20250710143712-b796409d8ee3-aarch64-Linux&download=client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/gitlab/tgragnato/snowflake/client:v0.0.0-20250710143712-b796409d8ee3-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/gitlab/tgragnato/snowflake/client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/tgragnato/snowflake/client?tag=v0.0.0-20250710143712-b796409d8ee3-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f6ce2f9d600fcbd044fd25fd82f5a95a76d3f25bf4163a23cefebad4504f4825",
+  "size": "9.4 MB",
+  "size_raw": "9793760",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
