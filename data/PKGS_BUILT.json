@@ -33288,6 +33288,19 @@
     "version": "v0.0.0-20250630234414-49eca2a301fc"
   },
   {
+    "description": "Azisaba API wrapper for golang",
+    "name": "azisabaapi",
+    "pkg_id": "azisabaapi#github.com_sysnote8main_azisabaapi",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-13",
+    "version": "v0.0.0-20250712112238-dbd9180db147"
+  },
+  {
     "description": "This is a collection of sidecar containers that can be incorporated within confidential container groups on Azure Container Instances.",
     "name": "azmount",
     "pkg_id": "azmount#github.com_microsoft_confidential_sidecar_containers",
@@ -42202,8 +42215,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-29",
-    "version": "HEAD-48486e5-250628T211926"
+    "updated_at": "2025-07-13",
+    "version": "v0.0.0-20250710143712-b796409d8ee3"
   },
   {
     "description": "On-Demand Service Broker _ODB_ golang SDK for easily creating brokers that provision instances via BOSH",
@@ -59641,8 +59654,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-29",
-    "version": "HEAD-48486e5-250628T211926"
+    "updated_at": "2025-07-13",
+    "version": "v0.0.0-20250710143712-b796409d8ee3"
   },
   {
     "description": "Projeto do curso Full Cycle Go Expert",
@@ -90058,7 +90071,10 @@
     "name": "digipin-go",
     "pkg_id": "digipin-go#github.com_rajatguptaa_digipin_go",
     "targets": [
-      "aarch64-Linux"
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-07-13",
     "version": "v1.0.0"
@@ -97034,6 +97050,19 @@
     ],
     "updated_at": "2025-06-29",
     "version": "HEAD-62d06a0-250628T212035"
+  },
+  {
+    "description": "Find exported but unused values in a Go project",
+    "name": "dustat",
+    "pkg_id": "dustat#github.com_tompston_dustat",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-13",
+    "version": "v0.0.2"
   },
   {
     "description": "No Description Provided",
@@ -119558,6 +119587,19 @@
     "version": "HEAD-a8da00e-240927T115715"
   },
   {
+    "description": "The fastest AI command generator",
+    "name": "gai",
+    "pkg_id": "gai#github.com_tnfssc_gai",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-13",
+    "version": "v0.3.0"
+  },
+  {
     "description": "Build powerful pipelines in any programming language.",
     "name": "gaia",
     "pkg_id": "gaia#github.com_gaia_pipeline_gaia",
@@ -130573,6 +130615,19 @@
     "version": "v0.0.0-20250620092333-04b4058557a2"
   },
   {
+    "description": "Gherkin code formatter",
+    "name": "gherkin-format",
+    "pkg_id": "gherkin-format#github.com_raviqqe_gherkin_format",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-13",
+    "version": "v0.0.0-20250712180228-2b9cc1df4fe8"
+  },
+  {
     "description": "Gherkin to Markdown converter",
     "name": "gherkin2markdown",
     "pkg_id": "gherkin2markdown#github.com_marxarelli_gherkin2markdown",
@@ -140085,6 +140140,19 @@
     "version": "HEAD-fc2fb7d-250624T110043"
   },
   {
+    "description": "Custom gobench code to allow custom headers",
+    "name": "gobench3.1",
+    "pkg_id": "gobench3.1#github.com_satyabirbhoi_gobench3.1",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-13",
+    "version": "v0.0.0-20250701071048-d8646235c4a7"
+  },
+  {
     "description": "A random collection of my utilities",
     "name": "gobenchsave",
     "pkg_id": "gobenchsave#github.com_charlievieth_utils_gobenchsave",
@@ -141777,6 +141845,19 @@
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-f1316ef-250318T132848"
+  },
+  {
+    "description": "Simple brainfuck interpreter written in Go",
+    "name": "gofuck",
+    "pkg_id": "gofuck#github.com_voxelost_gofuck",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-13",
+    "version": "v0.0.0-20250712135350-0ca6c9e7dad8"
   },
   {
     "description": "A stricter gofmt",
@@ -159104,6 +159185,18 @@
     "version": "HEAD-f1713d8-250505T150751"
   },
   {
+    "description": "Lua Script to Executable Packager - Create cross-platform TUI applications from Lua scripts",
+    "name": "hype",
+    "pkg_id": "hype#github.com_twilson63_hype",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-13",
+    "version": "v1.6.0"
+  },
+  {
     "description": "Operator pattern for managing multi-operator products",
     "name": "hyperconverged-cluster-operator",
     "pkg_id": "hyperconverged-cluster-operator#github.com_kubevirt_hyperconverged_cluster_operator",
@@ -161889,6 +161982,19 @@
     ],
     "updated_at": "2025-06-24",
     "version": "20250624T150613"
+  },
+  {
+    "description": "The Incus demo server",
+    "name": "incus-demo",
+    "pkg_id": "incus-demo#github.com_yrougy_incus_demo",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-13",
+    "version": "v0.0.0-20250402130301-e9eae536f785"
   },
   {
     "description": "An auto-scaling cluster of build agents running in your own AWS VPC",
@@ -166104,6 +166210,19 @@
     ],
     "updated_at": "2025-06-24",
     "version": "HEAD-d032965-250624T105405"
+  },
+  {
+    "description": "Remote IPMI exporter for Prometheus",
+    "name": "ipmi_exporter",
+    "pkg_id": "ipmi_exporter#github.com_soundcloud_ipmi_exporter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-13",
+    "version": "v1.10.1"
   },
   {
     "description": "A powerful, yet easy to use CLI tool written in Go for subdomain discovery and IP lookup",
@@ -176184,7 +176303,10 @@
     "name": "kvserver",
     "pkg_id": "kvserver#github.com_proway2_kvserver",
     "targets": [
-      "riscv64-Linux"
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-07-13",
     "version": "v0.2.0"
@@ -192051,6 +192173,19 @@
     ],
     "updated_at": "2025-06-24",
     "version": "HEAD-37dae0d-250623T182343"
+  },
+  {
+    "description": "Markdown-ls: quickly list directory contents as markdown",
+    "name": "mdls",
+    "pkg_id": "mdls#github.com_protolambda_mdls",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-13",
+    "version": "v0.0.0-20250712201103-e590eab3d47d"
   },
   {
     "description": "Mobile Device Management server",
@@ -211610,6 +211745,19 @@
     "version": "HEAD-06de07e-190619T205959"
   },
   {
+    "description": "Example applications using the onnxruntime_go library",
+    "name": "onnx_list_inputs_and_outputs",
+    "pkg_id": "onnx_list_inputs_and_outputs#github.com_yalue_onnxruntime_go_examples_onnx_list_inputs_and_outputs",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-13",
+    "version": "v0.0.0-20250708004325-d7a7570740b0"
+  },
+  {
     "description": "A comprehensive solution designed to streamline and enhance the deployment and management of infrastructure and applications at the edge",
     "name": "onprem-config-installer",
     "pkg_id": "onprem-config-installer#github.com_open_edge_platform_edge_manageability_framework",
@@ -228202,8 +228350,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-29",
-    "version": "HEAD-48486e5-250628T211926"
+    "updated_at": "2025-07-13",
+    "version": "v0.0.0-20250710143712-b796409d8ee3"
   },
   {
     "description": "This repository contains notes from self-learning during my work process",
@@ -230554,7 +230702,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-05",
+    "updated_at": "2025-07-13",
     "version": "v0.0.0-20250703052620-5882db2accb9"
   },
   {
@@ -232331,8 +232479,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-29",
-    "version": "HEAD-48486e5-250628T211926"
+    "updated_at": "2025-07-13",
+    "version": "v0.0.0-20250710143712-b796409d8ee3"
   },
   {
     "description": "P2P Docker registry capable of distributing TBs of data in seconds",
@@ -246758,6 +246906,19 @@
     "version": "HEAD-9b12b48-250626T133546"
   },
   {
+    "description": "Fast and flexible scripting for Go developers and DevOps",
+    "name": "risor-modgen",
+    "pkg_id": "risor-modgen#github.com_risor_io_risor_cmd_risor_modgen",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-13",
+    "version": "v0.0.0-20250707023939-80191a41dbe4"
+  },
+  {
     "description": "Real Intelligence Threat Analytics _RITA_ is a framework for detecting command and control communication through network traffic analysis.",
     "name": "rita-legacy",
     "pkg_id": "rita-legacy#github.com_activecm_rita_legacy",
@@ -256068,6 +256229,19 @@
     "version": "HEAD-94a798f-250626T165643"
   },
   {
+    "description": "A CLI tool that simplifies Kubernetes secret management by automatically creating and updating secrets from dotenv files",
+    "name": "sekret",
+    "pkg_id": "sekret#github.com_yquansah_sekret",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-13",
+    "version": "v0.0.2"
+  },
+  {
     "description": "A fully-featured window manager written in Go.",
     "name": "select",
     "pkg_id": "select#github.com_BurntSushi_wingo",
@@ -259708,8 +259882,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-29",
-    "version": "HEAD-48486e5-250628T211926"
+    "updated_at": "2025-07-13",
+    "version": "v0.0.0-20250710143712-b796409d8ee3"
   },
   {
     "description": "TinyGo drivers for sensors, displays, wireless adaptors, and other devices that use I2C, SPI, GPIO, ADC, and UART interfaces.",
@@ -287671,6 +287845,19 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.0.0-20250623090427-669ce3ffd2d6"
+  },
+  {
+    "description": "Find exported but unused values in a Go project",
+    "name": "test",
+    "pkg_id": "test#github.com_tompston_dustat",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-13",
+    "version": "v0.0.2"
   },
   {
     "description": "Open Source Cloud Native Ingestion engine",
@@ -320157,6 +320344,19 @@
     "version": "v0.0.0-20250628053232-f774c71e5bf0"
   },
   {
+    "description": "Composable YAML/JSON made easy for CLI and Go :yum",
+    "name": "yammy",
+    "pkg_id": "yammy#github.com_yuin_yammy",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-13",
+    "version": "v1.3.6"
+  },
+  {
     "description": "TCP and UDP multiplexer using yamux",
     "name": "yamux-cli",
     "pkg_id": "yamux-cli#github.com_nwtgck_yamux_cli",
@@ -320714,7 +320914,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-11",
+    "updated_at": "2025-07-13",
     "version": "v0.0.0-20250710043112-98c6a1f6d2b6"
   },
   {
@@ -320727,7 +320927,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-11",
+    "updated_at": "2025-07-13",
     "version": "v0.0.0-20250710043112-98c6a1f6d2b6"
   },
   {
