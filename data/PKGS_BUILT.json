@@ -26987,6 +26987,19 @@
     "version": "HEAD-2788422-250627T071440"
   },
   {
+    "description": "Misc Go routines",
+    "name": "application",
+    "pkg_id": "application#github.com_oddbit_project_blueprint",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-13",
+    "version": "v0.5.0"
+  },
+  {
     "description": "IaC Reference Implementation with Layer Architecture in Pulumi _aws-go_",
     "name": "application",
     "pkg_id": "application#github.com_regmicmahesh_infrastructure_backend_pulumi",
@@ -49654,6 +49667,19 @@
     "version": "HEAD-caa667f-250623T185724"
   },
   {
+    "description": "Misc Go routines",
+    "name": "ch-migrations",
+    "pkg_id": "ch-migrations#github.com_oddbit_project_blueprint",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-13",
+    "version": "v0.5.0"
+  },
+  {
     "description": "Low-level Go Client for ClickHouse",
     "name": "ch-native-dump",
     "pkg_id": "ch-native-dump#github.com_ClickHouse_ch_go",
@@ -57998,6 +58024,19 @@
     "version": "HEAD-81eab85-250619T125223"
   },
   {
+    "description": "Misc Go routines",
+    "name": "clickhouse",
+    "pkg_id": "clickhouse#github.com_oddbit_project_blueprint",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-13",
+    "version": "v0.5.0"
+  },
+  {
     "description": "Collects many small inserts to ClickHouse and send in big inserts",
     "name": "clickhouse-bulk",
     "pkg_id": "clickhouse-bulk#github.com_nikepan_clickhouse_bulk",
@@ -58946,7 +58985,7 @@
     "version": "v0.0.0-20250113180804-b684d488948a"
   },
   {
-    "description": "Connect, secure, control, and observe services.",
+    "description": "Connect, secure, control, and observe services",
     "name": "client",
     "pkg_id": "client#github.com_istio_istio",
     "targets": [
@@ -58955,8 +58994,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-29",
-    "version": "HEAD-8ffb6f7-250628T233320"
+    "updated_at": "2025-07-13",
+    "version": "v0.0.0-20250712153034-83e3fe8e7cd3"
   },
   {
     "description": "Reverse proxy for http and tcp",
@@ -69670,6 +69709,19 @@
     ],
     "updated_at": "2025-06-28",
     "version": "HEAD-aded715-250627T133245"
+  },
+  {
+    "description": "Misc Go routines",
+    "name": "console",
+    "pkg_id": "console#github.com_oddbit_project_blueprint",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-13",
+    "version": "v0.5.0"
   },
   {
     "description": "The console operator installs and maintains the web console on a cluster",
@@ -84596,6 +84648,19 @@
     "version": "HEAD-4095330-250627T150754"
   },
   {
+    "description": "Misc Go routines",
+    "name": "dbgrid",
+    "pkg_id": "dbgrid#github.com_oddbit_project_blueprint",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-13",
+    "version": "v0.5.0"
+  },
+  {
     "description": "Poor man's package manager. +4150 statically linked binaries in the default repos (amd64/arm64/riscv)! The easy to use, easy to get, suckless software distribution system",
     "name": "dbin",
     "pkg_id": "dbin#github.com_xplshn_dbin",
@@ -92897,7 +92962,7 @@
     "version": "v0.0.0-20250705153527-126c084d063c"
   },
   {
-    "description": "Connect, secure, control, and observe services.",
+    "description": "Connect, secure, control, and observe services",
     "name": "docker-builder",
     "pkg_id": "docker-builder#github.com_istio_istio",
     "targets": [
@@ -92906,8 +92971,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-29",
-    "version": "HEAD-8ffb6f7-250628T233320"
+    "updated_at": "2025-07-13",
+    "version": "v0.0.0-20250712153034-83e3fe8e7cd3"
   },
   {
     "description": "App for manage docker-compose projects",
@@ -108524,7 +108589,7 @@
     "version": "v0.0.0-20250705153527-126c084d063c"
   },
   {
-    "description": "Connect, secure, control, and observe services.",
+    "description": "Connect, secure, control, and observe services",
     "name": "extauthz",
     "pkg_id": "extauthz#github.com_istio_istio",
     "targets": [
@@ -108533,8 +108598,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-29",
-    "version": "HEAD-8ffb6f7-250628T233320"
+    "updated_at": "2025-07-13",
+    "version": "v0.0.0-20250712153034-83e3fe8e7cd3"
   },
   {
     "description": "A Cloud Native Batch System _Project under CNCF_",
@@ -112494,6 +112559,19 @@
     ],
     "updated_at": "2025-06-22",
     "version": "HEAD-126854a-220721T100215"
+  },
+  {
+    "description": "Misc Go routines",
+    "name": "filelogging",
+    "pkg_id": "filelogging#github.com_oddbit_project_blueprint",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-13",
+    "version": "v0.5.0"
   },
   {
     "description": "Go workspace",
@@ -121214,7 +121292,7 @@
     "version": "v0.0.0-20250705153527-126c084d063c"
   },
   {
-    "description": "Connect, secure, control, and observe services.",
+    "description": "Connect, secure, control, and observe services",
     "name": "gce_metadata_server",
     "pkg_id": "gce_metadata_server#github.com_istio_istio",
     "targets": [
@@ -121223,8 +121301,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-29",
-    "version": "HEAD-8ffb6f7-250628T233320"
+    "updated_at": "2025-07-13",
+    "version": "v0.0.0-20250712153034-83e3fe8e7cd3"
   },
   {
     "description": "Simple emulator for the Google Compute Engine Metadata Server",
@@ -125591,7 +125669,7 @@
     "version": "v0.0.0-20250705153527-126c084d063c"
   },
   {
-    "description": "Connect, secure, control, and observe services.",
+    "description": "Connect, secure, control, and observe services",
     "name": "generate_cert",
     "pkg_id": "generate_cert#github.com_istio_istio",
     "targets": [
@@ -125600,8 +125678,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-29",
-    "version": "HEAD-8ffb6f7-250628T233320"
+    "updated_at": "2025-07-13",
+    "version": "v0.0.0-20250712153034-83e3fe8e7cd3"
   },
   {
     "description": "Gazelle plugin for Swift files.",
@@ -125643,7 +125721,7 @@
     "version": "v0.0.0-20250705153527-126c084d063c"
   },
   {
-    "description": "Connect, secure, control, and observe services.",
+    "description": "Connect, secure, control, and observe services",
     "name": "generate_csr",
     "pkg_id": "generate_csr#github.com_istio_istio",
     "targets": [
@@ -125652,8 +125730,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-29",
-    "version": "HEAD-8ffb6f7-250628T233320"
+    "updated_at": "2025-07-13",
+    "version": "v0.0.0-20250712153034-83e3fe8e7cd3"
   },
   {
     "description": "Rill is a tool for effortlessly transforming data sets into powerful, opinionated dashboards using SQL.  BI-as-code.",
@@ -151882,7 +151960,7 @@
     "version": "v0.0.0-20250705153527-126c084d063c"
   },
   {
-    "description": "Connect, secure, control, and observe services.",
+    "description": "Connect, secure, control, and observe services",
     "name": "health-check",
     "pkg_id": "health-check#github.com_istio_istio",
     "targets": [
@@ -151891,8 +151969,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-29",
-    "version": "HEAD-8ffb6f7-250628T233320"
+    "updated_at": "2025-07-13",
+    "version": "v0.0.0-20250712153034-83e3fe8e7cd3"
   },
   {
     "description": "Gosoline is our framework which fuels all of our Golang applications",
@@ -156651,6 +156729,19 @@
     "version": "HEAD-befcfab-240716T125500"
   },
   {
+    "description": "Misc Go routines",
+    "name": "htpasswd",
+    "pkg_id": "htpasswd#github.com_oddbit_project_blueprint",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-13",
+    "version": "v0.5.0"
+  },
+  {
     "description": "Tcp via http (make tcp connection with roblox",
     "name": "httcp",
     "pkg_id": "httcp#github.com_notwithering_httcp",
@@ -157050,6 +157141,19 @@
     ],
     "updated_at": "2025-06-23",
     "version": "HEAD-6ebdb23-250320T170346"
+  },
+  {
+    "description": "Misc Go routines",
+    "name": "http-csrf",
+    "pkg_id": "http-csrf#github.com_oddbit_project_blueprint",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-13",
+    "version": "v0.5.0"
   },
   {
     "description": "CURL wrapper for Golang",
@@ -158364,6 +158468,19 @@
     "version": "v0.0.0-20250707033340-1df131486e83"
   },
   {
+    "description": "Misc Go routines",
+    "name": "httpserver",
+    "pkg_id": "httpserver#github.com_oddbit_project_blueprint",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-13",
+    "version": "v0.5.0"
+  },
+  {
     "description": "Pulumi - Infrastructure as Code in any programming language",
     "name": "httpserver",
     "pkg_id": "httpserver#github.com_pulumi_pulumi_sdk_go_pulumi_language_go_v3",
@@ -158401,6 +158518,19 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.0.0-20250622232646-82c8684a7e07"
+  },
+  {
+    "description": "Misc Go routines",
+    "name": "httpserver-authtoken",
+    "pkg_id": "httpserver-authtoken#github.com_oddbit_project_blueprint",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-13",
+    "version": "v0.5.0"
   },
   {
     "description": "Eden is where EVE and Adam get tried and tested",
@@ -160897,7 +161027,7 @@
     "version": "v0.0.0-20250705153527-126c084d063c"
   },
   {
-    "description": "Connect, secure, control, and observe services.",
+    "description": "Connect, secure, control, and observe services",
     "name": "imageregistry",
     "pkg_id": "imageregistry#github.com_istio_istio",
     "targets": [
@@ -160906,8 +161036,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-29",
-    "version": "HEAD-8ffb6f7-250628T233320"
+    "updated_at": "2025-07-13",
+    "version": "v0.0.0-20250712153034-83e3fe8e7cd3"
   },
   {
     "description": "Repository for pre-built dev container images published under mcr.microsoft.com/devcontainers",
@@ -170233,6 +170363,19 @@
     "version": "HEAD-15db2fa-250622T001015"
   },
   {
+    "description": "Misc Go routines",
+    "name": "jwtprovider-example",
+    "pkg_id": "jwtprovider-example#github.com_oddbit_project_blueprint",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-13",
+    "version": "v0.5.0"
+  },
+  {
     "description": "Golang OAuth2 server library",
     "name": "jwttoken",
     "pkg_id": "jwttoken#github.com_openshift_osin",
@@ -171157,6 +171300,19 @@
     ],
     "updated_at": "2025-06-28",
     "version": "HEAD-aa1d182-250628T134729"
+  },
+  {
+    "description": "Misc Go routines",
+    "name": "kafka",
+    "pkg_id": "kafka#github.com_oddbit_project_blueprint",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-13",
+    "version": "v0.5.0"
   },
   {
     "description": "rulego-components is a rule engine extension component library for RuleGo",
@@ -194024,6 +194180,19 @@
     "version": "HEAD-659944f-250626T230119"
   },
   {
+    "description": "Misc Go routines",
+    "name": "metrics",
+    "pkg_id": "metrics#github.com_oddbit_project_blueprint",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-13",
+    "version": "v0.5.0"
+  },
+  {
     "description": "Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",
     "name": "metrics-adapter",
     "pkg_id": "metrics-adapter#github.com_karmada_io_karmada",
@@ -200461,6 +200630,19 @@
     "version": "HEAD-35230a9-240809T222515"
   },
   {
+    "description": "Misc Go routines",
+    "name": "mqtt",
+    "pkg_id": "mqtt#github.com_oddbit_project_blueprint",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-13",
+    "version": "v0.5.0"
+  },
+  {
     "description": "Receive MQTT events of bitShake SmartMeterReader and writes them into database",
     "name": "mqtt2db",
     "pkg_id": "mqtt2db#github.com_tknie_mqtt2db",
@@ -203481,6 +203663,19 @@
     "version": "HEAD-0bb806b-250619T120316"
   },
   {
+    "description": "Misc Go routines",
+    "name": "nats",
+    "pkg_id": "nats#github.com_oddbit_project_blueprint",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-13",
+    "version": "v0.5.0"
+  },
+  {
     "description": "No Description Provided",
     "name": "nats",
     "pkg_id": "nats#github.com_stashed_nats",
@@ -205615,6 +205810,19 @@
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-a575d7a-250224T105546"
+  },
+  {
+    "description": "Misc Go routines",
+    "name": "nextjs-api-demo",
+    "pkg_id": "nextjs-api-demo#github.com_oddbit_project_blueprint",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-13",
+    "version": "v0.5.0"
   },
   {
     "description": "Move to the next i3wm workspace",
@@ -220788,6 +220996,19 @@
     "version": "HEAD-13120fd-250113T221715"
   },
   {
+    "description": "Misc Go routines",
+    "name": "pgsql",
+    "pkg_id": "pgsql#github.com_oddbit_project_blueprint",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-13",
+    "version": "v0.5.0"
+  },
+  {
     "description": "一款用golang实现的操作pg数据库的mcp server，支持创建表、查询表、插入数据，查看数据，分析sql语句等功能，欢迎共建！！！",
     "name": "pgsql-mcp-server",
     "pkg_id": "pgsql-mcp-server#github.com_leixiaotian1_pgsql_mcp_server",
@@ -220799,6 +221020,19 @@
     ],
     "updated_at": "2025-06-22",
     "version": "HEAD-3bc82a6-250622T111623"
+  },
+  {
+    "description": "Misc Go routines",
+    "name": "pgsql_migrations",
+    "pkg_id": "pgsql_migrations#github.com_oddbit_project_blueprint",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-13",
+    "version": "v0.5.0"
   },
   {
     "description": "PostgreSQL replication with DDL changes",
@@ -221466,7 +221700,7 @@
     "version": "v0.0.0-20250705153527-126c084d063c"
   },
   {
-    "description": "Connect, secure, control, and observe services.",
+    "description": "Connect, secure, control, and observe services",
     "name": "pilot-agent",
     "pkg_id": "pilot-agent#github.com_istio_istio",
     "targets": [
@@ -221475,8 +221709,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-29",
-    "version": "HEAD-8ffb6f7-250628T233320"
+    "updated_at": "2025-07-13",
+    "version": "v0.0.0-20250712153034-83e3fe8e7cd3"
   },
   {
     "description": "Private Input Masked Output - PIMO is a tool for data masking _anonymization, pseudonymization, ..._.",
@@ -258806,7 +259040,7 @@
     "version": "v0.0.0-20250113180804-b684d488948a"
   },
   {
-    "description": "Connect, secure, control, and observe services.",
+    "description": "Connect, secure, control, and observe services",
     "name": "server",
     "pkg_id": "server#github.com_istio_istio",
     "targets": [
@@ -258815,8 +259049,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-29",
-    "version": "HEAD-8ffb6f7-250628T233320"
+    "updated_at": "2025-07-13",
+    "version": "v0.0.0-20250712153034-83e3fe8e7cd3"
   },
   {
     "description": "Automatically provision and manage TLS certificates in Kubernetes",
@@ -261260,6 +261494,19 @@
     ],
     "updated_at": "2025-07-11",
     "version": "v0.0.0-20250702025801-814d08ee0bb1"
+  },
+  {
+    "description": "Misc Go routines",
+    "name": "session",
+    "pkg_id": "session#github.com_oddbit_project_blueprint",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-13",
+    "version": "v0.5.0"
   },
   {
     "description": "Examples for goa showing specific capabilities",
@@ -271956,7 +272203,7 @@
     "version": "v0.0.0-20250705153527-126c084d063c"
   },
   {
-    "description": "Connect, secure, control, and observe services.",
+    "description": "Connect, secure, control, and observe services",
     "name": "src",
     "pkg_id": "src#github.com_istio_istio",
     "targets": [
@@ -271965,8 +272212,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-29",
-    "version": "HEAD-8ffb6f7-250628T233320"
+    "updated_at": "2025-07-13",
+    "version": "v0.0.0-20250712153034-83e3fe8e7cd3"
   },
   {
     "description": "Modern cloud native development environments",
