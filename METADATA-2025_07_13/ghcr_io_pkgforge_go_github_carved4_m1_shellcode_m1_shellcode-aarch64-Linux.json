@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "m1-shellcode",
+  "pkg_family": "m1-shellcode",
+  "pkg_id": "m1-shellcode#github.com_carved4_m1_shellcode",
+  "pkg_name": "m1-shellcode",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/carved4/m1-shellcode",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This is a tiny poc for shellcode injection in pure go and go's shitty plan9 asm on arm64 macOS tested on an m1 chip",
+  "homepage": [
+    "https://github.com/carved4/m1-shellcode"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "m1-shellcode"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/carved4/m1-shellcode/@v/v0.0.0-20250709045816-aa62880814c7.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250709045816-aa62880814c7",
+  "version_upstream": "",
+  "bsum": "18c563c453335392a5f437b56fa3d8240949e9d3b884e8ba84bd8cd16eb5f480",
+  "build_date": "2025-07-13T04:15:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16245157689",
+  "build_id": "16245157689",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carved4/m1-shellcode/m1-shellcode?tag=v0.0.0-20250709045816-aa62880814c7-aarch64-Linux&download=m1-shellcode.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carved4/m1-shellcode/m1-shellcode?tag=v0.0.0-20250709045816-aa62880814c7-aarch64-Linux&download=m1-shellcode",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/carved4/m1-shellcode/m1-shellcode:v0.0.0-20250709045816-aa62880814c7-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/carved4/m1-shellcode/m1-shellcode",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carved4/m1-shellcode/m1-shellcode?tag=v0.0.0-20250709045816-aa62880814c7-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "374934ddd36f2eb684925db459281f76fae0c1a659cadb058266981f47a77174",
+  "size": "1.6 MB",
+  "size_raw": "1647832",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
