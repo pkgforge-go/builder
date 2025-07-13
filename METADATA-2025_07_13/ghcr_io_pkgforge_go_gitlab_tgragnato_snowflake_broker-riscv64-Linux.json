@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "broker",
+  "pkg_family": "snowflake",
+  "pkg_id": "broker#github.com_tgragnato_snowflake",
+  "pkg_name": "broker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://tgragnato.it/snowflake/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "WebRTC Pluggable Transport",
+  "homepage": [
+    "https://tgragnato.it/snowflake/"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "broker",
+    "probetest",
+    "proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/gitlab.com/torproject/snowflake/@v/v1.0.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250710143712-b796409d8ee3",
+  "version_upstream": "",
+  "bsum": "7a63bf0b7f19c70bdd59d8395858c486046f6531ab602052da0b4db0ba67b8c0",
+  "build_date": "2025-07-13T04:54:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16245223578",
+  "build_id": "16245223578",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/tgragnato/snowflake/broker?tag=v0.0.0-20250710143712-b796409d8ee3-riscv64-Linux&download=broker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/tgragnato/snowflake/broker?tag=v0.0.0-20250710143712-b796409d8ee3-riscv64-Linux&download=broker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/gitlab/tgragnato/snowflake/broker:v0.0.0-20250710143712-b796409d8ee3-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/gitlab/tgragnato/snowflake/broker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/tgragnato/snowflake/broker?tag=v0.0.0-20250710143712-b796409d8ee3-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "081d9764cecff62a3816bba802fe185ebbb8f7e77c8d032448a39c28b939676c",
+  "size": "11 MB",
+  "size_raw": "11187576",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
