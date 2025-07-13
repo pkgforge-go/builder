@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "console",
+  "pkg_family": "blueprint",
+  "pkg_id": "console#github.com_oddbit_project_blueprint",
+  "pkg_name": "console",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/oddbit-project/blueprint",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Misc Go routines",
+  "homepage": [
+    "https://github.com/oddbit-project/blueprint"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "application",
+    "ch-migrations",
+    "clickhouse",
+    "console",
+    "dbgrid",
+    "filelogging",
+    "htpasswd",
+    "http-csrf",
+    "httpserver",
+    "httpserver-authtoken",
+    "jwtprovider-example",
+    "kafka",
+    "metrics",
+    "mqtt",
+    "nats",
+    "nextjs-api-demo",
+    "pgsql",
+    "pgsql_migrations",
+    "session"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/oddbit-project/blueprint/@v/v0.5.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.5.0",
+  "version_upstream": "",
+  "bsum": "b5ff8d5386c1615228b4af382dba33ab93105db7625e315c79d5b6f651acb6ad",
+  "build_date": "2025-07-13T15:48:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16250672047",
+  "build_id": "16250672047",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/oddbit-project/blueprint/console?tag=v0.5.0-loongarch64-Linux&download=console.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/oddbit-project/blueprint/console?tag=v0.5.0-loongarch64-Linux&download=console",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/oddbit-project/blueprint/console:v0.5.0-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/oddbit-project/blueprint/console",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/oddbit-project/blueprint/console?tag=v0.5.0-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4168407460f539bcf8f2815af800032e4451768404434c4bd7f3e2824b3cbcfa",
+  "size": "1.6 MB",
+  "size_raw": "1662488",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
