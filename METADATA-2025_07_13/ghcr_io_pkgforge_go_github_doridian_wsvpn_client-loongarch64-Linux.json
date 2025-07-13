@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "client",
+  "pkg_family": "wsvpn",
+  "pkg_id": "client#github.com_doridian_wsvpn",
+  "pkg_name": "client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/doridian/wsvpn",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "VPN over WebSocket and WebTransport",
+  "homepage": [
+    "https://github.com/doridian/wsvpn"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "server",
+    "wsvpn"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/doridian/wsvpn/@v/v0.0.0-20250711194513-57392a1f0e05.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250711194513-57392a1f0e05",
+  "version_upstream": "",
+  "bsum": "44488d3aaf661127d359bf03eaada317d53d73da5755124fbd60ae90d1a13e0d",
+  "build_date": "2025-07-13T04:21:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16245159044",
+  "build_id": "16245159044",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/doridian/wsvpn/client?tag=v0.0.0-20250711194513-57392a1f0e05-loongarch64-Linux&download=client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "148",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/doridian/wsvpn/client?tag=v0.0.0-20250711194513-57392a1f0e05-loongarch64-Linux&download=client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/doridian/wsvpn/client:v0.0.0-20250711194513-57392a1f0e05-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/doridian/wsvpn/client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/doridian/wsvpn/client?tag=v0.0.0-20250711194513-57392a1f0e05-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "06a93b03bef3b5a6edaaec3c1c13158b44b40edf355936026bfb96bcd8ed7903",
+  "size": "8.2 MB",
+  "size_raw": "8519680",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
