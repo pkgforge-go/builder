@@ -14,6 +14,7 @@
 - 🐹 **[reorder-disks](https://min.io/download?license=agpl&platform=linux)**: MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - 🐹 **[s3-verify](https://min.io/download?license=agpl&platform=linux)**: MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - 🐹 **[kong](https://konghq.com/install/)**: The Cloud-Native API Gateway and AI Gateway.
+- 🐹 **[istio](https://istio.io)**: Connect, secure, control, and observe services.
 - 🐹 **[tests](https://docs.ccxt.com)**: A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges.
 - 🐹 **[mmgotool](https://mattermost.com)**: Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - 🐹 **[tutorials](https://github.com/charmbracelet/bubbletea)**: A powerful little TUI framework.
