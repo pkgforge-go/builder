@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "dnsguard",
+  "pkg_family": "dnsguard",
+  "pkg_id": "dnsguard#github.com_aerocyber_dnsguard",
+  "pkg_name": "dnsguard",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aerocyber/dnsguard",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "My attempt at learning go - this repo contains source code for a local dns server that either blocks websites (using blocklists.txt in the root of the repo) or forwards the request to 1.1.1.1",
+  "homepage": [
+    "https://github.com/aerocyber/dnsguard"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dnsguard"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/aerocyber/dnsguard/@v/v0.0.0-20250705064620-3696aa8394f9.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250705064620-3696aa8394f9",
+  "version_upstream": "",
+  "bsum": "56e9e94a254c85c46eb4b5928d68e90ddef1b3d158de804c5e1c8b4eb9e0215c",
+  "build_date": "2025-07-13T04:10:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16245156324",
+  "build_id": "16245156324",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aerocyber/dnsguard/dnsguard?tag=v0.0.0-20250705064620-3696aa8394f9-x86_64-Linux&download=dnsguard.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aerocyber/dnsguard/dnsguard?tag=v0.0.0-20250705064620-3696aa8394f9-x86_64-Linux&download=dnsguard",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aerocyber/dnsguard/dnsguard:v0.0.0-20250705064620-3696aa8394f9-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aerocyber/dnsguard/dnsguard",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aerocyber/dnsguard/dnsguard?tag=v0.0.0-20250705064620-3696aa8394f9-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "202de4a00455324fcedc69d18de9bc9b78942dcf6e86e63382cb17e85c62ab5a",
+  "size": "5.7 MB",
+  "size_raw": "5875360",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
