@@ -162,6 +162,7 @@
 - 🐹 **[tfsdk2fw](https://registry.terraform.io/providers/hashicorp/aws)**: The AWS Provider enables Terraform to manage AWS resources.
 - 🐹 **[gqlgen](https://gqlgen.com)**: Go generate based graphql server library.
 - 🐹 **[tools](https://www.ferretdb.com)**: A truly Open Source MongoDB alternative.
+- 🐹 **[bedrock](https://github.com/awsdocs/aws-doc-sdk-examples)**: Welcome to the AWS Code Examples Repository.
 - 🐹 **[lambda](https://github.com/awsdocs/aws-doc-sdk-examples)**: Welcome to the AWS Code Examples Repository.
 - 🐹 **[rds](https://github.com/awsdocs/aws-doc-sdk-examples)**: Welcome to the AWS Code Examples Repository.
 - 🐹 **[bedrock-runtime](https://github.com/awsdocs/aws-doc-sdk-examples)**: Welcome to the AWS Code Examples Repository.
@@ -320,6 +321,7 @@
 - 🐹 **[speedscope](https://www.speedscope.app)**: A fast, interactive web-based viewer for performance profiles.
 - 🐹 **[docgen](https://k3d.io/)**: Little helper to run CNCF's k3s in Docker.
 - 🐹 **[tools](https://k3d.io/)**: Little helper to run CNCF's k3s in Docker.
+- 🐹 **[ai-security-guard](https://higress.ai)**: AI Gateway | AI Native API Gateway.
 - 🐹 **[cluster-key-rate-limit](https://higress.ai)**: AI Gateway | AI Native API Gateway.
 - 🐹 **[hello-world](https://higress.ai)**: AI Gateway | AI Native API Gateway.
 - 🐹 **[ip-restriction](https://higress.ai)**: AI Gateway | AI Native API Gateway.
@@ -468,6 +470,7 @@
 - 🐹 **[back-end](https://aws.github.io/copilot-cli/)**: The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
 - 🐹 **[front-end](https://aws.github.io/copilot-cli/)**: The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
 - 🐹 **[serena](https://github.com/oraios/serena)**: A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & Agno integration.
+- 🐹 **[tproxy](https://go-zero.dev)**: A cli tool to proxy and analyze TCP connections.
 - 🐹 **[go](https://www.pantsbuild.org)**: The Pants Build System.
 - 🐹 **[pants](https://www.pantsbuild.org)**: The Pants Build System.
 - 🐹 **[generator](http://fabric8.io)**: Java client for Kubernetes & OpenShift.
@@ -553,6 +556,7 @@
 - 🐹 **[component](https://wasmcloud.com)**: WasmCloud is an open source Cloud Native Computing Foundation (CNCF) project that enables teams to build, manage, and scale polyglot apps across any cloud, K8s, or edge.
 - 🐹 **[http-echo-tinygo](https://wasmcloud.com)**: WasmCloud is an open source Cloud Native Computing Foundation (CNCF) project that enables teams to build, manage, and scale polyglot apps across any cloud, K8s, or edge.
 - 🐹 **[opa](https://wasmcloud.com)**: WasmCloud is an open source Cloud Native Computing Foundation (CNCF) project that enables teams to build, manage, and scale polyglot apps across any cloud, K8s, or edge.
+- 🐹 **[go-stock](https://go-stock.sparkmemory.top)**: AI赋能股票分析：自选股行情获取，成本盈亏展示，涨跌报警推送。目前已支持A股，港股，美股，未来计划加入基金，ETF等支持。支持市场整体/个股情绪分析，K线分析等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型.
 - 🐹 **[pool_context](https://github.com/alitto/pond/examples/pool_context)**: Minimalistic and High-performance goroutine worker pool written in Go.
 - 🐹 **[task_group](https://github.com/alitto/pond/examples/task_group)**: Minimalistic and High-performance goroutine worker pool written in Go.
 - 🐹 **[examples](https://github.com/gotd/td/examples)**: Telegram client, in Go.
@@ -616,6 +620,7 @@
 - 🐹 **[autocorrect](https://huacnlee.github.io/autocorrect)**: A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean.
 - 🐹 **[partitiontest_linter](https://developer.algorand.org/)**: Algorand's official implementation in Go.
 - 🐹 **[retest](https://github.com/ceph/ceph-csi)**: CSI driver for Ceph.
+- 🐹 **[graphviz](https://gitlab.com/graphviz/graphviz)**: Graph Visualization Tools.
 - 🐹 **[fansmedalhelper](https://doc.loveava.top/)**: 新版B站粉丝牌助手 全自动升级粉丝牌.
 - 🐹 **[kulala.nvim](https://neovim.getkulala.net)**: A fully-featured 🤏 HTTP-client 🐼 interface 🖥️ for Neovim.
 - 🐹 **[pghoard](http://aiven-open.github.io/pghoard/)**: PostgreSQL® backup and restore service.
@@ -627,6 +632,7 @@
 - 🐹 **[v3](https://github.com/enfein/mieru/v3)**: Mieru is a socks5 / HTTP / HTTPS proxy to bypass censorship.
 - 🐹 **[test_dep](https://github.com/bazelbuild/bazel-gazelle/tests/bcr/go_work/test_dep)**: Gazelle is a Bazel build file generator for Bazel projects.
 - 🐹 **[_examples](https://pkg.go.dev/github.com/centrifugal/centrifuge)**: Real-time messaging library for Go.
+- 🐹 **[gollama](https://smcleod.net)**: Go manage your Ollama models.
 - 🐹 **[v2](https://go-doudou.github.io)**: Go-doudou（doudou pronounce /dəudəu/）is OpenAPI 3.
 - 🐹 **[kubectl-cypher](https://cyphernet.es)**: A Kubernetes Query Language.
 - 🐹 **[operator](https://cyphernet.es)**: A Kubernetes Query Language.
@@ -641,6 +647,7 @@
 - 🐹 **[cmd](https://containerd.io)**: Cgroups package for Go.
 - 🐹 **[journalctl_mock](https://dmitryfrank.com/projects/nerdlog/article)**: Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server.
 - 🐹 **[singularity](https://github.com/nccgroup/singularity/wiki/%5BAnnouncement-Blog-Post%5D--Singularity-of-Origin:-A-DNS-Rebinding-Attack-Framework)**: A DNS rebinding attack framework.
+- 🐹 **[tools](https://github.com/tikv/pd)**: Placement driver for TiKV.
 - 🐹 **[tools](https://tofuutils.github.io/tenv/)**: OpenTofu / Terraform / Terragrunt and Atmos version manager.
 - 🐹 **[estudos](https://crg.eti.br/tags/grupo-estudos-golang/)**: Material para estudo de Golang, tutoriais, videos e exemplos para quem quer aprender Go.
 - 🐹 **[go-hands-on](https://crg.eti.br/tags/grupo-estudos-golang/)**: Material para estudo de Golang, tutoriais, videos e exemplos para quem quer aprender Go.
@@ -701,6 +708,7 @@
 - 🐹 **[gnomd](https://gno.land/)**: Gno: An interpreted, stack-based Go virtual machine to build succinct and composable apps + gno.
 - 🐹 **[loop](https://gno.land/)**: Gno: An interpreted, stack-based Go virtual machine to build succinct and composable apps + gno.
 - 🐹 **[stdlib_diff](https://gno.land/)**: Gno: An interpreted, stack-based Go virtual machine to build succinct and composable apps + gno.
+- 🐹 **[multiclusterlease](https://cloud.google.com/config-connector/docs/overview)**: GCP Config Connector, a Kubernetes add-on for managing GCP resources.
 - 🐹 **[perf-tests](https://github.com/kubernetes/perf-tests)**: Performance tests and benchmarks.
 - 🐹 **[kurl_proxy](https://kots.io)**: KOTS provides the framework, tools and integrations that enable the delivery and management of 3rd-party Kubernetes applications, a.
 - 🐹 **[kubernetes](https://www.secureCodeBox.io)**: SecureCodeBox (SCB) - continuous secure delivery out of the box.
@@ -791,6 +799,7 @@
 - 🐹 **[userringbuf](https://github.com/aquasecurity/libbpfgo)**: EBPF library for Go.
 - 🐹 **[version](https://github.com/aquasecurity/libbpfgo)**: EBPF library for Go.
 - 🐹 **[xdp](https://github.com/aquasecurity/libbpfgo)**: EBPF library for Go.
+- 🐹 **[heroku-buildpack-go](https://devcenter.heroku.com/categories/go-support)**: Heroku's classic buildpack for Go applications.
 - 🐹 **[heroku-buildpack-go](https://devcenter.heroku.com/categories/go-support)**: Heroku's classic buildpack for Go applications.
 - 🐹 **[gprofiler](https://github.com/intel/gprofiler)**: GProfiler is a system-wide profiler, combining multiple sampling profilers to produce unified visualization of what your CPU is spending time on.
 - 🐹 **[loft](https://loft.sh/docs/introduction)**: Namespace & Virtual Cluster Manager for Kubernetes - Lightweight Virtual Clusters, Self-Service Provisioning for Engineers and 70% Cost Savings with Sleep Mode.
@@ -901,6 +910,7 @@
 - 🐹 **[newlog](https://www.lfedge.org/projects/eve/)**: EVE is Edge Virtualization Engine.
 - 🐹 **[dnspy](https://bench.dash.2020818.xyz/)**: Dnspy 是一个批量 DNS 服务器基准测试工具，用于本地测量全世界的 DNS 服务器的可访问性和性能。生成可视化图表。dnspy is a bulk DNS server benchmarking tool used to measure the local accessibility and performance of DNS servers worldwide.
 - 🐹 **[operator](https://helix.ml)**: Helix is a private GenAI stack for building AI agents with declarative pipelines, knowledge (RAG), API bindings, and first-class testing.
+- 🐹 **[bench](https://github.com/kelindar/event)**: Simple internal event bus for Go applications.
 - 🐹 **[baseimage](https://source.android.com/setup/create/cuttlefish)**: Cuttlefish host support debian package.
 - 🐹 **[operator](https://source.android.com/setup/create/cuttlefish)**: Cuttlefish host support debian package.
 - 🐹 **[notification-server](https://github.com/haiwen/seafile-server)**: Seafile Server Core.
