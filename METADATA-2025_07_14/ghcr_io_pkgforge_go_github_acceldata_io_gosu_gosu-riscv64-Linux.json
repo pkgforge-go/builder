@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gosu",
+  "pkg_family": "gosu",
+  "pkg_id": "gosu#github.com_acceldata_io_gosu",
+  "pkg_name": "gosu",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/acceldata-io/gosu",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fork of Simple Go-based setuid+setgid+setgroups+exec",
+  "homepage": [
+    "https://github.com/acceldata-io/gosu"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gosu"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/acceldata-io/gosu/@v/v0.0.0-20250613170721-e845c46b6bed.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250613170721-e845c46b6bed",
+  "version_upstream": "",
+  "bsum": "4b7391c3d8d3fa1ae25dded36a496732c404f4e93d137e8d391fcb43c4fbcf95",
+  "build_date": "2025-07-14T04:13:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16257716766",
+  "build_id": "16257716766",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/acceldata-io/gosu/gosu?tag=v0.0.0-20250613170721-e845c46b6bed-riscv64-Linux&download=gosu.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/acceldata-io/gosu/gosu?tag=v0.0.0-20250613170721-e845c46b6bed-riscv64-Linux&download=gosu",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/acceldata-io/gosu/gosu:v0.0.0-20250613170721-e845c46b6bed-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/acceldata-io/gosu/gosu",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/acceldata-io/gosu/gosu?tag=v0.0.0-20250613170721-e845c46b6bed-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4b8ba4cffda8a9e911cc29ee34a870e56013fef2427ad7795f3534bf173d89ef",
+  "size": "1.7 MB",
+  "size_raw": "1781672",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
