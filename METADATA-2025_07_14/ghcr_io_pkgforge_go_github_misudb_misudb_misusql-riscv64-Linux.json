@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "misusql",
+  "pkg_family": "misudb",
+  "pkg_id": "misusql#github.com_misudb_misudb",
+  "pkg_name": "misusql",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/misudb/misudb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "MisuDB storage engine implementation",
+  "homepage": [
+    "https://github.com/misudb/misudb"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "misudb",
+    "misukv",
+    "misusql"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/misudb/misudb/@v/v0.0.0-20250713221813-e45f87b5b589.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250713221813-e45f87b5b589",
+  "version_upstream": "",
+  "bsum": "343a96fd7124ffd93cde57e390ad26fe41ca07075812e6bee59f48900d005a7c",
+  "build_date": "2025-07-14T04:28:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16257740850",
+  "build_id": "16257740850",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/misudb/misudb/misusql?tag=v0.0.0-20250713221813-e45f87b5b589-riscv64-Linux&download=misusql.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/misudb/misudb/misusql?tag=v0.0.0-20250713221813-e45f87b5b589-riscv64-Linux&download=misusql",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/misudb/misudb/misusql:v0.0.0-20250713221813-e45f87b5b589-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/misudb/misudb/misusql",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/misudb/misudb/misusql?tag=v0.0.0-20250713221813-e45f87b5b589-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "172c2ee47ee319cba7c3ea2c1db357e807859fdc6c726eb0fb04a27a27f766db",
+  "size": "1.5 MB",
+  "size_raw": "1569224",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
