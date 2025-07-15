@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "certgen",
+  "pkg_family": "certgen",
+  "pkg_id": "certgen#github.com_minio_certgen",
+  "pkg_name": "certgen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/minio/certgen",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A dead simple tool to generate self signed certificates for MinIO TLS deployments",
+  "homepage": [
+    "https://github.com/minio/certgen"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "certgen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/minio/certgen/@v/v1.4.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.4.0",
+  "version_upstream": "",
+  "bsum": "a10eaf3a9388e060858ddf9943be13a5582b6a6f0d2a1db86efb36bb661cc792",
+  "build_date": "2025-07-15T04:50:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16283862217",
+  "build_id": "16283862217",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/minio/certgen/certgen?tag=v1.4.0-x86_64-Linux&download=certgen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "192",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/minio/certgen/certgen?tag=v1.4.0-x86_64-Linux&download=certgen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/minio/certgen/certgen:v1.4.0-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/minio/certgen/certgen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/minio/certgen/certgen?tag=v1.4.0-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0d75f4c05f248ff173c0335b97c5fbbe3ebb45b897eeedef2f9fb3de08fe9dfe",
+  "size": "3.8 MB",
+  "size_raw": "3951584",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
