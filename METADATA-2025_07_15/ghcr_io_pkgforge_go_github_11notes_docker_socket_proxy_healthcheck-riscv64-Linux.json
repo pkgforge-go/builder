@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "healthcheck",
+  "pkg_family": "docker-socket-proxy",
+  "pkg_id": "healthcheck#github.com_11notes_docker_socket_proxy",
+  "pkg_name": "healthcheck",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/11notes/docker-socket-proxy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Access your docker socket safely as read-only, rootless and distroless",
+  "homepage": [
+    "https://github.com/11notes/docker-socket-proxy"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docker-socket-proxy",
+    "healthcheck"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cailloumajor/docker-socket-proxy/@v/v1.0.22.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.3",
+  "version_upstream": "",
+  "bsum": "a751fc8420208f4bb4730a5cbaaa9a0abf3f137696a4efee76e7ca303516c871",
+  "build_date": "2025-07-15T04:14:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16283789190",
+  "build_id": "16283789190",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/11notes/docker-socket-proxy/healthcheck?tag=v1.0.3-riscv64-Linux&download=healthcheck.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "112",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/11notes/docker-socket-proxy/healthcheck?tag=v1.0.3-riscv64-Linux&download=healthcheck",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/11notes/docker-socket-proxy/healthcheck:v1.0.3-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/11notes/docker-socket-proxy/healthcheck",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/11notes/docker-socket-proxy/healthcheck?tag=v1.0.3-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c98811c3d350b23ca1f1b0eefb4bf8aef6971f67e112e5d72883797894200808",
+  "size": "5.6 MB",
+  "size_raw": "5815384",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
