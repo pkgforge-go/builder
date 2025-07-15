@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "check_by_powershell",
+  "pkg_family": "check_by_powershell",
+  "pkg_id": "check_by_powershell#github.com_icinga_check_by_powershell",
+  "pkg_name": "check_by_powershell",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/icinga/check_by_powershell",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Icinga check plugin to run checks and other commands directly on any Windows system using WinRM (Windows Remote Management). Main use case would be to call one of the plugins from the Icinga Powershell Framework. This will avoid the requirement of installing an Icinga 2 agent on every Windows system",
+  "homepage": [
+    "https://github.com/icinga/check_by_powershell"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check_by_powershell"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/icinga/check_by_powershell/@v/v0.4.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.4.0",
+  "version_upstream": "",
+  "bsum": "24c73c3c10c808be8a20d7c37402f9e2b4e6a46e23dbe20e4bad5a260f1f3d2b",
+  "build_date": "2025-07-15T04:34:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16283822566",
+  "build_id": "16283822566",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/icinga/check/by/powershell/check_by_powershell?tag=v0.4.0-loongarch64-Linux&download=check_by_powershell.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "17",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/icinga/check/by/powershell/check_by_powershell?tag=v0.4.0-loongarch64-Linux&download=check_by_powershell",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/icinga/check/by/powershell/check_by_powershell:v0.4.0-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/icinga/check/by/powershell/check_by_powershell",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/icinga/check/by/powershell/check_by_powershell?tag=v0.4.0-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8d7b263647e989c5dc0097dedbb961c99dd6fcd1c1ac4f70bb3a2edff773a1c1",
+  "size": "8.2 MB",
+  "size_raw": "8554176",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
