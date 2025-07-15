@@ -1,11 +1,11 @@
 {
   "_disabled": "false",
-  "host": "x86_64-Linux",
+  "host": "riscv64-Linux",
   "rank": "",
-  "pkg": "dgsvr",
+  "pkg": "protocolsync",
   "pkg_family": "ithings",
-  "pkg_id": "dgsvr#github.com_i_things_ithings",
-  "pkg_name": "dgsvr",
+  "pkg_id": "protocolsync#github.com_i_things_ithings",
+  "pkg_name": "protocolsync",
   "pkg_type": "static",
   "pkg_webpage": "https://doc.unitedrhino.com/",
   "bundle": "false",
@@ -39,35 +39,33 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://proxy.golang.org/github.com/i4de/ithings/@v/v1.4.63.zip"
+    "https://proxy.golang.org/github.com/i-things/ithings/@v/v1.4.63.zip"
   ],
   "tag": [
     "Utility"
   ],
   "version": "v1.4.63",
   "version_upstream": "",
-  "bsum": "baefeb7387528b49babab84d9637a09919d382f63e3c8ef72b7529a6f3db438b",
-  "build_date": "2025-07-15T04:44:17Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16283820437",
-  "build_id": "16283820437",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/i-things/ithings/dgsvr?tag=v1.4.63-x86_64-Linux&download=dgsvr.log",
+  "bsum": "167f67ae86dd993f76ee4fc31623bed72d972041433f0b743ce182906ddf59c2",
+  "build_date": "2025-07-15T04:44:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16283809133",
+  "build_id": "16283809133",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/i-things/ithings/protocolsync?tag=v1.4.63-riscv64-Linux&download=protocolsync.log",
   "deprecated": "false",
   "desktop_integration": "false",
   "download_count": "539",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/i-things/ithings/dgsvr?tag=v1.4.63-x86_64-Linux&download=dgsvr",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/i-things/ithings/protocolsync?tag=v1.4.63-riscv64-Linux&download=protocolsync",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/i-things/ithings/dgsvr:v1.4.63-x86_64-Linux",
-  "ghcr_url": "https://ghcr.io/pkgforge-go/github/i-things/ithings/dgsvr",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/i-things/ithings/protocolsync:v1.4.63-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/i-things/ithings/protocolsync",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/i-things/ithings/dgsvr?tag=v1.4.63-x86_64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/i-things/ithings/protocolsync?tag=v1.4.63-riscv64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "9b5f28b01268963569e09860f7d31e5c134c0d5cf51f2dd2fe23f7c25bd5188c",
-  "size": "104 MB",
-  "size_raw": "108354736",
+  "shasum": "04af904a4a0d3be94347929ff37708341bbac5ad7a303c0c5dea53cfdf03f3cf",
+  "size": "62 MB",
+  "size_raw": "64727480",
   "soar_syms": "false",
-  "snapshots": [
-    "v1.4.63-x86_64-Linux"
-  ],
+  "snapshots": [],
   "trusted": "true"
 }
