@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "testselect",
+  "pkg_family": "hack",
+  "pkg_id": "testselect#github.com_nico_hack",
+  "pkg_name": "testselect",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nico/hack",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Various small things not worth their own repo",
+  "homepage": [
+    "https://github.com/nico/hack"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "discover",
+    "generate",
+    "generate-ci-action",
+    "konflux-apply",
+    "konflux-gen",
+    "konflux-release-gen",
+    "prowcopy",
+    "prowgen",
+    "sobranch",
+    "sorhel",
+    "testselect"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/openshift-knative/hack/@v/v0.0.0-20250714073605-e79a8af7ec2c.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250530010226-f9e9573f1afb",
+  "version_upstream": "",
+  "bsum": "54961cb2e92bab02df0a76f23c1f41d78655c2bed4457cf8d0834b5eb6025a44",
+  "build_date": "2025-07-15T05:08:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16283867875",
+  "build_id": "16283867875",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nico/hack/testselect?tag=v0.0.0-20250530010226-f9e9573f1afb-riscv64-Linux&download=testselect.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "31",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nico/hack/testselect?tag=v0.0.0-20250530010226-f9e9573f1afb-riscv64-Linux&download=testselect",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nico/hack/testselect:v0.0.0-20250530010226-f9e9573f1afb-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nico/hack/testselect",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nico/hack/testselect?tag=v0.0.0-20250530010226-f9e9573f1afb-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "abdc1f779bca098b820563ef98c821328b01376ef2b6354a81f09849ade3055e",
+  "size": "54 MB",
+  "size_raw": "56348760",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
