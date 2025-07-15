@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "certgen",
+  "pkg_family": "certgen",
+  "pkg_id": "certgen#github.com_minio_certgen",
+  "pkg_name": "certgen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/minio/certgen",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A dead simple tool to generate self signed certificates for MinIO TLS deployments",
+  "homepage": [
+    "https://github.com/minio/certgen"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "certgen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/minio/certgen/@v/v1.4.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.4.0",
+  "version_upstream": "",
+  "bsum": "ea0c156f111fbd13758af697fd24d3c18da091369806855d411c8d539f7457e7",
+  "build_date": "2025-07-15T04:50:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16283862217",
+  "build_id": "16283862217",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/minio/certgen/certgen?tag=v1.4.0-loongarch64-Linux&download=certgen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "192",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/minio/certgen/certgen?tag=v1.4.0-loongarch64-Linux&download=certgen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/minio/certgen/certgen:v1.4.0-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/minio/certgen/certgen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/minio/certgen/certgen?tag=v1.4.0-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a1053cee4cc7da2dc6f3a2f360e0be7ea850e31a34784bb4581578e963b59553",
+  "size": "3.7 MB",
+  "size_raw": "3842784",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
