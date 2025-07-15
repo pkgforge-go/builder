@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "mysql",
+  "pkg_family": "pg-proxy",
+  "pkg_id": "mysql#github.com_omnistrate_pg_proxy",
+  "pkg_name": "mysql",
+  "pkg_type": "static",
+  "pkg_webpage": "https://omnistrate.com/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Lightweight serverless proxy forwarding traffic",
+  "homepage": [
+    "https://omnistrate.com/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generic",
+    "mysql",
+    "postgres"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/omnistrate/pg-proxy/@v/v1.0.8.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.8",
+  "version_upstream": "",
+  "bsum": "815b10d6c6bcfd63e399390cba7fedc3d16f25493e175f9eb918754f2e594d5e",
+  "build_date": "2025-07-15T04:53:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16283867863",
+  "build_id": "16283867863",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/omnistrate/pg-proxy/mysql?tag=v1.0.8-riscv64-Linux&download=mysql.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/omnistrate/pg-proxy/mysql?tag=v1.0.8-riscv64-Linux&download=mysql",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/omnistrate/pg-proxy/mysql:v1.0.8-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/omnistrate/pg-proxy/mysql",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/omnistrate/pg-proxy/mysql?tag=v1.0.8-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "476a0f78c891d0f096a83cd24caac115e19286d0d40cd6a425bfebf7f4cb97ec",
+  "size": "7.0 MB",
+  "size_raw": "7333848",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
