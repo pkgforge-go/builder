@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "m17-text-cli",
+  "pkg_family": "m17",
+  "pkg_id": "m17-text-cli#github.com_jancona_m17",
+  "pkg_name": "m17-text-cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jancona/m17",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tools for the M17 ham radio mode, including a Go library, network gateway and clients",
+  "homepage": [
+    "https://github.com/jancona/m17"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "m17-gateway",
+    "m17-text-cli",
+    "modem-emulator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/jancona/m17/@v/v0.0.0-20250714150956-7a530c4e54d1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250714150956-7a530c4e54d1",
+  "version_upstream": "",
+  "bsum": "433fc1f412c26701b91e0321cc5691d7cb7dc5fcabfecb197a33af286fb651df",
+  "build_date": "2025-07-15T04:34:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16283825172",
+  "build_id": "16283825172",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jancona/m17/m17-text-cli?tag=v0.0.0-20250714150956-7a530c4e54d1-aarch64-Linux&download=m17-text-cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jancona/m17/m17-text-cli?tag=v0.0.0-20250714150956-7a530c4e54d1-aarch64-Linux&download=m17-text-cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jancona/m17/m17-text-cli:v0.0.0-20250714150956-7a530c4e54d1-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jancona/m17/m17-text-cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jancona/m17/m17-text-cli?tag=v0.0.0-20250714150956-7a530c4e54d1-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "38e395ffde10c230857705af972f76bf79c67a881a4816a7fa521aa281fb6ffa",
+  "size": "2.7 MB",
+  "size_raw": "2816792",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
