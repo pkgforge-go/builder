@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "samesame",
+  "pkg_family": "rpc25519",
+  "pkg_id": "samesame#github.com_glycerine_rpc25519",
+  "pkg_name": "samesame",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/glycerine/rpc25519",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Edwards curve ed25519 identity based RPC for Go/golang. TLS-v1.3 over TCP (or QUIC",
+  "homepage": [
+    "https://github.com/glycerine/rpc25519"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "samesame",
+    "seesparse",
+    "selfy",
+    "srv"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/glycerine/rpc25519/@v/v1.22.73.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.22.73",
+  "version_upstream": "",
+  "bsum": "30020f770a45b24e3f8c3f5d080c669673a1ce2ca0234c68e378f5c1665fcf5e",
+  "build_date": "2025-07-15T15:44:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16297697621",
+  "build_id": "16297697621",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glycerine/rpc25519/samesame?tag=v1.22.73-riscv64-Linux&download=samesame.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glycerine/rpc25519/samesame?tag=v1.22.73-riscv64-Linux&download=samesame",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/glycerine/rpc25519/samesame:v1.22.73-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/glycerine/rpc25519/samesame",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glycerine/rpc25519/samesame?tag=v1.22.73-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a288afa1326e93c5bfe8b68bf72c84fca5c4816b2eecbeaa67019fe1110f3190",
+  "size": "12 MB",
+  "size_raw": "11739352",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
