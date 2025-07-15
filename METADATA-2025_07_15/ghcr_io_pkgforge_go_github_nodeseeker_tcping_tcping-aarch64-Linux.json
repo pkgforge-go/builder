@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "tcping",
+  "pkg_family": "tcping",
+  "pkg_id": "tcping#github.com_nodeseeker_tcping",
+  "pkg_name": "tcping",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nodeseeker/tcping",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "一款基于Golang的TCP Ping工具，支持IPv4、IPv6和域名，以及自定义端口、次数和间隔时间",
+  "homepage": [
+    "https://github.com/nodeseeker/tcping"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "tcping"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/nodeseeker/tcping/@v/v1.7.2.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.7.2",
+  "version_upstream": "",
+  "bsum": "510c69b278eba6bf3c74660924efa371d2880801ae0c5269b755007cbff1abde",
+  "build_date": "2025-07-15T04:52:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16283866808",
+  "build_id": "16283866808",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nodeseeker/tcping/tcping?tag=v1.7.2-aarch64-Linux&download=tcping.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "112",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nodeseeker/tcping/tcping?tag=v1.7.2-aarch64-Linux&download=tcping",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nodeseeker/tcping/tcping:v1.7.2-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nodeseeker/tcping/tcping",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nodeseeker/tcping/tcping?tag=v1.7.2-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "396cdc35a71ff406d9fe577b3a1454840f7446825c77187719e7e07d4e1eac81",
+  "size": "2.4 MB",
+  "size_raw": "2445304",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
