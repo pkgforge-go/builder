@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "m17-gateway",
+  "pkg_family": "m17",
+  "pkg_id": "m17-gateway#github.com_jancona_m17",
+  "pkg_name": "m17-gateway",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jancona/m17",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tools for the M17 ham radio mode, including a Go library, network gateway and clients",
+  "homepage": [
+    "https://github.com/jancona/m17"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "m17-gateway",
+    "m17-text-cli",
+    "modem-emulator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/jancona/m17/@v/v0.0.0-20250714150956-7a530c4e54d1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250714150956-7a530c4e54d1",
+  "version_upstream": "",
+  "bsum": "a5200fc9f36116c9eb95958497bfcc52c886438bb0b5f9876ecf11d500f0b649",
+  "build_date": "2025-07-15T04:35:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16283825172",
+  "build_id": "16283825172",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jancona/m17/m17-gateway?tag=v0.0.0-20250714150956-7a530c4e54d1-riscv64-Linux&download=m17-gateway.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jancona/m17/m17-gateway?tag=v0.0.0-20250714150956-7a530c4e54d1-riscv64-Linux&download=m17-gateway",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jancona/m17/m17-gateway:v0.0.0-20250714150956-7a530c4e54d1-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jancona/m17/m17-gateway",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jancona/m17/m17-gateway?tag=v0.0.0-20250714150956-7a530c4e54d1-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f07b2e7743c573b0b95bd14ebfe3f8070e82fc867ae8a97df456d8344731a2c4",
+  "size": "3.0 MB",
+  "size_raw": "3140936",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
