@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "check_by_powershell",
+  "pkg_family": "check_by_powershell",
+  "pkg_id": "check_by_powershell#github.com_icinga_check_by_powershell",
+  "pkg_name": "check_by_powershell",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/icinga/check_by_powershell",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Icinga check plugin to run checks and other commands directly on any Windows system using WinRM (Windows Remote Management). Main use case would be to call one of the plugins from the Icinga Powershell Framework. This will avoid the requirement of installing an Icinga 2 agent on every Windows system",
+  "homepage": [
+    "https://github.com/icinga/check_by_powershell"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check_by_powershell"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/icinga/check_by_powershell/@v/v0.4.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.4.0",
+  "version_upstream": "",
+  "bsum": "50e087e8e518968a4e055cfc0516cd1eb28630b355f741b767138d59847270b9",
+  "build_date": "2025-07-15T04:31:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16283822566",
+  "build_id": "16283822566",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/icinga/check/by/powershell/check_by_powershell?tag=v0.4.0-x86_64-Linux&download=check_by_powershell.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "17",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/icinga/check/by/powershell/check_by_powershell?tag=v0.4.0-x86_64-Linux&download=check_by_powershell",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/icinga/check/by/powershell/check_by_powershell:v0.4.0-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/icinga/check/by/powershell/check_by_powershell",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/icinga/check/by/powershell/check_by_powershell?tag=v0.4.0-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4674e95d17b0da64a72d886e1514244b4c61c7f72bfc4249bcb94034fef8c3cf",
+  "size": "8.5 MB",
+  "size_raw": "8870496",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
