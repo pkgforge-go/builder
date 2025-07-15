@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cloudctl",
+  "pkg_family": "homelab",
+  "pkg_id": "cloudctl#github.com_nicklasfrahm_homelab",
+  "pkg_name": "cloudctl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://cloud.nicklasfrahm.dev/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This repository contains the infrastructure configuration of my homelab and network",
+  "homepage": [
+    "https://cloud.nicklasfrahm.dev/"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cloudctl",
+    "homelab-cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/nicklasfrahm/homelab/@v/v0.15.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.15.0",
+  "version_upstream": "",
+  "bsum": "ccbda26afd9d3804b980f8cfc4b76cf741748ac1fba5543d63c95f9ea5b9c900",
+  "build_date": "2025-07-15T04:53:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16283863632",
+  "build_id": "16283863632",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nicklasfrahm/homelab/cloudctl?tag=v0.15.0-riscv64-Linux&download=cloudctl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nicklasfrahm/homelab/cloudctl?tag=v0.15.0-riscv64-Linux&download=cloudctl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nicklasfrahm/homelab/cloudctl:v0.15.0-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nicklasfrahm/homelab/cloudctl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nicklasfrahm/homelab/cloudctl?tag=v0.15.0-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2741a5a051f1e8702bfe6a2e20632be517191fba023dd8188222c750bc28b3ac",
+  "size": "49 MB",
+  "size_raw": "50815352",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
