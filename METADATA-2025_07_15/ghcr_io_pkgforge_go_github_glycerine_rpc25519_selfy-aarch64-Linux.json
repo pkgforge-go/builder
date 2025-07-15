@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "selfy",
+  "pkg_family": "rpc25519",
+  "pkg_id": "selfy#github.com_glycerine_rpc25519",
+  "pkg_name": "selfy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/glycerine/rpc25519",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Edwards curve ed25519 identity based RPC for Go/golang. TLS-v1.3 over TCP (or QUIC",
+  "homepage": [
+    "https://github.com/glycerine/rpc25519"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "samesame",
+    "seesparse",
+    "selfy",
+    "srv"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/glycerine/rpc25519/@v/v1.22.73.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.22.73",
+  "version_upstream": "",
+  "bsum": "47011851386c635d2bf28d925ac794dd75ebba678885fd910ca03b71f226f1f3",
+  "build_date": "2025-07-15T15:44:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16297697621",
+  "build_id": "16297697621",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glycerine/rpc25519/selfy?tag=v1.22.73-aarch64-Linux&download=selfy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glycerine/rpc25519/selfy?tag=v1.22.73-aarch64-Linux&download=selfy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/glycerine/rpc25519/selfy:v1.22.73-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/glycerine/rpc25519/selfy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glycerine/rpc25519/selfy?tag=v1.22.73-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "64e53a2a939441dd378110cdd99a7544fdb844244d540a7236c8fe97c58a6b0c",
+  "size": "6.7 MB",
+  "size_raw": "7018400",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
