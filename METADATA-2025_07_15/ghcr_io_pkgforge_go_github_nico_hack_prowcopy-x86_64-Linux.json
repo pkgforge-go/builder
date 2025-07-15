@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "prowcopy",
+  "pkg_family": "hack",
+  "pkg_id": "prowcopy#github.com_nico_hack",
+  "pkg_name": "prowcopy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nico/hack",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Various small things not worth their own repo",
+  "homepage": [
+    "https://github.com/nico/hack"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "discover",
+    "generate",
+    "generate-ci-action",
+    "konflux-apply",
+    "konflux-gen",
+    "konflux-release-gen",
+    "prowcopy",
+    "prowgen",
+    "sobranch",
+    "sorhel",
+    "testselect"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/openshift-knative/hack/@v/v0.0.0-20250714073605-e79a8af7ec2c.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250530010226-f9e9573f1afb",
+  "version_upstream": "",
+  "bsum": "9abb93574fb5d018c214a1eca4c2113ce1421b4ae184052bbe8584330b640b21",
+  "build_date": "2025-07-15T05:07:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16283867875",
+  "build_id": "16283867875",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nico/hack/prowcopy?tag=v0.0.0-20250530010226-f9e9573f1afb-x86_64-Linux&download=prowcopy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "31",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nico/hack/prowcopy?tag=v0.0.0-20250530010226-f9e9573f1afb-x86_64-Linux&download=prowcopy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nico/hack/prowcopy:v0.0.0-20250530010226-f9e9573f1afb-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nico/hack/prowcopy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nico/hack/prowcopy?tag=v0.0.0-20250530010226-f9e9573f1afb-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "401026c19a61236af0f6f4a8cd722bf67506bd858e743664f9a484f2a80c4831",
+  "size": "57 MB",
+  "size_raw": "59261824",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
