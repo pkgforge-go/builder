@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "konflux-apply",
+  "pkg_family": "hack",
+  "pkg_id": "konflux-apply#github.com_nico_hack",
+  "pkg_name": "konflux-apply",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nico/hack",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Various small things not worth their own repo",
+  "homepage": [
+    "https://github.com/nico/hack"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "discover",
+    "generate",
+    "generate-ci-action",
+    "konflux-apply",
+    "konflux-gen",
+    "konflux-release-gen",
+    "prowcopy",
+    "prowgen",
+    "sobranch",
+    "sorhel",
+    "testselect"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/openshift-knative/hack/@v/v0.0.0-20250714073605-e79a8af7ec2c.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250530010226-f9e9573f1afb",
+  "version_upstream": "",
+  "bsum": "480752fcfe514d84b81a2ecb656a8941586b71245c4a0b3855d1c0feff171590",
+  "build_date": "2025-07-15T05:06:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16283867875",
+  "build_id": "16283867875",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nico/hack/konflux-apply?tag=v0.0.0-20250530010226-f9e9573f1afb-loongarch64-Linux&download=konflux-apply.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "31",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nico/hack/konflux-apply?tag=v0.0.0-20250530010226-f9e9573f1afb-loongarch64-Linux&download=konflux-apply",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nico/hack/konflux-apply:v0.0.0-20250530010226-f9e9573f1afb-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nico/hack/konflux-apply",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nico/hack/konflux-apply?tag=v0.0.0-20250530010226-f9e9573f1afb-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9d482c772d39999356f547a47e619262ddaa88b5f446acd6b0f8b3910ece65ec",
+  "size": "55 MB",
+  "size_raw": "56788320",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
