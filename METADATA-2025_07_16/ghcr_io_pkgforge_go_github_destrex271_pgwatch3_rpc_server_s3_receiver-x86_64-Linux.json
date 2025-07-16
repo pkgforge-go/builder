@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "s3_receiver",
+  "pkg_family": "pgwatch3_rpc_server",
+  "pkg_id": "s3_receiver#github.com_destrex271_pgwatch3_rpc_server",
+  "pkg_name": "s3_receiver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/destrex271/pgwatch3_rpc_server",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "RPC Server Implementation for pgwatch3",
+  "homepage": [
+    "https://github.com/destrex271/pgwatch3_rpc_server"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "clickhouse_receiver",
+    "csv_receiver",
+    "kafka_prod_receiver",
+    "llama_receiver",
+    "parquet_receiver",
+    "pinot_receiver",
+    "s3_receiver",
+    "text_receiver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/destrex271/pgwatch3_rpc_server/@v/v0.0.0-20250712152543-3065c8bf77fa.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250712152543-3065c8bf77fa",
+  "version_upstream": "",
+  "bsum": "36ed9428811031dd96534cb0dca3949fd3aa06f40c94dbb97a9512cc99ea9007",
+  "build_date": "2025-07-16T15:49:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16323830192",
+  "build_id": "16323830192",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/destrex271/pgwatch3/rpc/server/s3_receiver?tag=v0.0.0-20250712152543-3065c8bf77fa-x86_64-Linux&download=s3_receiver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/destrex271/pgwatch3/rpc/server/s3_receiver?tag=v0.0.0-20250712152543-3065c8bf77fa-x86_64-Linux&download=s3_receiver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/destrex271/pgwatch3/rpc/server/s3_receiver:v0.0.0-20250712152543-3065c8bf77fa-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/destrex271/pgwatch3/rpc/server/s3_receiver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/destrex271/pgwatch3/rpc/server/s3_receiver?tag=v0.0.0-20250712152543-3065c8bf77fa-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a63b8ba374cc1c84572c68e50581aecfc99ea69cea41834964bc0e4dfe79467a",
+  "size": "28 MB",
+  "size_raw": "28605056",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250624122302-fb0ede4b2dcc-x86_64-Linux",
+    "v0.0.0-20250701173032-632370f89c89-x86_64-Linux"
+  ],
+  "trusted": "true"
+}

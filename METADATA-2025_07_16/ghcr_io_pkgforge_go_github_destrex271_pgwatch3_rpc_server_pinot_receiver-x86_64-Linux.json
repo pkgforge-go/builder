@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "pinot_receiver",
+  "pkg_family": "pgwatch3_rpc_server",
+  "pkg_id": "pinot_receiver#github.com_destrex271_pgwatch3_rpc_server",
+  "pkg_name": "pinot_receiver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/destrex271/pgwatch3_rpc_server",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "RPC Server Implementation for pgwatch3",
+  "homepage": [
+    "https://github.com/destrex271/pgwatch3_rpc_server"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "clickhouse_receiver",
+    "csv_receiver",
+    "kafka_prod_receiver",
+    "llama_receiver",
+    "parquet_receiver",
+    "pinot_receiver",
+    "s3_receiver",
+    "text_receiver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/destrex271/pgwatch3_rpc_server/@v/v0.0.0-20250712152543-3065c8bf77fa.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250712152543-3065c8bf77fa",
+  "version_upstream": "",
+  "bsum": "9c210279f95c2da9c1c12e1c35aa4286f826315ac74ffa07d470f5f3d99a4cd5",
+  "build_date": "2025-07-16T15:49:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16323830192",
+  "build_id": "16323830192",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/destrex271/pgwatch3/rpc/server/pinot_receiver?tag=v0.0.0-20250712152543-3065c8bf77fa-x86_64-Linux&download=pinot_receiver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/destrex271/pgwatch3/rpc/server/pinot_receiver?tag=v0.0.0-20250712152543-3065c8bf77fa-x86_64-Linux&download=pinot_receiver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/destrex271/pgwatch3/rpc/server/pinot_receiver:v0.0.0-20250712152543-3065c8bf77fa-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/destrex271/pgwatch3/rpc/server/pinot_receiver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/destrex271/pgwatch3/rpc/server/pinot_receiver?tag=v0.0.0-20250712152543-3065c8bf77fa-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ba0ef639cf85a8e28ee18b4f015ae9dd022b98e7c8923a7f6c417b249fab3f2b",
+  "size": "20 MB",
+  "size_raw": "20584672",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250624122302-fb0ede4b2dcc-x86_64-Linux",
+    "v0.0.0-20250701173032-632370f89c89-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
