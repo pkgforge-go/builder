@@ -21953,6 +21953,19 @@
     "version": "HEAD-c018341-250623T163219"
   },
   {
+    "description": "Prometheus alertmanager webhook that sends alerts to a Zabbix server via trapper items",
+    "name": "alertmanager-zabbix-webhook",
+    "pkg_id": "alertmanager-zabbix-webhook#github.com_superguillen_alertmanager_zabbix_webhook",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-16",
+    "version": "v0.3.1"
+  },
+  {
     "description": "Zscaler SDK for Golang _ZPA/ZIA/ZDX/ZCC APIs_",
     "name": "alerts",
     "pkg_id": "alerts#github.com_zscaler_zscaler_sdk_go",
@@ -23328,10 +23341,11 @@
     "pkg_id": "anchor-go#github.com_tomblible_anchor_go",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-02",
+    "updated_at": "2025-07-16",
     "version": "v0.0.0-20250627092639-ff4459438de5"
   },
   {
@@ -31715,7 +31729,9 @@
     "pkg_id": "auth-awssigv4#github.com_onegreyonewhite_easyrest",
     "targets": [
       "aarch64-Linux",
-      "loongarch64-Linux"
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-07-16",
     "version": "v0.13.0"
@@ -31765,7 +31781,9 @@
     "pkg_id": "auth-jwt#github.com_onegreyonewhite_easyrest",
     "targets": [
       "aarch64-Linux",
-      "loongarch64-Linux"
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-07-16",
     "version": "v0.13.0"
@@ -31789,7 +31807,9 @@
     "pkg_id": "auth-oidc#github.com_onegreyonewhite_easyrest",
     "targets": [
       "aarch64-Linux",
-      "loongarch64-Linux"
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-07-16",
     "version": "v0.13.0"
@@ -39585,6 +39605,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-be1f330-250607T140753"
+  },
+  {
+    "description": "TriggerX contracts for IMUA chain",
+    "name": "bindings",
+    "pkg_id": "bindings#github.com_trigg3rx_imua_contracts_bindings",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-16",
+    "version": "v0.0.0-20250714133359-2bb48922d714"
   },
   {
     "description": "Bindplane’s distribution of the OpenTelemetry collector providing a simple and unified solution to collect, refine, and ship telemetry data anywhere",
@@ -70254,6 +70287,7 @@
     "name": "configure-alertmanager-operator",
     "pkg_id": "configure-alertmanager-operator#github.com_openshift_configure_alertmanager_operator",
     "targets": [
+      "aarch64-Linux",
       "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
@@ -92967,6 +93001,19 @@
     "version": "v0.0.0-20250622040819-0564d50b6c3f"
   },
   {
+    "description": "Tracks CAA DNS configurations across top websites to surface insights on certificate issuance policies",
+    "name": "dns-caa-catalog",
+    "pkg_id": "dns-caa-catalog#github.com_unitvectory_labs_dns_caa_catalog",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-16",
+    "version": "v0.0.0-20250715050924-06447db45b2b"
+  },
+  {
     "description": "Grab your DNS logs, detect anomalies, and finally understand what_s happening on your network. The missing piece between DNS servers and your data stack.",
     "name": "dns-collector",
     "pkg_id": "dns-collector#github.com_dmachard_DNS_collector",
@@ -93249,6 +93296,19 @@
     ],
     "updated_at": "2025-06-23",
     "version": "HEAD-11e8607-250623T115825"
+  },
+  {
+    "description": "Command line client for DNS Made Easy",
+    "name": "dnsme",
+    "pkg_id": "dnsme#github.com_zcalusic_dnsme",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-16",
+    "version": "v0.0.0-20250715201608-9fb0b8ef67ec"
   },
   {
     "description": "Declaratively set your DNS records with dnsmill, powered by libdns.",
@@ -109377,6 +109437,19 @@
     "version": "HEAD-0c9535f-240714T163818"
   },
   {
+    "description": "Comment Exif info to PR for OSINT-CTF",
+    "name": "exifpr",
+    "pkg_id": "exifpr#github.com_xryuseix_exifpr",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-16",
+    "version": "v0.0.0-20250511073013-a54734b71002"
+  },
+  {
     "description": "A collection of little snippets of programs I write when I test out ideas. A code _playground_.",
     "name": "exit",
     "pkg_id": "exit#github.com_cedrickchee_experiments",
@@ -121976,7 +122049,9 @@
     "pkg_id": "gateway#github.com_onegreyonewhite_easyrest",
     "targets": [
       "aarch64-Linux",
-      "loongarch64-Linux"
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-07-16",
     "version": "v0.13.0"
@@ -126137,6 +126212,19 @@
     ],
     "updated_at": "2025-06-28",
     "version": "HEAD-a5965ae-250627T192844"
+  },
+  {
+    "description": "Official Datastar Go SDK",
+    "name": "generate",
+    "pkg_id": "generate#github.com_starfederation_datastar_go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-16",
+    "version": "v1.0.1"
   },
   {
     "description": "Prisma Client Go is an auto-generated and fully type-safe database client",
@@ -139897,6 +139985,19 @@
     "version": "v0.0.0-20250408142007-74e007532521"
   },
   {
+    "description": "Go package for indexing SFO Museum Who's On First style records in OpenSearch",
+    "name": "go-sfomuseum-opensearch",
+    "pkg_id": "go-sfomuseum-opensearch#github.com_sfomuseum_go_sfomuseum_opensearch",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-16",
+    "version": "v0.0.19"
+  },
+  {
     "description": "SFTP support for the go.crypto/ssh package",
     "name": "go-sftp-server",
     "pkg_id": "go-sftp-server#github.com_pkg_sftp",
@@ -146435,6 +146536,19 @@
     "version": "v0.0.0-20250617170408-a55732ecab50"
   },
   {
+    "description": "A fast Golang program to load files into memory and search through then via an API",
+    "name": "goramq",
+    "pkg_id": "goramq#github.com_r00tendo_goramq",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-16",
+    "version": "v0.0.0-20250308154855-8c2ab882468e"
+  },
+  {
     "description": "A Golang framework for web artisans. Tribute to Laravel.",
     "name": "goravel",
     "pkg_id": "goravel#github.com_goravel_goravel",
@@ -152767,6 +152881,7 @@
     "targets": [
       "aarch64-Linux",
       "loongarch64-Linux",
+      "riscv64-Linux",
       "x86_64-Linux"
     ],
     "updated_at": "2025-07-16",
@@ -157351,6 +157466,84 @@
     ],
     "updated_at": "2025-06-25",
     "version": "HEAD-dac0e3f-250624T142248"
+  },
+  {
+    "description": "CLI AI agents + Unix philosophy",
+    "name": "hnt-agent",
+    "pkg_id": "hnt-agent#github.com_veilm_hinata",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-16",
+    "version": "v0.0.0-20250715210323-6256c424c720"
+  },
+  {
+    "description": "CLI AI agents + Unix philosophy",
+    "name": "hnt-apply",
+    "pkg_id": "hnt-apply#github.com_veilm_hinata",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-16",
+    "version": "v0.0.0-20250715210323-6256c424c720"
+  },
+  {
+    "description": "CLI AI agents + Unix philosophy",
+    "name": "hnt-chat",
+    "pkg_id": "hnt-chat#github.com_veilm_hinata",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-16",
+    "version": "v0.0.0-20250715210323-6256c424c720"
+  },
+  {
+    "description": "CLI AI agents + Unix philosophy",
+    "name": "hnt-edit",
+    "pkg_id": "hnt-edit#github.com_veilm_hinata",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-16",
+    "version": "v0.0.0-20250715210323-6256c424c720"
+  },
+  {
+    "description": "CLI AI agents + Unix philosophy",
+    "name": "hnt-llm",
+    "pkg_id": "hnt-llm#github.com_veilm_hinata",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-16",
+    "version": "v0.0.0-20250715210323-6256c424c720"
+  },
+  {
+    "description": "CLI AI agents + Unix philosophy",
+    "name": "hnt-web",
+    "pkg_id": "hnt-web#github.com_veilm_hinata",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-16",
+    "version": "v0.0.0-20250715210323-6256c424c720"
   },
   {
     "description": "The _interpol_ security string interpolation library and the _police_ command line tool. Just moved here from https://bitbucket.org/vahidi/interpol",
@@ -170146,6 +170339,19 @@
     "version": "HEAD-827ca7a-250620T153223"
   },
   {
+    "description": "Programmatically open new JIRA tickets for all Snyk Issues",
+    "name": "jira-tickets-for-new-vulns",
+    "pkg_id": "jira-tickets-for-new-vulns#github.com_snyk_tech_services_jira_tickets_for_new_vulns",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-16",
+    "version": "v0.0.0-20250715135709-d039353dfbb0"
+  },
+  {
     "description": "A static code analyser for annotated TODO comments",
     "name": "jira_apitoken",
     "pkg_id": "jira_apitoken#github.com_presmihaylov_todocheck",
@@ -170157,6 +170363,19 @@
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-f0fae9b-250309T113338"
+  },
+  {
+    "description": "Go-based CLI for interacting with Jira",
+    "name": "jiracrawler",
+    "pkg_id": "jiracrawler#github.com_sebrandon1_jiracrawler",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-16",
+    "version": "v0.0.1"
   },
   {
     "description": "pedro_s library for go",
@@ -170670,6 +170889,19 @@
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-eb2bb34-250316T171606"
+  },
+  {
+    "description": "The self-hosted Link Checker web service runs cached and otherwise optimized broken link checks",
+    "name": "jquery_example",
+    "pkg_id": "jquery_example#github.com_siemens_link_checker_service_test_jquery_example",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-16",
+    "version": "v0.0.0-20250711170130-6ddc68857ef1"
   },
   {
     "description": "JRebel and XRebel active server_Jrebel 激活服务器_",
@@ -176412,6 +176644,18 @@
     "version": "HEAD-afaa0e9-250627T153050"
   },
   {
+    "description": "Kratix is an open-source framework for building platforms",
+    "name": "kratix-quick-start-installer",
+    "pkg_id": "kratix-quick-start-installer#github.com_syntasso_kratix_hack_kratix_quick_start_installer",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-16",
+    "version": "v0.0.0-20250715102118-7af5b4e5f6c4"
+  },
+  {
     "description": "Release infrastructure for Kubernetes and related components",
     "name": "krel",
     "pkg_id": "krel#github.com_kubernetes_release",
@@ -180975,6 +181219,19 @@
     "version": "v0.0.0-20250209145113-1bc22b661387"
   },
   {
+    "description": "Less. The dynamic stylesheet language. Ported to go",
+    "name": "lessc-go",
+    "pkg_id": "lessc-go#github.com_toakleaf_less.go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-16",
+    "version": "v0.0.0-20250715024956-7dd0a7fe0982"
+  },
+  {
     "description": "提供 go 基础服务功能",
     "name": "lesson01",
     "pkg_id": "lesson01#github.com_leeprince_goinfra",
@@ -184631,6 +184888,19 @@
     ],
     "updated_at": "2025-06-24",
     "version": "HEAD-ea17b42-250624T204427"
+  },
+  {
+    "description": "CLI AI agents + Unix philosophy",
+    "name": "llm-pack",
+    "pkg_id": "llm-pack#github.com_veilm_hinata",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-16",
+    "version": "v0.0.0-20250715210323-6256c424c720"
   },
   {
     "description": "CLI AI agents + Unix philosophy",
@@ -213809,7 +214079,10 @@
     "name": "oip2co",
     "pkg_id": "oip2co#github.com_pzaeemfar_oip2co",
     "targets": [
-      "loongarch64-Linux"
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-07-16",
     "version": "v0.0.0-20250714200058-8966886f87f7"
@@ -224934,6 +225207,19 @@
     "version": "v0.0.0-20250604190850-f44a1929a374"
   },
   {
+    "description": "Go package implementing SFO Museum specific methods for use with the whosonfirst/go-whosonfirst-spatial packages",
+    "name": "pip",
+    "pkg_id": "pip#github.com_sfomuseum_go_sfomuseum_spatial",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-16",
+    "version": "v0.5.0"
+  },
+  {
     "description": "Go package to implement the whosonfirst/go-whosonfirst-spatial interfaces using a Protomaps .pmtiles database.",
     "name": "pip",
     "pkg_id": "pip#github.com_whosonfirst_go_whosonfirst_spatial_pmtiles",
@@ -225254,6 +225540,19 @@
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-1b5aa7a-250621T141458"
+  },
+  {
+    "description": "Pipes is a screen saver CLI application built in Go",
+    "name": "pipes.go",
+    "pkg_id": "pipes.go#github.com_satvikgosai_pipes.go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-16",
+    "version": "v0.0.0-20250605070140-1caf33607f19"
   },
   {
     "description": "Bazel's Continuous Integration Setup",
@@ -226730,6 +227029,19 @@
     "version": "HEAD-a225902-250620T153723"
   },
   {
+    "description": "Reeve CI / CD",
+    "name": "plugin-example",
+    "pkg_id": "plugin-example#github.com_reeveci_reeve_plugin_example",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-16",
+    "version": "v0.0.0-20250703124001-29f3ddb8c92c"
+  },
+  {
     "description": "Export semver variables to an env file",
     "name": "plugin-extend-env",
     "pkg_id": "plugin-extend-env#github.com_woodpecker_ci_plugin_extend_env",
@@ -226813,7 +227125,9 @@
     "pkg_id": "plugin-memcached#github.com_onegreyonewhite_easyrest",
     "targets": [
       "aarch64-Linux",
-      "loongarch64-Linux"
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-07-16",
     "version": "v0.13.0"
@@ -226824,7 +227138,9 @@
     "pkg_id": "plugin-mysql#github.com_onegreyonewhite_easyrest",
     "targets": [
       "aarch64-Linux",
-      "loongarch64-Linux"
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-07-16",
     "version": "v0.13.0"
@@ -226848,7 +227164,9 @@
     "pkg_id": "plugin-postgres#github.com_onegreyonewhite_easyrest",
     "targets": [
       "aarch64-Linux",
-      "loongarch64-Linux"
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-07-16",
     "version": "v0.13.0"
@@ -226859,7 +227177,9 @@
     "pkg_id": "plugin-redis#github.com_onegreyonewhite_easyrest",
     "targets": [
       "aarch64-Linux",
-      "loongarch64-Linux"
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-07-16",
     "version": "v0.13.0"
@@ -226896,7 +227216,9 @@
     "pkg_id": "plugin-sqlite#github.com_onegreyonewhite_easyrest",
     "targets": [
       "aarch64-Linux",
-      "loongarch64-Linux"
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-07-16",
     "version": "v0.13.0"
@@ -235539,7 +235861,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-07",
+    "updated_at": "2025-07-16",
     "version": "v0.0.0-20250618161309-8d0c35f1333c"
   },
   {
@@ -248243,6 +248565,19 @@
     "version": "HEAD-fa2dc29-250627T181955"
   },
   {
+    "description": "Alternative TON Storage Provider implementation compatible with tonutils-storage",
+    "name": "resolver",
+    "pkg_id": "resolver#github.com_xssnick_tonutils_storage_provider",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-16",
+    "version": "v0.3.9"
+  },
+  {
     "description": "The official docs repository for the Parsley dependency injection package",
     "name": "resolver-function",
     "pkg_id": "resolver-function#github.com_matzefriedrich_parsley_docs_examples_resolving_services",
@@ -254606,6 +254941,19 @@
     "version": "HEAD-26493c1-250625T102317"
   },
   {
+    "description": "A linter to warn against dangerous big.Int usage",
+    "name": "safebigint",
+    "pkg_id": "safebigint#github.com_winder_safebigint",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-16",
+    "version": "v0.1.0"
+  },
+  {
     "description": "Proof of concept for a VPN over UDP",
     "name": "safehaven",
     "pkg_id": "safehaven#github.com_kwakubiney_safehaven",
@@ -254759,6 +255107,19 @@
     ],
     "updated_at": "2025-06-27",
     "version": "HEAD-dc4b178-250627T052641"
+  },
+  {
+    "description": "TCP load balancer proxy with health checks",
+    "name": "salsa",
+    "pkg_id": "salsa#github.com_thekhanj_salsa",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-16",
+    "version": "v0.0.2"
   },
   {
     "description": "ACH implements a reader, writer, and validator for Automated Clearing House _ACH_ files. The HTTP server is available in a Docker image and the Go package is available.",
@@ -258425,6 +258786,19 @@
     ],
     "updated_at": "2025-06-22",
     "version": "HEAD-a470a25-250621T214232"
+  },
+  {
+    "description": "Less. The dynamic stylesheet language. Ported to go",
+    "name": "scripts",
+    "pkg_id": "scripts#github.com_toakleaf_less.go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-16",
+    "version": "v0.0.0-20250715024956-7dd0a7fe0982"
   },
   {
     "description": ":blue_book: Trezor address/account balance backend",
@@ -263050,7 +263424,9 @@
     "pkg_id": "server#github.com_onegreyonewhite_easyrest",
     "targets": [
       "aarch64-Linux",
-      "loongarch64-Linux"
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-07-16",
     "version": "v0.13.0"
@@ -266136,6 +266512,19 @@
     ],
     "updated_at": "2025-06-24",
     "version": "HEAD-980d9a7-250618T210730"
+  },
+  {
+    "description": "CLI AI agents + Unix philosophy",
+    "name": "shell-exec",
+    "pkg_id": "shell-exec#github.com_veilm_hinata",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-16",
+    "version": "v0.0.0-20250715210323-6256c424c720"
   },
   {
     "description": "Share your terminal in the browser in seconds.",
@@ -286027,6 +286416,32 @@
     "version": "v0.0.22"
   },
   {
+    "description": "Repacked API for easily calculating US personal income taxes",
+    "name": "taxcalc",
+    "pkg_id": "taxcalc#github.com_tslnc04_tax_calculator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-16",
+    "version": "v0.0.0-20250614154215-546a2376e281"
+  },
+  {
+    "description": "Repacked API for easily calculating US personal income taxes",
+    "name": "taxcalcd",
+    "pkg_id": "taxcalcd#github.com_tslnc04_tax_calculator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-16",
+    "version": "v0.0.0-20250614154215-546a2376e281"
+  },
+  {
     "description": "This repo contains the material for the Practical Go class.",
     "name": "taxi_check",
     "pkg_id": "taxi_check#github.com_ardanlabs_practical_go",
@@ -294044,6 +294459,19 @@
     "version": "v0.0.0-20250203082024-0642d53d0cae"
   },
   {
+    "description": "Official Datastar Go SDK",
+    "name": "testserver",
+    "pkg_id": "testserver#github.com_starfederation_datastar_go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-16",
+    "version": "v1.0.1"
+  },
+  {
     "description": "Open-source Infrastructure as Code _IaC_ orchestration platform: GitOps workflows, orchestration, code generation, observability, drift detection, asset management, policies, Slack notifications, and more. Integrates with Terraform, OpenTofu, Terragrunt, Kubernetes, GitHub Actions, GitLab CI/CD, BitBucket Pipelines, and any other CI/CD platform.",
     "name": "testserver",
     "pkg_id": "testserver#github.com_terramate_io_terramate",
@@ -299059,6 +299487,19 @@
     "version": "v1.1.1"
   },
   {
+    "description": "Alternative TON Storage Provider implementation compatible with tonutils-storage",
+    "name": "tonutils-storage-provider-cmd",
+    "pkg_id": "tonutils-storage-provider-cmd#github.com_xssnick_tonutils_storage_provider",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-16",
+    "version": "v0.3.9"
+  },
+  {
     "description": "Go APIs for solving decision automation problems.",
     "name": "too_many_requests",
     "pkg_id": "too_many_requests#github.com_nextmv_io_sdk",
@@ -299844,7 +300285,8 @@
     "targets": [
       "aarch64-Linux",
       "loongarch64-Linux",
-      "riscv64-Linux"
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-07-16",
     "version": "v0.0.0-20250715085518-cec14aea1ec3"
@@ -302835,6 +303277,19 @@
     ],
     "updated_at": "2025-06-26",
     "version": "HEAD-762bb02-250625T214341"
+  },
+  {
+    "description": "CLI AI agents + Unix philosophy",
+    "name": "tui-select",
+    "pkg_id": "tui-select#github.com_veilm_hinata",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-16",
+    "version": "v0.0.0-20250715210323-6256c424c720"
   },
   {
     "description": "Only TUI utility hub you_ll need",
@@ -306574,6 +307029,19 @@
     ],
     "updated_at": "2025-06-30",
     "version": "v0.0.0-20250627211745-c3276ea40c22"
+  },
+  {
+    "description": "Go package implementing SFO Museum specific methods for use with the whosonfirst/go-whosonfirst-spatial packages",
+    "name": "update-hierarchies",
+    "pkg_id": "update-hierarchies#github.com_sfomuseum_go_sfomuseum_spatial",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-16",
+    "version": "v0.5.0"
   },
   {
     "description": "Go package to implement the whosonfirst/go-whosonfirst-spatial interfaces using a Protomaps .pmtiles database.",
