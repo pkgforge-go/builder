@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "mcp-server-stdio",
+  "pkg_family": "mcpify",
+  "pkg_id": "mcp-server-stdio#github.com_fumiya007_mcpify",
+  "pkg_name": "mcp-server-stdio",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fumiya007/mcpify",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A proxy server that bridges REST APIs and Model Context Protocol (MCP), enabling seamless integration with MCP clients",
+  "homepage": [
+    "https://github.com/fumiya007/mcpify"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mcp-server-http",
+    "mcp-server-stdio",
+    "mock-api"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/fumiya007/mcpify/@v/v0.0.0-20250709005006-64b3faa55565.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250709005006-64b3faa55565",
+  "version_upstream": "",
+  "bsum": "b636688c36599f0d69dab12bd7859cbfdd543ce3d45af9e693881cb3c4531c96",
+  "build_date": "2025-07-16T04:20:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16310124796",
+  "build_id": "16310124796",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fumiya007/mcpify/mcp-server-stdio?tag=v0.0.0-20250709005006-64b3faa55565-loongarch64-Linux&download=mcp-server-stdio.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fumiya007/mcpify/mcp-server-stdio?tag=v0.0.0-20250709005006-64b3faa55565-loongarch64-Linux&download=mcp-server-stdio",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fumiya007/mcpify/mcp-server-stdio:v0.0.0-20250709005006-64b3faa55565-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fumiya007/mcpify/mcp-server-stdio",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fumiya007/mcpify/mcp-server-stdio?tag=v0.0.0-20250709005006-64b3faa55565-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3e03fc2b142c7069ec528483772fb9c9b4c77fcd34c9bb1b5519bf1bcff16f72",
+  "size": "6.1 MB",
+  "size_raw": "6350304",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
