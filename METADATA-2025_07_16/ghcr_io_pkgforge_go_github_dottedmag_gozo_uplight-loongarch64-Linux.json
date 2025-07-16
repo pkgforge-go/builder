@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "uplight",
+  "pkg_family": "gozo",
+  "pkg_id": "uplight#github.com_dottedmag_gozo",
+  "pkg_name": "uplight",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dottedmag/gozo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Z-Wave tools",
+  "homepage": [
+    "https://github.com/dottedmag/gozo"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ensure-config",
+    "relay-level",
+    "relay-level-cross",
+    "schedule",
+    "schedule-thermostat",
+    "uplight",
+    "watch-t"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/dottedmag/gozo/@v/v0.0.0-20250713153127-0906b194d4a0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250713153127-0906b194d4a0",
+  "version_upstream": "",
+  "bsum": "6e248eed6a7d0704dd14d439cbd6ee31543d804d49f3e07953aab0a36dbe5edf",
+  "build_date": "2025-07-16T15:51:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16323836124",
+  "build_id": "16323836124",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dottedmag/gozo/uplight?tag=v0.0.0-20250713153127-0906b194d4a0-loongarch64-Linux&download=uplight.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dottedmag/gozo/uplight?tag=v0.0.0-20250713153127-0906b194d4a0-loongarch64-Linux&download=uplight",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dottedmag/gozo/uplight:v0.0.0-20250713153127-0906b194d4a0-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dottedmag/gozo/uplight",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dottedmag/gozo/uplight?tag=v0.0.0-20250713153127-0906b194d4a0-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dda08cc565668bf2f669ce86c69a36d53803868198f4572e9417b492ce02e21b",
+  "size": "5.5 MB",
+  "size_raw": "5725696",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250622182114-7a40b44f6bd7-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
