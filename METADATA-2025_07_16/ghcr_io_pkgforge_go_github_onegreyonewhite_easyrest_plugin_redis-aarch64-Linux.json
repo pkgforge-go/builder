@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "plugin-redis",
+  "pkg_family": "easyrest",
+  "pkg_id": "plugin-redis#github.com_onegreyonewhite_easyrest",
+  "pkg_name": "plugin-redis",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/onegreyonewhite/easyrest/wiki",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "EasyREST is a lightweight, extensible REST service that provides a unified API for performing CRUD and aggregating queries on relational databases",
+  "homepage": [
+    "https://github.com/onegreyonewhite/easyrest/wiki"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth-awssigv4",
+    "auth-jwt",
+    "auth-oidc",
+    "gateway",
+    "plugin-memcached",
+    "plugin-mysql",
+    "plugin-postgres",
+    "plugin-redis",
+    "plugin-sqlite",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/onegreyonewhite/easyrest/@v/v0.13.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.13.0",
+  "version_upstream": "",
+  "bsum": "c218eaeec34f936be52f55a9327980f46af4668e15cb5307a53adeb5831f4362",
+  "build_date": "2025-07-16T04:41:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16310159910",
+  "build_id": "16310159910",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onegreyonewhite/easyrest/plugin-redis?tag=v0.13.0-aarch64-Linux&download=plugin-redis.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onegreyonewhite/easyrest/plugin-redis?tag=v0.13.0-aarch64-Linux&download=plugin-redis",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/onegreyonewhite/easyrest/plugin-redis:v0.13.0-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/onegreyonewhite/easyrest/plugin-redis",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onegreyonewhite/easyrest/plugin-redis?tag=v0.13.0-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3177839d8af3fc033d44512c19d9e701aa2334bcc081a3bf759178be6e4e70ee",
+  "size": "17 MB",
+  "size_raw": "17432992",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

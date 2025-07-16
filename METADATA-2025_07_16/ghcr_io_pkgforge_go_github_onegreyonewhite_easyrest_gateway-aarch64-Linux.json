@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "gateway",
+  "pkg_family": "easyrest",
+  "pkg_id": "gateway#github.com_onegreyonewhite_easyrest",
+  "pkg_name": "gateway",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/onegreyonewhite/easyrest/wiki",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "EasyREST is a lightweight, extensible REST service that provides a unified API for performing CRUD and aggregating queries on relational databases",
+  "homepage": [
+    "https://github.com/onegreyonewhite/easyrest/wiki"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth-awssigv4",
+    "auth-jwt",
+    "auth-oidc",
+    "gateway",
+    "plugin-memcached",
+    "plugin-mysql",
+    "plugin-postgres",
+    "plugin-redis",
+    "plugin-sqlite",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/onegreyonewhite/easyrest/@v/v0.13.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.13.0",
+  "version_upstream": "",
+  "bsum": "03e8fce6f96fa3ffb3804ebb893cafb7b259db6341fb66cab3de4873c4a6b727",
+  "build_date": "2025-07-16T04:40:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16310159910",
+  "build_id": "16310159910",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onegreyonewhite/easyrest/gateway?tag=v0.13.0-aarch64-Linux&download=gateway.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onegreyonewhite/easyrest/gateway?tag=v0.13.0-aarch64-Linux&download=gateway",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/onegreyonewhite/easyrest/gateway:v0.13.0-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/onegreyonewhite/easyrest/gateway",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onegreyonewhite/easyrest/gateway?tag=v0.13.0-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b430aaa747cf37837cfcd8fa919e9f7f0c38f723cb3227806df8b4bea4dc7ae2",
+  "size": "20 MB",
+  "size_raw": "19935616",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
