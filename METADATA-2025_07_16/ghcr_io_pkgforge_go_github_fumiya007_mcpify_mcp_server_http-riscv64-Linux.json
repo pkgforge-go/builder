@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "mcp-server-http",
+  "pkg_family": "mcpify",
+  "pkg_id": "mcp-server-http#github.com_fumiya007_mcpify",
+  "pkg_name": "mcp-server-http",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fumiya007/mcpify",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A proxy server that bridges REST APIs and Model Context Protocol (MCP), enabling seamless integration with MCP clients",
+  "homepage": [
+    "https://github.com/fumiya007/mcpify"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mcp-server-http",
+    "mcp-server-stdio",
+    "mock-api"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/fumiya007/mcpify/@v/v0.0.0-20250709005006-64b3faa55565.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250709005006-64b3faa55565",
+  "version_upstream": "",
+  "bsum": "a4152a335b659fe4c6cc9f1cc69576b51e30a15cdad772e3cfb3516f87943ff7",
+  "build_date": "2025-07-16T04:20:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16310124796",
+  "build_id": "16310124796",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fumiya007/mcpify/mcp-server-http?tag=v0.0.0-20250709005006-64b3faa55565-riscv64-Linux&download=mcp-server-http.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fumiya007/mcpify/mcp-server-http?tag=v0.0.0-20250709005006-64b3faa55565-riscv64-Linux&download=mcp-server-http",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fumiya007/mcpify/mcp-server-http:v0.0.0-20250709005006-64b3faa55565-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fumiya007/mcpify/mcp-server-http",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fumiya007/mcpify/mcp-server-http?tag=v0.0.0-20250709005006-64b3faa55565-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ed7826a2e9a8786493ae1b2755d20192267d560ef024c59a894e2ec9015d1cc5",
+  "size": "6.4 MB",
+  "size_raw": "6710296",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
