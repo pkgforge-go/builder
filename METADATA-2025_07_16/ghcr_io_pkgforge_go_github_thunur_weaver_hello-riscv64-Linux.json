@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "hello",
+  "pkg_family": "weaver",
+  "pkg_id": "hello#github.com_thunur_weaver",
+  "pkg_name": "hello",
+  "pkg_type": "static",
+  "pkg_webpage": "https://serviceweaver.dev",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Programming framework for writing and deploying cloud applications",
+  "homepage": [
+    "https://serviceweaver.dev"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bankofanthos",
+    "chat",
+    "collatz",
+    "docgen",
+    "example",
+    "factors",
+    "hello",
+    "helloworld",
+    "multi",
+    "reverser",
+    "single",
+    "testprogram",
+    "weaver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/thunur/weaver/@v/v0.0.0-20250715072123-66205fe10226.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250715072123-66205fe10226",
+  "version_upstream": "",
+  "bsum": "531f13b997b40bbd4a288480c0169fb732b517b6c7324bdbc0e33782daf40f49",
+  "build_date": "2025-07-16T16:48:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16324157964",
+  "build_id": "16324157964",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/thunur/weaver/hello?tag=v0.0.0-20250715072123-66205fe10226-riscv64-Linux&download=hello.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/thunur/weaver/hello?tag=v0.0.0-20250715072123-66205fe10226-riscv64-Linux&download=hello",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/thunur/weaver/hello:v0.0.0-20250715072123-66205fe10226-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/thunur/weaver/hello",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/thunur/weaver/hello?tag=v0.0.0-20250715072123-66205fe10226-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "85039796efce371e0a1875d53036ea60e4574e7728b6f6b96f3119a9a9f2a48e",
+  "size": "23 MB",
+  "size_raw": "23984728",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
