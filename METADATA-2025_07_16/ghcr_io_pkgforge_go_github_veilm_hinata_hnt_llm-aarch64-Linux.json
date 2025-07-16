@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "hnt-llm",
+  "pkg_family": "hinata",
+  "pkg_id": "hnt-llm#github.com_veilm_hinata",
+  "pkg_name": "hnt-llm",
+  "pkg_type": "static",
+  "pkg_webpage": "https://hnt-agent.org",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CLI AI agents + Unix philosophy",
+  "homepage": [
+    "https://hnt-agent.org"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hnt-agent",
+    "hnt-apply",
+    "hnt-chat",
+    "hnt-edit",
+    "hnt-llm",
+    "hnt-web",
+    "llm-pack",
+    "shell-exec",
+    "tui-select"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/veilm/hinata/@v/v0.0.0-20250715210323-6256c424c720.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250715210323-6256c424c720",
+  "version_upstream": "",
+  "bsum": "c2de99dfe4a123b64bc770005b7b67456b0f5e08da0f4cd765df946546f8ed44",
+  "build_date": "2025-07-16T04:57:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16310234033",
+  "build_id": "16310234033",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/veilm/hinata/hnt-llm?tag=v0.0.0-20250715210323-6256c424c720-aarch64-Linux&download=hnt-llm.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/veilm/hinata/hnt-llm?tag=v0.0.0-20250715210323-6256c424c720-aarch64-Linux&download=hnt-llm",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/veilm/hinata/hnt-llm:v0.0.0-20250715210323-6256c424c720-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/veilm/hinata/hnt-llm",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/veilm/hinata/hnt-llm?tag=v0.0.0-20250715210323-6256c424c720-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "13915c8a1a418a5047e4c79315cdf38055d81a7d104a218f4aa739e0dbe9ed4d",
+  "size": "6.4 MB",
+  "size_raw": "6665344",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
