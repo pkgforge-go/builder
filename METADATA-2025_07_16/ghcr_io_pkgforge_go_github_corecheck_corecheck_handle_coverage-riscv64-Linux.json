@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "handle-coverage",
+  "pkg_family": "corecheck",
+  "pkg_id": "handle-coverage#github.com_corecheck_corecheck",
+  "pkg_name": "handle-coverage",
+  "pkg_type": "static",
+  "pkg_webpage": "https://corecheck.dev",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Test coverage and more for Bitcoin Core",
+  "homepage": [
+    "https://corecheck.dev"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "datadog-proxy",
+    "get-mutation",
+    "get-pull",
+    "get-report",
+    "github-sync",
+    "handle-benchmarks",
+    "handle-coverage",
+    "handle-mutation",
+    "list-pulls",
+    "migrate",
+    "rerun-all"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/corecheck/corecheck/@v/v0.0.0-20250704105730-d50ece07cbbc.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250704105730-d50ece07cbbc",
+  "version_upstream": "",
+  "bsum": "6d6abfbd7228b3641e23c4e9bc6b18cccb74acbbb8240e96bdf8ec76cdb9daf2",
+  "build_date": "2025-07-16T15:47:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16323828001",
+  "build_id": "16323828001",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/corecheck/corecheck/handle-coverage?tag=v0.0.0-20250704105730-d50ece07cbbc-riscv64-Linux&download=handle-coverage.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "35",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/corecheck/corecheck/handle-coverage?tag=v0.0.0-20250704105730-d50ece07cbbc-riscv64-Linux&download=handle-coverage",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/corecheck/corecheck/handle-coverage:v0.0.0-20250704105730-d50ece07cbbc-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/corecheck/corecheck/handle-coverage",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/corecheck/corecheck/handle-coverage?tag=v0.0.0-20250704105730-d50ece07cbbc-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "19bd3f779ed3cfc23c22bf596a4f3f5d66bc9355cf87fb3e9c08692dcfb2c2e7",
+  "size": "18 MB",
+  "size_raw": "17891544",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250625210934-a4e7ad281bd7-riscv64-Linux"
+  ],
+  "trusted": "true"
+}

@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "get-pull",
+  "pkg_family": "corecheck",
+  "pkg_id": "get-pull#github.com_corecheck_corecheck",
+  "pkg_name": "get-pull",
+  "pkg_type": "static",
+  "pkg_webpage": "https://corecheck.dev",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Test coverage and more for Bitcoin Core",
+  "homepage": [
+    "https://corecheck.dev"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "datadog-proxy",
+    "get-mutation",
+    "get-pull",
+    "get-report",
+    "github-sync",
+    "handle-benchmarks",
+    "handle-coverage",
+    "handle-mutation",
+    "list-pulls",
+    "migrate",
+    "rerun-all"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/corecheck/corecheck/@v/v0.0.0-20250704105730-d50ece07cbbc.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250704105730-d50ece07cbbc",
+  "version_upstream": "",
+  "bsum": "52800ab46f2a263072effbb6a2715b9a0d6458bfe5d72faeb329b49de4aef171",
+  "build_date": "2025-07-16T15:46:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16323828001",
+  "build_id": "16323828001",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/corecheck/corecheck/get-pull?tag=v0.0.0-20250704105730-d50ece07cbbc-riscv64-Linux&download=get-pull.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "35",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/corecheck/corecheck/get-pull?tag=v0.0.0-20250704105730-d50ece07cbbc-riscv64-Linux&download=get-pull",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/corecheck/corecheck/get-pull:v0.0.0-20250704105730-d50ece07cbbc-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/corecheck/corecheck/get-pull",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/corecheck/corecheck/get-pull?tag=v0.0.0-20250704105730-d50ece07cbbc-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0dd485da783530164bff11f4ba4d85b27fbb58ce48a905178aed46714bad501b",
+  "size": "17 MB",
+  "size_raw": "17727800",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250625210934-a4e7ad281bd7-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
