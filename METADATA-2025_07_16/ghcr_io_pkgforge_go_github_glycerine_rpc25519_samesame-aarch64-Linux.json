@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "samesame",
+  "pkg_family": "rpc25519",
+  "pkg_id": "samesame#github.com_glycerine_rpc25519",
+  "pkg_name": "samesame",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/glycerine/rpc25519",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Edwards curve ed25519 identity based RPC for Go/golang. TLS-v1.3 over TCP (or QUIC",
+  "homepage": [
+    "https://github.com/glycerine/rpc25519"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "samesame",
+    "seesparse",
+    "selfy",
+    "srv"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/glycerine/rpc25519/@v/v1.22.76.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.22.76",
+  "version_upstream": "",
+  "bsum": "c8d49dac2ff72faa31100f816ae403f329f261c2c0818cd4580122b4ae463c76",
+  "build_date": "2025-07-16T16:02:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16323892470",
+  "build_id": "16323892470",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glycerine/rpc25519/samesame?tag=v1.22.76-aarch64-Linux&download=samesame.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glycerine/rpc25519/samesame?tag=v1.22.76-aarch64-Linux&download=samesame",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/glycerine/rpc25519/samesame:v1.22.76-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/glycerine/rpc25519/samesame",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glycerine/rpc25519/samesame?tag=v1.22.76-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2ea069e49138bf364c836330a68b006be7ae6477b25a72e633db6c3c484bc21e",
+  "size": "11 MB",
+  "size_raw": "11294688",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.22.73-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
