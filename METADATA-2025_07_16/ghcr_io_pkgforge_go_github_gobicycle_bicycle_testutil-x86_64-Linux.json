@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "testutil",
+  "pkg_family": "bicycle",
+  "pkg_id": "testutil#github.com_gobicycle_bicycle",
+  "pkg_name": "testutil",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gobicycle/bicycle",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Microservice for accepting payments and making withdrawals in TON blockchain",
+  "homepage": [
+    "https://github.com/gobicycle/bicycle"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "processor",
+    "testutil",
+    "testwebhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/gobicycle/bicycle/@v/v0.10.2.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.10.2",
+  "version_upstream": "",
+  "bsum": "d4b21f13b6983155964480a498766f2a684fcb15d9f50aceeacd03aa559d1339",
+  "build_date": "2025-07-16T19:06:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16327695231",
+  "build_id": "16327695231",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gobicycle/bicycle/testutil?tag=v0.10.2-x86_64-Linux&download=testutil.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "206",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gobicycle/bicycle/testutil?tag=v0.10.2-x86_64-Linux&download=testutil",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gobicycle/bicycle/testutil:v0.10.2-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gobicycle/bicycle/testutil",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gobicycle/bicycle/testutil?tag=v0.10.2-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8f6da082f18755c8ae4d8399c3d9a4eed1bc58d1f852bbdfe990219e1b2ce869",
+  "size": "13 MB",
+  "size_raw": "12672952",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.10.1-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
