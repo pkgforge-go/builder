@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "query-latest",
+  "pkg_family": "tooling",
+  "pkg_id": "query-latest#github.com_gravitational_teleport_build.assets_tooling",
+  "pkg_name": "query-latest",
+  "pkg_type": "static",
+  "pkg_webpage": "https://goteleport.com",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The easiest, and most secure way to access and protect all of your infrastructure",
+  "homepage": [
+    "https://goteleport.com"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apiversion",
+    "check",
+    "difftest",
+    "goderive",
+    "protoc-gen-eventschema",
+    "query-latest",
+    "render-helm-ref",
+    "render-tests",
+    "rerun",
+    "update-plist-version"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/gravitational/teleport/build.assets/tooling/@v/v0.0.0-20250715200050-deda8410b3d8.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250715200050-deda8410b3d8",
+  "version_upstream": "",
+  "bsum": "7f402c87a272ee82a3dcbe5f88713578e60a4640c047128fcbe65537bf1d4d2b",
+  "build_date": "2025-07-16T16:08:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16323925354",
+  "build_id": "16323925354",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gravitational/teleport/build.assets/tooling/query-latest?tag=v0.0.0-20250715200050-deda8410b3d8-riscv64-Linux&download=query-latest.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18792",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gravitational/teleport/build.assets/tooling/query-latest?tag=v0.0.0-20250715200050-deda8410b3d8-riscv64-Linux&download=query-latest",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gravitational/teleport/build.assets/tooling/query-latest:v0.0.0-20250715200050-deda8410b3d8-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gravitational/teleport/build.assets/tooling/query-latest",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gravitational/teleport/build.assets/tooling/query-latest?tag=v0.0.0-20250715200050-deda8410b3d8-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d7a0fcbaf2373e8c67611445381e5becf1868c0e5d96347fabefbdbf79ee2b8d",
+  "size": "11 MB",
+  "size_raw": "10626776",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250627210727-059fb3740a3a-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
