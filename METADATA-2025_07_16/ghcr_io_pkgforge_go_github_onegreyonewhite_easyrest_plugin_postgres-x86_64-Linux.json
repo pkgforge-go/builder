@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "plugin-postgres",
+  "pkg_family": "easyrest",
+  "pkg_id": "plugin-postgres#github.com_onegreyonewhite_easyrest",
+  "pkg_name": "plugin-postgres",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/onegreyonewhite/easyrest/wiki",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "EasyREST is a lightweight, extensible REST service that provides a unified API for performing CRUD and aggregating queries on relational databases",
+  "homepage": [
+    "https://github.com/onegreyonewhite/easyrest/wiki"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth-awssigv4",
+    "auth-jwt",
+    "auth-oidc",
+    "gateway",
+    "plugin-memcached",
+    "plugin-mysql",
+    "plugin-postgres",
+    "plugin-redis",
+    "plugin-sqlite",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/onegreyonewhite/easyrest/@v/v0.13.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.13.0",
+  "version_upstream": "",
+  "bsum": "eff84558b0d4db9d654d42c3dce13d074c73d1e45390e2bdd8aafb230f656566",
+  "build_date": "2025-07-16T04:41:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16310159910",
+  "build_id": "16310159910",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onegreyonewhite/easyrest/plugin-postgres?tag=v0.13.0-x86_64-Linux&download=plugin-postgres.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onegreyonewhite/easyrest/plugin-postgres?tag=v0.13.0-x86_64-Linux&download=plugin-postgres",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/onegreyonewhite/easyrest/plugin-postgres:v0.13.0-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/onegreyonewhite/easyrest/plugin-postgres",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onegreyonewhite/easyrest/plugin-postgres?tag=v0.13.0-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "754d12ea08ea2f2f774e13132ac0be9e6ad31e30b7081207440da87e988d9dac",
+  "size": "20 MB",
+  "size_raw": "19958512",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
