@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "runlocal",
+  "pkg_family": "inverting-proxy",
+  "pkg_id": "runlocal#github.com_google_inverting_proxy",
+  "pkg_name": "runlocal",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/google/inverting-proxy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Reverse proxy that inverts the direction of traffic",
+  "homepage": [
+    "https://github.com/google/inverting-proxy"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "app",
+    "example",
+    "runlocal",
+    "server",
+    "tcp-bridge-backend",
+    "tcp-bridge-frontend",
+    "websockets"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/google/inverting-proxy/@v/v0.0.0-20250715225637-56cf86b7bb21.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250715225637-56cf86b7bb21",
+  "version_upstream": "",
+  "bsum": "edcb8893ebf4040219119450ae523405ee874381ae0ebf871ffb13a7d2a86864",
+  "build_date": "2025-07-16T04:24:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16310130265",
+  "build_id": "16310130265",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/inverting-proxy/runlocal?tag=v0.0.0-20250715225637-56cf86b7bb21-loongarch64-Linux&download=runlocal.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "259",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/inverting-proxy/runlocal?tag=v0.0.0-20250715225637-56cf86b7bb21-loongarch64-Linux&download=runlocal",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/google/inverting-proxy/runlocal:v0.0.0-20250715225637-56cf86b7bb21-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/google/inverting-proxy/runlocal",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/inverting-proxy/runlocal?tag=v0.0.0-20250715225637-56cf86b7bb21-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8feb78cc3d97e5bba2c5e4bf4b73e48e8363fc4ad78bb8ba5c1d2f23ada7120b",
+  "size": "8.8 MB",
+  "size_raw": "9189760",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
