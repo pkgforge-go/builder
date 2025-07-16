@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "image_enforcer",
+  "pkg_family": "contrib",
+  "pkg_id": "image_enforcer#github.com_open_policy_agent_contrib",
+  "pkg_name": "image_enforcer",
+  "pkg_type": "static",
+  "pkg_webpage": "http://www.openpolicyagent.org/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Integrations, examples, and proof-of-concepts that are not part of OPA proper",
+  "homepage": [
+    "http://www.openpolicyagent.org/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "decision_logger_plugin_example",
+    "image_enforcer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/open-policy-agent/contrib/@v/v0.0.0-20250715194101-ef5def0c4e6c.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250715194101-ef5def0c4e6c",
+  "version_upstream": "",
+  "bsum": "f2de508b3f9c194d274f70bddd60209a0ec00cce5645d283d896446031a6b69d",
+  "build_date": "2025-07-16T04:36:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16310159535",
+  "build_id": "16310159535",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-policy-agent/contrib/image_enforcer?tag=v0.0.0-20250715194101-ef5def0c4e6c-x86_64-Linux&download=image_enforcer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "335",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-policy-agent/contrib/image_enforcer?tag=v0.0.0-20250715194101-ef5def0c4e6c-x86_64-Linux&download=image_enforcer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/open-policy-agent/contrib/image_enforcer:v0.0.0-20250715194101-ef5def0c4e6c-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/open-policy-agent/contrib/image_enforcer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/open-policy-agent/contrib/image_enforcer?tag=v0.0.0-20250715194101-ef5def0c4e6c-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d1364129dc6ccb7cf99c87de2c9f6180d77ed9a0fc9b0e47c4b80bc4c34d3239",
+  "size": "6.6 MB",
+  "size_raw": "6847968",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
