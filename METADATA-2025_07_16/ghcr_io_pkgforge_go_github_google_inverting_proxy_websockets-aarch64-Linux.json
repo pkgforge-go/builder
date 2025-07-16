@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "websockets",
+  "pkg_family": "inverting-proxy",
+  "pkg_id": "websockets#github.com_google_inverting_proxy",
+  "pkg_name": "websockets",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/google/inverting-proxy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Reverse proxy that inverts the direction of traffic",
+  "homepage": [
+    "https://github.com/google/inverting-proxy"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "app",
+    "example",
+    "runlocal",
+    "server",
+    "tcp-bridge-backend",
+    "tcp-bridge-frontend",
+    "websockets"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/google/inverting-proxy/@v/v0.0.0-20250715225637-56cf86b7bb21.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250715225637-56cf86b7bb21",
+  "version_upstream": "",
+  "bsum": "e73ea066e7b3b04484216761557e8b47558a7cfc06c03b1ff652c77a35760e03",
+  "build_date": "2025-07-16T04:25:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16310130265",
+  "build_id": "16310130265",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/inverting-proxy/websockets?tag=v0.0.0-20250715225637-56cf86b7bb21-aarch64-Linux&download=websockets.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "259",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/inverting-proxy/websockets?tag=v0.0.0-20250715225637-56cf86b7bb21-aarch64-Linux&download=websockets",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/google/inverting-proxy/websockets:v0.0.0-20250715225637-56cf86b7bb21-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/google/inverting-proxy/websockets",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/inverting-proxy/websockets?tag=v0.0.0-20250715225637-56cf86b7bb21-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b6a477134870d1fb479b4e2eca2d3913b99879059ea45cee0b716c9e4770a04c",
+  "size": "16 MB",
+  "size_raw": "15822464",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
