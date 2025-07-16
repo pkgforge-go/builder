@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "gobump",
+  "pkg_family": "gobump",
+  "pkg_id": "gobump#github.com_lzap_gobump",
+  "pkg_name": "gobump",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lzap/gobump",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Pins Go version when bumping dependencies",
+  "homepage": [
+    "https://github.com/lzap/gobump"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gobump"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/lzap/gobump/@v/v1.0.10.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.10",
+  "version_upstream": "",
+  "bsum": "d436eef3a7e4b88167b0947e1662088b1e95fec1a69b6eccb9b3a57654902bb9",
+  "build_date": "2025-07-16T19:27:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16327745098",
+  "build_id": "16327745098",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lzap/gobump/gobump?tag=v1.0.10-loongarch64-Linux&download=gobump.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lzap/gobump/gobump?tag=v1.0.10-loongarch64-Linux&download=gobump",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lzap/gobump/gobump:v1.0.10-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lzap/gobump/gobump",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lzap/gobump/gobump?tag=v1.0.10-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f3fa0beea6e55a308f678719cd41898622c3db3de253ec860e6ce6f3bdb81293",
+  "size": "6.3 MB",
+  "size_raw": "6566176",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0df5344-250626T131917-loongarch64-Linux[v1.0.9]",
+    "v1.0.9-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
