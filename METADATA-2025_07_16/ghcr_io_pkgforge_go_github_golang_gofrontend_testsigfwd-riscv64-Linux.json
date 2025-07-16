@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "testsigfwd",
+  "pkg_family": "gofrontend",
+  "pkg_id": "testsigfwd#github.com_golang_gofrontend",
+  "pkg_name": "testsigfwd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/golang/gofrontend",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go compiler frontend (gccgo",
+  "homepage": [
+    "https://github.com/golang/gofrontend"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "testasan",
+    "testsigfwd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/golang/gofrontend/@v/v0.0.0-20250708224748-c4d7bfb9895e.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250708224748-c4d7bfb9895e",
+  "version_upstream": "",
+  "bsum": "eb1fcef046e6f7e49d4b679ab9f294a5ea8cd156ff7c14b69eab1bfd5708d34b",
+  "build_date": "2025-07-16T06:54:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16312393661",
+  "build_id": "16312393661",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/gofrontend/testsigfwd?tag=v0.0.0-20250708224748-c4d7bfb9895e-riscv64-Linux&download=testsigfwd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "874",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/gofrontend/testsigfwd?tag=v0.0.0-20250708224748-c4d7bfb9895e-riscv64-Linux&download=testsigfwd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/golang/gofrontend/testsigfwd:v0.0.0-20250708224748-c4d7bfb9895e-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/golang/gofrontend/testsigfwd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/gofrontend/testsigfwd?tag=v0.0.0-20250708224748-c4d7bfb9895e-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a309b1dd49f9ce3bd4cec0122f721fb9c60ae13be1745c32642a82a09c4d8e77",
+  "size": "1.6 MB",
+  "size_raw": "1582584",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-f5c453a-250304T114135-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
