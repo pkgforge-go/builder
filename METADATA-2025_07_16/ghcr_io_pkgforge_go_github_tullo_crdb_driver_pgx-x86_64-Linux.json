@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "driver-pgx",
+  "pkg_family": "crdb",
+  "pkg_id": "driver-pgx#github.com_tullo_crdb",
+  "pkg_name": "driver-pgx",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tullo/crdb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "CRDB for local dev",
+  "homepage": [
+    "https://github.com/tullo/crdb"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "crdb",
+    "driver-pg",
+    "driver-pgx",
+    "gorm",
+    "upper"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/tullo/crdb/@v/v0.0.0-20250710100527-ac598f493cd7.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250710100527-ac598f493cd7",
+  "version_upstream": "",
+  "bsum": "11b72c33945915895db4d81dff6e0dd3507095032130778d0448e80a366216ae",
+  "build_date": "2025-07-16T16:43:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16324167171",
+  "build_id": "16324167171",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tullo/crdb/driver-pgx?tag=v0.0.0-20250710100527-ac598f493cd7-x86_64-Linux&download=driver-pgx.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tullo/crdb/driver-pgx?tag=v0.0.0-20250710100527-ac598f493cd7-x86_64-Linux&download=driver-pgx",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tullo/crdb/driver-pgx:v0.0.0-20250710100527-ac598f493cd7-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tullo/crdb/driver-pgx",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tullo/crdb/driver-pgx?tag=v0.0.0-20250710100527-ac598f493cd7-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4f1413ee0096b988efe35d66c12cccd82c099b075b0bf035d5856b80120c48c4",
+  "size": "9.5 MB",
+  "size_raw": "9934336",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250630174856-f50ff21d2b7b-x86_64-Linux",
+    "v0.0.0-20250703112648-227e2cf73899-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
