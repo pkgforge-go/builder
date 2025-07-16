@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "mock-api",
+  "pkg_family": "mcpify",
+  "pkg_id": "mock-api#github.com_fumiya007_mcpify",
+  "pkg_name": "mock-api",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fumiya007/mcpify",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A proxy server that bridges REST APIs and Model Context Protocol (MCP), enabling seamless integration with MCP clients",
+  "homepage": [
+    "https://github.com/fumiya007/mcpify"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mcp-server-http",
+    "mcp-server-stdio",
+    "mock-api"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/fumiya007/mcpify/@v/v0.0.0-20250709005006-64b3faa55565.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250709005006-64b3faa55565",
+  "version_upstream": "",
+  "bsum": "772a9cd9df2606bccdc09d0170a4f494eb70ad04ed8ef863439db529c26b8696",
+  "build_date": "2025-07-16T04:19:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16310124796",
+  "build_id": "16310124796",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fumiya007/mcpify/mock-api?tag=v0.0.0-20250709005006-64b3faa55565-aarch64-Linux&download=mock-api.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fumiya007/mcpify/mock-api?tag=v0.0.0-20250709005006-64b3faa55565-aarch64-Linux&download=mock-api",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fumiya007/mcpify/mock-api:v0.0.0-20250709005006-64b3faa55565-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fumiya007/mcpify/mock-api",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fumiya007/mcpify/mock-api?tag=v0.0.0-20250709005006-64b3faa55565-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "331e402642e2c6ef20e1140a1b6347b7f056ed8b0a12119b5cc6d6788af108bb",
+  "size": "5.8 MB",
+  "size_raw": "6011264",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
