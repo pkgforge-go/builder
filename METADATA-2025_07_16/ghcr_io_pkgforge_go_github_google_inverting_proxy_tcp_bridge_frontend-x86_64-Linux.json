@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "tcp-bridge-frontend",
+  "pkg_family": "inverting-proxy",
+  "pkg_id": "tcp-bridge-frontend#github.com_google_inverting_proxy",
+  "pkg_name": "tcp-bridge-frontend",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/google/inverting-proxy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Reverse proxy that inverts the direction of traffic",
+  "homepage": [
+    "https://github.com/google/inverting-proxy"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "app",
+    "example",
+    "runlocal",
+    "server",
+    "tcp-bridge-backend",
+    "tcp-bridge-frontend",
+    "websockets"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/google/inverting-proxy/@v/v0.0.0-20250715225637-56cf86b7bb21.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250715225637-56cf86b7bb21",
+  "version_upstream": "",
+  "bsum": "d21fd7195837ac54ab64b1d56a8b6af3d05a179e4ac802a5f610b1bbc7fc0790",
+  "build_date": "2025-07-16T04:24:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16310130265",
+  "build_id": "16310130265",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/inverting-proxy/tcp-bridge-frontend?tag=v0.0.0-20250715225637-56cf86b7bb21-x86_64-Linux&download=tcp-bridge-frontend.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "259",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/inverting-proxy/tcp-bridge-frontend?tag=v0.0.0-20250715225637-56cf86b7bb21-x86_64-Linux&download=tcp-bridge-frontend",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/google/inverting-proxy/tcp-bridge-frontend:v0.0.0-20250715225637-56cf86b7bb21-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/google/inverting-proxy/tcp-bridge-frontend",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/inverting-proxy/tcp-bridge-frontend?tag=v0.0.0-20250715225637-56cf86b7bb21-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "87e68d8841f53148ccdd66815c61689f68bb2b4669188e0aed8d1e4072f565da",
+  "size": "5.6 MB",
+  "size_raw": "5780416",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
