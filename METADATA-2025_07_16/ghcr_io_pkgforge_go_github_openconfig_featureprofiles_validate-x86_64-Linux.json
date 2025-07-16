@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "validate",
+  "pkg_family": "featureprofiles",
+  "pkg_id": "validate#github.com_openconfig_featureprofiles",
+  "pkg_name": "validate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openconfig/featureprofiles",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Feature Profiles are groups of OpenConfig paths and tests which verify their behavior",
+  "homepage": [
+    "https://github.com/openconfig/featureprofiles"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "addrundata",
+    "canonical_oc_generation_example",
+    "ci-trigger",
+    "cntrsrv",
+    "example",
+    "fpcli",
+    "gen",
+    "lint2annotation",
+    "sort_testregistry",
+    "validate",
+    "validate_readme_canonicalocspec",
+    "validate_readme_spec",
+    "wikidoc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/openconfig/featureprofiles/@v/v0.0.0-20250714200324-6f745a6084ad.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250714200324-6f745a6084ad",
+  "version_upstream": "",
+  "bsum": "08904e73a71e1c2f29a1f254b435d97b91f4fa555c1d3e2b18975e189c294b36",
+  "build_date": "2025-07-16T16:33:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16323985989",
+  "build_id": "16323985989",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/validate?tag=v0.0.0-20250714200324-6f745a6084ad-x86_64-Linux&download=validate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "55",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/validate?tag=v0.0.0-20250714200324-6f745a6084ad-x86_64-Linux&download=validate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openconfig/featureprofiles/validate:v0.0.0-20250714200324-6f745a6084ad-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openconfig/featureprofiles/validate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/validate?tag=v0.0.0-20250714200324-6f745a6084ad-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fdaf27ab5174181e851bd1b13241e50698e07e796008562dd8f3a6542f21a5f0",
+  "size": "16 MB",
+  "size_raw": "16096608",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-d612615-250620T141650-x86_64-Linux",
+    "HEAD-abdf959-250623T164926-x86_64-Linux",
+    "HEAD-4f694cf-250624T142533-x86_64-Linux",
+    "HEAD-34b79bc-250625T143340-x86_64-Linux",
+    "HEAD-ed5f8b4-250625T152449-x86_64-Linux",
+    "HEAD-eacf654-250626T185353-x86_64-Linux",
+    "HEAD-a97ea8b-250627T100029-x86_64-Linux",
+    "HEAD-561844e-250627T183800-x86_64-Linux",
+    "v0.0.0-20250701033938-d0e8b00a56aa-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
