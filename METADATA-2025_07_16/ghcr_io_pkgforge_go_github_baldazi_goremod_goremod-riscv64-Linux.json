@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "goremod",
+  "pkg_family": "goremod",
+  "pkg_id": "goremod#github.com_baldazi_goremod",
+  "pkg_name": "goremod",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/baldazi/goremod",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Goremod is a CLI tool that automates the renaming of Go module paths. It updates the go.mod file and rewrites all relevant import statements in your codebase, making it easy to fork, clone, or repurpose Go projects under a new module name",
+  "homepage": [
+    "https://github.com/baldazi/goremod"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "goremod"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/baldazi/goremod/@v/v0.4.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.4.1",
+  "version_upstream": "",
+  "bsum": "cc0ea2f67f75148c47c2e28773e9f8e15f62aa3309e178b5013c4ac731ba7029",
+  "build_date": "2025-07-16T18:49:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16327631096",
+  "build_id": "16327631096",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/baldazi/goremod/goremod?tag=v0.4.1-riscv64-Linux&download=goremod.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/baldazi/goremod/goremod?tag=v0.4.1-riscv64-Linux&download=goremod",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/baldazi/goremod/goremod:v0.4.1-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/baldazi/goremod/goremod",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/baldazi/goremod/goremod?tag=v0.4.1-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9654656e0f256bb6ccc8648ac99b5081aa631e7f151ee73426c0e656eff02b29",
+  "size": "3.1 MB",
+  "size_raw": "3184040",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.1.2-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
