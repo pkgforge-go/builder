@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "jcp",
+  "pkg_family": "rpc25519",
+  "pkg_id": "jcp#github.com_glycerine_rpc25519",
+  "pkg_name": "jcp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/glycerine/rpc25519",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Edwards curve ed25519 identity based RPC for Go/golang. TLS-v1.3 over TCP (or QUIC",
+  "homepage": [
+    "https://github.com/glycerine/rpc25519"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "jcp",
+    "jsrv",
+    "samesame",
+    "seesparse",
+    "selfy",
+    "srv"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/glycerine/rpc25519/@v/v1.22.76.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.22.76",
+  "version_upstream": "",
+  "bsum": "fb480bce191eff35b02c998de748814d5846accf7e8d1a7d9c437a7bcb01acce",
+  "build_date": "2025-07-16T16:02:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16323892470",
+  "build_id": "16323892470",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glycerine/rpc25519/jcp?tag=v1.22.76-x86_64-Linux&download=jcp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glycerine/rpc25519/jcp?tag=v1.22.76-x86_64-Linux&download=jcp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/glycerine/rpc25519/jcp:v1.22.76-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/glycerine/rpc25519/jcp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glycerine/rpc25519/jcp?tag=v1.22.76-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5c9f8daa8d558425c581febb8bc742c5bf4145f5919de68beaaceb0f3c8148e6",
+  "size": "13 MB",
+  "size_raw": "13608656",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.22.73-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
