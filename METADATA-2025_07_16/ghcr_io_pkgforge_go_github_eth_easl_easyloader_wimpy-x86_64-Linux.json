@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "wimpy",
+  "pkg_family": "easyloader",
+  "pkg_id": "wimpy#github.com_eth_easl_easyloader",
+  "pkg_name": "wimpy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/eth-easl/easyloader",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Load generator and trace sampler for serverless computing",
+  "homepage": [
+    "https://github.com/eth-easl/easyloader"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws",
+    "driver",
+    "easyloader-cmd",
+    "multi_loader",
+    "plotter",
+    "timed",
+    "trace-func-go",
+    "wimpy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/eth-easl/easyloader/@v/v0.0.0-20250620042329-2ec56b51aff5.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250620042329-2ec56b51aff5",
+  "version_upstream": "",
+  "bsum": "b4b678a845f26db11f6378abf48a0e9092c798055aa93a9d16a84794b4742cb3",
+  "build_date": "2025-07-16T04:18:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16310096207",
+  "build_id": "16310096207",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eth-easl/easyloader/wimpy?tag=v0.0.0-20250620042329-2ec56b51aff5-x86_64-Linux&download=wimpy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "24",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eth-easl/easyloader/wimpy?tag=v0.0.0-20250620042329-2ec56b51aff5-x86_64-Linux&download=wimpy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/eth-easl/easyloader/wimpy:v0.0.0-20250620042329-2ec56b51aff5-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/eth-easl/easyloader/wimpy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eth-easl/easyloader/wimpy?tag=v0.0.0-20250620042329-2ec56b51aff5-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d654b833e430e589602b5c5db36fffbaa613a4cf9c33c2e6a4da9b92d855dfa9",
+  "size": "12 MB",
+  "size_raw": "11658752",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

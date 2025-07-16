@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "timed",
+  "pkg_family": "easyloader",
+  "pkg_id": "timed#github.com_eth_easl_easyloader",
+  "pkg_name": "timed",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/eth-easl/easyloader",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Load generator and trace sampler for serverless computing",
+  "homepage": [
+    "https://github.com/eth-easl/easyloader"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws",
+    "driver",
+    "easyloader-cmd",
+    "multi_loader",
+    "plotter",
+    "timed",
+    "trace-func-go",
+    "wimpy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/eth-easl/easyloader/@v/v0.0.0-20250620042329-2ec56b51aff5.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250620042329-2ec56b51aff5",
+  "version_upstream": "",
+  "bsum": "a2c8c1082b35ca868de253d53dcd58f778a5982a7c047a68b0929db6c4c749d9",
+  "build_date": "2025-07-16T04:19:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16310096207",
+  "build_id": "16310096207",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eth-easl/easyloader/timed?tag=v0.0.0-20250620042329-2ec56b51aff5-x86_64-Linux&download=timed.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "24",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eth-easl/easyloader/timed?tag=v0.0.0-20250620042329-2ec56b51aff5-x86_64-Linux&download=timed",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/eth-easl/easyloader/timed:v0.0.0-20250620042329-2ec56b51aff5-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/eth-easl/easyloader/timed",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eth-easl/easyloader/timed?tag=v0.0.0-20250620042329-2ec56b51aff5-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a7c7f117dbd4961a43e4a67e1ce5fdb64b82731c38c38891567ce4690444b2c2",
+  "size": "12 MB",
+  "size_raw": "11654720",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

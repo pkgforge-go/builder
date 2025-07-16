@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "aws",
+  "pkg_family": "easyloader",
+  "pkg_id": "aws#github.com_eth_easl_easyloader",
+  "pkg_name": "aws",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/eth-easl/easyloader",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Load generator and trace sampler for serverless computing",
+  "homepage": [
+    "https://github.com/eth-easl/easyloader"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws",
+    "driver",
+    "easyloader-cmd",
+    "multi_loader",
+    "plotter",
+    "timed",
+    "trace-func-go",
+    "wimpy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/eth-easl/easyloader/@v/v0.0.0-20250620042329-2ec56b51aff5.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250620042329-2ec56b51aff5",
+  "version_upstream": "",
+  "bsum": "5df7fb1d3edc091236d8a56e83bb4db3ef970cec1f95a5f3e9d1d19df59c17ca",
+  "build_date": "2025-07-16T04:18:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16310096207",
+  "build_id": "16310096207",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eth-easl/easyloader/aws?tag=v0.0.0-20250620042329-2ec56b51aff5-x86_64-Linux&download=aws.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "24",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eth-easl/easyloader/aws?tag=v0.0.0-20250620042329-2ec56b51aff5-x86_64-Linux&download=aws",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/eth-easl/easyloader/aws:v0.0.0-20250620042329-2ec56b51aff5-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/eth-easl/easyloader/aws",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eth-easl/easyloader/aws?tag=v0.0.0-20250620042329-2ec56b51aff5-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a28ae4468cb8ba3cb79ca77f0d0222806eb109301276e45d3e7038e0f26d1a94",
+  "size": "14 MB",
+  "size_raw": "13943840",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

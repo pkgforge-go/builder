@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "driver",
+  "pkg_family": "easyloader",
+  "pkg_id": "driver#github.com_eth_easl_easyloader",
+  "pkg_name": "driver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/eth-easl/easyloader",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Load generator and trace sampler for serverless computing",
+  "homepage": [
+    "https://github.com/eth-easl/easyloader"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws",
+    "driver",
+    "easyloader-cmd",
+    "multi_loader",
+    "plotter",
+    "timed",
+    "trace-func-go",
+    "wimpy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/eth-easl/easyloader/@v/v0.0.0-20250620042329-2ec56b51aff5.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250620042329-2ec56b51aff5",
+  "version_upstream": "",
+  "bsum": "90cefc69fe7b9bba5a01e64c92cebb5f9e0541320050af602ead828d14c9c7d4",
+  "build_date": "2025-07-16T04:18:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16310096207",
+  "build_id": "16310096207",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eth-easl/easyloader/driver?tag=v0.0.0-20250620042329-2ec56b51aff5-x86_64-Linux&download=driver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "24",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eth-easl/easyloader/driver?tag=v0.0.0-20250620042329-2ec56b51aff5-x86_64-Linux&download=driver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/eth-easl/easyloader/driver:v0.0.0-20250620042329-2ec56b51aff5-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/eth-easl/easyloader/driver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eth-easl/easyloader/driver?tag=v0.0.0-20250620042329-2ec56b51aff5-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "714d75f3399e00491d25390e1fb6760846e2db1647b2a8749677a702fed2c232",
+  "size": "4.8 MB",
+  "size_raw": "5016736",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
