@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "keyring",
+  "pkg_family": "keyring",
+  "pkg_id": "keyring#github.com_byteness_keyring",
+  "pkg_name": "keyring",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/byteness/keyring",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library providing a uniform interface across a range of secure credential stores",
+  "homepage": [
+    "https://github.com/byteness/keyring"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "keyring"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/byteness/keyring/@v/v1.3.2.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.3.2",
+  "version_upstream": "",
+  "bsum": "e7f34184a8d85f6895a9a57bb46d6dae9c9f83d0377052b3b9a95ffb8e373059",
+  "build_date": "2025-07-16T18:45:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16327630825",
+  "build_id": "16327630825",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/byteness/keyring/keyring?tag=v1.3.2-riscv64-Linux&download=keyring.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/byteness/keyring/keyring?tag=v1.3.2-riscv64-Linux&download=keyring",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/byteness/keyring/keyring:v1.3.2-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/byteness/keyring/keyring",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/byteness/keyring/keyring?tag=v1.3.2-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e0bb7a3b71e54ae26f5391292a3ae1b53d06dcddc3efc60c5df324c56a60ad0e",
+  "size": "4.6 MB",
+  "size_raw": "4732312",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.3.0-riscv64-Linux",
+    "v1.3.1-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
