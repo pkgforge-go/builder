@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "check",
+  "pkg_family": "tooling",
+  "pkg_id": "check#github.com_gravitational_teleport_build.assets_tooling",
+  "pkg_name": "check",
+  "pkg_type": "static",
+  "pkg_webpage": "https://goteleport.com",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The easiest, and most secure way to access and protect all of your infrastructure",
+  "homepage": [
+    "https://goteleport.com"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apiversion",
+    "check",
+    "difftest",
+    "goderive",
+    "protoc-gen-eventschema",
+    "query-latest",
+    "render-helm-ref",
+    "render-tests",
+    "rerun",
+    "update-plist-version"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/gravitational/teleport/build.assets/tooling/@v/v0.0.0-20250715200050-deda8410b3d8.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250715200050-deda8410b3d8",
+  "version_upstream": "",
+  "bsum": "b3aed5d9b4d99ce4973b8b410b6579255f92b0d3ba52c31cdf8640ef2b7aa08a",
+  "build_date": "2025-07-16T16:07:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16323925354",
+  "build_id": "16323925354",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gravitational/teleport/build.assets/tooling/check?tag=v0.0.0-20250715200050-deda8410b3d8-x86_64-Linux&download=check.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18792",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gravitational/teleport/build.assets/tooling/check?tag=v0.0.0-20250715200050-deda8410b3d8-x86_64-Linux&download=check",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gravitational/teleport/build.assets/tooling/check:v0.0.0-20250715200050-deda8410b3d8-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gravitational/teleport/build.assets/tooling/check",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gravitational/teleport/build.assets/tooling/check?tag=v0.0.0-20250715200050-deda8410b3d8-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a1b905561ddf9b1c4a3542184e68401b76fdb9866c9370ec30ea43ec068ae33a",
+  "size": "11 MB",
+  "size_raw": "11166880",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250627210727-059fb3740a3a-x86_64-Linux"
+  ],
+  "trusted": "true"
+}

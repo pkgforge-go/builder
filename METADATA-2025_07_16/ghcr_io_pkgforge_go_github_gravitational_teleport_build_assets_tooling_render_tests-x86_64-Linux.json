@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "render-tests",
+  "pkg_family": "tooling",
+  "pkg_id": "render-tests#github.com_gravitational_teleport_build.assets_tooling",
+  "pkg_name": "render-tests",
+  "pkg_type": "static",
+  "pkg_webpage": "https://goteleport.com",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The easiest, and most secure way to access and protect all of your infrastructure",
+  "homepage": [
+    "https://goteleport.com"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apiversion",
+    "check",
+    "difftest",
+    "goderive",
+    "protoc-gen-eventschema",
+    "query-latest",
+    "render-helm-ref",
+    "render-tests",
+    "rerun",
+    "update-plist-version"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/gravitational/teleport/build.assets/tooling/@v/v0.0.0-20250715200050-deda8410b3d8.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250715200050-deda8410b3d8",
+  "version_upstream": "",
+  "bsum": "d794c5737427bd2ae46e3cf34d9d313d8176c49597c44be1021dcf41dee36121",
+  "build_date": "2025-07-16T16:07:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16323925354",
+  "build_id": "16323925354",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gravitational/teleport/build.assets/tooling/render-tests?tag=v0.0.0-20250715200050-deda8410b3d8-x86_64-Linux&download=render-tests.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18792",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gravitational/teleport/build.assets/tooling/render-tests?tag=v0.0.0-20250715200050-deda8410b3d8-x86_64-Linux&download=render-tests",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gravitational/teleport/build.assets/tooling/render-tests:v0.0.0-20250715200050-deda8410b3d8-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gravitational/teleport/build.assets/tooling/render-tests",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gravitational/teleport/build.assets/tooling/render-tests?tag=v0.0.0-20250715200050-deda8410b3d8-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5bb4ee6b6a1954415d0b09afcddf3532318bbaaf9032ed66998f9ce9551e820c",
+  "size": "6.3 MB",
+  "size_raw": "6508192",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250627210727-059fb3740a3a-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
