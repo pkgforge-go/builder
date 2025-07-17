@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "gostack2json",
+  "pkg_family": "gostackparse",
+  "pkg_id": "gostack2json#github.com_bferullo_gostackparse",
+  "pkg_name": "gostack2json",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bferullo/gostackparse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Package gostackparse parses goroutines stack traces as produced by panic() or debug.Stack() at ~300 MiB/s",
+  "homepage": [
+    "https://github.com/bferullo/gostackparse"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gostack2json",
+    "gostackparse-example"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/bferullo/gostackparse/@v/v0.8.0-alpha.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.8.0-alpha",
+  "version_upstream": "",
+  "bsum": "0cd5a28bffe561db50985c34f12415c49ec48160ad70bb38dd0e68a7f2ed0e02",
+  "build_date": "2025-07-17T04:11:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16335942653",
+  "build_id": "16335942653",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bferullo/gostackparse/gostack2json?tag=v0.8.0-alpha-aarch64-Linux&download=gostack2json.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bferullo/gostackparse/gostack2json?tag=v0.8.0-alpha-aarch64-Linux&download=gostack2json",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bferullo/gostackparse/gostack2json:v0.8.0-alpha-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bferullo/gostackparse/gostack2json",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bferullo/gostackparse/gostack2json?tag=v0.8.0-alpha-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e4285eed327e94eeba699a025c031b84d5529e6516415328f8bd8961e84edb9b",
+  "size": "2.2 MB",
+  "size_raw": "2204120",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
