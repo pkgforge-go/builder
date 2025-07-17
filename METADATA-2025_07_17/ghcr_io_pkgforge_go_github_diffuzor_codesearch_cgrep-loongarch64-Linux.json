@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cgrep",
+  "pkg_family": "codesearch",
+  "pkg_id": "cgrep#github.com_diffuzor_codesearch",
+  "pkg_name": "cgrep",
+  "pkg_type": "static",
+  "pkg_webpage": "http://swtch.com/~rsc/regexp/regexp4.html",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A fork increasing max line length",
+  "homepage": [
+    "http://swtch.com/~rsc/regexp/regexp4.html"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cgrep",
+    "cindex",
+    "csearch",
+    "csweb"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/diffuzor/codesearch/@v/v0.0.0-20250414140739-a544b7f4eaed.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250414140739-a544b7f4eaed",
+  "version_upstream": "",
+  "bsum": "679df5c3ec4aefc34e1dff637be4fa6270207af23d567d51a9d60e5bd2433d20",
+  "build_date": "2025-07-17T04:26:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16335945713",
+  "build_id": "16335945713",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/diffuzor/codesearch/cgrep?tag=v0.0.0-20250414140739-a544b7f4eaed-loongarch64-Linux&download=cgrep.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/diffuzor/codesearch/cgrep?tag=v0.0.0-20250414140739-a544b7f4eaed-loongarch64-Linux&download=cgrep",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/diffuzor/codesearch/cgrep:v0.0.0-20250414140739-a544b7f4eaed-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/diffuzor/codesearch/cgrep",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/diffuzor/codesearch/cgrep?tag=v0.0.0-20250414140739-a544b7f4eaed-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "63fddeef64ee0c5d56cdb841bfed47c9aac8d1af6b35647c301f3a57dc895754",
+  "size": "2.4 MB",
+  "size_raw": "2446616",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
