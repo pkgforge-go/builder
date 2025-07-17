@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "corscan",
+  "pkg_family": "corscan",
+  "pkg_id": "corscan#github.com_geisonn_corscan",
+  "pkg_name": "corscan",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/geisonn/corscan",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Corscan is a Go-based tool that automates the detection and exploitation of CORS misconfigurations. It performs intelligent analysis of Access-Control-Allow-Origin behavior, detects credentialed cross-origin access, and generates PoCs automatically — streamlining CORS testing for bug bounty and offensive security workflows",
+  "homepage": [
+    "https://github.com/geisonn/corscan"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "corscan"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/geisonn/corscan/@v/v1.0.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.0",
+  "version_upstream": "",
+  "bsum": "90cd673c86428f5b2e92d3de13d03a30487a4a2b00d28df0910ea730c89a18fc",
+  "build_date": "2025-07-17T04:34:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16335976399",
+  "build_id": "16335976399",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/geisonn/corscan/corscan?tag=v1.0.0-x86_64-Linux&download=corscan.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/geisonn/corscan/corscan?tag=v1.0.0-x86_64-Linux&download=corscan",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/geisonn/corscan/corscan:v1.0.0-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/geisonn/corscan/corscan",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/geisonn/corscan/corscan?tag=v1.0.0-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2c838a5b772af99f7fd0661fd2c235aa47533d13afff0fd9f1a709280cac3ae3",
+  "size": "6.0 MB",
+  "size_raw": "6250560",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
