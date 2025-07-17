@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "run-server",
+  "pkg_family": "src",
+  "pkg_id": "run-server#github.com_opentofu_registry_stable_src",
+  "pkg_name": "run-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://search.opentofu.org",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Metadata and tooling for the OpenTofu registry",
+  "homepage": [
+    "https://search.opentofu.org"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "add-module",
+    "add-provider",
+    "bump-versions",
+    "generate-v1",
+    "run-server",
+    "validate",
+    "verify-gpg-key"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/opentofu/registry/src/@v/v0.0.0-20250716000211-3f127e80873c.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250716000211-3f127e80873c",
+  "version_upstream": "",
+  "bsum": "e4c999e2c2071a6a594adaf490e76e6ee8c4bd1a1d1c208c3c6b68271d96d9af",
+  "build_date": "2025-07-17T02:27:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16334459167",
+  "build_id": "16334459167",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opentofu/registry-stable/src/run-server?tag=v0.0.0-20250716000211-3f127e80873c-aarch64-Linux&download=run-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "375",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opentofu/registry-stable/src/run-server?tag=v0.0.0-20250716000211-3f127e80873c-aarch64-Linux&download=run-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/opentofu/registry-stable/src/run-server:v0.0.0-20250716000211-3f127e80873c-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/opentofu/registry-stable/src/run-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/opentofu/registry-stable/src/run-server?tag=v0.0.0-20250716000211-3f127e80873c-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6c5db4ae82ca18473337f9939bb230e146c522db48ca69097501b0a6fd03a4e4",
+  "size": "6.2 MB",
+  "size_raw": "6427488",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250630000214-b212b9918d81-aarch64-Linux",
+    "v0.0.0-20250716000211-3f127e80873c-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
