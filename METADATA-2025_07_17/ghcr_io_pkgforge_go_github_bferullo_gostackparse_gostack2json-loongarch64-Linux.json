@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "gostack2json",
+  "pkg_family": "gostackparse",
+  "pkg_id": "gostack2json#github.com_bferullo_gostackparse",
+  "pkg_name": "gostack2json",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bferullo/gostackparse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Package gostackparse parses goroutines stack traces as produced by panic() or debug.Stack() at ~300 MiB/s",
+  "homepage": [
+    "https://github.com/bferullo/gostackparse"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gostack2json",
+    "gostackparse-example"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/bferullo/gostackparse/@v/v0.8.0-alpha.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.8.0-alpha",
+  "version_upstream": "",
+  "bsum": "f64a5be190ea13e4e6b31d72344f0e2c29add604592cc0470ef2a14edac79f2e",
+  "build_date": "2025-07-17T04:11:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16335942653",
+  "build_id": "16335942653",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bferullo/gostackparse/gostack2json?tag=v0.8.0-alpha-loongarch64-Linux&download=gostack2json.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bferullo/gostackparse/gostack2json?tag=v0.8.0-alpha-loongarch64-Linux&download=gostack2json",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bferullo/gostackparse/gostack2json:v0.8.0-alpha-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bferullo/gostackparse/gostack2json",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bferullo/gostackparse/gostack2json?tag=v0.8.0-alpha-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c3675ee71179848c9920fba8eb7b8f974af4e13c5ce1a3f495d844776d86c041",
+  "size": "2.2 MB",
+  "size_raw": "2223512",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
