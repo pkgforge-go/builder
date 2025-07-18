@@ -28371,6 +28371,19 @@
     "version": "HEAD-24732f5-250327T160028"
   },
   {
+    "description": "Suite of Tinkerbell Actions for use in Tinkerbell Workflows",
+    "name": "archive2disk",
+    "pkg_id": "archive2disk#github.com_tinkerbell_hub",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-18",
+    "version": "v0.0.0-20250716223720-50bd343710d7"
+  },
+  {
     "description": "Builders and buildpacks designed to run on Google Cloud_s container platforms",
     "name": "archive_source",
     "pkg_id": "archive_source#github.com_GoogleCloudPlatform_buildpacks",
@@ -50234,6 +50247,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-6b9a688-250618T145406"
+  },
+  {
+    "description": "Suite of Tinkerbell Actions for use in Tinkerbell Workflows",
+    "name": "cexec",
+    "pkg_id": "cexec#github.com_tinkerbell_hub",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-18",
+    "version": "v0.0.0-20250716223720-50bd343710d7"
   },
   {
     "description": "Poor man CloudFlare analytics exporter",
@@ -133427,6 +133453,16 @@
     "version": "v0.11.19"
   },
   {
+    "description": "Install executable binary from GitHub release asset",
+    "name": "gh-release-install",
+    "pkg_id": "gh-release-install#github.com_shibataka000_gh_release_install",
+    "targets": [
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-18",
+    "version": "v0.4.3"
+  },
+  {
     "description": "A gh CLI extension to interact with secret scanning alerts for a GHEC or GHES 3.7+ enterprise, organization, or repository",
     "name": "gh-secret-scanning",
     "pkg_id": "gh-secret-scanning#github.com_CallMeGreg_gh_secret_scanning",
@@ -133748,6 +133784,19 @@
     ],
     "updated_at": "2025-07-17",
     "version": "v0.0.0-20250716223832-6e398f5a0f59"
+  },
+  {
+    "description": "Gherkin to Markdown converter",
+    "name": "gherkin2markdown",
+    "pkg_id": "gherkin2markdown#github.com_raviqqe_gherkin2markdown",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-18",
+    "version": "v0.0.0-20250717132252-fc32cd3a19f6"
   },
   {
     "description": "Behaviour Driven Development tests generator for Golang",
@@ -153196,6 +153245,19 @@
     "version": "HEAD-f28d506-250416T200523"
   },
   {
+    "description": "Suite of Tinkerbell Actions for use in Tinkerbell Workflows",
+    "name": "grub2disk",
+    "pkg_id": "grub2disk#github.com_tinkerbell_hub",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-18",
+    "version": "v0.0.0-20250716223720-50bd343710d7"
+  },
+  {
     "description": "A vulnerability scanner for container images and filesystems",
     "name": "grype",
     "pkg_id": "grype#github.com_anchore_grype",
@@ -164824,6 +164886,19 @@
     "version": "v0.0.0-20250414135308-f1ac27763abb"
   },
   {
+    "description": "Docker image redirect",
+    "name": "image-copy-utils",
+    "pkg_id": "image-copy-utils#github.com_silver_chard_image_copy_utils",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-18",
+    "version": "v0.0.1"
+  },
+  {
     "description": "Example apps demonstrating Chainguard platform integrations",
     "name": "image-diff",
     "pkg_id": "image-diff#github.com_chainguard_dev_platform_examples_image_diff",
@@ -164951,6 +165026,19 @@
     ],
     "updated_at": "2025-07-17",
     "version": "v0.0.0-20250705162549-f2690162a2d3"
+  },
+  {
+    "description": "Suite of Tinkerbell Actions for use in Tinkerbell Workflows",
+    "name": "image2disk",
+    "pkg_id": "image2disk#github.com_tinkerbell_hub",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-18",
+    "version": "v0.0.0-20250716223720-50bd343710d7"
   },
   {
     "description": "Integrations, examples, and proof-of-concepts that are not part of OPA proper",
@@ -173099,6 +173187,18 @@
     "version": "HEAD-6e2e561-230521T200320"
   },
   {
+    "description": "Mining JavaScript and related web files. Finds POST requests (with parameters) and it searches for common patterns such as paths, email addresses or JWT tokens and uses AST parsing to detect values built from string concatenation. The utility features a set of built‑in “power rules” to spot sensitive info",
+    "name": "jsminer",
+    "pkg_id": "jsminer#github.com_tavgar_jsminer",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-18",
+    "version": "v0.0.0-20250708181300-f89a401c46cf"
+  },
+  {
     "description": "学习golang中遇到的坑和一些测试学习的代码仓库",
     "name": "json",
     "pkg_id": "json#github.com_allen9012_infinitegolang",
@@ -176901,6 +177001,19 @@
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-d50c75e-250620T111144"
+  },
+  {
+    "description": "Suite of Tinkerbell Actions for use in Tinkerbell Workflows",
+    "name": "kexec",
+    "pkg_id": "kexec#github.com_tinkerbell_hub",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-18",
+    "version": "v0.0.0-20250716223720-50bd343710d7"
   },
   {
     "description": "Go scripts for checking API key / access token validity",
@@ -183643,6 +183756,19 @@
     ],
     "updated_at": "2025-07-10",
     "version": "v0.0.0-20250709161131-1571a6e8ad2d"
+  },
+  {
+    "description": "TON Web3 Gateway",
+    "name": "lib",
+    "pkg_id": "lib#github.com_xssnick_tonutils_proxy",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-18",
+    "version": "v1.8.1"
   },
   {
     "description": "把txt文本转成epub和mobi电子书的命令行工具_原TmdTextEpub_",
@@ -207738,6 +207864,19 @@
     "version": "HEAD-0139697-250625T125834"
   },
   {
+    "description": "The myshoes MCP Server is Model Context Protocol (MCP) compliant server for the whywaita/myshoes",
+    "name": "myshoes-mcp-server",
+    "pkg_id": "myshoes-mcp-server#github.com_whywaita_myshoes_mcp_server",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-18",
+    "version": "v0.4.0"
+  },
+  {
     "description": "Short golang tutorials",
     "name": "mysolution",
     "pkg_id": "mysolution#github.com_nlduy0310_learn_golang",
@@ -215710,6 +215849,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-9aafe3b-250619T015910"
+  },
+  {
+    "description": "Suite of Tinkerbell Actions for use in Tinkerbell Workflows",
+    "name": "oci2disk",
+    "pkg_id": "oci2disk#github.com_tinkerbell_hub",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-18",
+    "version": "v0.0.0-20250716223720-50bd343710d7"
   },
   {
     "description": "Boundary enables identity-based access management for dynamic infrastructure",
@@ -237141,6 +237293,19 @@
     "version": "v0.0.0-20250610033740-47096ee65a06"
   },
   {
+    "description": "GRPC Mock Server",
+    "name": "protoc-gen-gripmock",
+    "pkg_id": "protoc-gen-gripmock#github.com_tokopedia_gripmock_protoc_gen_gripmock",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-18",
+    "version": "v0.0.0-20250717052514-e8429fba39a8"
+  },
+  {
     "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
     "name": "protoc-gen-grpc-clone",
     "pkg_id": "protoc-gen-grpc-clone#github.com_hashicorp_consul",
@@ -238785,6 +238950,19 @@
     ],
     "updated_at": "2025-06-22",
     "version": "HEAD-604194a-250512T160801"
+  },
+  {
+    "description": "TON Web3 Gateway",
+    "name": "proxy-cli",
+    "pkg_id": "proxy-cli#github.com_xssnick_tonutils_proxy",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-18",
+    "version": "v1.8.1"
   },
   {
     "description": "go+nextjs+shadcn. 不同路径代理不同源的代理服务. 支持压缩, cdnjs等类似站点的代理, 大文件流式传输, 适配Cloudflare Images代理",
@@ -241931,6 +242109,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-d992929-250610T125302"
+  },
+  {
+    "description": "Suite of Tinkerbell Actions for use in Tinkerbell Workflows",
+    "name": "qemuimg2disk",
+    "pkg_id": "qemuimg2disk#github.com_tinkerbell_hub",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-18",
+    "version": "v0.0.0-20250716223720-50bd343710d7"
   },
   {
     "description": "The Go/XGo Interpreter",
@@ -254825,6 +255016,19 @@
     "version": "HEAD-0c26eee-250627T130810"
   },
   {
+    "description": "Suite of Tinkerbell Actions for use in Tinkerbell Workflows",
+    "name": "rootio",
+    "pkg_id": "rootio#github.com_tinkerbell_hub",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-18",
+    "version": "v0.0.0-20250716223720-50bd343710d7"
+  },
+  {
     "description": "Linux-native _fake root_ for implementing rootless containers",
     "name": "rootlessctl",
     "pkg_id": "rootlessctl#github.com_rootless_containers_rootlesskit",
@@ -255630,6 +255834,19 @@
     ],
     "updated_at": "2025-06-26",
     "version": "HEAD-2f530cb-250626T173305"
+  },
+  {
+    "description": "RPM (Requests Per Minute) reporter in Go",
+    "name": "rpm",
+    "pkg_id": "rpm#github.com_raviqqe_rpm",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-18",
+    "version": "v0.0.0-20250715195343-e7ed97b3cdb4"
   },
   {
     "description": "Bali -  Minimalist Golang build and packaging tool",
@@ -261090,8 +261307,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-07",
-    "version": "v0.0.0-20250706052831-43d133b211ac"
+    "updated_at": "2025-07-18",
+    "version": "v0.0.0-20250715145930-5b60eb7f1037"
   },
   {
     "description": "Open Container Initiative-based implementation of Kubernetes Container Runtime Interface",
@@ -261937,6 +262154,8 @@
     "name": "sdkexamples",
     "pkg_id": "sdkexamples#github.com_helm_helm_www_sdkexamples",
     "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
       "x86_64-Linux"
     ],
     "updated_at": "2025-07-18",
@@ -266822,6 +267041,19 @@
     ],
     "updated_at": "2025-07-13",
     "version": "v0.0.0-20250710143712-b796409d8ee3"
+  },
+  {
+    "description": "Suite of Tinkerbell Actions for use in Tinkerbell Workflows",
+    "name": "server",
+    "pkg_id": "server#github.com_tinkerbell_hub",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-18",
+    "version": "v0.0.0-20250716223720-50bd343710d7"
   },
   {
     "description": "TinyGo drivers for sensors, displays, wireless adaptors, and other devices that use I2C, SPI, GPIO, ADC, and UART interfaces.",
@@ -274578,6 +274810,19 @@
     ],
     "updated_at": "2025-06-28",
     "version": "HEAD-867f796-250627T135812"
+  },
+  {
+    "description": "Suite of Tinkerbell Actions for use in Tinkerbell Workflows",
+    "name": "slurp",
+    "pkg_id": "slurp#github.com_tinkerbell_hub",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-18",
+    "version": "v0.0.0-20250716223720-50bd343710d7"
   },
   {
     "description": "Go client for Synthetic Monitoring",
@@ -288198,6 +288443,19 @@
     "version": "HEAD-40eb278-250627T014431"
   },
   {
+    "description": "Suite of Tinkerbell Actions for use in Tinkerbell Workflows",
+    "name": "syslinux",
+    "pkg_id": "syslinux#github.com_tinkerbell_hub",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-18",
+    "version": "v0.0.0-20250716223720-50bd343710d7"
+  },
+  {
     "description": "Simple, Versatile, Yours",
     "name": "system",
     "pkg_id": "system#github.com_cozy_cozy_stack",
@@ -291332,7 +291590,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-13",
+    "updated_at": "2025-07-18",
     "version": "v0.0.0-20250516102355-7045e6b3b296"
   },
   {
@@ -303273,8 +303531,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-16",
-    "version": "v0.0.0-20250710152723-d2f1f4fb27af"
+    "updated_at": "2025-07-18",
+    "version": "v0.0.0-20250716183215-a37eb5359ab9"
   },
   {
     "description": "The Prometheus monitoring system and time series database",
@@ -326598,6 +326856,19 @@
     ],
     "updated_at": "2025-06-25",
     "version": "HEAD-7dd7f6c-250612T180712"
+  },
+  {
+    "description": "Suite of Tinkerbell Actions for use in Tinkerbell Workflows",
+    "name": "writefile",
+    "pkg_id": "writefile#github.com_tinkerbell_hub",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-18",
+    "version": "v0.0.0-20250716223720-50bd343710d7"
   },
   {
     "description": "Golang implementation of the modbus/tcp protocol",
