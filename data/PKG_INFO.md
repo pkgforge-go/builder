@@ -161,6 +161,7 @@
 - 🐹 **[gotraining](http://www.ArdanLabs.com)**: Go Training Class Material.
 - 🐹 **[go-module-support](https://github.com/swaggo/swag)**: Automatically generate RESTful API documentation with Swagger 2.
 - 🐹 **[docker](https://neko.m1k1o.net/)**: A self hosted virtual browser that runs in docker and uses WebRTC.
+- 🐹 **[v7](https://oauth2-proxy.github.io/oauth2-proxy)**: A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - 🐹 **[openapi-gen-angular](https://heroiclabs.com)**: Distributed server for social and realtime games and apps.
 - 🐹 **[protoc-gen-angular](https://heroiclabs.com)**: Distributed server for social and realtime games and apps.
 - 🐹 **[kubeasz](https://github.com/easzlab/kubeasz)**: 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响.
@@ -233,6 +234,8 @@
 - 🐹 **[fuse-proxy](https://docs.skypilot.co/)**: SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds).
 - 🐹 **[tools](https://www.talos.dev)**: Talos Linux is a modern Linux distribution built for Kubernetes.
 - 🐹 **[go](https://beam.apache.org/)**: Apache Beam is a unified programming model for Batch and Streaming data processing.
+- 🐹 **[app](https://ko.build)**: Build and deploy Go applications.
+- 🐹 **[bar](https://ko.build)**: Build and deploy Go applications.
 - 🐹 **[foo](https://ko.build)**: Build and deploy Go applications.
 - 🐹 **[res-downloader](https://github.com/putyy/res-downloader)**: 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载.
 - 🐹 **[javareach](https://google.github.io/osv-scanner/)**: Vulnerability scanner written in Go which uses the data provided by https://osv.
@@ -513,6 +516,7 @@
 - 🐹 **[devel](https://github.com/nvidia/k8s-device-plugin)**: NVIDIA device plugin for Kubernetes.
 - 🐹 **[go-build-template](https://github.com/thockin/go-build-template)**: A Makefile/Dockerfile example for Go projects.
 - 🐹 **[geany](https://www.geany.org)**: A fast and lightweight IDE.
+- 🐹 **[rescuesdriq](https://github.com/f4exb/sdrangel)**: SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay and FunCube.
 - 🐹 **[gocode](https://github.com/real-logic/simple-binary-encoding)**: Simple Binary Encoding (SBE) - High Performance Message Codec.
 - 🐹 **[examples](https://github.com/knadh/koanf/examples)**: Simple, extremely lightweight, extensible, configuration management library for Go.
 - 🐹 **[match](https://docs.datadoghq.com/)**: Main repository for Datadog Agent.
@@ -522,6 +526,7 @@
 - 🐹 **[graphjin](https://graphjin.com)**: GraphJin - Build NodeJS / GO APIs in 5 minutes not weeks.
 - 🐹 **[docs-chef-io](http://inspec.io)**: InSpec: Auditing and Testing Framework.
 - 🐹 **[gcpviz](https://github.com/googlecloudplatform/professional-services)**: Common solutions and tools developed by Google Cloud's Professional Services team.
+- 🐹 **[tools](https://github.com/uber-go/mock)**: GoMock is a mocking framework for the Go programming language.
 - 🐹 **[instance_mapper](https://github.com/googlecloudplatform/professional-services)**: Common solutions and tools developed by Google Cloud's Professional Services team.
 - 🐹 **[etcdv3](https://sentinelguard.io/)**: Sentinel Go enables reliability and resiliency for Go microservices.
 - 🐹 **[consul](https://sentinelguard.io/)**: Sentinel Go enables reliability and resiliency for Go microservices.
@@ -576,6 +581,7 @@
 - 🐹 **[jwx](https://github.com/lestrrat-go/jwx)**: Complete implementation of JWx (Javascript Object Signing and Encryption/JOSE) technologies for Go.
 - 🐹 **[cronexpr](https://github.com/aptible/supercronic)**: Cron for containers.
 - 🐹 **[examples](https://langwatch.ai)**: The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization.
+- 🐹 **[amazon-ecs-agent](http://aws.amazon.com/ecs/)**: Amazon Elastic Container Service Agent.
 - 🐹 **[sops-nix](https://github.com/mic92/sops-nix)**: Atomic secret provisioning for NixOS based on sops.
 - 🐹 **[livegrep](https://github.com/livegrep/livegrep)**: Interactively grep source code.
 - 🐹 **[livegrep](https://github.com/nelhage/livegrep)**: Interactively grep source code.
@@ -614,6 +620,7 @@
 - 🐹 **[perf](https://docs.microsoft.com/azure/developer/go/)**: This repository is for active development of the Azure SDK for Go.
 - 🐹 **[perf](https://docs.microsoft.com/azure/developer/go/)**: This repository is for active development of the Azure SDK for Go.
 - 🐹 **[perf](https://docs.microsoft.com/azure/developer/go/)**: This repository is for active development of the Azure SDK for Go.
+- 🐹 **[firehose-transformation-sam-go](https://serverlessland.com)**: Serverless patterns.
 - 🐹 **[CompileDaemon](https://github.com/githubnemo/CompileDaemon)**: Very simple compile daemon for Go.
 - 🐹 **[languages](https://benjdd.com/languages2)**: Compare languages.
 - 🐹 **[images](https://containers.dev)**: Repository for pre-built dev container images published under mcr.
@@ -662,6 +669,7 @@
 - 🐹 **[fansmedalhelper](https://doc.loveava.top/)**: 新版B站粉丝牌助手 全自动升级粉丝牌.
 - 🐹 **[kulala.nvim](https://neovim.getkulala.net)**: A fully-featured 🤏 HTTP-client 🐼 interface 🖥️ for Neovim.
 - 🐹 **[pghoard](http://aiven-open.github.io/pghoard/)**: PostgreSQL® backup and restore service.
+- 🐹 **[smoke](https://nydus.dev/)**: Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.
 - 🐹 **[nydus-overlayfs](https://nydus.dev/)**: Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.
 - 🐹 **[smoke](https://nydus.dev/)**: Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.
 - 🐹 **[nydus-overlayfs](https://nydus.dev/)**: Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.
@@ -797,6 +805,7 @@
 - 🐹 **[pgtest](https://kanister.io)**: An extensible framework for application-level data management on Kubernetes, Kanister is a Cloud Native Computing Foundation sandbox project and was originally created by the Veeam Kasten team.
 - 🐹 **[risor-api](https://risor.io)**: Fast and flexible scripting for Go developers and DevOps.
 - 🐹 **[risor-docs](https://risor.io)**: Fast and flexible scripting for Go developers and DevOps.
+- 🐹 **[struct](https://risor.io)**: Fast and flexible scripting for Go developers and DevOps.
 - 🐹 **[risor-lsp](https://risor.io)**: Fast and flexible scripting for Go developers and DevOps.
 - 🐹 **[risor-modgen](https://risor.io)**: Fast and flexible scripting for Go developers and DevOps.
 - 🐹 **[youtubeuploader](https://github.com/porjo/youtubeuploader)**: Scripted uploads to Youtube.
@@ -807,6 +816,8 @@
 - 🐹 **[map-pin-info](https://github.com/aquasecurity/libbpfgo)**: EBPF library for Go.
 - 🐹 **[map-update](https://github.com/aquasecurity/libbpfgo)**: EBPF library for Go.
 - 🐹 **[module-attach-detach](https://github.com/aquasecurity/libbpfgo)**: EBPF library for Go.
+- 🐹 **[nrelasticsearch-v7](https://github.com/newrelic/go-agent)**: New Relic Go Agent.
+- 🐹 **[nrredis-v9](https://github.com/newrelic/go-agent)**: New Relic Go Agent.
 - 🐹 **[perfbuffers](https://github.com/aquasecurity/libbpfgo)**: EBPF library for Go.
 - 🐹 **[tracing](https://github.com/aquasecurity/libbpfgo)**: EBPF library for Go.
 - 🐹 **[tracing-by-offset](https://github.com/aquasecurity/libbpfgo)**: EBPF library for Go.
