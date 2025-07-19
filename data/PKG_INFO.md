@@ -176,6 +176,7 @@
 - 🐹 **[redpanda](https://redpanda.com)**: Redpanda is a streaming data platform for developers.
 - 🐹 **[tfsdk2fw](https://registry.terraform.io/providers/hashicorp/aws)**: The AWS Provider enables Terraform to manage AWS resources.
 - 🐹 **[gqlgen](https://gqlgen.com)**: Go generate based graphql server library.
+- 🐹 **[kopia](https://kopia.io)**: Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication.
 - 🐹 **[tools](https://www.ferretdb.com)**: A truly Open Source MongoDB alternative.
 - 🐹 **[web](http://kompose.io)**: Convert Compose to Kubernetes.
 - 🐹 **[bedrock](https://github.com/awsdocs/aws-doc-sdk-examples)**: Welcome to the AWS Code Examples Repository.
