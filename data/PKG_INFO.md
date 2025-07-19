@@ -68,6 +68,7 @@
 - 🐹 **[samples](https://flatbuffers.dev/)**: FlatBuffers: Memory Efficient Serialization Library.
 - 🐹 **[server](https://flatbuffers.dev/)**: FlatBuffers: Memory Efficient Serialization Library.
 - 🐹 **[client](http://rancher.com)**: Complete container management platform.
+- 🐹 **[delve](https://github.com/go-delve/delve)**: Delve is a debugger for the Go programming language.
 - 🐹 **[v3](https://www.pulumi.com)**: Pulumi - Infrastructure as Code in any programming language.
 - 🐹 **[v3](https://www.pulumi.com)**: Pulumi - Infrastructure as Code in any programming language.
 - 🐹 **[v3](https://www.pulumi.com)**: Pulumi - Infrastructure as Code in any programming language.
@@ -117,6 +118,7 @@
 - 🐹 **[tools](https://lf-hyperledger.atlassian.net/wiki/spaces/fabric)**: Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications.
 - 🐹 **[adminer](https://sealos.io)**: Sealos is an AI native super application platform, Application-centric Intelligent Cloud Operating System.
 - 🐹 **[app](https://sealos.io)**: Sealos is an AI native super application platform, Application-centric Intelligent Cloud Operating System.
+- 🐹 **[database](https://sealos.io)**: Sealos is an AI native super application platform, Application-centric Intelligent Cloud Operating System.
 - 🐹 **[node](https://sealos.io)**: Sealos is an AI native super application platform, Application-centric Intelligent Cloud Operating System.
 - 🐹 **[resources](https://sealos.io)**: Sealos is an AI native super application platform, Application-centric Intelligent Cloud Operating System.
 - 🐹 **[terminal](https://sealos.io)**: Sealos is an AI native super application platform, Application-centric Intelligent Cloud Operating System.
@@ -175,6 +177,7 @@
 - 🐹 **[tfsdk2fw](https://registry.terraform.io/providers/hashicorp/aws)**: The AWS Provider enables Terraform to manage AWS resources.
 - 🐹 **[gqlgen](https://gqlgen.com)**: Go generate based graphql server library.
 - 🐹 **[tools](https://www.ferretdb.com)**: A truly Open Source MongoDB alternative.
+- 🐹 **[web](http://kompose.io)**: Convert Compose to Kubernetes.
 - 🐹 **[bedrock](https://github.com/awsdocs/aws-doc-sdk-examples)**: Welcome to the AWS Code Examples Repository.
 - 🐹 **[bedrock-runtime](https://github.com/awsdocs/aws-doc-sdk-examples)**: Welcome to the AWS Code Examples Repository.
 - 🐹 **[lambda](https://github.com/awsdocs/aws-doc-sdk-examples)**: Welcome to the AWS Code Examples Repository.
@@ -184,6 +187,7 @@
 - 🐹 **[website](https://gocloud.dev/)**: The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - 🐹 **[falcon](https://falcon.readthedocs.io)**: The no-magic web API and microservices framework for Python developers, with an emphasis on reliability and performance at scale.
 - 🐹 **[falcon](https://falcon.readthedocs.io)**: The no-magic web API and microservices framework for Python developers, with an emphasis on reliability and performance at scale.
+- 🐹 **[yba-cli](https://www.yugabyte.com)**: YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
 - 🐹 **[scripts](https://prometheus-operator.dev)**: Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes.
 - 🐹 **[scripts](https://prometheus-operator.dev)**: Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes.
 - 🐹 **[blog](https://templ.guide/)**: A language for writing HTML user interfaces in Go.
@@ -333,6 +337,7 @@
 - 🐹 **[vad-asr-whisper](https://k2-fsa.github.io/sherpa/onnx/index.html)**: Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection.
 - 🐹 **[log-parser](https://github.com/kata-containers/kata-containers)**: Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.
 - 🐹 **[controller-gen](https://kyverno.io)**: Cloud Native Policy Management.
+- 🐹 **[basic-chat-with-rendezvous](https://github.com/libp2p/go-libp2p)**: Libp2p implementation in Go.
 - 🐹 **[chat](https://github.com/libp2p/go-libp2p)**: Libp2p implementation in Go.
 - 🐹 **[ipfs-camp-2019](https://github.com/libp2p/go-libp2p)**: Libp2p implementation in Go.
 - 🐹 **[cxx](https://cxx.rs)**: Safe interop between Rust and C.
@@ -399,6 +404,7 @@
 - 🐹 **[cli_e2e](https://digger.dev)**: Digger is an open source IaC orchestration tool.
 - 🐹 **[projects-refresh-service](https://digger.dev)**: Digger is an open source IaC orchestration tool.
 - 🐹 **[dgctl](https://digger.dev)**: Digger is an open source IaC orchestration tool.
+- 🐹 **[endpoints](https://github.com/googlecloudplatform/golang-samples)**: Sample apps and code written for Google Cloud in the Go programming language.
 - 🐹 **[profiler](https://github.com/googlecloudplatform/golang-samples)**: Sample apps and code written for Google Cloud in the Go programming language.
 - 🐹 **[app](https://github.com/googlecloudplatform/golang-samples)**: Sample apps and code written for Google Cloud in the Go programming language.
 - 🐹 **[appengine](https://github.com/googlecloudplatform/golang-samples)**: Sample apps and code written for Google Cloud in the Go programming language.
@@ -566,6 +572,7 @@
 - 🐹 **[xbar-plugins](https://xbarapp.com)**: Plugin repository for xbar (the BitBar reboot.
 - 🐹 **[aws-go-lambda-gateway](https://www.pulumi.com)**: Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes.
 - 🐹 **[circuitbreaker_rule_transform](https://polarismesh.cn)**: Service Discovery and Governance Platform for Microservice and Distributed Architecture.
+- 🐹 **[datastar](https://data-star.dev)**: The hypermedia framework.
 - 🐹 **[glb-director-xdp](https://github.com/github/glb-director)**: GitHub Load Balancer Director and supporting tooling.
 - 🐹 **[govc](https://github.com/vmware/govmomi)**: Go library for the VMware vSphere API.
 - 🐹 **[vcsim](https://github.com/vmware/govmomi)**: Go library for the VMware vSphere API.
@@ -802,6 +809,7 @@
 - 🐹 **[gow](https://github.com/mitranim/gow)**: Missing watch mode for Go commands.
 - 🐹 **[proxy](https://github.com/istio/proxy)**: The Istio proxy components.
 - 🐹 **[aws-costexplorer-export](https://git.k8s.io/community/sig-k8s-infra)**: Code and configuration to manage Kubernetes project infrastructure, including various *.
+- 🐹 **[kanister](https://kanister.io)**: An extensible framework for application-level data management on Kubernetes, Kanister is a Cloud Native Computing Foundation sandbox project and was originally created by the Veeam Kasten team.
 - 🐹 **[pgtest](https://kanister.io)**: An extensible framework for application-level data management on Kubernetes, Kanister is a Cloud Native Computing Foundation sandbox project and was originally created by the Veeam Kasten team.
 - 🐹 **[risor-api](https://risor.io)**: Fast and flexible scripting for Go developers and DevOps.
 - 🐹 **[risor-docs](https://risor.io)**: Fast and flexible scripting for Go developers and DevOps.
