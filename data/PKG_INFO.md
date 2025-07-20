@@ -68,6 +68,7 @@
 - 🐹 **[samples](https://flatbuffers.dev/)**: FlatBuffers: Memory Efficient Serialization Library.
 - 🐹 **[server](https://flatbuffers.dev/)**: FlatBuffers: Memory Efficient Serialization Library.
 - 🐹 **[client](http://rancher.com)**: Complete container management platform.
+- 🐹 **[go](https://openapi-generator.tech)**: OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3.
 - 🐹 **[delve](https://github.com/go-delve/delve)**: Delve is a debugger for the Go programming language.
 - 🐹 **[v3](https://www.pulumi.com)**: Pulumi - Infrastructure as Code in any programming language.
 - 🐹 **[v3](https://www.pulumi.com)**: Pulumi - Infrastructure as Code in any programming language.
@@ -185,6 +186,7 @@
 - 🐹 **[rds](https://github.com/awsdocs/aws-doc-sdk-examples)**: Welcome to the AWS Code Examples Repository.
 - 🐹 **[redshift](https://github.com/awsdocs/aws-doc-sdk-examples)**: Welcome to the AWS Code Examples Repository.
 - 🐹 **[examples](https://dexidp.io)**: OpenID Connect (OIDC) identity and OAuth 2.
+- 🐹 **[super-linter](https://github.com/super-linter/super-linter)**: Combination of multiple linters to run as a GitHub Action or standalone.
 - 🐹 **[website](https://gocloud.dev/)**: The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - 🐹 **[falcon](https://falcon.readthedocs.io)**: The no-magic web API and microservices framework for Python developers, with an emphasis on reliability and performance at scale.
 - 🐹 **[falcon](https://falcon.readthedocs.io)**: The no-magic web API and microservices framework for Python developers, with an emphasis on reliability and performance at scale.
@@ -549,6 +551,7 @@
 - 🐹 **[examples](https://github.com/charmbracelet/glamour/examples)**: Stylesheet-based markdown rendering for your CLI apps.
 - 🐹 **[helloserver](https://github.com/golang/example)**: Go example projects.
 - 🐹 **[outyet](https://github.com/golang/example)**: Go example projects.
+- 🐹 **[http-server](https://www.coraza.io)**: OWASP Coraza WAF is a golang modsecurity compatible web application firewall library.
 - 🐹 **[tools](https://buildpacks.io)**: CLI for building apps using Cloud Native Buildpacks.
 - 🐹 **[tools](https://buildpacks.io)**: CLI for building apps using Cloud Native Buildpacks.
 - 🐹 **[manifest-gen](https://github.com/elastic/cloud-on-k8s)**: Elastic Cloud on Kubernetes.
@@ -623,6 +626,7 @@
 - 🐹 **[ycat](https://goccy.github.io/go-yaml)**: YAML support for the Go language.
 - 🐹 **[deployments](https://kubearmor.io/)**: Runtime Security Enforcement System.
 - 🐹 **[server](https://nitric.io)**: Nitric is a multi-language framework for cloud applications with infrastructure from code.
+- 🐹 **[perf](https://docs.microsoft.com/azure/developer/go/)**: This repository is for active development of the Azure SDK for Go.
 - 🐹 **[managed-id-test](https://docs.microsoft.com/azure/developer/go/)**: This repository is for active development of the Azure SDK for Go.
 - 🐹 **[perf](https://docs.microsoft.com/azure/developer/go/)**: This repository is for active development of the Azure SDK for Go.
 - 🐹 **[perf](https://docs.microsoft.com/azure/developer/go/)**: This repository is for active development of the Azure SDK for Go.
@@ -630,6 +634,7 @@
 - 🐹 **[perf](https://docs.microsoft.com/azure/developer/go/)**: This repository is for active development of the Azure SDK for Go.
 - 🐹 **[firehose-transformation-sam-go](https://serverlessland.com)**: Serverless patterns.
 - 🐹 **[CompileDaemon](https://github.com/githubnemo/CompileDaemon)**: Very simple compile daemon for Go.
+- 🐹 **[pinyin](https://godoc.org/github.com/mozillazg/go-pinyin)**: 汉字转拼音.
 - 🐹 **[languages](https://benjdd.com/languages2)**: Compare languages.
 - 🐹 **[images](https://containers.dev)**: Repository for pre-built dev container images published under mcr.
 - 🐹 **[legba](https://github.com/evilsocket/legba)**: A multiprotocol credentials bruteforcer / password sprayer and enumerator.
@@ -761,6 +766,7 @@
 - 🐹 **[aws-lambda-router](https://cosmo-docs.wundergraph.com/)**: The open-source solution to building, maintaining, and collaborating on GraphQL Federation at Scale.
 - 🐹 **[cosmo](https://cosmo-docs.wundergraph.com/)**: The open-source solution to building, maintaining, and collaborating on GraphQL Federation at Scale.
 - 🐹 **[projects](https://cosmo-docs.wundergraph.com/)**: The open-source solution to building, maintaining, and collaborating on GraphQL Federation at Scale.
+- 🐹 **[jfa-go](https://jfa-go.com)**: A bit-of-everything user managament app for Jellyfin.
 - 🐹 **[router-tests](https://cosmo-docs.wundergraph.com/)**: The open-source solution to building, maintaining, and collaborating on GraphQL Federation at Scale.
 - 🐹 **[gnofaucet](https://gno.land/)**: Gno: An interpreted, stack-based Go virtual machine to build succinct and composable apps + gno.
 - 🐹 **[gnohealth](https://gno.land/)**: Gno: An interpreted, stack-based Go virtual machine to build succinct and composable apps + gno.
