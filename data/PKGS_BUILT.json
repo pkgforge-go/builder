@@ -40460,6 +40460,19 @@
     "version": "HEAD-167865a-250413T130052"
   },
   {
+    "description": "A widget to sync your GitHub/BitBucket repos to your local machine",
+    "name": "bitsync",
+    "pkg_id": "bitsync#github.com_trickyearlobe_bitsync",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-20",
+    "version": "v1.0.9"
+  },
+  {
     "description": "BitTorrent Tracker Client and Peers Statistics",
     "name": "bittorentstats-cli",
     "pkg_id": "bittorentstats-cli#github.com_r3m8_bittorentstats_cli",
@@ -55014,6 +55027,7 @@
     "targets": [
       "aarch64-Linux",
       "loongarch64-Linux",
+      "riscv64-Linux",
       "x86_64-Linux"
     ],
     "updated_at": "2025-07-20",
@@ -81249,6 +81263,19 @@
     ],
     "updated_at": "2025-06-26",
     "version": "HEAD-09943f0-250626T181323"
+  },
+  {
+    "description": "GPT2 Byte Pair Encoding implementation in Golang",
+    "name": "dataset_tokenizer",
+    "pkg_id": "dataset_tokenizer#github.com_wbrown_gpt_bpe_cmd_dataset_tokenizer",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-20",
+    "version": "v0.0.0-20250709161131-1571a6e8ad2d"
   },
   {
     "description": "dataset is a command line tool, Go package, shared library and Python package for working with JSON objects as collections",
@@ -146555,6 +146582,19 @@
     "version": "HEAD-51d7873-250617T213506"
   },
   {
+    "description": "A little program to use Home Assistant with gokrazy",
+    "name": "gokrazy-homeassistant",
+    "pkg_id": "gokrazy-homeassistant#github.com_williamhorning_gokrazy_homeassistant",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-20",
+    "version": "v0.0.8"
+  },
+  {
     "description": "A horizontal autoscaler for Kubernetes workloads",
     "name": "gokubedownscaler",
     "pkg_id": "gokubedownscaler#github.com_caas_team_GoKubeDownscaler",
@@ -151398,6 +151438,19 @@
     ],
     "updated_at": "2025-06-22",
     "version": "HEAD-1d8243f-241217T113959"
+  },
+  {
+    "description": "Gowebhello is a simple golang replacement for 'python -m SimpleHTTPServer",
+    "name": "gowebhello",
+    "pkg_id": "gowebhello#github.com_udhos_gowebhello",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-20",
+    "version": "v0.8.1"
   },
   {
     "description": "🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js, and the most popular CSS frameworks on the frontend.",
@@ -165068,6 +165121,7 @@
     "pkg_id": "ifacegen#github.com_seyyedaghaei_ifacegen",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -176210,6 +176264,19 @@
     ],
     "updated_at": "2025-06-23",
     "version": "HEAD-755046f-250623T050803"
+  },
+  {
+    "description": "Re-publishes metrics from Kubernetes API server",
+    "name": "k8s-metrics-publisher",
+    "pkg_id": "k8s-metrics-publisher#github.com_vladlosev_k8s_metrics_publisher",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-20",
+    "version": "v0.1.9"
   },
   {
     "description": "Kubernetes MongoDB sidecar that watches replica instances and sets label on primary node.",
@@ -213681,6 +213748,19 @@
     "version": "HEAD-4704414-250627T155605"
   },
   {
+    "description": "Relabels Kubernetes nodes as they join the cluster",
+    "name": "node-relabeler",
+    "pkg_id": "node-relabeler#github.com_vladlosev_node_relabeler",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-20",
+    "version": "v1.0.9"
+  },
+  {
     "description": "Mavlink library _2.0 and 1.0_ for the Go programming language",
     "name": "node-router",
     "pkg_id": "node-router#github.com_bluenviron_gomavlib",
@@ -247598,6 +247678,7 @@
     "targets": [
       "aarch64-Linux",
       "loongarch64-Linux",
+      "riscv64-Linux",
       "x86_64-Linux"
     ],
     "updated_at": "2025-07-20",
@@ -275083,6 +275164,19 @@
     "version": "HEAD-4d342d7-250620T160834"
   },
   {
+    "description": "A simple Cloud Run function that listens to Slack events and forwards them to Cloud Pub/Sub",
+    "name": "slack-event-mediator",
+    "pkg_id": "slack-event-mediator#github.com_yuku_slack_event_mediator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-20",
+    "version": "v0.0.0-20250512064652-96a70179edf0"
+  },
+  {
     "description": "A Slack bot and MCP client acts as a bridge between Slack and Model Context Protocol _MCP_ servers. Using Slack as the interface, it enables large language models _LLMs_ to connect and interact with various MCP servers through standardized MCP tools.",
     "name": "slack-mcp-client",
     "pkg_id": "slack-mcp-client#github.com_tuannvm_slack_mcp_client",
@@ -291417,6 +291511,19 @@
     "version": "v0.4.1"
   },
   {
+    "description": "Tr1s7an's binary manager for linux",
+    "name": "tbm4linux",
+    "pkg_id": "tbm4linux#github.com_tr1s7an_tbm4linux",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-20",
+    "version": "v0.0.0-20250713025549-f79e0631ca3a"
+  },
+  {
     "description": "Prometheus exporter for the TC4400 cable modem",
     "name": "tc4400_exporter",
     "pkg_id": "tc4400_exporter#github.com_mikeodr_tc4400_exporter",
@@ -299514,6 +299621,19 @@
     "version": "HEAD-ecc9203-250625T194425"
   },
   {
+    "description": "Mini test projects for Goftego",
+    "name": "testsforgoftego",
+    "pkg_id": "testsforgoftego#github.com_zahra_pzk_testsforgoftego",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-20",
+    "version": "v0.0.0-20250615104849-15ebe3cf3516"
+  },
+  {
     "description": "Go compiler frontend (gccgo",
     "name": "testsigfwd",
     "pkg_id": "testsigfwd#github.com_golang_gofrontend",
@@ -303738,6 +303858,19 @@
     ],
     "updated_at": "2025-06-24",
     "version": "HEAD-f4074fc-250623T164328"
+  },
+  {
+    "description": "Talos Node Updater is a small Go program that updates a Talos (https://www.talos.dev/) node. kubernetes, system-upgrade-controller, talos-linux",
+    "name": "tnu",
+    "pkg_id": "tnu#github.com_vihaanveer10_tnu",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-20",
+    "version": "v0.0.0-20250718180137-d9b5ddf324fb"
   },
   {
     "description": "📜 Touch Lightweight Markup Language_ Familiar, Extendable, Auto-Formattable",
