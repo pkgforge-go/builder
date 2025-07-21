@@ -2,19 +2,19 @@
   "_disabled": "false",
   "host": "x86_64-Linux",
   "rank": "",
-  "pkg": "har-server-replay",
-  "pkg_family": "har-server-replay",
-  "pkg_id": "har-server-replay#github.com_draysams_har_server_replay",
-  "pkg_name": "har-server-replay",
+  "pkg": "har_server_replay",
+  "pkg_family": "har_server_replay",
+  "pkg_id": "har_server_replay#github.com_draysams_har_server_replay",
+  "pkg_name": "har_server_replay",
   "pkg_type": "static",
-  "pkg_webpage": "https://github.com/draysams/har-server-replay",
+  "pkg_webpage": "https://github.com/draysams/har_server_replay",
   "bundle": "false",
   "category": [
     "Utility"
   ],
   "description": "A CLI tool to replay HTTP responses from a HAR (HTTP Archive) file",
   "homepage": [
-    "https://github.com/draysams/har-server-replay"
+    "https://github.com/draysams/har_server_replay"
   ],
   "license": [
     "Blessing"
@@ -23,7 +23,7 @@
     "pkgforge-go (https://github.com/pkgforge-go/builder)"
   ],
   "provides": [
-    "har-server-replay"
+    "har_server_replay"
   ],
   "note": [
     "[EXTERNAL] (This is an Official but externally maintained repository)",
@@ -32,33 +32,35 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://proxy.golang.org/github.com/draysams/har-server-replay/@v/v1.0.3.zip"
+    "https://proxy.golang.org/github.com/draysams/har_server_replay/@v/v1.0.1.zip"
   ],
   "tag": [
     "Utility"
   ],
-  "version": "v1.0.3",
+  "version": "v1.0.1",
   "version_upstream": "",
-  "bsum": "0d981cdf6ea7719cb3a0e0353c8cf2ed1a1220ad9ac666e3f793ceb571346270",
-  "build_date": "2025-07-21T04:29:00Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16408326185",
-  "build_id": "16408326185",
-  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/draysams/har-server-replay/har-server-replay?tag=v1.0.3-x86_64-Linux&download=har-server-replay.log",
+  "bsum": "c989c56f342f024b900f848ca639d81f2b3c31fafb8f3f6d330a159151a27619",
+  "build_date": "2025-07-21T06:53:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16410359151",
+  "build_id": "16410359151",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/draysams/har/server/replay/har_server_replay?tag=v1.0.1-x86_64-Linux&download=har_server_replay.log",
   "deprecated": "false",
   "desktop_integration": "false",
   "download_count": "-1",
-  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/draysams/har-server-replay/har-server-replay?tag=v1.0.3-x86_64-Linux&download=har-server-replay",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/draysams/har/server/replay/har_server_replay?tag=v1.0.1-x86_64-Linux&download=har_server_replay",
   "external": "true",
-  "ghcr_pkg": "ghcr.io/pkgforge-go/github/draysams/har-server-replay/har-server-replay:v1.0.3-x86_64-Linux",
-  "ghcr_url": "https://ghcr.io/pkgforge-go/github/draysams/har-server-replay/har-server-replay",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/draysams/har/server/replay/har_server_replay:v1.0.1-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/draysams/har/server/replay/har_server_replay",
   "installable": "true",
-  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/draysams/har-server-replay/har-server-replay?tag=v1.0.3-x86_64-Linux&manifest",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/draysams/har/server/replay/har_server_replay?tag=v1.0.1-x86_64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "f76fa5f99ae834b0d7c669a16dc52e636bbb17debf4a5cc74c65f42b616f1547",
+  "shasum": "7866ad26bf5df645c8393cd3c459a750e18a5a06ecbff9fff7da8238ae2aa735",
   "size": "6.2 MB",
-  "size_raw": "6473824",
+  "size_raw": "6473312",
   "soar_syms": "false",
-  "snapshots": [],
+  "snapshots": [
+    "v1.0.1-x86_64-Linux"
+  ],
   "trusted": "true"
 }
