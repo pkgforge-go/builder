@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "perf_benchmark",
+  "pkg_family": "kopia",
+  "pkg_id": "perf_benchmark#github.com_kopia_kopia",
+  "pkg_name": "perf_benchmark",
+  "pkg_type": "static",
+  "pkg_webpage": "https://kopia.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included",
+  "homepage": [
+    "https://kopia.io"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bigmapbench",
+    "gettool",
+    "perf_benchmark",
+    "testingaction"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/kopia/kopia/@v/v0.0.0-20250718044757-3a38279bcd7a.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250718044757-3a38279bcd7a",
+  "version_upstream": "",
+  "bsum": "2a6804806bd498fdaa0a7b03366324faa5950ebe6c3bfdabe974f226ff19ecda",
+  "build_date": "2025-07-22T07:28:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16436894871",
+  "build_id": "16436894871",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kopia/kopia/perf_benchmark?tag=v0.0.0-20250718044757-3a38279bcd7a-loongarch64-Linux&download=perf_benchmark.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10257",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kopia/kopia/perf_benchmark?tag=v0.0.0-20250718044757-3a38279bcd7a-loongarch64-Linux&download=perf_benchmark",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kopia/kopia/perf_benchmark:v0.0.0-20250718044757-3a38279bcd7a-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kopia/kopia/perf_benchmark",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kopia/kopia/perf_benchmark?tag=v0.0.0-20250718044757-3a38279bcd7a-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8e657de1f0a6bda50795fdd3c673d97a005bf0f23c4a4bee9e0fbb9f5df53cbb",
+  "size": "2.1 MB",
+  "size_raw": "2169976",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-126395f-250619T212502-loongarch64-Linux",
+    "HEAD-1ead4a4-250624T012609-loongarch64-Linux",
+    "HEAD-dd78dc6-250624T155355-loongarch64-Linux",
+    "HEAD-a8fc80f-250626T144230-loongarch64-Linux",
+    "v0.21.0-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
