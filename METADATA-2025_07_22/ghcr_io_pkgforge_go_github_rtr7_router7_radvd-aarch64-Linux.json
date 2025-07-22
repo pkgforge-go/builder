@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "radvd",
+  "pkg_family": "router7",
+  "pkg_id": "radvd#github.com_rtr7_router7",
+  "pkg_name": "radvd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://router7.org",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Router7 is a small home internet router completely written in Go. It is implemented as a gokrazy appliance",
+  "homepage": [
+    "https://router7.org"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "backupd",
+    "captured",
+    "dhcp4",
+    "dhcp4d",
+    "dhcp6",
+    "diagd",
+    "dnsd",
+    "dyndns",
+    "netconfigd",
+    "radvd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/rtr7/router7/@v/v0.0.0-20250720205713-35fcfc15c8ed.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250720205713-35fcfc15c8ed",
+  "version_upstream": "",
+  "bsum": "23dd78b1147a95a292e827844a3e0b28455edd117612bc0dc85ef8a7cc5f21fc",
+  "build_date": "2025-07-22T07:54:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16436977706",
+  "build_id": "16436977706",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rtr7/router7/radvd?tag=v0.0.0-20250720205713-35fcfc15c8ed-aarch64-Linux&download=radvd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2712",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rtr7/router7/radvd?tag=v0.0.0-20250720205713-35fcfc15c8ed-aarch64-Linux&download=radvd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rtr7/router7/radvd:v0.0.0-20250720205713-35fcfc15c8ed-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rtr7/router7/radvd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rtr7/router7/radvd?tag=v0.0.0-20250720205713-35fcfc15c8ed-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "489e0c849058eeaa0b05fbde60cde5c335f17ae3349f0d2a46ee2b069808b64b",
+  "size": "2.6 MB",
+  "size_raw": "2722776",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-52826d6-250417T162712-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
