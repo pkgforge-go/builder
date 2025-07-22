@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "kafkatarget",
+  "pkg_family": "events-bridge",
+  "pkg_id": "kafkatarget#github.com_sandrolain_events_bridge",
+  "pkg_name": "kafkatarget",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sandrolain/events-bridge",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Events Bridge",
+  "homepage": [
+    "https://github.com/sandrolain/events-bridge"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "coapsource",
+    "coaptarget",
+    "concurrently",
+    "events-bridge-src",
+    "gitsource",
+    "httpsource",
+    "httptarget",
+    "kafkasource",
+    "kafkatarget",
+    "mqttsource",
+    "mqtttarget",
+    "natssource",
+    "natstarget",
+    "pgsqlsource",
+    "plugin",
+    "pubsubsource",
+    "pubsubtarget",
+    "redissource",
+    "redistarget",
+    "wasmrunner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sandrolain/events-bridge/@v/v0.0.0-20250711182151-bdd757a1aa09.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250711182151-bdd757a1aa09",
+  "version_upstream": "",
+  "bsum": "4eceaf5b522419d8e20d9b4fd44cda0d5bdf36e63e130b563875ac0329e309e6",
+  "build_date": "2025-07-22T05:05:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16434474019",
+  "build_id": "16434474019",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sandrolain/events-bridge/kafkatarget?tag=v0.0.0-20250711182151-bdd757a1aa09-loongarch64-Linux&download=kafkatarget.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sandrolain/events-bridge/kafkatarget?tag=v0.0.0-20250711182151-bdd757a1aa09-loongarch64-Linux&download=kafkatarget",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sandrolain/events-bridge/kafkatarget:v0.0.0-20250711182151-bdd757a1aa09-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sandrolain/events-bridge/kafkatarget",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sandrolain/events-bridge/kafkatarget?tag=v0.0.0-20250711182151-bdd757a1aa09-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6386f6f29faacb58775f86580e4eb0ec70f0508a5cecbb4ebc7a6160c4e7b2be",
+  "size": "6.3 MB",
+  "size_raw": "6563040",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
