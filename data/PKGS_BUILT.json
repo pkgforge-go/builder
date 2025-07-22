@@ -6761,6 +6761,7 @@
     "targets": [
       "aarch64-Linux",
       "loongarch64-Linux",
+      "riscv64-Linux",
       "x86_64-Linux"
     ],
     "updated_at": "2025-07-22",
@@ -9056,6 +9057,7 @@
     "targets": [
       "aarch64-Linux",
       "loongarch64-Linux",
+      "riscv64-Linux",
       "x86_64-Linux"
     ],
     "updated_at": "2025-07-22",
@@ -11536,6 +11538,7 @@
     "targets": [
       "aarch64-Linux",
       "loongarch64-Linux",
+      "riscv64-Linux",
       "x86_64-Linux"
     ],
     "updated_at": "2025-07-22",
@@ -12418,6 +12421,7 @@
     "targets": [
       "aarch64-Linux",
       "loongarch64-Linux",
+      "riscv64-Linux",
       "x86_64-Linux"
     ],
     "updated_at": "2025-07-22",
@@ -13921,6 +13925,19 @@
     "version": "v0.0.0-20250316013913-e62dfe12f200"
   },
   {
+    "description": "Building event-driven applications the easy way in Go",
+    "name": "3-router",
+    "pkg_id": "3-router#github.com_threedotslabs_watermill_examples_basic_3_router",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250703131952-203cb9c9f67c"
+  },
+  {
     "description": "Repositório para acompanhar os cursos referentes à plataforma da FullCycle",
     "name": "3-structs",
     "pkg_id": "3-structs#github.com_breinoso2006_fullcycle",
@@ -14238,6 +14255,7 @@
     "targets": [
       "aarch64-Linux",
       "loongarch64-Linux",
+      "riscv64-Linux",
       "x86_64-Linux"
     ],
     "updated_at": "2025-07-22",
@@ -17239,6 +17257,7 @@
     "targets": [
       "aarch64-Linux",
       "loongarch64-Linux",
+      "riscv64-Linux",
       "x86_64-Linux"
     ],
     "updated_at": "2025-07-22",
@@ -17297,6 +17316,7 @@
     "targets": [
       "aarch64-Linux",
       "loongarch64-Linux",
+      "riscv64-Linux",
       "x86_64-Linux"
     ],
     "updated_at": "2025-07-22",
@@ -28252,6 +28272,19 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.0.0-20250623000633-228fdf26afc9"
+  },
+  {
+    "description": "Hybrid application service creates and manages applications and controls the lifecycle of applications",
+    "name": "application-service",
+    "pkg_id": "application-service#github.com_redhat_appstudio_application_service",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250721075002-394a88594f24"
   },
   {
     "description": "Zscaler SDK for Golang _ZPA/ZIA/ZDX/ZCC APIs_",
@@ -48380,6 +48413,19 @@
     "version": "HEAD-0b34935-250219T113457"
   },
   {
+    "description": "CLI tool for creating image captions using Ollama vision models",
+    "name": "capollama",
+    "pkg_id": "capollama#github.com_oderwat_capollama",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.3.1"
+  },
+  {
     "description": "Простой телеграм бот читающий новости из rss ленты и постящий в telegram",
     "name": "capp_telegram_news_bot_golang",
     "pkg_id": "capp_telegram_news_bot_golang#github.com_hightemp_capp_telegram_news_bot_golang",
@@ -52964,6 +53010,19 @@
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-d7312d1-221118T222111"
+  },
+  {
+    "description": "Gostuff",
+    "name": "ch1",
+    "pkg_id": "ch1#github.com_ryanharper_gostuff",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250611081446-40975f0ee679"
   },
   {
     "description": "Exercises from \"The Go Programming Language\" by Donovan and Kernighan",
@@ -61941,6 +62000,19 @@
     "version": "HEAD-64d2bdf-250613T170421"
   },
   {
+    "description": "Gostuff",
+    "name": "client",
+    "pkg_id": "client#github.com_ryanharper_gostuff",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250611081446-40975f0ee679"
+  },
+  {
     "description": "Example projects and patterns for use with Scaleway's serverless products",
     "name": "client",
     "pkg_id": "client#github.com_scaleway_serverless_examples_containers_grpc_http2_go",
@@ -67184,6 +67256,32 @@
     "version": "HEAD-35230a9-240809T222515"
   },
   {
+    "description": "Events Bridge",
+    "name": "coapsource",
+    "pkg_id": "coapsource#github.com_sandrolain_events_bridge",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250711182151-bdd757a1aa09"
+  },
+  {
+    "description": "Events Bridge",
+    "name": "coaptarget",
+    "pkg_id": "coaptarget#github.com_sandrolain_events_bridge",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250711182151-bdd757a1aa09"
+  },
+  {
     "description": "Unofficial cobalt command line client made in go.",
     "name": "cobalt-cli",
     "pkg_id": "cobalt-cli#github.com_lostdusty_cobalt_cli",
@@ -70851,6 +70949,19 @@
     "version": "HEAD-4637b27-250328T101508"
   },
   {
+    "description": "Events Bridge",
+    "name": "concurrently",
+    "pkg_id": "concurrently#github.com_sandrolain_events_bridge",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250711182151-bdd757a1aa09"
+  },
+  {
     "description": "The progress of learning Go",
     "name": "cond",
     "pkg_id": "cond#github.com_azusachino_little_go",
@@ -71376,6 +71487,19 @@
     ],
     "updated_at": "2025-06-25",
     "version": "HEAD-46241a3-250625T105906"
+  },
+  {
+    "description": "Configuration policy controller",
+    "name": "config-policy-controller",
+    "pkg_id": "config-policy-controller#github.com_open_cluster_management_config_policy_controller",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250721175813-247a54525d19"
   },
   {
     "description": "No Description Provided",
@@ -80592,7 +80716,10 @@
     "name": "cvet",
     "pkg_id": "cvet#github.com_martinlehoux_kagamigo",
     "targets": [
-      "riscv64-Linux"
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-07-22",
     "version": "v0.6.2"
@@ -91528,6 +91655,18 @@
     "version": "v0.0.0-20250216023311-ccaf767c2e43"
   },
   {
+    "description": "Cert-manager ACME web-hook implementation for solving DNS01 Challenges",
+    "name": "designate-certmanager-webhook",
+    "pkg_id": "designate-certmanager-webhook#github.com_syseleven_designate_certmanager_webhook",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250721144952-196ef7b360a8"
+  },
+  {
     "description": "A modern download manager that supports all platforms.  Built with Golang and Flutter.",
     "name": "desktop",
     "pkg_id": "desktop#github.com_GopeedLab_gopeed",
@@ -93682,6 +93821,32 @@
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-c466fcc-220306T225052"
+  },
+  {
+    "description": "エフェクトシステムもどき for Go",
+    "name": "dirty",
+    "pkg_id": "dirty#github.com_naoyafurudono_dirty",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.2"
+  },
+  {
+    "description": "エフェクトシステムもどき for Go",
+    "name": "dirty-verbose",
+    "pkg_id": "dirty-verbose#github.com_naoyafurudono_dirty",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.2"
   },
   {
     "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
@@ -96698,6 +96863,19 @@
     ],
     "updated_at": "2025-06-24",
     "version": "HEAD-5abaca1-250617T051727"
+  },
+  {
+    "description": "Volume plugin to use GlusterFS as distributed data storage",
+    "name": "docker-volume-glusterfs",
+    "pkg_id": "docker-volume-glusterfs#github.com_tcoupin_docker_volume_glusterfs",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.1.2"
   },
   {
     "description": "A simple ip echo service that runs behind Cloudflare proxy",
@@ -99820,6 +99998,19 @@
     ],
     "updated_at": "2025-06-22",
     "version": "HEAD-f7819ea-250513T161419"
+  },
+  {
+    "description": "Configuration policy controller",
+    "name": "dryrun",
+    "pkg_id": "dryrun#github.com_open_cluster_management_config_policy_controller",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250721175813-247a54525d19"
   },
   {
     "description": "No Description Provided",
@@ -108134,6 +108325,18 @@
     "version": "20250625T151624"
   },
   {
+    "description": "Events Bridge",
+    "name": "events-bridge-src",
+    "pkg_id": "events-bridge-src#github.com_sandrolain_events_bridge",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250711182151-bdd757a1aa09"
+  },
+  {
     "description": "A go library for reporting multidimensional events over UDP",
     "name": "events-to-csv",
     "pkg_id": "events-to-csv#github.com_storj_eventkit",
@@ -110918,6 +111121,19 @@
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-9dacc01-250418T131443"
+  },
+  {
+    "description": "Gostuff",
+    "name": "examples",
+    "pkg_id": "examples#github.com_ryanharper_gostuff",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250611081446-40975f0ee679"
   },
   {
     "description": "No Description Provided",
@@ -118236,6 +118452,19 @@
     "version": "HEAD-dfb32f2-250601T132159"
   },
   {
+    "description": "Set of exercises for day to day backend system design skill training (not an interview preparation",
+    "name": "fixtures",
+    "pkg_id": "fixtures#github.com_rusinikita_system_design_trainer",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.1.1"
+  },
+  {
     "description": "A collection of programs/notes from several books and courses",
     "name": "fizz",
     "pkg_id": "fizz#github.com_jonathantorres_bookshelf_gointro",
@@ -122461,6 +122690,19 @@
     "version": "HEAD-31a5f99-250620T230925"
   },
   {
+    "description": "エフェクトシステムもどき for Go",
+    "name": "fullvet",
+    "pkg_id": "fullvet#github.com_naoyafurudono_dirty",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.2"
+  },
+  {
     "description": "Fulmine is a Bitcoin wallet daemon that integrates Ark protocol_s batched transaction model with Lightning Network infrastructure, enabling routing nodes, service providers and payment hubs to optimize channel liquidity while minimizing on-chain fees, without compromising on self-custody.",
     "name": "fulmine",
     "pkg_id": "fulmine#github.com_ArkLabsHQ_fulmine",
@@ -125879,6 +126121,19 @@
     "version": "v0.0.0-20250702222511-bdd3224a2666"
   },
   {
+    "description": "AWS credential helper for GCP",
+    "name": "gcp2aws",
+    "pkg_id": "gcp2aws#github.com_porkbeans_gcp2aws",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.2.15"
+  },
+  {
     "description": "A space to learn, fail, experiment, play and have fun! All things tech",
     "name": "gcp_cloud_function",
     "pkg_id": "gcp_cloud_function#github.com_deepns_codegym_go_gcp_cloud_function",
@@ -126044,6 +126299,19 @@
     ],
     "updated_at": "2025-07-04",
     "version": "v0.0.0-20250701042046-47f01e2e8cbf"
+  },
+  {
+    "description": "Gcx is a lightweight CLI tool for cross-compiling Go binaries, publishing them, and deploying with custom commands. It uses a YAML config and Git tags for versioning, integrates with CI/CD pipelines, and sends notifications via popular messaging platforms",
+    "name": "gcx",
+    "pkg_id": "gcx#github.com_sxwebdev_gcx",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.8"
   },
   {
     "description": "Stuff that_s missing in Go stdlib, or hasn_t made it into its own repo.",
@@ -134355,7 +134623,10 @@
     "name": "gettext",
     "pkg_id": "gettext#github.com_martinlehoux_kagamigo",
     "targets": [
-      "riscv64-Linux"
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-07-22",
     "version": "v0.6.2"
@@ -138188,6 +138459,19 @@
     ],
     "updated_at": "2025-06-28",
     "version": "HEAD-1780d4c-250627T211804"
+  },
+  {
+    "description": "Events Bridge",
+    "name": "gitsource",
+    "pkg_id": "gitsource#github.com_sandrolain_events_bridge",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250711182151-bdd757a1aa09"
   },
   {
     "description": "A simple git server written in golang",
@@ -150995,7 +151279,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-11",
+    "updated_at": "2025-07-22",
     "version": "v0.0.0-20250709153531-129309e052cc"
   },
   {
@@ -154027,6 +154311,19 @@
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-30c1a32-250621T191851"
+  },
+  {
+    "description": "GraphQL Authorization Tester is a tool that automates the testing of mutations in GraphQL to determine whether they are allowed or restricted for both authenticated and unauthenticated users",
+    "name": "graphql-auth-tester",
+    "pkg_id": "graphql-auth-tester#github.com_scarlycodex_graphql_auth_tester",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v1.2.4"
   },
   {
     "description": "Central resource for development-related lecture notes, practice codes, and courses",
@@ -158867,7 +159164,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-30",
+    "updated_at": "2025-07-22",
     "version": "v0.0.0-20250625163628-c97fead5073e"
   },
   {
@@ -159579,6 +159876,19 @@
     ],
     "updated_at": "2025-06-23",
     "version": "HEAD-fa578fc-250623T163118"
+  },
+  {
+    "description": "Gomake is a cross-platform compilation tool built on Mage, specifically designed for Go language projects. It offers comprehensive support for various operating systems and CPU architectures, covering the entire workflow from compilation to launching, monitoring, and stopping services",
+    "name": "helloworld",
+    "pkg_id": "helloworld#github.com_openimsdk_gomake",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.15-alpha.11"
   },
   {
     "description": "The One CD for All _applications, platforms, operations_",
@@ -161612,6 +161922,32 @@
     "version": "v0.0.0-20250705233837-e30f1ae4ae21"
   },
   {
+    "description": "Gostuff",
+    "name": "homework1",
+    "pkg_id": "homework1#github.com_ryanharper_gostuff",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250611081446-40975f0ee679"
+  },
+  {
+    "description": "Gostuff",
+    "name": "homework2",
+    "pkg_id": "homework2#github.com_ryanharper_gostuff",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250611081446-40975f0ee679"
+  },
+  {
     "description": "No Description Provided",
     "name": "homi",
     "pkg_id": "homi#github.com_kaiachain_kaia",
@@ -161648,6 +161984,19 @@
     ],
     "updated_at": "2025-07-12",
     "version": "v0.0.0-20250610210140-1f5b91467b8f"
+  },
+  {
+    "description": "Gostuff",
+    "name": "honeybee",
+    "pkg_id": "honeybee#github.com_ryanharper_gostuff",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250611081446-40975f0ee679"
   },
   {
     "description": "Signature based honeypot detector tool written in Golang",
@@ -164574,6 +164923,19 @@
     "version": "v3.0.0-20250627154123-cb482b1a4092"
   },
   {
+    "description": "Gostuff",
+    "name": "httpserver",
+    "pkg_id": "httpserver#github.com_ryanharper_gostuff",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250611081446-40975f0ee679"
+  },
+  {
     "description": "Today I learned",
     "name": "httpserver",
     "pkg_id": "httpserver#github.com_syumai_til_go_errors_failure_example",
@@ -164611,6 +164973,19 @@
     ],
     "updated_at": "2025-07-13",
     "version": "v0.5.0"
+  },
+  {
+    "description": "Events Bridge",
+    "name": "httpsource",
+    "pkg_id": "httpsource#github.com_sandrolain_events_bridge",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250711182151-bdd757a1aa09"
   },
   {
     "description": "Eden is where EVE and Adam get tried and tested",
@@ -164689,6 +165064,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-3b9c47b-250417T102442"
+  },
+  {
+    "description": "Events Bridge",
+    "name": "httptarget",
+    "pkg_id": "httptarget#github.com_sandrolain_events_bridge",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250711182151-bdd757a1aa09"
   },
   {
     "description": "JetStore Compute Analytic Platform",
@@ -178231,6 +178619,32 @@
     "version": "v0.0.0-20250716203504-6830dfd9bc34"
   },
   {
+    "description": "Events Bridge",
+    "name": "kafkasource",
+    "pkg_id": "kafkasource#github.com_sandrolain_events_bridge",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250711182151-bdd757a1aa09"
+  },
+  {
+    "description": "Events Bridge",
+    "name": "kafkatarget",
+    "pkg_id": "kafkatarget#github.com_sandrolain_events_bridge",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250711182151-bdd757a1aa09"
+  },
+  {
     "description": "Self-contained Japanese Morphological Analyzer written in pure Go",
     "name": "kagome",
     "pkg_id": "kagome#github.com_ikawaha_kagome",
@@ -178926,7 +179340,10 @@
     "name": "kdev",
     "pkg_id": "kdev#github.com_martinlehoux_kagamigo",
     "targets": [
-      "riscv64-Linux"
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-07-22",
     "version": "v0.6.2"
@@ -199978,6 +200395,19 @@
     "version": "v0.0.0-20250513072813-19f6fd9349ec"
   },
   {
+    "description": "Set of exercises for day to day backend system design skill training (not an interview preparation",
+    "name": "med-care-app-cache",
+    "pkg_id": "med-care-app-cache#github.com_rusinikita_system_design_trainer",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.1.1"
+  },
+  {
     "description": "Head of everything",
     "name": "media",
     "pkg_id": "media#github.com_rollthecloudinc_hedge",
@@ -202325,6 +202755,19 @@
     "version": "HEAD-7e78735-250414T230355"
   },
   {
+    "description": "Gomake is a cross-platform compilation tool built on Mage, specifically designed for Go language projects. It offers comprehensive support for various operating systems and CPU architectures, covering the entire workflow from compilation to launching, monitoring, and stopping services",
+    "name": "microservice-test",
+    "pkg_id": "microservice-test#github.com_openimsdk_gomake",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.15-alpha.11"
+  },
+  {
     "description": "Microservice for controlling VISCA compatible PTZ cameras",
     "name": "microservice-visca-ip",
     "pkg_id": "microservice-visca-ip#github.com_dartmouth_openav_microservice_visca_ip",
@@ -203749,6 +204192,19 @@
     ],
     "updated_at": "2025-06-27",
     "version": "HEAD-ed17b7a-250626T135741"
+  },
+  {
+    "description": "A small CI server with git integration used for testing automation tools like Ocuroot",
+    "name": "minici",
+    "pkg_id": "minici#github.com_ocuroot_minici",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250721204611-a353a5379204"
   },
   {
     "description": "minid is Dockerfile minifier for reducing the number of layers.",
@@ -208297,6 +208753,19 @@
     "version": "v0.0.0-20250627094045-9d6567446f9e"
   },
   {
+    "description": "Gostuff",
+    "name": "mq",
+    "pkg_id": "mq#github.com_ryanharper_gostuff",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250611081446-40975f0ee679"
+  },
+  {
     "description": "Scan for misconfigured S3 buckets across S3-compatible APIs!",
     "name": "mqingest",
     "pkg_id": "mqingest#github.com_sa7mon_S3Scanner",
@@ -208463,6 +208932,32 @@
     ],
     "updated_at": "2025-06-25",
     "version": "HEAD-5bcf801-250625T134405"
+  },
+  {
+    "description": "Events Bridge",
+    "name": "mqttsource",
+    "pkg_id": "mqttsource#github.com_sandrolain_events_bridge",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250711182151-bdd757a1aa09"
+  },
+  {
+    "description": "Events Bridge",
+    "name": "mqtttarget",
+    "pkg_id": "mqtttarget#github.com_sandrolain_events_bridge",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250711182151-bdd757a1aa09"
   },
   {
     "description": "pedro_s library for go",
@@ -211806,6 +212301,32 @@
     ],
     "updated_at": "2025-06-27",
     "version": "HEAD-b4246cc-250627T085303"
+  },
+  {
+    "description": "Events Bridge",
+    "name": "natssource",
+    "pkg_id": "natssource#github.com_sandrolain_events_bridge",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250711182151-bdd757a1aa09"
+  },
+  {
+    "description": "Events Bridge",
+    "name": "natstarget",
+    "pkg_id": "natstarget#github.com_sandrolain_events_bridge",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250711182151-bdd757a1aa09"
   },
   {
     "description": "🥢 austere gemini/spartan server",
@@ -220008,6 +220529,19 @@
     "version": "HEAD-bac4569-250614T230551"
   },
   {
+    "description": "Design Patterns implementation in Golang and Python",
+    "name": "one",
+    "pkg_id": "one#github.com_nom_1986_designpatterns",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250629015334-c21fcd090a9e"
+  },
+  {
     "description": "Learning, researching, playing around",
     "name": "one-file",
     "pkg_id": "one-file#github.com_fredrikaverpil_go_playground",
@@ -225602,6 +226136,19 @@
     "version": "v0.11.0"
   },
   {
+    "description": "Gostuff",
+    "name": "paintweb",
+    "pkg_id": "paintweb#github.com_ryanharper_gostuff",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250611081446-40975f0ee679"
+  },
+  {
     "description": "mangos is a pure Golang implementation of nanomsg_s _Scalablilty Protocols_",
     "name": "pair",
     "pkg_id": "pair#github.com_nanomsg_mangos",
@@ -229686,6 +230233,19 @@
     "version": "v0.5.0"
   },
   {
+    "description": "Events Bridge",
+    "name": "pgsqlsource",
+    "pkg_id": "pgsqlsource#github.com_sandrolain_events_bridge",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250711182151-bdd757a1aa09"
+  },
+  {
     "description": "PostgreSQL replication with DDL changes",
     "name": "pgstream",
     "pkg_id": "pgstream#github.com_xataio_pgstream",
@@ -232548,6 +233108,19 @@
     ],
     "updated_at": "2025-06-27",
     "version": "HEAD-42f4e7d-250626T142456"
+  },
+  {
+    "description": "Events Bridge",
+    "name": "plugin",
+    "pkg_id": "plugin#github.com_sandrolain_events_bridge",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250711182151-bdd757a1aa09"
   },
   {
     "description": "The SPIFFE Runtime Environment",
@@ -243174,6 +243747,32 @@
     "version": "v0.0.0-20250711185126-c9e5f5d33756"
   },
   {
+    "description": "Events Bridge",
+    "name": "pubsubsource",
+    "pkg_id": "pubsubsource#github.com_sandrolain_events_bridge",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250711182151-bdd757a1aa09"
+  },
+  {
+    "description": "Events Bridge",
+    "name": "pubsubtarget",
+    "pkg_id": "pubsubtarget#github.com_sandrolain_events_bridge",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250711182151-bdd757a1aa09"
+  },
+  {
     "description": "Generate random values in formats like UUID4, UUID7, hexadecimal and Base64, along with binary blobs for testing, development, and cryptographic applications",
     "name": "puff",
     "pkg_id": "puff#github.com_chronohq_puff",
@@ -250358,6 +250957,19 @@
     "version": "HEAD-307a284-250625T104335"
   },
   {
+    "description": "Events Bridge",
+    "name": "redissource",
+    "pkg_id": "redissource#github.com_sandrolain_events_bridge",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250711182151-bdd757a1aa09"
+  },
+  {
     "description": "A testing ground for trying out new languages, APIs, etc",
     "name": "redissub",
     "pkg_id": "redissub#github.com_sohnryang_playground_golang_redissub",
@@ -250369,6 +250981,19 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.0.0-20250203082024-0642d53d0cae"
+  },
+  {
+    "description": "Events Bridge",
+    "name": "redistarget",
+    "pkg_id": "redistarget#github.com_sandrolain_events_bridge",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250711182151-bdd757a1aa09"
   },
   {
     "description": "Python Utilities Rewritten in Go and Enhanced",
@@ -250848,6 +251473,19 @@
     ],
     "updated_at": "2025-06-29",
     "version": "v0.0.0-20250629000415-f8b09b90473c"
+  },
+  {
+    "description": "Services for a restful desktop environment",
+    "name": "refude",
+    "pkg_id": "refude#github.com_surlykke_refude",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250721114748-880fde946040"
   },
   {
     "description": "SIMD for Go",
@@ -262905,6 +263543,7 @@
     "targets": [
       "aarch64-Linux",
       "loongarch64-Linux",
+      "riscv64-Linux",
       "x86_64-Linux"
     ],
     "updated_at": "2025-07-22",
@@ -268307,6 +268946,19 @@
     "version": "HEAD-eef11aa-250623T135232"
   },
   {
+    "description": "Manage your database schema as code",
+    "name": "server",
+    "pkg_id": "server#github.com_ariga_atlas_internal_integration",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250702084619-1afaaba2acfd"
+  },
+  {
     "description": "A multi-cluster batch queuing system for high-throughput workloads on Kubernetes.",
     "name": "server",
     "pkg_id": "server#github.com_armadaproject_armada",
@@ -268969,8 +269621,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-12",
-    "version": "v0.0.0-20250707190314-64e5252b4ef3"
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250718163758-ca73ff34b76a"
   },
   {
     "description": "Reverse proxy that inverts the direction of traffic",
@@ -270786,6 +271438,19 @@
     "version": "HEAD-99b492c-250621T122228"
   },
   {
+    "description": "Building event-driven applications the easy way in Go",
+    "name": "server-sent-events-htmx",
+    "pkg_id": "server-sent-events-htmx#github.com_threedotslabs_watermill_examples_real_world_examples_server_sent_events_htmx",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250703131952-203cb9c9f67c"
+  },
+  {
     "description": "No Description Provided",
     "name": "server-stdio",
     "pkg_id": "server-stdio#github.com_Ingenimax_agent_sdk_go",
@@ -272410,6 +273075,19 @@
     ],
     "updated_at": "2025-07-19",
     "version": "v0.10.0"
+  },
+  {
+    "description": "Viperblock: High-performance block storage with S3 compatibility for edge to on-premise deployments. Features log-structured writes, block-to-object mapping, and configurable chunk sizes. Supports multiple backends with checksumming and intelligent caching for VM and container storage needs",
+    "name": "sfs",
+    "pkg_id": "sfs#github.com_mulgadc_viperblock",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250701054805-00b5d3692c1b"
   },
   {
     "description": "A repository of working verification and testing code snippets",
@@ -276381,6 +277059,19 @@
     ],
     "updated_at": "2025-06-30",
     "version": "v0.0.0-20250624031656-019272195b65"
+  },
+  {
+    "description": "Design Patterns implementation in Golang and Python",
+    "name": "singleton",
+    "pkg_id": "singleton#github.com_nom_1986_designpatterns",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250629015334-c21fcd090a9e"
   },
   {
     "description": "Go test",
@@ -292759,6 +293450,19 @@
     "version": "v0.0.0-20250707191740-d1a012a9de21"
   },
   {
+    "description": "Herramienta avanzada de detección de Subdomain Takeovers por TheOffSecGirl",
+    "name": "takeovflow",
+    "pkg_id": "takeovflow#github.com_theoffsecgirl_takeovflow",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250714185836-feb01d96ae36"
+  },
+  {
     "description": "No Description Provided",
     "name": "takreplay",
     "pkg_id": "takreplay#github.com_kdudkov_goatak.git",
@@ -292796,6 +293500,19 @@
     ],
     "updated_at": "2025-06-25",
     "version": "HEAD-63816a0-250625T151025"
+  },
+  {
+    "description": "Golang Messenger App",
+    "name": "talkify",
+    "pkg_id": "talkify#github.com_squ1ky_talkify",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250719104538-62613657d60e"
   },
   {
     "description": "Manage Talos Linux the GitOps Way",
@@ -317323,8 +318040,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-15",
-    "version": "v2.0.0-20250714144425-0bf7c1ad32dd"
+    "updated_at": "2025-07-22",
+    "version": "v2.0.0-20250716060240-ac92cbe5701c"
   },
   {
     "description": "Go + Godot 4.4",
@@ -319448,6 +320165,32 @@
     "version": "HEAD-84ef190-250623T000344"
   },
   {
+    "description": "Viperblock: High-performance block storage with S3 compatibility for edge to on-premise deployments. Features log-structured writes, block-to-object mapping, and configurable chunk sizes. Supports multiple backends with checksumming and intelligent caching for VM and container storage needs",
+    "name": "vbd",
+    "pkg_id": "vbd#github.com_mulgadc_viperblock",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250701054805-00b5d3692c1b"
+  },
+  {
+    "description": "Viperblock: High-performance block storage with S3 compatibility for edge to on-premise deployments. Features log-structured writes, block-to-object mapping, and configurable chunk sizes. Supports multiple backends with checksumming and intelligent caching for VM and container storage needs",
+    "name": "vblock",
+    "pkg_id": "vblock#github.com_mulgadc_viperblock",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250701054805-00b5d3692c1b"
+  },
+  {
     "description": "A Cloud Native Batch System _Project under CNCF_",
     "name": "vcancel",
     "pkg_id": "vcancel#github.com_volcano_sh_volcano",
@@ -320570,6 +321313,19 @@
     ],
     "updated_at": "2025-06-28",
     "version": "HEAD-387f6ae-250628T181348"
+  },
+  {
+    "description": "エフェクトシステムもどき for Go",
+    "name": "vet-dirty",
+    "pkg_id": "vet-dirty#github.com_naoyafurudono_dirty",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.2"
   },
   {
     "description": "eBPF distributed networking observability tool for Kubernetes",
@@ -324194,6 +324950,19 @@
     ],
     "updated_at": "2025-06-26",
     "version": "HEAD-7d5eefe-250626T083055"
+  },
+  {
+    "description": "Events Bridge",
+    "name": "wasmrunner",
+    "pkg_id": "wasmrunner#github.com_sandrolain_events_bridge",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250711182151-bdd757a1aa09"
   },
   {
     "description": "SDL3 bindings for Go",
@@ -327951,7 +328720,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-11",
+    "updated_at": "2025-07-22",
     "version": "v1.0.5"
   },
   {
@@ -331368,6 +332137,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-8cd3bae-230703T145814"
+  },
+  {
+    "description": "Test app using https://wttr.in/ serving as html",
+    "name": "wttr-app",
+    "pkg_id": "wttr-app#github.com_stblc_wttr_app",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-22",
+    "version": "v0.0.0-20250721235608-14985feeaebb"
   },
   {
     "description": "My GitHub Profile",
