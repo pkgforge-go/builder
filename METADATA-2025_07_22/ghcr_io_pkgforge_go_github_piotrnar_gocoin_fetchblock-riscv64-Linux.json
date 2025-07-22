@@ -1,0 +1,92 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "fetchblock",
+  "pkg_family": "gocoin",
+  "pkg_id": "fetchblock#github.com_piotrnar_gocoin",
+  "pkg_name": "fetchblock",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/piotrnar/gocoin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Full bitcoin solution written in Go (golang",
+  "homepage": [
+    "https://github.com/piotrnar/gocoin"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "balio",
+    "base58",
+    "bdb",
+    "bip39wal",
+    "blockinfo",
+    "bootdat_qt",
+    "btcversig",
+    "client",
+    "fetchblock",
+    "fetchtx",
+    "getfees",
+    "goc",
+    "hdwal",
+    "importblocks",
+    "mkmulti",
+    "peers",
+    "tap2old",
+    "trumpic",
+    "txaddsig",
+    "txmod",
+    "txoutset",
+    "type2determ",
+    "type2next",
+    "unspent4_to_utxo",
+    "utxo",
+    "wallet"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/piotrnar/gocoin/@v/v0.0.0-20250717220113-38f3124a00ab.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250717220113-38f3124a00ab",
+  "version_upstream": "",
+  "bsum": "16d094d8875d560dce3fb2e9d680590dff28a70cdea9a23f32083964b837e2d6",
+  "build_date": "2025-07-22T07:45:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16436923153",
+  "build_id": "16436923153",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/piotrnar/gocoin/fetchblock?tag=v0.0.0-20250717220113-38f3124a00ab-riscv64-Linux&download=fetchblock.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "994",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/piotrnar/gocoin/fetchblock?tag=v0.0.0-20250717220113-38f3124a00ab-riscv64-Linux&download=fetchblock",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/piotrnar/gocoin/fetchblock:v0.0.0-20250717220113-38f3124a00ab-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/piotrnar/gocoin/fetchblock",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/piotrnar/gocoin/fetchblock?tag=v0.0.0-20250717220113-38f3124a00ab-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ef345de0011d52383b17587e7a82555832ca8d43ef8142db60f789a8c8de6161",
+  "size": "5.7 MB",
+  "size_raw": "5938904",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-44bc9d2-250622T104408-riscv64-Linux",
+    "v0.0.0-20250716185336-2394e49f665f-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
