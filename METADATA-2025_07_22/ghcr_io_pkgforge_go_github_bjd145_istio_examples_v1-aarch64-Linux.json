@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "v1",
+  "pkg_family": "istio-examples",
+  "pkg_id": "v1#github.com_bjd145_istio_examples",
+  "pkg_name": "v1",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bjd145/istio-examples",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Learning Istio",
+  "homepage": [
+    "https://github.com/bjd145/istio-examples"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "tracing",
+    "v1",
+    "v2"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/briandenicola/istio-examples/@v/v0.0.0-20250516152232-a69f0eaaf829.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250516152232-a69f0eaaf829",
+  "version_upstream": "",
+  "bsum": "b6f7fc8b8de8d009180d4857a4867fcc8e3db6cf716d50bda9da1345f239cca8",
+  "build_date": "2025-07-22T04:16:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16434379234",
+  "build_id": "16434379234",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bjd145/istio-examples/v1?tag=v0.0.0-20250516152232-a69f0eaaf829-aarch64-Linux&download=v1.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bjd145/istio-examples/v1?tag=v0.0.0-20250516152232-a69f0eaaf829-aarch64-Linux&download=v1",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bjd145/istio-examples/v1:v0.0.0-20250516152232-a69f0eaaf829-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bjd145/istio-examples/v1",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bjd145/istio-examples/v1?tag=v0.0.0-20250516152232-a69f0eaaf829-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d9ceeaec43601c4f90a881313bd05ba82b6a5821ad3c11a59e49869a953e9f9c",
+  "size": "5.9 MB",
+  "size_raw": "6180000",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
