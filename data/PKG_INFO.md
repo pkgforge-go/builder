@@ -69,6 +69,7 @@
 - 🐹 **[server](https://flatbuffers.dev/)**: FlatBuffers: Memory Efficient Serialization Library.
 - 🐹 **[client](http://rancher.com)**: Complete container management platform.
 - 🐹 **[go](https://openapi-generator.tech)**: OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3.
+- 🐹 **[dbg](https://github.com/dparker1990/dbg)**: Delve is a debugger for the Go programming language.
 - 🐹 **[delve](https://github.com/go-delve/delve)**: Delve is a debugger for the Go programming language.
 - 🐹 **[developer-docs](https://www.pulumi.com)**: Pulumi - Infrastructure as Code in any programming language.
 - 🐹 **[v3](https://www.pulumi.com)**: Pulumi - Infrastructure as Code in any programming language.
@@ -496,6 +497,7 @@
 - 🐹 **[myapp](https://youtube.com/antonputra)**: DevOps Tutorials.
 - 🐹 **[myapp](https://youtube.com/antonputra)**: DevOps Tutorials.
 - 🐹 **[myapp](https://youtube.com/antonputra)**: DevOps Tutorials.
+- 🐹 **[dubbo-admin](https://dubbo.apache.org/)**: The ops and reference implementation for Apache Dubbo.
 - 🐹 **[serena](https://github.com/oraios/serena)**: A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & Agno integration.
 - 🐹 **[smoketest_lint](https://greenbone.github.io/docs/)**: This repository contains the scanner component for Greenbone Community Edition.
 - 🐹 **[generate-npm-packages](https://cerbos.dev)**: Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.
