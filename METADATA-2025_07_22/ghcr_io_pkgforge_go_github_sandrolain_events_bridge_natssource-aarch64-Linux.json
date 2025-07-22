@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "natssource",
+  "pkg_family": "events-bridge",
+  "pkg_id": "natssource#github.com_sandrolain_events_bridge",
+  "pkg_name": "natssource",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sandrolain/events-bridge",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Events Bridge",
+  "homepage": [
+    "https://github.com/sandrolain/events-bridge"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "coapsource",
+    "coaptarget",
+    "concurrently",
+    "gitsource",
+    "httpsource",
+    "httptarget",
+    "kafkasource",
+    "kafkatarget",
+    "mqttsource",
+    "mqtttarget",
+    "natssource",
+    "natstarget",
+    "pgsqlsource",
+    "plugin",
+    "pubsubsource",
+    "pubsubtarget",
+    "redissource",
+    "redistarget",
+    "wasmrunner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sandrolain/events-bridge/@v/v0.0.0-20250711182151-bdd757a1aa09.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250711182151-bdd757a1aa09",
+  "version_upstream": "",
+  "bsum": "1136a16775176cd7ba6687020b22843e3f9ecefaa9268aaf88bfc09df0029a41",
+  "build_date": "2025-07-22T05:08:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16434474019",
+  "build_id": "16434474019",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sandrolain/events-bridge/natssource?tag=v0.0.0-20250711182151-bdd757a1aa09-aarch64-Linux&download=natssource.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sandrolain/events-bridge/natssource?tag=v0.0.0-20250711182151-bdd757a1aa09-aarch64-Linux&download=natssource",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sandrolain/events-bridge/natssource:v0.0.0-20250711182151-bdd757a1aa09-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sandrolain/events-bridge/natssource",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sandrolain/events-bridge/natssource?tag=v0.0.0-20250711182151-bdd757a1aa09-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "be4dc94bfaca0f8a8fc6bda6ad514189fa37d0c313ef6ec9cb6b6b771c393c34",
+  "size": "7.5 MB",
+  "size_raw": "7759776",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
