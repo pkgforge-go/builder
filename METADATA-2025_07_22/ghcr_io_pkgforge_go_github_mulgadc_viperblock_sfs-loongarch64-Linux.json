@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "sfs",
+  "pkg_family": "viperblock",
+  "pkg_id": "sfs#github.com_mulgadc_viperblock",
+  "pkg_name": "sfs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mulgadc/viperblock",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Viperblock: High-performance block storage with S3 compatibility for edge to on-premise deployments. Features log-structured writes, block-to-object mapping, and configurable chunk sizes. Supports multiple backends with checksumming and intelligent caching for VM and container storage needs",
+  "homepage": [
+    "https://github.com/mulgadc/viperblock"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sfs",
+    "vbd",
+    "vblock"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/mulgadc/viperblock/@v/v0.0.0-20250701054805-00b5d3692c1b.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250701054805-00b5d3692c1b",
+  "version_upstream": "",
+  "bsum": "af693a498ce76f0ece13e79bb7a59bbeb5edd0f800b515f07af3d0bf1511185a",
+  "build_date": "2025-07-22T04:49:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16434455238",
+  "build_id": "16434455238",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mulgadc/viperblock/sfs?tag=v0.0.0-20250701054805-00b5d3692c1b-loongarch64-Linux&download=sfs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mulgadc/viperblock/sfs?tag=v0.0.0-20250701054805-00b5d3692c1b-loongarch64-Linux&download=sfs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mulgadc/viperblock/sfs:v0.0.0-20250701054805-00b5d3692c1b-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mulgadc/viperblock/sfs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mulgadc/viperblock/sfs?tag=v0.0.0-20250701054805-00b5d3692c1b-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "098456c33a4b395d3f603bb45087afe8afc106c766599a6c2fbafe88245a7969",
+  "size": "12 MB",
+  "size_raw": "11957984",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
