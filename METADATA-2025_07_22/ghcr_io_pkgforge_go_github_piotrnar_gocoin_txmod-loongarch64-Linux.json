@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "txmod",
+  "pkg_family": "gocoin",
+  "pkg_id": "txmod#github.com_piotrnar_gocoin",
+  "pkg_name": "txmod",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/piotrnar/gocoin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Full bitcoin solution written in Go (golang",
+  "homepage": [
+    "https://github.com/piotrnar/gocoin"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "balio",
+    "base58",
+    "bdb",
+    "bip39wal",
+    "blockinfo",
+    "bootdat_qt",
+    "btcversig",
+    "fetchblock",
+    "fetchtx",
+    "getfees",
+    "goc",
+    "hdwal",
+    "importblocks",
+    "mkmulti",
+    "tap2old",
+    "trumpic",
+    "txaddsig",
+    "txmod",
+    "txoutset",
+    "type2determ",
+    "type2next",
+    "unspent4_to_utxo",
+    "wallet"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/piotrnar/gocoin/@v/v0.0.0-20250717220113-38f3124a00ab.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250717220113-38f3124a00ab",
+  "version_upstream": "",
+  "bsum": "9bb630f3a20e4598ed905d9039fdbcd93f93f36cba430965a423fe404b6759be",
+  "build_date": "2025-07-22T07:44:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16436923153",
+  "build_id": "16436923153",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/piotrnar/gocoin/txmod?tag=v0.0.0-20250717220113-38f3124a00ab-loongarch64-Linux&download=txmod.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "994",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/piotrnar/gocoin/txmod?tag=v0.0.0-20250717220113-38f3124a00ab-loongarch64-Linux&download=txmod",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/piotrnar/gocoin/txmod:v0.0.0-20250717220113-38f3124a00ab-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/piotrnar/gocoin/txmod",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/piotrnar/gocoin/txmod?tag=v0.0.0-20250717220113-38f3124a00ab-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bb7c56c855be2541470db6b090af4aabe8371959eab09a5852f22ac94ac35305",
+  "size": "2.0 MB",
+  "size_raw": "2045888",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-44bc9d2-250622T104408-loongarch64-Linux",
+    "v0.0.0-20250716185336-2394e49f665f-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
