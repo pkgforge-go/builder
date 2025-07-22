@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cloudranger",
+  "pkg_family": "cloudranger",
+  "pkg_id": "cloudranger#github.com_planetscale_cloudranger",
+  "pkg_name": "cloudranger",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/planetscale/cloudranger",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library for mapping IP address ranges to cloud provider regions (currently: AWS and GCP",
+  "homepage": [
+    "https://github.com/planetscale/cloudranger"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cloudranger",
+    "gen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/planetscale/cloudranger/@v/v0.0.107.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.107",
+  "version_upstream": "",
+  "bsum": "f442f02f83993665e2fb99f6ef774202eeb4a16d832e1e33c2e21d7dd57f4695",
+  "build_date": "2025-07-22T07:41:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16436923555",
+  "build_id": "16436923555",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/planetscale/cloudranger/cloudranger?tag=v0.0.107-loongarch64-Linux&download=cloudranger.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/planetscale/cloudranger/cloudranger?tag=v0.0.107-loongarch64-Linux&download=cloudranger",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/planetscale/cloudranger/cloudranger:v0.0.107-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/planetscale/cloudranger/cloudranger",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/planetscale/cloudranger/cloudranger?tag=v0.0.107-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "988c73311d0b3b8f24186074a353f15d24b1d92a56a3466a406f55d9e6e8abb1",
+  "size": "5.3 MB",
+  "size_raw": "5459584",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a04e258-250623T113227-loongarch64-Linux[v0.0.103]",
+    "HEAD-da8859a-250627T150741-loongarch64-Linux",
+    "v0.0.104-loongarch64-Linux",
+    "v0.0.105-loongarch64-Linux",
+    "v0.0.106-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
