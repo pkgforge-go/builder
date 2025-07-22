@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "tfshim",
+  "pkg_family": "tfshim",
+  "pkg_id": "tfshim#github.com_tinfoilsh_tfshim",
+  "pkg_name": "tfshim",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tinfoilsh/tfshim",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tinfoil guest attestation proxy",
+  "homepage": [
+    "https://github.com/tinfoilsh/tfshim"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "clientutil",
+    "keygen",
+    "keyserver",
+    "tfshim"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/tinfoilsh/tfshim/@v/v0.1.6.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.1.6",
+  "version_upstream": "",
+  "bsum": "f77492e5740eeda1270497fda4cae43540e47757830a8e4478224a97582637e3",
+  "build_date": "2025-07-22T07:58:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16436998768",
+  "build_id": "16436998768",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinfoilsh/tfshim/tfshim?tag=v0.1.6-aarch64-Linux&download=tfshim.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinfoilsh/tfshim/tfshim?tag=v0.1.6-aarch64-Linux&download=tfshim",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tinfoilsh/tfshim/tfshim:v0.1.6-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tinfoilsh/tfshim/tfshim",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinfoilsh/tfshim/tfshim?tag=v0.1.6-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5ca52216c95a95ca30f8f294d2ce8df60551082b206ebd11d4ee62a34361c56c",
+  "size": "12 MB",
+  "size_raw": "12292032",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.35-aarch64-Linux",
+    "v0.1.5-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
