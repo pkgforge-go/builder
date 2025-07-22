@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "redistarget",
+  "pkg_family": "events-bridge",
+  "pkg_id": "redistarget#github.com_sandrolain_events_bridge",
+  "pkg_name": "redistarget",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sandrolain/events-bridge",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Events Bridge",
+  "homepage": [
+    "https://github.com/sandrolain/events-bridge"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "coapsource",
+    "coaptarget",
+    "concurrently",
+    "events-bridge-src",
+    "gitsource",
+    "httpsource",
+    "httptarget",
+    "kafkasource",
+    "kafkatarget",
+    "mqttsource",
+    "mqtttarget",
+    "natssource",
+    "natstarget",
+    "pgsqlsource",
+    "plugin",
+    "pubsubsource",
+    "pubsubtarget",
+    "redissource",
+    "redistarget",
+    "wasmrunner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sandrolain/events-bridge/@v/v0.0.0-20250711182151-bdd757a1aa09.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250711182151-bdd757a1aa09",
+  "version_upstream": "",
+  "bsum": "05eca12a1215e4cbddb00bc2d011678ef5403106db52c0bb10b98e3a9f6ccc59",
+  "build_date": "2025-07-22T05:07:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16434474019",
+  "build_id": "16434474019",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sandrolain/events-bridge/redistarget?tag=v0.0.0-20250711182151-bdd757a1aa09-x86_64-Linux&download=redistarget.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sandrolain/events-bridge/redistarget?tag=v0.0.0-20250711182151-bdd757a1aa09-x86_64-Linux&download=redistarget",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sandrolain/events-bridge/redistarget:v0.0.0-20250711182151-bdd757a1aa09-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sandrolain/events-bridge/redistarget",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sandrolain/events-bridge/redistarget?tag=v0.0.0-20250711182151-bdd757a1aa09-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a43f7fe56d470058df2b8819887de6dfe325e05104576c6ddf9e984dea9a9cc3",
+  "size": "5.6 MB",
+  "size_raw": "5827552",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

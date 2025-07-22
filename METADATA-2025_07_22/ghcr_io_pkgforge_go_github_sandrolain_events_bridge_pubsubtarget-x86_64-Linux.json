@@ -1,0 +1,83 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "pubsubtarget",
+  "pkg_family": "events-bridge",
+  "pkg_id": "pubsubtarget#github.com_sandrolain_events_bridge",
+  "pkg_name": "pubsubtarget",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sandrolain/events-bridge",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Events Bridge",
+  "homepage": [
+    "https://github.com/sandrolain/events-bridge"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "coapsource",
+    "coaptarget",
+    "concurrently",
+    "events-bridge-src",
+    "gitsource",
+    "httpsource",
+    "httptarget",
+    "kafkasource",
+    "kafkatarget",
+    "mqttsource",
+    "mqtttarget",
+    "natssource",
+    "natstarget",
+    "pgsqlsource",
+    "plugin",
+    "pubsubsource",
+    "pubsubtarget",
+    "redissource",
+    "redistarget",
+    "wasmrunner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sandrolain/events-bridge/@v/v0.0.0-20250711182151-bdd757a1aa09.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250711182151-bdd757a1aa09",
+  "version_upstream": "",
+  "bsum": "afe2568003908783e2589771b2852262a71b732a583ef2305d92fd4e68823a10",
+  "build_date": "2025-07-22T05:06:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16434474019",
+  "build_id": "16434474019",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sandrolain/events-bridge/pubsubtarget?tag=v0.0.0-20250711182151-bdd757a1aa09-x86_64-Linux&download=pubsubtarget.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sandrolain/events-bridge/pubsubtarget?tag=v0.0.0-20250711182151-bdd757a1aa09-x86_64-Linux&download=pubsubtarget",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sandrolain/events-bridge/pubsubtarget:v0.0.0-20250711182151-bdd757a1aa09-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sandrolain/events-bridge/pubsubtarget",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sandrolain/events-bridge/pubsubtarget?tag=v0.0.0-20250711182151-bdd757a1aa09-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c2657dc10f77c045ae7806ef0380d66c9f1c1d07be3d657946220f3a791745ff",
+  "size": "18 MB",
+  "size_raw": "18175168",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
