@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "selfy",
+  "pkg_family": "rpc25519",
+  "pkg_id": "selfy#github.com_glycerine_rpc25519",
+  "pkg_name": "selfy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/glycerine/rpc25519",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Edwards curve ed25519 identity based RPC for Go/golang. TLS-v1.3 over TCP (or QUIC",
+  "homepage": [
+    "https://github.com/glycerine/rpc25519"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "samesame",
+    "selfy",
+    "srv"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/glycerine/rpc25519/@v/v1.22.78.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.22.78",
+  "version_upstream": "",
+  "bsum": "92b0d194ad52845293b4e0dbd6fc69c3cb4a3d0adc6af7d335617ac12bc68de9",
+  "build_date": "2025-07-22T07:13:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16436835361",
+  "build_id": "16436835361",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glycerine/rpc25519/selfy?tag=v1.22.78-riscv64-Linux&download=selfy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glycerine/rpc25519/selfy?tag=v1.22.78-riscv64-Linux&download=selfy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/glycerine/rpc25519/selfy:v1.22.78-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/glycerine/rpc25519/selfy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glycerine/rpc25519/selfy?tag=v1.22.78-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "863c9de1c25b43d930558e020bbead8f64643e09aa52dacd2a21c7b54f6abfb3",
+  "size": "7.1 MB",
+  "size_raw": "7428632",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.22.73-riscv64-Linux",
+    "v1.22.76-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
