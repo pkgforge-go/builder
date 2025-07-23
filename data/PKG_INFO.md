@@ -132,6 +132,7 @@
 - 🐹 **[go-integration-coverage](https://skaffold.dev/)**: Easy and Repeatable Kubernetes Development.
 - 🐹 **[asciinema-cli](https://asciinema.org)**: Terminal session recorder.
 - 🐹 **[asciinema](https://asciinema.org)**: Terminal session recorder.
+- 🐹 **[tensorboard-controller](https://www.kubeflow.org/)**: Machine Learning Toolkit for Kubernetes.
 - 🐹 **[ultimate-go](https://gumroad.com/l/bpUYF)**: The Ultimate Go Study Guide.
 - 🐹 **[dagger](https://goreleaser.com)**: Release engineering, simplified.
 - 🐹 **[examples](https://pulsar.apache.org/)**: Apache Pulsar - distributed pub-sub messaging system.
@@ -160,6 +161,7 @@
 - 🐹 **[tview](https://github.com/rivo/tview)**: Terminal UI library with rich, interactive widgets — written in Golang.
 - 🐹 **[dnscrypt-proxy](https://dnscrypt.info)**: Dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - 🐹 **[dnscrypt-proxy](https://dnscrypt.info)**: Dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
+- 🐹 **[sasl_scram_client](https://github.com/shopify/sarama)**: Sarama is a Go library for Apache Kafka.
 - 🐹 **[hydra-kratos-login-consent](https://www.ory.sh/?utm_source=github&utm_medium=banner&utm_campaign=kratos)**: Headless cloud-native authentication and identity management written in Go.
 - 🐹 **[hydra-login-consent](https://www.ory.sh/?utm_source=github&utm_medium=banner&utm_campaign=kratos)**: Headless cloud-native authentication and identity management written in Go.
 - 🐹 **[interceptors](https://github.com/shopify/sarama)**: Sarama is a Go library for Apache Kafka.
@@ -384,6 +386,7 @@
 - 🐹 **[cli](https://snyk.io)**: Snyk CLI scans and monitors your projects for security vulnerabilities.
 - 🐹 **[dev](https://pgroll.com)**: PostgreSQL zero-downtime migrations made easy.
 - 🐹 **[helpers](https://docs.github.com/en/code-security/dependabot)**: Dependabot's core logic for creating update PRs.
+- 🐹 **[dockerize](https://github.com/jwilder/dockerize)**: Utility to simplify running applications in docker containers.
 - 🐹 **[options](https://github.com/emicklei/go-restful)**: Package for building REST-style Web Services using Go.
 - 🐹 **[pathtail](https://github.com/emicklei/go-restful)**: Package for building REST-style Web Services using Go.
 - 🐹 **[prepost](https://github.com/emicklei/go-restful)**: Package for building REST-style Web Services using Go.
@@ -536,6 +539,7 @@
 - 🐹 **[rbac-docgen](https://odigos.io)**: Distributed tracing without code changes.
 - 🐹 **[scheduler](https://odigos.io)**: Distributed tracing without code changes.
 - 🐹 **[scheduler](https://odigos.io)**: Distributed tracing without code changes.
+- 🐹 **[go](https://docs.microsandbox.dev)**: Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code.
 - 🐹 **[geany](https://www.geany.org)**: A fast and lightweight IDE.
 - 🐹 **[assetfinder](https://github.com/tomnomnom/assetfinder)**: Find domains and subdomains related to a given domain.
 - 🐹 **[graphql](https://docs.gofiber.io/recipes/)**: Examples for 🚀 Fiber.
@@ -607,6 +611,7 @@
 - 🐹 **[piranha](https://github.com/uber/piranha)**: A tool for refactoring code related to feature flag APIs.
 - 🐹 **[protoc-gen-go-gin](https://go-eagle.org)**: A Go framework for the API or Microservice.
 - 🐹 **[bench](https://github.com/twmb/franz-go)**: Franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.
+- 🐹 **[v2](https://www.krakend.io)**: KrakenD Community Edition: High-performance, stateless, declarative, API Gateway written in Go.
 - 🐹 **[kubie](https://blog.sbstp.ca/introducing-kubie/)**: A more powerful alternative to kubectx and kubens.
 - 🐹 **[backup](https://vearch.github.io)**: Distributed vector search for AI-native applications.
 - 🐹 **[yopass](https://yopass.se)**: Secure sharing of secrets, passwords and files.
@@ -674,6 +679,7 @@
 - 🐹 **[ovpn-admin](https://github.com/palark/ovpn-admin)**: Simple web UI to manage OpenVPN users.
 - 🐹 **[table-gen](https://kyma-project.io)**: Kyma is an opinionated set of Kubernetes-based modular building blocks, including all necessary capabilities to develop and run enterprise-grade cloud-native applications.
 - 🐹 **[grpc-health-probe](https://github.com/grpc-ecosystem/grpc-health-probe)**: A command-line tool to perform health-checks for gRPC applications in Kubernetes and elsewhere.
+- 🐹 **[github-release](https://github.com/aktau/github-release)**: Commandline app to create and edit releases on Github (and upload artifacts.
 - 🐹 **[asm](http://blog.cloudflare.com/introducing-circl)**: CIRCL: Cloudflare Interoperable Reusable Cryptographic Library.
 - 🐹 **[asm](http://blog.cloudflare.com/introducing-circl)**: CIRCL: Cloudflare Interoperable Reusable Cryptographic Library.
 - 🐹 **[asm](http://blog.cloudflare.com/introducing-circl)**: CIRCL: Cloudflare Interoperable Reusable Cryptographic Library.
@@ -699,9 +705,11 @@
 - 🐹 **[retest](https://github.com/ceph/ceph-csi)**: CSI driver for Ceph.
 - 🐹 **[gcs-fetcher](https://cloud.google.com/cloud-build/)**: Builder images and examples commonly used for Google Cloud Build.
 - 🐹 **[partitiontest_linter](https://developer.algorand.org/)**: Algorand's official implementation in Go.
+- 🐹 **[x-repo-types](https://developer.algorand.org/)**: Algorand's official implementation in Go.
 - 🐹 **[graphviz](https://gitlab.com/graphviz/graphviz)**: Graph Visualization Tools.
 - 🐹 **[fansmedalhelper](https://doc.loveava.top/)**: 新版B站粉丝牌助手 全自动升级粉丝牌.
 - 🐹 **[kulala.nvim](https://neovim.getkulala.net)**: A fully-featured 🤏 HTTP-client 🐼 interface 🖥️ for Neovim.
+- 🐹 **[cmd](https://github.com/containerd/containerd/issues/3731)**: Fast container image distribution plugin with lazy pulling.
 - 🐹 **[pghoard](http://aiven-open.github.io/pghoard/)**: PostgreSQL® backup and restore service.
 - 🐹 **[smoke](https://nydus.dev/)**: Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.
 - 🐹 **[nydus-overlayfs](https://nydus.dev/)**: Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.
@@ -787,6 +795,8 @@
 - 🐹 **[generator](https://formance.com)**: The programmable open source ledger for fintechs.
 - 🐹 **[zoekt](https://github.com/sourcegraph/zoekt)**: Fast trigram based code search.
 - 🐹 **[humanlayer-tui](https://humanlayer.dev)**: HumanLayer enables AI agents to communicate with humans in tool-based and async workflows.
+- 🐹 **[account-gen](https://jfa-go.com)**: A bit-of-everything user managament app for Jellyfin.
+- 🐹 **[ini](https://jfa-go.com)**: A bit-of-everything user managament app for Jellyfin.
 - 🐹 **[jfa-go](https://jfa-go.com)**: A bit-of-everything user managament app for Jellyfin.
 - 🐹 **[projects](https://cosmo-docs.wundergraph.com/)**: The open-source solution to building, maintaining, and collaborating on GraphQL Federation at Scale.
 - 🐹 **[gnofaucet](https://gno.land/)**: Gno: An interpreted, stack-based Go virtual machine to build succinct and composable apps + gno.
@@ -904,6 +914,7 @@
 - 🐹 **[kafka-to-elasticsearch](https://shortlink.best)**: Shortlink service (Microservice example) ⭐️ Star the repo if you like it.
 - 🐹 **[shortctl](https://shortlink.best)**: Shortlink service (Microservice example) ⭐️ Star the repo if you like it.
 - 🐹 **[value-object](https://shortlink.best)**: Shortlink service (Microservice example) ⭐️ Star the repo if you like it.
+- 🐹 **[etcd](https://microshift.io)**: A small form factor OpenShift/Kubernetes optimized for edge computing.
 - 🐹 **[kafka_pubsub](https://wundergraph.com)**: GraphQL Router / API Gateway framework written in Golang, focussing on correctness, extensibility, and high-performance.
 - 🐹 **[transactional_producer](https://wundergraph.com)**: GraphQL Router / API Gateway framework written in Golang, focussing on correctness, extensibility, and high-performance.
 - 🐹 **[prometheus](https://microshift.io)**: A small form factor OpenShift/Kubernetes optimized for edge computing.
