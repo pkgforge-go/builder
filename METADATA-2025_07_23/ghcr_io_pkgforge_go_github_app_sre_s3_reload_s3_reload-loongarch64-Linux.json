@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "s3-reload",
+  "pkg_family": "s3-reload",
+  "pkg_id": "s3-reload#github.com_app_sre_s3_reload",
+  "pkg_name": "s3-reload",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/app-sre/s3-reload",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Simple binary to trigger a reload when an object in an S3 bucket is updated",
+  "homepage": [
+    "https://github.com/app-sre/s3-reload"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "s3-reload"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/app-sre/s3-reload/@v/v0.0.0-20250722074823-322394c9cf5f.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250722074823-322394c9cf5f",
+  "version_upstream": "",
+  "bsum": "ebf00189a219732f2f02437bba3faaa1dd49272700de1f7453054a3af4fa8292",
+  "build_date": "2025-07-23T04:20:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16461306073",
+  "build_id": "16461306073",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/app-sre/s3-reload/s3-reload?tag=v0.0.0-20250722074823-322394c9cf5f-loongarch64-Linux&download=s3-reload.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/app-sre/s3-reload/s3-reload?tag=v0.0.0-20250722074823-322394c9cf5f-loongarch64-Linux&download=s3-reload",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/app-sre/s3-reload/s3-reload:v0.0.0-20250722074823-322394c9cf5f-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/app-sre/s3-reload/s3-reload",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/app-sre/s3-reload/s3-reload?tag=v0.0.0-20250722074823-322394c9cf5f-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "34cea65657824dca9a77832d8054fa5cf78743c3bc735fef56db59a77fcf0cec",
+  "size": "9.6 MB",
+  "size_raw": "10020352",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
