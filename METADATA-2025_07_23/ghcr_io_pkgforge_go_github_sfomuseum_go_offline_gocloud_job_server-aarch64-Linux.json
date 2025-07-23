@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "job-server",
+  "pkg_family": "go-offline-gocloud",
+  "pkg_id": "job-server#github.com_sfomuseum_go_offline_gocloud",
+  "pkg_name": "job-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sfomuseum/go-offline-gocloud",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go package implementing the sfomuseum/go-offline interfaces using the Go Cloud abstraction libraries",
+  "homepage": [
+    "https://github.com/sfomuseum/go-offline-gocloud"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "add-job",
+    "create-dynamodb-tables",
+    "get-job",
+    "job-server",
+    "remove-job",
+    "schedule-job"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sfomuseum/go-offline-gocloud/@v/v0.3.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.3.1",
+  "version_upstream": "",
+  "bsum": "6967861ca6f038797423a4fabc373f8c42754d999f26eab7b3eca2c9d6ac700e",
+  "build_date": "2025-07-23T05:01:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16461425361",
+  "build_id": "16461425361",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sfomuseum/go-offline-gocloud/job-server?tag=v0.3.1-aarch64-Linux&download=job-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sfomuseum/go-offline-gocloud/job-server?tag=v0.3.1-aarch64-Linux&download=job-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sfomuseum/go-offline-gocloud/job-server:v0.3.1-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sfomuseum/go-offline-gocloud/job-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sfomuseum/go-offline-gocloud/job-server?tag=v0.3.1-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "48634f862e9e074365115896d226bcf5e0cc05d1de403e2f999b72bf45a43c5d",
+  "size": "42 MB",
+  "size_raw": "43692864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "create-dynamodb-tables",
+  "pkg_family": "go-offline-gocloud",
+  "pkg_id": "create-dynamodb-tables#github.com_sfomuseum_go_offline_gocloud",
+  "pkg_name": "create-dynamodb-tables",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sfomuseum/go-offline-gocloud",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go package implementing the sfomuseum/go-offline interfaces using the Go Cloud abstraction libraries",
+  "homepage": [
+    "https://github.com/sfomuseum/go-offline-gocloud"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "add-job",
+    "create-dynamodb-tables",
+    "get-job",
+    "job-server",
+    "remove-job",
+    "schedule-job"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sfomuseum/go-offline-gocloud/@v/v0.3.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.3.1",
+  "version_upstream": "",
+  "bsum": "8e291b78c021dbcf4703b40ff9656688565d905e4c43c61ec6b46f6e00c09c92",
+  "build_date": "2025-07-23T05:01:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16461425361",
+  "build_id": "16461425361",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sfomuseum/go-offline-gocloud/create-dynamodb-tables?tag=v0.3.1-aarch64-Linux&download=create-dynamodb-tables.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sfomuseum/go-offline-gocloud/create-dynamodb-tables?tag=v0.3.1-aarch64-Linux&download=create-dynamodb-tables",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sfomuseum/go-offline-gocloud/create-dynamodb-tables:v0.3.1-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sfomuseum/go-offline-gocloud/create-dynamodb-tables",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sfomuseum/go-offline-gocloud/create-dynamodb-tables?tag=v0.3.1-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6386f7772cbd62cbfb025500eb07e12223a49a5c82ea33ce6381fe8707e735da",
+  "size": "13 MB",
+  "size_raw": "12682624",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
