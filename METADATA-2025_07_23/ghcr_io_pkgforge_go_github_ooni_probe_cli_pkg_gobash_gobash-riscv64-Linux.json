@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gobash",
+  "pkg_family": "gobash",
+  "pkg_id": "gobash#github.com_ooni_probe_cli_pkg_gobash",
+  "pkg_name": "gobash",
+  "pkg_type": "static",
+  "pkg_webpage": "https://ooni.org/install",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OONI Probe Engine and CLI",
+  "homepage": [
+    "https://ooni.org/install"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gobash"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/ooni/probe-cli/pkg/gobash/@v/v0.0.0-20250701091342-b68cb8bd8b34.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250701091342-b68cb8bd8b34",
+  "version_upstream": "",
+  "bsum": "d66e8201945d8483d6c0d121a8a5ecd1b4e9e40e95286a0446183b0a52653a1f",
+  "build_date": "2025-07-23T04:49:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16461391961",
+  "build_id": "16461391961",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ooni/probe-cli/pkg/gobash/gobash?tag=v0.0.0-20250701091342-b68cb8bd8b34-riscv64-Linux&download=gobash.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "256",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ooni/probe-cli/pkg/gobash/gobash?tag=v0.0.0-20250701091342-b68cb8bd8b34-riscv64-Linux&download=gobash",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ooni/probe-cli/pkg/gobash/gobash:v0.0.0-20250701091342-b68cb8bd8b34-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ooni/probe-cli/pkg/gobash/gobash",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ooni/probe-cli/pkg/gobash/gobash?tag=v0.0.0-20250701091342-b68cb8bd8b34-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a17c5689a165102761c6783da75ad6223ff437e00b68e74b0c419deb97403630",
+  "size": "5.9 MB",
+  "size_raw": "6156472",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
