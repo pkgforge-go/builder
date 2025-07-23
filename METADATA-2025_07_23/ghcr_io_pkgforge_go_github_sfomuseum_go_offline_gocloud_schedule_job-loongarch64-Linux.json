@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "schedule-job",
+  "pkg_family": "go-offline-gocloud",
+  "pkg_id": "schedule-job#github.com_sfomuseum_go_offline_gocloud",
+  "pkg_name": "schedule-job",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sfomuseum/go-offline-gocloud",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go package implementing the sfomuseum/go-offline interfaces using the Go Cloud abstraction libraries",
+  "homepage": [
+    "https://github.com/sfomuseum/go-offline-gocloud"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "add-job",
+    "create-dynamodb-tables",
+    "get-job",
+    "job-server",
+    "remove-job",
+    "schedule-job"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sfomuseum/go-offline-gocloud/@v/v0.3.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.3.1",
+  "version_upstream": "",
+  "bsum": "a5139459d282d8cdf41ef2259dc4a6f929a0c4941ce224cf508c0c70d0e3da82",
+  "build_date": "2025-07-23T04:59:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16461425361",
+  "build_id": "16461425361",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sfomuseum/go-offline-gocloud/schedule-job?tag=v0.3.1-loongarch64-Linux&download=schedule-job.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sfomuseum/go-offline-gocloud/schedule-job?tag=v0.3.1-loongarch64-Linux&download=schedule-job",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sfomuseum/go-offline-gocloud/schedule-job:v0.3.1-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sfomuseum/go-offline-gocloud/schedule-job",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sfomuseum/go-offline-gocloud/schedule-job?tag=v0.3.1-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "794df954b265c6d51a6ede5f54fe28dc4724e4cd63acfbdd2230c12a079d57b8",
+  "size": "30 MB",
+  "size_raw": "30620032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

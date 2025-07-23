@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "remove-job",
+  "pkg_family": "go-offline-gocloud",
+  "pkg_id": "remove-job#github.com_sfomuseum_go_offline_gocloud",
+  "pkg_name": "remove-job",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sfomuseum/go-offline-gocloud",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go package implementing the sfomuseum/go-offline interfaces using the Go Cloud abstraction libraries",
+  "homepage": [
+    "https://github.com/sfomuseum/go-offline-gocloud"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "add-job",
+    "create-dynamodb-tables",
+    "get-job",
+    "job-server",
+    "remove-job",
+    "schedule-job"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sfomuseum/go-offline-gocloud/@v/v0.3.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.3.1",
+  "version_upstream": "",
+  "bsum": "9c7053d4d0ea2e52f667561f4b1ef4499682fcea0062761a12059c73961752d4",
+  "build_date": "2025-07-23T05:00:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16461425361",
+  "build_id": "16461425361",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sfomuseum/go-offline-gocloud/remove-job?tag=v0.3.1-loongarch64-Linux&download=remove-job.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sfomuseum/go-offline-gocloud/remove-job?tag=v0.3.1-loongarch64-Linux&download=remove-job",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sfomuseum/go-offline-gocloud/remove-job:v0.3.1-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sfomuseum/go-offline-gocloud/remove-job",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sfomuseum/go-offline-gocloud/remove-job?tag=v0.3.1-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ed89e340d124ba3ef138eb840a64c2a53013ff57a0d3da0ffc4a56fb152ab0ee",
+  "size": "30 MB",
+  "size_raw": "30610400",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
