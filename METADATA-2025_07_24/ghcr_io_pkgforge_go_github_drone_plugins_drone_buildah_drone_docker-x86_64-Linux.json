@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "drone-docker",
+  "pkg_family": "drone-buildah",
+  "pkg_id": "drone-docker#github.com_drone_plugins_drone_buildah",
+  "pkg_name": "drone-docker",
+  "pkg_type": "static",
+  "pkg_webpage": "http://plugins.drone.io/drone-plugins/drone-buildah",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Drone plugin for publishing Docker images via buildah tool",
+  "homepage": [
+    "http://plugins.drone.io/drone-plugins/drone-buildah"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "drone-acr",
+    "drone-docker",
+    "drone-ecr",
+    "drone-gcr",
+    "drone-heroku"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/drone-plugins/drone-buildah/@v/v1.2.2-debug.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.2.2-debug",
+  "version_upstream": "",
+  "bsum": "b0d0ea16deb4a2daf99a943c5e9b5bc690d52e6b2c4b518ecd71ba847a01704a",
+  "build_date": "2025-07-24T07:01:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16489725488",
+  "build_id": "16489725488",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drone-plugins/drone-buildah/drone-docker?tag=v1.2.2-debug-x86_64-Linux&download=drone-docker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drone-plugins/drone-buildah/drone-docker?tag=v1.2.2-debug-x86_64-Linux&download=drone-docker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/drone-plugins/drone-buildah/drone-docker:v1.2.2-debug-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/drone-plugins/drone-buildah/drone-docker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drone-plugins/drone-buildah/drone-docker?tag=v1.2.2-debug-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d1ee59c1c13ebbfa646ecc0167708fa8da0553fc2f4a6ee4d2867cabb2168d0d",
+  "size": "4.2 MB",
+  "size_raw": "4315432",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
