@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "drone-acr",
+  "pkg_family": "drone-buildah",
+  "pkg_id": "drone-acr#github.com_drone_plugins_drone_buildah",
+  "pkg_name": "drone-acr",
+  "pkg_type": "static",
+  "pkg_webpage": "http://plugins.drone.io/drone-plugins/drone-buildah",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Drone plugin for publishing Docker images via buildah tool",
+  "homepage": [
+    "http://plugins.drone.io/drone-plugins/drone-buildah"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "drone-acr",
+    "drone-ecr",
+    "drone-gcr",
+    "drone-heroku"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/drone-plugins/drone-buildah/@v/v1.2.2-debug.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.2.2-debug",
+  "version_upstream": "",
+  "bsum": "b9639c12dbac01bb052c6f1599563a83056dff8b8fa27d55394f272e5172b1ed",
+  "build_date": "2025-07-24T06:58:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16489725488",
+  "build_id": "16489725488",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drone-plugins/drone-buildah/drone-acr?tag=v1.2.2-debug-riscv64-Linux&download=drone-acr.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drone-plugins/drone-buildah/drone-acr?tag=v1.2.2-debug-riscv64-Linux&download=drone-acr",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/drone-plugins/drone-buildah/drone-acr:v1.2.2-debug-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/drone-plugins/drone-buildah/drone-acr",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/drone-plugins/drone-buildah/drone-acr?tag=v1.2.2-debug-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f712019ff7f2c0d92716c527f81e853daf6de6023bd814355728e36586ed6af1",
+  "size": "2.1 MB",
+  "size_raw": "2191784",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
