@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "batch-sqs",
+  "pkg_family": "sqs-to-sns",
+  "pkg_id": "batch-sqs#github.com_udhos_sqs_to_sns",
+  "pkg_name": "batch-sqs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/udhos/sqs-to-sns",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Sqs-to-sns is an utility written in Go to forward messages from AWS SQS Queues to AWS SNS Topics",
+  "homepage": [
+    "https://github.com/udhos/sqs-to-sns"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "batch-sqs",
+    "sqs-to-sns"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/udhos/sqs-to-sns/@v/v1.15.4.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.15.4",
+  "version_upstream": "",
+  "bsum": "491a85d477486f11be0f4cf9bfd4fb2761aa8a57522d749a28439fdd091ea8ea",
+  "build_date": "2025-07-24T07:33:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16490007939",
+  "build_id": "16490007939",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/udhos/sqs-to-sns/batch-sqs?tag=v1.15.4-riscv64-Linux&download=batch-sqs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/udhos/sqs-to-sns/batch-sqs?tag=v1.15.4-riscv64-Linux&download=batch-sqs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/udhos/sqs-to-sns/batch-sqs:v1.15.4-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/udhos/sqs-to-sns/batch-sqs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/udhos/sqs-to-sns/batch-sqs?tag=v1.15.4-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "da748d4ea62b57ca16593d4b0debfb681ded1ab5e3fb41130874419537b10f95",
+  "size": "17 MB",
+  "size_raw": "17532344",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
