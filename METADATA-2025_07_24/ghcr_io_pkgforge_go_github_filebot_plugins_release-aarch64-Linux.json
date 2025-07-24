@@ -23,15 +23,14 @@
     "pkgforge-go (https://github.com/pkgforge-go/builder)"
   ],
   "provides": [
-    "changed-plugins",
-    "dependency-order",
-    "dockerbuild",
-    "dockerpush",
-    "download-plugins",
-    "fetcher",
-    "latest-plugins",
+    "build-archive",
+    "build-plugins",
+    "cue-publish",
+    "lint-plugins",
+    "npm-publish",
     "release",
-    "restore-release"
+    "tidy-modules",
+    "upload-archive"
   ],
   "note": [
     "[EXTERNAL] (This is an Official but externally maintained repository)",
@@ -40,17 +39,17 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://proxy.golang.org/github.com/bufbuild/plugins/@v/v0.0.0-20250723141000-32aab6e4892e.zip"
+    "https://proxy.golang.org/github.com/perses/plugins/@v/v0.0.0-20250723134025-619230768167.zip"
   ],
   "tag": [
     "Utility"
   ],
   "version": "v0.0.0-20250705105050-819df334887c",
   "version_upstream": "",
-  "bsum": "b260d2a6c9e85db10e1b14b2fe2605c54671edb185a612dbf1f94a8a8273e34c",
-  "build_date": "2025-07-24T06:50:50Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16489723235",
-  "build_id": "16489723235",
+  "bsum": "493061b5c3446a8c470aee6c9dbd6c42fae4299ede01af9c9eea43267045d9c8",
+  "build_date": "2025-07-24T10:32:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16493455792",
+  "build_id": "16493455792",
   "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filebot/plugins/release?tag=v0.0.0-20250705105050-819df334887c-aarch64-Linux&download=release.log",
   "deprecated": "false",
   "desktop_integration": "false",
@@ -63,9 +62,9 @@
   "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filebot/plugins/release?tag=v0.0.0-20250705105050-819df334887c-aarch64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "acd916d7c7050e8b4b1e2add425491fb7b7c3643c2a4e795e35d03b8ddd99073",
-  "size": "7.9 MB",
-  "size_raw": "8181600",
+  "shasum": "21f5ad9b67a23c02c2d622b3edcba63666e8f20c89656db7c318787985a52e28",
+  "size": "2.4 MB",
+  "size_raw": "2475288",
   "soar_syms": "false",
   "snapshots": [
     "v0.0.0-20250705105050-819df334887c-aarch64-Linux"
