@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "easyrest",
+  "pkg_id": "server#github.com_onegreyonewhite_easyrest",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/onegreyonewhite/easyrest/wiki",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "EasyREST is a lightweight, extensible REST service that provides a unified API for performing CRUD and aggregating queries on relational databases",
+  "homepage": [
+    "https://github.com/onegreyonewhite/easyrest/wiki"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth-awssigv4",
+    "auth-jwt",
+    "auth-oidc",
+    "gateway",
+    "plugin-memcached",
+    "plugin-mysql",
+    "plugin-postgres",
+    "plugin-redis",
+    "plugin-sqlite",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/onegreyonewhite/easyrest/@v/v0.13.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.13.1",
+  "version_upstream": "",
+  "bsum": "ce840ffb896a264a4a1fd29181d0581b52c6569cacffd221b65e08f1e34f174e",
+  "build_date": "2025-07-24T10:31:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16493441029",
+  "build_id": "16493441029",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onegreyonewhite/easyrest/server?tag=v0.13.1-x86_64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onegreyonewhite/easyrest/server?tag=v0.13.1-x86_64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/onegreyonewhite/easyrest/server:v0.13.1-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/onegreyonewhite/easyrest/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onegreyonewhite/easyrest/server?tag=v0.13.1-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "aa1b2e3aa6d5b17726c832c8b7debeda063e05e8ec474acc84e546da529b1e3b",
+  "size": "33 MB",
+  "size_raw": "34459472",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.13.0-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
