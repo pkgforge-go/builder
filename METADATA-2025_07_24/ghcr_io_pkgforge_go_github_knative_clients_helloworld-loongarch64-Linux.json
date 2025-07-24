@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "helloworld",
+  "pkg_family": "clients",
+  "pkg_id": "helloworld#github.com_knative_clients",
+  "pkg_name": "helloworld",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/knative/clients",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Knative developer experience, docs, reference Knative CLI implementation",
+  "homepage": [
+    "https://github.com/knative/clients"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "helloworld"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/knative/clients/@v/v0.46.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.46.0",
+  "version_upstream": "",
+  "bsum": "f6e8a53d0ef5120eead1df9dbc403993d3c573a44ce66c9f484e08c4357f837b",
+  "build_date": "2025-07-24T07:10:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16489780666",
+  "build_id": "16489780666",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative/clients/helloworld?tag=v0.46.0-loongarch64-Linux&download=helloworld.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "362",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative/clients/helloworld?tag=v0.46.0-loongarch64-Linux&download=helloworld",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/knative/clients/helloworld:v0.46.0-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/knative/clients/helloworld",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/knative/clients/helloworld?tag=v0.46.0-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7bc3405fcb179489c3ab56096f668ce5d85d213c9f5109de2675096bdb87bc1f",
+  "size": "5.6 MB",
+  "size_raw": "5864352",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
