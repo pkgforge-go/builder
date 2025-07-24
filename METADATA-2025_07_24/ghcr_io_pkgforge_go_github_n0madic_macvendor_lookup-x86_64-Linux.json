@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "lookup",
+  "pkg_family": "macvendor",
+  "pkg_id": "lookup#github.com_n0madic_macvendor",
+  "pkg_name": "lookup",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/n0madic/macvendor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library with embedded DB for getting MAC address vendor information",
+  "homepage": [
+    "https://github.com/n0madic/macvendor"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "generatedb",
+    "lookup"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/n0madic/macvendor/@v/v0.0.0-20250723051347-8db6155437c1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250723051347-8db6155437c1",
+  "version_upstream": "",
+  "bsum": "02fbdbc9b861261efd809369c95f1d851c89d74926723e55e5ddc778e0bdf0d7",
+  "build_date": "2025-07-24T10:25:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16493438850",
+  "build_id": "16493438850",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/n0madic/macvendor/lookup?tag=v0.0.0-20250723051347-8db6155437c1-x86_64-Linux&download=lookup.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/n0madic/macvendor/lookup?tag=v0.0.0-20250723051347-8db6155437c1-x86_64-Linux&download=lookup",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/n0madic/macvendor/lookup:v0.0.0-20250723051347-8db6155437c1-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/n0madic/macvendor/lookup",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/n0madic/macvendor/lookup?tag=v0.0.0-20250723051347-8db6155437c1-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6abf00738564f5caf57913051a031f48591da5818568bb319ca3b1d6e2f7363f",
+  "size": "3.9 MB",
+  "size_raw": "4025440",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-2586286-250621T050804-x86_64-Linux",
+    "HEAD-5dd24f3-250628T050811-x86_64-Linux",
+    "v0.0.0-20250628050811-5dd24f328ab8-x86_64-Linux",
+    "v0.0.0-20250703051059-aa0ad4558455-x86_64-Linux",
+    "v0.0.0-20250704051010-2d50526a3e6f-x86_64-Linux",
+    "v0.0.0-20250715051145-af7c8f2a0bfa-x86_64-Linux",
+    "v0.0.0-20250716051225-65c30041cb95-x86_64-Linux",
+    "v0.0.0-20250720051205-da998a34298a-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
