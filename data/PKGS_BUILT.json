@@ -33257,7 +33257,7 @@
     "version": "HEAD-4e02654-250621T030422"
   },
   {
-    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus.",
+    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus",
     "name": "auth-injector",
     "pkg_id": "auth-injector#github.com_cortexproject_cortex",
     "targets": [
@@ -33266,8 +33266,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-27",
-    "version": "HEAD-16a2f54-250626T172806"
+    "updated_at": "2025-07-25",
+    "version": "v0.0.0-20250723172404-328bc3ba71a7"
   },
   {
     "description": "EasyREST is a lightweight, extensible REST service that provides a unified API for performing CRUD and aggregating queries on relational databases",
@@ -77253,7 +77253,7 @@
     "version": "HEAD-e535ec6-250620T161749"
   },
   {
-    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus.",
+    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus",
     "name": "cortex",
     "pkg_id": "cortex#github.com_cortexproject_cortex",
     "targets": [
@@ -77262,8 +77262,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-27",
-    "version": "HEAD-16a2f54-250626T172806"
+    "updated_at": "2025-07-25",
+    "version": "v0.0.0-20250723172404-328bc3ba71a7"
   },
   {
     "description": "Collection of controllers to align your monitoring stack with multi-tenancy",
@@ -97582,7 +97582,7 @@
     "version": "HEAD-2570bed-250625T005629"
   },
   {
-    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus.",
+    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus",
     "name": "doc-generator",
     "pkg_id": "doc-generator#github.com_cortexproject_cortex",
     "targets": [
@@ -97591,8 +97591,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-27",
-    "version": "HEAD-16a2f54-250626T172806"
+    "updated_at": "2025-07-25",
+    "version": "v0.0.0-20250723172404-328bc3ba71a7"
   },
   {
     "description": "Continuous Profiling Platform. Debug performance issues down to a single line of code",
@@ -250393,7 +250393,7 @@
     "version": "HEAD-64813bd-250623T164008"
   },
   {
-    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus.",
+    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus",
     "name": "query-audit",
     "pkg_id": "query-audit#github.com_cortexproject_cortex",
     "targets": [
@@ -250402,8 +250402,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-27",
-    "version": "HEAD-16a2f54-250626T172806"
+    "updated_at": "2025-07-25",
+    "version": "v0.0.0-20250723172404-328bc3ba71a7"
   },
   {
     "description": "Misc go scripts",
@@ -250471,7 +250471,7 @@
     "version": "v0.0.0-20250515184758-cdb6789413a5"
   },
   {
-    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus.",
+    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus",
     "name": "query-tee",
     "pkg_id": "query-tee#github.com_cortexproject_cortex",
     "targets": [
@@ -250480,8 +250480,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-27",
-    "version": "HEAD-16a2f54-250626T172806"
+    "updated_at": "2025-07-25",
+    "version": "v0.0.0-20250723172404-328bc3ba71a7"
   },
   {
     "description": "Stuff that_s missing in Go stdlib, or hasn_t made it into its own repo.",
@@ -263732,6 +263732,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-fe262dc-250618T194249"
+  },
+  {
+    "description": "Execution API test generator",
+    "name": "rpctestgen",
+    "pkg_id": "rpctestgen#github.com_acolytec3_rpctestgen",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-25",
+    "version": "v0.0.0-20250724185241-5fcf8d6d5c01"
   },
   {
     "description": "Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it_s better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱! build for cloud!",
@@ -286437,6 +286450,19 @@
     "version": "HEAD-93f0bf4-250415T160741"
   },
   {
+    "description": "Execution API test generator",
+    "name": "speccheck",
+    "pkg_id": "speccheck#github.com_acolytec3_rpctestgen",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-25",
+    "version": "v0.0.0-20250724185241-5fcf8d6d5c01"
+  },
+  {
     "description": "Hazelcast Go Client",
     "name": "specific",
     "pkg_id": "specific#github.com_hazelcast_hazelcast_go_client",
@@ -305361,7 +305387,7 @@
     "version": "HEAD-3e0580f-250619T184958"
   },
   {
-    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus.",
+    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus",
     "name": "test-exporter",
     "pkg_id": "test-exporter#github.com_cortexproject_cortex",
     "targets": [
@@ -305370,8 +305396,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-27",
-    "version": "HEAD-16a2f54-250626T172806"
+    "updated_at": "2025-07-25",
+    "version": "v0.0.0-20250723172404-328bc3ba71a7"
   },
   {
     "description": "Test go",
@@ -308594,7 +308620,7 @@
     "version": "HEAD-24c5fdf-250623T093339"
   },
   {
-    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus.",
+    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus",
     "name": "thanosconvert",
     "pkg_id": "thanosconvert#github.com_cortexproject_cortex",
     "targets": [
@@ -308603,8 +308629,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-27",
-    "version": "HEAD-16a2f54-250626T172806"
+    "updated_at": "2025-07-25",
+    "version": "v0.0.0-20250723172404-328bc3ba71a7"
   },
   {
     "description": "Like The Super Tiny Compiler, but in Go",
@@ -332819,7 +332845,7 @@
     "version": "v0.0.0-20250703230948-bfec8c8a9d35"
   },
   {
-    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus.",
+    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus",
     "name": "website",
     "pkg_id": "website#github.com_cortexproject_cortex",
     "targets": [
@@ -332828,8 +332854,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-27",
-    "version": "HEAD-16a2f54-250626T172806"
+    "updated_at": "2025-07-25",
+    "version": "v0.0.0-20250723172404-328bc3ba71a7"
   },
   {
     "description": "The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go",
