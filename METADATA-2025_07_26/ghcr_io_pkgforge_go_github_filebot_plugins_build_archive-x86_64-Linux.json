@@ -26,6 +26,7 @@
     "build-archive",
     "build-plugins",
     "cue-publish",
+    "golangci-lint",
     "lint-plugins",
     "npm-publish",
     "release",
@@ -39,17 +40,17 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://proxy.golang.org/github.com/perses/plugins/@v/v0.0.0-20250723134025-619230768167.zip"
+    "https://proxy.golang.org/github.com/perses/plugins/@v/v0.0.0-20250725162510-beaa74d1e02c.zip"
   ],
   "tag": [
     "Utility"
   ],
   "version": "v0.0.0-20250705105050-819df334887c",
   "version_upstream": "",
-  "bsum": "adf5811e567fcbf0b70c055489536863265304e4dd144d1b0a2b5e20a6f9a66c",
-  "build_date": "2025-07-26T02:28:24Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16534914317",
-  "build_id": "16534914317",
+  "bsum": "382db6df1386c7ade555fa1105d8029b46468eccc8784e4fa36a07f2957b5509",
+  "build_date": "2025-07-26T07:27:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16537163535",
+  "build_id": "16537163535",
   "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filebot/plugins/build-archive?tag=v0.0.0-20250705105050-819df334887c-x86_64-Linux&download=build-archive.log",
   "deprecated": "false",
   "desktop_integration": "false",
@@ -62,9 +63,9 @@
   "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filebot/plugins/build-archive?tag=v0.0.0-20250705105050-819df334887c-x86_64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "cc73c21f3a00b71c32546b55568389836f49c38836e11e1ad779ea853d39af1b",
+  "shasum": "5d44f82804775395aefdaa0dee2b6d4df1da9f558f43b6450f437c1d56ad1e58",
   "size": "2.4 MB",
-  "size_raw": "2491512",
+  "size_raw": "2491128",
   "soar_syms": "false",
   "snapshots": [
     "v0.0.0-20250705105050-819df334887c-x86_64-Linux"
