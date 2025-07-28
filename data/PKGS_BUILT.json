@@ -37009,7 +37009,9 @@
     "pkg_id": "bakfinder#github.com_srpatoman_bakfinder",
     "targets": [
       "aarch64-Linux",
-      "riscv64-Linux"
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-07-28",
     "version": "v1.0.4"
@@ -77318,6 +77320,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-9ef2337-250620T140615"
+  },
+  {
+    "description": "A simple proxy that lets you use GitHub Copilot Chat with OpenAI-compatible tools",
+    "name": "copilot-proxy",
+    "pkg_id": "copilot-proxy#github.com_thisago_copilot_proxy",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-28",
+    "version": "v0.0.0-20250518183710-77c658f1a831"
   },
   {
     "description": "Repo for Machine Coding Round Interview's Problems and their Solutions",
@@ -158405,6 +158420,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-9e385f7-250109T090611"
+  },
+  {
+    "description": "A Go package to make colorful gradiant terminal output",
+    "name": "gradify",
+    "pkg_id": "gradify#github.com_yourpov_gradify",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-28",
+    "version": "v0.0.0-20250727031036-d3068908e7d0"
   },
   {
     "description": "A collection of little snippets of programs I write when I test out ideas. A code _playground_.",
@@ -287592,6 +287620,16 @@
     ],
     "updated_at": "2025-07-19",
     "version": "v0.9.0"
+  },
+  {
+    "description": "Implement smem python package",
+    "name": "smem",
+    "pkg_id": "smem#gitlab.com_gopkg_org_smem",
+    "targets": [
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-28",
+    "version": "v0.5.0"
   },
   {
     "description": "No Description Provided",
