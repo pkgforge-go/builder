@@ -1320,6 +1320,7 @@
 - 🐹 **[gorm.io](https://gorm.io)**: GORM official site.
 - 🐹 **[iptables-tracer](https://github.com/x-way/iptables-tracer)**: Insert trace-points into the running configuration to observe the path of packets through the iptables chains.
 - 🐹 **[go-instrument](https://github.com/nikolaydubina/go-instrument)**: Automatically add Trace Spans to Go functions.
+- 🐹 **[terraform-provider-routeros](https://github.com/terraform-routeros/terraform-provider-routeros)**: Terraform Provider for Mikrotik RouterOS.
 - 🐹 **[cshatag](https://github.com/rfjakob/cshatag)**: Detect silent data corruption under Linux using sha256 stored in extended attributes.
 - 🐹 **[imgcat](https://github.com/danielgatis/imgcat)**: Display images and gifs in your terminal.
 - 🐹 **[dev-deployment-upload-service](https://github.com/apache/incubator-kie-tools)**: Tools for KIE.
@@ -2233,6 +2234,7 @@
 - 🐹 **[terraform-provider-aquasec](https://github.com/aquasecurity/terraform-provider-aquasec)**: The Aqua Security Provider for Terraform allows you to declaratively define the configuration of your Aqua platform.
 - 🐹 **[yellowsocks](https://github.com/esrrhs/yellowsocks)**: Transparent TCP to SOCKS5 redirector.
 - 🐹 **[aigit](https://github.com/zzxwill/aigit)**: The most powerful git commit assistant ever! aigit commit is as simple as git commit.
+- 🐹 **[bcdhub](https://better-call.dev)**: Better Call Dev backend.
 - 🐹 **[bosh-s3cli](https://github.com/cloudfoundry/bosh-s3cli)**: Go CLI for S3.
 - 🐹 **[c2pe](https://github.com/sneakerhax/c2pe)**: Red Team C2 and Post Exploitation code.
 - 🐹 **[cf-tools](https://github.com/compassvpn/cf-tools)**: Cloudflare Tools.
