@@ -19667,6 +19667,19 @@
     "version": "HEAD-357f597-250618T170413"
   },
   {
+    "description": "Go based extra tools for shell scripting",
+    "name": "achelper",
+    "pkg_id": "achelper#github.com_jvzantvoort_gextend_bash",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250722194037-40817f9f39c3"
+  },
+  {
     "description": "Payment gateway enabling automated ACH operations in a distributed and fault tolerant way.",
     "name": "achgateway",
     "pkg_id": "achgateway#github.com_moov_io_achgateway",
@@ -23954,6 +23967,19 @@
     "version": "HEAD-abb63d2-250625T105044"
   },
   {
+    "description": "Open source vulnerability DB and triage service",
+    "name": "alpine",
+    "pkg_id": "alpine#github.com_google_osv.dev_vulnfeeds",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250729032556-a179a8e75062"
+  },
+  {
     "description": "Fast and customizable subdomain wordlist generator using DSL",
     "name": "alterx",
     "pkg_id": "alterx#github.com_projectdiscovery_alterx",
@@ -26661,7 +26687,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-16",
+    "updated_at": "2025-07-30",
     "version": "v1.0.3"
   },
   {
@@ -32141,6 +32167,19 @@
     "version": "HEAD-8a5101f-250623T213305"
   },
   {
+    "description": "Remediate SAST results using AI",
+    "name": "ast-ai-prompts",
+    "pkg_id": "ast-ai-prompts#github.com_checkmarxdev_ast_ai_prompts",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250511144039-57b3766374bd"
+  },
+  {
     "description": "A CLI project wrapping application security testing _AST_ APIs",
     "name": "ast-cli",
     "pkg_id": "ast-cli#github.com_Checkmarx_ast_cli",
@@ -37336,6 +37375,19 @@
     "version": "HEAD-4f67c90-250625T180503"
   },
   {
+    "description": "带宽消耗下行流量",
+    "name": "bandwidth_burner",
+    "pkg_id": "bandwidth_burner#github.com_beck_8_bandwidth_burner",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.2"
+  },
+  {
     "description": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
     "name": "bandwidth_gen",
     "pkg_id": "bandwidth_gen#github.com_aws_karpenter_provider_aws",
@@ -39184,6 +39236,19 @@
     ],
     "updated_at": "2025-07-26",
     "version": "v0.0.0-20250723222354-beacf4ce342e"
+  },
+  {
+    "description": "Sensor sampling software for the ORCA Buoy Controller",
+    "name": "battmon",
+    "pkg_id": "battmon#bitbucket.org_uwaploe_orca_sample",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.6.1"
   },
   {
     "description": "A demo of using Tilt to run an application with Linkerd on your local machine",
@@ -41567,6 +41632,19 @@
     ],
     "updated_at": "2025-06-25",
     "version": "HEAD-38ed13a-250625T185928"
+  },
+  {
+    "description": "Batch withdraw from Binance",
+    "name": "binance_withdraw",
+    "pkg_id": "binance_withdraw#github.com_flashydepre_binance_withdraw",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250522082509-c49bbba1f48d"
   },
   {
     "description": "Go toolset for the VPP.",
@@ -48054,7 +48132,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-24",
+    "updated_at": "2025-07-30",
     "version": "v0.2.6"
   },
   {
@@ -50701,6 +50779,19 @@
     "version": "HEAD-568c0e2-250628T221300"
   },
   {
+    "description": "A CLI tool to convert text to different cases (camelCase, PascalCase, snake_case, kebab-case, etc",
+    "name": "caseconv",
+    "pkg_id": "caseconv#github.com_danielmesquitta_caseconv",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.1"
+  },
+  {
     "description": "Microservice Online Judge based on Go-Kratos",
     "name": "cases",
     "pkg_id": "cases#github.com_NJUPT_SAST_sastoj",
@@ -51448,6 +51539,16 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.0.0-20250516095408-3dbd9199c813"
+  },
+  {
+    "description": "Live demo apps of several project",
+    "name": "cbytecache",
+    "pkg_id": "cbytecache#github.com_koykov_demo_cbytecache",
+    "targets": [
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250712120835-d3d53798b751"
   },
   {
     "description": "LLVM-based compiler for Go",
@@ -55217,7 +55318,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-29",
+    "updated_at": "2025-07-30",
     "version": "v0.0.0-20250728171042-7f0f4a24fad0"
   },
   {
@@ -57391,6 +57492,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-764f374-250619T112314"
+  },
+  {
+    "description": "A resource for triggering on an interval",
+    "name": "check",
+    "pkg_id": "check#github.com_concourse_time_resource",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v1.10.0"
   },
   {
     "description": "BuildKit Syft scanner",
@@ -60464,6 +60578,19 @@
     "version": "HEAD-8ffb11b-250627T090123"
   },
   {
+    "description": "A command-line GMail emailer written in Go",
+    "name": "classsic",
+    "pkg_id": "classsic#github.com_jimlawless_gsend",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250712142512-6c0dfad18786"
+  },
+  {
     "description": "Claude Code bridge to ntfy.sh",
     "name": "claude-code-ntfy",
     "pkg_id": "claude-code-ntfy#github.com_Veraticus_claude_code_ntfy",
@@ -63325,6 +63452,19 @@
     ],
     "updated_at": "2025-06-24",
     "version": "HEAD-17b370e-250623T181531"
+  },
+  {
+    "description": "Golang code pieces",
+    "name": "client",
+    "pkg_id": "client#github.com_fooofei_go_pieces_tools_sshttp",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250723122347-43f9031c2905"
   },
   {
     "description": "An etcd operator to configure, provision, reconcile and monitor etcd clusters.",
@@ -70431,6 +70571,19 @@
     "version": "v0.0.0-20250717181037-7544a40bf008"
   },
   {
+    "description": "Fast COBOL code analysis and reporting (Rust + Go",
+    "name": "codesleuth",
+    "pkg_id": "codesleuth#github.com_cod_e_codes_codesleuth",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250704134454-8710ed7437d6"
+  },
+  {
     "description": "Codex Mirror for Formosa & Pescadores",
     "name": "codex-mirror",
     "pkg_id": "codex-mirror#github.com_iunn_sh_codex_mirror",
@@ -71278,6 +71431,19 @@
     ],
     "updated_at": "2025-06-27",
     "version": "HEAD-94a798f-250626T165643"
+  },
+  {
+    "description": "Open source vulnerability DB and triage service",
+    "name": "combine-to-osv",
+    "pkg_id": "combine-to-osv#github.com_google_osv.dev_vulnfeeds",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250729032556-a179a8e75062"
   },
   {
     "description": "No Description Provided",
@@ -73511,6 +73677,19 @@
     ],
     "updated_at": "2025-07-17",
     "version": "v0.3.4"
+  },
+  {
+    "description": "Operator to deploy confidential containers runtime",
+    "name": "confidential-containers-operator",
+    "pkg_id": "confidential-containers-operator#github.com_confidential_containers_confidential_containers_operator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.15.0"
   },
   {
     "description": "ADX-Mon - Azure Data Explorer based observability platform",
@@ -79293,6 +79472,19 @@
     "version": "HEAD-3c2163e-250624T125110"
   },
   {
+    "description": "Open source vulnerability DB and triage service",
+    "name": "cpe-repo-gen",
+    "pkg_id": "cpe-repo-gen#github.com_google_osv.dev_vulnfeeds",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250729032556-a179a8e75062"
+  },
+  {
     "description": "Unvariance collector: a Kubernetes-native collector for monitoring memory subsystem interference between pods",
     "name": "cpi-count",
     "pkg_id": "cpi-count#github.com_unvariance_collector",
@@ -79340,6 +79532,19 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.1.4"
+  },
+  {
+    "description": "Go based extra tools for shell scripting",
+    "name": "cprint",
+    "pkg_id": "cprint#github.com_jvzantvoort_gextend_bash",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250722194037-40817f9f39c3"
   },
   {
     "description": "New_moon: Obsessively curated dotfiles",
@@ -84805,6 +85010,32 @@
     "version": "HEAD-ec60219-250626T155353"
   },
   {
+    "description": "Sensor sampling software for the ORCA Buoy Controller",
+    "name": "datamon",
+    "pkg_id": "datamon#bitbucket.org_uwaploe_orca_sample",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.6.1"
+  },
+  {
+    "description": "Sensor sampling software for the ORCA Buoy Controller",
+    "name": "datamon",
+    "pkg_id": "datamon#bitbucket.org_uwaploe_sampler",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.2.0"
+  },
+  {
     "description": "Let me cook",
     "name": "datanode",
     "pkg_id": "datanode#github.com_notzree_richardstore",
@@ -84867,6 +85098,19 @@
     ],
     "updated_at": "2025-07-04",
     "version": "v0.0.0-20250701114117-bcac13bdce6c"
+  },
+  {
+    "description": "Sensor sampling software for the ORCA Buoy Controller",
+    "name": "datareplay",
+    "pkg_id": "datareplay#bitbucket.org_uwaploe_orca_sample",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.6.1"
   },
   {
     "description": "dataset is a command line tool, Go package, shared library and Python package for working with JSON objects as collections",
@@ -91781,6 +92025,19 @@
     "version": "HEAD-6226449-250624T104917"
   },
   {
+    "description": "Open source vulnerability DB and triage service",
+    "name": "debian",
+    "pkg_id": "debian#github.com_google_osv.dev_vulnfeeds",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250729032556-a179a8e75062"
+  },
+  {
     "description": "Enterprise-Grade Continuous Delivery _ DevOps Automation Open Source Platform",
     "name": "debianpush",
     "pkg_id": "debianpush#github.com_ovh_cds",
@@ -95233,6 +95490,19 @@
     "version": "v0.0.0-20250624182035-e9177d305497"
   },
   {
+    "description": "Internal development and some experiments with code",
+    "name": "dev-labs",
+    "pkg_id": "dev-labs#github.com_knoxknox_dev_labs",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250722092632-5a21d1509033"
+  },
+  {
     "description": "Declarative Continuous Deployment for Kubernetes",
     "name": "dev-mounter",
     "pkg_id": "dev-mounter#github.com_argoproj_argo_cd",
@@ -98675,6 +98945,19 @@
     ],
     "updated_at": "2025-06-29",
     "version": "v0.0.0-20250417180458-88c8525828ff"
+  },
+  {
+    "description": "Golang code pieces",
+    "name": "dns-server",
+    "pkg_id": "dns-server#github.com_fooofei_go_pieces_tools_dns_server",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250723122347-43f9031c2905"
   },
   {
     "description": "DNS multi-tool",
@@ -102292,6 +102575,19 @@
     ],
     "updated_at": "2025-06-24",
     "version": "HEAD-ea17b42-250624T204427"
+  },
+  {
+    "description": "Open source vulnerability DB and triage service",
+    "name": "download-cves",
+    "pkg_id": "download-cves#github.com_google_osv.dev_vulnfeeds",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250729032556-a179a8e75062"
   },
   {
     "description": "A simple tool for downloading osm files.",
@@ -119927,6 +120223,19 @@
     "version": "HEAD-1502b32-250622T104340"
   },
   {
+    "description": "A basic shell pipeline for extracting forensic artifacts from disk images. Relevant artifacts will be processed and provided in ECS format for ingestion with Logstash",
+    "name": "ffind",
+    "pkg_id": "ffind#github.com_cuhsat_fact",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.4.3"
+  },
+  {
     "description": "Find forensic artifacts in mount points or the live system",
     "name": "ffind",
     "pkg_id": "ffind#github.com_hiforensics_ffind",
@@ -121938,6 +122247,19 @@
     "version": "HEAD-d70958b-250304T122702"
   },
   {
+    "description": "Generate passwords using Finnish language words",
+    "name": "finpass",
+    "pkg_id": "finpass#github.com_hermo_finpass",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v1.5.0"
+  },
+  {
     "description": "No Description Provided",
     "name": "fintac",
     "pkg_id": "fintac#github.com_EvolBioInf_neighbors",
@@ -123426,6 +123748,19 @@
     "version": "v0.0.0-20250630200411-7655b1f6138e"
   },
   {
+    "description": "A basic shell pipeline for extracting forensic artifacts from disk images. Relevant artifacts will be processed and provided in ECS format for ingestion with Logstash",
+    "name": "flog",
+    "pkg_id": "flog#github.com_cuhsat_fact",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.4.3"
+  },
+  {
     "description": "A chatbot framework written in Go. All configurations are made in YAML files, or inside scripts written in your favorite language.",
     "name": "flottbot",
     "pkg_id": "flottbot#github.com_target_flottbot",
@@ -123989,6 +124324,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-3eb63ee-250530T145522"
+  },
+  {
+    "description": "A basic shell pipeline for extracting forensic artifacts from disk images. Relevant artifacts will be processed and provided in ECS format for ingestion with Logstash",
+    "name": "fmount",
+    "pkg_id": "fmount#github.com_cuhsat_fact",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.4.3"
   },
   {
     "description": "Mount various disk images for forensic read-only processing",
@@ -136202,6 +136550,19 @@
     "version": "v0.0.0-20250318011356-21fc020075f2"
   },
   {
+    "description": "My sandbox",
+    "name": "generics",
+    "pkg_id": "generics#github.com_blck_snwmn_playground_go_generics",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250726172804-e0f804d7f54b"
+  },
+  {
     "description": "Esse repositório trata-se de estudos de aprimoramento do desenvolvimento e práticas utilizando a linguagem GO",
     "name": "generics",
     "pkg_id": "generics#github.com_douglasandradeee_go_expert_course",
@@ -140370,6 +140731,19 @@
     "version": "HEAD-f7dfff6-241014T231003"
   },
   {
+    "description": "Application to check Github for Pull Requests, that are not Drafts, in repos the user cares about",
+    "name": "ghreport",
+    "pkg_id": "ghreport#github.com_jmainguy_ghreport",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.5.0"
+  },
+  {
     "description": "Scan GitHub Actions Workflow logs for IOCs",
     "name": "ghscan",
     "pkg_id": "ghscan#github.com_chainguard_dev_ghscan",
@@ -141129,6 +141503,19 @@
     ],
     "updated_at": "2025-07-08",
     "version": "v1.2.0"
+  },
+  {
+    "description": "Git Credential Helper for Github Apps",
+    "name": "git-credential-github-app",
+    "pkg_id": "git-credential-github-app#github.com_bdellegrazie_git_credential_github_app",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.4.2"
   },
   {
     "description": "A Git credential helper that securely authenticates to GitHub, GitLab and BitBucket using OAuth.",
@@ -161084,6 +161471,19 @@
     "version": "HEAD-938d9bb-250609T111607"
   },
   {
+    "description": "A command-line GMail emailer written in Go",
+    "name": "gsend",
+    "pkg_id": "gsend#github.com_jimlawless_gsend",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250712142512-6c0dfad18786"
+  },
+  {
     "description": "Gstreamer bindings and utilities for golang",
     "name": "gst-plugin-gen",
     "pkg_id": "gst-plugin-gen#github.com_go_gst_go_gst",
@@ -163020,6 +163420,19 @@
     "version": "v0.0.0-20250629180259-79adf31d3b0b"
   },
   {
+    "description": "A powerful *vibe coded* command-line tool for generating all possible combinations of text strings and testing them against specified hashes",
+    "name": "hashcrafter",
+    "pkg_id": "hashcrafter#github.com_aituglo_hashcrafter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250729080329-a14fdb9df140"
+  },
+  {
     "description": "Protocol Buffers - Google's data interchange format",
     "name": "hasher",
     "pkg_id": "hasher#github.com_protocolbuffers_protobuf_examples_go",
@@ -163757,6 +164170,19 @@
     ],
     "updated_at": "2025-06-24",
     "version": "HEAD-da33050-250623T125131"
+  },
+  {
+    "description": "Proxy for the TUM iCal export to remove clutter hacktoberfest, php, proxy, tum, tum-ical-export",
+    "name": "healthcheck",
+    "pkg_id": "healthcheck#github.com_clumsyweed_calendarproxy",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250516014330-f82fa922971f"
   },
   {
     "description": "Minimal Go-based PocketBase starter",
@@ -165194,6 +165620,19 @@
     ],
     "updated_at": "2025-06-26",
     "version": "HEAD-db5be8f-250626T020519"
+  },
+  {
+    "description": "Hello CTF】CTFer blog link center (x Base on NX-Official/friends-link-plus",
+    "name": "helloctf-ctferlink",
+    "pkg_id": "helloctf-ctferlink#github.com_faintaccomp_helloctf_ctferlink",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250206214001-04e51f997453"
   },
   {
     "description": "Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.",
@@ -170848,6 +171287,19 @@
     "version": "HEAD-c466fcc-220306T225052"
   },
   {
+    "description": "Http Time Travel Proxy is an HTTP proxy server written in Go to allow browsing back in time using archive.org's WaybackMachine. You can configure your Internet Explorer or Netscape Navigator on any system to use this proxy to travel back in time and browse the world wide web of yesteryear",
+    "name": "httptimetravelproxy",
+    "pkg_id": "httptimetravelproxy#github.com_boringestate_httptimetravelproxy",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250519123613-b8d642ef5683"
+  },
+  {
     "description": "This repos contains all testing scripts.",
     "name": "httptrace",
     "pkg_id": "httptrace#github.com_ntk148v_testing",
@@ -172361,6 +172813,19 @@
     ],
     "updated_at": "2025-06-25",
     "version": "HEAD-5fcf13c-250625T132238"
+  },
+  {
+    "description": "Open source vulnerability DB and triage service",
+    "name": "ids",
+    "pkg_id": "ids#github.com_google_osv.dev_vulnfeeds",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250729032556-a179a8e75062"
   },
   {
     "description": "DomainsProject.org HTTP worker",
@@ -174249,6 +174714,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-764f374-250619T112314"
+  },
+  {
+    "description": "A resource for triggering on an interval",
+    "name": "in",
+    "pkg_id": "in#github.com_concourse_time_resource",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v1.10.0"
   },
   {
     "description": "Compute Engine Guest OS - Test infrastructure",
@@ -178337,6 +178815,19 @@
     ],
     "updated_at": "2025-07-02",
     "version": "v0.0.0-20250117014957-2947bdbc3702"
+  },
+  {
+    "description": "Go based extra tools for shell scripting",
+    "name": "invgen",
+    "pkg_id": "invgen#github.com_jvzantvoort_gextend_bash",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250722194037-40817f9f39c3"
   },
   {
     "description": "A TUI based Invidious client",
@@ -186714,6 +187205,18 @@
     ],
     "updated_at": "2025-06-28",
     "version": "HEAD-a2b1025-250627T111335"
+  },
+  {
+    "description": "Terminal file manager",
+    "name": "kivaranger",
+    "pkg_id": "kivaranger#github.com_kivattt_kivaranger",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v1.7.23"
   },
   {
     "description": "Common interface to CouchDB or CouchDB-like databases for Go and GopherJS",
@@ -198305,6 +198808,19 @@
     "version": "HEAD-3190887-250604T163317"
   },
   {
+    "description": "Go based extra tools for shell scripting",
+    "name": "logging",
+    "pkg_id": "logging#github.com_jvzantvoort_gextend_bash",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250722194037-40817f9f39c3"
+  },
+  {
     "description": "Various technology deployments, tools & code",
     "name": "logging",
     "pkg_id": "logging#github.com_matihost_monorepo_go_learning",
@@ -204712,6 +205228,19 @@
     "version": "HEAD-bebd785-250622T235600"
   },
   {
+    "description": "A CLI tool that extracts comments from Go files and generates a Go file with them as a map",
+    "name": "mapcomments-go",
+    "pkg_id": "mapcomments-go#github.com_antoniszymanski_mapcomments_go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.2.0"
+  },
+  {
     "description": "simple golang-based distributed network monitoring",
     "name": "mapper",
     "pkg_id": "mapper#github.com_carverauto_serviceradar",
@@ -206095,6 +206624,32 @@
     "version": "HEAD-20a4c11-220922T210930"
   },
   {
+    "description": "Sensor sampling software for the ORCA Buoy Controller",
+    "name": "mbtest",
+    "pkg_id": "mbtest#bitbucket.org_uwaploe_orca_sample",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.6.1"
+  },
+  {
+    "description": "Sensor sampling software for the ORCA Buoy Controller",
+    "name": "mbtest",
+    "pkg_id": "mbtest#bitbucket.org_uwaploe_sampler",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.2.0"
+  },
+  {
     "description": "A Terraform provider for the Metabase service. Also provides a utility to import dashboards and cards as Terraform definitions.",
     "name": "mbtf",
     "pkg_id": "mbtf#github.com_flovouin_terraform_provider_metabase",
@@ -207372,6 +207927,19 @@
     "version": "v0.0.0-20250710152723-d2f1f4fb27af"
   },
   {
+    "description": "Go based extra tools for shell scripting",
+    "name": "mdtoc",
+    "pkg_id": "mdtoc#github.com_jvzantvoort_gextend_bash",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250722194037-40817f9f39c3"
+  },
+  {
     "description": "Automate Kubernetes Configuration Editing",
     "name": "mdtogo",
     "pkg_id": "mdtogo#github.com_kptdev_kpt",
@@ -208126,6 +208694,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-4a5d8ca-190612T103819"
+  },
+  {
+    "description": "Track the RAM usage of a process and its descendants in real time",
+    "name": "memsparkline",
+    "pkg_id": "memsparkline#github.com_dbohdan_memsparkline",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.10.0"
   },
   {
     "description": "A high performance memory-bound Go cache",
@@ -209202,6 +209783,19 @@
   {
     "description": "OpenSCAP Report Publisher",
     "name": "metric_extractor",
+    "pkg_id": "metric_extractor#github.com_jritter_openscap_report_publisher",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.3"
+  },
+  {
+    "description": "OpenSCAP Report Publisher",
+    "name": "metric_extractor",
     "pkg_id": "metric_extractor#github.com_jritter_scapinoculars",
     "targets": [
       "aarch64-Linux",
@@ -209732,6 +210326,30 @@
     ],
     "updated_at": "2025-06-26",
     "version": "HEAD-04e2948-250625T180039"
+  },
+  {
+    "description": "Sensor sampling software for the ORCA Buoy Controller",
+    "name": "metsample",
+    "pkg_id": "metsample#bitbucket.org_uwaploe_orca_sample",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.6.1"
+  },
+  {
+    "description": "Sensor sampling software for the ORCA Buoy Controller",
+    "name": "metsample",
+    "pkg_id": "metsample#bitbucket.org_uwaploe_sampler",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.2.0"
   },
   {
     "description": "Go Snowflake Driver",
@@ -215990,6 +216608,32 @@
     "version": "HEAD-c9d5653-250623T130113"
   },
   {
+    "description": "Sensor sampling software for the ORCA Buoy Controller",
+    "name": "mpktojson",
+    "pkg_id": "mpktojson#bitbucket.org_uwaploe_orca_sample",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.6.1"
+  },
+  {
+    "description": "Sensor sampling software for the ORCA Buoy Controller",
+    "name": "mpktojson",
+    "pkg_id": "mpktojson#bitbucket.org_uwaploe_sampler",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.2.0"
+  },
+  {
     "description": "Markdown Preview Language Server",
     "name": "mpls",
     "pkg_id": "mpls#github.com_mhersson_mpls",
@@ -218163,6 +218807,19 @@
     "version": "v0.0.0-20250607075850-850210e15221"
   },
   {
+    "description": "Go based extra tools for shell scripting",
+    "name": "mvx",
+    "pkg_id": "mvx#github.com_jvzantvoort_gextend_bash",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250722194037-40817f9f39c3"
+  },
+  {
     "description": "Infra for me (pulumi, k8s, pki, etc",
     "name": "mx",
     "pkg_id": "mx#github.com_kzh_infra_faust",
@@ -219186,6 +219843,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-1ae3645-240918T130942"
+  },
+  {
+    "description": "Go based extra tools for shell scripting",
+    "name": "namegen",
+    "pkg_id": "namegen#github.com_jvzantvoort_gextend_bash",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250722194037-40817f9f39c3"
   },
   {
     "description": "An ACME-based certificate authority, written in Go.",
@@ -223556,6 +224226,19 @@
     "version": "HEAD-42f4e7d-250626T142456"
   },
   {
+    "description": "Exporter for machine metrics",
+    "name": "node_exporter",
+    "pkg_id": "node_exporter#github.com_grafana_node_exporter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.18.1-grafana-r01.0.20250723084259-82aa2f53cef8"
+  },
+  {
     "description": "Some example for lucene-go",
     "name": "node_hash",
     "pkg_id": "node_hash#github.com_geange_lucene_go_example",
@@ -223800,6 +224483,19 @@
     ],
     "updated_at": "2025-07-02",
     "version": "v0.0.0-20250604132728-63e81ad45383"
+  },
+  {
+    "description": "一个把你的 GitHub Discussions 构建为 Pages 的静态站点生成器。 blog",
+    "name": "noll",
+    "pkg_id": "noll#github.com_averageshak_noll",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250515055044-40c579d14e53"
   },
   {
     "description": "RSS reader for the terminal",
@@ -225937,6 +226633,19 @@
     "version": "HEAD-4db2169-250619T103040"
   },
   {
+    "description": "Open source vulnerability DB and triage service",
+    "name": "nvd-cve-osv",
+    "pkg_id": "nvd-cve-osv#github.com_google_osv.dev_vulnfeeds",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250729032556-a179a8e75062"
+  },
+  {
     "description": "NVD Explorer",
     "name": "nvdexplorer",
     "pkg_id": "nvdexplorer#github.com_na4ma4_nvdexplorer",
@@ -227921,6 +228630,18 @@
     "version": "HEAD-ee341f7-250201T154805"
   },
   {
+    "description": "The missing Tokenizer for Ollama",
+    "name": "ollamatokenizer",
+    "pkg_id": "ollamatokenizer#github.com_contenox_ollamatokenizer",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.7"
+  },
+  {
     "description": "A management framework for extending Kubernetes with Operators",
     "name": "olm",
     "pkg_id": "olm#github.com_openshift_operator_framework_olm_staging_operator_lifecycle_manager",
@@ -229750,6 +230471,19 @@
     ],
     "updated_at": "2025-07-25",
     "version": "v0.0.0-20250529000526-0a6952ebadb9"
+  },
+  {
+    "description": "OpenSCAP Report Publisher",
+    "name": "openscap-report-publisher",
+    "pkg_id": "openscap-report-publisher#github.com_jritter_openscap_report_publisher",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.3"
   },
   {
     "description": "The STACKIT SDK for Go",
@@ -231781,6 +232515,19 @@
     "version": "HEAD-1a202c9-220205T222144"
   },
   {
+    "description": "Daemon agent for osctrl",
+    "name": "osctrld",
+    "pkg_id": "osctrld#github.com_jmpsec_osctrld",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.20250628171236"
+  },
+  {
     "description": "OSD cluster readiness detection",
     "name": "osd-cluster-ready",
     "pkg_id": "osd-cluster-ready#github.com_openshift_osd_cluster_ready",
@@ -232423,6 +233170,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-764f374-250619T112314"
+  },
+  {
+    "description": "A resource for triggering on an interval",
+    "name": "out",
+    "pkg_id": "out#github.com_concourse_time_resource",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v1.10.0"
   },
   {
     "description": "Custom Concourse Resource to work as duct tape, meaning it can quickly bring things together that have no native or custom resource",
@@ -236002,7 +236762,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-07",
+    "updated_at": "2025-07-30",
     "version": "v0.0.0-20250625181818-76fe3817f949"
   },
   {
@@ -236056,6 +236816,19 @@
     ],
     "updated_at": "2025-07-02",
     "version": "v0.0.0-20250117014957-2947bdbc3702"
+  },
+  {
+    "description": "Go based extra tools for shell scripting",
+    "name": "path_clean",
+    "pkg_id": "path_clean#github.com_jvzantvoort_gextend_bash",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250722194037-40817f9f39c3"
   },
   {
     "description": "SCION Internet Architecture",
@@ -236858,6 +237631,19 @@
     ],
     "updated_at": "2025-07-29",
     "version": "v0.0.0-20250723234427-aa73d93f3547"
+  },
+  {
+    "description": "Search through PowerDNS records on the cli",
+    "name": "pdnsgrep",
+    "pkg_id": "pdnsgrep#github.com_akquinet_pdnsgrep",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v1.1.1"
   },
   {
     "description": "Bluesky PDS (Personal Data Server) container image, compose file, and documentation",
@@ -238475,6 +239261,19 @@
     ],
     "updated_at": "2025-06-28",
     "version": "HEAD-f4344d3-250627T164819"
+  },
+  {
+    "description": "Web photo gallery generator",
+    "name": "photo-gallery",
+    "pkg_id": "photo-gallery#github.com_artyom_photo_gallery",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250617100108-486daf13b8a5"
   },
   {
     "description": "Photo-organiser",
@@ -243213,6 +244012,19 @@
     "version": "v0.0.0-20250619160034-02e3fca75bc2"
   },
   {
+    "description": "Atomically manages the state of the world (e.g. external environments",
+    "name": "pool-resource",
+    "pkg_id": "pool-resource#github.com_concourse_pool_resource",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v1.6.0"
+  },
+  {
     "description": "No Description Provided",
     "name": "pool_rewards",
     "pkg_id": "pool_rewards#github.com_Gearbox_protocol_third_eye",
@@ -244324,6 +245136,19 @@
     ],
     "updated_at": "2025-07-27",
     "version": "v0.0.0-20250718202711-ad02cf502f37"
+  },
+  {
+    "description": "Ethereum PoWERC20 Mining Tool pow, powerc20, proof-of-work",
+    "name": "powerc20miner",
+    "pkg_id": "powerc20miner#github.com_forkedimped_powerc20miner",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250530170531-7fd0214103f3"
   },
   {
     "description": "Kubernetes Operator to manage PowerDNS",
@@ -246033,6 +246858,19 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.0.0-20250421220245-a4a6ca5823e3"
+  },
+  {
+    "description": "Go based extra tools for shell scripting",
+    "name": "print_status",
+    "pkg_id": "print_status#github.com_jvzantvoort_gextend_bash",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250722194037-40817f9f39c3"
   },
   {
     "description": "markdown parser and HTML renderer for Go",
@@ -249993,6 +250831,19 @@
     "version": "v0.0.0-20250312185120-9c5b25e9f5ff"
   },
   {
+    "description": "A utility to dump all Protobuf file descriptors from a given binary as *.proto files",
+    "name": "protodump",
+    "pkg_id": "protodump#github.com_hugoharman_protodump",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250729144008-dcbafdb24759"
+  },
+  {
     "description": "Contributed tools and other packages on top of the Go proto package",
     "name": "protofmt",
     "pkg_id": "protofmt#github.com_emicklei_proto_contrib",
@@ -250788,6 +251639,19 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.0.0-20250630234414-49eca2a301fc"
+  },
+  {
+    "description": "Proxy for the TUM iCal export to remove clutter hacktoberfest, php, proxy, tum, tum-ical-export",
+    "name": "proxy",
+    "pkg_id": "proxy#github.com_clumsyweed_calendarproxy",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250516014330-f82fa922971f"
   },
   {
     "description": "s3 multi provider data lifecycle management",
@@ -254008,6 +254872,19 @@
     "version": "HEAD-6d5c2c1-250611T183501"
   },
   {
+    "description": "Open source vulnerability DB and triage service",
+    "name": "pypi",
+    "pkg_id": "pypi#github.com_google_osv.dev_vulnfeeds",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250729032556-a179a8e75062"
+  },
+  {
     "description": "Securing open-source package ecosystems by originating, validating, and augmenting build attestations.",
     "name": "pypi_rss",
     "pkg_id": "pypi_rss#github.com_google_oss_rebuild",
@@ -255769,6 +256646,32 @@
     "version": "HEAD-967e54d-240111T162338"
   },
   {
+    "description": "Sample apps and code written for Google Cloud in the Go programming language",
+    "name": "quickstart_publisher",
+    "pkg_id": "quickstart_publisher#github.com_googlecloudplatform_golang_samples_pubsublite",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250728190051-caf23ea7c887"
+  },
+  {
+    "description": "Sample apps and code written for Google Cloud in the Go programming language",
+    "name": "quickstart_subscriber",
+    "pkg_id": "quickstart_subscriber#github.com_googlecloudplatform_golang_samples_pubsublite",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250728190051-caf23ea7c887"
+  },
+  {
     "description": "Backend service for integrated quickstarts.",
     "name": "quickstarts",
     "pkg_id": "quickstarts#github.com_RedHatInsights_quickstarts",
@@ -257019,6 +257922,19 @@
     "version": "HEAD-8b4ca25-250627T065438"
   },
   {
+    "description": "My sandbox",
+    "name": "rate",
+    "pkg_id": "rate#github.com_blck_snwmn_playground_go_rate",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250726172804-e0f804d7f54b"
+  },
+  {
     "description": "Some common golang code snippet",
     "name": "rate",
     "pkg_id": "rate#github.com_treeman_zhou_code_snippet_go",
@@ -257558,6 +258474,43 @@
     ],
     "updated_at": "2025-06-28",
     "version": "HEAD-087190b-250628T153728"
+  },
+  {
+    "description": "Sensor sampling software for the ORCA Buoy Controller",
+    "name": "rdisample",
+    "pkg_id": "rdisample#bitbucket.org_uwaploe_orca_sample",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.6.1"
+  },
+  {
+    "description": "Sensor sampling software for the ORCA Buoy Controller",
+    "name": "rdisample",
+    "pkg_id": "rdisample#bitbucket.org_uwaploe_sampler",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.2.0"
+  },
+  {
+    "description": "Sensor sampling software for the ORCA Buoy Controller",
+    "name": "rdmbox",
+    "pkg_id": "rdmbox#bitbucket.org_uwaploe_orca_sample",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.6.1"
   },
   {
     "description": "Collection of auxiliary command line tools",
@@ -263749,6 +264702,19 @@
     ],
     "updated_at": "2025-06-22",
     "version": "HEAD-5c2f6a3-250621T190329"
+  },
+  {
+    "description": "OpenSCAP Report Publisher",
+    "name": "report_generator",
+    "pkg_id": "report_generator#github.com_jritter_openscap_report_publisher",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.3"
   },
   {
     "description": "OpenSCAP Report Publisher",
@@ -271135,6 +272101,30 @@
     "version": "v0.0.0-20250703113917-a0ae6d832687"
   },
   {
+    "description": "Sensor sampling software for the ORCA Buoy Controller",
+    "name": "s9sample",
+    "pkg_id": "s9sample#bitbucket.org_uwaploe_orca_sample",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.6.1"
+  },
+  {
+    "description": "Sensor sampling software for the ORCA Buoy Controller",
+    "name": "s9sample",
+    "pkg_id": "s9sample#bitbucket.org_uwaploe_sampler",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.2.0"
+  },
+  {
     "description": "Meta_s Time libraries",
     "name": "sa53fw",
     "pkg_id": "sa53fw#github.com_facebook_time",
@@ -272217,6 +273207,30 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-30cc0e7-250506T215030"
+  },
+  {
+    "description": "Sensor sampling software for the ORCA Buoy Controller",
+    "name": "sbesample",
+    "pkg_id": "sbesample#bitbucket.org_uwaploe_orca_sample",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.6.1"
+  },
+  {
+    "description": "Sensor sampling software for the ORCA Buoy Controller",
+    "name": "sbesample",
+    "pkg_id": "sbesample#bitbucket.org_uwaploe_sampler",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.2.0"
   },
   {
     "description": "Artifact Ratification Framework _CNCF Sandbox_",
@@ -274345,6 +275359,19 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.0.0-20250623041731-a823fb4ac70b"
+  },
+  {
+    "description": "Track the RAM usage of a process and its descendants in real time",
+    "name": "script",
+    "pkg_id": "script#github.com_dbohdan_memsparkline",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.10.0"
   },
   {
     "description": "Command-line password manager",
@@ -279358,8 +280385,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-27",
-    "version": "v0.0.0-20250725231252-860d64534965"
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250726173138-f32a7dcbd2d4"
   },
   {
     "description": "Reverse proxy that inverts the direction of traffic",
@@ -284181,6 +285208,19 @@
     "version": "v0.12.1"
   },
   {
+    "description": "URL shortener with pastebin and file upload functions",
+    "name": "shorter",
+    "pkg_id": "shorter#github.com_firerat666_shorter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250730001631-a0424648fa0c"
+  },
+  {
     "description": "An IIS short filename enumeration tool",
     "name": "shortscan",
     "pkg_id": "shortscan#github.com_bitquark_shortscan",
@@ -285148,6 +286188,19 @@
     ],
     "updated_at": "2025-06-28",
     "version": "HEAD-6559373-250627T134655"
+  },
+  {
+    "description": "Sample apps and code written for Google Cloud in the Go programming language",
+    "name": "sigterm-handler",
+    "pkg_id": "sigterm-handler#github.com_googlecloudplatform_golang_samples_run_sigterm_handler",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250728190051-caf23ea7c887"
   },
   {
     "description": "sigtrap - Trap and print signals.",
@@ -288993,6 +290046,19 @@
     ],
     "updated_at": "2025-07-18",
     "version": "v0.0.0-20250716223720-50bd343710d7"
+  },
+  {
+    "description": "Tool to search the parameter space for SLH-DSA",
+    "name": "slushfind",
+    "pkg_id": "slushfind#github.com_chrisfenner_slushfind",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250709144858-e90ea17c08b3"
   },
   {
     "description": "Go client for Synthetic Monitoring",
@@ -295127,6 +296193,19 @@
     "version": "HEAD-5796641-250628T154214"
   },
   {
+    "description": "A parser for the index files generated by https://github.com/google/stenographer",
+    "name": "sstablekeys",
+    "pkg_id": "sstablekeys#github.com_joviniko_sstablekeys",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v1.0.0"
+  },
+  {
     "description": "Secret-Shared-Validator_SSV_ for ethereum staking",
     "name": "ssv",
     "pkg_id": "ssv#github.com_ssvlabs_ssv",
@@ -300954,6 +302033,19 @@
     "version": "v0.0.0-20250516095408-3dbd9199c813"
   },
   {
+    "description": "A Go utility program to summarize a project into a single markdown file",
+    "name": "summarize",
+    "pkg_id": "summarize#github.com_andreimerlescu_summarize",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v1.0.2"
+  },
+  {
     "description": "My solutions to Leetcode problems",
     "name": "summary-ranges",
     "pkg_id": "summary-ranges#github.com_arunsathiya_leetcode",
@@ -303937,6 +305029,19 @@
     "version": "v0.0.0-20250609143331-0940cdda6881"
   },
   {
+    "description": "Prometheus exporter for Tailscale device metrics",
+    "name": "tailscale_exporter",
+    "pkg_id": "tailscale_exporter#github.com_josh_tailscale_exporter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.1.0"
+  },
+  {
     "description": "Easily expose services on your Tailscale network under their own DNS names.",
     "name": "tailservice",
     "pkg_id": "tailservice#github.com_SierraSoftworks_tailservice",
@@ -305404,6 +306509,19 @@
     ],
     "updated_at": "2025-07-04",
     "version": "v0.0.0-20250702233541-f3baeb30b461"
+  },
+  {
+    "description": "Salvee",
+    "name": "tech-review-log-slog",
+    "pkg_id": "tech-review-log-slog#github.com_kcalixto_tech_review_log_slog",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250627151453-20e1485a07b6"
   },
   {
     "description": "A public-facing, centralized place to store reusable workflows used by Grafana Labs",
@@ -310416,6 +311534,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-a0db450-231008T112640"
+  },
+  {
+    "description": "Track the RAM usage of a process and its descendants in real time",
+    "name": "test",
+    "pkg_id": "test#github.com_dbohdan_memsparkline",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.10.0"
   },
   {
     "description": "A community terraform provider for Microsoft 365 for configuration as code workflows. It can interface with both MS Graph v1.0 _ MS Graph beta API_s. Built upon the terraform provider framework and MS kiota generated graph sdk_s in go.",
@@ -317676,6 +318807,19 @@
     ],
     "updated_at": "2025-06-29",
     "version": "v0.0.0-20250124051520-b61ef61b16a7"
+  },
+  {
+    "description": "Go based extra tools for shell scripting",
+    "name": "today",
+    "pkg_id": "today#github.com_jvzantvoort_gextend_bash",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250722194037-40817f9f39c3"
   },
   {
     "description": "Various tools, trinkets and experiments",
@@ -347705,6 +348849,19 @@
     ],
     "updated_at": "2025-06-22",
     "version": "HEAD-4e42ca8-250622T143633"
+  },
+  {
+    "description": "ZNS - Simple DoH Server in Go",
+    "name": "zns",
+    "pkg_id": "zns#github.com_jiuyue52_zns",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-30",
+    "version": "v0.0.0-20250729030049-98f0d36cce45"
   },
   {
     "description": "Fast trigram based code search",
