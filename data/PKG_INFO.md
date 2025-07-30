@@ -116,6 +116,7 @@
 - 🐹 **[frontend](https://cymbal-shops.retail.cymbal.dev)**: Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 - 🐹 **[fx](https://fx.wtf)**: Terminal JSON viewer & processor.
 - 🐹 **[gen_github_action_config](https://golangci-lint.run)**: Fast linters runner for Go.
+- 🐹 **[dolly](https://github.com/charmbracelet/dolly)**: Your CLI home video recorder.
 - 🐹 **[gvisor](https://gvisor.dev)**: Application Kernel for Containers.
 - 🐹 **[kubo-as-a-library](https://docs.ipfs.tech/how-to/command-line-quick-start/)**: An IPFS implementation in Go.
 - 🐹 **[dependencies](https://docs.ipfs.tech/how-to/command-line-quick-start/)**: An IPFS implementation in Go.
@@ -381,6 +382,7 @@
 - 🐹 **[chat](https://github.com/libp2p/go-libp2p)**: Libp2p implementation in Go.
 - 🐹 **[ipfs-camp-2019](https://github.com/libp2p/go-libp2p)**: Libp2p implementation in Go.
 - 🐹 **[cxx](https://cxx.rs)**: Safe interop between Rust and C.
+- 🐹 **[rustfs](https://rustfs.com/download/)**: High-performance distributed object storage for MinIO  alternative.
 - 🐹 **[athena](https://cloudquery.io)**: The developer first cloud governance platform.
 - 🐹 **[domain-list-community](https://www.v2fly.org)**: Community managed domain list.
 - 🐹 **[speedscope](https://www.speedscope.app)**: A fast, interactive web-based viewer for performance profiles.
