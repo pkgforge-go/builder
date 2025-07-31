@@ -22461,6 +22461,19 @@
     "version": "HEAD-c10a002-250622T214054"
   },
   {
+    "description": "Minimalistic AUR helper",
+    "name": "aget",
+    "pkg_id": "aget#github.com_xyproto_aget",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-31",
+    "version": "v1.4.2"
+  },
+  {
     "description": "Connect any chain to the AggLayer",
     "name": "aggkit-cmd",
     "pkg_id": "aggkit-cmd#github.com_agglayer_aggkit",
@@ -41511,6 +41524,19 @@
     "version": "HEAD-fb4812d-250629T224155"
   },
   {
+    "description": "A very simple load balancer based on BGP multipaths",
+    "name": "bgp-lb",
+    "pkg_id": "bgp-lb#github.com_utilitywarehouse_bgp_lb",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-31",
+    "version": "v0.3.2"
+  },
+  {
     "description": "Tracks the latest bgscript for gtao",
     "name": "bgscript-tracker",
     "pkg_id": "bgscript-tracker#github.com_logan_mcgee_bgscript_tracker",
@@ -52212,6 +52238,19 @@
     ],
     "updated_at": "2025-06-30",
     "version": "v0.0.0-20250306175224-462eabebee04"
+  },
+  {
+    "description": "Monitor your Claude Code token usage in real-time with an htop-inspired terminal interface",
+    "name": "cctop",
+    "pkg_id": "cctop#github.com_sixeight_cctop",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-31",
+    "version": "v0.0.0-20250624080821-e9e03f53767a"
   },
   {
     "description": "Conventional Commit Util",
@@ -80180,6 +80219,32 @@
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-5d2ec30-250621T135523"
+  },
+  {
+    "description": "Plugins to support Velero on AWS",
+    "name": "cp-plugin",
+    "pkg_id": "cp-plugin#github.com_vmware_tanzu_velero_plugin_for_aws",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-31",
+    "version": "v1.12.2"
+  },
+  {
+    "description": "Plugins to support Velero on Google Cloud Platform (GCP",
+    "name": "cp-plugin",
+    "pkg_id": "cp-plugin#github.com_vmware_tanzu_velero_plugin_for_gcp",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-31",
+    "version": "v1.12.2"
   },
   {
     "description": "Plugins to support Velero on Microsoft Azure",
@@ -109035,6 +109100,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-5999c25-240825T104725"
+  },
+  {
+    "description": "Repository for Cryptography course at Distributed Lab",
+    "name": "elgamal",
+    "pkg_id": "elgamal#github.com_viza_cryptography_elgamal",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-31",
+    "version": "v0.0.0-20250630142937-80939d76d549"
   },
   {
     "description": "EliasDB a graph-based database.",
@@ -144711,6 +144789,19 @@
     "version": "HEAD-1780d4c-250627T211804"
   },
   {
+    "description": "Scan domains for Git source code disclosure vulnerabilities",
+    "name": "gitsleuth",
+    "pkg_id": "gitsleuth#github.com_rhyru9_gitsleuth",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-31",
+    "version": "v1.1.0"
+  },
+  {
     "description": "Events Bridge",
     "name": "gitsource",
     "pkg_id": "gitsource#github.com_sandrolain_events_bridge",
@@ -164742,6 +164833,19 @@
     "version": "v0.0.0-20250729080329-a14fdb9df140"
   },
   {
+    "description": "A fast, cross-platform command-line file hash calculator written in Go",
+    "name": "hashculate",
+    "pkg_id": "hashculate#github.com_stl3_hashculate",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-31",
+    "version": "v0.0.0-20250730170507-c6ea94637355"
+  },
+  {
     "description": "Protocol Buffers - Google's data interchange format",
     "name": "hasher",
     "pkg_id": "hasher#github.com_protocolbuffers_protobuf_examples_go",
@@ -169838,6 +169942,19 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.0.0-20250627094045-9d6567446f9e"
+  },
+  {
+    "description": "Agents installed as system services in the Edge Node OS",
+    "name": "hostmgr-mock",
+    "pkg_id": "hostmgr-mock#github.com_open_edge_platform_edge_node_agents_node_agent",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-31",
+    "version": "v1.7.3"
   },
   {
     "description": "OCI Runtime Tools",
@@ -182325,6 +182442,19 @@
     "version": "HEAD-411b2b8-250609T113730"
   },
   {
+    "description": "Go library for creating and reading ixtar bundles - efficient file archives combining CSV indexes with TAR data for fast random access",
+    "name": "ixtar",
+    "pkg_id": "ixtar#github.com_t0mk_ixtar",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-31",
+    "version": "v0.3.0"
+  },
+  {
     "description": "Тренировки от Яндекса",
     "name": "j",
     "pkg_id": "j#github.com_ayan412_yandex_algorithms",
@@ -190917,6 +191047,19 @@
     "version": "HEAD-5e57f4d-250623T134149"
   },
   {
+    "description": "Split kubectl output into multidoc YAML",
+    "name": "kubectl-multidoc",
+    "pkg_id": "kubectl-multidoc#github.com_tnyeanderson_kubectl_multidoc",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-31",
+    "version": "v0.0.0-20250730212117-6d3354cb6130"
+  },
+  {
     "description": "Node feature discovery for Kubernetes",
     "name": "kubectl-nfd",
     "pkg_id": "kubectl-nfd#github.com_kubernetes_sigs_node_feature_discovery",
@@ -192580,6 +192723,19 @@
     ],
     "updated_at": "2025-06-24",
     "version": "HEAD-c231599-250624T200414"
+  },
+  {
+    "description": "Golang binary to keep the VMware ESXi certificate updated (no vSphere",
+    "name": "lab-update-esxi-cert",
+    "pkg_id": "lab-update-esxi-cert#github.com_ozskywalker_lab_update_esxi_cert",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-31",
+    "version": "v1.0.0"
   },
   {
     "description": "Learning Go(lang) from many resources in Youtube. (E.G. CMDev, Golang Dojo, The Net Ninja, TechWorld with Nana, freeCodeCamp",
@@ -198666,6 +198822,19 @@
     "version": "v0.0.0-20250713194714-027127db7ce0"
   },
   {
+    "description": "Llm proxy to map models and loggings",
+    "name": "llm-proxy",
+    "pkg_id": "llm-proxy#github.com_xhd2015_llm_proxy",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-31",
+    "version": "v0.0.1"
+  },
+  {
     "description": "No Description Provided",
     "name": "llm_orchestration",
     "pkg_id": "llm_orchestration#github.com_Ingenimax_agent_sdk_go",
@@ -202672,6 +202841,19 @@
     ],
     "updated_at": "2025-06-25",
     "version": "HEAD-73ad279-250624T221446"
+  },
+  {
+    "description": "Create Message-ID: and Date: Headers, for my m2n program",
+    "name": "m-id",
+    "pkg_id": "m-id#github.com_stefanclaas_m_id",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-31",
+    "version": "v0.1.0"
   },
   {
     "description": "This is a tiny poc for shellcode injection in pure go and go's shitty plan9 asm on arm64 macOS tested on an m1 chip",
@@ -225620,6 +225802,19 @@
     "version": "HEAD-b73f074-250628T214758"
   },
   {
+    "description": "Agents installed as system services in the Edge Node OS",
+    "name": "node-agent",
+    "pkg_id": "node-agent#github.com_open_edge_platform_edge_node_agents_node_agent",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-31",
+    "version": "v1.7.3"
+  },
+  {
     "description": "The SPIFFE Runtime Environment",
     "name": "node-attestation",
     "pkg_id": "node-attestation#github.com_spiffe_spire",
@@ -233358,6 +233553,19 @@
     ],
     "updated_at": "2025-06-27",
     "version": "HEAD-5e1194f-250626T161916"
+  },
+  {
+    "description": "Simple go tool to log commands issued by red team operators",
+    "name": "opl",
+    "pkg_id": "opl#github.com_zkvl_opl",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-31",
+    "version": "v0.4.0"
   },
   {
     "description": "Selfhost OPNSense and UniFI configuration management _ backup portal _written in golang, useable via webui, as cli tool, daemon, api or golang-library_",
@@ -263041,6 +263249,19 @@
     "version": "v0.0.0-20250126064539-09fd03b0f462"
   },
   {
+    "description": "Fuzzing redis raft implementation",
+    "name": "redisraft-fuzzing",
+    "pkg_id": "redisraft-fuzzing#github.com_zeu5_redisraft_fuzzing",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-31",
+    "version": "v0.0.0-20250627200940-d46bfb28401b"
+  },
+  {
     "description": "RedisShake is a Redis data processing and migration tool.",
     "name": "redisshake",
     "pkg_id": "redisshake#github.com_tair_opensource_RedisShake",
@@ -274121,6 +274342,19 @@
     "version": "HEAD-3023a6f-250628T202726"
   },
   {
+    "description": "A tool for listing S3 buckets in a concurrent recursive manner",
+    "name": "s3fastls",
+    "pkg_id": "s3fastls#github.com_vpal_s3fastls",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-31",
+    "version": "v0.2.0"
+  },
+  {
     "description": "Fast, concurrent, streaming access to Amazon S3, including gof3r, a CLI. https://godoc.org/github.com/rlmcpherson/s3gof3r",
     "name": "s3gof3r",
     "pkg_id": "s3gof3r#github.com_rlmcpherson_s3gof3r",
@@ -275398,6 +275632,19 @@
     "version": "HEAD-30cc0e7-250506T215030"
   },
   {
+    "description": "Directip server for iridium data",
+    "name": "sbd",
+    "pkg_id": "sbd#github.com_protegear_sbd",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-31",
+    "version": "v0.0.0-20250722103236-f2f5982ee386"
+  },
+  {
     "description": "Sensor sampling software for the ORCA Buoy Controller",
     "name": "sbesample",
     "pkg_id": "sbesample#bitbucket.org_uwaploe_orca_sample",
@@ -276499,7 +276746,7 @@
     "version": "HEAD-73729ef-250622T155652"
   },
   {
-    "description": "DevSecOps for Airgap & Limited-Connection Systems. https://zarf.dev",
+    "description": "The Airgap Native Packager Manager for Kubernetes",
     "name": "schema",
     "pkg_id": "schema#github.com_zarf_dev_zarf_hack_schema",
     "targets": [
@@ -276508,8 +276755,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-30",
-    "version": "v0.0.0-20250627203124-755559e8f1c2"
+    "updated_at": "2025-07-31",
+    "version": "v0.0.0-20250725013139-ab9910dcafdf"
   },
   {
     "description": "A community terraform provider for Microsoft 365 for configuration as code workflows. It can interface with both MS Graph v1.0 _ MS Graph beta API_s. Built upon the terraform provider framework and MS kiota generated graph sdk_s in go.",
@@ -289136,7 +289383,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-17",
+    "updated_at": "2025-07-31",
     "version": "v0.0.0-20250226125538-2a3247d81e19"
   },
   {
@@ -299970,6 +300217,18 @@
     "version": "HEAD-66c5a85-250625T162642"
   },
   {
+    "description": "Software for running a ham radio station",
+    "name": "stationmaster",
+    "pkg_id": "stationmaster#github.com_saied74_stationmaster",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-31",
+    "version": "v0.0.0-20250614180957-cc1621d3d104"
+  },
+  {
     "description": "Bundle a shellscript with statically linked binaries!",
     "name": "statish",
     "pkg_id": "statish#github.com_42LoCo42_statish",
@@ -309150,6 +309409,18 @@
     ],
     "updated_at": "2025-07-20",
     "version": "v1.0.2"
+  },
+  {
+    "description": "An external Telegraf Plugin for listening to Plex Webhooks",
+    "name": "telegraf-webhooks-plex",
+    "pkg_id": "telegraf-webhooks-plex#github.com_russorat_telegraf_webhooks_plex",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-31",
+    "version": "v0.0.0-20250701160559-5fffcb556f3b"
   },
   {
     "description": "Go Hosting Solution for AWS, Google Cloud and Digital Ocean",
@@ -335575,6 +335846,32 @@
     ],
     "updated_at": "2025-06-24",
     "version": "HEAD-95cd0a1-250624T113349"
+  },
+  {
+    "description": "Plugins to support Velero on AWS",
+    "name": "velero-plugin-for-aws",
+    "pkg_id": "velero-plugin-for-aws#github.com_vmware_tanzu_velero_plugin_for_aws",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-31",
+    "version": "v1.12.2"
+  },
+  {
+    "description": "Plugins to support Velero on Google Cloud Platform (GCP",
+    "name": "velero-plugin-for-gcp",
+    "pkg_id": "velero-plugin-for-gcp#github.com_vmware_tanzu_velero_plugin_for_gcp",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-07-31",
+    "version": "v1.12.2"
   },
   {
     "description": "Plugins to support Velero on Microsoft Azure",
