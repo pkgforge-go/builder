@@ -235,6 +235,7 @@
 - 🐹 **[typescript](https://templ.guide/)**: A language for writing HTML user interfaces in Go.
 - 🐹 **[browser](https://lightpanda.io)**: Lightpanda: the headless browser designed for AI and automation.
 - 🐹 **[metaflow](https://metaflow.org)**: Build, Manage and Deploy AI/ML Systems.
+- 🐹 **[foundry](https://getfoundry.sh/)**: Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - 🐹 **[bot](https://github.com/keybase/client)**: Keybase Go Library, Client, Service, OS X, iOS, Android, Electron.
 - 🐹 **[res-downloader](https://github.com/putyy/res-downloader)**: 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载.
 - 🐹 **[3-router](https://watermill.io)**: Building event-driven applications the easy way in Go.
@@ -665,6 +666,7 @@
 - 🐹 **[govc](https://github.com/vmware/govmomi)**: Go library for the VMware vSphere API.
 - 🐹 **[vcsim](https://github.com/vmware/govmomi)**: Go library for the VMware vSphere API.
 - 🐹 **[agent](https://github.com/aws/amazon-vpc-cni-k8s)**: Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS.
+- 🐹 **[container2wasm](https://ktock.github.io/container2wasm-demo/)**: Container to WASM converter.
 - 🐹 **[engine](https://www.qovery.com)**: The Orchestration Engine To Deliver Self-Service Infrastructure.
 - 🐹 **[piranha](https://github.com/uber/piranha)**: A tool for refactoring code related to feature flag APIs.
 - 🐹 **[protoc-gen-go-gin](https://go-eagle.org)**: A Go framework for the API or Microservice.
@@ -1113,6 +1115,7 @@
 - 🐹 **[onex](https://konglingfei.com)**: 高质量、易维护、高扩展的企业级 Go 项目+ 云原生项目开发脚手架.
 - 🐹 **[neko](https://github.com/crgimenes/neko)**: Neko is a cross-platform cursor-chasing cat.
 - 🐹 **[clickhouse-bulk](https://github.com/nikepan/clickhouse-bulk)**: Collects many small inserts to ClickHouse and send in big inserts.
+- 🐹 **[cilium-cli](https://cilium.io)**: CLI to install, manage & troubleshoot Kubernetes clusters running Cilium.
 - 🐹 **[skill-icons](https://go-skill-icons.vercel.app)**: Fork" of official skill-icons repository.
 - 🐹 **[failover](https://pkg.go.dev/github.com/samber/slog-multi)**: Design workflows of slog handlers: pipeline, middleware, fanout, routing, failover, load balancing.
 - 🐹 **[fanout](https://pkg.go.dev/github.com/samber/slog-multi)**: Design workflows of slog handlers: pipeline, middleware, fanout, routing, failover, load balancing.
