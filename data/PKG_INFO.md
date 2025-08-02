@@ -84,6 +84,7 @@
 - 🐹 **[v3](https://www.pulumi.com)**: Pulumi - Infrastructure as Code in any programming language.
 - 🐹 **[v3](https://www.pulumi.com)**: Pulumi - Infrastructure as Code in any programming language.
 - 🐹 **[learn-go-with-tests](https://github.com/quii/learn-go-with-tests)**: Learn Go with test-driven development.
+- 🐹 **[cloudflarescanner](https://github.com/xiu2/cloudflarescanner)**: 自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站.
 - 🐹 **[v8](https://gitleaks.io)**: Find secrets with Gitleaks.
 - 🐹 **[examples](https://grpc.io)**: The Go language implementation of gRPC.
 - 🐹 **[_tools](https://github.com/microsoft/typescript-go)**: Staging repo for development of native port of TypeScript.
@@ -182,6 +183,7 @@
 - 🐹 **[go-module-support](https://github.com/swaggo/swag)**: Automatically generate RESTful API documentation with Swagger 2.
 - 🐹 **[docker](https://neko.m1k1o.net/)**: A self hosted virtual browser that runs in docker and uses WebRTC.
 - 🐹 **[grpcurl](https://github.com/fullstorydev/grpcurl)**: Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers.
+- 🐹 **[go](https://earthly.dev)**: Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - 🐹 **[go](https://earthly.dev)**: Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - 🐹 **[one](https://earthly.dev)**: Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - 🐹 **[proto](https://earthly.dev)**: Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
@@ -608,6 +610,7 @@
 - 🐹 **[worksynchronizer](https://docs.datadoghq.com/)**: Main repository for Datadog Agent.
 - 🐹 **[nova](https://opendev.org/openstack/nova)**: OpenStack Compute (Nova).
 - 🐹 **[graphjin](https://graphjin.com)**: GraphJin - Build NodeJS / GO APIs in 5 minutes not weeks.
+- 🐹 **[application-go](https://lf-hyperledger.atlassian.net/wiki/spaces/fabric)**: Samples for Hyperledger Fabric.
 - 🐹 **[chaincode-go](https://lf-hyperledger.atlassian.net/wiki/spaces/fabric)**: Samples for Hyperledger Fabric.
 - 🐹 **[docs-chef-io](http://inspec.io)**: InSpec: Auditing and Testing Framework.
 - 🐹 **[chaincode-external](https://lf-hyperledger.atlassian.net/wiki/spaces/fabric)**: Samples for Hyperledger Fabric.
@@ -674,6 +677,7 @@
 - 🐹 **[vcsim](https://github.com/vmware/govmomi)**: Go library for the VMware vSphere API.
 - 🐹 **[agent](https://github.com/aws/amazon-vpc-cni-k8s)**: Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS.
 - 🐹 **[container2wasm](https://ktock.github.io/container2wasm-demo/)**: Container to WASM converter.
+- 🐹 **[container2wasm](https://ktock.github.io/container2wasm-demo/)**: Container to WASM converter.
 - 🐹 **[engine](https://www.qovery.com)**: The Orchestration Engine To Deliver Self-Service Infrastructure.
 - 🐹 **[piranha](https://github.com/uber/piranha)**: A tool for refactoring code related to feature flag APIs.
 - 🐹 **[protoc-gen-go-gin](https://go-eagle.org)**: A Go framework for the API or Microservice.
@@ -683,6 +687,7 @@
 - 🐹 **[kubie](https://blog.sbstp.ca/introducing-kubie/)**: A more powerful alternative to kubectx and kubens.
 - 🐹 **[server](https://1backend.com)**: AI-native microservices platform.
 - 🐹 **[backup](https://vearch.github.io)**: Distributed vector search for AI-native applications.
+- 🐹 **[simd](http://ermig1979.github.io/Simd)**: C++ image processing and machine learning library with using of SIMD: SSE, AVX, AVX-512, AMX  for x86/x64, NEON for ARM.
 - 🐹 **[yopass](https://yopass.se)**: Secure sharing of secrets, passwords and files.
 - 🐹 **[nodeinit](https://octelium.com/docs)**: A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP & A2A architectures or even as an ngrok-alternative and a homelab infrastructure.
 - 🐹 **[octelium](https://octelium.com/docs)**: A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP & A2A architectures or even as an ngrok-alternative and a homelab infrastructure.
@@ -698,6 +703,7 @@
 - 🐹 **[websoft9](https://www.websoft9.com)**: Applications self-hosting and DevOps platform for running open source, web-based linux Panel of lite PaaS.
 - 🐹 **[container-use](https://github.com/dagger/container-use)**: Development environments for coding agents.
 - 🐹 **[jsoned](https://github.com/tidwall/jsoned)**: JSON Stream Editor (command line utility.
+- 🐹 **[azurite](https://github.com/azure/azurite)**: A lightweight server clone of Azure Storage that simulates most of the commands supported by it with minimal dependencies.
 - 🐹 **[protoc-gen-go-client-stub](https://pydio.com)**: Future-proof content collaboration platform.
 - 🐹 **[opa](https://wasmcloud.com)**: WasmCloud is an open source Cloud Native Computing Foundation (CNCF) project that enables teams to build, manage, and scale polyglot apps across any cloud, K8s, or edge.
 - 🐹 **[component](https://wasmcloud.com)**: WasmCloud is an open source Cloud Native Computing Foundation (CNCF) project that enables teams to build, manage, and scale polyglot apps across any cloud, K8s, or edge.
@@ -899,6 +905,7 @@
 - 🐹 **[redisexp](https://github.com/yuyan-sec/redisexp)**: Redis 漏洞利用工具.
 - 🐹 **[kafka](https://cloudevents.github.io/sdk-go/)**: Go SDK for CloudEvents.
 - 🐹 **[ws](https://cloudevents.github.io/sdk-go/)**: Go SDK for CloudEvents.
+- 🐹 **[maimaidx-prober](https://www.diving-fish.com/maimaidx/prober)**: 舞萌 DX 查分器.
 - 🐹 **[nats](https://cloudevents.github.io/sdk-go/)**: Go SDK for CloudEvents.
 - 🐹 **[stan](https://cloudevents.github.io/sdk-go/)**: Go SDK for CloudEvents.
 - 🐹 **[amqp](https://cloudevents.github.io/sdk-go/)**: Go SDK for CloudEvents.
@@ -1014,6 +1021,7 @@
 - 🐹 **[nvim](https://github.com/glepnir/nvim)**: Neovim configuration written in lua.
 - 🐹 **[proxysip](https://github.com/emiago/sipgo/example/proxysip)**: SIP library for writing fast SIP services in GO.
 - 🐹 **[scroll](https://github.com/scroll-tech/scroll)**: Scroll's Monorepo.
+- 🐹 **[electrode-native](https://native.electrode.io)**: A platform to ease integration&delivery of React Native apps in existing mobile applications.
 - 🐹 **[gopherlings](https://github.com/soypat/gopherlings)**: 📘️ Learn Go by fixing tiny incorrect programs.
 - 🐹 **[kustomize-sops](https://github.com/viaduct-ai/kustomize-sops)**: KSOPS - A Flexible Kustomize Plugin for SOPS Encrypted Resources.
 - 🐹 **[go-drive](https://go-drive.top/)**: A simple cloud drive mapping web app supports local, FTP/SFTP, S3, OneDrive, WebDAV, Google Drive.
@@ -1625,6 +1633,7 @@
 - 🐹 **[update-testdata](http://godoc.org/github.com/andygrunwald/go-trending)**: Go library for accessing trending repositories and developers at Github.
 - 🐹 **[docs-chef-io](https://github.com/chef/chef-workstation)**: Chef Workstation gives you everything you need to get started with Chef, so you can automate how you audit, configure, and manage applications end environments.
 - 🐹 **[formula_templater](https://github.com/hashicorp/homebrew-tap)**: Homebrew Tap of HashiCorp products and tools.
+- 🐹 **[host-spawn](https://github.com/1player/host-spawn)**: Run commands on your host from inside your toolbox or flatpak sandbox.
 - 🐹 **[lambda_trigger](https://github.com/hashicorp/homebrew-tap)**: Homebrew Tap of HashiCorp products and tools.
 - 🐹 **[signald](https://gitlab.com/signald/signald)**: An API for interacting with Signal Private Messenger.
 - 🐹 **[compat](https://github.com/grafana/pyroscope-go/godeltaprof/compat)**: This is the golang client integration for Pyroscope.
@@ -1772,6 +1781,7 @@
 - 🐹 **[measurement-kit](https://measurement-kit.github.io/)**: DEPRECATED] Network measurement engine.
 - 🐹 **[base16-universal-manager](https://github.com/pinpox/base16-universal-manager)**: A universal manager to set base16 themes for any supported application.
 - 🐹 **[gce_metadata_server](https://github.com/salrashid123/gce_metadata_server)**: Simple emulator for the Google Compute Engine Metadata Server.
+- 🐹 **[bnfuzzer](https://github.com/rexim/bnfuzzer)**: Generate random messages based on their BNF definition.
 - 🐹 **[container-object-storage-interface-controller](https://github.com/kubernetes-retired/container-object-storage-interface-controller)**: Container Object Storage Interface (COSI) controller responsible to manage lifecycle of COSI objects.
 - 🐹 **[fwd](https://github.com/cloudnativedataplane/cndp)**: Cloud Native Data Plane (CNDP) is a collection of user space libraries to accelerate packet processing for cloud applications using AF_XDP sockets as the primary I/O.
 - 🐹 **[prometheus](https://github.com/cloudnativedataplane/cndp)**: Cloud Native Data Plane (CNDP) is a collection of user space libraries to accelerate packet processing for cloud applications using AF_XDP sockets as the primary I/O.
@@ -1779,6 +1789,7 @@
 - 🐹 **[wallabako](https://gitlab.com/anarcat/wallabako)**: Wallabag client for Kobo readers.
 - 🐹 **[go](https://catalog.kpt.dev)**: Curated catalog of generally useful kpt functions.
 - 🐹 **[go](https://catalog.kpt.dev)**: Curated catalog of generally useful kpt functions.
+- 🐹 **[list-setters](https://catalog.kpt.dev)**: Curated catalog of generally useful kpt functions.
 - 🐹 **[mcp-registry](https://github.com/docker/mcp-registry)**: Official Docker MCP registry.
 - 🐹 **[patch_reader](https://catalog.kpt.dev)**: Curated catalog of generally useful kpt functions.
 - 🐹 **[patch_reader](https://catalog.kpt.dev)**: Curated catalog of generally useful kpt functions.
@@ -2198,6 +2209,7 @@
 - 🐹 **[h0neytr4p](https://github.com/pbssubhash/h0neytr4p)**: Easy to configure Honeypot for Blue Team.
 - 🐹 **[komu.engineer](https://www.komu.engineer)**: Personal website/blog.
 - 🐹 **[labeler-action](https://github.com/marketplace/actions/auto-labeler)**: GitHub Action allowing for applying labels to issues and pull requests based on patterns found in the title or description.
+- 🐹 **[mage](https://github.com/avfs/avfs)**: Another Virtual File System for Go.
 - 🐹 **[ojosama-api](https://ojosama.jiro4989.com)**: テキストを壱百満天原サロメお嬢様風の口調に変換するWebアプリ.
 - 🐹 **[purl](https://github.com/ian-kent/purl)**: Perl, but fluffy like a cat!.
 - 🐹 **[test](https://www.kwil.com/)**: Kwil DB, the database for web3.
@@ -2648,6 +2660,7 @@
 - 🐹 **[csi-release-tools](https://github.com/kubernetes-csi/csi-release-tools)**: Shared build and test files used by kubernetes-csi projects.
 - 🐹 **[cst](https://github.com/cilium/image-tools/images/tester/cst)**: Dockerfiles for cilium-runtime and cilium-builder dependencies.
 - 🐹 **[dendrite-upgrade-tests](https://matrix.to/#/#harmony:neilalexander.dev)**: A lighter-weight fork of the Dendrite homeserver for the Matrix protocol.
+- 🐹 **[doc](https://github.com/benwaffle/doc)**: A modern TUI for reading man pages, info pages, and tldr pages.
 - 🐹 **[dots](https://github.com/drn/dots)**: New_moon: Obsessively curated dotfiles.
 - 🐹 **[grit](https://github.com/jmalloc/grit)**: Keep track of your local Git clones.
 - 🐹 **[lk-jwt-service](https://github.com/element-hq/lk-jwt-service)**: Minimal service to issue LiveKit JWTs for MatrixRTC.
