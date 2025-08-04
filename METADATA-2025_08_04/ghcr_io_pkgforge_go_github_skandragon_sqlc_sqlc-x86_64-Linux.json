@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "sqlc",
+  "pkg_family": "sqlc",
+  "pkg_id": "sqlc#github.com_skandragon_sqlc",
+  "pkg_name": "sqlc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://sqlc.dev",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Generate type-safe code from SQL",
+  "homepage": [
+    "https://sqlc.dev"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build",
+    "bump-version",
+    "cleanup-test-dbs",
+    "mirror-go-plugin",
+    "scripts",
+    "sqlc",
+    "sqlc-gen-json",
+    "sqlc-pg-gen",
+    "test-json-process-plugin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/skandragon/sqlc/@v/v0.0.0-20250803031553-55efafc5dd06.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250803031553-55efafc5dd06",
+  "version_upstream": "",
+  "bsum": "eea4ece15dfc9d90392baf4d42ed3ef1e3e11cd791f27970aba62bc85b15d0e9",
+  "build_date": "2025-08-04T16:09:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16727691394",
+  "build_id": "16727691394",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/skandragon/sqlc/sqlc?tag=v0.0.0-20250803031553-55efafc5dd06-x86_64-Linux&download=sqlc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/skandragon/sqlc/sqlc?tag=v0.0.0-20250803031553-55efafc5dd06-x86_64-Linux&download=sqlc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/skandragon/sqlc/sqlc:v0.0.0-20250803031553-55efafc5dd06-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/skandragon/sqlc/sqlc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/skandragon/sqlc/sqlc?tag=v0.0.0-20250803031553-55efafc5dd06-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3b96480b25a4eca12f2e2d7186b0a767d51d12de0655171d34c5b1edf3899856",
+  "size": "60 MB",
+  "size_raw": "62599416",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
