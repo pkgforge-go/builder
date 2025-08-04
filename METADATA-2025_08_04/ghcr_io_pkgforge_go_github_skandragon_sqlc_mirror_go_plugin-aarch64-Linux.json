@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "mirror-go-plugin",
+  "pkg_family": "sqlc",
+  "pkg_id": "mirror-go-plugin#github.com_skandragon_sqlc",
+  "pkg_name": "mirror-go-plugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://sqlc.dev",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Generate type-safe code from SQL",
+  "homepage": [
+    "https://sqlc.dev"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build",
+    "bump-version",
+    "cleanup-test-dbs",
+    "mirror-go-plugin",
+    "scripts",
+    "sqlc",
+    "sqlc-gen-json",
+    "sqlc-pg-gen",
+    "test-json-process-plugin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/skandragon/sqlc/@v/v0.0.0-20250803031553-55efafc5dd06.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250803031553-55efafc5dd06",
+  "version_upstream": "",
+  "bsum": "07c78622929fe14ec734dec4011ac000346de03ccaf8b840d4b59fefee084c05",
+  "build_date": "2025-08-04T16:10:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16727691394",
+  "build_id": "16727691394",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/skandragon/sqlc/mirror-go-plugin?tag=v0.0.0-20250803031553-55efafc5dd06-aarch64-Linux&download=mirror-go-plugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/skandragon/sqlc/mirror-go-plugin?tag=v0.0.0-20250803031553-55efafc5dd06-aarch64-Linux&download=mirror-go-plugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/skandragon/sqlc/mirror-go-plugin:v0.0.0-20250803031553-55efafc5dd06-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/skandragon/sqlc/mirror-go-plugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/skandragon/sqlc/mirror-go-plugin?tag=v0.0.0-20250803031553-55efafc5dd06-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9fa4d9dfdcad38f6538b216ebb7364a9a5742d1deabf75e5cabf7641e10f035a",
+  "size": "1.8 MB",
+  "size_raw": "1865976",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
