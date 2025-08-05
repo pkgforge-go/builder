@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "mariadb-conntracker",
+  "pkg_family": "mariadb-conntracker",
+  "pkg_id": "mariadb-conntracker#github.com_epfl_si_mariadb_conntracker",
+  "pkg_name": "mariadb-conntracker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/epfl-si/mariadb-conntracker",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Deploys a Go-based utility to parse MariaDB audit logs and track user account activity by storing last connection dates in a SQLite database",
+  "homepage": [
+    "https://github.com/epfl-si/mariadb-conntracker"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mariadb-conntracker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/epfl-si/mariadb-conntracker/@v/v1.1.7.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.1.7",
+  "version_upstream": "",
+  "bsum": "7e8cf894e26d484f05ea1cd8f4d47e35bb53c5662995495d603950262dd52207",
+  "build_date": "2025-08-05T04:32:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16740403202",
+  "build_id": "16740403202",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/epfl-si/mariadb-conntracker/mariadb-conntracker?tag=v1.1.7-aarch64-Linux&download=mariadb-conntracker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/epfl-si/mariadb-conntracker/mariadb-conntracker?tag=v1.1.7-aarch64-Linux&download=mariadb-conntracker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/epfl-si/mariadb-conntracker/mariadb-conntracker:v1.1.7-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/epfl-si/mariadb-conntracker/mariadb-conntracker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/epfl-si/mariadb-conntracker/mariadb-conntracker?tag=v1.1.7-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2d5f6852f7c0672bc87568ba836d52d1d1836d8dfd84f8fa70e2553093f1af2f",
+  "size": "6.5 MB",
+  "size_raw": "6799424",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
