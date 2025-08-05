@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "extract_config",
+  "pkg_family": "rules_docker",
+  "pkg_id": "extract_config#github.com_buildbuddy_io_rules_docker",
+  "pkg_name": "extract_config",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/buildbuddy-io/rules_docker",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Rules for building and handling Docker images with Bazel",
+  "homepage": [
+    "https://github.com/buildbuddy-io/rules_docker"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "create_image_config",
+    "digester",
+    "extract_config",
+    "flattener",
+    "join_layers",
+    "json_to_yaml",
+    "loader",
+    "metadata_merge",
+    "packages_metadata",
+    "puller",
+    "pusher",
+    "sha256",
+    "update_deps",
+    "zipper"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/buildbuddy-io/rules_docker/@v/v0.0.0-20250424123048-fd17b1c56380.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250424123048-fd17b1c56380",
+  "version_upstream": "",
+  "bsum": "fc3146b886ee5422bd8e861d6473ad34017e25fe06675d514d5ccd97c8d136e2",
+  "build_date": "2025-08-05T04:25:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16740400788",
+  "build_id": "16740400788",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/buildbuddy-io/rules/docker/extract_config?tag=v0.0.0-20250424123048-fd17b1c56380-aarch64-Linux&download=extract_config.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/buildbuddy-io/rules/docker/extract_config?tag=v0.0.0-20250424123048-fd17b1c56380-aarch64-Linux&download=extract_config",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/buildbuddy-io/rules/docker/extract_config:v0.0.0-20250424123048-fd17b1c56380-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/buildbuddy-io/rules/docker/extract_config",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/buildbuddy-io/rules/docker/extract_config?tag=v0.0.0-20250424123048-fd17b1c56380-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f4cd9ae798f4b897aaa8f78c8eaf8b181593370231ceddebc34d6750a65bca7b",
+  "size": "3.0 MB",
+  "size_raw": "3117760",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
