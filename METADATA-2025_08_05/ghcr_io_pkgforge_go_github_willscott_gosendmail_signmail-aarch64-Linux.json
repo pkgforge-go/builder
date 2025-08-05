@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "signmail",
+  "pkg_family": "gosendmail",
+  "pkg_id": "signmail#github.com_willscott_gosendmail",
+  "pkg_name": "signmail",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/willscott/gosendmail",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Outbound mail sender with dkim StartTLS",
+  "homepage": [
+    "https://github.com/willscott/gosendmail"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sendmail",
+    "signmail"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/willscott/gosendmail/@v/v0.0.0-20250703010948-dbde68b2ca24.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250703010948-dbde68b2ca24",
+  "version_upstream": "",
+  "bsum": "f06618d519d42e35be6f9387d1885b3961a0f1571b72cf6d569f6f68c9ba2f1c",
+  "build_date": "2025-08-05T05:18:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16740496118",
+  "build_id": "16740496118",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/willscott/gosendmail/signmail?tag=v0.0.0-20250703010948-dbde68b2ca24-aarch64-Linux&download=signmail.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/willscott/gosendmail/signmail?tag=v0.0.0-20250703010948-dbde68b2ca24-aarch64-Linux&download=signmail",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/willscott/gosendmail/signmail:v0.0.0-20250703010948-dbde68b2ca24-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/willscott/gosendmail/signmail",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/willscott/gosendmail/signmail?tag=v0.0.0-20250703010948-dbde68b2ca24-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c1ed80f265d841b887f7a5458b1809631faaa98353052d858116db0c1ea8c424",
+  "size": "5.8 MB",
+  "size_raw": "6046080",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
