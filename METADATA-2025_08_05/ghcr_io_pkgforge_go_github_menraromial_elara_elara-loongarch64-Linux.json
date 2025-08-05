@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "elara",
+  "pkg_family": "elara",
+  "pkg_id": "elara#github.com_menraromial_elara",
+  "pkg_name": "elara",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/menraromial/elara",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Kubernetes controller written in Go that dynamically adjusts deployment replicas based on real-time cluster power metrics, enabling energy-aware workload scheduling",
+  "homepage": [
+    "https://github.com/menraromial/elara"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "elara"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/menraromial/elara/@v/v0.0.0-20250804104813-7e489a58a88a.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250804104813-7e489a58a88a",
+  "version_upstream": "",
+  "bsum": "ed2096366399da5e44193b65f880aed4c83eb0f2fdada4e7ac12c6a78b85074f",
+  "build_date": "2025-08-05T07:29:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16742874711",
+  "build_id": "16742874711",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/menraromial/elara/elara?tag=v0.0.0-20250804104813-7e489a58a88a-loongarch64-Linux&download=elara.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/menraromial/elara/elara?tag=v0.0.0-20250804104813-7e489a58a88a-loongarch64-Linux&download=elara",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/menraromial/elara/elara:v0.0.0-20250804104813-7e489a58a88a-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/menraromial/elara/elara",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/menraromial/elara/elara?tag=v0.0.0-20250804104813-7e489a58a88a-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0263b6ca1c90db376468f34180ed15e659594fe5ab89b6b03873fd4f4761f063",
+  "size": "43 MB",
+  "size_raw": "44469664",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250801215648-ade404e06765-loongarch64-Linux",
+    "v0.0.0-20250802174357-d8b103f3b1d7-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
