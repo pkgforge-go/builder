@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "cli",
+  "pkg_family": "rpc25519",
+  "pkg_id": "cli#github.com_glycerine_rpc25519",
+  "pkg_name": "cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/glycerine/rpc25519",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Edwards curve ed25519 identity based RPC for Go/golang. TLS-v1.3 over TCP (or QUIC",
+  "homepage": [
+    "https://github.com/glycerine/rpc25519"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "samesame",
+    "selfy",
+    "srv"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/glycerine/rpc25519/@v/v1.25.12.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.25.12",
+  "version_upstream": "",
+  "bsum": "3205b6a2c8aaf34b81e54c253a58fd4c4033076071b801bbbb72d1d76c32b82f",
+  "build_date": "2025-08-05T02:24:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16738733905",
+  "build_id": "16738733905",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glycerine/rpc25519/cli?tag=v1.25.12-aarch64-Linux&download=cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glycerine/rpc25519/cli?tag=v1.25.12-aarch64-Linux&download=cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/glycerine/rpc25519/cli:v1.25.12-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/glycerine/rpc25519/cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glycerine/rpc25519/cli?tag=v1.25.12-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6201e88f9fc47ff1a3c3ee95dccd7506449581127485e740e4858cdf1e4debcf",
+  "size": "17 MB",
+  "size_raw": "17263936",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.22.73-aarch64-Linux",
+    "v1.22.76-aarch64-Linux",
+    "v1.22.78-aarch64-Linux",
+    "v1.25.12-aarch64-Linux"
+  ],
+  "trusted": "true"
+}

@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "samesame",
+  "pkg_family": "rpc25519",
+  "pkg_id": "samesame#github.com_glycerine_rpc25519",
+  "pkg_name": "samesame",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/glycerine/rpc25519",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Edwards curve ed25519 identity based RPC for Go/golang. TLS-v1.3 over TCP (or QUIC",
+  "homepage": [
+    "https://github.com/glycerine/rpc25519"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cli",
+    "samesame",
+    "selfy",
+    "srv"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/glycerine/rpc25519/@v/v1.25.12.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.25.12",
+  "version_upstream": "",
+  "bsum": "8f93584a202692ced8fc1a615aeac9aed482897731a6acc6036e68104b3270c3",
+  "build_date": "2025-08-05T02:24:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16738733905",
+  "build_id": "16738733905",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glycerine/rpc25519/samesame?tag=v1.25.12-aarch64-Linux&download=samesame.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glycerine/rpc25519/samesame?tag=v1.25.12-aarch64-Linux&download=samesame",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/glycerine/rpc25519/samesame:v1.25.12-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/glycerine/rpc25519/samesame",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/glycerine/rpc25519/samesame?tag=v1.25.12-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8a4893ed241cc6e1deb38c00b5f132a22a53168b1f05917900ba326ab3671d42",
+  "size": "16 MB",
+  "size_raw": "16719424",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.22.73-aarch64-Linux",
+    "v1.22.76-aarch64-Linux",
+    "v1.22.78-aarch64-Linux",
+    "v1.25.12-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
