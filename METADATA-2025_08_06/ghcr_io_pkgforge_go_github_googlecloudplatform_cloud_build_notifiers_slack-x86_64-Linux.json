@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "slack",
+  "pkg_family": "cloud-build-notifiers",
+  "pkg_id": "slack#github.com_googlecloudplatform_cloud_build_notifiers",
+  "pkg_name": "slack",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/googlecloudplatform/cloud-build-notifiers",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Notifier images for Cloud Build, complete with build status filtering and Google Secret Manager integration",
+  "homepage": [
+    "https://github.com/googlecloudplatform/cloud-build-notifiers"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bigquery",
+    "githubissues",
+    "googlechat",
+    "http",
+    "slack",
+    "smtp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/googlecloudplatform/cloud-build-notifiers/@v/v0.0.0-20250804211631-b08716f3a13a.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250804211631-b08716f3a13a",
+  "version_upstream": "",
+  "bsum": "afe9bcc286c69f6115f281e86954085bb7404f33447f64950933e51e8cdd8c54",
+  "build_date": "2025-08-06T04:43:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16767384683",
+  "build_id": "16767384683",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/cloud-build-notifiers/slack?tag=v0.0.0-20250804211631-b08716f3a13a-x86_64-Linux&download=slack.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "147",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/cloud-build-notifiers/slack?tag=v0.0.0-20250804211631-b08716f3a13a-x86_64-Linux&download=slack",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googlecloudplatform/cloud-build-notifiers/slack:v0.0.0-20250804211631-b08716f3a13a-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googlecloudplatform/cloud-build-notifiers/slack",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/cloud-build-notifiers/slack?tag=v0.0.0-20250804211631-b08716f3a13a-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c1780fc8d5f5799aa4287f4eeace909dd62580ecbcb38116527ead74d60f3134",
+  "size": "24 MB",
+  "size_raw": "24818560",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
