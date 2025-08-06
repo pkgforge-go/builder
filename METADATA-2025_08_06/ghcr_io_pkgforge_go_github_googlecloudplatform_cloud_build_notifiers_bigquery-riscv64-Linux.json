@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "bigquery",
+  "pkg_family": "cloud-build-notifiers",
+  "pkg_id": "bigquery#github.com_googlecloudplatform_cloud_build_notifiers",
+  "pkg_name": "bigquery",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/googlecloudplatform/cloud-build-notifiers",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Notifier images for Cloud Build, complete with build status filtering and Google Secret Manager integration",
+  "homepage": [
+    "https://github.com/googlecloudplatform/cloud-build-notifiers"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bigquery",
+    "githubissues",
+    "googlechat",
+    "http",
+    "slack",
+    "smtp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/googlecloudplatform/cloud-build-notifiers/@v/v0.0.0-20250804211631-b08716f3a13a.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250804211631-b08716f3a13a",
+  "version_upstream": "",
+  "bsum": "30ea78b066155535ed4489c9de9a3ed4746de7cce1e131ee72976f7eb1b0aeb8",
+  "build_date": "2025-08-06T04:43:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16767384683",
+  "build_id": "16767384683",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/cloud-build-notifiers/bigquery?tag=v0.0.0-20250804211631-b08716f3a13a-riscv64-Linux&download=bigquery.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "147",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/cloud-build-notifiers/bigquery?tag=v0.0.0-20250804211631-b08716f3a13a-riscv64-Linux&download=bigquery",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/googlecloudplatform/cloud-build-notifiers/bigquery:v0.0.0-20250804211631-b08716f3a13a-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/googlecloudplatform/cloud-build-notifiers/bigquery",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/googlecloudplatform/cloud-build-notifiers/bigquery?tag=v0.0.0-20250804211631-b08716f3a13a-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ff25b290421474855a4cddaf4aad96be51354007ddcfd9cb37e4726d58418148",
+  "size": "30 MB",
+  "size_raw": "30976568",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
