@@ -244,6 +244,7 @@
 - 🐹 **[foundry](https://getfoundry.sh/)**: Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - 🐹 **[bot](https://github.com/keybase/client)**: Keybase Go Library, Client, Service, OS X, iOS, Android, Electron.
 - 🐹 **[res-downloader](https://github.com/putyy/res-downloader)**: 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载.
+- 🐹 **[databend](https://docs.databend.com)**: 𝗔𝗜-𝗡𝗮𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲.
 - 🐹 **[3-router](https://watermill.io)**: Building event-driven applications the easy way in Go.
 - 🐹 **[server](https://watermill.io)**: Building event-driven applications the easy way in Go.
 - 🐹 **[server-sent-events-htmx](https://watermill.io)**: Building event-driven applications the easy way in Go.
@@ -650,6 +651,7 @@
 - 🐹 **[release](https://github.com/elastic/cloud-on-k8s)**: Elastic Cloud on Kubernetes.
 - 🐹 **[manifest-gen](https://github.com/elastic/cloud-on-k8s)**: Elastic Cloud on Kubernetes.
 - 🐹 **[release-notes](https://github.com/elastic/cloud-on-k8s)**: Elastic Cloud on Kubernetes.
+- 🐹 **[gohttpserver](https://github.com/codeskyblue/gohttpserver)**: The best HTTP Static File Server, write with golang+vue.
 - 🐹 **[router7](https://router7.org)**: Router7 is a small home internet router completely written in Go.
 - 🐹 **[codeclimate](https://qlty.sh/)**: Code quality CLI for universal linting, auto-formatting, security scanning, and maintainability.
 - 🐹 **[docs-chef-io](https://www.habitat.sh)**: Modern applications with built-in automation.
@@ -1140,6 +1142,9 @@
 - 🐹 **[dnspy](https://bench.dash.2020818.xyz/)**: Dnspy 是一个批量 DNS 服务器基准测试工具，用于本地测量全世界的 DNS 服务器的可访问性和性能。生成可视化图表。dnspy is a bulk DNS server benchmarking tool used to measure the local accessibility and performance of DNS servers worldwide.
 - 🐹 **[operator](https://source.android.com/setup/create/cuttlefish)**: Cuttlefish host support debian package.
 - 🐹 **[operator](https://helix.ml)**: Helix is a private GenAI stack for building AI agents with declarative pipelines, knowledge (RAG), API bindings, and first-class testing.
+- 🐹 **[qtumatomicswap](https://blog.decred.org/2017/09/20/On-Chain-Atomic-Swaps/)**: On-chain atomic swaps for Decred and other cryptocurrencies.
+- 🐹 **[viaatomicswap](https://blog.decred.org/2017/09/20/On-Chain-Atomic-Swaps/)**: On-chain atomic swaps for Decred and other cryptocurrencies.
+- 🐹 **[vtcatomicswap](https://blog.decred.org/2017/09/20/On-Chain-Atomic-Swaps/)**: On-chain atomic swaps for Decred and other cryptocurrencies.
 - 🐹 **[bench](https://github.com/kelindar/event)**: Simple internal event bus for Go applications.
 - 🐹 **[baseimage](https://source.android.com/setup/create/cuttlefish)**: Cuttlefish host support debian package.
 - 🐹 **[clickhouse-bulk](https://github.com/nikepan/clickhouse-bulk)**: Collects many small inserts to ClickHouse and send in big inserts.
@@ -1653,6 +1658,7 @@
 - 🐹 **[goutubedl](https://pkg.go.dev/github.com/wader/goutubedl?tab=doc)**: Go wrapper for youtube-dl and yt-dlp.
 - 🐹 **[multi-services](https://github.com/riandyrn/otelchi/examples/multi-services)**: OpenTelemetry instrumentation for go-chi/chi.
 - 🐹 **[wsvpn](https://github.com/doridian/wsvpn)**: VPN over WebSocket and WebTransport.
+- 🐹 **[cloud-build-notifiers](https://github.com/googlecloudplatform/cloud-build-notifiers)**: Notifier images for Cloud Build, complete with build status filtering and Google Secret Manager integration.
 - 🐹 **[cdn-purge](https://docs.newrelic.com/docs/infrastructure/install-configure-manage-infrastructure)**: New Relic Infrastructure Agent.
 - 🐹 **[fritzbox_exporter](https://github.com/sberk42/fritzbox_exporter)**: Fritz!Box Upnp statistics exporter for prometheus.
 - 🐹 **[infrastructure-agent](https://docs.newrelic.com/docs/infrastructure/install-configure-manage-infrastructure)**: New Relic Infrastructure Agent.
