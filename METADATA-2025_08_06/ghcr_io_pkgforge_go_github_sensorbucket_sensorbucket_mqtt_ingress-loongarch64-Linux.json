@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "mqtt-ingress",
+  "pkg_family": "sensorbucket",
+  "pkg_id": "mqtt-ingress#github.com_sensorbucket_sensorbucket",
+  "pkg_name": "mqtt-ingress",
+  "pkg_type": "static",
+  "pkg_webpage": "https://sensorbucket.nl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "IoT data processing gateway, for uniform consumption of many data formats",
+  "homepage": [
+    "https://sensorbucket.nl"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api-test",
+    "core",
+    "dashboard",
+    "db-cleaner",
+    "fission-rmq-connector",
+    "fission-user-workers",
+    "httpimporter",
+    "mqtt-ingress",
+    "simulator",
+    "tenants",
+    "tracing"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sensorbucket/sensorbucket/@v/v1.5.5.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.5.5",
+  "version_upstream": "",
+  "bsum": "728e3cf04f61e65c6e4515b27eba314f97beb2f76e0d1d1b145497407ec495bb",
+  "build_date": "2025-08-06T05:05:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16767433781",
+  "build_id": "16767433781",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sensorbucket/sensorbucket/mqtt-ingress?tag=v1.5.5-loongarch64-Linux&download=mqtt-ingress.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sensorbucket/sensorbucket/mqtt-ingress?tag=v1.5.5-loongarch64-Linux&download=mqtt-ingress",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sensorbucket/sensorbucket/mqtt-ingress:v1.5.5-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sensorbucket/sensorbucket/mqtt-ingress",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sensorbucket/sensorbucket/mqtt-ingress?tag=v1.5.5-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "09b5692a24e189340672beece0b37ddd9808422e97d9cd64c6a76c281b04a735",
+  "size": "13 MB",
+  "size_raw": "13332256",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
