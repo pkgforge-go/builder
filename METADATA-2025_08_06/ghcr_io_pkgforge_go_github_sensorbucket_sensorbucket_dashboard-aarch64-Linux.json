@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "dashboard",
+  "pkg_family": "sensorbucket",
+  "pkg_id": "dashboard#github.com_sensorbucket_sensorbucket",
+  "pkg_name": "dashboard",
+  "pkg_type": "static",
+  "pkg_webpage": "https://sensorbucket.nl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "IoT data processing gateway, for uniform consumption of many data formats",
+  "homepage": [
+    "https://sensorbucket.nl"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api-test",
+    "core",
+    "dashboard",
+    "db-cleaner",
+    "fission-rmq-connector",
+    "fission-user-workers",
+    "httpimporter",
+    "mqtt-ingress",
+    "simulator",
+    "tenants",
+    "tracing"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sensorbucket/sensorbucket/@v/v1.5.5.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.5.5",
+  "version_upstream": "",
+  "bsum": "3ba8d370bdcd6faaf6834de047b80840222b14044ff01489ab496df2f3e065c2",
+  "build_date": "2025-08-06T05:07:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16767433781",
+  "build_id": "16767433781",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sensorbucket/sensorbucket/dashboard?tag=v1.5.5-aarch64-Linux&download=dashboard.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sensorbucket/sensorbucket/dashboard?tag=v1.5.5-aarch64-Linux&download=dashboard",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sensorbucket/sensorbucket/dashboard:v1.5.5-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sensorbucket/sensorbucket/dashboard",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sensorbucket/sensorbucket/dashboard?tag=v1.5.5-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0a92b1576b8cf5c405dbbf78cbc97e2981417d0abc4b897b05e77ecb5c5dd294",
+  "size": "9.6 MB",
+  "size_raw": "10016608",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
