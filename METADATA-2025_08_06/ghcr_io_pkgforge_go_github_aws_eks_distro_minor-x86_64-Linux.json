@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "minor",
+  "pkg_family": "eks-distro",
+  "pkg_id": "minor#github.com_aws_eks_distro",
+  "pkg_name": "minor",
+  "pkg_type": "static",
+  "pkg_webpage": "https://distro.eks.amazonaws.com/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Amazon EKS Distro (EKS-D) is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service (EKS) to create reliable and secure Kubernetes clusters",
+  "homepage": [
+    "https://distro.eks.amazonaws.com/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docs",
+    "eks-distro-cmd",
+    "gh-release",
+    "minor",
+    "number",
+    "print-versions"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/aws/eks-distro/@v/v0.0.0-20250805143425-81a6596929ba.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250805143425-81a6596929ba",
+  "version_upstream": "",
+  "bsum": "2991c9a3c479c4a9fb33de7a09d78718ea47331371af0260327e4ba983da9e16",
+  "build_date": "2025-08-06T15:43:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16781572082",
+  "build_id": "16781572082",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/eks-distro/minor?tag=v0.0.0-20250805143425-81a6596929ba-x86_64-Linux&download=minor.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1424",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/eks-distro/minor?tag=v0.0.0-20250805143425-81a6596929ba-x86_64-Linux&download=minor",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aws/eks-distro/minor:v0.0.0-20250805143425-81a6596929ba-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aws/eks-distro/minor",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/eks-distro/minor?tag=v0.0.0-20250805143425-81a6596929ba-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a0853569fef4b4ece071f0f058e23dde9bf22b5660e9e6d6c5880615327db600",
+  "size": "4.0 MB",
+  "size_raw": "4108000",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
