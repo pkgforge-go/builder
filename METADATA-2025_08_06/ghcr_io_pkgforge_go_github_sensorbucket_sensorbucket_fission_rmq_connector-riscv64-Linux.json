@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "fission-rmq-connector",
+  "pkg_family": "sensorbucket",
+  "pkg_id": "fission-rmq-connector#github.com_sensorbucket_sensorbucket",
+  "pkg_name": "fission-rmq-connector",
+  "pkg_type": "static",
+  "pkg_webpage": "https://sensorbucket.nl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "IoT data processing gateway, for uniform consumption of many data formats",
+  "homepage": [
+    "https://sensorbucket.nl"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api-test",
+    "core",
+    "dashboard",
+    "db-cleaner",
+    "fission-rmq-connector",
+    "fission-user-workers",
+    "httpimporter",
+    "mqtt-ingress",
+    "simulator",
+    "tenants",
+    "tracing"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sensorbucket/sensorbucket/@v/v1.5.5.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.5.5",
+  "version_upstream": "",
+  "bsum": "375e7417c91c885fc876cd1ff44f077b072bac80cfab20fb6902632b4ab58c2a",
+  "build_date": "2025-08-06T05:06:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16767433781",
+  "build_id": "16767433781",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sensorbucket/sensorbucket/fission-rmq-connector?tag=v1.5.5-riscv64-Linux&download=fission-rmq-connector.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sensorbucket/sensorbucket/fission-rmq-connector?tag=v1.5.5-riscv64-Linux&download=fission-rmq-connector",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sensorbucket/sensorbucket/fission-rmq-connector:v1.5.5-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sensorbucket/sensorbucket/fission-rmq-connector",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sensorbucket/sensorbucket/fission-rmq-connector?tag=v1.5.5-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "54de7aaf589dfb01797d2092c1d8d5019d248d540a222c3ce1ed3d4d9e79430c",
+  "size": "11 MB",
+  "size_raw": "10639864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
