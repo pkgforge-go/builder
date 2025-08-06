@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "print-versions",
+  "pkg_family": "eks-distro",
+  "pkg_id": "print-versions#github.com_aws_eks_distro",
+  "pkg_name": "print-versions",
+  "pkg_type": "static",
+  "pkg_webpage": "https://distro.eks.amazonaws.com/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Amazon EKS Distro (EKS-D) is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service (EKS) to create reliable and secure Kubernetes clusters",
+  "homepage": [
+    "https://distro.eks.amazonaws.com/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docs",
+    "eks-distro-cmd",
+    "gh-release",
+    "minor",
+    "number",
+    "print-versions"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/aws/eks-distro/@v/v0.0.0-20250805143425-81a6596929ba.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250805143425-81a6596929ba",
+  "version_upstream": "",
+  "bsum": "10aadef9ea7c379f697934d6969ffdc51f02ba63066c989e46aeac5540a541a5",
+  "build_date": "2025-08-06T15:45:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16781572082",
+  "build_id": "16781572082",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/eks-distro/print-versions?tag=v0.0.0-20250805143425-81a6596929ba-loongarch64-Linux&download=print-versions.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1424",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/eks-distro/print-versions?tag=v0.0.0-20250805143425-81a6596929ba-loongarch64-Linux&download=print-versions",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aws/eks-distro/print-versions:v0.0.0-20250805143425-81a6596929ba-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aws/eks-distro/print-versions",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/eks-distro/print-versions?tag=v0.0.0-20250805143425-81a6596929ba-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ec19d253b3df8413c65ea299e536b794f27cfaceea46bf03410dc2c31bd78f3b",
+  "size": "3.8 MB",
+  "size_raw": "3954688",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
