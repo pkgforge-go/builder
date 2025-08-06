@@ -793,6 +793,7 @@
 - 🐹 **[echo-compat](https://go-fuego.dev/)**: Golang Fuego - Web framework generating OpenAPI 3 spec from source code - Pluggable to existing Gin & Echo APIs.
 - 🐹 **[openapi-generate](https://go-fuego.dev/)**: Golang Fuego - Web framework generating OpenAPI 3 spec from source code - Pluggable to existing Gin & Echo APIs.
 - 🐹 **[with-listener](https://go-fuego.dev/)**: Golang Fuego - Web framework generating OpenAPI 3 spec from source code - Pluggable to existing Gin & Echo APIs.
+- 🐹 **[eks-distro](https://distro.eks.amazonaws.com/)**: Amazon EKS Distro (EKS-D) is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service (EKS) to create reliable and secure Kubernetes clusters.
 - 🐹 **[retest](https://github.com/ceph/ceph-csi)**: CSI driver for Ceph.
 - 🐹 **[auto-correct.rs](https://huacnlee.github.io/autocorrect)**: A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean.
 - 🐹 **[autocorrect](https://huacnlee.github.io/autocorrect)**: A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean.
