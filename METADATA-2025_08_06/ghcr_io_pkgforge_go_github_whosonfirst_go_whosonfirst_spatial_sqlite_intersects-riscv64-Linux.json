@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "intersects",
+  "pkg_family": "go-whosonfirst-spatial-sqlite",
+  "pkg_id": "intersects#github.com_whosonfirst_go_whosonfirst_spatial_sqlite",
+  "pkg_name": "intersects",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/whosonfirst/go-whosonfirst-spatial-sqlite",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SQLite-backed implementation of the go-whosonfirst-spatial interfaces",
+  "homepage": [
+    "https://github.com/whosonfirst/go-whosonfirst-spatial-sqlite"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "grpc-client",
+    "grpc-server",
+    "http-server",
+    "intersects",
+    "pip",
+    "update-hierarchies"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/whosonfirst/go-whosonfirst-spatial-sqlite/@v/v0.15.2.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.15.2",
+  "version_upstream": "",
+  "bsum": "1e9f9d88c701a18b265838a7f4ae6b6034e30abce41cbec8c69b082801353c41",
+  "build_date": "2025-08-06T16:12:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16781654435",
+  "build_id": "16781654435",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/whosonfirst/go-whosonfirst-spatial-sqlite/intersects?tag=v0.15.2-riscv64-Linux&download=intersects.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/whosonfirst/go-whosonfirst-spatial-sqlite/intersects?tag=v0.15.2-riscv64-Linux&download=intersects",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/whosonfirst/go-whosonfirst-spatial-sqlite/intersects:v0.15.2-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/whosonfirst/go-whosonfirst-spatial-sqlite/intersects",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/whosonfirst/go-whosonfirst-spatial-sqlite/intersects?tag=v0.15.2-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a743df9d68daee7b7d501d34a337e9de5be96b836fd8d23311089adf882e8afa",
+  "size": "12 MB",
+  "size_raw": "11867928",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
