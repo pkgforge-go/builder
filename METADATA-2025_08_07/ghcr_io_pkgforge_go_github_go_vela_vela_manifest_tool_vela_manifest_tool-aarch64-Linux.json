@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "vela-manifest-tool",
+  "pkg_family": "vela-manifest-tool",
+  "pkg_id": "vela-manifest-tool#github.com_go_vela_vela_manifest_tool",
+  "pkg_name": "vela-manifest-tool",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/go-vela/vela-manifest-tool",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Wrapper plugin for manifest-tool, which is a command line utility used to view or push multi-platform container image references located in an OCIv1 or Docker v2.2 compatible container registry",
+  "homepage": [
+    "https://github.com/go-vela/vela-manifest-tool"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "vela-manifest-tool"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/go-vela/vela-manifest-tool/@v/v0.3.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.3.0",
+  "version_upstream": "",
+  "bsum": "8f7bb7f51e32f2a83343972b17d9fa298f0469be10338db53990204bdb74736a",
+  "build_date": "2025-08-07T04:31:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16794885598",
+  "build_id": "16794885598",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-vela/vela-manifest-tool/vela-manifest-tool?tag=v0.3.0-aarch64-Linux&download=vela-manifest-tool.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-vela/vela-manifest-tool/vela-manifest-tool?tag=v0.3.0-aarch64-Linux&download=vela-manifest-tool",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/go-vela/vela-manifest-tool/vela-manifest-tool:v0.3.0-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/go-vela/vela-manifest-tool/vela-manifest-tool",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/go-vela/vela-manifest-tool/vela-manifest-tool?tag=v0.3.0-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e3c48643728892312ea7daa5453ecb9aa102db48f845e67d34e920f2028d040b",
+  "size": "6.6 MB",
+  "size_raw": "6825088",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
