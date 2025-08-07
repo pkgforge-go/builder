@@ -43453,6 +43453,19 @@
     "version": "HEAD-b1def6e-250606T092803"
   },
   {
+    "description": "Connection queue proxy for restarting services",
+    "name": "beurtbalkje",
+    "pkg_id": "beurtbalkje#github.com_bfanger_beurtbalkje",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-07",
+    "version": "v0.0.0-20250624095844-b05a896651e6"
+  },
+  {
     "description": "eBPF-based autoinstrumentation of web applications and network metrics",
     "name": "beyla-genfiles",
     "pkg_id": "beyla-genfiles#github.com_grafana_beyla",
@@ -66006,6 +66019,18 @@
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-3da35a0-250621T000001"
+  },
+  {
+    "description": "ClickHouse FDW for PostgreSQL",
+    "name": "clickhouse_fdw",
+    "pkg_id": "clickhouse_fdw#github.com_adjust_clickhouse_fdw",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-07",
+    "version": "v0.0.0-20250731104259-cc928fd901c2"
   },
   {
     "description": "RPC Server Implementation for pgwatch3",
