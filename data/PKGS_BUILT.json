@@ -28343,6 +28343,19 @@
     "version": "v1.9.85"
   },
   {
+    "description": "OCR letter recognition for Advent of Code puzzles - Go translation",
+    "name": "aococr",
+    "pkg_id": "aococr#gitlab.com_jhinrichsen_aococr",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-07",
+    "version": "v0.1.0"
+  },
+  {
     "description": "A modern download manager that supports all platforms.  Built with Golang and Flutter.",
     "name": "api",
     "pkg_id": "api#github.com_GopeedLab_gopeed",
@@ -28566,7 +28579,9 @@
     "name": "api",
     "pkg_id": "api#github.com_google_flatbuffers_grpc_examples_go_greeter_server",
     "targets": [
+      "aarch64-Linux",
       "loongarch64-Linux",
+      "riscv64-Linux",
       "x86_64-Linux"
     ],
     "updated_at": "2025-08-07",
@@ -50746,7 +50761,10 @@
     "name": "buildtree",
     "pkg_id": "buildtree#github.com_neomen_buildtree",
     "targets": [
-      "riscv64-Linux"
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-08-07",
     "version": "v1.0.0"
@@ -60899,8 +60917,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-22",
-    "version": "v2.0.0-20250716060240-ac92cbe5701c"
+    "updated_at": "2025-08-07",
+    "version": "v2.0.0-20250731084034-f7f150c3f139"
   },
   {
     "description": "Terraform MongoDB Atlas Provider: Deploy, update, and manage MongoDB Atlas infrastructure as code through HashiCorp Terraform",
@@ -61185,8 +61203,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-22",
-    "version": "v2.0.0-20250716060240-ac92cbe5701c"
+    "updated_at": "2025-08-07",
+    "version": "v2.0.0-20250731084034-f7f150c3f139"
   },
   {
     "description": "Dapr SDK for go",
@@ -71511,8 +71529,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-22",
-    "version": "v2.0.0-20250716060240-ac92cbe5701c"
+    "updated_at": "2025-08-07",
+    "version": "v2.0.0-20250731084034-f7f150c3f139"
   },
   {
     "description": "Kinesis Client Library for Go",
@@ -82233,7 +82251,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-27",
+    "updated_at": "2025-08-07",
     "version": "v0.0.0-20250612154940-e635d0cda3c4"
   },
   {
@@ -84241,8 +84259,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-22",
-    "version": "v2.0.0-20250716060240-ac92cbe5701c"
+    "updated_at": "2025-08-07",
+    "version": "v2.0.0-20250731084034-f7f150c3f139"
   },
   {
     "description": "LPA UID generation and storage service: Managed by opg-org-infra & Terraform",
@@ -87536,6 +87554,19 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.0.0-20250624110524-0decfdc6ed17"
+  },
+  {
+    "description": "Removing CDN IPs from the list of IP addresses",
+    "name": "cut-cdn",
+    "pkg_id": "cut-cdn#github.com_thearqsz_cut_cdn",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-07",
+    "version": "v0.0.0-20250805104341-2c769e4ae826"
   },
   {
     "description": "Proxy",
@@ -118433,8 +118464,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-22",
-    "version": "v2.0.0-20250716060240-ac92cbe5701c"
+    "updated_at": "2025-08-07",
+    "version": "v2.0.0-20250731084034-f7f150c3f139"
   },
   {
     "description": "RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar",
@@ -128636,6 +128667,19 @@
     "version": "v0.16.4"
   },
   {
+    "description": "A CLI tool for querying Apache Arrow Flight SQL services",
+    "name": "flight-sql-client",
+    "pkg_id": "flight-sql-client#github.com_srimaln91_flight_sql_client",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-07",
+    "version": "v0.0.1"
+  },
+  {
     "description": "No Description Provided",
     "name": "flightctl",
     "pkg_id": "flightctl#github.com_flightctl_flightctl",
@@ -131443,6 +131487,19 @@
     ],
     "updated_at": "2025-06-22",
     "version": "HEAD-f5d69c2-240811T113759"
+  },
+  {
+    "description": "A simple Go application that displays Happy Friendship Day ASCII art and a text greeting with the recipient's name and a social media sharing URL",
+    "name": "friendship-day-wishes",
+    "pkg_id": "friendship-day-wishes#github.com_sanwebinfo_friendship_day_wishes",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-07",
+    "version": "v0.0.0-20250801071513-7b32984f16a4"
   },
   {
     "description": "Sending events from Frigate to Telegram.",
@@ -140060,8 +140117,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-22",
-    "version": "v2.0.0-20250716060240-ac92cbe5701c"
+    "updated_at": "2025-08-07",
+    "version": "v2.0.0-20250731084034-f7f150c3f139"
   },
   {
     "description": "The Prometheus monitoring system and time series database",
@@ -153748,6 +153805,19 @@
     "version": "v0.0.0-20250627141000-ef64c2220790"
   },
   {
+    "description": "MyApps Presence Integration for Opentalk",
+    "name": "go-myapps-app-opentalk",
+    "pkg_id": "go-myapps-app-opentalk#github.com_ricoschulte_go_myapps_app_opentalk",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-07",
+    "version": "v0.0.0-20250624080136-f8edacb00237"
+  },
+  {
     "description": "a powerful mysql toolset with Go",
     "name": "go-mysqlbinlog",
     "pkg_id": "go-mysqlbinlog#github.com_go_mysql_org_go_mysql",
@@ -163443,6 +163513,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-f7d6b4c-250506T201054"
+  },
+  {
+    "description": "A simple music scrobbler daemon for MPRIS-based music players",
+    "name": "goscrobble",
+    "pkg_id": "goscrobble#github.com_p_mng_goscrobble",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-07",
+    "version": "v0.3.2"
   },
   {
     "description": "DRCS/Sixel Encoder/Decoder",
@@ -175748,6 +175831,19 @@
     "version": "v0.11.1"
   },
   {
+    "description": "A small command line utility for hot reloading",
+    "name": "hr",
+    "pkg_id": "hr#github.com_rtfmkiesel_hr",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-07",
+    "version": "v0.0.1"
+  },
+  {
     "description": "AIStore: scalable storage for AI applications",
     "name": "hrw",
     "pkg_id": "hrw#github.com_NVIDIA_aistore",
@@ -179070,6 +179166,19 @@
     "version": "HEAD-ee9b066-250212T114115"
   },
   {
+    "description": "A command-line tool for detecting hyphens",
+    "name": "hyphenlu",
+    "pkg_id": "hyphenlu#github.com_rezauditore_hyphenlu",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-07",
+    "version": "v0.0.0-20250721115626-c1c0a331791e"
+  },
+  {
     "description": "A Collection of small and simple golang programs that do not justify their own repository",
     "name": "hzmapcleaner",
     "pkg_id": "hzmapcleaner#github.com_rabobank_go_utils_hzmapcleaner",
@@ -179738,6 +179847,19 @@
     ],
     "updated_at": "2025-06-23",
     "version": "HEAD-408e0dd-250622T225441"
+  },
+  {
+    "description": "Identity Management plugins",
+    "name": "identity-management-plugins",
+    "pkg_id": "identity-management-plugins#github.com_openkcm_identity_management_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-07",
+    "version": "v0.0.0-20250724120910-13967f05386a"
   },
   {
     "description": "My Go experiments",
@@ -189994,8 +190116,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-22",
-    "version": "v2.0.0-20250716060240-ac92cbe5701c"
+    "updated_at": "2025-08-07",
+    "version": "v2.0.0-20250731084034-f7f150c3f139"
   },
   {
     "description": "Create your software architecture models and diagrams in Go.",
@@ -200543,6 +200665,19 @@
     "version": "v0.0.0-20250716062514-613cf5bd4bdd"
   },
   {
+    "description": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs",
+    "name": "learngo",
+    "pkg_id": "learngo#github.com_inancgumus_learngo",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-07",
+    "version": "v0.0.0-20250624230352-3c475a78e543"
+  },
+  {
     "description": "Various technology deployments, tools & code",
     "name": "learning-init",
     "pkg_id": "learning-init#github.com_matihost_monorepo_go_learning",
@@ -208836,7 +208971,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-02",
+    "updated_at": "2025-08-07",
     "version": "v0.0.0-20250629000347-7ec45227320e"
   },
   {
@@ -211262,6 +211397,18 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.0.0-20250601101430-d3e6f63dcf9d"
+  },
+  {
+    "description": "FlatBuffers: Memory Efficient Serialization Library",
+    "name": "main",
+    "pkg_id": "main#github.com_google_flatbuffers_samples",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-07",
+    "version": "v0.0.0-20250806205344-ff9cba2bff66"
   },
   {
     "description": "A compiler from Go to JavaScript for running Go code in a browser",
@@ -231642,6 +231789,19 @@
     "version": "HEAD-fd79e4c-250619T140850"
   },
   {
+    "description": "Tune all network interfaces for best performance",
+    "name": "nic-config",
+    "pkg_id": "nic-config#github.com_zcalusic_nic_config",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-07",
+    "version": "v0.0.0-20250728130809-d17afa24e705"
+  },
+  {
     "description": "Nvidia Networking NIC Configuration Operator For Kubernetes",
     "name": "nic-configuration-daemon",
     "pkg_id": "nic-configuration-daemon#github.com_Mellanox_nic_configuration_operator",
@@ -235820,7 +235980,9 @@
     "name": "oapi",
     "pkg_id": "oapi#github.com_google_flatbuffers_grpc_examples_go_greeter_server",
     "targets": [
+      "aarch64-Linux",
       "loongarch64-Linux",
+      "riscv64-Linux",
       "x86_64-Linux"
     ],
     "updated_at": "2025-08-07",
@@ -255355,8 +255517,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-22",
-    "version": "v2.0.0-20250716060240-ac92cbe5701c"
+    "updated_at": "2025-08-07",
+    "version": "v2.0.0-20250731084034-f7f150c3f139"
   },
   {
     "description": "Fast, secure, efficient backup program",
@@ -258312,6 +258474,19 @@
     ],
     "updated_at": "2025-06-28",
     "version": "HEAD-6b8c5ee-250627T140526"
+  },
+  {
+    "description": "A proxy that enforces a given label in a given PromQL query",
+    "name": "prom-label-proxy",
+    "pkg_id": "prom-label-proxy#github.com_prometheus_community_prom_label_proxy",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-07",
+    "version": "v0.12.0"
   },
   {
     "description": "Deploy additional networking components on top of your Kubernetes cluster",
@@ -271307,7 +271482,10 @@
     "name": "redundantimportalias",
     "pkg_id": "redundantimportalias#github.com_nobeans_redundantimportalias",
     "targets": [
-      "aarch64-Linux"
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-08-07",
     "version": "v0.0.4"
@@ -276822,8 +277000,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-22",
-    "version": "v2.0.0-20250716060240-ac92cbe5701c"
+    "updated_at": "2025-08-07",
+    "version": "v2.0.0-20250731084034-f7f150c3f139"
   },
   {
     "description": "Releases of CERNBox backend",
@@ -276848,8 +277026,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-22",
-    "version": "v2.0.0-20250716060240-ac92cbe5701c"
+    "updated_at": "2025-08-07",
+    "version": "v2.0.0-20250731084034-f7f150c3f139"
   },
   {
     "description": "Interview Learn in 24",
@@ -277730,6 +277908,19 @@
     ],
     "updated_at": "2025-06-23",
     "version": "HEAD-d435080-250623T115912"
+  },
+  {
+    "description": "A ringbuffer demo written in go",
+    "name": "ringbuffer",
+    "pkg_id": "ringbuffer#github.com_vtrenton_ringbuffer",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-07",
+    "version": "v0.0.0-20250604044856-871332da13c7"
   },
   {
     "description": "OpenAPI Spec SDK and Converter for OpenAPI 3.0 and 2.0 Specs to Postman 2.0 Collections. Example RingCentral spec included.",
@@ -287190,8 +287381,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-22",
-    "version": "v2.0.0-20250716060240-ac92cbe5701c"
+    "updated_at": "2025-08-07",
+    "version": "v2.0.0-20250731084034-f7f150c3f139"
   },
   {
     "description": "SourceHub is a Cosmos/Tendermint blockchain, acting as the trust layer for the Source ecosystem",
@@ -295033,6 +295224,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-3532c16-250331T163101"
+  },
+  {
+    "description": "Repository for Cryptography course at Distributed Lab",
+    "name": "sha1",
+    "pkg_id": "sha1#github.com_viza_cryptography_sha1",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-07",
+    "version": "v0.0.0-20250630142937-80939d76d549"
   },
   {
     "description": "A collection of little snippets of programs I write when I test out ideas. A code _playground_.",
@@ -309529,6 +309733,19 @@
     ],
     "updated_at": "2025-07-28",
     "version": "v0.64.0"
+  },
+  {
+    "description": "Use SQL to instantly query Azure resources across regions and subscriptions. Open source CLI. No DB required",
+    "name": "steampipe-plugin-azure",
+    "pkg_id": "steampipe-plugin-azure#github.com_turbot_steampipe_plugin_azure",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-07",
+    "version": "v1.6.0"
   },
   {
     "description": "Steampipe plugin to query your OVH Cloud projects and ressources",
@@ -340780,6 +340997,19 @@
     ],
     "updated_at": "2025-06-23",
     "version": "HEAD-6f1f044-250623T071734"
+  },
+  {
+    "description": "This is a simple Go web server that allows users to upload files and view a list of the uploaded files. The server can be run locally or deployed to a remote server. (Linux / Windows / Mac",
+    "name": "upgopher",
+    "pkg_id": "upgopher#github.com_wanetty_upgopher",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-07",
+    "version": "v1.11.0"
   },
   {
     "description": "On-Demand Service Broker _ODB_ golang SDK for easily creating brokers that provision instances via BOSH",
