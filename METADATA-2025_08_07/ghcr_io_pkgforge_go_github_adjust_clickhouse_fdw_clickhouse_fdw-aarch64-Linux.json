@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "clickhouse_fdw",
+  "pkg_family": "clickhouse_fdw",
+  "pkg_id": "clickhouse_fdw#github.com_adjust_clickhouse_fdw",
+  "pkg_name": "clickhouse_fdw",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/adjust/clickhouse_fdw",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "ClickHouse FDW for PostgreSQL",
+  "homepage": [
+    "https://github.com/adjust/clickhouse_fdw"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "clickhouse_fdw"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/adjust/clickhouse_fdw/@v/v0.0.0-20250731104259-cc928fd901c2.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250731104259-cc928fd901c2",
+  "version_upstream": "",
+  "bsum": "f0b12f9a25af938610f63e3fd4151bbb734195bf5681708e856180149b4099da",
+  "build_date": "2025-08-07T15:43:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16809089261",
+  "build_id": "16809089261",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adjust/clickhouse/fdw/clickhouse_fdw?tag=v0.0.0-20250731104259-cc928fd901c2-aarch64-Linux&download=clickhouse_fdw.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "269",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adjust/clickhouse/fdw/clickhouse_fdw?tag=v0.0.0-20250731104259-cc928fd901c2-aarch64-Linux&download=clickhouse_fdw",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/adjust/clickhouse/fdw/clickhouse_fdw:v0.0.0-20250731104259-cc928fd901c2-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/adjust/clickhouse/fdw/clickhouse_fdw",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/adjust/clickhouse/fdw/clickhouse_fdw?tag=v0.0.0-20250731104259-cc928fd901c2-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "74c0b344959c7bebc8982b953d8d2602a5f39e141a7f9896e88d1e6640d53159",
+  "size": "5.5 MB",
+  "size_raw": "5743872",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
