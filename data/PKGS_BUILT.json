@@ -21422,6 +21422,19 @@
     "version": "HEAD-5c84c3b-250627T123609"
   },
   {
+    "description": "This is a demo repo for showing CI/CD with Github Action",
+    "name": "action-demo",
+    "pkg_id": "action-demo#github.com_kim_groenborg_nielsen_action_demo",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.4.0"
+  },
+  {
     "description": "ROS client library for the Go programming language",
     "name": "action-import",
     "pkg_id": "action-import#github.com_bluenviron_goroslib",
@@ -41568,6 +41581,19 @@
     "version": "HEAD-d435080-250623T115912"
   },
   {
+    "description": "Live demo apps of several project",
+    "name": "batch_query",
+    "pkg_id": "batch_query#github.com_koykov_demo_batch_query",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250712120835-d3d53798b751"
+  },
+  {
     "description": "A Security Tool for Bug Bounty, Pentest and Red Teaming.",
     "name": "batch_scan",
     "pkg_id": "batch_scan#github.com_zan8in_afrog",
@@ -43627,6 +43653,19 @@
     ],
     "updated_at": "2025-06-29",
     "version": "HEAD-fb4812d-250629T224155"
+  },
+  {
+    "description": "Recognize when ddos protection services are activiate based on BGP messages",
+    "name": "bgp-ddos-detect",
+    "pkg_id": "bgp-ddos-detect#github.com_hafkensite_bgp_ddos_detect",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250625100010-d8da61e159ed"
   },
   {
     "description": "A very simple load balancer based on BGP multipaths",
@@ -56833,6 +56872,19 @@
     ],
     "updated_at": "2025-07-17",
     "version": "v0.0.0-20250414140739-a544b7f4eaed"
+  },
+  {
+    "description": "Like cadvisor but simple",
+    "name": "cgroup-exporter",
+    "pkg_id": "cgroup-exporter#github.com_groove_x_cgroup_exporter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.2.0"
   },
   {
     "description": "ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",
@@ -75202,6 +75254,19 @@
     "version": "v0.0.0-20250319102231-da86575527a8"
   },
   {
+    "description": "Go client library for PagerDuty v2 API",
+    "name": "command",
+    "pkg_id": "command#github.com_imjaroiswebdev_go_pagerduty_cli",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250807164326-ac58cc0e9b8c"
+  },
+  {
     "description": "IOTA-SDK - is an open-source modular ERP. An alternative to SAP, Oracle, Odoo written in Go with modern look _ feel",
     "name": "command",
     "pkg_id": "command#github.com_iota_uz_iota_sdk",
@@ -81728,6 +81793,19 @@
     "version": "v0.0.0-20250523173340-e77470d4d315"
   },
   {
+    "description": "Centralized utility for Copilot/AI agent command execution with logging and VS Code task integration",
+    "name": "copilot-agent-util",
+    "pkg_id": "copilot-agent-util#github.com_jdfalk_copilot_agent_util",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v1.1.0"
+  },
+  {
     "description": "This is simple GitHub copilot prometheus metrics exporter",
     "name": "copilot-metrics-exporter",
     "pkg_id": "copilot-metrics-exporter#github.com_asmild_copilot_metrics_exporter",
@@ -85817,6 +85895,19 @@
     "version": "HEAD-8816325-250619T114017"
   },
   {
+    "description": "Sidecar container that watches Kubernetes VolumeAttachment objects and triggers ControllerPublish/Unpublish against a CSI endpoint",
+    "name": "csi-attacher",
+    "pkg_id": "csi-attacher#github.com_kubernetes_csi_external_attacher",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250530170219-d87f23594645"
+  },
+  {
     "description": "EOS CSI driver",
     "name": "csi-driver",
     "pkg_id": "csi-driver#github.com_cern_eos_eosxd_csi",
@@ -85841,6 +85932,19 @@
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-7897f70-250620T154403"
+  },
+  {
+    "description": "Sidecar container that registers a CSI driver with the kubelet using the kubelet plugin registration mechanism",
+    "name": "csi-node-driver-registrar",
+    "pkg_id": "csi-node-driver-registrar#github.com_kubernetes_csi_node_driver_registrar",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250530170219-8bd83d14abc6"
   },
   {
     "description": "Hybrid storage plugin",
@@ -89167,6 +89271,19 @@
     ],
     "updated_at": "2025-06-24",
     "version": "HEAD-006ee0b-250624T101726"
+  },
+  {
+    "description": "Send Sidekiq metrics to Datadog via DogStatsD",
+    "name": "datadog-sidekiq",
+    "pkg_id": "datadog-sidekiq#github.com_feedforce_datadog_sidekiq",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.17"
   },
   {
     "description": "Sample apps and code written for Google Cloud in the Go programming language",
@@ -95896,6 +96013,16 @@
     "version": "HEAD-4d0675f-250218T221012"
   },
   {
+    "description": "Debian Code Search (codesearch.debian.net) is a search engine that searches through all the 130 GB of open source software that is included in Debian. Supports regular expressions",
+    "name": "dcs",
+    "pkg_id": "dcs#github.com_debian_dcs",
+    "targets": [
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250803100032-b034d72f6897"
+  },
+  {
     "description": "Debian Code Search _codesearch.debian.net_ is a search engine that searches through all the 130 GB of open source software that is included in Debian. Supports regular expressions!",
     "name": "dcs-compute-ranking",
     "pkg_id": "dcs-compute-ranking#github.com_Debian_dcs",
@@ -95907,6 +96034,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-4d0675f-250218T221012"
+  },
+  {
+    "description": "Debian Code Search (codesearch.debian.net) is a search engine that searches through all the 130 GB of open source software that is included in Debian. Supports regular expressions",
+    "name": "dcs-compute-ranking",
+    "pkg_id": "dcs-compute-ranking#github.com_debian_dcs",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250803100032-b034d72f6897"
   },
   {
     "description": "Debian Code Search _codesearch.debian.net_ is a search engine that searches through all the 130 GB of open source software that is included in Debian. Supports regular expressions!",
@@ -95922,6 +96062,19 @@
     "version": "HEAD-4d0675f-250218T221012"
   },
   {
+    "description": "Debian Code Search (codesearch.debian.net) is a search engine that searches through all the 130 GB of open source software that is included in Debian. Supports regular expressions",
+    "name": "dcs-feeder",
+    "pkg_id": "dcs-feeder#github.com_debian_dcs",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250803100032-b034d72f6897"
+  },
+  {
     "description": "Debian Code Search _codesearch.debian.net_ is a search engine that searches through all the 130 GB of open source software that is included in Debian. Supports regular expressions!",
     "name": "dcs-localdcs",
     "pkg_id": "dcs-localdcs#github.com_Debian_dcs",
@@ -95935,6 +96088,19 @@
     "version": "HEAD-4d0675f-250218T221012"
   },
   {
+    "description": "Debian Code Search (codesearch.debian.net) is a search engine that searches through all the 130 GB of open source software that is included in Debian. Supports regular expressions",
+    "name": "dcs-localdcs",
+    "pkg_id": "dcs-localdcs#github.com_debian_dcs",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250803100032-b034d72f6897"
+  },
+  {
     "description": "Debian Code Search _codesearch.debian.net_ is a search engine that searches through all the 130 GB of open source software that is included in Debian. Supports regular expressions!",
     "name": "dcs-package-importer",
     "pkg_id": "dcs-package-importer#github.com_Debian_dcs",
@@ -95943,6 +96109,16 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-4d0675f-250218T221012"
+  },
+  {
+    "description": "Debian Code Search (codesearch.debian.net) is a search engine that searches through all the 130 GB of open source software that is included in Debian. Supports regular expressions",
+    "name": "dcs-package-importer",
+    "pkg_id": "dcs-package-importer#github.com_debian_dcs",
+    "targets": [
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250803100032-b034d72f6897"
   },
   {
     "description": "Debian Code Search _codesearch.debian.net_ is a search engine that searches through all the 130 GB of open source software that is included in Debian. Supports regular expressions!",
@@ -95958,6 +96134,19 @@
     "version": "HEAD-4d0675f-250218T221012"
   },
   {
+    "description": "Debian Code Search (codesearch.debian.net) is a search engine that searches through all the 130 GB of open source software that is included in Debian. Supports regular expressions",
+    "name": "dcs-reshard",
+    "pkg_id": "dcs-reshard#github.com_debian_dcs",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250803100032-b034d72f6897"
+  },
+  {
     "description": "Debian Code Search _codesearch.debian.net_ is a search engine that searches through all the 130 GB of open source software that is included in Debian. Supports regular expressions!",
     "name": "dcs-source-backend",
     "pkg_id": "dcs-source-backend#github.com_Debian_dcs",
@@ -95968,6 +96157,16 @@
     "version": "HEAD-4d0675f-250218T221012"
   },
   {
+    "description": "Debian Code Search (codesearch.debian.net) is a search engine that searches through all the 130 GB of open source software that is included in Debian. Supports regular expressions",
+    "name": "dcs-source-backend",
+    "pkg_id": "dcs-source-backend#github.com_debian_dcs",
+    "targets": [
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250803100032-b034d72f6897"
+  },
+  {
     "description": "Debian Code Search _codesearch.debian.net_ is a search engine that searches through all the 130 GB of open source software that is included in Debian. Supports regular expressions!",
     "name": "dcs-web",
     "pkg_id": "dcs-web#github.com_Debian_dcs",
@@ -95976,6 +96175,16 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-4d0675f-250218T221012"
+  },
+  {
+    "description": "Debian Code Search (codesearch.debian.net) is a search engine that searches through all the 130 GB of open source software that is included in Debian. Supports regular expressions",
+    "name": "dcs-web",
+    "pkg_id": "dcs-web#github.com_debian_dcs",
+    "targets": [
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250803100032-b034d72f6897"
   },
   {
     "description": "To manage Docker Content Trust and Notary certificates",
@@ -101525,6 +101734,19 @@
     "version": "v1.0.0"
   },
   {
+    "description": "Main repo",
+    "name": "digital-identity-system",
+    "pkg_id": "digital-identity-system#github.com_bsc_digital_identity_digital_identity_system",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250807232853-dea2d7490ebe"
+  },
+  {
     "description": "Serverelss platform for jobs and services based on Nuclio",
     "name": "digitalhub-serverless",
     "pkg_id": "digitalhub-serverless#github.com_scc_digitalhub_digitalhub_serverless",
@@ -105013,6 +105235,19 @@
     "version": "v0.0.0-20250627145104-0ddb93eb7fd5"
   },
   {
+    "description": "Report storage usage of a Docker Registry. Reports usage by image and tag, shared and exclusive usage",
+    "name": "docker-registry-du",
+    "pkg_id": "docker-registry-du#github.com_aoresnik_docker_registry_du",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250702152512-466152c95a10"
+  },
+  {
     "description": "Web UI for Docker Registry",
     "name": "docker-registry-ui",
     "pkg_id": "docker-registry-ui#github.com_quiq_docker_registry_ui",
@@ -108226,6 +108461,19 @@
     ],
     "updated_at": "2025-08-04",
     "version": "v0.0.0-20250710152304-e7d21ade8be4"
+  },
+  {
+    "description": "Drone plugin to control simple DNS records via Cloudflare's API",
+    "name": "drone-cloudflare-dns",
+    "pkg_id": "drone-cloudflare-dns#github.com_jetrails_drone_cloudflare_dns",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250710152406-3fd4cca1a0ff"
   },
   {
     "description": "Drone plugin for sending message to Discord channel using Webhook",
@@ -112980,6 +113228,19 @@
     ],
     "updated_at": "2025-06-23",
     "version": "HEAD-26f2d91-250622T181227"
+  },
+  {
+    "description": "A simple service to wait for email requests to arrive over AMQP and forward them to cyverse-email",
+    "name": "email-requests",
+    "pkg_id": "email-requests#github.com_cyverse_de_email_requests",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250804230715-266e3b152ba7"
   },
   {
     "description": "List of public email providers for Golang",
@@ -135340,6 +135601,32 @@
     "version": "HEAD-2d10069-250518T141407"
   },
   {
+    "description": "GatewayD plugin for caching query results",
+    "name": "gatewayd-plugin-cache",
+    "pkg_id": "gatewayd-plugin-cache#github.com_gatewayd_io_gatewayd_plugin_cache",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.4.4"
+  },
+  {
+    "description": "GatewayD plugin for SQL injection detection and prevention",
+    "name": "gatewayd-plugin-sql-ids-ips",
+    "pkg_id": "gatewayd-plugin-sql-ids-ips#github.com_gatewayd_io_gatewayd_plugin_sql_ids_ips",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.4.4"
+  },
+  {
     "description": "Grafana Tempo Kubernetes operator",
     "name": "gather",
     "pkg_id": "gather#github.com_grafana_tempo_operator",
@@ -139420,6 +139707,19 @@
     "version": "HEAD-8ab7071-250625T153722"
   },
   {
+    "description": "Key-value datastore interfaces",
+    "name": "generate",
+    "pkg_id": "generate#github.com_ipfs_go_datastore_fuzz",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250805145454-4fb7cfb6ae65"
+  },
+  {
     "description": "No Description Provided",
     "name": "generate",
     "pkg_id": "generate#github.com_josephcopenhaver_loadtester_go",
@@ -142876,6 +143176,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-4d0675f-250218T221012"
+  },
+  {
+    "description": "Debian Code Search (codesearch.debian.net) is a search engine that searches through all the 130 GB of open source software that is included in Debian. Supports regular expressions",
+    "name": "genprodcerts",
+    "pkg_id": "genprodcerts#github.com_debian_dcs",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250803100032-b034d72f6897"
   },
   {
     "description": "Gno: An interpreted, stack-based Go virtual machine to build succinct and composable apps + gno.land: a blockchain for timeless code and fair open-source.",
@@ -147141,6 +147454,19 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.0.0-20250620192529-97507373e66a"
+  },
+  {
+    "description": "A git extension that summarize the relative state of all your brannches",
+    "name": "git-ahead-behind",
+    "pkg_id": "git-ahead-behind#github.com_gdetrez_git_ahead_behind",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250730082133-688283c1d61f"
   },
   {
     "description": "Git aicommit",
@@ -152871,6 +153197,19 @@
     "version": "v0.0.0-20250624022550-b10b9d040865"
   },
   {
+    "description": "Unoffical geofabrik api client",
+    "name": "go-geofabrik",
+    "pkg_id": "go-geofabrik#github.com_iwpnd_go_geofabrik",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.6.3"
+  },
+  {
     "description": "Package for downloading things from a string URL using a variety of protocols.",
     "name": "go-getter",
     "pkg_id": "go-getter#github.com_hashicorp_go_getter",
@@ -154062,6 +154401,19 @@
     ],
     "updated_at": "2025-06-26",
     "version": "HEAD-32fb9b1-250626T084811"
+  },
+  {
+    "description": "Go client library for PagerDuty v2 API",
+    "name": "go-pagerduty-cli-examples",
+    "pkg_id": "go-pagerduty-cli-examples#github.com_imjaroiswebdev_go_pagerduty_cli",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250807164326-ac58cc0e9b8c"
   },
   {
     "description": "go client library for PagerDuty v2 API",
@@ -158377,6 +158729,19 @@
     ],
     "updated_at": "2025-07-02",
     "version": "v0.0.0-20250406135856-22a510327c32"
+  },
+  {
+    "description": "Godeb transforms upstream tarballs for the Go language into deb packages and installs them",
+    "name": "godeb",
+    "pkg_id": "godeb#github.com_ibug_godeb",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250806092140-3ce7f51e04ff"
   },
   {
     "description": "Go tools for working with Apple's Device Management schemas",
@@ -168710,6 +169075,19 @@
     "version": "HEAD-1f1350a-250627T160137"
   },
   {
+    "description": "Go Version Manager (written in Go for cross-platform usability",
+    "name": "gvm",
+    "pkg_id": "gvm#github.com_andrewkroh_gvm",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.5.3"
+  },
+  {
     "description": "A lightweight tool for creating and managing isolated Go development environments, inspired by Python's venv and Node.js's nvm",
     "name": "gvm",
     "pkg_id": "gvm#github.com_nickciolpan_gvm",
@@ -174411,6 +174789,19 @@
     "version": "v0.0.0-20250803005805-806cf1a65d0b"
   },
   {
+    "description": "Octocat:🔢 GitHub 仓库浏览计数",
+    "name": "hits",
+    "pkg_id": "hits#github.com_88250_hits",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250701021641-5fd0aba588d9"
+  },
+  {
     "description": "Ethereum end-to-end test harness",
     "name": "hive",
     "pkg_id": "hive#github.com_ethereum_hive",
@@ -177658,6 +178049,19 @@
     "version": "HEAD-233a429-250622T103953"
   },
   {
+    "description": "Golang code pieces",
+    "name": "httpboom",
+    "pkg_id": "httpboom#github.com_fooofei_go_pieces_tools_xboom",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250723122347-43f9031c2905"
+  },
+  {
     "description": "go websocket, a better way to buid your IM server",
     "name": "httpclient",
     "pkg_id": "httpclient#github.com_fanux_lhttp",
@@ -177981,6 +178385,19 @@
     ],
     "updated_at": "2025-06-30",
     "version": "v0.0.0-20250627114144-fb1cf16dbda9"
+  },
+  {
+    "description": "A Go-based command-line tool for running multiple, parallel HTTP requests",
+    "name": "httprunner",
+    "pkg_id": "httprunner#github.com_deicon_httprunner",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250807164010-daec52053ab5"
   },
   {
     "description": "Various technology deployments, tools & code",
@@ -184002,6 +184419,19 @@
     "version": "v0.1.1"
   },
   {
+    "description": "A utility to help detect file changes in docker containers where filesystem is mounted by NFS. It's much more powerful and faster than other similar solutions",
+    "name": "inotify-proxy",
+    "pkg_id": "inotify-proxy#github.com_cmuench_inotify_proxy",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250807085119-64edf35abccd"
+  },
+  {
     "description": "A fully-featured window manager written in Go.",
     "name": "input",
     "pkg_id": "input#github.com_BurntSushi_wingo",
@@ -186988,6 +187418,18 @@
     ],
     "updated_at": "2025-07-02",
     "version": "v0.0.0-20250331212724-14ba9a1c95c7"
+  },
+  {
+    "description": "A very basic webserver that listens on port 80 and returns the apparent origin IP",
+    "name": "ipecho",
+    "pkg_id": "ipecho#github.com_lgrn_ipecho",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250730070938-d531311e2662"
   },
   {
     "description": "No Description Provided",
@@ -193978,6 +194420,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-9974270-250619T162908"
+  },
+  {
+    "description": "Use to keep the RAW files with same name as JPG files",
+    "name": "keep-raw-files",
+    "pkg_id": "keep-raw-files#github.com_hao1995_keep_raw_files",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250803125440-ca3e188c8568"
   },
   {
     "description": "An open source platform for managing and analyzing biomedical big data",
@@ -204851,6 +205306,18 @@
     "version": "HEAD-3e2a7cb-250628T162441"
   },
   {
+    "description": "A sidecar container that can be included in a CSI plugin pod to enable integration with Kubernetes Liveness Probe",
+    "name": "livenessprobe",
+    "pkg_id": "livenessprobe#github.com_kubernetes_csi_livenessprobe",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250529112817-9b46a131aa33"
+  },
+  {
     "description": "网页实时在线人数统计",
     "name": "liveuser",
     "pkg_id": "liveuser#github.com_ymyuuu_LiveUser",
@@ -205236,6 +205703,19 @@
     ],
     "updated_at": "2025-06-28",
     "version": "HEAD-cf3283f-250628T144238"
+  },
+  {
+    "description": "A command-line interface tool for interacting with Large Language Models through AWS Bedrock",
+    "name": "llmcli",
+    "pkg_id": "llmcli#github.com_artyom_llmcli",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.5.0"
   },
   {
     "description": "LangChain for Go, the easiest way to write LLM-based programs in Go",
@@ -206908,6 +207388,19 @@
     ],
     "updated_at": "2025-07-10",
     "version": "v1.14.2"
+  },
+  {
+    "description": "Dogecoin Foundation maintained Dogebox pups",
+    "name": "logger",
+    "pkg_id": "logger#github.com_dogeorg_pups",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.2.4"
   },
   {
     "description": "A docker-powered PaaS that helps you build and manage the lifecycle of applications",
@@ -211000,6 +211493,19 @@
     ],
     "updated_at": "2025-07-08",
     "version": "v0.0.0-20250616023654-7eeec50ef2c9"
+  },
+  {
+    "description": "MCP Server for Devs",
+    "name": "magnet",
+    "pkg_id": "magnet#github.com_alwindoss_magnet",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250807165227-fd2f981e49a6"
   },
   {
     "description": "Full-featured BitTorrent client package and utilities",
@@ -215993,6 +216499,19 @@
     "version": "v0.0.0-20250703123157-ed1ddbe5b2c9"
   },
   {
+    "description": "Mcp registry cli",
+    "name": "mcpx-cli",
+    "pkg_id": "mcpx-cli#github.com_ai_mcpx_mcpx_cli",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v1.2.0"
+  },
+  {
     "description": "微服务工具箱",
     "name": "mcube",
     "pkg_id": "mcube#github.com_infraboard_mcube",
@@ -219151,6 +219670,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-7e78735-250414T230355"
+  },
+  {
+    "description": "Here's a step-by-step guide on building and deploying simple microservices using Go and Node.js, with respective Postgres databases. We'll use gRPC for communication, containerize each microservice and database using Docker, and deploy them to AWS ECR (Elastic Container Registry) using Docker Compose",
+    "name": "microservice",
+    "pkg_id": "microservice#github.com_gbengafagbola_microservice",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250613171541-ad62effcbba1"
   },
   {
     "description": "Gomake is a cross-platform compilation tool built on Mage, specifically designed for Go language projects. It offers comprehensive support for various operating systems and CPU architectures, covering the entire workflow from compilation to launching, monitoring, and stopping services",
@@ -224193,6 +224725,19 @@
     "version": "HEAD-9b16514-250620T091030"
   },
   {
+    "description": "With mongodb-benchmarking you can benchmark your mongo database multithreaded",
+    "name": "mongodb-benchmarking",
+    "pkg_id": "mongodb-benchmarking#github.com_idealo_mongodb_benchmarking",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v1.7.0"
+  },
+  {
     "description": "MongoDB data source for Grafana",
     "name": "mongodb-datasource",
     "pkg_id": "mongodb-datasource#github.com_haohanyang_mongodb_datasource",
@@ -224386,6 +224931,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-8119777-240822T132915"
+  },
+  {
+    "description": "Dogecoin Foundation maintained Dogebox pups",
+    "name": "monitor",
+    "pkg_id": "monitor#github.com_dogeorg_pups",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.2.4"
   },
   {
     "description": "Toolkit for lean builds and team management",
@@ -228359,6 +228917,19 @@
     ],
     "updated_at": "2025-06-27",
     "version": "HEAD-552014d-250627T123352"
+  },
+  {
+    "description": "N-Queens problem with genetic algorithm in Go",
+    "name": "n_queens_problem_go",
+    "pkg_id": "n_queens_problem_go#github.com_andreashdez_n_queens_problem_go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250628233150-b10c6b5a43d6"
   },
   {
     "description": "Pure Go implementation of the NaCL set of API_s",
@@ -246269,6 +246840,19 @@
     "version": "HEAD-75987a1-250508T201010"
   },
   {
+    "description": "A Go implementation of Vim's \"pathshorten\" function",
+    "name": "pathshorten",
+    "pkg_id": "pathshorten#github.com_damiendart_pathshorten",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250802190835-9b0fd8a5a4f3"
+  },
+  {
     "description": "Package for building REST-style Web Services using Go",
     "name": "pathtail",
     "pkg_id": "pathtail#github.com_emicklei_go_restful_examples_pathtail",
@@ -249298,7 +249882,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-25",
+    "updated_at": "2025-08-08",
     "version": "v1.1.0-be98c53"
   },
   {
@@ -249363,6 +249947,19 @@
     ],
     "updated_at": "2025-06-23",
     "version": "HEAD-d435080-250623T115912"
+  },
+  {
+    "description": "IPREF netutils - CLI utilities for hosts behind an IPREF gateway",
+    "name": "ping",
+    "pkg_id": "ping#github.com_ipref_netutils",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v1.0.0"
   },
   {
     "description": "Katzenpost is a free and open source software project dedicated to researching and developing mix network protocols",
@@ -252768,6 +253365,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-fc20857-250620T023758"
+  },
+  {
+    "description": "Solo db-less bitcoin-only mining pool, meant for lan swarms",
+    "name": "pogolo",
+    "pkg_id": "pogolo#github.com_0xf0xx0_pogolo",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.6"
   },
   {
     "description": "Leaning GoLang fundamentals with examples",
@@ -261667,7 +262277,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-16",
+    "updated_at": "2025-08-08",
     "version": "v0.0.0-20250618161309-8d0c35f1333c"
   },
   {
@@ -267716,6 +268326,19 @@
     "version": "v0.0.0-20250625151445-f0728c4fe028"
   },
   {
+    "description": "Creates a comma separated output to STDOUT containing fake customer records",
+    "name": "randdatagen",
+    "pkg_id": "randdatagen#github.com_gford1000_go_randdatagen",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250806081503-c66089b370ff"
+  },
+  {
     "description": "A Go compiler based on LLVM in order to better integrate Go with the C ecosystem including Python",
     "name": "randdemo",
     "pkg_id": "randdemo#github.com_goplus_llgo_demo",
@@ -267805,6 +268428,19 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.62.0"
+  },
+  {
+    "description": "The Prometheus monitoring system and time series database",
+    "name": "random",
+    "pkg_id": "random#github.com_prometheus_prometheus_web_ui_mantine_ui_src_promql_tools",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250806170547-208187eaa19b"
   },
   {
     "description": "Автотесты для курса по Go",
@@ -270907,6 +271543,19 @@
     "version": "HEAD-b1722d7-250620T113046"
   },
   {
+    "description": "The Prometheus monitoring system and time series database",
+    "name": "red",
+    "pkg_id": "red#github.com_prometheus_prometheus_web_ui_mantine_ui_src_promql_tools",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250806170547-208187eaa19b"
+  },
+  {
     "description": "My solutions for Advent of Code AoC 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024",
     "name": "red-nosed-reports",
     "pkg_id": "red-nosed-reports#github.com_lucianoq_adventofcode",
@@ -271267,6 +271916,18 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.0.0-20250313070643-fccbc572b766"
+  },
+  {
+    "description": "RedisBoard is a Go library for Redis-backed leaderboards with global and entity-based rankings (e.g., top players worldwide or by country). Built for apps like games or quizzes, it’s designed to manage users, scores, and groups efficiently. Using Redis sorted sets, it provides a clean API with atomic updates and scalable performance",
+    "name": "redisboard",
+    "pkg_id": "redisboard#github.com_lijuuu_redisboard",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250617061554-f5fae0021242"
   },
   {
     "description": "WeScale is a Modern MySQL proxy that supports read-write-split, read-after-write-consistency, load balancing and OnlineDDL",
@@ -273314,6 +273975,44 @@
     ],
     "updated_at": "2025-06-26",
     "version": "HEAD-de04a0b-250626T061830"
+  },
+  {
+    "description": "Sidecar container that watches Kubernetes VolumeAttachment objects and triggers ControllerPublish/Unpublish against a CSI endpoint",
+    "name": "release-tools",
+    "pkg_id": "release-tools#github.com_kubernetes_csi_external_attacher",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250530170219-d87f23594645"
+  },
+  {
+    "description": "A sidecar container that can be included in a CSI plugin pod to enable integration with Kubernetes Liveness Probe",
+    "name": "release-tools",
+    "pkg_id": "release-tools#github.com_kubernetes_csi_livenessprobe",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250529112817-9b46a131aa33"
+  },
+  {
+    "description": "Sidecar container that registers a CSI driver with the kubelet using the kubelet plugin registration mechanism",
+    "name": "release-tools",
+    "pkg_id": "release-tools#github.com_kubernetes_csi_node_driver_registrar",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250530170219-8bd83d14abc6"
   },
   {
     "description": "The Google Compute Engine Persistent Disk _GCE PD_ Container Storage Interface _CSI_ Storage Plugin.",
@@ -280664,6 +281363,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-a8ced0d-241218T233413"
+  },
+  {
+    "description": "Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader",
+    "name": "rssnix",
+    "pkg_id": "rssnix#github.com_jafarlihi_rssnix",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250719164306-0a0344f593e9"
   },
   {
     "description": "Package your Risor scripts into a standalone Go binary",
@@ -304726,6 +305438,19 @@
     "version": "HEAD-c863fc3-250612T160832"
   },
   {
+    "description": "Non-sucking database",
+    "name": "speicher",
+    "pkg_id": "speicher#github.com_bloodmagesoftware_speicher",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v1.1.4"
+  },
+  {
     "description": "Spell checker in golang",
     "name": "spell-check",
     "pkg_id": "spell-check#github.com_bharatm29_spell_check",
@@ -307126,7 +307851,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-01",
+    "updated_at": "2025-08-08",
     "version": "v0.0.0-20250424022641-9118ff15cde2"
   },
   {
@@ -310173,6 +310898,19 @@
     ],
     "updated_at": "2025-06-23",
     "version": "HEAD-64813bd-250623T164008"
+  },
+  {
+    "description": "Plugin to query stock ticker information",
+    "name": "stock-plugin",
+    "pkg_id": "stock-plugin#github.com_jaredledvina_stock_plugin",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.4.1"
   },
   {
     "description": "DIAdata.org platform",
@@ -318481,6 +319219,18 @@
     "version": "HEAD-a06c4b1-250626T103826"
   },
   {
+    "description": "Notify when some string matches on stdin. Can be used for notifying an app has completed startup, for example",
+    "name": "tee-notify",
+    "pkg_id": "tee-notify#github.com_laher_tee_notify",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250615091125-636047e51968"
+  },
+  {
     "description": "Masa Jobserver running in a TEE enclave",
     "name": "tee-worker",
     "pkg_id": "tee-worker#github.com_masa_finance_tee_worker",
@@ -318724,6 +319474,19 @@
     ],
     "updated_at": "2025-06-23",
     "version": "HEAD-bb84e03-250623T181758"
+  },
+  {
+    "description": "A proxy server to provide links to files by file_id without exposing the bot's token",
+    "name": "telegram-file-proxy",
+    "pkg_id": "telegram-file-proxy#github.com_deptyped_telegram_file_proxy",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250630134350-7c9584660056"
   },
   {
     "description": "A telegram bot which answers messages with Gemini API",
@@ -331152,6 +331915,19 @@
     "version": "v0.0.0-20250612101824-260a422757cb"
   },
   {
+    "description": "The Prometheus monitoring system and time series database",
+    "name": "tmx",
+    "pkg_id": "tmx#github.com_prometheus_prometheus_web_ui_mantine_ui_src_promql_tools",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250806170547-208187eaa19b"
+  },
+  {
     "description": "Network utils with a pluggable foundation.",
     "name": "tnet",
     "pkg_id": "tnet#github.com_tutils_tnet",
@@ -332121,6 +332897,19 @@
     ],
     "updated_at": "2025-07-08",
     "version": "v0.0.0-20250611160208-1e6095b2012e"
+  },
+  {
+    "description": "TON seed recovery utility",
+    "name": "ton-seed-recovery",
+    "pkg_id": "ton-seed-recovery#github.com_kosrk_ton_seed_recovery",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.1.2"
   },
   {
     "description": "TonAPI SDK allows developers to build decentralized applications on top of the TON blockchain without having to deal with the complexity of the underlying technology",
@@ -333730,6 +334519,19 @@
     ],
     "updated_at": "2025-06-26",
     "version": "HEAD-c221969-250624T181107"
+  },
+  {
+    "description": "IPREF netutils - CLI utilities for hosts behind an IPREF gateway",
+    "name": "traceroute",
+    "pkg_id": "traceroute#github.com_ipref_netutils",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v1.0.0"
   },
   {
     "description": "This is toolkit about microservoces",
@@ -338300,6 +339102,19 @@
     "version": "v0.0.0-20250624031656-019272195b65"
   },
   {
+    "description": "Golang code pieces",
+    "name": "udpboom",
+    "pkg_id": "udpboom#github.com_fooofei_go_pieces_tools_xboom",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250723122347-43f9031c2905"
+  },
+  {
     "description": "Warp+Psiphon, an anti censorship utility for iran",
     "name": "udpclient",
     "pkg_id": "udpclient#github.com_bepass_org_warp_plus",
@@ -342212,6 +343027,19 @@
     "version": "HEAD-6efc40b-250511T215006"
   },
   {
+    "description": "DE user services",
+    "name": "user-info",
+    "pkg_id": "user-info#github.com_cyverse_de_user_info",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250805064720-35c1c6fad2ab"
+  },
+  {
     "description": "My experiments",
     "name": "user-input",
     "pkg_id": "user-input#github.com_mikakatua_labs",
@@ -345953,6 +346781,19 @@
     "version": "v0.0.0-20250623000633-228fdf26afc9"
   },
   {
+    "description": "Artifactory Plugin for Vela (Target's official Pipeline Automation Framework",
+    "name": "vela-artifactory",
+    "pkg_id": "vela-artifactory#github.com_go_vela_vela_artifactory",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.12.0"
+  },
+  {
     "description": "Build Summary Plugin for Vela (Target's official Pipeline Automation Framework",
     "name": "vela-build-summary",
     "pkg_id": "vela-build-summary#github.com_go_vela_vela_build_summary",
@@ -345966,6 +346807,19 @@
     "version": "v0.9.0"
   },
   {
+    "description": "Docker Plugin using Buildkit for Vela (Target's official Pipeline Automation Framework",
+    "name": "vela-docker",
+    "pkg_id": "vela-docker#github.com_go_vela_vela_docker",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.10.1"
+  },
+  {
     "description": "Downstream Plugin for Vela (Target's official Pipeline Automation Framework",
     "name": "vela-downstream",
     "pkg_id": "vela-downstream#github.com_go_vela_vela_downstream",
@@ -345977,6 +346831,19 @@
     ],
     "updated_at": "2025-08-07",
     "version": "v0.11.0"
+  },
+  {
+    "description": "Email Plugin for Vela (Target's official Pipeline Automation Framework",
+    "name": "vela-email",
+    "pkg_id": "vela-email#github.com_go_vela_vela_email",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.8.0"
   },
   {
     "description": "Git Plugin for Vela (Target's official Pipeline Automation Framework",
@@ -347334,6 +348201,19 @@
     ],
     "updated_at": "2025-06-22",
     "version": "HEAD-8598271-230602T111037"
+  },
+  {
+    "description": "Your CLI home video recorder",
+    "name": "vhs",
+    "pkg_id": "vhs#github.com_agentstation_vhs",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.10.0-as.4"
   },
   {
     "description": "Your CLI home video recorder 📼",
@@ -353392,6 +354272,19 @@
     ],
     "updated_at": "2025-06-26",
     "version": "HEAD-bcde41e-250613T043112"
+  },
+  {
+    "description": "Go client library for PagerDuty v2 API",
+    "name": "webhooks",
+    "pkg_id": "webhooks#github.com_imjaroiswebdev_go_pagerduty_cli",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-08",
+    "version": "v0.0.0-20250807164326-ac58cc0e9b8c"
   },
   {
     "description": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
