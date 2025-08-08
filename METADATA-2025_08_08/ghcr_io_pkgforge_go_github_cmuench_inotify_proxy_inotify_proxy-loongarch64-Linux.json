@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "inotify-proxy",
+  "pkg_family": "inotify-proxy",
+  "pkg_id": "inotify-proxy#github.com_cmuench_inotify_proxy",
+  "pkg_name": "inotify-proxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cmuench/inotify-proxy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A utility to help detect file changes in docker containers where filesystem is mounted by NFS. It's much more powerful and faster than other similar solutions",
+  "homepage": [
+    "https://github.com/cmuench/inotify-proxy"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "inotify-proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cmuench/inotify-proxy/@v/v0.0.0-20250807085119-64edf35abccd.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250807085119-64edf35abccd",
+  "version_upstream": "",
+  "bsum": "ff82ef72b1a9e5165c32aae651817a99a7640ea2277d0b36ea20dc44dc4ff1a3",
+  "build_date": "2025-08-08T04:26:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16821741444",
+  "build_id": "16821741444",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cmuench/inotify-proxy/inotify-proxy?tag=v0.0.0-20250807085119-64edf35abccd-loongarch64-Linux&download=inotify-proxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "24",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cmuench/inotify-proxy/inotify-proxy?tag=v0.0.0-20250807085119-64edf35abccd-loongarch64-Linux&download=inotify-proxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cmuench/inotify-proxy/inotify-proxy:v0.0.0-20250807085119-64edf35abccd-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cmuench/inotify-proxy/inotify-proxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cmuench/inotify-proxy/inotify-proxy?tag=v0.0.0-20250807085119-64edf35abccd-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bfb39738468e34e025c10022f10369341f8893dfe63d765f8bd9bb7ba0dc12be",
+  "size": "2.7 MB",
+  "size_raw": "2728728",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
