@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "munkisrv",
+  "pkg_family": "munkisrv",
+  "pkg_id": "munkisrv#github.com_stripe_munkisrv",
+  "pkg_name": "munkisrv",
+  "pkg_type": "static",
+  "pkg_webpage": "https://pkg.go.dev/github.com/stripe/munkisrv",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A lightweight Go web server for serving Munki repositories with AWS CloudFront signed URL support for secure package downloads",
+  "homepage": [
+    "https://pkg.go.dev/github.com/stripe/munkisrv"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "munkisrv"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/stripe/munkisrv/@v/v0.0.0-20250807182907-18c7e3194618.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250807182907-18c7e3194618",
+  "version_upstream": "",
+  "bsum": "692a8d43267e70272cc86ded449fb11d7d1b366952af5fd6b80889bf73e1e31b",
+  "build_date": "2025-08-08T05:21:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16821977183",
+  "build_id": "16821977183",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stripe/munkisrv/munkisrv?tag=v0.0.0-20250807182907-18c7e3194618-loongarch64-Linux&download=munkisrv.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stripe/munkisrv/munkisrv?tag=v0.0.0-20250807182907-18c7e3194618-loongarch64-Linux&download=munkisrv",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/stripe/munkisrv/munkisrv:v0.0.0-20250807182907-18c7e3194618-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/stripe/munkisrv/munkisrv",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stripe/munkisrv/munkisrv?tag=v0.0.0-20250807182907-18c7e3194618-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8195dd64b91cd3aa311f74ae6a6d8853fce3ee5920774877df38634f711fa9c7",
+  "size": "8.9 MB",
+  "size_raw": "9252032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
