@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "release-tools",
+  "pkg_family": "livenessprobe",
+  "pkg_id": "release-tools#github.com_kubernetes_csi_livenessprobe",
+  "pkg_name": "release-tools",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-csi/livenessprobe",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A sidecar container that can be included in a CSI plugin pod to enable integration with Kubernetes Liveness Probe",
+  "homepage": [
+    "https://github.com/kubernetes-csi/livenessprobe"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "livenessprobe",
+    "release-tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/kubernetes-csi/livenessprobe/@v/v0.0.0-20250529112817-9b46a131aa33.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250529112817-9b46a131aa33",
+  "version_upstream": "",
+  "bsum": "ab42ba727d20ed050073fcd23960500d8840d06594f3a6e7404b2fbaa36022ad",
+  "build_date": "2025-08-08T04:57:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16821818699",
+  "build_id": "16821818699",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-csi/livenessprobe/release-tools?tag=v0.0.0-20250529112817-9b46a131aa33-x86_64-Linux&download=release-tools.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "90",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-csi/livenessprobe/release-tools?tag=v0.0.0-20250529112817-9b46a131aa33-x86_64-Linux&download=release-tools",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-csi/livenessprobe/release-tools:v0.0.0-20250529112817-9b46a131aa33-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-csi/livenessprobe/release-tools",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-csi/livenessprobe/release-tools?tag=v0.0.0-20250529112817-9b46a131aa33-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "49386b57277dff969ce06a26067e49aa3fcd37666439725fe8f2786cf448abc5",
+  "size": "2.4 MB",
+  "size_raw": "2451224",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
