@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "traceroute",
+  "pkg_family": "netutils",
+  "pkg_id": "traceroute#github.com_ipref_netutils",
+  "pkg_name": "traceroute",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ipref/netutils",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "IPREF netutils - CLI utilities for hosts behind an IPREF gateway",
+  "homepage": [
+    "https://github.com/ipref/netutils"
+  ],
+  "license": [
+    "GPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ping",
+    "traceroute"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/ipref/netutils/@v/v1.0.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.0",
+  "version_upstream": "",
+  "bsum": "0e7855380dfb198093602dcc4fc0d7e9bfd72d1a615ec502f9df76ce0c077d1d",
+  "build_date": "2025-08-08T04:49:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16821795190",
+  "build_id": "16821795190",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipref/netutils/traceroute?tag=v1.0.0-x86_64-Linux&download=traceroute.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipref/netutils/traceroute?tag=v1.0.0-x86_64-Linux&download=traceroute",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ipref/netutils/traceroute:v1.0.0-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ipref/netutils/traceroute",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipref/netutils/traceroute?tag=v1.0.0-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "408ecb62ee52f549d444a6c76b7402442a585134f4bdb7425ca9fb84f5912961",
+  "size": "2.9 MB",
+  "size_raw": "3032096",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
