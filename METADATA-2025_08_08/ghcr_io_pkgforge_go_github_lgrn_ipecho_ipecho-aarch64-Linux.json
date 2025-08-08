@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "ipecho",
+  "pkg_family": "ipecho",
+  "pkg_id": "ipecho#github.com_lgrn_ipecho",
+  "pkg_name": "ipecho",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lgrn/ipecho",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A very basic webserver that listens on port 80 and returns the apparent origin IP",
+  "homepage": [
+    "https://github.com/lgrn/ipecho"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ipecho"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/lgrn/ipecho/@v/v0.0.0-20250730070938-d531311e2662.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250730070938-d531311e2662",
+  "version_upstream": "",
+  "bsum": "98b241397a1a83f19f98437e5fdce9d4107e21688a4680efae4641cf2f0cab85",
+  "build_date": "2025-08-08T04:58:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16821820363",
+  "build_id": "16821820363",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lgrn/ipecho/ipecho?tag=v0.0.0-20250730070938-d531311e2662-aarch64-Linux&download=ipecho.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lgrn/ipecho/ipecho?tag=v0.0.0-20250730070938-d531311e2662-aarch64-Linux&download=ipecho",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lgrn/ipecho/ipecho:v0.0.0-20250730070938-d531311e2662-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lgrn/ipecho/ipecho",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lgrn/ipecho/ipecho?tag=v0.0.0-20250730070938-d531311e2662-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b103b490e5ed39151129df21d60a64c3c3c70840db4e09f84b1ccaa930d8093a",
+  "size": "7.9 MB",
+  "size_raw": "8255936",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
