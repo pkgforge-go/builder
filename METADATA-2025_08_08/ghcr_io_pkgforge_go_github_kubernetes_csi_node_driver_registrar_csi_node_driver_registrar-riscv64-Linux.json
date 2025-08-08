@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "csi-node-driver-registrar",
+  "pkg_family": "node-driver-registrar",
+  "pkg_id": "csi-node-driver-registrar#github.com_kubernetes_csi_node_driver_registrar",
+  "pkg_name": "csi-node-driver-registrar",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes-csi/node-driver-registrar",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Sidecar container that registers a CSI driver with the kubelet using the kubelet plugin registration mechanism",
+  "homepage": [
+    "https://github.com/kubernetes-csi/node-driver-registrar"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "csi-node-driver-registrar",
+    "release-tools"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/kubernetes-csi/node-driver-registrar/@v/v0.0.0-20250530170219-8bd83d14abc6.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250530170219-8bd83d14abc6",
+  "version_upstream": "",
+  "bsum": "c4f097d6d84b659bc963f654dc15f731f3a25579d361bce82498aaa7e5a0eb5b",
+  "build_date": "2025-08-08T04:57:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16821819027",
+  "build_id": "16821819027",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-csi/node-driver-registrar/csi-node-driver-registrar?tag=v0.0.0-20250530170219-8bd83d14abc6-riscv64-Linux&download=csi-node-driver-registrar.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "162",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-csi/node-driver-registrar/csi-node-driver-registrar?tag=v0.0.0-20250530170219-8bd83d14abc6-riscv64-Linux&download=csi-node-driver-registrar",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-csi/node-driver-registrar/csi-node-driver-registrar:v0.0.0-20250530170219-8bd83d14abc6-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-csi/node-driver-registrar/csi-node-driver-registrar",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-csi/node-driver-registrar/csi-node-driver-registrar?tag=v0.0.0-20250530170219-8bd83d14abc6-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5056568e03efcc9958dbd4302333f2a837170694c281ee2a2ee92ffb09b2fcf2",
+  "size": "21 MB",
+  "size_raw": "21318040",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
