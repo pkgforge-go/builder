@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "tempestbridge",
+  "pkg_family": "tempestbridge",
+  "pkg_id": "tempestbridge#github.com_mdickers47_tempestbridge",
+  "pkg_name": "tempestbridge",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mdickers47/tempestbridge",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Forwards weather data packets from Weatherflow Tempest hub to Graphite/Carbon",
+  "homepage": [
+    "https://github.com/mdickers47/tempestbridge"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "tempestbridge"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/mdickers47/tempestbridge/@v/v0.0.0-20250807205658-b43a7e2cc529.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250807205658-b43a7e2cc529",
+  "version_upstream": "",
+  "bsum": "6e5fc1bf6c0588f6bb706de1d753956ed1911fa1413f28e0051e59b724529535",
+  "build_date": "2025-08-08T05:00:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16821824393",
+  "build_id": "16821824393",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mdickers47/tempestbridge/tempestbridge?tag=v0.0.0-20250807205658-b43a7e2cc529-riscv64-Linux&download=tempestbridge.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mdickers47/tempestbridge/tempestbridge?tag=v0.0.0-20250807205658-b43a7e2cc529-riscv64-Linux&download=tempestbridge",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mdickers47/tempestbridge/tempestbridge:v0.0.0-20250807205658-b43a7e2cc529-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mdickers47/tempestbridge/tempestbridge",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mdickers47/tempestbridge/tempestbridge?tag=v0.0.0-20250807205658-b43a7e2cc529-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d0b72e2e71c43c903b5158abb300b789bcdfed23a0bd99155d951f48a3a36be1",
+  "size": "2.6 MB",
+  "size_raw": "2696552",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
