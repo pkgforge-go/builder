@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "imapdump",
+  "pkg_family": "imapclient",
+  "pkg_id": "imapdump#github.com_tgulacsi_imapclient",
+  "pkg_name": "imapdump",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tgulacsi/imapclient",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Very basic IMAP client for listing/downloading new mails",
+  "homepage": [
+    "https://github.com/tgulacsi/imapclient"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "get-outlook-access-token",
+    "graph-proxy",
+    "imapdump"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/tgulacsi/imapclient/@v/v0.16.5.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.16.5",
+  "version_upstream": "",
+  "bsum": "878127cb05202d8666f46277a66a12b9e5ec3cc70909feca466fb49f2a756de9",
+  "build_date": "2025-08-08T05:24:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16822059361",
+  "build_id": "16822059361",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tgulacsi/imapclient/imapdump?tag=v0.16.5-x86_64-Linux&download=imapdump.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "17",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tgulacsi/imapclient/imapdump?tag=v0.16.5-x86_64-Linux&download=imapdump",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tgulacsi/imapclient/imapdump:v0.16.5-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tgulacsi/imapclient/imapdump",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tgulacsi/imapclient/imapdump?tag=v0.16.5-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a4135c28c26dfa4746b5328e20ea4614c611400e80f045c0497beb9daf8b8b36",
+  "size": "11 MB",
+  "size_raw": "11434976",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

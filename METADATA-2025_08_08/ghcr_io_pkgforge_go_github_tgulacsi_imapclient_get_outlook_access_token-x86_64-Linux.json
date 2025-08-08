@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "get-outlook-access-token",
+  "pkg_family": "imapclient",
+  "pkg_id": "get-outlook-access-token#github.com_tgulacsi_imapclient",
+  "pkg_name": "get-outlook-access-token",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tgulacsi/imapclient",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Very basic IMAP client for listing/downloading new mails",
+  "homepage": [
+    "https://github.com/tgulacsi/imapclient"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "get-outlook-access-token",
+    "graph-proxy",
+    "imapdump"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/tgulacsi/imapclient/@v/v0.16.5.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.16.5",
+  "version_upstream": "",
+  "bsum": "860183c45d6debd1bdd1a237894f9492a2573c0dfc05e266ef9cfaab481c457e",
+  "build_date": "2025-08-08T05:25:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16822059361",
+  "build_id": "16822059361",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tgulacsi/imapclient/get-outlook-access-token?tag=v0.16.5-x86_64-Linux&download=get-outlook-access-token.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "17",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tgulacsi/imapclient/get-outlook-access-token?tag=v0.16.5-x86_64-Linux&download=get-outlook-access-token",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tgulacsi/imapclient/get-outlook-access-token:v0.16.5-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tgulacsi/imapclient/get-outlook-access-token",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tgulacsi/imapclient/get-outlook-access-token?tag=v0.16.5-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fcf51d295eacf88f28c9559385b1f40d4e559c2fd80e090dcf63b44b82c9acf3",
+  "size": "7.2 MB",
+  "size_raw": "7538208",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
