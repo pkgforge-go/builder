@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "dcs-web",
+  "pkg_family": "dcs",
+  "pkg_id": "dcs-web#github.com_debian_dcs",
+  "pkg_name": "dcs-web",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/debian/dcs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Debian Code Search (codesearch.debian.net) is a search engine that searches through all the 130 GB of open source software that is included in Debian. Supports regular expressions",
+  "homepage": [
+    "https://github.com/debian/dcs"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dcs",
+    "dcs-compute-ranking",
+    "dcs-feeder",
+    "dcs-localdcs",
+    "dcs-package-importer",
+    "dcs-reshard",
+    "dcs-source-backend",
+    "dcs-web",
+    "genprodcerts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/debian/dcs/@v/v0.0.0-20250803100032-b034d72f6897.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250803100032-b034d72f6897",
+  "version_upstream": "",
+  "bsum": "a3c68a5b2e98e0813dc4b80d5bc30f005de4d25a9cf3a2b8908d72aeef6bf075",
+  "build_date": "2025-08-08T04:32:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16821742820",
+  "build_id": "16821742820",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/debian/dcs/dcs-web?tag=v0.0.0-20250803100032-b034d72f6897-x86_64-Linux&download=dcs-web.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "220",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/debian/dcs/dcs-web?tag=v0.0.0-20250803100032-b034d72f6897-x86_64-Linux&download=dcs-web",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/debian/dcs/dcs-web:v0.0.0-20250803100032-b034d72f6897-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/debian/dcs/dcs-web",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/debian/dcs/dcs-web?tag=v0.0.0-20250803100032-b034d72f6897-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "70bf3ad0ba47af28319c178d96c588b586c0ca54c5cecba90d01b41f9d35f2fe",
+  "size": "21 MB",
+  "size_raw": "21602608",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-4d0675f-250218T221012-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
