@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "molehill",
+  "pkg_family": "molehill",
+  "pkg_id": "molehill#github.com_s00500_molehill",
+  "pkg_name": "molehill",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/s00500/molehill",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Confiurable ssh server that only allows port forwards and connects them via unix domain sockets",
+  "homepage": [
+    "https://github.com/s00500/molehill"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "molehill"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/s00500/molehill/@v/v0.0.0-20250715190348-e3ac15299f6d.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250715190348-e3ac15299f6d",
+  "version_upstream": "",
+  "bsum": "c46cd3100c6a5c220c27e23491a48967f8dabda3652da2e7eb24543edf372791",
+  "build_date": "2025-08-08T05:20:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16821904400",
+  "build_id": "16821904400",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/s00500/molehill/molehill?tag=v0.0.0-20250715190348-e3ac15299f6d-loongarch64-Linux&download=molehill.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/s00500/molehill/molehill?tag=v0.0.0-20250715190348-e3ac15299f6d-loongarch64-Linux&download=molehill",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/s00500/molehill/molehill:v0.0.0-20250715190348-e3ac15299f6d-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/s00500/molehill/molehill",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/s00500/molehill/molehill?tag=v0.0.0-20250715190348-e3ac15299f6d-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5ee43a440a2563ab5d5b954004cb34b08ea702c10eaf15d2888236c2d9ca0cfd",
+  "size": "7.5 MB",
+  "size_raw": "7818624",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
