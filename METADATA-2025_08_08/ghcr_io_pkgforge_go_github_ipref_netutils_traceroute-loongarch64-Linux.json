@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "traceroute",
+  "pkg_family": "netutils",
+  "pkg_id": "traceroute#github.com_ipref_netutils",
+  "pkg_name": "traceroute",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ipref/netutils",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "IPREF netutils - CLI utilities for hosts behind an IPREF gateway",
+  "homepage": [
+    "https://github.com/ipref/netutils"
+  ],
+  "license": [
+    "GPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ping",
+    "traceroute"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/ipref/netutils/@v/v1.0.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.0",
+  "version_upstream": "",
+  "bsum": "befdbb960ebcb0e4e0ce3c980a077797fa2d1414b75c8c7217cf880938e7fd50",
+  "build_date": "2025-08-08T04:49:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16821795190",
+  "build_id": "16821795190",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipref/netutils/traceroute?tag=v1.0.0-loongarch64-Linux&download=traceroute.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipref/netutils/traceroute?tag=v1.0.0-loongarch64-Linux&download=traceroute",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ipref/netutils/traceroute:v1.0.0-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ipref/netutils/traceroute",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ipref/netutils/traceroute?tag=v1.0.0-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c0e9721865d86609e8426b125db5788910236fda82545ac4bc16e217ee765da6",
+  "size": "2.9 MB",
+  "size_raw": "2950400",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
