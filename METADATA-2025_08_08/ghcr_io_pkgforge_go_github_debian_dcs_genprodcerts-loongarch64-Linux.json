@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "genprodcerts",
+  "pkg_family": "dcs",
+  "pkg_id": "genprodcerts#github.com_debian_dcs",
+  "pkg_name": "genprodcerts",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/debian/dcs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Debian Code Search (codesearch.debian.net) is a search engine that searches through all the 130 GB of open source software that is included in Debian. Supports regular expressions",
+  "homepage": [
+    "https://github.com/debian/dcs"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dcs-compute-ranking",
+    "dcs-feeder",
+    "dcs-localdcs",
+    "dcs-reshard",
+    "genprodcerts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/debian/dcs/@v/v0.0.0-20250803100032-b034d72f6897.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250803100032-b034d72f6897",
+  "version_upstream": "",
+  "bsum": "13f184cc7998dd1dc7eadb7b8c6ea1b4c9a0182532e09fadb3a11bdd75307bcc",
+  "build_date": "2025-08-08T04:32:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16821742820",
+  "build_id": "16821742820",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/debian/dcs/genprodcerts?tag=v0.0.0-20250803100032-b034d72f6897-loongarch64-Linux&download=genprodcerts.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "220",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/debian/dcs/genprodcerts?tag=v0.0.0-20250803100032-b034d72f6897-loongarch64-Linux&download=genprodcerts",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/debian/dcs/genprodcerts:v0.0.0-20250803100032-b034d72f6897-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/debian/dcs/genprodcerts",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/debian/dcs/genprodcerts?tag=v0.0.0-20250803100032-b034d72f6897-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "32c24746d4cf766361e69c00dca600351fede5864e5875a62c18fb72e40b0c75",
+  "size": "3.1 MB",
+  "size_raw": "3192704",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-4d0675f-250218T221012-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
