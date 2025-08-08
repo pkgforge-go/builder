@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "mole",
+  "pkg_family": "mole",
+  "pkg_id": "mole#github.com_s00500_molehill_cmd_mole",
+  "pkg_name": "mole",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/s00500/molehill",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Confiurable ssh server that only allows port forwards and connects them via unix domain sockets",
+  "homepage": [
+    "https://github.com/s00500/molehill"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mole"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/s00500/molehill/cmd/mole/@v/v0.0.0-20250715190348-e3ac15299f6d.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250715190348-e3ac15299f6d",
+  "version_upstream": "",
+  "bsum": "17a8b6ba6c9bf929d40dbeffc145b253a74a31917f965af4b16c762e4b058964",
+  "build_date": "2025-08-08T05:21:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16821934098",
+  "build_id": "16821934098",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/s00500/molehill/cmd/mole/mole?tag=v0.0.0-20250715190348-e3ac15299f6d-riscv64-Linux&download=mole.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/s00500/molehill/cmd/mole/mole?tag=v0.0.0-20250715190348-e3ac15299f6d-riscv64-Linux&download=mole",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/s00500/molehill/cmd/mole/mole:v0.0.0-20250715190348-e3ac15299f6d-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/s00500/molehill/cmd/mole/mole",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/s00500/molehill/cmd/mole/mole?tag=v0.0.0-20250715190348-e3ac15299f6d-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1372f8a63f562043416033661a3f4a5c676857668563d9253956e409253ecc8d",
+  "size": "4.7 MB",
+  "size_raw": "4918568",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
