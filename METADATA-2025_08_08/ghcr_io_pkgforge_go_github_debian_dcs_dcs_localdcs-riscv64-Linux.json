@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "dcs-localdcs",
+  "pkg_family": "dcs",
+  "pkg_id": "dcs-localdcs#github.com_debian_dcs",
+  "pkg_name": "dcs-localdcs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/debian/dcs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Debian Code Search (codesearch.debian.net) is a search engine that searches through all the 130 GB of open source software that is included in Debian. Supports regular expressions",
+  "homepage": [
+    "https://github.com/debian/dcs"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dcs-compute-ranking",
+    "dcs-feeder",
+    "dcs-localdcs",
+    "dcs-reshard",
+    "genprodcerts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/debian/dcs/@v/v0.0.0-20250803100032-b034d72f6897.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250803100032-b034d72f6897",
+  "version_upstream": "",
+  "bsum": "33de6b2b36fbffeb2d9c647aab15898fcd21e79bce84452cb38a505d875ca342",
+  "build_date": "2025-08-08T04:32:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16821742820",
+  "build_id": "16821742820",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/debian/dcs/dcs-localdcs?tag=v0.0.0-20250803100032-b034d72f6897-riscv64-Linux&download=dcs-localdcs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "220",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/debian/dcs/dcs-localdcs?tag=v0.0.0-20250803100032-b034d72f6897-riscv64-Linux&download=dcs-localdcs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/debian/dcs/dcs-localdcs:v0.0.0-20250803100032-b034d72f6897-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/debian/dcs/dcs-localdcs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/debian/dcs/dcs-localdcs?tag=v0.0.0-20250803100032-b034d72f6897-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ff878f7cece4fc34097a2f6c02ea3e589a4d2913fe8c94152f540a565d8f5c47",
+  "size": "13 MB",
+  "size_raw": "12973752",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-4d0675f-250218T221012-riscv64-Linux"
+  ],
+  "trusted": "true"
+}

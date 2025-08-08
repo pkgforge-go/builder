@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "dcs-feeder",
+  "pkg_family": "dcs",
+  "pkg_id": "dcs-feeder#github.com_debian_dcs",
+  "pkg_name": "dcs-feeder",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/debian/dcs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Debian Code Search (codesearch.debian.net) is a search engine that searches through all the 130 GB of open source software that is included in Debian. Supports regular expressions",
+  "homepage": [
+    "https://github.com/debian/dcs"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dcs-compute-ranking",
+    "dcs-feeder",
+    "dcs-localdcs",
+    "dcs-reshard",
+    "genprodcerts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/debian/dcs/@v/v0.0.0-20250803100032-b034d72f6897.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250803100032-b034d72f6897",
+  "version_upstream": "",
+  "bsum": "34cd6fbfabc8964c9fe92999132d040b9abf5219b540160d5879c9150635901b",
+  "build_date": "2025-08-08T04:32:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16821742820",
+  "build_id": "16821742820",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/debian/dcs/dcs-feeder?tag=v0.0.0-20250803100032-b034d72f6897-riscv64-Linux&download=dcs-feeder.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "220",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/debian/dcs/dcs-feeder?tag=v0.0.0-20250803100032-b034d72f6897-riscv64-Linux&download=dcs-feeder",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/debian/dcs/dcs-feeder:v0.0.0-20250803100032-b034d72f6897-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/debian/dcs/dcs-feeder",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/debian/dcs/dcs-feeder?tag=v0.0.0-20250803100032-b034d72f6897-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c72711c38d51a980d710ea963e8cb3f12acd6946bf299af986fabea77a10375d",
+  "size": "15 MB",
+  "size_raw": "14855416",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-4d0675f-250218T221012-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
