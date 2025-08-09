@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "breakglassrestore",
+  "pkg_family": "safeadmin",
+  "pkg_id": "breakglassrestore#github.com_continusec_safeadmin",
+  "pkg_name": "breakglassrestore",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/continusec/safeadmin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Safedump encrypts the data such that it can be decrypted for the specified time period only (it defaults to 1 day",
+  "homepage": [
+    "https://github.com/continusec/safeadmin"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "breakglassrestore",
+    "safedump",
+    "saferestore",
+    "servesafedump"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/continusec/safeadmin/@v/v0.0.0-20250728023427-869ba287cb40.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250728023427-869ba287cb40",
+  "version_upstream": "",
+  "bsum": "afcbf267ee24883fe1a30ea6c3169a6f6c93015c964e8615dd8cbc248641fb3f",
+  "build_date": "2025-08-09T04:11:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16845152677",
+  "build_id": "16845152677",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/continusec/safeadmin/breakglassrestore?tag=v0.0.0-20250728023427-869ba287cb40-aarch64-Linux&download=breakglassrestore.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/continusec/safeadmin/breakglassrestore?tag=v0.0.0-20250728023427-869ba287cb40-aarch64-Linux&download=breakglassrestore",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/continusec/safeadmin/breakglassrestore:v0.0.0-20250728023427-869ba287cb40-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/continusec/safeadmin/breakglassrestore",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/continusec/safeadmin/breakglassrestore?tag=v0.0.0-20250728023427-869ba287cb40-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "46e9aad3503b95a427292a78f8f5a52cb8a702d0aad78c7698f72d6c05fba299",
+  "size": "11 MB",
+  "size_raw": "10997152",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
