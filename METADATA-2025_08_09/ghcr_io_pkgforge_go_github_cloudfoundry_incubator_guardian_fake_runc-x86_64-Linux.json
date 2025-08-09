@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "fake_runc",
+  "pkg_family": "guardian",
+  "pkg_id": "fake_runc#github.com_cloudfoundry_incubator_guardian",
+  "pkg_name": "fake_runc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudfoundry-incubator/guardian",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Containers4life",
+  "homepage": [
+    "https://github.com/cloudfoundry-incubator/guardian"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "execas",
+    "fake_runc",
+    "fake_runc_stderr",
+    "socket2me",
+    "winit"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cloudfoundry/guardian/@v/v0.0.0-20250730021248-862109afbc38.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250806021341-ef3063efe1fe",
+  "version_upstream": "",
+  "bsum": "20d5723415faccf0e07605dde17b469b966319cea546e61b03e1a72dc2dd0009",
+  "build_date": "2025-08-09T02:01:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16844106437",
+  "build_id": "16844106437",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry-incubator/guardian/fake_runc?tag=v0.0.0-20250806021341-ef3063efe1fe-x86_64-Linux&download=fake_runc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "78",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry-incubator/guardian/fake_runc?tag=v0.0.0-20250806021341-ef3063efe1fe-x86_64-Linux&download=fake_runc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry-incubator/guardian/fake_runc:v0.0.0-20250806021341-ef3063efe1fe-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry-incubator/guardian/fake_runc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry-incubator/guardian/fake_runc?tag=v0.0.0-20250806021341-ef3063efe1fe-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f2deb7abbba7a7a6bddd9e4931da0c3e5e186d8cc43f0b5eac9dea75c8234d20",
+  "size": "2.5 MB",
+  "size_raw": "2551736",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250709021230-eeffd4e4d771-x86_64-Linux",
+    "v0.0.0-20250716021337-04f53489023a-x86_64-Linux",
+    "v0.0.0-20250723021209-000898a45c27-x86_64-Linux",
+    "v0.0.0-20250730021248-862109afbc38-x86_64-Linux",
+    "v0.0.0-20250806021341-ef3063efe1fe-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
