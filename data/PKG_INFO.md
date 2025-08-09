@@ -1185,6 +1185,7 @@
 - 🐹 **[airo](https://github.com/bypirob/airo)**: Deploy your projects from local to production (self-hosted.
 - 🐹 **[clean](https://github.com/aws/amazon-cloudwatch-agent)**: CloudWatch Agent enables you to collect and export host-level metrics and logs on instances running Linux or Windows server.
 - 🐹 **[go](https://github.com/slsa-framework/slsa-github-generator/internal/builders/go/pkg/testdata/go)**: Language-agnostic SLSA provenance generation for Github Actions.
+- 🐹 **[x](https://getoutline.org/for-developers/)**: SDK to build network tools based on Outline components.
 - 🐹 **[heir](https://heir.dev/)**: A compiler for homomorphic encryption.
 - 🐹 **[shosubgo](https://github.com/r00td3v/shosubgo)**: Small tool to Grab subdomains using Shodan api.
 - 🐹 **[pennybase](https://zserge.com/posts/pennybase/)**: Poor man's Backend-as-a-Service (BaaS), similar to Firebase/Supabase/Pocketbase.
@@ -1756,6 +1757,7 @@
 - 🐹 **[zkm](https://zkm.io)**: ZkMIPS 0.
 - 🐹 **[beego](https://www.ibm.com/products/instana)**: Rocket: Go Distributed Tracing & Metrics Sensor for Instana.
 - 🐹 **[playground](https://github.com/openhue/openhue-go/playground)**: OpenHue Go is a library written in Golang for interacting with the Philips Hue smart lighting systems.
+- 🐹 **[slimctl](https://github.com/agntcy/slim)**: Secure Low-Latency Interactive Messaging.
 - 🐹 **[tools](https://developer.newrelic.com/explore-docs/newrelic-cli)**: The New Relic Command Line Interface.
 - 🐹 **[fuzz](https://github.com/cloudwego/frugal/fuzz)**: A very fast dynamic Thrift serializer & deserializer.
 - 🐹 **[externalip](https://github.com/sapcc/kubernetes-operators/externalip)**: Operators that automate common tasks for managing Openstack on Kubernetes.
