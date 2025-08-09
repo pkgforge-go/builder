@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "redis_exporter",
+  "pkg_family": "redis_exporter",
+  "pkg_id": "redis_exporter#github.com_oliver006_redis_exporter",
+  "pkg_name": "redis_exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/oliver006/redis_exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Prometheus Exporter for ValKey & Redis Metrics. Supports ValKey and Redis 2.x, 3.x, 4.x, 5.x, 6.x, and 7.x",
+  "homepage": [
+    "https://github.com/oliver006/redis_exporter"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "redis_exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/oliver006/redis_exporter/@v/v1.75.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.75.0",
+  "version_upstream": "",
+  "bsum": "79d925c27ee4f5c8ad5b33a0a18d64cc40e022ca781e810d9cd844bd0c704070",
+  "build_date": "2025-08-09T04:47:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16845193492",
+  "build_id": "16845193492",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/oliver006/redis/exporter/redis_exporter?tag=v1.75.0-aarch64-Linux&download=redis_exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3411",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/oliver006/redis/exporter/redis_exporter?tag=v1.75.0-aarch64-Linux&download=redis_exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/oliver006/redis/exporter/redis_exporter:v1.75.0-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/oliver006/redis/exporter/redis_exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/oliver006/redis/exporter/redis_exporter?tag=v1.75.0-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "17266d97bdb3107a3f18eae7842cb5780f4935dc7c6f8ac00ce69f1f1d4c46af",
+  "size": "9.6 MB",
+  "size_raw": "10033408",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
