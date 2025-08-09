@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "fetch-speed",
+  "pkg_family": "x",
+  "pkg_id": "fetch-speed#github.com_jigsaw_code_outline_internal_sdk_x",
+  "pkg_name": "fetch-speed",
+  "pkg_type": "static",
+  "pkg_webpage": "https://getoutline.org/for-developers/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SDK to build network tools based on Outline components",
+  "homepage": [
+    "https://getoutline.org/for-developers/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "fetch",
+    "fetch-proxy",
+    "fetch-speed",
+    "http2transport",
+    "measure",
+    "outline-cli",
+    "resolve",
+    "run-mobileproxy",
+    "smart-proxy",
+    "test-connectivity",
+    "ws2endpoint"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/jigsaw-code/outline-internal-sdk/x/@v/v0.0.5.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.5",
+  "version_upstream": "",
+  "bsum": "97620348d5e45b5f1ae9ac63d6c299e894bbc8e700e76cdf0a0a00cfe985485d",
+  "build_date": "2025-08-09T15:59:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16850998904",
+  "build_id": "16850998904",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jigsaw-code/outline-internal-sdk/x/fetch-speed?tag=v0.0.5-riscv64-Linux&download=fetch-speed.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "481",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jigsaw-code/outline-internal-sdk/x/fetch-speed?tag=v0.0.5-riscv64-Linux&download=fetch-speed",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jigsaw-code/outline-internal-sdk/x/fetch-speed:v0.0.5-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jigsaw-code/outline-internal-sdk/x/fetch-speed",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jigsaw-code/outline-internal-sdk/x/fetch-speed?tag=v0.0.5-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b0082972b89dca9fe7ecc6a32343fce16e7255f62835659c05eb7555c4b27dbf",
+  "size": "6.3 MB",
+  "size_raw": "6582328",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
