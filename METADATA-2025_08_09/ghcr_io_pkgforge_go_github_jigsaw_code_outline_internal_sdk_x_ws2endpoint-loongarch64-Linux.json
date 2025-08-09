@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ws2endpoint",
+  "pkg_family": "x",
+  "pkg_id": "ws2endpoint#github.com_jigsaw_code_outline_internal_sdk_x",
+  "pkg_name": "ws2endpoint",
+  "pkg_type": "static",
+  "pkg_webpage": "https://getoutline.org/for-developers/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "SDK to build network tools based on Outline components",
+  "homepage": [
+    "https://getoutline.org/for-developers/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "fetch",
+    "fetch-proxy",
+    "fetch-speed",
+    "http2transport",
+    "measure",
+    "outline-cli",
+    "resolve",
+    "run-mobileproxy",
+    "smart-proxy",
+    "test-connectivity",
+    "ws2endpoint"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/jigsaw-code/outline-internal-sdk/x/@v/v0.0.5.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.5",
+  "version_upstream": "",
+  "bsum": "f981fe46ca6be97f36c2dac760171a260fcd65ffb5abdf0ed0200d84eb8e9018",
+  "build_date": "2025-08-09T15:59:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16850998904",
+  "build_id": "16850998904",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jigsaw-code/outline-internal-sdk/x/ws2endpoint?tag=v0.0.5-loongarch64-Linux&download=ws2endpoint.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "481",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jigsaw-code/outline-internal-sdk/x/ws2endpoint?tag=v0.0.5-loongarch64-Linux&download=ws2endpoint",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jigsaw-code/outline-internal-sdk/x/ws2endpoint:v0.0.5-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jigsaw-code/outline-internal-sdk/x/ws2endpoint",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jigsaw-code/outline-internal-sdk/x/ws2endpoint?tag=v0.0.5-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9f34ff03473e3614df5fe20811e392bc82791a896bb0863bd433e28ca723a974",
+  "size": "7.2 MB",
+  "size_raw": "7521920",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
