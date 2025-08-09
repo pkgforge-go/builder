@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "hello-world-windows",
+  "pkg_family": "kubernetes-playground",
+  "pkg_id": "hello-world-windows#github.com_mauriciopoppe_kubernetes_playground",
+  "pkg_name": "hello-world-windows",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mauriciopoppe/kubernetes-playground",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Notes about Kubernetes development",
+  "homepage": [
+    "https://github.com/mauriciopoppe/kubernetes-playground"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hello-world-linux",
+    "hello-world-windows",
+    "out-of-cluster"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/mauriciopoppe/kubernetes-playground/@v/v0.0.0-20250622045020-a903db79b41b.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250622045020-a903db79b41b",
+  "version_upstream": "",
+  "bsum": "eb3d52b6472f6a86d548f275391d78618c1ada1c0cd21888e3e281ab68dcf612",
+  "build_date": "2025-08-09T04:42:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16845191007",
+  "build_id": "16845191007",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mauriciopoppe/kubernetes-playground/hello-world-windows?tag=v0.0.0-20250622045020-a903db79b41b-aarch64-Linux&download=hello-world-windows.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mauriciopoppe/kubernetes-playground/hello-world-windows?tag=v0.0.0-20250622045020-a903db79b41b-aarch64-Linux&download=hello-world-windows",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mauriciopoppe/kubernetes-playground/hello-world-windows:v0.0.0-20250622045020-a903db79b41b-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mauriciopoppe/kubernetes-playground/hello-world-windows",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mauriciopoppe/kubernetes-playground/hello-world-windows?tag=v0.0.0-20250622045020-a903db79b41b-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1da65f4873c00cf2c30da59c8d498edc754ddeff9edd9c3ec0847967795b82c5",
+  "size": "29 MB",
+  "size_raw": "29952192",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
