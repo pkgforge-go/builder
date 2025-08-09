@@ -32815,8 +32815,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-29",
-    "version": "v0.0.0-20250626142212-fd158f97175f"
+    "updated_at": "2025-08-09",
+    "version": "v0.0.0-20250801221605-20d73459f7a0"
   },
   {
     "description": "A series of working examples demonstrating fundamental concepts",
@@ -47233,6 +47233,19 @@
     "version": "HEAD-242bfd3-250618T121354"
   },
   {
+    "description": "Small CLI tools",
+    "name": "bomify",
+    "pkg_id": "bomify#github.com_syumai_cli_bomify",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-09",
+    "version": "v0.0.0-20250728093438-0f26af6cb987"
+  },
+  {
     "description": "No Description Provided",
     "name": "bond-cli",
     "pkg_id": "bond-cli#github.com_go_bond_bond",
@@ -61116,6 +61129,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-0ff1055-250619T102727"
+  },
+  {
+    "description": "Send messages in real-time in-between terminals, demo: https://x.com/theifedayo_/status/1644247135016169475?s=46",
+    "name": "chatctl",
+    "pkg_id": "chatctl#github.com_theifedayo_chatctl",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-09",
+    "version": "v0.0.0-20250802181553-571e5d07ac18"
   },
   {
     "description": "Study go example",
@@ -86797,7 +86823,9 @@
     "pkg_id": "csp-report-collector#github.com_meysam81_csp_report_collector",
     "targets": [
       "aarch64-Linux",
-      "loongarch64-Linux"
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-08-09",
     "version": "v0.0.0-20250808095700-0fed417b0907"
@@ -104314,6 +104342,19 @@
     "version": "v0.0.0-20250622040819-0564d50b6c3f"
   },
   {
+    "description": "Recursive DNS Benchmarking Tool",
+    "name": "dns-benchmark",
+    "pkg_id": "dns-benchmark#github.com_taihen_dns_benchmark",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-09",
+    "version": "v1.3.0"
+  },
+  {
     "description": "Tracks CAA DNS configurations across top websites to surface insights on certificate issuance policies",
     "name": "dns-caa-catalog",
     "pkg_id": "dns-caa-catalog#github.com_unitvectory_labs_dns_caa_catalog",
@@ -109880,6 +109921,19 @@
     ],
     "updated_at": "2025-06-27",
     "version": "HEAD-cbf2d4b-250627T002456"
+  },
+  {
+    "description": "Go module for network dualstack ipv4 & ipv6",
+    "name": "dualstack",
+    "pkg_id": "dualstack#github.com_tonymet_dualstack",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-09",
+    "version": "v0.0.8"
   },
   {
     "description": "The ops and reference implementation for Apache Dubbo",
@@ -128002,6 +128056,19 @@
     "version": "v0.0.0-20250620175740-70b809335b84"
   },
   {
+    "description": "Chaos-Engineering-Style CI Pipelines to make sure Weaviate handles whatever the real world throws at it",
+    "name": "filter-performance-benchmarker",
+    "pkg_id": "filter-performance-benchmarker#github.com_semi_technologies_weaviate_chaos_engineering_apps_filter_performance_benchmarker",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-09",
+    "version": "v0.0.0-20250723075926-28fb799cd58f"
+  },
+  {
     "description": "A collection of hacks and one-off scripts",
     "name": "filter-resolved",
     "pkg_id": "filter-resolved#github.com_tomnomnom_hacks",
@@ -129573,6 +129640,19 @@
     ],
     "updated_at": "2025-07-21",
     "version": "v0.0.0-20250401184631-2382010abc8e"
+  },
+  {
+    "description": "CLI tool to generate Flatpak sources directives for Go modules",
+    "name": "flatpak-go-mod",
+    "pkg_id": "flatpak-go-mod#github.com_pojntfx_flatpak_go_mod",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-09",
+    "version": "v0.0.0-20250808220202-3246d28571eb"
   },
   {
     "description": "Poor man's package manager. +4164 statically linked binaries in the default repos (amd64/arm64/riscv)! The easy to use, easy to get, suckless software distribution system",
@@ -151022,6 +151102,19 @@
     "version": "HEAD-b15484b-250420T144704"
   },
   {
+    "description": "A runtime for developing large-scale and complex shellcode",
+    "name": "gleam-rt",
+    "pkg_id": "gleam-rt#github.com_rssu_shellcode_gleam_rt",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-09",
+    "version": "v0.0.0-20250621070850-a94b367ef1d1"
+  },
+  {
     "description": "The SQLite database/sql Drivers Benchmarks Game",
     "name": "glebarez",
     "pkg_id": "glebarez#gitlab.com_cznic_sqlite_bench",
@@ -156993,6 +157086,8 @@
     "name": "go-tsu",
     "pkg_id": "go-tsu#github.com_nteditor_go_tsu",
     "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -161169,6 +161264,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-fb560c5-250224T121135"
+  },
+  {
+    "description": "Generate .goimportsignore and make goimports fast",
+    "name": "goimports-update-ignore",
+    "pkg_id": "goimports-update-ignore#github.com_zcalusic_goimports_update_ignore",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-09",
+    "version": "v0.0.0-20250715202405-9f1f40217040"
   },
   {
     "description": "Automatically fix the order of golang imports. Repository mirrored from GitLab",
@@ -166730,6 +166838,19 @@
     "version": "HEAD-1b2f337-250625T002911"
   },
   {
+    "description": "Does basic watch command stuff, but more",
+    "name": "gowatch",
+    "pkg_id": "gowatch#github.com_shadyabhi_gowatch",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-09",
+    "version": "v0.0.0-20250627014158-517f663ef8b0"
+  },
+  {
     "description": "Svg waveform generator in golang",
     "name": "gowaveform",
     "pkg_id": "gowaveform#github.com_cornejong_gowaveform",
@@ -170742,6 +170863,19 @@
     "version": "HEAD-c5c821b-250629T013333"
   },
   {
+    "description": "A simple tool allowing you to track your HackClub packages via your terminal",
+    "name": "hackclub-mail",
+    "pkg_id": "hackclub-mail#github.com_oriionn_hackclub_mail",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-09",
+    "version": "v0.0.0-20250803185405-147dbc3b0ed2"
+  },
+  {
     "description": "A tool for automatically generating Git commit messages",
     "name": "hacker",
     "pkg_id": "hacker#github.com_iisaya255_hacker",
@@ -172871,6 +173005,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-13c0314-240516T110236"
+  },
+  {
+    "description": "A CLI program to transcribe audio file using Deepgram, OpenAI and AssemblyAI models",
+    "name": "heepno",
+    "pkg_id": "heepno#github.com_sj0n_heepno",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-09",
+    "version": "v1.3.0"
   },
   {
     "description": "Simple application to convert a HEIC-image to JPEG",
@@ -179158,6 +179305,19 @@
     "version": "v0.0.0-20250228083128-fcaaca7b6996"
   },
   {
+    "description": "A runtime for developing large-scale and complex shellcode",
+    "name": "http_server",
+    "pkg_id": "http_server#github.com_rssu_shellcode_gleam_rt",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-09",
+    "version": "v0.0.0-20250621070850-a94b367ef1d1"
+  },
+  {
     "description": "Golang examples and questions to understand most important features of the language",
     "name": "http_server_client_closed",
     "pkg_id": "http_server_client_closed#github.com_daominah_hello_go",
@@ -179455,6 +179615,32 @@
     ],
     "updated_at": "2025-08-06",
     "version": "v1.5.5"
+  },
+  {
+    "description": "Ping, for http",
+    "name": "httping",
+    "pkg_id": "httping#github.com_rnemeth90_httping",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-09",
+    "version": "v0.0.0-20250808194008-78ae338f92d0"
+  },
+  {
+    "description": "GoLang httping",
+    "name": "httping-go",
+    "pkg_id": "httping-go#github.com_sgaunet_httping_go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-09",
+    "version": "v0.5.0"
   },
   {
     "description": "The interactive web server",
@@ -193381,6 +193567,19 @@
     "version": "HEAD-34827fd-250627T132340"
   },
   {
+    "description": "Create nicely formatted text outputs where lines have uniform width, and margins are aligned",
+    "name": "justify",
+    "pkg_id": "justify#github.com_pedroalbanese_justify",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-09",
+    "version": "v0.0.0-20250801213210-368c8ea794f1"
+  },
+  {
     "description": "Download media or send API requests",
     "name": "justwatch",
     "pkg_id": "justwatch#github.com_3052_platform",
@@ -199673,6 +199872,19 @@
     ],
     "updated_at": "2025-06-23",
     "version": "HEAD-9e401bb-250623T092259"
+  },
+  {
+    "description": "Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi",
+    "name": "kubernetes-go-helm-release-wordpress",
+    "pkg_id": "kubernetes-go-helm-release-wordpress#github.com_pulumi_examples_kubernetes_go_helm_release_wordpress",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-09",
+    "version": "v0.0.0-20250730155607-7801cb1e6ba9"
   },
   {
     "description": "A log viewer for Kubernetes troubleshooting",
@@ -208794,6 +209006,19 @@
     ],
     "updated_at": "2025-06-29",
     "version": "v0.0.0-20250216112330-6e3ec5b949b2"
+  },
+  {
+    "description": "A simple mixed text/JSON log formatter",
+    "name": "logfmt",
+    "pkg_id": "logfmt#github.com_zostay_logfmt",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-09",
+    "version": "v0.1.0"
   },
   {
     "description": "On-Demand Minecraft Server running on ECS_Fargate_ and deployed via CDK _Go_",
@@ -234744,6 +234969,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-1898b6e-250620T123949"
+  },
+  {
+    "description": "A HTTP server for cloud-init NoCloud datasource",
+    "name": "nocloud-ds",
+    "pkg_id": "nocloud-ds#github.com_ryot4_nocloud_ds",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-09",
+    "version": "v0.2.2"
   },
   {
     "description": "Go Snowflake Driver",
@@ -263225,6 +263463,19 @@
     "version": "20250620T154358"
   },
   {
+    "description": "ProtoMerge is a lightweight CLI tool written in Go for merging multiple Protobuf fragment files into a single consolidated .proto file.It is designed to simplify and automate the combination of partial protobuf service definitions, messages, enums, and RPCs from scattered fragment files",
+    "name": "protomerge",
+    "pkg_id": "protomerge#gitlab.com_judica_app_protomerge",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-09",
+    "version": "v0.0.0-20250808080940-6b6d79127193"
+  },
+  {
     "description": "Docker image to run ProtonMail Bridge",
     "name": "proton-bridge-docker",
     "pkg_id": "proton-bridge-docker#github.com_wormi4ok_proton_bridge_docker",
@@ -271361,6 +271612,18 @@
     "version": "HEAD-eb4c451-250620T181219"
   },
   {
+    "description": "A small but mighty implementation of the Reaction Bot library for Slack",
+    "name": "reaction-bot",
+    "pkg_id": "reaction-bot#github.com_sparkbox_reaction_bot",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-09",
+    "version": "v0.0.0-20250618015749-efc016689f24"
+  },
+  {
     "description": "Component operator (usable with Kyma) for https://github.com/sap/reactivejob-operator",
     "name": "reactivejob-operator-cop",
     "pkg_id": "reactivejob-operator-cop#github.com_sap_reactivejob_operator_cop",
@@ -273697,6 +273960,19 @@
     ],
     "updated_at": "2025-06-26",
     "version": "HEAD-60c78ed-250625T161421"
+  },
+  {
+    "description": "Prometheus Exporter for ValKey & Redis Metrics. Supports ValKey and Redis 2.x, 3.x, 4.x, 5.x, 6.x, and 7.x",
+    "name": "redis_exporter",
+    "pkg_id": "redis_exporter#github.com_oliver006_redis_exporter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-09",
+    "version": "v1.75.0"
   },
   {
     "description": "Some useful tools personally written for MySQL Daily Administration",
@@ -288832,6 +289108,19 @@
     "version": "HEAD-6b88bc5-210303T203924"
   },
   {
+    "description": "A runtime for developing large-scale and complex shellcode",
+    "name": "script",
+    "pkg_id": "script#github.com_rssu_shellcode_gleam_rt",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-09",
+    "version": "v0.0.0-20250621070850-a94b367ef1d1"
+  },
+  {
     "description": "Inline styling for html mail in golang",
     "name": "script",
     "pkg_id": "script#github.com_vanng822_go_premailer",
@@ -299477,7 +299766,8 @@
     "targets": [
       "aarch64-Linux",
       "loongarch64-Linux",
-      "riscv64-Linux"
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-08-09",
     "version": "v0.3.0"
