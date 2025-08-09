@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "saferestore",
+  "pkg_family": "safeadmin",
+  "pkg_id": "saferestore#github.com_continusec_safeadmin",
+  "pkg_name": "saferestore",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/continusec/safeadmin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Safedump encrypts the data such that it can be decrypted for the specified time period only (it defaults to 1 day",
+  "homepage": [
+    "https://github.com/continusec/safeadmin"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "breakglassrestore",
+    "safedump",
+    "saferestore",
+    "servesafedump"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/continusec/safeadmin/@v/v0.0.0-20250728023427-869ba287cb40.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250728023427-869ba287cb40",
+  "version_upstream": "",
+  "bsum": "67f1665a4ee977ad03608d62fdbb04591861b14209f603868ab48f50142e2e3c",
+  "build_date": "2025-08-09T04:12:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16845152677",
+  "build_id": "16845152677",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/continusec/safeadmin/saferestore?tag=v0.0.0-20250728023427-869ba287cb40-x86_64-Linux&download=saferestore.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/continusec/safeadmin/saferestore?tag=v0.0.0-20250728023427-869ba287cb40-x86_64-Linux&download=saferestore",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/continusec/safeadmin/saferestore:v0.0.0-20250728023427-869ba287cb40-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/continusec/safeadmin/saferestore",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/continusec/safeadmin/saferestore?tag=v0.0.0-20250728023427-869ba287cb40-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0e814e4c67a4b381bfffea97c07c6655dfdf1f81392f45ac980add6b07b4c9b7",
+  "size": "12 MB",
+  "size_raw": "12486592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
