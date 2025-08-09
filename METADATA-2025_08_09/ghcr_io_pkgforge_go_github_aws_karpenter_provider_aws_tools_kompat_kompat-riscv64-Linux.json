@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "kompat",
+  "pkg_family": "kompat",
+  "pkg_id": "kompat#github.com_aws_karpenter_provider_aws_tools_kompat",
+  "pkg_name": "kompat",
+  "pkg_type": "static",
+  "pkg_webpage": "https://karpenter.sh",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity",
+  "homepage": [
+    "https://karpenter.sh"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kompat"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/aws/karpenter/tools/kompat/@v/v0.0.0-20250806144345-cb45e8a137d9.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250806144345-cb45e8a137d9",
+  "version_upstream": "",
+  "bsum": "f5a77285e347e52dea6c637aead09a88cef26911a58c24d4c906fd8ca95af935",
+  "build_date": "2025-08-09T02:00:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16844106038",
+  "build_id": "16844106038",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/karpenter-provider-aws/tools/kompat/kompat?tag=v0.0.0-20250806144345-cb45e8a137d9-riscv64-Linux&download=kompat.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "7389",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/karpenter-provider-aws/tools/kompat/kompat?tag=v0.0.0-20250806144345-cb45e8a137d9-riscv64-Linux&download=kompat",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aws/karpenter-provider-aws/tools/kompat/kompat:v0.0.0-20250806144345-cb45e8a137d9-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aws/karpenter-provider-aws/tools/kompat/kompat",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/karpenter-provider-aws/tools/kompat/kompat?tag=v0.0.0-20250806144345-cb45e8a137d9-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6a0b09a1c51a60339f9418e9ffa3c2b27a5bceb7e822edd1a9a8ceb3688878a0",
+  "size": "8.6 MB",
+  "size_raw": "8994168",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250630182214-c64e89762fd1-riscv64-Linux",
+    "v0.0.0-20250716224002-a3d7ede6f487-riscv64-Linux",
+    "v0.0.0-20250721231411-3732970d8fec-riscv64-Linux",
+    "v0.0.0-20250728222818-bd2e2863f73f-riscv64-Linux",
+    "v0.0.0-20250806144345-cb45e8a137d9-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
