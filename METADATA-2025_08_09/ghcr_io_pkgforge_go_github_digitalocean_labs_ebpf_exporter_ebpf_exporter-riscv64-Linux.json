@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ebpf_exporter",
+  "pkg_family": "ebpf_exporter",
+  "pkg_id": "ebpf_exporter#github.com_digitalocean_labs_ebpf_exporter",
+  "pkg_name": "ebpf_exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/digitalocean-labs/ebpf_exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A pure-Go Prometheus exporter for the eBPF Linux subsystem",
+  "homepage": [
+    "https://github.com/digitalocean-labs/ebpf_exporter"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ebpf_exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/digitalocean-labs/ebpf_exporter/@v/v0.3.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.3.0",
+  "version_upstream": "",
+  "bsum": "0fe061beb19a7420a6129a3ad69f9a95f30b0df9f3d46ae6be2eae13b896ae44",
+  "build_date": "2025-08-09T04:14:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16845153438",
+  "build_id": "16845153438",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/digitalocean-labs/ebpf/exporter/ebpf_exporter?tag=v0.3.0-riscv64-Linux&download=ebpf_exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "27",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/digitalocean-labs/ebpf/exporter/ebpf_exporter?tag=v0.3.0-riscv64-Linux&download=ebpf_exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/digitalocean-labs/ebpf/exporter/ebpf_exporter:v0.3.0-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/digitalocean-labs/ebpf/exporter/ebpf_exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/digitalocean-labs/ebpf/exporter/ebpf_exporter?tag=v0.3.0-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "64b623c4c0a13f0608d6a3f984cfe85221b70d40211e4f9179481ba0dec10682",
+  "size": "9.7 MB",
+  "size_raw": "10093624",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
