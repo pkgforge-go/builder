@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "container",
+  "pkg_family": "kubenates_workshop",
+  "pkg_id": "container#github.com_guangzhengli_kubenates_workshop",
+  "pkg_name": "container",
+  "pkg_type": "static",
+  "pkg_webpage": "https://guangzhengli.com/courses/kubernetes",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "K8s tutorials | k8s 教程",
+  "homepage": [
+    "https://guangzhengli.com/courses/kubernetes"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "configmaps",
+    "container",
+    "hello-helm",
+    "kubenates_workshop-service",
+    "liveness",
+    "readiness",
+    "secret",
+    "v2"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/guangzhengli/kubenates_workshop/@v/v0.0.0-20250725070858-68c97e3d8278.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250725070858-68c97e3d8278",
+  "version_upstream": "",
+  "bsum": "e9e4e71165981843773683758dbb96e924bf338d0e49d6799793ee231f5b99b1",
+  "build_date": "2025-08-10T04:45:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16857156511",
+  "build_id": "16857156511",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/guangzhengli/kubenates/workshop/container?tag=v0.0.0-20250725070858-68c97e3d8278-loongarch64-Linux&download=container.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5397",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/guangzhengli/kubenates/workshop/container?tag=v0.0.0-20250725070858-68c97e3d8278-loongarch64-Linux&download=container",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/guangzhengli/kubenates/workshop/container:v0.0.0-20250725070858-68c97e3d8278-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/guangzhengli/kubenates/workshop/container",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/guangzhengli/kubenates/workshop/container?tag=v0.0.0-20250725070858-68c97e3d8278-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a4eda80a737e804c869a640e2d08e6c04f489a5c58efa4d75887037db15dd6fe",
+  "size": "5.6 MB",
+  "size_raw": "5860928",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
