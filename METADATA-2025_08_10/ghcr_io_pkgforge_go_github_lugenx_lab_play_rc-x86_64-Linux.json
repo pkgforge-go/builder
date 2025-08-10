@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "play_rc",
+  "pkg_family": "lab",
+  "pkg_id": "play_rc#github.com_lugenx_lab",
+  "pkg_name": "play_rc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lugenx/lab",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Lab helps you experiment with code without friction. Type lab with any extension and start coding - it handles files, organization, and cleanup automatically",
+  "homepage": [
+    "https://github.com/lugenx/lab"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "binary_matrix_rank_test",
+    "byteptr",
+    "cbyte_big_alloc",
+    "chan_internal",
+    "cmd_queue",
+    "context",
+    "dawa_fetch",
+    "defer",
+    "diskio",
+    "fib",
+    "ftoa",
+    "gcflags",
+    "inspector",
+    "lang_repo",
+    "nill_access_methods",
+    "parallel_map",
+    "play_rc",
+    "posponed_queue",
+    "receiver_iface_mismatch",
+    "reshi-pishi",
+    "rotate_cache",
+    "trace_error",
+    "yaml_parser"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/koykov/lab/@v/v0.0.0-20250805203047-f72e55784119.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.0",
+  "version_upstream": "",
+  "bsum": "73fd731ea9a3752a97a7cb11a0bfde0057e8a749aa88349f4ec8fa2b7a31425f",
+  "build_date": "2025-08-10T04:59:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16857184442",
+  "build_id": "16857184442",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lugenx/lab/play_rc?tag=v1.0.0-x86_64-Linux&download=play_rc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "263",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lugenx/lab/play_rc?tag=v1.0.0-x86_64-Linux&download=play_rc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lugenx/lab/play_rc:v1.0.0-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lugenx/lab/play_rc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lugenx/lab/play_rc?tag=v1.0.0-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8c86c5cbc10f12dd935c346a87f7973137c391b3f0469deea7ac12b2d07593eb",
+  "size": "1.6 MB",
+  "size_raw": "1672120",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

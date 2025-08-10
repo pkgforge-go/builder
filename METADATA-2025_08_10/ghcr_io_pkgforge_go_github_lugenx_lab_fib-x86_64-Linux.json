@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "fib",
+  "pkg_family": "lab",
+  "pkg_id": "fib#github.com_lugenx_lab",
+  "pkg_name": "fib",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lugenx/lab",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Lab helps you experiment with code without friction. Type lab with any extension and start coding - it handles files, organization, and cleanup automatically",
+  "homepage": [
+    "https://github.com/lugenx/lab"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "binary_matrix_rank_test",
+    "byteptr",
+    "cbyte_big_alloc",
+    "chan_internal",
+    "cmd_queue",
+    "context",
+    "dawa_fetch",
+    "defer",
+    "diskio",
+    "fib",
+    "ftoa",
+    "gcflags",
+    "inspector",
+    "lang_repo",
+    "nill_access_methods",
+    "parallel_map",
+    "play_rc",
+    "posponed_queue",
+    "receiver_iface_mismatch",
+    "reshi-pishi",
+    "rotate_cache",
+    "trace_error",
+    "yaml_parser"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/koykov/lab/@v/v0.0.0-20250805203047-f72e55784119.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.0",
+  "version_upstream": "",
+  "bsum": "9678a78e19dc536899dbea559e3d1070c6ca238619556b44bec5eef4d31b7a70",
+  "build_date": "2025-08-10T05:01:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16857184442",
+  "build_id": "16857184442",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lugenx/lab/fib?tag=v1.0.0-x86_64-Linux&download=fib.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "263",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lugenx/lab/fib?tag=v1.0.0-x86_64-Linux&download=fib",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lugenx/lab/fib:v1.0.0-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lugenx/lab/fib",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lugenx/lab/fib?tag=v1.0.0-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "666779862b546568163980f48bb6048720a4b17c19419146e0dfdc4681f8dd35",
+  "size": "1.1 MB",
+  "size_raw": "1141496",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
