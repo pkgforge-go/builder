@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "matchmaker",
+  "pkg_family": "matchmakingengine",
+  "pkg_id": "matchmaker#github.com_yashh56_matchmakingengine",
+  "pkg_name": "matchmaker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://yashh21.medium.com/designing-a-simple-real-time-matchmaking-service-architecture-implementation-96e10f095ce1",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A scalable real-time matchmaking engine built using Go, Redis, WebSockets, and Kubernetes (via kind or minikube) to simulate game pod creation and player assignment in a distributed environment. This system mimics real-world multiplayer games' server orchestration using custom services and Kubernetes pods",
+  "homepage": [
+    "https://yashh21.medium.com/designing-a-simple-real-time-matchmaking-service-architecture-implementation-96e10f095ce1"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api",
+    "matchmaker",
+    "matchmakingengine-cmd",
+    "ws_client"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/yashh56/matchmakingengine/@v/v0.0.0-20250705140250-6d1a380d4d33.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250705140250-6d1a380d4d33",
+  "version_upstream": "",
+  "bsum": "aa1d20c67bf8b798f0d6d52dbdc00f0c534550a6d42856baf5067574a00090b8",
+  "build_date": "2025-08-10T05:28:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16857460192",
+  "build_id": "16857460192",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yashh56/matchmakingengine/matchmaker?tag=v0.0.0-20250705140250-6d1a380d4d33-x86_64-Linux&download=matchmaker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yashh56/matchmakingengine/matchmaker?tag=v0.0.0-20250705140250-6d1a380d4d33-x86_64-Linux&download=matchmaker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/yashh56/matchmakingengine/matchmaker:v0.0.0-20250705140250-6d1a380d4d33-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/yashh56/matchmakingengine/matchmaker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yashh56/matchmakingengine/matchmaker?tag=v0.0.0-20250705140250-6d1a380d4d33-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "06f717ff5aeb1babadb0589c53fa6ffc392a5bd977385a3211cca4f02a74c3e1",
+  "size": "8.3 MB",
+  "size_raw": "8639552",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
