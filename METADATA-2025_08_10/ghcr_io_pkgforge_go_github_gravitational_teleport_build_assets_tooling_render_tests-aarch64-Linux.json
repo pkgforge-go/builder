@@ -1,0 +1,87 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "render-tests",
+  "pkg_family": "tooling",
+  "pkg_id": "render-tests#github.com_gravitational_teleport_build.assets_tooling",
+  "pkg_name": "render-tests",
+  "pkg_type": "static",
+  "pkg_webpage": "https://goteleport.com",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The easiest, and most secure way to access and protect all of your infrastructure",
+  "homepage": [
+    "https://goteleport.com"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apiversion",
+    "check",
+    "difftest",
+    "goderive",
+    "protoc-gen-eventschema",
+    "query-latest",
+    "render-helm-ref",
+    "render-tests",
+    "rerun",
+    "update-plist-version"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/gravitational/teleport/build.assets/tooling/@v/v0.0.0-20250806231722-e56daf8adfd4.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250806231722-e56daf8adfd4",
+  "version_upstream": "",
+  "bsum": "21cd55a1bede1834afbbcece437fef4440ffa6e3491211734992f61c9642bbe5",
+  "build_date": "2025-08-10T02:24:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16856175498",
+  "build_id": "16856175498",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gravitational/teleport/build.assets/tooling/render-tests?tag=v0.0.0-20250806231722-e56daf8adfd4-aarch64-Linux&download=render-tests.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18903",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gravitational/teleport/build.assets/tooling/render-tests?tag=v0.0.0-20250806231722-e56daf8adfd4-aarch64-Linux&download=render-tests",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gravitational/teleport/build.assets/tooling/render-tests:v0.0.0-20250806231722-e56daf8adfd4-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gravitational/teleport/build.assets/tooling/render-tests",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gravitational/teleport/build.assets/tooling/render-tests?tag=v0.0.0-20250806231722-e56daf8adfd4-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9b13525ea6cfe41095e39b40ff86f7c51b887260d3557eb257ec2e143b1edd43",
+  "size": "5.9 MB",
+  "size_raw": "6098208",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250627210727-059fb3740a3a-aarch64-Linux",
+    "v0.0.0-20250715200050-deda8410b3d8-aarch64-Linux",
+    "v0.0.0-20250716185450-3d47efd589ec-aarch64-Linux",
+    "v0.0.0-20250721232638-dec7e9fe0078-aarch64-Linux",
+    "v0.0.0-20250723225202-79598711cb6e-aarch64-Linux",
+    "v0.0.0-20250725213702-f779759a8a49-aarch64-Linux",
+    "v0.0.0-20250728192729-3d6a703d5cb6-aarch64-Linux",
+    "v0.0.0-20250730211806-bf9ba1da5a68-aarch64-Linux",
+    "v0.0.0-20250731214823-74373aa0aa3f-aarch64-Linux",
+    "v0.0.0-20250801212747-d5fb5325e31c-aarch64-Linux",
+    "v0.0.0-20250803161857-803550ec70f8-aarch64-Linux",
+    "v0.0.0-20250804221331-9692c3fab9e2-aarch64-Linux",
+    "v0.0.0-20250806231722-e56daf8adfd4-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
