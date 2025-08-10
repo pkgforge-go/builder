@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "dawa_fetch",
+  "pkg_family": "lab",
+  "pkg_id": "dawa_fetch#github.com_lugenx_lab",
+  "pkg_name": "dawa_fetch",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lugenx/lab",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Lab helps you experiment with code without friction. Type lab with any extension and start coding - it handles files, organization, and cleanup automatically",
+  "homepage": [
+    "https://github.com/lugenx/lab"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "binary_matrix_rank_test",
+    "byteptr",
+    "cbyte_big_alloc",
+    "chan_internal",
+    "cmd_queue",
+    "context",
+    "dawa_fetch",
+    "defer",
+    "diskio",
+    "fib",
+    "ftoa",
+    "gcflags",
+    "inspector",
+    "lang_repo",
+    "nill_access_methods",
+    "parallel_map",
+    "play_rc",
+    "posponed_queue",
+    "receiver_iface_mismatch",
+    "reshi-pishi",
+    "rotate_cache",
+    "trace_error",
+    "yaml_parser"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/koykov/lab/@v/v0.0.0-20250805203047-f72e55784119.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.0",
+  "version_upstream": "",
+  "bsum": "445da92950bc534e4c1a1efd09801673de15461ef2ba66614756c5ec7f2db3c1",
+  "build_date": "2025-08-10T04:59:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16857184442",
+  "build_id": "16857184442",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lugenx/lab/dawa_fetch?tag=v1.0.0-loongarch64-Linux&download=dawa_fetch.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "263",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lugenx/lab/dawa_fetch?tag=v1.0.0-loongarch64-Linux&download=dawa_fetch",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lugenx/lab/dawa_fetch:v1.0.0-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lugenx/lab/dawa_fetch",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lugenx/lab/dawa_fetch?tag=v1.0.0-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bb052cd0c0ab9a7e489e985ac894e3563338fb01f01a4c7d55c6f189a3a99754",
+  "size": "1.7 MB",
+  "size_raw": "1679032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

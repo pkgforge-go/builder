@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "chan_internal",
+  "pkg_family": "lab",
+  "pkg_id": "chan_internal#github.com_lugenx_lab",
+  "pkg_name": "chan_internal",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lugenx/lab",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Lab helps you experiment with code without friction. Type lab with any extension and start coding - it handles files, organization, and cleanup automatically",
+  "homepage": [
+    "https://github.com/lugenx/lab"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "binary_matrix_rank_test",
+    "byteptr",
+    "cbyte_big_alloc",
+    "chan_internal",
+    "cmd_queue",
+    "context",
+    "dawa_fetch",
+    "defer",
+    "diskio",
+    "fib",
+    "ftoa",
+    "gcflags",
+    "inspector",
+    "lang_repo",
+    "nill_access_methods",
+    "parallel_map",
+    "play_rc",
+    "posponed_queue",
+    "receiver_iface_mismatch",
+    "reshi-pishi",
+    "rotate_cache",
+    "trace_error",
+    "yaml_parser"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/koykov/lab/@v/v0.0.0-20250805203047-f72e55784119.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.0",
+  "version_upstream": "",
+  "bsum": "1d704f5b2137c129e3da14e32d0bba6cd2fa882f63a2d3ee8d9739fd8b2b24a2",
+  "build_date": "2025-08-10T04:57:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16857184442",
+  "build_id": "16857184442",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lugenx/lab/chan_internal?tag=v1.0.0-loongarch64-Linux&download=chan_internal.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "263",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lugenx/lab/chan_internal?tag=v1.0.0-loongarch64-Linux&download=chan_internal",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lugenx/lab/chan_internal:v1.0.0-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lugenx/lab/chan_internal",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lugenx/lab/chan_internal?tag=v1.0.0-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6c6af755c740aba92c6d3ef460e476a549afbbc820abca7593a762dbe90a74e4",
+  "size": "1.6 MB",
+  "size_raw": "1644600",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
