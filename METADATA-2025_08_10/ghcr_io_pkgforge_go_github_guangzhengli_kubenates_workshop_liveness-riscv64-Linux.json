@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "liveness",
+  "pkg_family": "kubenates_workshop",
+  "pkg_id": "liveness#github.com_guangzhengli_kubenates_workshop",
+  "pkg_name": "liveness",
+  "pkg_type": "static",
+  "pkg_webpage": "https://guangzhengli.com/courses/kubernetes",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "K8s tutorials | k8s 教程",
+  "homepage": [
+    "https://guangzhengli.com/courses/kubernetes"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "configmaps",
+    "container",
+    "hello-helm",
+    "kubenates_workshop-service",
+    "liveness",
+    "readiness",
+    "secret",
+    "v2"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/guangzhengli/kubenates_workshop/@v/v0.0.0-20250725070858-68c97e3d8278.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250725070858-68c97e3d8278",
+  "version_upstream": "",
+  "bsum": "7fd8f920a2c5eb4c97ce67a8fa065006f6e79e73a28a7883ff4bc3ad0ecbf454",
+  "build_date": "2025-08-10T04:45:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16857156511",
+  "build_id": "16857156511",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/guangzhengli/kubenates/workshop/liveness?tag=v0.0.0-20250725070858-68c97e3d8278-riscv64-Linux&download=liveness.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5397",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/guangzhengli/kubenates/workshop/liveness?tag=v0.0.0-20250725070858-68c97e3d8278-riscv64-Linux&download=liveness",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/guangzhengli/kubenates/workshop/liveness:v0.0.0-20250725070858-68c97e3d8278-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/guangzhengli/kubenates/workshop/liveness",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/guangzhengli/kubenates/workshop/liveness?tag=v0.0.0-20250725070858-68c97e3d8278-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b73022ef366889eed6e2596dfebc4bd2767818a986fec3530cdd8d61a97027af",
+  "size": "5.5 MB",
+  "size_raw": "5741880",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
