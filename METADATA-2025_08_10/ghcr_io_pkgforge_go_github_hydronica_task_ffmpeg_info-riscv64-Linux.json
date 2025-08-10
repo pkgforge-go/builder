@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "info",
+  "pkg_family": "task_ffmpeg",
+  "pkg_id": "info#github.com_hydronica_task_ffmpeg",
+  "pkg_name": "info",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hydronica/task_ffmpeg",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A task system for re-encoding files based on media-info rules (such as h264 to h265",
+  "homepage": [
+    "https://github.com/hydronica/task_ffmpeg"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "encoder",
+    "info"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/hydronica/task_ffmpeg/@v/v0.0.0-20250718195155-7fbff9bad93f.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250718195155-7fbff9bad93f",
+  "version_upstream": "",
+  "bsum": "5fceb6156eeb6c10d93356da76ef56279a3ac4d7f9a1970ec8f3e0e8d7fd64d0",
+  "build_date": "2025-08-10T04:48:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16857162787",
+  "build_id": "16857162787",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hydronica/task/ffmpeg/info?tag=v0.0.0-20250718195155-7fbff9bad93f-riscv64-Linux&download=info.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hydronica/task/ffmpeg/info?tag=v0.0.0-20250718195155-7fbff9bad93f-riscv64-Linux&download=info",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hydronica/task/ffmpeg/info:v0.0.0-20250718195155-7fbff9bad93f-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hydronica/task/ffmpeg/info",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hydronica/task/ffmpeg/info?tag=v0.0.0-20250718195155-7fbff9bad93f-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c417e3d3c59eeca4925d154047d5b2d9f170fae62cfce9175bd28cdd5e43d30c",
+  "size": "19 MB",
+  "size_raw": "19433944",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
