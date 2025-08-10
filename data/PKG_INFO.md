@@ -688,6 +688,7 @@
 - 🐹 **[datastar](https://data-star.dev)**: The hypermedia framework.
 - 🐹 **[_examples](https://github.com/data-dog/godog)**: Cucumber for golang.
 - 🐹 **[collector](https://elkeid.bytedance.com)**: Elkeid is an open source solution that can meet the security requirements of various workloads such as hosts, containers and K8s, and serverless.
+- 🐹 **[ts-proto](https://github.com/stephenh/ts-proto)**: An idiomatic protobuf generator for TypeScript.
 - 🐹 **[gosearch](https://github.com/ibnaleem/gosearch)**: Search anyone's digital footprint across 300+ websites.
 - 🐹 **[docker-credential-mmds](https://github.com/firecracker-microvm/firecracker-containerd)**: Firecracker-containerd enables containerd to manage containers as Firecracker microVMs.
 - 🐹 **[glb-director-xdp](https://github.com/github/glb-director)**: GitHub Load Balancer Director and supporting tooling.
@@ -2568,6 +2569,7 @@
 - 🐹 **[appliance](https://github.com/openshift/appliance)**: OpenShift-based Appliance Builder.
 - 🐹 **[binary-buildpack](https://github.com/cloudfoundry/binary-buildpack)**: Deploy binaries to Cloud Foundry.
 - 🐹 **[cage](https://github.com/warashi/cage)**: A cross-platform security sandbox CLI tool that executes commands with restricted file system write access while maintaining full read permissions.
+- 🐹 **[data-structures](https://github.com/luisespino/data-structures)**: Examples of Data Structures Programming in Various Programming Languages.
 - 🐹 **[eng](https://github.com/joyent/eng)**: Triton Engineering Guide.
 - 🐹 **[eng](https://github.com/tritondatacenter/eng)**: Triton Engineering Guide.
 - 🐹 **[go](https://andygrunwald.com/blog/your-database-connection-deserves-a-name/)**: Examples and code to assign a name to your MongoDB, MySQL, NATS, Oracle, PostgreSQL, RabbitMQ, and redis connection.
@@ -2652,6 +2654,7 @@
 - 🐹 **[audit-span](https://github.com/vrutkovs/audit-span)**: Build grafana dashboards from k8s audit logs.
 - 🐹 **[cache](https://github.com/tayron/golang-estudos/redis/cache)**: Vários exemplos de uso de recurso da linhagem de programação GO Lang.
 - 🐹 **[drawio-portable](https://portapps.io/app/drawio-portable/)**: Draw.
+- 🐹 **[elemo](https://elemo.app)**: The next-generation project management platform.
 - 🐹 **[expander](https://github.com/tayron/golang-estudos/expander)**: Vários exemplos de uso de recurso da linhagem de programação GO Lang.
 - 🐹 **[functions](https://jacobtomlinson.dev)**: The code that powers jacobtomlinson.
 - 🐹 **[golangci-lint](https://github.com/tayron/golang-estudos/golangci-lint)**: Vários exemplos de uso de recurso da linhagem de programação GO Lang.
