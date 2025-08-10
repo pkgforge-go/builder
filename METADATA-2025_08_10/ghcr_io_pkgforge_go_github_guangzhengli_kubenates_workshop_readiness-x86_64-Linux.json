@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "readiness",
+  "pkg_family": "kubenates_workshop",
+  "pkg_id": "readiness#github.com_guangzhengli_kubenates_workshop",
+  "pkg_name": "readiness",
+  "pkg_type": "static",
+  "pkg_webpage": "https://guangzhengli.com/courses/kubernetes",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "K8s tutorials | k8s 教程",
+  "homepage": [
+    "https://guangzhengli.com/courses/kubernetes"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "configmaps",
+    "container",
+    "hello-helm",
+    "kubenates_workshop-service",
+    "liveness",
+    "readiness",
+    "secret",
+    "v2"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/guangzhengli/kubenates_workshop/@v/v0.0.0-20250725070858-68c97e3d8278.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250725070858-68c97e3d8278",
+  "version_upstream": "",
+  "bsum": "21868910e21cad9df906cbb863d566901f808c153455a1fc010de60efc7870bf",
+  "build_date": "2025-08-10T04:45:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16857156511",
+  "build_id": "16857156511",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/guangzhengli/kubenates/workshop/readiness?tag=v0.0.0-20250725070858-68c97e3d8278-x86_64-Linux&download=readiness.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5397",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/guangzhengli/kubenates/workshop/readiness?tag=v0.0.0-20250725070858-68c97e3d8278-x86_64-Linux&download=readiness",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/guangzhengli/kubenates/workshop/readiness:v0.0.0-20250725070858-68c97e3d8278-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/guangzhengli/kubenates/workshop/readiness",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/guangzhengli/kubenates/workshop/readiness?tag=v0.0.0-20250725070858-68c97e3d8278-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9def0990cb62c162b664a216ff31d2ed109d218a563c4a73d87a01a60ea43cf8",
+  "size": "5.9 MB",
+  "size_raw": "6116096",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
