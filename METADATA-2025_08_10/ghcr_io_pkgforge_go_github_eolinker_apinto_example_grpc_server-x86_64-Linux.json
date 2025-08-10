@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "grpc",
+  "pkg_id": "server#github.com_eolinker_apinto_example_grpc",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://www.apinto.com",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "基于golang开发的网关。具有各种插件，可以自行扩展，即插即用。此外，它可以快速帮助企业管理API服务，提高API服务的稳定性和安全性",
+  "homepage": [
+    "https://www.apinto.com"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/wizact/go-patterns/grpc/@v/v0.0.0-20250713221900-bde560dfa3b0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250708080033-988ba5332f4f",
+  "version_upstream": "",
+  "bsum": "4e58d44bc2153facdf4af5eae2523b75d574d8f57b647153b73a3164a9f88bcf",
+  "build_date": "2025-08-10T05:26:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16857435279",
+  "build_id": "16857435279",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eolinker/apinto/example/grpc/server?tag=v0.0.0-20250708080033-988ba5332f4f-x86_64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1570",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eolinker/apinto/example/grpc/server?tag=v0.0.0-20250708080033-988ba5332f4f-x86_64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/eolinker/apinto/example/grpc/server:v0.0.0-20250708080033-988ba5332f4f-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/eolinker/apinto/example/grpc/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/eolinker/apinto/example/grpc/server?tag=v0.0.0-20250708080033-988ba5332f4f-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "816a2259897f3971a352cdc4aa43cba0cb12935d3c585f4583c861d66f4e0844",
+  "size": "11 MB",
+  "size_raw": "10527008",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250708080033-988ba5332f4f-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
