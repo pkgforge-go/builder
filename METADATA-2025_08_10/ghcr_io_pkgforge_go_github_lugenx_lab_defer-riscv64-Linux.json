@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "defer",
+  "pkg_family": "lab",
+  "pkg_id": "defer#github.com_lugenx_lab",
+  "pkg_name": "defer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lugenx/lab",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Lab helps you experiment with code without friction. Type lab with any extension and start coding - it handles files, organization, and cleanup automatically",
+  "homepage": [
+    "https://github.com/lugenx/lab"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "binary_matrix_rank_test",
+    "byteptr",
+    "cbyte_big_alloc",
+    "chan_internal",
+    "cmd_queue",
+    "context",
+    "dawa_fetch",
+    "defer",
+    "diskio",
+    "fib",
+    "ftoa",
+    "gcflags",
+    "inspector",
+    "lang_repo",
+    "nill_access_methods",
+    "parallel_map",
+    "play_rc",
+    "posponed_queue",
+    "receiver_iface_mismatch",
+    "reshi-pishi",
+    "rotate_cache",
+    "trace_error",
+    "yaml_parser"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/koykov/lab/@v/v0.0.0-20250805203047-f72e55784119.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.0",
+  "version_upstream": "",
+  "bsum": "7be6d88848c49af3d15571026510c82700ca5b81158c84a25974a3dc64b1e5f4",
+  "build_date": "2025-08-10T04:59:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16857184442",
+  "build_id": "16857184442",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lugenx/lab/defer?tag=v1.0.0-riscv64-Linux&download=defer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "263",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lugenx/lab/defer?tag=v1.0.0-riscv64-Linux&download=defer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lugenx/lab/defer:v1.0.0-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lugenx/lab/defer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lugenx/lab/defer?tag=v1.0.0-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4d02ac789ba80e06e0cac4c3c4636965cff35f9b90302e9a201e75f893b7331b",
+  "size": "1.1 MB",
+  "size_raw": "1062352",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
