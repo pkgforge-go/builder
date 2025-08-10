@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "pwned",
+  "pkg_family": "pwned",
+  "pkg_id": "pwned#github.com_devries_pwned",
+  "pkg_name": "pwned",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/devries/pwned",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A small command line utility to check if a password has appeared in Pwned Passwords database",
+  "homepage": [
+    "https://github.com/devries/pwned"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pwned"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/devries/pwned/@v/v1.1.25.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.1.25",
+  "version_upstream": "",
+  "bsum": "e3b725fcc78d7a464d37e35852261bad8914fed6c9d42a13e4dc164c8173df32",
+  "build_date": "2025-08-10T04:31:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16857131552",
+  "build_id": "16857131552",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/devries/pwned/pwned?tag=v1.1.25-loongarch64-Linux&download=pwned.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/devries/pwned/pwned?tag=v1.1.25-loongarch64-Linux&download=pwned",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/devries/pwned/pwned:v1.1.25-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/devries/pwned/pwned",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/devries/pwned/pwned?tag=v1.1.25-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "28d0baedaef8470ad04c01f0324fcd735e5527a443f215dea350bdb380498337",
+  "size": "5.7 MB",
+  "size_raw": "5956192",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
