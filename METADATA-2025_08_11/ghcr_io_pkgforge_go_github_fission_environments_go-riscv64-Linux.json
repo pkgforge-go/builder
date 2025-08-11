@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "go",
+  "pkg_family": "environments",
+  "pkg_id": "go#github.com_fission_environments",
+  "pkg_name": "go",
+  "pkg_type": "static",
+  "pkg_webpage": "https://fission.io/environments/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A set of language environments for Fission",
+  "homepage": [
+    "https://fission.io/environments/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "binary",
+    "examples",
+    "go",
+    "tensorflow-serving"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/fission/environments/@v/v0.0.0-20250808151811-863298b5b7a9.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250808151811-863298b5b7a9",
+  "version_upstream": "",
+  "bsum": "61e911606c53d0c8ac448ce24f0c15f597e28eab62f106c1d782bcfef8bfc4d1",
+  "build_date": "2025-08-11T13:05:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16880816913",
+  "build_id": "16880816913",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fission/environments/go?tag=v0.0.0-20250808151811-863298b5b7a9-riscv64-Linux&download=go.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "27",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fission/environments/go?tag=v0.0.0-20250808151811-863298b5b7a9-riscv64-Linux&download=go",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fission/environments/go:v0.0.0-20250808151811-863298b5b7a9-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fission/environments/go",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fission/environments/go?tag=v0.0.0-20250808151811-863298b5b7a9-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "af145745d3e630cdd185d261a10eced7f85e2c43b09aaf41c2c381d0d49dedfe",
+  "size": "9.7 MB",
+  "size_raw": "10153784",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250218081344-c679ff68371e-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
