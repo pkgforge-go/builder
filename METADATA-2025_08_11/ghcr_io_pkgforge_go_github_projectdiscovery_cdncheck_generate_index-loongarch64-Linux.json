@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "generate-index",
+  "pkg_family": "cdncheck",
+  "pkg_id": "generate-index#github.com_projectdiscovery_cdncheck",
+  "pkg_name": "generate-index",
+  "pkg_type": "static",
+  "pkg_webpage": "https://projectdiscovery.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A utility to detect various technology for a given IP address",
+  "homepage": [
+    "https://projectdiscovery.io"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cdncheck",
+    "cdncheck-examples",
+    "functional-test",
+    "generate-index",
+    "integration-test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/projectdiscovery/cdncheck/@v/v1.1.31.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.1.31",
+  "version_upstream": "",
+  "bsum": "c28f91bf7b7c60fc691e1643ac0b986bce05f60b0dcd23a046646780ed43ade1",
+  "build_date": "2025-08-11T16:01:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16884811678",
+  "build_id": "16884811678",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/cdncheck/generate-index?tag=v1.1.31-loongarch64-Linux&download=generate-index.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "858",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/cdncheck/generate-index?tag=v1.1.31-loongarch64-Linux&download=generate-index",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/projectdiscovery/cdncheck/generate-index:v1.1.31-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/projectdiscovery/cdncheck/generate-index",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/projectdiscovery/cdncheck/generate-index?tag=v1.1.31-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "842625f13ce8dfe7fa5a35d5c3961b99c0823713c2c8e142c9e370b5023395fe",
+  "size": "8.2 MB",
+  "size_raw": "8550552",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-dbdc966-250615T001226-loongarch64-Linux[v1.1.23]",
+    "HEAD-0443e5b-250622T001220-loongarch64-Linux[v1.1.24]",
+    "HEAD-d4e3c75-250629T001237-loongarch64-Linux[v1.1.25]",
+    "v1.1.25-loongarch64-Linux",
+    "v1.1.26-loongarch64-Linux",
+    "v1.1.27-loongarch64-Linux",
+    "v1.1.28-loongarch64-Linux",
+    "v1.1.29-loongarch64-Linux",
+    "v1.1.30-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
