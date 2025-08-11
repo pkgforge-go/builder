@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "get-qemu-state",
+  "pkg_family": "container2wasm",
+  "pkg_id": "get-qemu-state#github.com_ktock_container2wasm",
+  "pkg_name": "get-qemu-state",
+  "pkg_type": "static",
+  "pkg_webpage": "https://ktock.github.io/container2wasm-demo/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Container to WASM converter",
+  "homepage": [
+    "https://ktock.github.io/container2wasm-demo/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "c2w",
+    "c2w-net",
+    "create-spec",
+    "get-qemu-state",
+    "httphello",
+    "init"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/container2wasm/container2wasm/@v/v0.8.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.8.3",
+  "version_upstream": "",
+  "bsum": "019094dd9a8bd102bae758f29dbf42f959ce6fd5a29bd1b1c6452c07b11b8d0b",
+  "build_date": "2025-08-11T02:16:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16869292474",
+  "build_id": "16869292474",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ktock/container2wasm/get-qemu-state?tag=v0.8.3-loongarch64-Linux&download=get-qemu-state.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2378",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ktock/container2wasm/get-qemu-state?tag=v0.8.3-loongarch64-Linux&download=get-qemu-state",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ktock/container2wasm/get-qemu-state:v0.8.3-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ktock/container2wasm/get-qemu-state",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ktock/container2wasm/get-qemu-state?tag=v0.8.3-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3ef56462be2c5201c2e59caab24551000ea12aa27dab81fef1710d75bc813da2",
+  "size": "2.4 MB",
+  "size_raw": "2435512",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.8.3-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
