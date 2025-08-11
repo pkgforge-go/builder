@@ -27592,6 +27592,19 @@
     "version": "HEAD-97a1210-250619T084950"
   },
   {
+    "description": "A place to add different use cases for different Kinesis Video Stream Assets",
+    "name": "amazon-kinesis-video-streams-demos",
+    "pkg_id": "amazon-kinesis-video-streams-demos#github.com_aws_samples_amazon_kinesis_video_streams_demos",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-11",
+    "version": "v0.0.0-20250722194331-5096f5dcf207"
+  },
+  {
     "description": "A utility tool to create a tarball of existing objects in Amazon S3",
     "name": "amazon-s3-tar-tool",
     "pkg_id": "amazon-s3-tar-tool#github.com_awslabs_amazon_s3_tar_tool",
@@ -52511,8 +52524,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-11",
-    "version": "v0.0.0-20250708145759-0c2386a6efbc"
+    "updated_at": "2025-08-11",
+    "version": "v0.0.0-20250729091947-814e2f250976"
   },
   {
     "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
@@ -54723,8 +54736,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-08-02",
-    "version": "v1.0.9"
+    "updated_at": "2025-08-11",
+    "version": "v1.0.10"
   },
   {
     "description": "Nats client",
@@ -54736,8 +54749,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-08-02",
-    "version": "v1.0.9"
+    "updated_at": "2025-08-11",
+    "version": "v1.0.10"
   },
   {
     "description": "[mirror] Go Tools",
@@ -55083,8 +55096,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-30",
-    "version": "v0.0.0-20250626134805-5600c718109c"
+    "updated_at": "2025-08-11",
+    "version": "v0.0.0-20250717102702-7a7c371f1b67"
   },
   {
     "description": "练习刷的算法题",
@@ -56565,8 +56578,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-08-10",
-    "version": "v0.4.8"
+    "updated_at": "2025-08-11",
+    "version": "v0.4.9"
   },
   {
     "description": "An open-source graph database",
@@ -56964,8 +56977,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-29",
-    "version": "v0.1.0"
+    "updated_at": "2025-08-11",
+    "version": "v0.1.5"
   },
   {
     "description": "Data Import Service for kubernetes, designed with kubevirt in mind.",
@@ -57180,8 +57193,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-08-03",
-    "version": "v1.1.30"
+    "updated_at": "2025-08-11",
+    "version": "v1.1.31"
   },
   {
     "description": "A utility to detect various technology for a given IP address",
@@ -57193,8 +57206,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-08-03",
-    "version": "v1.1.30"
+    "updated_at": "2025-08-11",
+    "version": "v1.1.31"
   },
   {
     "description": "一个使用 Edns-Client-Subnet(ECS) 遍历智能CDN节点IP地址的工具",
@@ -125860,7 +125873,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-26",
+    "updated_at": "2025-08-11",
     "version": "v0.24.2"
   },
   {
@@ -137610,8 +137623,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-08-03",
-    "version": "v1.1.30"
+    "updated_at": "2025-08-11",
+    "version": "v1.1.31"
   },
   {
     "description": "dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.",
@@ -144892,8 +144905,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-08-03",
-    "version": "v1.1.30"
+    "updated_at": "2025-08-11",
+    "version": "v1.1.31"
   },
   {
     "description": "Manage your dotfiles across multiple diverse machines, securely.",
@@ -191129,8 +191142,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-08-03",
-    "version": "v1.1.30"
+    "updated_at": "2025-08-11",
+    "version": "v1.1.31"
   },
   {
     "description": "Go client to communicate with Chaos DB API.",
@@ -200933,7 +200946,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-26",
+    "updated_at": "2025-08-11",
     "version": "v0.24.2"
   },
   {
@@ -219527,6 +219540,19 @@
     "version": "HEAD-c002f2e-250620T092732"
   },
   {
+    "description": "将大量linux配置同一个2fa",
+    "name": "manager",
+    "pkg_id": "manager#github.com_jdjn123_fast2fa",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-11",
+    "version": "v0.0.0-20250810043316-4194d8ed5f46"
+  },
+  {
     "description": "A set of Kubernetes controllers to manage your OpenStack infrastructure",
     "name": "manager",
     "pkg_id": "manager#github.com_k_orc_openstack_resource_controller",
@@ -236450,8 +236476,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-08-02",
-    "version": "v1.0.9"
+    "updated_at": "2025-08-11",
+    "version": "v1.0.10"
   },
   {
     "description": "Nats client",
@@ -236463,8 +236489,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-08-02",
-    "version": "v1.0.9"
+    "updated_at": "2025-08-11",
+    "version": "v1.0.10"
   },
   {
     "description": "🦅 A Go framework for the API or Microservice",
@@ -247156,8 +247182,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-08-10",
-    "version": "v0.4.8"
+    "updated_at": "2025-08-11",
+    "version": "v0.4.9"
   },
   {
     "description": "Openrouter CLI",
@@ -255709,6 +255735,19 @@
     ],
     "updated_at": "2025-08-03",
     "version": "v0.0.0-20250710154159-795ea635c8fb"
+  },
+  {
+    "description": "Personal site written with htmx and Go templates",
+    "name": "personal-site",
+    "pkg_id": "personal-site#github.com_cpustejovsky_personal_site",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-11",
+    "version": "v0.0.0-20250801002055-a8cb75e678f7"
   },
   {
     "description": "My personal website",
@@ -301855,7 +301894,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-26",
+    "updated_at": "2025-08-11",
     "version": "v0.24.2"
   },
   {
@@ -327319,6 +327358,19 @@
     "version": "v0.0.0-20250715010052-ed587ce88edf"
   },
   {
+    "description": "将大量linux配置同一个2fa",
+    "name": "target",
+    "pkg_id": "target#github.com_jdjn123_fast2fa",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-11",
+    "version": "v0.0.0-20250810043316-4194d8ed5f46"
+  },
+  {
     "description": "JSONL Singer target for local storage, S3, GCS and Azure Blob Storage",
     "name": "target-jsonl-blob",
     "pkg_id": "target-jsonl-blob#github.com_MeltanoLabs_target_jsonl_blob",
@@ -340038,7 +340090,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-26",
+    "updated_at": "2025-08-11",
     "version": "v0.24.2"
   },
   {
