@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "dylibdeps",
+  "pkg_family": "llgo",
+  "pkg_id": "dylibdeps#github.com_luoliwoshang_llgo",
+  "pkg_name": "dylibdeps",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/luoliwoshang/llgo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Go compiler based on LLVM in order to better integrate Go with the C ecosystem including Python",
+  "homepage": [
+    "https://github.com/luoliwoshang/llgo"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ardump",
+    "clangpp",
+    "dylibdeps",
+    "nmdump",
+    "nmindex"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/luoliwoshang/llgo/@v/v0.12.5.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.12.5",
+  "version_upstream": "",
+  "bsum": "1cf7c33035b0a8e08d6228129c489d49c1f54a533571517a82bbff744b9952c4",
+  "build_date": "2025-08-11T09:54:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16876392372",
+  "build_id": "16876392372",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/luoliwoshang/llgo/dylibdeps?tag=v0.12.5-loongarch64-Linux&download=dylibdeps.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/luoliwoshang/llgo/dylibdeps?tag=v0.12.5-loongarch64-Linux&download=dylibdeps",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/luoliwoshang/llgo/dylibdeps:v0.12.5-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/luoliwoshang/llgo/dylibdeps",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/luoliwoshang/llgo/dylibdeps?tag=v0.12.5-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cdd57f1a0f32f44add1e7defe30b4805399d5a90879fcf577a6527e35f372688",
+  "size": "1.8 MB",
+  "size_raw": "1790488",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.12.3-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
