@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "keygen",
+  "pkg_family": "chat",
+  "pkg_id": "keygen#github.com_tinode_chat",
+  "pkg_name": "keygen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tinode/chat",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",
+  "homepage": [
+    "https://github.com/tinode/chat"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "exporter",
+    "keygen",
+    "server",
+    "tinode-db"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cahtim/chat/@v/v0.0.0-20250731172235-444b2f643866.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.24.2",
+  "version_upstream": "",
+  "bsum": "8515a21faaa0868837f146da99a16ef011c00f28f14c49c19fea31d1a4d108b3",
+  "build_date": "2025-08-11T15:50:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16884804406",
+  "build_id": "16884804406",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinode/chat/keygen?tag=v0.24.2-riscv64-Linux&download=keygen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12650",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinode/chat/keygen?tag=v0.24.2-riscv64-Linux&download=keygen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tinode/chat/keygen:v0.24.2-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tinode/chat/keygen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinode/chat/keygen?tag=v0.24.2-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "38776c2c8f9878cca1d087dc36baa6d67abdaa57ba162a289a576a57660393dd",
+  "size": "1.9 MB",
+  "size_raw": "1961240",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.24.2-riscv64-Linux"
+  ],
+  "trusted": "true"
+}

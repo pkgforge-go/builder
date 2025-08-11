@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "tinode-db",
+  "pkg_family": "chat",
+  "pkg_id": "tinode-db#github.com_tinode_chat",
+  "pkg_name": "tinode-db",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tinode/chat",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",
+  "homepage": [
+    "https://github.com/tinode/chat"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "exporter",
+    "keygen",
+    "server",
+    "tinode-db"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cahtim/chat/@v/v0.0.0-20250731172235-444b2f643866.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.24.2",
+  "version_upstream": "",
+  "bsum": "afd57eb996ffcb0b59731766a073a6b2e4b2e77b72101f763e331de6cfce7e65",
+  "build_date": "2025-08-11T15:50:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16884804406",
+  "build_id": "16884804406",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinode/chat/tinode-db?tag=v0.24.2-riscv64-Linux&download=tinode-db.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12650",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinode/chat/tinode-db?tag=v0.24.2-riscv64-Linux&download=tinode-db",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tinode/chat/tinode-db:v0.24.2-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tinode/chat/tinode-db",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinode/chat/tinode-db?tag=v0.24.2-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bcdb7666988e76dc96574c6854de0aa23115bd70b93e9829fc4635982bc62082",
+  "size": "4.3 MB",
+  "size_raw": "4445912",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.24.2-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
