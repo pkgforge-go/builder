@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "check_sysdescr",
+  "pkg_family": "gochecks",
+  "pkg_id": "check_sysdescr#github.com_dmabry_gochecks",
+  "pkg_name": "check_sysdescr",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dmabry/gochecks",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Monitoring checks that use gomonitor",
+  "homepage": [
+    "https://github.com/dmabry/gochecks"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check_interface_usage",
+    "check_interfaces",
+    "check_sysdescr",
+    "device_inventory"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/dmabry/gochecks/@v/v0.0.0-20250721132452-f1d7fdc14f9c.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250721132452-f1d7fdc14f9c",
+  "version_upstream": "",
+  "bsum": "e839f71535eb67da617f36c2e31a078dbc200fa35730c5c6804bc427928233e7",
+  "build_date": "2025-08-11T04:35:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16870735335",
+  "build_id": "16870735335",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dmabry/gochecks/check_sysdescr?tag=v0.0.0-20250721132452-f1d7fdc14f9c-x86_64-Linux&download=check_sysdescr.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dmabry/gochecks/check_sysdescr?tag=v0.0.0-20250721132452-f1d7fdc14f9c-x86_64-Linux&download=check_sysdescr",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dmabry/gochecks/check_sysdescr:v0.0.0-20250721132452-f1d7fdc14f9c-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dmabry/gochecks/check_sysdescr",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dmabry/gochecks/check_sysdescr?tag=v0.0.0-20250721132452-f1d7fdc14f9c-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "db95586cb4e5f5500bb465ff5f52753bbd8973853366b3eab0b210be356e41b2",
+  "size": "3.4 MB",
+  "size_raw": "3523200",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
