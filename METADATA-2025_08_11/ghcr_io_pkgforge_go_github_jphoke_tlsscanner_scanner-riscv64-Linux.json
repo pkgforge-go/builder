@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "scanner",
+  "pkg_family": "tlsscanner",
+  "pkg_id": "scanner#github.com_jphoke_tlsscanner",
+  "pkg_name": "scanner",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jphoke/tlsscanner",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "TLS security scanning at the speed of Go: \"Because security needn't be slow",
+  "homepage": [
+    "https://github.com/jphoke/tlsscanner"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api",
+    "scanner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/jphoke/tlsscanner/@v/v1.2.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.2.1",
+  "version_upstream": "",
+  "bsum": "82a685c93072c94ed80cfb2c09184211d8b0797c2719b8a79e597a90604defab",
+  "build_date": "2025-08-11T06:58:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16872911437",
+  "build_id": "16872911437",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jphoke/tlsscanner/scanner?tag=v1.2.1-riscv64-Linux&download=scanner.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jphoke/tlsscanner/scanner?tag=v1.2.1-riscv64-Linux&download=scanner",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jphoke/tlsscanner/scanner:v1.2.1-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jphoke/tlsscanner/scanner",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jphoke/tlsscanner/scanner?tag=v1.2.1-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5c6494be9a968a7f7ba4b88614d7ca045605c6118fe20b917efda00b57d0c301",
+  "size": "6.8 MB",
+  "size_raw": "7090936",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.0.0-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
