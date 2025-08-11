@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "init",
+  "pkg_family": "init",
+  "pkg_id": "init#github.com_linuxkit_linuxkit_pkg_init",
+  "pkg_name": "init",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/linuxkit/linuxkit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A toolkit for building secure, portable and lean operating systems for containers",
+  "homepage": [
+    "https://github.com/linuxkit/linuxkit"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "init"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/aerokube/init/@v/v0.0.0-20250626152641-cc51075160d2.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250731163610-3d9bb9a12812",
+  "version_upstream": "",
+  "bsum": "c18b1938d844412d37681abc8b0f497796cc12b8fcc50b7d37ac892b892e6af5",
+  "build_date": "2025-08-11T02:12:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16869291636",
+  "build_id": "16869291636",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linuxkit/linuxkit/pkg/init/init?tag=v0.0.0-20250731163610-3d9bb9a12812-x86_64-Linux&download=init.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8486",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linuxkit/linuxkit/pkg/init/init?tag=v0.0.0-20250731163610-3d9bb9a12812-x86_64-Linux&download=init",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/linuxkit/linuxkit/pkg/init/init:v0.0.0-20250731163610-3d9bb9a12812-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/linuxkit/linuxkit/pkg/init/init",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/linuxkit/linuxkit/pkg/init/init?tag=v0.0.0-20250731163610-3d9bb9a12812-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dfc6cfe72c3b3824e1e0c65cfec685a8c6c1621bc9ae53ef1a7bc5660ffcdf26",
+  "size": "2.0 MB",
+  "size_raw": "2006520",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250630175850-940c1b7b3b05-x86_64-Linux",
+    "v0.0.0-20250721201459-eae788724abc-x86_64-Linux",
+    "v0.0.0-20250731163610-3d9bb9a12812-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
