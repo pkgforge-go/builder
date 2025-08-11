@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "execas",
+  "pkg_family": "guardian",
+  "pkg_id": "execas#github.com_cloudfoundry_incubator_guardian",
+  "pkg_name": "execas",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudfoundry-incubator/guardian",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Containers4life",
+  "homepage": [
+    "https://github.com/cloudfoundry-incubator/guardian"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "execas",
+    "fake_runc",
+    "fake_runc_stderr",
+    "socket2me",
+    "winit"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cloudfoundry/guardian/@v/v0.0.0-20250730021248-862109afbc38.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250806021341-ef3063efe1fe",
+  "version_upstream": "",
+  "bsum": "62a0c57fedd089a2f354880621e0d5ac7b8c296e8a72cd0bac565d264f2a59a1",
+  "build_date": "2025-08-11T02:12:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16869291384",
+  "build_id": "16869291384",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry-incubator/guardian/execas?tag=v0.0.0-20250806021341-ef3063efe1fe-x86_64-Linux&download=execas.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "78",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry-incubator/guardian/execas?tag=v0.0.0-20250806021341-ef3063efe1fe-x86_64-Linux&download=execas",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry-incubator/guardian/execas:v0.0.0-20250806021341-ef3063efe1fe-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry-incubator/guardian/execas",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry-incubator/guardian/execas?tag=v0.0.0-20250806021341-ef3063efe1fe-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fdfbd0eb9ced4b90d55e5443ae2dd6b979db0c46679e038c3e1ede806f5d335c",
+  "size": "1.7 MB",
+  "size_raw": "1754744",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250709021230-eeffd4e4d771-x86_64-Linux",
+    "v0.0.0-20250716021337-04f53489023a-x86_64-Linux",
+    "v0.0.0-20250723021209-000898a45c27-x86_64-Linux",
+    "v0.0.0-20250730021248-862109afbc38-x86_64-Linux",
+    "v0.0.0-20250806021341-ef3063efe1fe-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
