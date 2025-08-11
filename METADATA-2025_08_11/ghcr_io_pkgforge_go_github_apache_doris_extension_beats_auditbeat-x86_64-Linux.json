@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "auditbeat",
+  "pkg_family": "beats",
+  "pkg_id": "auditbeat#github.com_apache_doris_extension_beats",
+  "pkg_name": "auditbeat",
+  "pkg_type": "static",
+  "pkg_webpage": "https://doris.apache.org",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Apache Doris is an easy-to-use, high performance and unified analytics database",
+  "homepage": [
+    "https://doris.apache.org"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auditbeat",
+    "filebeat",
+    "heartbeat",
+    "metricbeat",
+    "winlogbeat"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/apache/doris/extension/beats/@v/v0.0.0-20250810144640-76c92c9155b7.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250810144640-76c92c9155b7",
+  "version_upstream": "",
+  "bsum": "9ed7eddffee5157eda96a81bac8baf055f5c469bcb09dcc3e0fe53da710d730b",
+  "build_date": "2025-08-11T09:48:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16876389982",
+  "build_id": "16876389982",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/doris/extension/beats/auditbeat?tag=v0.0.0-20250810144640-76c92c9155b7-x86_64-Linux&download=auditbeat.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14069",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/doris/extension/beats/auditbeat?tag=v0.0.0-20250810144640-76c92c9155b7-x86_64-Linux&download=auditbeat",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/apache/doris/extension/beats/auditbeat:v0.0.0-20250810144640-76c92c9155b7-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/apache/doris/extension/beats/auditbeat",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/doris/extension/beats/auditbeat?tag=v0.0.0-20250810144640-76c92c9155b7-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7baf0e9db679928ff3017d78ff884fd53917a6c878639b0d6503bf41fd649fc6",
+  "size": "72 MB",
+  "size_raw": "74906152",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250630113607-a1653f8d67ce-x86_64-Linux",
+    "v0.0.0-20250703133715-ce3bbf97e7a8-x86_64-Linux",
+    "v0.0.0-20250704141805-641fe19d193f-x86_64-Linux",
+    "v0.0.0-20250710231157-1ab8911dcdda-x86_64-Linux",
+    "v0.0.0-20250715131434-3555fd4fc420-x86_64-Linux",
+    "v0.0.0-20250716201156-ac6a3b551751-x86_64-Linux",
+    "v0.0.0-20250721173844-2bfe3575e491-x86_64-Linux",
+    "v0.0.0-20250723143511-3b5e97addc2e-x86_64-Linux",
+    "v0.0.0-20250725143428-726c8d13831e-x86_64-Linux",
+    "v0.0.0-20250728125003-edf2d23e8b6a-x86_64-Linux",
+    "v0.0.0-20250730135601-49189b57a70f-x86_64-Linux",
+    "v0.0.0-20250731165632-52547727d25c-x86_64-Linux",
+    "v0.0.0-20250801094537-8926bb145d87-x86_64-Linux",
+    "v0.0.0-20250802165005-ffbacbcdc64b-x86_64-Linux",
+    "v0.0.0-20250803220305-1b7f43d9fca6-x86_64-Linux",
+    "v0.0.0-20250804124234-7113a47930b1-x86_64-Linux",
+    "v0.0.0-20250806114300-97bb87d3e1eb-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
