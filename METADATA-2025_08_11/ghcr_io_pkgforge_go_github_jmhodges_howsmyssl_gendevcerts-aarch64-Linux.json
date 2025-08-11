@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "gendevcerts",
+  "pkg_family": "howsmyssl",
+  "pkg_id": "gendevcerts#github.com_jmhodges_howsmyssl",
+  "pkg_name": "gendevcerts",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jmhodges/howsmyssl",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The web app running howsmyssl.com",
+  "homepage": [
+    "https://github.com/jmhodges/howsmyssl"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gendevcerts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/jmhodges/howsmyssl/@v/v0.0.0-20250715042118-434a459da25f.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250715042118-434a459da25f",
+  "version_upstream": "",
+  "bsum": "e6a78b0f434e7a08b60b82679b7abf19ed137103568f51f13357de4550fddd19",
+  "build_date": "2025-08-11T02:30:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16869297134",
+  "build_id": "16869297134",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jmhodges/howsmyssl/gendevcerts?tag=v0.0.0-20250715042118-434a459da25f-aarch64-Linux&download=gendevcerts.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "346",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jmhodges/howsmyssl/gendevcerts?tag=v0.0.0-20250715042118-434a459da25f-aarch64-Linux&download=gendevcerts",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jmhodges/howsmyssl/gendevcerts:v0.0.0-20250715042118-434a459da25f-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jmhodges/howsmyssl/gendevcerts",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jmhodges/howsmyssl/gendevcerts?tag=v0.0.0-20250715042118-434a459da25f-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e89172c56e060cc48f9af33e98f5740e5541620e71ed0bc052b07b056b951da8",
+  "size": "3.0 MB",
+  "size_raw": "3136960",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-3a9ab27-250623T162640-aarch64-Linux",
+    "v0.0.0-20250630185934-c53850741d70-aarch64-Linux",
+    "v0.0.0-20250707171142-ee88090388ac-aarch64-Linux",
+    "v0.0.0-20250715042118-434a459da25f-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
