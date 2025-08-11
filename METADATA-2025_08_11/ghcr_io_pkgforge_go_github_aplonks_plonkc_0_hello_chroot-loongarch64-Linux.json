@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "0-hello-chroot",
+  "pkg_family": "plonkc",
+  "pkg_id": "0-hello-chroot#github.com_aplonks_plonkc",
+  "pkg_name": "0-hello-chroot",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aplonks/plonkc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Container Runtime Plonkcing",
+  "homepage": [
+    "https://github.com/aplonks/plonkc"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "0-hello-chroot",
+    "plonkc-cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/aplonks/plonkc/@v/v0.0.0-20250807213319-0397c3fee918.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250807213319-0397c3fee918",
+  "version_upstream": "",
+  "bsum": "cc6c570dab88db9c5960ec95fbba1bbf454d7c73622079aa4290f49373bbb751",
+  "build_date": "2025-08-11T04:24:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16870731964",
+  "build_id": "16870731964",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aplonks/plonkc/0-hello-chroot?tag=v0.0.0-20250807213319-0397c3fee918-loongarch64-Linux&download=0-hello-chroot.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aplonks/plonkc/0-hello-chroot?tag=v0.0.0-20250807213319-0397c3fee918-loongarch64-Linux&download=0-hello-chroot",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aplonks/plonkc/0-hello-chroot:v0.0.0-20250807213319-0397c3fee918-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aplonks/plonkc/0-hello-chroot",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aplonks/plonkc/0-hello-chroot?tag=v0.0.0-20250807213319-0397c3fee918-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f816d61f477d1906fd00815417a71bd519dce67919a17c739c1d82a67242992c",
+  "size": "1.9 MB",
+  "size_raw": "1969336",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
