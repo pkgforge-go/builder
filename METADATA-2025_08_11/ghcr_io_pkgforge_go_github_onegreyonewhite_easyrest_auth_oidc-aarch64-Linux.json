@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "auth-oidc",
+  "pkg_family": "easyrest",
+  "pkg_id": "auth-oidc#github.com_onegreyonewhite_easyrest",
+  "pkg_name": "auth-oidc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/onegreyonewhite/easyrest/wiki",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "EasyREST is a lightweight, extensible REST service that provides a unified API for performing CRUD and aggregating queries on relational databases",
+  "homepage": [
+    "https://github.com/onegreyonewhite/easyrest/wiki"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth-awssigv4",
+    "auth-jwt",
+    "auth-oidc",
+    "gateway",
+    "plugin-memcached",
+    "plugin-mysql",
+    "plugin-postgres",
+    "plugin-redis",
+    "plugin-sqlite",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/onegreyonewhite/easyrest/@v/v0.13.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.13.3",
+  "version_upstream": "",
+  "bsum": "63c56bb78afd15a3f116742110a0951eb221c18cee27ec3d576e542326ea1b21",
+  "build_date": "2025-08-11T10:12:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16876430456",
+  "build_id": "16876430456",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onegreyonewhite/easyrest/auth-oidc?tag=v0.13.3-aarch64-Linux&download=auth-oidc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onegreyonewhite/easyrest/auth-oidc?tag=v0.13.3-aarch64-Linux&download=auth-oidc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/onegreyonewhite/easyrest/auth-oidc:v0.13.3-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/onegreyonewhite/easyrest/auth-oidc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onegreyonewhite/easyrest/auth-oidc?tag=v0.13.3-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "618b9a726d17865974e95a560b496f66c37515c5463abfd8225a1e679fc5951e",
+  "size": "15 MB",
+  "size_raw": "14926176",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.13.0-aarch64-Linux",
+    "v0.13.1-aarch64-Linux",
+    "v0.13.2-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
