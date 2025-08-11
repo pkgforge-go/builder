@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "nmindex",
+  "pkg_family": "llgo",
+  "pkg_id": "nmindex#github.com_luoliwoshang_llgo",
+  "pkg_name": "nmindex",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/luoliwoshang/llgo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Go compiler based on LLVM in order to better integrate Go with the C ecosystem including Python",
+  "homepage": [
+    "https://github.com/luoliwoshang/llgo"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ardump",
+    "clangpp",
+    "dylibdeps",
+    "nmdump",
+    "nmindex"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/luoliwoshang/llgo/@v/v0.12.5.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.12.5",
+  "version_upstream": "",
+  "bsum": "70e440786563568615e9494a8b2a8ebaa4f00f59408c72aafc55a3ef141e2b4e",
+  "build_date": "2025-08-11T09:54:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16876392372",
+  "build_id": "16876392372",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/luoliwoshang/llgo/nmindex?tag=v0.12.5-x86_64-Linux&download=nmindex.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/luoliwoshang/llgo/nmindex?tag=v0.12.5-x86_64-Linux&download=nmindex",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/luoliwoshang/llgo/nmindex:v0.12.5-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/luoliwoshang/llgo/nmindex",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/luoliwoshang/llgo/nmindex?tag=v0.12.5-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7c406d18e558bf2610c711934abd8ba758bd421260c0b7dffc935df706f22c82",
+  "size": "2.2 MB",
+  "size_raw": "2288288",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.12.3-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
