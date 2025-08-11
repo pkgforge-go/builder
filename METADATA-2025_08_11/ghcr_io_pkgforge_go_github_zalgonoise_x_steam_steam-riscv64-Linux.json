@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "steam",
+  "pkg_family": "steam",
+  "pkg_id": "steam#github.com_zalgonoise_x_steam",
+  "pkg_name": "steam",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/zalgonoise/x",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Experimental Go libraries (take it with a grain of salt",
+  "homepage": [
+    "https://github.com/zalgonoise/x"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appslist-rebuild-db",
+    "appslist-renew",
+    "steam"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/zalgonoise/x/steam/@v/v0.0.0-20250809212518-5cc5c98ce068.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250809212518-5cc5c98ce068",
+  "version_upstream": "",
+  "bsum": "a5f6900426842de50dd70327253638b199d733bbd51828cfea2e926ad1670479",
+  "build_date": "2025-08-11T10:19:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16876453650",
+  "build_id": "16876453650",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zalgonoise/x/steam/steam?tag=v0.0.0-20250809212518-5cc5c98ce068-riscv64-Linux&download=steam.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zalgonoise/x/steam/steam?tag=v0.0.0-20250809212518-5cc5c98ce068-riscv64-Linux&download=steam",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/zalgonoise/x/steam/steam:v0.0.0-20250809212518-5cc5c98ce068-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/zalgonoise/x/steam/steam",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zalgonoise/x/steam/steam?tag=v0.0.0-20250809212518-5cc5c98ce068-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0719dd21030115e42b89c21fd25c56dce54d7ad54e0b88d8962aaaa44e2a8a23",
+  "size": "25 MB",
+  "size_raw": "26077848",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250630173507-dd638b9a49c9-riscv64-Linux",
+    "v0.0.0-20250703233738-06220ea82772-riscv64-Linux",
+    "v0.0.0-20250704153221-e7b7581706db-riscv64-Linux",
+    "v0.0.0-20250709163550-c82f131b1ccb-riscv64-Linux",
+    "v0.0.0-20250715160824-fafe9ee173a2-riscv64-Linux",
+    "v0.0.0-20250716215348-a9d72bb2cf40-riscv64-Linux",
+    "v0.0.0-20250720210351-09ea759d409b-riscv64-Linux",
+    "v0.0.0-20250724191052-e81cb7f5233a-riscv64-Linux",
+    "v0.0.0-20250730144942-0a3f29238ff3-riscv64-Linux",
+    "v0.0.0-20250803133832-511d5492772a-riscv64-Linux",
+    "v0.0.0-20250804191909-2cfce99d297d-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
