@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ebnflint",
+  "pkg_family": "exp",
+  "pkg_id": "ebnflint#github.com_golang_exp",
+  "pkg_name": "ebnflint",
+  "pkg_type": "static",
+  "pkg_webpage": "https://golang.org/x/exp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Mirror] Experimental and deprecated packages",
+  "homepage": [
+    "https://golang.org/x/exp"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apidiff",
+    "displayip",
+    "ebnflint",
+    "gorelease",
+    "modgraphviz",
+    "txtar"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/golang/exp/@v/v0.0.0-20250808145144-a408d31f581a.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250808145144-a408d31f581a",
+  "version_upstream": "",
+  "bsum": "bfaa3933c145e190dcf001d16093898292146a8b5f0f85a930216fca6d988094",
+  "build_date": "2025-08-11T09:43:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16876390475",
+  "build_id": "16876390475",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/exp/ebnflint?tag=v0.0.0-20250808145144-a408d31f581a-riscv64-Linux&download=ebnflint.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "860",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/exp/ebnflint?tag=v0.0.0-20250808145144-a408d31f581a-riscv64-Linux&download=ebnflint",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/golang/exp/ebnflint:v0.0.0-20250808145144-a408d31f581a-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/golang/exp/ebnflint",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/exp/ebnflint?tag=v0.0.0-20250808145144-a408d31f581a-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "46f6797d3c64dcb3a87d71adbb5ce1cee1a69013b9e6c33c4f40a6019e4bc296",
+  "size": "1.7 MB",
+  "size_raw": "1746504",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-dcc06ee-250605T203433-riscv64-Linux",
+    "HEAD-b7579e2-250619T192241-riscv64-Linux",
+    "v0.0.0-20250711185948-6ae5c78190dc-riscv64-Linux",
+    "v0.0.0-20250717185816-542afb5b7346-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
