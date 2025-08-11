@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "tensorflow-serving",
+  "pkg_family": "environments",
+  "pkg_id": "tensorflow-serving#github.com_fission_environments",
+  "pkg_name": "tensorflow-serving",
+  "pkg_type": "static",
+  "pkg_webpage": "https://fission.io/environments/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A set of language environments for Fission",
+  "homepage": [
+    "https://fission.io/environments/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "binary",
+    "examples",
+    "go",
+    "tensorflow-serving"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/fission/environments/@v/v0.0.0-20250808151811-863298b5b7a9.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250808151811-863298b5b7a9",
+  "version_upstream": "",
+  "bsum": "a738b029c12f25c5f49d6fb115c0d702072d3094f79a4f3ccf7eb9dc629498fa",
+  "build_date": "2025-08-11T13:05:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16880816913",
+  "build_id": "16880816913",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fission/environments/tensorflow-serving?tag=v0.0.0-20250808151811-863298b5b7a9-x86_64-Linux&download=tensorflow-serving.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "27",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fission/environments/tensorflow-serving?tag=v0.0.0-20250808151811-863298b5b7a9-x86_64-Linux&download=tensorflow-serving",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fission/environments/tensorflow-serving:v0.0.0-20250808151811-863298b5b7a9-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fission/environments/tensorflow-serving",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fission/environments/tensorflow-serving?tag=v0.0.0-20250808151811-863298b5b7a9-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "50e40ca50c0d85a352ac5253b9def0b7cbb7341b29f25be2d5232363a539f2f5",
+  "size": "7.4 MB",
+  "size_raw": "7693184",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250218081344-c679ff68371e-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
