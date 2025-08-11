@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "canonical_oc_generation_example",
+  "pkg_family": "featureprofiles",
+  "pkg_id": "canonical_oc_generation_example#github.com_openconfig_featureprofiles",
+  "pkg_name": "canonical_oc_generation_example",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openconfig/featureprofiles",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Feature Profiles are groups of OpenConfig paths and tests which verify their behavior",
+  "homepage": [
+    "https://github.com/openconfig/featureprofiles"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "addrundata",
+    "canonical_oc_generation_example",
+    "ci-trigger",
+    "cntrsrv",
+    "example",
+    "fpcli",
+    "gen",
+    "lint2annotation",
+    "sort_testregistry",
+    "validate",
+    "validate_readme_canonicalocspec",
+    "validate_readme_spec",
+    "wikidoc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/openconfig/featureprofiles/@v/v0.0.0-20250809032820-2013190baf4c.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250809032820-2013190baf4c",
+  "version_upstream": "",
+  "bsum": "31d0f18af75af52703f10f8828df26ff38c911219fe47283ae50dfc76587cbdd",
+  "build_date": "2025-08-11T07:11:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16872912988",
+  "build_id": "16872912988",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/canonical_oc_generation_example?tag=v0.0.0-20250809032820-2013190baf4c-aarch64-Linux&download=canonical_oc_generation_example.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "55",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/canonical_oc_generation_example?tag=v0.0.0-20250809032820-2013190baf4c-aarch64-Linux&download=canonical_oc_generation_example",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openconfig/featureprofiles/canonical_oc_generation_example:v0.0.0-20250809032820-2013190baf4c-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openconfig/featureprofiles/canonical_oc_generation_example",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openconfig/featureprofiles/canonical_oc_generation_example?tag=v0.0.0-20250809032820-2013190baf4c-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "47fd49868bedbc876c4adf3c8c87eb76a42505cc43a502985d8d234a07a249e5",
+  "size": "26 MB",
+  "size_raw": "26670112",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250714200324-6f745a6084ad-aarch64-Linux",
+    "v0.0.0-20250717151700-98672523c8c4-aarch64-Linux",
+    "v0.0.0-20250730181224-940ded3fe89c-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
