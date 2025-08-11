@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "chat",
+  "pkg_id": "server#github.com_tinode_chat",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tinode/chat",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",
+  "homepage": [
+    "https://github.com/tinode/chat"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "exporter",
+    "keygen",
+    "server",
+    "tinode-db"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cahtim/chat/@v/v0.0.0-20250731172235-444b2f643866.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.24.2",
+  "version_upstream": "",
+  "bsum": "cdd9ee741e835e23669ebf3f3f78f2893c7873722c85fd9070dc4f76017363c6",
+  "build_date": "2025-08-11T15:49:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16884804406",
+  "build_id": "16884804406",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinode/chat/server?tag=v0.24.2-x86_64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12650",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinode/chat/server?tag=v0.24.2-x86_64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tinode/chat/server:v0.24.2-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tinode/chat/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinode/chat/server?tag=v0.24.2-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7a2a8a8582f435bd2de87d4569a1b4543d3e70503327291337b8116537a260d0",
+  "size": "46 MB",
+  "size_raw": "48217272",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.24.2-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
