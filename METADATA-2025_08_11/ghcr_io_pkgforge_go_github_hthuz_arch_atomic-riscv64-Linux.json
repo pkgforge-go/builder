@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "atomic",
+  "pkg_family": "arch",
+  "pkg_id": "atomic#github.com_hthuz_arch",
+  "pkg_name": "atomic",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hthuz/arch",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Quick notes of all kinds",
+  "homepage": [
+    "https://github.com/hthuz/arch"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "atomic",
+    "client",
+    "context",
+    "contextcancel",
+    "func",
+    "goroutine",
+    "interface",
+    "reflect_demo",
+    "server",
+    "tree",
+    "win_syscall"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/hthuz/arch/@v/v0.0.0-20250727152813-35e826b59138.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250727152813-35e826b59138",
+  "version_upstream": "",
+  "bsum": "4441d8922d56ddca525740fc1ae36dfa28d348f60dc30cde1a96e8b2e9277c74",
+  "build_date": "2025-08-11T09:58:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16876392701",
+  "build_id": "16876392701",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hthuz/arch/atomic?tag=v0.0.0-20250727152813-35e826b59138-riscv64-Linux&download=atomic.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hthuz/arch/atomic?tag=v0.0.0-20250727152813-35e826b59138-riscv64-Linux&download=atomic",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hthuz/arch/atomic:v0.0.0-20250727152813-35e826b59138-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hthuz/arch/atomic",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hthuz/arch/atomic?tag=v0.0.0-20250727152813-35e826b59138-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bb01e42de3d7147a8054010207e8642e82c943c17ab965afcd27ea4bdfdff5c4",
+  "size": "1.6 MB",
+  "size_raw": "1580296",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250415073323-5781b7864047-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
