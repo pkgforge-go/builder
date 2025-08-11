@@ -1,0 +1,95 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "echo",
+  "pkg_family": "yoke",
+  "pkg_id": "echo#github.com_yokecd_yoke",
+  "pkg_name": "echo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/yokecd/yoke",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes Package Management as Code; infrastructure as code, but actually",
+  "homepage": [
+    "https://github.com/yokecd/yoke"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "atc",
+    "atc-installer",
+    "base",
+    "basic",
+    "changelog",
+    "converter",
+    "crossnamespace",
+    "deploymentstatus",
+    "dev",
+    "echo",
+    "embeddedfs",
+    "flight",
+    "flights",
+    "helm2go",
+    "longrunning",
+    "lookup",
+    "modeflight",
+    "prune",
+    "redis",
+    "releaser",
+    "resourceaccessmatchers",
+    "status",
+    "unsafelookup",
+    "versioncheck",
+    "wasmcache",
+    "yoke",
+    "yokecd",
+    "yokecd-installer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/yokecd/yoke/@v/v0.16.5.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.16.5",
+  "version_upstream": "",
+  "bsum": "4a998c7b567470b7a052c83c69b26b3f222e6f085cb128ceb206168bd8260d6a",
+  "build_date": "2025-08-11T10:33:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16876451559",
+  "build_id": "16876451559",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yokecd/yoke/echo?tag=v0.16.5-loongarch64-Linux&download=echo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "590",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yokecd/yoke/echo?tag=v0.16.5-loongarch64-Linux&download=echo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/yokecd/yoke/echo:v0.16.5-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/yokecd/yoke/echo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yokecd/yoke/echo?tag=v0.16.5-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a42a27306211d4a13373486c81e8a1b2a9a19a2c715b955e5f6ac1219a9eb7a8",
+  "size": "1.9 MB",
+  "size_raw": "1969688",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.16.1-loongarch64-Linux",
+    "v0.16.2-loongarch64-Linux",
+    "v0.16.4-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}

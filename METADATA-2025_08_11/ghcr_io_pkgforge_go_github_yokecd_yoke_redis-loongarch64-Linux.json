@@ -1,0 +1,95 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "redis",
+  "pkg_family": "yoke",
+  "pkg_id": "redis#github.com_yokecd_yoke",
+  "pkg_name": "redis",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/yokecd/yoke",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes Package Management as Code; infrastructure as code, but actually",
+  "homepage": [
+    "https://github.com/yokecd/yoke"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "atc",
+    "atc-installer",
+    "base",
+    "basic",
+    "changelog",
+    "converter",
+    "crossnamespace",
+    "deploymentstatus",
+    "dev",
+    "echo",
+    "embeddedfs",
+    "flight",
+    "flights",
+    "helm2go",
+    "longrunning",
+    "lookup",
+    "modeflight",
+    "prune",
+    "redis",
+    "releaser",
+    "resourceaccessmatchers",
+    "status",
+    "unsafelookup",
+    "versioncheck",
+    "wasmcache",
+    "yoke",
+    "yokecd",
+    "yokecd-installer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/yokecd/yoke/@v/v0.16.5.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.16.5",
+  "version_upstream": "",
+  "bsum": "ac8a075f75122ca6b8ffe9957c160bd47d6193973f60cd1f3ba4870ae86f5826",
+  "build_date": "2025-08-11T10:32:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16876451559",
+  "build_id": "16876451559",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yokecd/yoke/redis?tag=v0.16.5-loongarch64-Linux&download=redis.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "590",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yokecd/yoke/redis?tag=v0.16.5-loongarch64-Linux&download=redis",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/yokecd/yoke/redis:v0.16.5-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/yokecd/yoke/redis",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yokecd/yoke/redis?tag=v0.16.5-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ebface074ddc9402e6919621d387a22960760b4ae42f331290efb24509bfa541",
+  "size": "38 MB",
+  "size_raw": "38883616",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.16.1-loongarch64-Linux",
+    "v0.16.2-loongarch64-Linux",
+    "v0.16.4-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
