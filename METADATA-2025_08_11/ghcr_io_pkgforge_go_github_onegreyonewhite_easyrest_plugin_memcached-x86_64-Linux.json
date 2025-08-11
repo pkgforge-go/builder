@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "plugin-memcached",
+  "pkg_family": "easyrest",
+  "pkg_id": "plugin-memcached#github.com_onegreyonewhite_easyrest",
+  "pkg_name": "plugin-memcached",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/onegreyonewhite/easyrest/wiki",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "EasyREST is a lightweight, extensible REST service that provides a unified API for performing CRUD and aggregating queries on relational databases",
+  "homepage": [
+    "https://github.com/onegreyonewhite/easyrest/wiki"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth-awssigv4",
+    "auth-jwt",
+    "auth-oidc",
+    "gateway",
+    "plugin-memcached",
+    "plugin-mysql",
+    "plugin-postgres",
+    "plugin-redis",
+    "plugin-sqlite",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/onegreyonewhite/easyrest/@v/v0.13.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.13.3",
+  "version_upstream": "",
+  "bsum": "4d5eada099d51d507c138fb252ee1f0fb1f9c0214a059a7322e73e7be581c463",
+  "build_date": "2025-08-11T10:12:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16876430456",
+  "build_id": "16876430456",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onegreyonewhite/easyrest/plugin-memcached?tag=v0.13.3-x86_64-Linux&download=plugin-memcached.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onegreyonewhite/easyrest/plugin-memcached?tag=v0.13.3-x86_64-Linux&download=plugin-memcached",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/onegreyonewhite/easyrest/plugin-memcached:v0.13.3-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/onegreyonewhite/easyrest/plugin-memcached",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onegreyonewhite/easyrest/plugin-memcached?tag=v0.13.3-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "660fab69bc479fc9c85367f3ae829dd050a577610a1b1fee32c0cb66a16f4aed",
+  "size": "14 MB",
+  "size_raw": "13982496",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.13.0-x86_64-Linux",
+    "v0.13.1-x86_64-Linux",
+    "v0.13.2-x86_64-Linux"
+  ],
+  "trusted": "true"
+}

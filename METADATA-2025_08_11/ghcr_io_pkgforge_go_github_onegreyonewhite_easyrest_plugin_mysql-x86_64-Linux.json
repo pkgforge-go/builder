@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "plugin-mysql",
+  "pkg_family": "easyrest",
+  "pkg_id": "plugin-mysql#github.com_onegreyonewhite_easyrest",
+  "pkg_name": "plugin-mysql",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/onegreyonewhite/easyrest/wiki",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "EasyREST is a lightweight, extensible REST service that provides a unified API for performing CRUD and aggregating queries on relational databases",
+  "homepage": [
+    "https://github.com/onegreyonewhite/easyrest/wiki"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth-awssigv4",
+    "auth-jwt",
+    "auth-oidc",
+    "gateway",
+    "plugin-memcached",
+    "plugin-mysql",
+    "plugin-postgres",
+    "plugin-redis",
+    "plugin-sqlite",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/onegreyonewhite/easyrest/@v/v0.13.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.13.3",
+  "version_upstream": "",
+  "bsum": "b29474ce4c9f4063eab7f38d3e656505e5c147e6832822f07e8cdbe7bf24d50b",
+  "build_date": "2025-08-11T10:11:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16876430456",
+  "build_id": "16876430456",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onegreyonewhite/easyrest/plugin-mysql?tag=v0.13.3-x86_64-Linux&download=plugin-mysql.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onegreyonewhite/easyrest/plugin-mysql?tag=v0.13.3-x86_64-Linux&download=plugin-mysql",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/onegreyonewhite/easyrest/plugin-mysql:v0.13.3-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/onegreyonewhite/easyrest/plugin-mysql",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onegreyonewhite/easyrest/plugin-mysql?tag=v0.13.3-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cfb14eefad28df17c6045ed9e1e21b132eb9d08a626d5e13bd1701202edb6e23",
+  "size": "15 MB",
+  "size_raw": "15660048",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.13.0-x86_64-Linux",
+    "v0.13.1-x86_64-Linux",
+    "v0.13.2-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
