@@ -1,0 +1,95 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "longrunning",
+  "pkg_family": "yoke",
+  "pkg_id": "longrunning#github.com_yokecd_yoke",
+  "pkg_name": "longrunning",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/yokecd/yoke",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes Package Management as Code; infrastructure as code, but actually",
+  "homepage": [
+    "https://github.com/yokecd/yoke"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "atc",
+    "atc-installer",
+    "base",
+    "basic",
+    "changelog",
+    "converter",
+    "crossnamespace",
+    "deploymentstatus",
+    "dev",
+    "echo",
+    "embeddedfs",
+    "flight",
+    "flights",
+    "helm2go",
+    "longrunning",
+    "lookup",
+    "modeflight",
+    "prune",
+    "redis",
+    "releaser",
+    "resourceaccessmatchers",
+    "status",
+    "unsafelookup",
+    "versioncheck",
+    "wasmcache",
+    "yoke",
+    "yokecd",
+    "yokecd-installer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/yokecd/yoke/@v/v0.16.5.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.16.5",
+  "version_upstream": "",
+  "bsum": "9698d40735443e7b5cc7dcc890860750a0e82c9c70067be14aa7cd252a2b789d",
+  "build_date": "2025-08-11T10:35:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16876451559",
+  "build_id": "16876451559",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yokecd/yoke/longrunning?tag=v0.16.5-riscv64-Linux&download=longrunning.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "590",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yokecd/yoke/longrunning?tag=v0.16.5-riscv64-Linux&download=longrunning",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/yokecd/yoke/longrunning:v0.16.5-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/yokecd/yoke/longrunning",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yokecd/yoke/longrunning?tag=v0.16.5-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cc730b25070db73dd531b2ce36916d8abd01cbf2643701ff75249df656e1e270",
+  "size": "9.3 MB",
+  "size_raw": "9653048",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.16.1-riscv64-Linux",
+    "v0.16.2-riscv64-Linux",
+    "v0.16.4-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
