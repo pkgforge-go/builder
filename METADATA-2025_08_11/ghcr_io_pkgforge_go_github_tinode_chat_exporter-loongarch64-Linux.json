@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "exporter",
+  "pkg_family": "chat",
+  "pkg_id": "exporter#github.com_tinode_chat",
+  "pkg_name": "exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tinode/chat",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",
+  "homepage": [
+    "https://github.com/tinode/chat"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "exporter",
+    "keygen",
+    "server",
+    "tinode-db"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cahtim/chat/@v/v0.0.0-20250731172235-444b2f643866.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.24.2",
+  "version_upstream": "",
+  "bsum": "221dd477ff172d92b6302df74fe8a4d423a562f62480177777325886f0dfaf5c",
+  "build_date": "2025-08-11T15:50:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16884804406",
+  "build_id": "16884804406",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinode/chat/exporter?tag=v0.24.2-loongarch64-Linux&download=exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12650",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinode/chat/exporter?tag=v0.24.2-loongarch64-Linux&download=exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tinode/chat/exporter:v0.24.2-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tinode/chat/exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinode/chat/exporter?tag=v0.24.2-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2d3a66ecc6bdd580a47e949652fa9704119690a4c1e86b75ec4b6ccbea96b1bc",
+  "size": "9.2 MB",
+  "size_raw": "9609152",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.24.2-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
