@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "auth-jwt",
+  "pkg_family": "easyrest",
+  "pkg_id": "auth-jwt#github.com_onegreyonewhite_easyrest",
+  "pkg_name": "auth-jwt",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/onegreyonewhite/easyrest/wiki",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "EasyREST is a lightweight, extensible REST service that provides a unified API for performing CRUD and aggregating queries on relational databases",
+  "homepage": [
+    "https://github.com/onegreyonewhite/easyrest/wiki"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth-awssigv4",
+    "auth-jwt",
+    "auth-oidc",
+    "gateway",
+    "plugin-memcached",
+    "plugin-mysql",
+    "plugin-postgres",
+    "plugin-redis",
+    "plugin-sqlite",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/onegreyonewhite/easyrest/@v/v0.13.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.13.3",
+  "version_upstream": "",
+  "bsum": "fdff4d18a90b78eb971703a8229a535ea549c2acb39fb824aa3a4f89f5fa8a9a",
+  "build_date": "2025-08-11T10:13:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16876430456",
+  "build_id": "16876430456",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onegreyonewhite/easyrest/auth-jwt?tag=v0.13.3-riscv64-Linux&download=auth-jwt.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onegreyonewhite/easyrest/auth-jwt?tag=v0.13.3-riscv64-Linux&download=auth-jwt",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/onegreyonewhite/easyrest/auth-jwt:v0.13.3-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/onegreyonewhite/easyrest/auth-jwt",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onegreyonewhite/easyrest/auth-jwt?tag=v0.13.3-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "986ad44da9a0731ab0d50459ab3c69b51245a94e214f5bcf4799cf093be20a36",
+  "size": "14 MB",
+  "size_raw": "14533176",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.13.0-riscv64-Linux",
+    "v0.13.1-riscv64-Linux",
+    "v0.13.2-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
