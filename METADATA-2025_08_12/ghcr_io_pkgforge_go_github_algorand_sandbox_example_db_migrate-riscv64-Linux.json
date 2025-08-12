@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "example-db-migrate",
+  "pkg_family": "sandbox",
+  "pkg_id": "example-db-migrate#github.com_algorand_sandbox",
+  "pkg_name": "example-db-migrate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/algorand/sandbox",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Algorand node sandbox",
+  "homepage": [
+    "https://github.com/algorand/sandbox"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "coverage-report",
+    "example-db-generate",
+    "example-db-migrate",
+    "example-health",
+    "example-rpc",
+    "example-tui",
+    "filter-coverage"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/mattdowdell/sandbox/@v/v0.1.79.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250627155630-06f7c816db22",
+  "version_upstream": "",
+  "bsum": "83cc7038855181ff3ce4f5cd99bb9af7fd07960e53e5fab2685e99d0801d972b",
+  "build_date": "2025-08-12T04:37:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16898594949",
+  "build_id": "16898594949",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algorand/sandbox/example-db-migrate?tag=v0.0.0-20250627155630-06f7c816db22-riscv64-Linux&download=example-db-migrate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "240",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algorand/sandbox/example-db-migrate?tag=v0.0.0-20250627155630-06f7c816db22-riscv64-Linux&download=example-db-migrate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/algorand/sandbox/example-db-migrate:v0.0.0-20250627155630-06f7c816db22-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/algorand/sandbox/example-db-migrate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algorand/sandbox/example-db-migrate?tag=v0.0.0-20250627155630-06f7c816db22-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8415df8c1e0e7db26582e10725b1948fa6b36faedceed8e347423b8fb7bc94b6",
+  "size": "25 MB",
+  "size_raw": "26191512",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
