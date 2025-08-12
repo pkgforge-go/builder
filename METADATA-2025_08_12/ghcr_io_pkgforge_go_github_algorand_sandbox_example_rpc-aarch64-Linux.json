@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "example-rpc",
+  "pkg_family": "sandbox",
+  "pkg_id": "example-rpc#github.com_algorand_sandbox",
+  "pkg_name": "example-rpc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/algorand/sandbox",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Algorand node sandbox",
+  "homepage": [
+    "https://github.com/algorand/sandbox"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "coverage-report",
+    "example-db-generate",
+    "example-db-migrate",
+    "example-health",
+    "example-rpc",
+    "example-tui",
+    "filter-coverage"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/mattdowdell/sandbox/@v/v0.1.79.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250627155630-06f7c816db22",
+  "version_upstream": "",
+  "bsum": "770fe7311de9f95751ff8affbcfc3bb8f9d390bb3695dae6d65dfc780465e2fc",
+  "build_date": "2025-08-12T04:37:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16898594949",
+  "build_id": "16898594949",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algorand/sandbox/example-rpc?tag=v0.0.0-20250627155630-06f7c816db22-aarch64-Linux&download=example-rpc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "240",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algorand/sandbox/example-rpc?tag=v0.0.0-20250627155630-06f7c816db22-aarch64-Linux&download=example-rpc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/algorand/sandbox/example-rpc:v0.0.0-20250627155630-06f7c816db22-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/algorand/sandbox/example-rpc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algorand/sandbox/example-rpc?tag=v0.0.0-20250627155630-06f7c816db22-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fb652a3eb32f3451a413c7309a729f22a92ce44655d839d2ab1b8723bf9b5cef",
+  "size": "34 MB",
+  "size_raw": "34969792",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
