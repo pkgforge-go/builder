@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "example-health",
+  "pkg_family": "sandbox",
+  "pkg_id": "example-health#github.com_algorand_sandbox",
+  "pkg_name": "example-health",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/algorand/sandbox",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Algorand node sandbox",
+  "homepage": [
+    "https://github.com/algorand/sandbox"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "coverage-report",
+    "example-db-generate",
+    "example-db-migrate",
+    "example-health",
+    "example-rpc",
+    "example-tui",
+    "filter-coverage"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/mattdowdell/sandbox/@v/v0.1.79.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250627155630-06f7c816db22",
+  "version_upstream": "",
+  "bsum": "9e881846498b7b2b59e2a3b2e99ff91cbcfc919f5157df5fa1f2cf4bf19f4b0d",
+  "build_date": "2025-08-12T04:37:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16898594949",
+  "build_id": "16898594949",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algorand/sandbox/example-health?tag=v0.0.0-20250627155630-06f7c816db22-loongarch64-Linux&download=example-health.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "240",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algorand/sandbox/example-health?tag=v0.0.0-20250627155630-06f7c816db22-loongarch64-Linux&download=example-health",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/algorand/sandbox/example-health:v0.0.0-20250627155630-06f7c816db22-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/algorand/sandbox/example-health",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algorand/sandbox/example-health?tag=v0.0.0-20250627155630-06f7c816db22-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "27a5d26103dc2da4615c03f625039c1e1faf5c3cd92492f8b6a35cc031ab0f41",
+  "size": "9.6 MB",
+  "size_raw": "10013792",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
