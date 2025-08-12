@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "lint-plugins",
+  "pkg_family": "plugins",
+  "pkg_id": "lint-plugins#github.com_filebot_plugins",
+  "pkg_name": "lint-plugins",
+  "pkg_type": "static",
+  "pkg_webpage": "https://www.filebot.net/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Plugins and shell scripts for integrating 3rd party tools with FileBot",
+  "homepage": [
+    "https://www.filebot.net/"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build-archive",
+    "build-plugins",
+    "cue-publish",
+    "golangci-lint",
+    "lint-plugins",
+    "npm-publish",
+    "release",
+    "tidy-modules",
+    "upload-archive"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/perses/plugins/@v/v0.0.0-20250808122919-2057d3aac945.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250705105050-819df334887c",
+  "version_upstream": "",
+  "bsum": "a66216e6fcd7ab5a5c4b0bff2a1d5495721b328079e89781500ed50ed3dae55e",
+  "build_date": "2025-08-12T02:20:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16896898572",
+  "build_id": "16896898572",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filebot/plugins/lint-plugins?tag=v0.0.0-20250705105050-819df334887c-x86_64-Linux&download=lint-plugins.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "90",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filebot/plugins/lint-plugins?tag=v0.0.0-20250705105050-819df334887c-x86_64-Linux&download=lint-plugins",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/filebot/plugins/lint-plugins:v0.0.0-20250705105050-819df334887c-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/filebot/plugins/lint-plugins",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filebot/plugins/lint-plugins?tag=v0.0.0-20250705105050-819df334887c-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "88b7b7ef4f79e19baa4a2f60d2eac15d959a48460705374b51ee8e760fe66d97",
+  "size": "2.5 MB",
+  "size_raw": "2540088",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250705105050-819df334887c-x86_64-Linux"
+  ],
+  "trusted": "true"
+}

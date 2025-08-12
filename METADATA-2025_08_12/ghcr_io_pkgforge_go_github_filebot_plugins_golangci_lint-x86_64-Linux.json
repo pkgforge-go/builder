@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "golangci-lint",
+  "pkg_family": "plugins",
+  "pkg_id": "golangci-lint#github.com_filebot_plugins",
+  "pkg_name": "golangci-lint",
+  "pkg_type": "static",
+  "pkg_webpage": "https://www.filebot.net/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Plugins and shell scripts for integrating 3rd party tools with FileBot",
+  "homepage": [
+    "https://www.filebot.net/"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build-archive",
+    "build-plugins",
+    "cue-publish",
+    "golangci-lint",
+    "lint-plugins",
+    "npm-publish",
+    "release",
+    "tidy-modules",
+    "upload-archive"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/perses/plugins/@v/v0.0.0-20250808122919-2057d3aac945.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250705105050-819df334887c",
+  "version_upstream": "",
+  "bsum": "15dbf051ea224c2dccc8be97e3ff38817b91c84ea96cb15b87c3ea9ab36144aa",
+  "build_date": "2025-08-12T02:19:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16896898572",
+  "build_id": "16896898572",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filebot/plugins/golangci-lint?tag=v0.0.0-20250705105050-819df334887c-x86_64-Linux&download=golangci-lint.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "90",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filebot/plugins/golangci-lint?tag=v0.0.0-20250705105050-819df334887c-x86_64-Linux&download=golangci-lint",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/filebot/plugins/golangci-lint:v0.0.0-20250705105050-819df334887c-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/filebot/plugins/golangci-lint",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filebot/plugins/golangci-lint?tag=v0.0.0-20250705105050-819df334887c-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7db8f26e02829dfee47f1731df47bb3f6100a64574cfbcec0bd7f5eb4c4c2f0e",
+  "size": "2.4 MB",
+  "size_raw": "2487096",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250705105050-819df334887c-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
