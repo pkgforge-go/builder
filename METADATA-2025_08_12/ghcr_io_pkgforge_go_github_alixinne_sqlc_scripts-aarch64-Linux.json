@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "scripts",
+  "pkg_family": "sqlc",
+  "pkg_id": "scripts#github.com_alixinne_sqlc",
+  "pkg_name": "scripts",
+  "pkg_type": "static",
+  "pkg_webpage": "https://sqlc.dev",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Generate type-safe code from SQL",
+  "homepage": [
+    "https://sqlc.dev"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build",
+    "bump-version",
+    "cleanup-test-dbs",
+    "mirror-go-plugin",
+    "scripts",
+    "sqlc",
+    "sqlc-gen-json",
+    "sqlc-pg-gen",
+    "test-json-process-plugin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/alixinne/sqlc/@v/v0.0.0-20250811101719-0132fb9a590e.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250811101719-0132fb9a590e",
+  "version_upstream": "",
+  "bsum": "5eb5a7a3b21775513e2cd0a4d6f616bf95ae91078137506180f62b809866adaa",
+  "build_date": "2025-08-12T15:43:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16913641200",
+  "build_id": "16913641200",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/alixinne/sqlc/scripts?tag=v0.0.0-20250811101719-0132fb9a590e-aarch64-Linux&download=scripts.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/alixinne/sqlc/scripts?tag=v0.0.0-20250811101719-0132fb9a590e-aarch64-Linux&download=scripts",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/alixinne/sqlc/scripts:v0.0.0-20250811101719-0132fb9a590e-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/alixinne/sqlc/scripts",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/alixinne/sqlc/scripts?tag=v0.0.0-20250811101719-0132fb9a590e-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c11f771e6985908974af4bdc5ec44ffecc410d0cfc08e3d146fab93206695f29",
+  "size": "2.0 MB",
+  "size_raw": "2043320",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
