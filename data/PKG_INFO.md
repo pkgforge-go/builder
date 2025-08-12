@@ -194,6 +194,7 @@
 - 🐹 **[v7](https://oauth2-proxy.github.io/oauth2-proxy)**: A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - 🐹 **[openapi-gen-angular](https://heroiclabs.com)**: Distributed server for social and realtime games and apps.
 - 🐹 **[protoc-gen-angular](https://heroiclabs.com)**: Distributed server for social and realtime games and apps.
+- 🐹 **[webhook](https://github.com/adnanh/webhook)**: Webhook is a lightweight incoming webhook server to run shell commands.
 - 🐹 **[kubeasz](https://github.com/easzlab/kubeasz)**: 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响.
 - 🐹 **[newreposecretwithlibsodium](https://pkg.go.dev/github.com/google/go-github/v72/github)**: Go library for accessing the GitHub v3 API.
 - 🐹 **[go](https://github.com/apache/thrift)**: Apache Thrift.
@@ -253,6 +254,7 @@
 - 🐹 **[5-cqrs-protobuf](https://watermill.io)**: Building event-driven applications the easy way in Go.
 - 🐹 **[kafka](https://watermill.io)**: Building event-driven applications the easy way in Go.
 - 🐹 **[sql](https://watermill.io)**: Building event-driven applications the easy way in Go.
+- 🐹 **[upgrade](http://mattn.github.io/go-sqlite3)**: Sqlite3 driver for go using database/sql.
 - 🐹 **[trigger-depup](https://medium.com/@haya14busa/reviewdog-a-code-review-dog-who-keeps-your-codebase-healthy-d957c471938b#.8xctbaw5u)**: Automated code review tool integrated with any code analysis tools regardless of programming language.
 - 🐹 **[nats-streaming](https://watermill.io)**: Building event-driven applications the easy way in Go.
 - 🐹 **[update-examples-deps](https://watermill.io)**: Building event-driven applications the easy way in Go.
@@ -301,6 +303,7 @@
 - 🐹 **[ollama-completion-example](https://tmc.github.io/langchaingo/)**: LangChain for Go, the easiest way to write LLM-based programs in Go.
 - 🐹 **[openai-completion-example](https://tmc.github.io/langchaingo/)**: LangChain for Go, the easiest way to write LLM-based programs in Go.
 - 🐹 **[pgvector-vectorstore-example](https://tmc.github.io/langchaingo/)**: LangChain for Go, the easiest way to write LLM-based programs in Go.
+- 🐹 **[prompt-template-example](https://tmc.github.io/langchaingo/)**: LangChain for Go, the easiest way to write LLM-based programs in Go.
 - 🐹 **[qdrant-vectorstore-example](https://tmc.github.io/langchaingo/)**: LangChain for Go, the easiest way to write LLM-based programs in Go.
 - 🐹 **[uiautomator2](https://github.com/openatx/uiautomator2)**: Android Uiautomator2 Python Wrapper.
 - 🐹 **[uibox](https://github.com/openatx/uiautomator2/uibox)**: Android Uiautomator2 Python Wrapper.
@@ -570,6 +573,7 @@
 - 🐹 **[transit](https://boundaryproject.io)**: Boundary enables identity-based access management for dynamic infrastructure.
 - 🐹 **[azure](https://boundaryproject.io)**: Boundary enables identity-based access management for dynamic infrastructure.
 - 🐹 **[project-cleaner](https://www.kubeflow.org/docs/components/pipelines/)**: Machine Learning Pipelines for Kubeflow.
+- 🐹 **[hubble](https://github.com/cilium/hubble)**: Hubble - Network, Service & Security Observability for Kubernetes using eBPF.
 - 🐹 **[v4](https://osrg.github.io/gobgp/)**: BGP implemented in the Go Programming Language.
 - 🐹 **[tox](https://tox.wiki)**: Command line driven CI frontend and development task automation tool.
 - 🐹 **[gin-gorm](https://uptrace.dev/get/hosted/open-source-apm)**: Open source APM: OpenTelemetry traces, metrics, and logs.
@@ -848,6 +852,7 @@
 - 🐹 **[pocket](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
 - 🐹 **[raindrop](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
 - 🐹 **[random](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
+- 🐹 **[readwise](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
 - 🐹 **[rss](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
 - 🐹 **[spotify](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
 - 🐹 **[store-manager](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
@@ -918,6 +923,7 @@
 - 🐹 **[humanlayer-tui](https://humanlayer.dev)**: HumanLayer enables AI agents to communicate with humans in tool-based and async workflows.
 - 🐹 **[dragonos](https://dragonos.org)**: DragonOS is an operating system developed from scratch using Rust, with Linux compatibility.
 - 🐹 **[dragonos](https://dragonos.org)**: DragonOS is an operating system developed from scratch using Rust, with Linux compatibility.
+- 🐹 **[paddler](https://paddler.intentee.com)**: Open-source LLMOps platform for hosting and scaling AI in your own infrastructure.
 - 🐹 **[gocoin](https://github.com/piotrnar/gocoin)**: Full bitcoin solution written in Go (golang.
 - 🐹 **[account-gen](https://jfa-go.com)**: A bit-of-everything user managament app for Jellyfin.
 - 🐹 **[generator](https://formance.com)**: The programmable open source ledger for fintechs.
