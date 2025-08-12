@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "pidcat",
+  "pkg_family": "pidcat",
+  "pkg_id": "pidcat#github.com_rtfmkiesel_pidcat",
+  "pkg_name": "pidcat",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rtfmkiesel/pidcat",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Makes 'adb logcat' colored and adds the feature of being able to filter by app or tag",
+  "homepage": [
+    "https://github.com/rtfmkiesel/pidcat"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pidcat"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/rtfmkiesel/pidcat/@v/v0.0.5.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.5",
+  "version_upstream": "",
+  "bsum": "286df640cf0f2f290ecbf86d1e1c379db794fcbacbc037e93682ace8c718f127",
+  "build_date": "2025-08-12T04:47:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16898620541",
+  "build_id": "16898620541",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rtfmkiesel/pidcat/pidcat?tag=v0.0.5-loongarch64-Linux&download=pidcat.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rtfmkiesel/pidcat/pidcat?tag=v0.0.5-loongarch64-Linux&download=pidcat",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rtfmkiesel/pidcat/pidcat:v0.0.5-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rtfmkiesel/pidcat/pidcat",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rtfmkiesel/pidcat/pidcat?tag=v0.0.5-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5ed6cfd45c5e57ccdb5413e492071f827d7ccb50b95de45c9d3b77e66e4a458d",
+  "size": "2.6 MB",
+  "size_raw": "2712568",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
