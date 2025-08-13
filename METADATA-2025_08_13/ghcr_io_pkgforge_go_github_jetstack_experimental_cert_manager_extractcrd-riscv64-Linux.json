@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "extractcrd",
+  "pkg_family": "cert-manager",
+  "pkg_id": "extractcrd#github.com_jetstack_experimental_cert_manager",
+  "pkg_name": "extractcrd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://cert-manager.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Automatically provision and manage TLS certificates in Kubernetes",
+  "homepage": [
+    "https://cert-manager.io"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "acmeprobe",
+    "extractcrd",
+    "models-schema",
+    "prune-junit-xml",
+    "sample"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/jetstack-experimental/cert-manager/@v/v0.0.0-20250812214044-cabd78400ff3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250812214044-cabd78400ff3",
+  "version_upstream": "",
+  "bsum": "baed0aa11c519af243ef601d4a4d0fe78fba0f8ffe8b6649f07dba4f8ca8d446",
+  "build_date": "2025-08-13T04:38:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16927174296",
+  "build_id": "16927174296",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jetstack-experimental/cert-manager/extractcrd?tag=v0.0.0-20250812214044-cabd78400ff3-riscv64-Linux&download=extractcrd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13064",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jetstack-experimental/cert-manager/extractcrd?tag=v0.0.0-20250812214044-cabd78400ff3-riscv64-Linux&download=extractcrd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jetstack-experimental/cert-manager/extractcrd:v0.0.0-20250812214044-cabd78400ff3-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jetstack-experimental/cert-manager/extractcrd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jetstack-experimental/cert-manager/extractcrd?tag=v0.0.0-20250812214044-cabd78400ff3-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9b63ae7466e2df52ba794857dfa560dbcb2bdc4e1f7a5fad8b7668f4919ed67d",
+  "size": "9.6 MB",
+  "size_raw": "9977528",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
