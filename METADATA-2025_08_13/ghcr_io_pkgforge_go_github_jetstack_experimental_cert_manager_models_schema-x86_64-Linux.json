@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "models-schema",
+  "pkg_family": "cert-manager",
+  "pkg_id": "models-schema#github.com_jetstack_experimental_cert_manager",
+  "pkg_name": "models-schema",
+  "pkg_type": "static",
+  "pkg_webpage": "https://cert-manager.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Automatically provision and manage TLS certificates in Kubernetes",
+  "homepage": [
+    "https://cert-manager.io"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "acmeprobe",
+    "extractcrd",
+    "models-schema",
+    "prune-junit-xml",
+    "sample"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/jetstack-experimental/cert-manager/@v/v0.0.0-20250812214044-cabd78400ff3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250812214044-cabd78400ff3",
+  "version_upstream": "",
+  "bsum": "f07c0cec21bad978887b7fb1295e73a74b1c2786fa5312daab80d1334a873a51",
+  "build_date": "2025-08-13T04:39:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16927174296",
+  "build_id": "16927174296",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jetstack-experimental/cert-manager/models-schema?tag=v0.0.0-20250812214044-cabd78400ff3-x86_64-Linux&download=models-schema.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13064",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jetstack-experimental/cert-manager/models-schema?tag=v0.0.0-20250812214044-cabd78400ff3-x86_64-Linux&download=models-schema",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jetstack-experimental/cert-manager/models-schema:v0.0.0-20250812214044-cabd78400ff3-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jetstack-experimental/cert-manager/models-schema",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jetstack-experimental/cert-manager/models-schema?tag=v0.0.0-20250812214044-cabd78400ff3-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1d71d5c7b2e69cdce1ae21e24e34e0f71b3fd4e9d281e114a3f8ebf8641c6261",
+  "size": "23 MB",
+  "size_raw": "23598368",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
