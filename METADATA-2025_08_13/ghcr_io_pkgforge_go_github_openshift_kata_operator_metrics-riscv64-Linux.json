@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "metrics",
+  "pkg_family": "kata-operator",
+  "pkg_id": "metrics#github.com_openshift_kata_operator",
+  "pkg_name": "metrics",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openshift/kata-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An operator to enhance an Openshift/Kubernetes cluster to support running sandboxed containers",
+  "homepage": [
+    "https://github.com/openshift/kata-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "metrics"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/openshift/kata-operator/@v/v1.10.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.10.0",
+  "version_upstream": "",
+  "bsum": "7490355abdb836fd10499d5fc3ab86a4c7a50a5122aa0f9eb2318093744c231f",
+  "build_date": "2025-08-13T05:01:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16927206307",
+  "build_id": "16927206307",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/kata-operator/metrics?tag=v1.10.0-riscv64-Linux&download=metrics.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "43",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/kata-operator/metrics?tag=v1.10.0-riscv64-Linux&download=metrics",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openshift/kata-operator/metrics:v1.10.0-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openshift/kata-operator/metrics",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openshift/kata-operator/metrics?tag=v1.10.0-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "088490fa5b8d6dc7e3b2b8d2f6dcd7f6211abeb852b11c83ddc7f8855a1835b8",
+  "size": "38 MB",
+  "size_raw": "39084056",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
