@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cloudwatch-empty-streams",
+  "pkg_family": "v3",
+  "pkg_id": "cloudwatch-empty-streams#github.com_etcd_io_etcd_v3",
+  "pkg_name": "cloudwatch-empty-streams",
+  "pkg_type": "static",
+  "pkg_webpage": "https://etcd.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+  "homepage": [
+    "https://etcd.io"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws-cognito-credentials",
+    "aws-credentials-json-to-ini",
+    "aws-get-credentials",
+    "aws-imds-credentials",
+    "aws-mfa-session",
+    "aws-set-env",
+    "aws-sign-request",
+    "aws-sts-session",
+    "cloudfront-invalidate",
+    "cloudwatch-empty-streams",
+    "cloudwatch-log-group-streams",
+    "cloudwatch-log-groups",
+    "cloudwatch-log-stream-events",
+    "dynamodb-list-tables",
+    "ecs-launch-task",
+    "lambda-functionurl",
+    "lambda-invoke"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/aaronland/go-aws/v3/@v/v3.0.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v3.5.22",
+  "version_upstream": "",
+  "bsum": "382cde995803abccb53c0e3436aaeb84c55d5aa117ac9e7998175fd3d7639fa8",
+  "build_date": "2025-08-14T15:54:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16969779151",
+  "build_id": "16969779151",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/etcd-io/etcd/v3/cloudwatch-empty-streams?tag=v3.5.22-loongarch64-Linux&download=cloudwatch-empty-streams.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "49864",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/etcd-io/etcd/v3/cloudwatch-empty-streams?tag=v3.5.22-loongarch64-Linux&download=cloudwatch-empty-streams",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/etcd-io/etcd/v3/cloudwatch-empty-streams:v3.5.22-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/etcd-io/etcd/v3/cloudwatch-empty-streams",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/etcd-io/etcd/v3/cloudwatch-empty-streams?tag=v3.5.22-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d66b313e01a84116643c3c6728e1e03abcb8939ab337e618117a3a56bed8d8a4",
+  "size": "9.0 MB",
+  "size_raw": "9402976",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
