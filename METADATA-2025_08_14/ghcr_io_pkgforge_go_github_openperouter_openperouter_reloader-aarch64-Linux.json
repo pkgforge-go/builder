@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "reloader",
+  "pkg_family": "openperouter",
+  "pkg_id": "reloader#github.com_openperouter_openperouter",
+  "pkg_name": "reloader",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openperouter/openperouter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenPERouter (Provider Edge Router) meant to run on linux and to interact with the host through veths",
+  "homepage": [
+    "https://github.com/openperouter/openperouter"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "assign_ips",
+    "cp-tool",
+    "generate_kind_config",
+    "generate_leaf_config",
+    "hostcontroller",
+    "nodemarker",
+    "reloader"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/openperouter/openperouter/@v/v0.0.0-20250801134128-33f8dda18a7d.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250801134128-33f8dda18a7d",
+  "version_upstream": "",
+  "bsum": "b50c5ee6a48547933b5f4c95281abefec8ec56232b6e3a408e1bfa086d437f90",
+  "build_date": "2025-08-14T07:14:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16957992748",
+  "build_id": "16957992748",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openperouter/openperouter/reloader?tag=v0.0.0-20250801134128-33f8dda18a7d-aarch64-Linux&download=reloader.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openperouter/openperouter/reloader?tag=v0.0.0-20250801134128-33f8dda18a7d-aarch64-Linux&download=reloader",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openperouter/openperouter/reloader:v0.0.0-20250801134128-33f8dda18a7d-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openperouter/openperouter/reloader",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openperouter/openperouter/reloader?tag=v0.0.0-20250801134128-33f8dda18a7d-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3f755153e0f979450c593908f0a5691326f9ca7ab4662d03ac01ee0e3f622bf4",
+  "size": "5.9 MB",
+  "size_raw": "6177056",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250703170524-347ee45a75f7-aarch64-Linux",
+    "v0.0.0-20250704134729-723209f725bb-aarch64-Linux",
+    "v0.0.0-20250719114546-a2ce1e1a7147-aarch64-Linux",
+    "v0.0.0-20250725151628-07f2bf266837-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
