@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "releaseprocessor",
+  "pkg_family": "modules",
+  "pkg_id": "releaseprocessor#github.com_bufbuild_modules",
+  "pkg_name": "releaseprocessor",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bufbuild/modules",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Collection of third-party modules managed and synced by Buf",
+  "homepage": [
+    "https://github.com/bufbuild/modules"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "casdiff",
+    "modprocessor",
+    "release",
+    "releaseprocessor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/bufbuild/modules/@v/v0.0.0-20250811233916-658995e176f8.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250811233916-658995e176f8",
+  "version_upstream": "",
+  "bsum": "a3732a76ff18ccdb9eb5336b48227bcff4032c66396d9c10e0678e643d117ef0",
+  "build_date": "2025-08-14T21:40:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16977197983",
+  "build_id": "16977197983",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bufbuild/modules/releaseprocessor?tag=v0.0.0-20250811233916-658995e176f8-loongarch64-Linux&download=releaseprocessor.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "27",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bufbuild/modules/releaseprocessor?tag=v0.0.0-20250811233916-658995e176f8-loongarch64-Linux&download=releaseprocessor",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bufbuild/modules/releaseprocessor:v0.0.0-20250811233916-658995e176f8-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bufbuild/modules/releaseprocessor",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bufbuild/modules/releaseprocessor?tag=v0.0.0-20250811233916-658995e176f8-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "334b480a881d129ae4d4fc4160c2d6eb09f4edb0cf1b32717a0d4ec241724efb",
+  "size": "15 MB",
+  "size_raw": "14891040",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a314f06-250623T082357-loongarch64-Linux",
+    "HEAD-1022a94-250624T091525-loongarch64-Linux",
+    "HEAD-8e52688-250625T143212-loongarch64-Linux[20250625.1]",
+    "HEAD-2504175-250626T085942-loongarch64-Linux",
+    "HEAD-978f4bf-250627T175402-loongarch64-Linux",
+    "v0.0.0-20250627215402-978f4bfb101c-loongarch64-Linux",
+    "v0.0.0-20250703140851-b05b09bd8718-loongarch64-Linux",
+    "v0.0.0-20250715170815-9d3161a54d9f-loongarch64-Linux",
+    "v0.0.0-20250716151854-d92d8c9e22e9-loongarch64-Linux",
+    "v0.0.0-20250723003026-c800cde83f48-loongarch64-Linux",
+    "v0.0.0-20250725160021-220aa09b2981-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
