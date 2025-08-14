@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "query-audit",
+  "pkg_family": "cortex",
+  "pkg_id": "query-audit#github.com_cortexproject_cortex",
+  "pkg_name": "query-audit",
+  "pkg_type": "static",
+  "pkg_webpage": "https://cortexmetrics.io/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus",
+  "homepage": [
+    "https://cortexmetrics.io/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth-injector",
+    "cortex",
+    "doc-generator",
+    "query-audit",
+    "query-tee",
+    "test-exporter",
+    "thanosconvert",
+    "website"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cortexproject/cortex/@v/v0.0.0-20250811234537-d9079f51e93a.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250811234537-d9079f51e93a",
+  "version_upstream": "",
+  "bsum": "8b1eca39ae53416034b4a636fcf6d2052720e3d61c00daa6620c59f85ce0bcc5",
+  "build_date": "2025-08-14T09:48:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16961563305",
+  "build_id": "16961563305",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexproject/cortex/query-audit?tag=v0.0.0-20250811234537-d9079f51e93a-riscv64-Linux&download=query-audit.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5650",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexproject/cortex/query-audit?tag=v0.0.0-20250811234537-d9079f51e93a-riscv64-Linux&download=query-audit",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cortexproject/cortex/query-audit:v0.0.0-20250811234537-d9079f51e93a-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cortexproject/cortex/query-audit",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexproject/cortex/query-audit?tag=v0.0.0-20250811234537-d9079f51e93a-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cd3f87ac7db8b81f8bfc9291d14fa28c72be01eb7413bbfbabf48b6159b23598",
+  "size": "12 MB",
+  "size_raw": "11746552",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-fbc197f-250619T000841-riscv64-Linux",
+    "HEAD-bf88f67-250621T233300-riscv64-Linux",
+    "HEAD-f9fc11c-250623T105316-riscv64-Linux",
+    "HEAD-bd2bebf-250624T115532-riscv64-Linux",
+    "HEAD-16a2f54-250626T172806-riscv64-Linux",
+    "v0.0.0-20250723172404-328bc3ba71a7-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
