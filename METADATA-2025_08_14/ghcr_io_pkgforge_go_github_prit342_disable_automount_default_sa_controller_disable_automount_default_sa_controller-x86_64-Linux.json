@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "disable-automount-default-sa-controller",
+  "pkg_family": "disable-automount-default-sa-controller",
+  "pkg_id": "disable-automount-default-sa-controller#github.com_prit342_disable_automount_default_sa_controller",
+  "pkg_name": "disable-automount-default-sa-controller",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/prit342/disable-automount-default-sa-controller",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "K8s controller that watches the default service account across all namespaces and sets the automountServiceAccount field to false",
+  "homepage": [
+    "https://github.com/prit342/disable-automount-default-sa-controller"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "disable-automount-default-sa-controller"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/prit342/disable-automount-default-sa-controller/@v/v0.0.0-20250701164207-98ae6f96b92b.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250701164207-98ae6f96b92b",
+  "version_upstream": "",
+  "bsum": "c4ef02673ffabf56892a1ca1a35876363aea4bf7c4e965e066ff250dc1bc6af3",
+  "build_date": "2025-08-14T05:12:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16955644954",
+  "build_id": "16955644954",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prit342/disable-automount-default-sa-controller/disable-automount-default-sa-controller?tag=v0.0.0-20250701164207-98ae6f96b92b-x86_64-Linux&download=disable-automount-default-sa-controller.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prit342/disable-automount-default-sa-controller/disable-automount-default-sa-controller?tag=v0.0.0-20250701164207-98ae6f96b92b-x86_64-Linux&download=disable-automount-default-sa-controller",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/prit342/disable-automount-default-sa-controller/disable-automount-default-sa-controller:v0.0.0-20250701164207-98ae6f96b92b-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/prit342/disable-automount-default-sa-controller/disable-automount-default-sa-controller",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prit342/disable-automount-default-sa-controller/disable-automount-default-sa-controller?tag=v0.0.0-20250701164207-98ae6f96b92b-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f8f3a238b3959ed6a973ecfde134e8a81b36f55a6acef77ff4fe80bcc742fd5b",
+  "size": "43 MB",
+  "size_raw": "44851840",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
