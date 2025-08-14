@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "libemail",
+  "pkg_family": "cordial",
+  "pkg_id": "libemail#github.com_itrs_group_cordial",
+  "pkg_name": "libemail",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/itrs-group/cordial",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cordial comprises a set of interrelated programs, integrations, libraries and packages for Geneos, principally written in Go",
+  "homepage": [
+    "https://github.com/itrs-group/cordial"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api",
+    "api2",
+    "cliauth",
+    "dockerlogs",
+    "docs",
+    "dv2email",
+    "files2dv",
+    "gateway-reporter",
+    "gdna",
+    "geneos",
+    "libalert",
+    "libemail",
+    "pagerduty",
+    "san-config",
+    "servicenow",
+    "servicenow2",
+    "sso-diag"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/itrs-group/cordial/@v/v1.22.2.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.22.2",
+  "version_upstream": "",
+  "bsum": "52da6019e533b16032e6bd7fa2e193f94034b2bc2db3a3a2540e5c6f487752ce",
+  "build_date": "2025-08-14T15:55:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16969779491",
+  "build_id": "16969779491",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itrs-group/cordial/libemail?tag=v1.22.2-x86_64-Linux&download=libemail.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itrs-group/cordial/libemail?tag=v1.22.2-x86_64-Linux&download=libemail",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/itrs-group/cordial/libemail:v1.22.2-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/itrs-group/cordial/libemail",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itrs-group/cordial/libemail?tag=v1.22.2-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "85b178d1ef79d1f8aa8e0dd5f7a1f977edcccfe4719b6f42ba2f13343c87039f",
+  "size": "12 MB",
+  "size_raw": "11692288",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-1a04d47-250619T143237-x86_64-Linux"
+  ],
+  "trusted": "true"
+}

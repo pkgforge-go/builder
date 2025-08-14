@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "san-config",
+  "pkg_family": "cordial",
+  "pkg_id": "san-config#github.com_itrs_group_cordial",
+  "pkg_name": "san-config",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/itrs-group/cordial",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cordial comprises a set of interrelated programs, integrations, libraries and packages for Geneos, principally written in Go",
+  "homepage": [
+    "https://github.com/itrs-group/cordial"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api",
+    "api2",
+    "cliauth",
+    "dockerlogs",
+    "docs",
+    "dv2email",
+    "files2dv",
+    "gateway-reporter",
+    "gdna",
+    "geneos",
+    "libalert",
+    "libemail",
+    "pagerduty",
+    "san-config",
+    "servicenow",
+    "servicenow2",
+    "sso-diag"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/itrs-group/cordial/@v/v1.22.2.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.22.2",
+  "version_upstream": "",
+  "bsum": "13ff9619402a64d654acbbcb69b1684101ebb405d9059481a1f2076871cbeece",
+  "build_date": "2025-08-14T15:53:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16969779491",
+  "build_id": "16969779491",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itrs-group/cordial/san-config?tag=v1.22.2-x86_64-Linux&download=san-config.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itrs-group/cordial/san-config?tag=v1.22.2-x86_64-Linux&download=san-config",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/itrs-group/cordial/san-config:v1.22.2-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/itrs-group/cordial/san-config",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itrs-group/cordial/san-config?tag=v1.22.2-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b9d7df5834d22e2e62812ac748d37625edf9063569e293dc0540e738700702c1",
+  "size": "15 MB",
+  "size_raw": "14770544",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-1a04d47-250619T143237-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
