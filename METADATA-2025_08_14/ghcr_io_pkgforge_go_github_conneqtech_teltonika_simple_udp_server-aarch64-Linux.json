@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "simple-udp-server",
+  "pkg_family": "teltonika",
+  "pkg_id": "simple-udp-server#github.com_conneqtech_teltonika",
+  "pkg_name": "simple-udp-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/conneqtech/teltonika",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Teltonika TCP/UDP codecs implementation in go",
+  "homepage": [
+    "https://github.com/conneqtech/teltonika"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "simple-tcp-server",
+    "simple-udp-server",
+    "teltonika-tools",
+    "test-client"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/conneqtech/teltonika/@v/v0.0.0-20250725085115-e4c16152d01e.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250725085115-e4c16152d01e",
+  "version_upstream": "",
+  "bsum": "44b1295aba3418e1559d50dd7bc5f5dd50435a4dc9fe5f24d8fd86562d42761b",
+  "build_date": "2025-08-14T04:15:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16955506921",
+  "build_id": "16955506921",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/conneqtech/teltonika/simple-udp-server?tag=v0.0.0-20250725085115-e4c16152d01e-aarch64-Linux&download=simple-udp-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/conneqtech/teltonika/simple-udp-server?tag=v0.0.0-20250725085115-e4c16152d01e-aarch64-Linux&download=simple-udp-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/conneqtech/teltonika/simple-udp-server:v0.0.0-20250725085115-e4c16152d01e-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/conneqtech/teltonika/simple-udp-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/conneqtech/teltonika/simple-udp-server?tag=v0.0.0-20250725085115-e4c16152d01e-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fd185ef383d94c944ecfd1037e7157b6c883fd444486e27ad337b43d02f27966",
+  "size": "7.7 MB",
+  "size_raw": "8036608",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
