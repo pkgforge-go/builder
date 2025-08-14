@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "files2dv",
+  "pkg_family": "cordial",
+  "pkg_id": "files2dv#github.com_itrs_group_cordial",
+  "pkg_name": "files2dv",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/itrs-group/cordial",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cordial comprises a set of interrelated programs, integrations, libraries and packages for Geneos, principally written in Go",
+  "homepage": [
+    "https://github.com/itrs-group/cordial"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api",
+    "api2",
+    "cliauth",
+    "dockerlogs",
+    "docs",
+    "dv2email",
+    "files2dv",
+    "gateway-reporter",
+    "gdna",
+    "geneos",
+    "libalert",
+    "libemail",
+    "pagerduty",
+    "san-config",
+    "servicenow",
+    "servicenow2",
+    "sso-diag"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/itrs-group/cordial/@v/v1.22.2.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.22.2",
+  "version_upstream": "",
+  "bsum": "32fe7f740083212feafa303e4cc433898f72a52260f9b5a6a380a590e5c28a60",
+  "build_date": "2025-08-14T15:57:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16969779491",
+  "build_id": "16969779491",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itrs-group/cordial/files2dv?tag=v1.22.2-riscv64-Linux&download=files2dv.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itrs-group/cordial/files2dv?tag=v1.22.2-riscv64-Linux&download=files2dv",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/itrs-group/cordial/files2dv:v1.22.2-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/itrs-group/cordial/files2dv",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itrs-group/cordial/files2dv?tag=v1.22.2-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1582e50ba342f6d9f55affc93af4225d1613d9c01457bf3d7c250989951e67f2",
+  "size": "17 MB",
+  "size_raw": "17821624",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-1a04d47-250619T143237-riscv64-Linux"
+  ],
+  "trusted": "true"
+}

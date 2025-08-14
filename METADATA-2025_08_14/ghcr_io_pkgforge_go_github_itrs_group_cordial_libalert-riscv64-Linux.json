@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "libalert",
+  "pkg_family": "cordial",
+  "pkg_id": "libalert#github.com_itrs_group_cordial",
+  "pkg_name": "libalert",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/itrs-group/cordial",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cordial comprises a set of interrelated programs, integrations, libraries and packages for Geneos, principally written in Go",
+  "homepage": [
+    "https://github.com/itrs-group/cordial"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api",
+    "api2",
+    "cliauth",
+    "dockerlogs",
+    "docs",
+    "dv2email",
+    "files2dv",
+    "gateway-reporter",
+    "gdna",
+    "geneos",
+    "libalert",
+    "libemail",
+    "pagerduty",
+    "san-config",
+    "servicenow",
+    "servicenow2",
+    "sso-diag"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/itrs-group/cordial/@v/v1.22.2.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.22.2",
+  "version_upstream": "",
+  "bsum": "cf823a293a008a0328e2b939162702f7ca67897e9fcbcd8652e01605e9f3f96d",
+  "build_date": "2025-08-14T15:58:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16969779491",
+  "build_id": "16969779491",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itrs-group/cordial/libalert?tag=v1.22.2-riscv64-Linux&download=libalert.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "9",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itrs-group/cordial/libalert?tag=v1.22.2-riscv64-Linux&download=libalert",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/itrs-group/cordial/libalert:v1.22.2-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/itrs-group/cordial/libalert",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/itrs-group/cordial/libalert?tag=v1.22.2-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6b13dca1bb339d90397ac58ad5810deb690da52f4de4b1ceb343880ce0216825",
+  "size": "12 MB",
+  "size_raw": "11993336",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-1a04d47-250619T143237-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
