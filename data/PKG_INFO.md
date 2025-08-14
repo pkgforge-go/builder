@@ -140,6 +140,7 @@
 - 🐹 **[terminal](https://sealos.io)**: Sealos is an AI-native, application-centric cloud operating system that powers intelligent super applications.
 - 🐹 **[tools](https://www.nomadproject.io/)**: Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications.
 - 🐹 **[fdbkubernetesmonitor](https://apple.github.io/foundationdb/)**: FoundationDB - the open source, distributed, transactional key-value store.
+- 🐹 **[foundationdb](https://apple.github.io/foundationdb/)**: FoundationDB - the open source, distributed, transactional key-value store.
 - 🐹 **[app](https://apple.github.io/foundationdb/)**: FoundationDB - the open source, distributed, transactional key-value store.
 - 🐹 **[go-integration-coverage](https://skaffold.dev/)**: Easy and Repeatable Kubernetes Development.
 - 🐹 **[kaniko](https://skaffold.dev/)**: Easy and Repeatable Kubernetes Development.
