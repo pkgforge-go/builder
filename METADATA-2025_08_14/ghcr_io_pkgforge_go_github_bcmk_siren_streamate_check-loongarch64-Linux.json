@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "streamate-check",
+  "pkg_family": "siren",
+  "pkg_id": "streamate-check#github.com_bcmk_siren",
+  "pkg_name": "streamate-check",
+  "pkg_type": "static",
+  "pkg_webpage": "https://siren.chat",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Telegram bot for webcasts alerts",
+  "homepage": [
+    "https://siren.chat"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bongacams-check",
+    "bongacams-online-models",
+    "bot",
+    "cam4-check",
+    "cam4-online-models",
+    "camsoda-check",
+    "camsoda-online-models",
+    "chaturbate-check",
+    "chaturbate-online-models",
+    "checktr",
+    "flirt4free-check",
+    "flirt4free-online-models",
+    "livejasmin-check",
+    "livejasmin-online-models",
+    "migrator",
+    "streamate-check",
+    "streamate-online-models",
+    "stripchat-check",
+    "stripchat-online-models",
+    "twitch-active-streams",
+    "twitch-check",
+    "twitch-specific-streams"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/bcmk/siren/@v/v1.5.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.5.0",
+  "version_upstream": "",
+  "bsum": "3e1fbd8f7e524c0643827a652e689a8adf03917879a45f3097fb81a0a0b7c7d1",
+  "build_date": "2025-08-14T09:51:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16961562738",
+  "build_id": "16961562738",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bcmk/siren/streamate-check?tag=v1.5.0-loongarch64-Linux&download=streamate-check.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "74",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bcmk/siren/streamate-check?tag=v1.5.0-loongarch64-Linux&download=streamate-check",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bcmk/siren/streamate-check:v1.5.0-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bcmk/siren/streamate-check",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bcmk/siren/streamate-check?tag=v1.5.0-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "df5548138ef8079727164fd8267249b78c34f9612c417809f62ab37bce422a1b",
+  "size": "6.5 MB",
+  "size_raw": "6754368",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-648a7b7-250622T224859-loongarch64-Linux",
+    "v1.2.13-loongarch64-Linux",
+    "v1.4.0-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
