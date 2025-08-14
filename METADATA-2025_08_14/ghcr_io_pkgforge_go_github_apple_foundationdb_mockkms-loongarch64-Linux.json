@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "mockkms",
+  "pkg_family": "foundationdb",
+  "pkg_id": "mockkms#github.com_apple_foundationdb",
+  "pkg_name": "mockkms",
+  "pkg_type": "static",
+  "pkg_webpage": "https://apple.github.io/foundationdb/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "FoundationDB - the open source, distributed, transactional key-value store",
+  "homepage": [
+    "https://apple.github.io/foundationdb/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "mockkms"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/apple/foundationdb/@v/v0.0.0-20250813204928-e8d011a6ff8f.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250813204928-e8d011a6ff8f",
+  "version_upstream": "",
+  "bsum": "6c2b8e283ef93881a355ef75304e9c4946ca35ff73a8a3ef66ff6674e6d4622d",
+  "build_date": "2025-08-14T15:39:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16969776338",
+  "build_id": "16969776338",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apple/foundationdb/mockkms?tag=v0.0.0-20250813204928-e8d011a6ff8f-loongarch64-Linux&download=mockkms.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15570",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apple/foundationdb/mockkms?tag=v0.0.0-20250813204928-e8d011a6ff8f-loongarch64-Linux&download=mockkms",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/apple/foundationdb/mockkms:v0.0.0-20250813204928-e8d011a6ff8f-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/apple/foundationdb/mockkms",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apple/foundationdb/mockkms?tag=v0.0.0-20250813204928-e8d011a6ff8f-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "eb8ddf0d01cbafe084b2898c73e6062af0bffe8d52160465c5a39caf3bcb4333",
+  "size": "6.0 MB",
+  "size_raw": "6258784",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
