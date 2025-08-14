@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "android-arm",
+  "pkg_family": "go-android-env",
+  "pkg_id": "android-arm#github.com_clarkguan_go_android_env",
+  "pkg_name": "android-arm",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/clarkguan/go-android-env",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Help to set up the Android NDK environment of golang",
+  "homepage": [
+    "https://github.com/clarkguan/go-android-env"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "android-386",
+    "android-amd64",
+    "android-arm",
+    "android-arm64",
+    "ios-arm64",
+    "iossimulator-amd64",
+    "iossimulator-arm64",
+    "pos"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/clarkguan/go-android-env/@v/v0.0.0-20250611023436-bc2944069853.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250611023436-bc2944069853",
+  "version_upstream": "",
+  "bsum": "2ab10ed71a580508e98a4f9f559506b780e8510bc0089025a760d6de6c859ad1",
+  "build_date": "2025-08-14T04:18:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16955507532",
+  "build_id": "16955507532",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clarkguan/go-android-env/android-arm?tag=v0.0.0-20250611023436-bc2944069853-riscv64-Linux&download=android-arm.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clarkguan/go-android-env/android-arm?tag=v0.0.0-20250611023436-bc2944069853-riscv64-Linux&download=android-arm",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/clarkguan/go-android-env/android-arm:v0.0.0-20250611023436-bc2944069853-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/clarkguan/go-android-env/android-arm",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/clarkguan/go-android-env/android-arm?tag=v0.0.0-20250611023436-bc2944069853-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6305e83c242a4705b487d8469d5ff28e0139f20eea63b7b270ab9b7c6aec5294",
+  "size": "2.0 MB",
+  "size_raw": "2074120",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
