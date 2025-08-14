@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "nodemarker",
+  "pkg_family": "openperouter",
+  "pkg_id": "nodemarker#github.com_openperouter_openperouter",
+  "pkg_name": "nodemarker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/openperouter/openperouter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "OpenPERouter (Provider Edge Router) meant to run on linux and to interact with the host through veths",
+  "homepage": [
+    "https://github.com/openperouter/openperouter"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "assign_ips",
+    "cp-tool",
+    "generate_kind_config",
+    "generate_leaf_config",
+    "hostcontroller",
+    "nodemarker",
+    "operator",
+    "reloader"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/openperouter/openperouter/@v/v0.0.0-20250801134128-33f8dda18a7d.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250801134128-33f8dda18a7d",
+  "version_upstream": "",
+  "bsum": "54acea42f9cbd576c134f8c57f44beb1ea1ba030a0d88401aa8d175d9412808f",
+  "build_date": "2025-08-14T07:13:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16957992748",
+  "build_id": "16957992748",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openperouter/openperouter/nodemarker?tag=v0.0.0-20250801134128-33f8dda18a7d-loongarch64-Linux&download=nodemarker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openperouter/openperouter/nodemarker?tag=v0.0.0-20250801134128-33f8dda18a7d-loongarch64-Linux&download=nodemarker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/openperouter/openperouter/nodemarker:v0.0.0-20250801134128-33f8dda18a7d-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/openperouter/openperouter/nodemarker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/openperouter/openperouter/nodemarker?tag=v0.0.0-20250801134128-33f8dda18a7d-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "02bf73a2a2cf88d378be7793c14f7b43d141de17cc9503038e57c960b7972bf5",
+  "size": "43 MB",
+  "size_raw": "44413664",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250703170524-347ee45a75f7-loongarch64-Linux",
+    "v0.0.0-20250704134729-723209f725bb-loongarch64-Linux",
+    "v0.0.0-20250719114546-a2ce1e1a7147-loongarch64-Linux",
+    "v0.0.0-20250725151628-07f2bf266837-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
