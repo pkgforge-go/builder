@@ -2480,6 +2480,7 @@ api#github.com_eckertalex_improved_fiesta
 api#github.com_google_flatbuffers_grpc_examples_go_greeter_server
 api#github.com_google_oss_rebuild
 api#github.com_helgelol_coffee_api
+api#github.com_itrs_group_cordial
 api#github.com_jphoke_tlsscanner
 api#github.com_kubearchive_kubearchive
 api#github.com_kubearchive_kubearchive.git
@@ -2518,6 +2519,7 @@ api-trace#github.com_FDio_govpp
 api-version-bumper#github.com_prometheus_prometheus_web_ui_mantine_ui_src_promql_tools
 api.acmcsuf.com#github.com_acmcsufoss_api.acmcsuf.com
 api2#github.com_ITRS_Group_cordial
+api2#github.com_itrs_group_cordial
 api_and_stream#github.com_nathants_libaws
 api_client#github.com_bhangun_iket
 api_comment_check#github.com_huaweicloud_terraform_provider_huaweicloud
@@ -3192,18 +3194,22 @@ aws-asg#github.com_hashicorp_nomad_autoscaler
 aws-auth#github.com_chainguard_dev_platform_examples_aws_auth
 aws-cloud-controller-manager#github.com_kubernetes_cloud_provider_aws
 aws-cloudfront-invalidation-lambda#github.com_bst27_aws_cloudfront_invalidation_lambda
+aws-cognito-credentials#github.com_etcd_io_etcd_v3
 aws-cognito-credentials#github.com_go_kratos_kratos_cmd_protoc_gen_go_errors_v2
 aws-costexplorer-export#github.com_kubernetes_k8s.io_infra_aws_aws_costexplorer_export
 aws-credentials-broker#github.com_flowcommerce_aws_credentials_broker
+aws-credentials-json-to-ini#github.com_etcd_io_etcd_v3
 aws-credentials-json-to-ini#github.com_go_kratos_kratos_cmd_protoc_gen_go_errors_v2
 aws-ebs-csi-driver#github.com_kubernetes_sigs_aws_ebs_csi_driver.git
 aws-ebs-csi-driver-operator#github.com_openshift_csi_operator
 aws-efs-csi-driver-operator#github.com_openshift_csi_operator
 aws-eks-asg-rolling-update-handler#github.com_TwiN_aws_eks_asg_rolling_update_handler
+aws-get-credentials#github.com_etcd_io_etcd_v3
 aws-get-credentials#github.com_go_kratos_kratos_cmd_protoc_gen_go_errors_v2
 aws-iam-authenticator#github.com_kubernetes_sigs_aws_iam_authenticator
 aws-iam-authenticator-sso-wrapper#github.com_justinas_b_aws_iam_authenticator_sso_wrapper
 aws-iam-roles-anywhere-sidecar-credential-helper#github.com_cerbyinc_aws_iam_roles_anywhere_sidecar_credential_helper
+aws-imds-credentials#github.com_etcd_io_etcd_v3
 aws-imds-credentials#github.com_go_kratos_kratos_cmd_protoc_gen_go_errors_v2
 aws-ipv4-cost-viewer#github.com_LeanerCloud_aws_ipv4_cost_viewer
 aws-k8s-agent#github.com_aws_amazon_vpc_cni_k8s
@@ -3212,6 +3218,7 @@ aws-lambda-router#github.com_wundergraph_cosmo_aws_lambda_router
 aws-load-balancer-controller#github.com_kubernetes_sigs_aws_load_balancer_controller
 aws-load-balancer-operator#github.com_openshift_aws_load_balancer_operator
 aws-main#github.com_iodasolutions_aws
+aws-mfa-session#github.com_etcd_io_etcd_v3
 aws-mfa-session#github.com_go_kratos_kratos_cmd_protoc_gen_go_errors_v2
 aws-network-policy-agent#github.com_aws_aws_network_policy_agent
 aws-pod-eip-controller#github.com_aws_samples_aws_pod_eip_controller
@@ -3224,11 +3231,14 @@ aws-s3-csi-driver#github.com_awslabs_mountpoint_s3_csi_driver
 aws-s3-csi-mounter#github.com_awslabs_mountpoint_s3_csi_driver
 aws-sam#github.com_ccbrown_gggtracker
 aws-secgen#github.com_Xe_x
+aws-set-env#github.com_etcd_io_etcd_v3
 aws-set-env#github.com_go_kratos_kratos_cmd_protoc_gen_go_errors_v2
+aws-sign-request#github.com_etcd_io_etcd_v3
 aws-sign-request#github.com_go_kratos_kratos_cmd_protoc_gen_go_errors_v2
 aws-simple-ec2-cli#github.com_awslabs_aws_simple_ec2_cli
 aws-spiffe-workload-helper#github.com_spiffe_aws_spiffe_workload_helper
 aws-spot-pricing#github.com_grafana_cloudcost_exporter
+aws-sts-session#github.com_etcd_io_etcd_v3
 aws-sts-session#github.com_go_kratos_kratos_cmd_protoc_gen_go_errors_v2
 aws-tag-external-hostedzone#github.com_mtulio_mtulio.labs_labs_aws_random_aws_tag_external_hostedzone
 aws-tpm-process-credential#github.com_salrashid123_aws_tpm_process_credential
@@ -5502,6 +5512,7 @@ cli_token_raw#github.com_grokify_go_ringcentral_client
 cli_webp2jpeg#github.com_grokify_mogo
 cliam#github.com_securisec_cliam
 cliauth#github.com_ITRS_Group_cordial
+cliauth#github.com_itrs_group_cordial
 clib#github.com_cry_inc_bdm
 clib#github.com_tutils_tnet
 click#github.com_go_rod_rod
@@ -5809,6 +5820,7 @@ cloudflarespeedtest#github.com_XIU2_CloudflareSpeedTest
 cloudflarewarpspeedtest#github.com_peanut996_CloudflareWarpSpeedTest
 cloudformation#github.com_elastic_cloudbeat
 cloudfox#github.com_BishopFox_cloudfox
+cloudfront-invalidate#github.com_etcd_io_etcd_v3
 cloudfunctions#github.com_GoogleCloudPlatform_buildpacks
 cloudip#github.com_psanford_cloudip
 cloudlens#github.com_one2nc_cloudlens
@@ -5834,6 +5846,10 @@ cloudtorrent#github.com_AmarnathCJD_CloudTorrent
 cloudtrail-cli#github.com_guessi_cloudtrail_cli
 cloudtrail-console-actions#github.com_Techcadia_cloudtrail_console_actions
 cloudtty#github.com_cloudtty_cloudtty
+cloudwatch-empty-streams#github.com_etcd_io_etcd_v3
+cloudwatch-log-group-streams#github.com_etcd_io_etcd_v3
+cloudwatch-log-groups#github.com_etcd_io_etcd_v3
+cloudwatch-log-stream-events#github.com_etcd_io_etcd_v3
 clouser#github.com_ashudevcodes_learning_golang
 clowder#github.com_RedHatInsights_clowder
 clox#github.com_mmcclimon_handy_tools
@@ -8714,6 +8730,7 @@ dockerhub_ratelimit_exporter#github.com_hairyhenderson_dockerhub_ratelimit_expor
 dockerize#github.com_jwilder_dockerize
 dockerize#github.com_powerman_dockerize
 dockerlogs#github.com_ITRS_Group_cordial
+dockerlogs#github.com_itrs_group_cordial
 dockerpush#github.com_filebot_plugins
 dockerpush#github.com_ovh_cds
 dockerregistry#github.com_openshift_image_registry
@@ -8743,6 +8760,7 @@ docs#github.com_getoutreach_stencil_docs
 docs#github.com_go_acme_lego
 docs#github.com_grafana_agent
 docs#github.com_grafana_alloy
+docs#github.com_itrs_group_cordial
 docs#github.com_kentik_custom_notification_templates
 docs#github.com_kubernetes_sigs_kubebuilder
 docs#github.com_lindell_multi_gitter
@@ -9050,6 +9068,7 @@ dustat#github.com_tompston_dustat
 duty#github.com_flanksource_duty
 dv#github.com_named_data_ndnd
 dv2email#github.com_ITRS_Group_cordial
+dv2email#github.com_itrs_group_cordial
 dw#github.com_pfarrell51_gows
 dwd#github.com_sj14_playground_dwd
 dyff#github.com_homeport_dyff
@@ -9071,6 +9090,7 @@ dynamic-untyped#github.com_go_swagger_go_swagger
 dynamic_path#github.com_mark3labs_mcp_go
 dynamichandler#github.com_fredrikaverpil_go_playground
 dynamodb#github.com_nathants_libaws
+dynamodb-list-tables#github.com_etcd_io_etcd_v3
 dynatrace-configuration-as-code#github.com_Dynatrace_dynatrace_configuration_as_code
 dynatrace-operator#github.com_Dynatrace_dynatrace_operator
 dyncmd-cfg#github.com_hedzr_cmdr_tests
@@ -9218,6 +9238,7 @@ ecr-cleanup#github.com_sersoft_gmbh_ecr_cleanup
 ecr-credential-provider#github.com_kubernetes_cloud_provider_aws
 ecs-deploy#github.com_transcom_mymove
 ecs-deploy#github.com_transcom_mymove.git
+ecs-launch-task#github.com_etcd_io_etcd_v3
 ecs-mcp#github.com_andrewkroh_go_examples_ecs_mcp
 ecs-task-discovery-agent#github.com_udhos_ecs_task_discovery
 ecs-task-discovery-example#github.com_udhos_ecs_task_discovery
@@ -10511,6 +10532,7 @@ files-info#github.com_Yamashou_gqlgenc
 files2#github.com_jonathantorres_bookshelf_gointro
 files209-cli#github.com_saenuma_files209
 files2dv#github.com_ITRS_Group_cordial
+files2dv#github.com_itrs_group_cordial
 files3#github.com_jonathantorres_bookshelf_gointro
 files_manipulation#github.com_thiagocprado_golang_expert
 files_merger#github.com_trofkm_files_merger
@@ -11227,6 +11249,7 @@ gateway-admision-controller#github.com_angelnu_gateway_admision_controller
 gateway-api#github.com_vmware_load_balancer_and_ingress_services_for_kubernetes
 gateway-operator-cmd#github.com_Kong_gateway_operator
 gateway-reporter#github.com_ITRS_Group_cordial
+gateway-reporter#github.com_itrs_group_cordial
 gatewayd#github.com_gatewayd_io_gatewayd
 gatewayd-plugin-cache#github.com_gatewayd_io_gatewayd_plugin_cache
 gatewayd-plugin-js#github.com_gatewayd_io_gatewayd_plugin_js
@@ -11336,6 +11359,7 @@ gdg#github.com_esnet_gdg
 gdg-generate#github.com_esnet_gdg
 gdn#github.com_cloudfoundry_guardian
 gdna#github.com_ITRS_Group_cordial
+gdna#github.com_itrs_group_cordial
 gdu#github.com_dundee_gdu
 gearman_top#github.com_ConSol_Monitoring_mod_gearman_worker_go
 geas#github.com_fjl_geas
@@ -11526,6 +11550,7 @@ gendocs#github.com_homeport_havener
 gendocs#github.com_kubeguard_guard
 gendocs#github.com_lucassabreu_clockify_cli
 geneos#github.com_ITRS_Group_cordial
+geneos#github.com_itrs_group_cordial
 generate#github.com_GoMudEngine_GoMud
 generate#github.com_PelicanPlatform_pelican
 generate#github.com_StackExchange_dnscontrol
@@ -16482,6 +16507,8 @@ lambda-build#github.com_googlecloudplatform_professional_services_tools_lambda_c
 lambda-builder#github.com_dokku_lambda_builder
 lambda-cmd#github.com_awsdocs_aws_doc_sdk_examples_gov2_lambda
 lambda-compat#github.com_googlecloudplatform_professional_services_tools_lambda_compat
+lambda-functionurl#github.com_etcd_io_etcd_v3
+lambda-invoke#github.com_etcd_io_etcd_v3
 lambda_app#github.com_cds_snc_secret
 lambda_trigger#github.com_hashicorp_homebrew_tap_util_lambda_trigger
 lambdabats#github.com_dolthub_lambdabats
@@ -16669,11 +16696,13 @@ lib#github.com_wbrown_gpt_bpe
 lib#github.com_xssnick_tonutils_proxy
 lib#github.com_ystyle_kaf_cli
 libalert#github.com_ITRS_Group_cordial
+libalert#github.com_itrs_group_cordial
 libaws#github.com_nathants_libaws
 libbpf-tag-gen#github.com_isovalent_ebpf_docs
 libc#github.com_ebitengine_purego
 libc#github.com_wa_lang_wa
 libemail#github.com_ITRS_Group_cordial
+libemail#github.com_itrs_group_cordial
 liberadebt#github.com_nomadicgopher_liberadebt
 liberator#github.com_nais_liberator
 libgoffi-build#github.com_noctarius_libgoffi
@@ -18041,6 +18070,7 @@ metrics#github.com_metallb_metallb
 metrics#github.com_mirhijinam_course_go_web_services
 metrics#github.com_oddbit_project_blueprint
 metrics#github.com_openshift_kata_operator
+metrics#github.com_openshift_sandboxed_containers_operator
 metrics-adapter#github.com_karmada_io_karmada
 metrics-bench#github.com_rcrowley_go_metrics
 metrics-collector#github.com_open_cluster_management_multicluster_monitoring_operator
@@ -18406,6 +18436,7 @@ mockery#github.com_vektra_mockery
 mockexporter#github.com_newrelic_nri_prometheus
 mockgen-fix#github.com_temporalio_api_go
 mockindexer#github.com_autobrr_autobrr
+mockkms#github.com_apple_foundationdb
 mockme#github.com_concerthall_mockme
 mockoidc#github.com_target_goalert
 mockoidc#github.com_weaviate_weaviate
@@ -20098,6 +20129,7 @@ pageflow#github.com_cadence_workflow_cadence_samples
 pager#github.com_dreamjz_bubbletea_notes
 pager-duty#github.com_sigstore_sigstore_probers_pager_duty
 pagerduty#github.com_ITRS_Group_cordial
+pagerduty#github.com_itrs_group_cordial
 pages#github.com_rivo_tview
 pages#github.com_seehuhn_go_pdf
 pagesize#github.com_dokku_dokku_plugins_nginx_vhosts
@@ -23329,6 +23361,7 @@ samples#github.com_seehuhn_go_pdf
 sampleserver#github.com_ldemailly_go_scratch
 sampleserver#github.com_open_telemetry_opentelemetry_collector_contrib_internal_aws_xray_testdata_sampleserver
 san-config#github.com_ITRS_Group_cordial
+san-config#github.com_itrs_group_cordial
 sandbox#github.com_aaccioly_coding_challenges_golang_tour_solutions
 sandbox#github.com_algorand_sandbox
 sandbox#github.com_elastic_go_seccomp_bpf
@@ -24186,7 +24219,9 @@ servicebindingcleanup#github.com_kyma_project_kyma_environment_broker
 serviceclient#github.com_bluenviron_goroslib
 serviceenablement#github.com_stackitcloud_stackit_sdk_go_examples_serviceenablement
 servicenow#github.com_ITRS_Group_cordial
+servicenow#github.com_itrs_group_cordial
 servicenow2#github.com_ITRS_Group_cordial
+servicenow2#github.com_itrs_group_cordial
 serviceprovider#github.com_bluenviron_goroslib
 services#github.com_kube_vip_kube_vip
 services_post_beef#github.com_4chain_ag_go_wallet_toolbox
@@ -25305,6 +25340,7 @@ ssm-shell#github.com_northwood_labs_ssm_shell
 ssmi#github.com_idoavrah_ssmi
 ssmwrap#github.com_handlename_ssmwrap
 sso-diag#github.com_ITRS_Group_cordial
+sso-diag#github.com_itrs_group_cordial
 ssp-operator#github.com_kubevirt_ssp_operator
 ssrv#github.com_VHSgunzo_ssrv
 sst-ctl#github.com_intel_goresctrl
