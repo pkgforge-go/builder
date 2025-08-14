@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cloudwatch-log-stream-events",
+  "pkg_family": "v3",
+  "pkg_id": "cloudwatch-log-stream-events#github.com_etcd_io_etcd_v3",
+  "pkg_name": "cloudwatch-log-stream-events",
+  "pkg_type": "static",
+  "pkg_webpage": "https://etcd.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+  "homepage": [
+    "https://etcd.io"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws-cognito-credentials",
+    "aws-credentials-json-to-ini",
+    "aws-get-credentials",
+    "aws-imds-credentials",
+    "aws-mfa-session",
+    "aws-set-env",
+    "aws-sign-request",
+    "aws-sts-session",
+    "cloudfront-invalidate",
+    "cloudwatch-empty-streams",
+    "cloudwatch-log-group-streams",
+    "cloudwatch-log-groups",
+    "cloudwatch-log-stream-events",
+    "dynamodb-list-tables",
+    "ecs-launch-task",
+    "lambda-functionurl",
+    "lambda-invoke"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/aaronland/go-aws/v3/@v/v3.0.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v3.5.22",
+  "version_upstream": "",
+  "bsum": "e413e6e4090058d6c5a776ff4392ac81b36900d300761b950f266dea1a08870f",
+  "build_date": "2025-08-14T15:52:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16969779151",
+  "build_id": "16969779151",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/etcd-io/etcd/v3/cloudwatch-log-stream-events?tag=v3.5.22-riscv64-Linux&download=cloudwatch-log-stream-events.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "49864",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/etcd-io/etcd/v3/cloudwatch-log-stream-events?tag=v3.5.22-riscv64-Linux&download=cloudwatch-log-stream-events",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/etcd-io/etcd/v3/cloudwatch-log-stream-events:v3.5.22-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/etcd-io/etcd/v3/cloudwatch-log-stream-events",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/etcd-io/etcd/v3/cloudwatch-log-stream-events?tag=v3.5.22-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b48cc115d3de724302b6551b7d0ef013918cad8b6561e7eda35fad5eaf8c24e6",
+  "size": "9.1 MB",
+  "size_raw": "9452312",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
