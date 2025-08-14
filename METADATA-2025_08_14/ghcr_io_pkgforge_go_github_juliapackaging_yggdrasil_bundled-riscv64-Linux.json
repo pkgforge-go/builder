@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "bundled",
+  "pkg_family": "yggdrasil",
+  "pkg_id": "bundled#github.com_juliapackaging_yggdrasil",
+  "pkg_name": "bundled",
+  "pkg_type": "static",
+  "pkg_webpage": "https://binarybuilder.org",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Collection of builder repositories for BinaryBuilder.jl",
+  "homepage": [
+    "https://binarybuilder.org"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bundled",
+    "float_abi",
+    "hello_world"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/juliapackaging/yggdrasil/@v/v0.0.0-20250811001154-b567809cddab.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250811001154-b567809cddab",
+  "version_upstream": "",
+  "bsum": "35ac91d8c691a3fdebe55364e0d2757bb32179effd86ebc0be3adb41cd4c102d",
+  "build_date": "2025-08-14T16:02:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16969780603",
+  "build_id": "16969780603",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/juliapackaging/yggdrasil/bundled?tag=v0.0.0-20250811001154-b567809cddab-riscv64-Linux&download=bundled.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "343",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/juliapackaging/yggdrasil/bundled?tag=v0.0.0-20250811001154-b567809cddab-riscv64-Linux&download=bundled",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/juliapackaging/yggdrasil/bundled:v0.0.0-20250811001154-b567809cddab-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/juliapackaging/yggdrasil/bundled",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/juliapackaging/yggdrasil/bundled?tag=v0.0.0-20250811001154-b567809cddab-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "77f2249f0112f71e7666a8e4694995d6954be2431ba66709bb0441260812857b",
+  "size": "4.0 MB",
+  "size_raw": "4114168",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250629224701-709de1757437-riscv64-Linux",
+    "v0.0.0-20250630185752-d272a6d6e390-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
