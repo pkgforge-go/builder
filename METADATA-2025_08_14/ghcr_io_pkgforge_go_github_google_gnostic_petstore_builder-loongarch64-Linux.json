@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "petstore-builder",
+  "pkg_family": "gnostic",
+  "pkg_id": "petstore-builder#github.com_google_gnostic",
+  "pkg_name": "petstore-builder",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/google/gnostic",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A compiler for APIs described by the OpenAPI Specification with plugins for code generation and other API support tasks",
+  "homepage": [
+    "https://github.com/google/gnostic"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "disco",
+    "format-schema",
+    "generate-gnostic",
+    "gnostic",
+    "gnostic-analyze",
+    "gnostic-complexity",
+    "gnostic-lint-descriptions",
+    "gnostic-lint-paths",
+    "gnostic-linter",
+    "gnostic-plugin-request",
+    "gnostic-process-plugin-response",
+    "gnostic-summary",
+    "gnostic-vocabulary",
+    "j2y2j",
+    "parse-linter-output",
+    "petstore-builder",
+    "protoc-gen-jsonschema",
+    "protoc-gen-openapi",
+    "report",
+    "report-messages",
+    "schema-generator",
+    "summarize",
+    "vocabulary-operations"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/google/gnostic/@v/v0.7.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.7.1",
+  "version_upstream": "",
+  "bsum": "be86151bc3314ef80185484cee097367a6543236ed666a3513906bbbd12f66bb",
+  "build_date": "2025-08-14T04:38:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16955519846",
+  "build_id": "16955519846",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/gnostic/petstore-builder?tag=v0.7.1-loongarch64-Linux&download=petstore-builder.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2213",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/gnostic/petstore-builder?tag=v0.7.1-loongarch64-Linux&download=petstore-builder",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/google/gnostic/petstore-builder:v0.7.1-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/google/gnostic/petstore-builder",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/gnostic/petstore-builder?tag=v0.7.1-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "edf38bb45aeaff59a682ed3ede00e8c2d22b381a0dc7ed9f527158418552ae67",
+  "size": "6.3 MB",
+  "size_raw": "6514624",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "report",
+  "pkg_family": "gnostic",
+  "pkg_id": "report#github.com_google_gnostic",
+  "pkg_name": "report",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/google/gnostic",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A compiler for APIs described by the OpenAPI Specification with plugins for code generation and other API support tasks",
+  "homepage": [
+    "https://github.com/google/gnostic"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "disco",
+    "format-schema",
+    "generate-gnostic",
+    "gnostic",
+    "gnostic-analyze",
+    "gnostic-complexity",
+    "gnostic-lint-descriptions",
+    "gnostic-lint-paths",
+    "gnostic-linter",
+    "gnostic-plugin-request",
+    "gnostic-process-plugin-response",
+    "gnostic-summary",
+    "gnostic-vocabulary",
+    "j2y2j",
+    "parse-linter-output",
+    "petstore-builder",
+    "protoc-gen-jsonschema",
+    "protoc-gen-openapi",
+    "report",
+    "report-messages",
+    "schema-generator",
+    "summarize",
+    "vocabulary-operations"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/google/gnostic/@v/v0.7.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.7.1",
+  "version_upstream": "",
+  "bsum": "13002148eaaa7c98e7bef7d38142d6e155036892523b5dd188e697356d8f6ad9",
+  "build_date": "2025-08-14T04:39:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16955519846",
+  "build_id": "16955519846",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/gnostic/report?tag=v0.7.1-loongarch64-Linux&download=report.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2213",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/gnostic/report?tag=v0.7.1-loongarch64-Linux&download=report",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/google/gnostic/report:v0.7.1-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/google/gnostic/report",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/gnostic/report?tag=v0.7.1-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a1c99bb26ea9d15cfd3cfc9e873842cbd188003a398409324f69b49060bec440",
+  "size": "6.0 MB",
+  "size_raw": "6288096",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
