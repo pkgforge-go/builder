@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "websocket",
+  "pkg_family": "libaws",
+  "pkg_id": "websocket#github.com_nathants_libaws",
+  "pkg_name": "websocket",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nathants/libaws",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Just ship on aws",
+  "homepage": [
+    "https://github.com/nathants/libaws"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api",
+    "api_and_stream",
+    "dynamodb",
+    "ecr",
+    "includes",
+    "libaws",
+    "s3",
+    "s3-ec2",
+    "schedule",
+    "sqs",
+    "websocket"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/nathants/libaws/@v/v0.0.0-20250813235547-1f43ad8ee6bf.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250813235547-1f43ad8ee6bf",
+  "version_upstream": "",
+  "bsum": "346ba569b94d427cd55972e8e577b72f6b7e2cd089a4127a58740abfd22be712",
+  "build_date": "2025-08-15T15:58:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16993440935",
+  "build_id": "16993440935",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nathants/libaws/websocket?tag=v0.0.0-20250813235547-1f43ad8ee6bf-aarch64-Linux&download=websocket.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "453",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nathants/libaws/websocket?tag=v0.0.0-20250813235547-1f43ad8ee6bf-aarch64-Linux&download=websocket",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nathants/libaws/websocket:v0.0.0-20250813235547-1f43ad8ee6bf-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nathants/libaws/websocket",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nathants/libaws/websocket?tag=v0.0.0-20250813235547-1f43ad8ee6bf-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8d2cf7209d1322c5de770e9fbc8c8ecc7e2de2720ea4d726a85b734908254b4c",
+  "size": "7.9 MB",
+  "size_raw": "8239552",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e7929d2-250618T200933-aarch64-Linux",
+    "HEAD-1cba51c-250626T112228-aarch64-Linux",
+    "HEAD-91f8a9e-250627T134643-aarch64-Linux",
+    "HEAD-2875b60-250627T203123-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
