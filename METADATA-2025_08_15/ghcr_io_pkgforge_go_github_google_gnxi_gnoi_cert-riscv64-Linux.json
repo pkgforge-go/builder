@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gnoi_cert",
+  "pkg_family": "gnxi",
+  "pkg_id": "gnoi_cert#github.com_google_gnxi",
+  "pkg_name": "gnoi_cert",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/google/gnxi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "GNXI Tools - gRPC Network Management/Operations Interface Tools",
+  "homepage": [
+    "https://github.com/google/gnxi"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gnmi_capabilities",
+    "gnmi_get",
+    "gnmi_set",
+    "gnmi_subscribe",
+    "gnmi_target",
+    "gnoi_cert",
+    "gnoi_mockos",
+    "gnoi_os",
+    "gnoi_reset",
+    "gnoi_target"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/google/gnxi/@v/v0.0.0-20250814212710-c9e3a4334bfc.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250814212710-c9e3a4334bfc",
+  "version_upstream": "",
+  "bsum": "58c653457be8ce4141bac00775e439342e82266fb415a17b8abde662e78d2f80",
+  "build_date": "2025-08-15T04:34:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16982655550",
+  "build_id": "16982655550",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/gnxi/gnoi_cert?tag=v0.0.0-20250814212710-c9e3a4334bfc-riscv64-Linux&download=gnoi_cert.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "278",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/gnxi/gnoi_cert?tag=v0.0.0-20250814212710-c9e3a4334bfc-riscv64-Linux&download=gnoi_cert",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/google/gnxi/gnoi_cert:v0.0.0-20250814212710-c9e3a4334bfc-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/google/gnxi/gnoi_cert",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/gnxi/gnoi_cert?tag=v0.0.0-20250814212710-c9e3a4334bfc-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "471f735c943f92590fbdb648c9cecd1ea84caa540cfaf2e372a201aaa415d98c",
+  "size": "12 MB",
+  "size_raw": "12078040",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
