@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "uuid-srv",
+  "pkg_family": "uuid-srv",
+  "pkg_id": "uuid-srv#github.com_tjcelaya_uuid_srv",
+  "pkg_name": "uuid-srv",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tjcelaya/uuid-srv",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Minimal server that generates UUIDs over HTTP. only for testing purposes. produces json or ndjson. bin: 7.2MB, img: 11.9MB",
+  "homepage": [
+    "https://github.com/tjcelaya/uuid-srv"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "uuid-srv"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/tjcelaya/uuid-srv/@v/v0.0.0-20250724171236-e14bcee463ea.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250724171236-e14bcee463ea",
+  "version_upstream": "",
+  "bsum": "459b9d71809b3263abf094053e807bd2a7335482cf1c13b2223f137aa00722fa",
+  "build_date": "2025-08-15T05:13:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16982873897",
+  "build_id": "16982873897",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tjcelaya/uuid-srv/uuid-srv?tag=v0.0.0-20250724171236-e14bcee463ea-loongarch64-Linux&download=uuid-srv.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tjcelaya/uuid-srv/uuid-srv?tag=v0.0.0-20250724171236-e14bcee463ea-loongarch64-Linux&download=uuid-srv",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tjcelaya/uuid-srv/uuid-srv:v0.0.0-20250724171236-e14bcee463ea-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tjcelaya/uuid-srv/uuid-srv",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tjcelaya/uuid-srv/uuid-srv?tag=v0.0.0-20250724171236-e14bcee463ea-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9a570842ba6996b75aee743e2565b14f76f6622068c94c0539a1cde26af59abc",
+  "size": "5.8 MB",
+  "size_raw": "5995296",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
