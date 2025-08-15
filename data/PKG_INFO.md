@@ -186,6 +186,7 @@
 - 🐹 **[sasl_scram_client](https://github.com/shopify/sarama)**: Sarama is a Go library for Apache Kafka.
 - 🐹 **[hydra-kratos-login-consent](https://www.ory.sh/?utm_source=github&utm_medium=banner&utm_campaign=kratos)**: Headless cloud-native authentication and identity management written in Go.
 - 🐹 **[exactly_once](https://github.com/ibm/sarama)**: Sarama is a Go library for Apache Kafka.
+- 🐹 **[gotraining](http://www.ArdanLabs.com)**: Go Training Class Material.
 - 🐹 **[interceptors](https://github.com/ibm/sarama)**: Sarama is a Go library for Apache Kafka.
 - 🐹 **[gotraining](http://www.ArdanLabs.com)**: Go Training Class Material.
 - 🐹 **[go-module-support](https://github.com/swaggo/swag)**: Automatically generate RESTful API documentation with Swagger 2.
