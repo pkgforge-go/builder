@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gnmi_capabilities",
+  "pkg_family": "gnxi",
+  "pkg_id": "gnmi_capabilities#github.com_google_gnxi",
+  "pkg_name": "gnmi_capabilities",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/google/gnxi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "GNXI Tools - gRPC Network Management/Operations Interface Tools",
+  "homepage": [
+    "https://github.com/google/gnxi"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gnmi_capabilities",
+    "gnmi_get",
+    "gnmi_set",
+    "gnmi_subscribe",
+    "gnmi_target",
+    "gnoi_cert",
+    "gnoi_mockos",
+    "gnoi_os",
+    "gnoi_reset",
+    "gnoi_target"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/google/gnxi/@v/v0.0.0-20250814212710-c9e3a4334bfc.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250814212710-c9e3a4334bfc",
+  "version_upstream": "",
+  "bsum": "bc652d9699081b1bb6bcfcfdb94d07c060a736b8f608f2146bbbdf1059a29c83",
+  "build_date": "2025-08-15T04:34:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16982655550",
+  "build_id": "16982655550",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/gnxi/gnmi_capabilities?tag=v0.0.0-20250814212710-c9e3a4334bfc-riscv64-Linux&download=gnmi_capabilities.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "278",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/gnxi/gnmi_capabilities?tag=v0.0.0-20250814212710-c9e3a4334bfc-riscv64-Linux&download=gnmi_capabilities",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/google/gnxi/gnmi_capabilities:v0.0.0-20250814212710-c9e3a4334bfc-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/google/gnxi/gnmi_capabilities",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/gnxi/gnmi_capabilities?tag=v0.0.0-20250814212710-c9e3a4334bfc-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d8bccef524ebf443b0c76a79d1f6d98c069fb3598de4771811e3b03dbfdfc61e",
+  "size": "12 MB",
+  "size_raw": "12009560",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
