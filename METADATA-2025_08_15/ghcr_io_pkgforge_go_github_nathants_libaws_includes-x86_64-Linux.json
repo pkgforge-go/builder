@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "includes",
+  "pkg_family": "libaws",
+  "pkg_id": "includes#github.com_nathants_libaws",
+  "pkg_name": "includes",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nathants/libaws",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Just ship on aws",
+  "homepage": [
+    "https://github.com/nathants/libaws"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api",
+    "api_and_stream",
+    "dynamodb",
+    "ecr",
+    "includes",
+    "libaws",
+    "s3",
+    "s3-ec2",
+    "schedule",
+    "sqs",
+    "websocket"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/nathants/libaws/@v/v0.0.0-20250813235547-1f43ad8ee6bf.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250813235547-1f43ad8ee6bf",
+  "version_upstream": "",
+  "bsum": "40bee77206ec5841e59a0d6e1ec993ee98630e2475a9f3590c89ebd6500682f4",
+  "build_date": "2025-08-15T15:57:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16993440935",
+  "build_id": "16993440935",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nathants/libaws/includes?tag=v0.0.0-20250813235547-1f43ad8ee6bf-x86_64-Linux&download=includes.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "453",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nathants/libaws/includes?tag=v0.0.0-20250813235547-1f43ad8ee6bf-x86_64-Linux&download=includes",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nathants/libaws/includes:v0.0.0-20250813235547-1f43ad8ee6bf-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nathants/libaws/includes",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nathants/libaws/includes?tag=v0.0.0-20250813235547-1f43ad8ee6bf-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9c0302ff204ee42f78525f1687b790a22809c595a99d69fa66287a915fbc8b1b",
+  "size": "11 MB",
+  "size_raw": "10607808",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e7929d2-250618T200933-x86_64-Linux",
+    "HEAD-1cba51c-250626T112228-x86_64-Linux",
+    "HEAD-91f8a9e-250627T134643-x86_64-Linux",
+    "HEAD-2875b60-250627T203123-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
