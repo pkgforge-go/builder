@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "analyzecoverage",
+  "pkg_family": "rdk",
+  "pkg_id": "analyzecoverage#github.com_viamrobotics_rdk",
+  "pkg_name": "analyzecoverage",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/viamrobotics/rdk",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Viam Server - Robotic Development Kit",
+  "homepage": [
+    "https://github.com/viamrobotics/rdk"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "analyzecoverage",
+    "analyzetests",
+    "cli_lint",
+    "client",
+    "cmd",
+    "depth_to_color",
+    "extrinsic_calibration",
+    "subsystem_manifest",
+    "test_detector"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/viamrobotics/rdk/@v/v0.88.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.88.0",
+  "version_upstream": "",
+  "bsum": "adc6c82a1398ea4813d5294fd23a75cab8cae3667fd3710a38aae6ae00e69716",
+  "build_date": "2025-08-15T02:46:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16981107294",
+  "build_id": "16981107294",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/viamrobotics/rdk/analyzecoverage?tag=v0.88.0-loongarch64-Linux&download=analyzecoverage.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "151",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/viamrobotics/rdk/analyzecoverage?tag=v0.88.0-loongarch64-Linux&download=analyzecoverage",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/viamrobotics/rdk/analyzecoverage:v0.88.0-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/viamrobotics/rdk/analyzecoverage",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/viamrobotics/rdk/analyzecoverage?tag=v0.88.0-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8f9cc5b3104358ebdd3002c341ad059c6bac1a4510dbd2b79da22d18e79a1fe1",
+  "size": "21 MB",
+  "size_raw": "21577552",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-8787a26-250624T171702-loongarch64-Linux",
+    "HEAD-1698657-250625T101312-loongarch64-Linux",
+    "HEAD-bd621cd-250625T141427-loongarch64-Linux",
+    "HEAD-27aaecc-250626T155618-loongarch64-Linux",
+    "HEAD-cba228d-250627T143142-loongarch64-Linux",
+    "v0.88.0-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}

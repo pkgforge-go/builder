@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "analyzetests",
+  "pkg_family": "rdk",
+  "pkg_id": "analyzetests#github.com_viamrobotics_rdk",
+  "pkg_name": "analyzetests",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/viamrobotics/rdk",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Viam Server - Robotic Development Kit",
+  "homepage": [
+    "https://github.com/viamrobotics/rdk"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "analyzecoverage",
+    "analyzetests",
+    "cli_lint",
+    "client",
+    "cmd",
+    "depth_to_color",
+    "extrinsic_calibration",
+    "subsystem_manifest",
+    "test_detector"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/viamrobotics/rdk/@v/v0.88.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.88.0",
+  "version_upstream": "",
+  "bsum": "b9ca209484144cc2cae237cc1a088534977a47f0355f7ee779d78c934e04339a",
+  "build_date": "2025-08-15T02:46:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16981107294",
+  "build_id": "16981107294",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/viamrobotics/rdk/analyzetests?tag=v0.88.0-loongarch64-Linux&download=analyzetests.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "151",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/viamrobotics/rdk/analyzetests?tag=v0.88.0-loongarch64-Linux&download=analyzetests",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/viamrobotics/rdk/analyzetests:v0.88.0-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/viamrobotics/rdk/analyzetests",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/viamrobotics/rdk/analyzetests?tag=v0.88.0-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "80132b3c68c08bce0c1c682cd0a97f25365fbc3ffe1d2b855f7a5a1df3ca6feb",
+  "size": "21 MB",
+  "size_raw": "21047664",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-8787a26-250624T171702-loongarch64-Linux",
+    "HEAD-1698657-250625T101312-loongarch64-Linux",
+    "HEAD-bd621cd-250625T141427-loongarch64-Linux",
+    "HEAD-27aaecc-250626T155618-loongarch64-Linux",
+    "HEAD-cba228d-250627T143142-loongarch64-Linux",
+    "v0.88.0-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
