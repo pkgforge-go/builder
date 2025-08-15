@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "schedule",
+  "pkg_family": "libaws",
+  "pkg_id": "schedule#github.com_nathants_libaws",
+  "pkg_name": "schedule",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nathants/libaws",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Just ship on aws",
+  "homepage": [
+    "https://github.com/nathants/libaws"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api",
+    "api_and_stream",
+    "dynamodb",
+    "ecr",
+    "includes",
+    "libaws",
+    "s3",
+    "s3-ec2",
+    "schedule",
+    "sqs",
+    "websocket"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/nathants/libaws/@v/v0.0.0-20250813235547-1f43ad8ee6bf.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250813235547-1f43ad8ee6bf",
+  "version_upstream": "",
+  "bsum": "d6aa47bccd0f0ce743b3a08bd5918d3bdf1a39ae91d2455b87e7a499c93016b8",
+  "build_date": "2025-08-15T15:58:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16993440935",
+  "build_id": "16993440935",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nathants/libaws/schedule?tag=v0.0.0-20250813235547-1f43ad8ee6bf-loongarch64-Linux&download=schedule.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "453",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nathants/libaws/schedule?tag=v0.0.0-20250813235547-1f43ad8ee6bf-loongarch64-Linux&download=schedule",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nathants/libaws/schedule:v0.0.0-20250813235547-1f43ad8ee6bf-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nathants/libaws/schedule",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nathants/libaws/schedule?tag=v0.0.0-20250813235547-1f43ad8ee6bf-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c29e019774a2b6bbd84c94f98523bbb7543fe967e526eee9773d849a823c11e6",
+  "size": "8.2 MB",
+  "size_raw": "8494912",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e7929d2-250618T200933-loongarch64-Linux",
+    "HEAD-1cba51c-250626T112228-loongarch64-Linux",
+    "HEAD-91f8a9e-250627T134643-loongarch64-Linux",
+    "HEAD-2875b60-250627T203123-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}

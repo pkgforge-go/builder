@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ecr",
+  "pkg_family": "libaws",
+  "pkg_id": "ecr#github.com_nathants_libaws",
+  "pkg_name": "ecr",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nathants/libaws",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Just ship on aws",
+  "homepage": [
+    "https://github.com/nathants/libaws"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "api",
+    "api_and_stream",
+    "dynamodb",
+    "ecr",
+    "includes",
+    "libaws",
+    "s3",
+    "s3-ec2",
+    "schedule",
+    "sqs",
+    "websocket"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/nathants/libaws/@v/v0.0.0-20250813235547-1f43ad8ee6bf.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250813235547-1f43ad8ee6bf",
+  "version_upstream": "",
+  "bsum": "3920d43060f8f581c5bacb21dc1c00ea31d91f0712e7357a2c55b2299d5a2945",
+  "build_date": "2025-08-15T15:58:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16993440935",
+  "build_id": "16993440935",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nathants/libaws/ecr?tag=v0.0.0-20250813235547-1f43ad8ee6bf-loongarch64-Linux&download=ecr.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "453",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nathants/libaws/ecr?tag=v0.0.0-20250813235547-1f43ad8ee6bf-loongarch64-Linux&download=ecr",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nathants/libaws/ecr:v0.0.0-20250813235547-1f43ad8ee6bf-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nathants/libaws/ecr",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nathants/libaws/ecr?tag=v0.0.0-20250813235547-1f43ad8ee6bf-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "46b23b1d1a16f348492cf06ec27c03474dce7a94e00db53f0ba008505f1835a9",
+  "size": "9.7 MB",
+  "size_raw": "10154848",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-e7929d2-250618T200933-loongarch64-Linux",
+    "HEAD-1cba51c-250626T112228-loongarch64-Linux",
+    "HEAD-91f8a9e-250627T134643-loongarch64-Linux",
+    "HEAD-2875b60-250627T203123-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
