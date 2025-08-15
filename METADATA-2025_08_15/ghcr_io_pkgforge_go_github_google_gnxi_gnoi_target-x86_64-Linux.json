@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "gnoi_target",
+  "pkg_family": "gnxi",
+  "pkg_id": "gnoi_target#github.com_google_gnxi",
+  "pkg_name": "gnoi_target",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/google/gnxi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "GNXI Tools - gRPC Network Management/Operations Interface Tools",
+  "homepage": [
+    "https://github.com/google/gnxi"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gnmi_capabilities",
+    "gnmi_get",
+    "gnmi_set",
+    "gnmi_subscribe",
+    "gnmi_target",
+    "gnoi_cert",
+    "gnoi_mockos",
+    "gnoi_os",
+    "gnoi_reset",
+    "gnoi_target"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/google/gnxi/@v/v0.0.0-20250814212710-c9e3a4334bfc.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250814212710-c9e3a4334bfc",
+  "version_upstream": "",
+  "bsum": "1121ff8d90f7480f599751613ca3622a3e7061d3a7c2b4bae37d82c8c3748ea2",
+  "build_date": "2025-08-15T04:36:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16982655550",
+  "build_id": "16982655550",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/gnxi/gnoi_target?tag=v0.0.0-20250814212710-c9e3a4334bfc-x86_64-Linux&download=gnoi_target.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "278",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/gnxi/gnoi_target?tag=v0.0.0-20250814212710-c9e3a4334bfc-x86_64-Linux&download=gnoi_target",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/google/gnxi/gnoi_target:v0.0.0-20250814212710-c9e3a4334bfc-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/google/gnxi/gnoi_target",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/gnxi/gnoi_target?tag=v0.0.0-20250814212710-c9e3a4334bfc-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a5663bf3ca9dd382a308ca3596e2019525c28eeab54ef1b5b47b29e8becb3111",
+  "size": "13 MB",
+  "size_raw": "13043584",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
