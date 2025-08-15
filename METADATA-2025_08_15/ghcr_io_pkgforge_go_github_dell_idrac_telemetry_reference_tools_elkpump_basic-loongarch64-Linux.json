@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "elkpump-basic",
+  "pkg_family": "idrac-telemetry-reference-tools",
+  "pkg_id": "elkpump-basic#github.com_dell_idrac_telemetry_reference_tools",
+  "pkg_name": "elkpump-basic",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dell/iDRAC-Telemetry-Reference-Tools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Reference toolset for PowerEdge telemetry metric collection and integration with analytics and visualization solutions",
+  "homepage": [
+    "https://github.com/dell/iDRAC-Telemetry-Reference-Tools"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "configui",
+    "dbdiscauth",
+    "elasticsearch",
+    "elkpump",
+    "elkpump-basic",
+    "influxpump",
+    "kafkapump",
+    "prometheuspump",
+    "redfishread",
+    "simpleauth",
+    "simpledisc",
+    "source-simulator",
+    "splunkpump",
+    "timescalepump"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/dell/idrac-telemetry-reference-tools/@v/v0.0.0-20250714190443-9a1c72b8ce71.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250714190443-9a1c72b8ce71",
+  "version_upstream": "",
+  "bsum": "610f4a2820c60d73edecc4eca7b713b2c74a2e7208628c958ad73c847454802a",
+  "build_date": "2025-08-15T15:39:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16993438069",
+  "build_id": "16993438069",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dell/idrac-telemetry-reference-tools/elkpump-basic?tag=v0.0.0-20250714190443-9a1c72b8ce71-loongarch64-Linux&download=elkpump-basic.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "34",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dell/idrac-telemetry-reference-tools/elkpump-basic?tag=v0.0.0-20250714190443-9a1c72b8ce71-loongarch64-Linux&download=elkpump-basic",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dell/idrac-telemetry-reference-tools/elkpump-basic:v0.0.0-20250714190443-9a1c72b8ce71-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dell/idrac-telemetry-reference-tools/elkpump-basic",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dell/idrac-telemetry-reference-tools/elkpump-basic?tag=v0.0.0-20250714190443-9a1c72b8ce71-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5d9754fb605c9ea454a32d7c8cf1225e291ab27df246cdac435e34d9053e6c3d",
+  "size": "9.4 MB",
+  "size_raw": "9817216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
