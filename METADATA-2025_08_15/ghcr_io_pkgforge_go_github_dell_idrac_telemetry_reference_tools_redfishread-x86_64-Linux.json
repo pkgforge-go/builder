@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "redfishread",
+  "pkg_family": "idrac-telemetry-reference-tools",
+  "pkg_id": "redfishread#github.com_dell_idrac_telemetry_reference_tools",
+  "pkg_name": "redfishread",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dell/iDRAC-Telemetry-Reference-Tools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Reference toolset for PowerEdge telemetry metric collection and integration with analytics and visualization solutions",
+  "homepage": [
+    "https://github.com/dell/iDRAC-Telemetry-Reference-Tools"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "configui",
+    "dbdiscauth",
+    "elasticsearch",
+    "elkpump",
+    "elkpump-basic",
+    "influxpump",
+    "kafkapump",
+    "prometheuspump",
+    "redfishread",
+    "simpleauth",
+    "simpledisc",
+    "source-simulator",
+    "splunkpump",
+    "timescalepump"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/dell/idrac-telemetry-reference-tools/@v/v0.0.0-20250714190443-9a1c72b8ce71.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250714190443-9a1c72b8ce71",
+  "version_upstream": "",
+  "bsum": "2a28bc6eeda397557cdafa17b74390bbe6d55719d333c2f62ef74930f682a15d",
+  "build_date": "2025-08-15T15:40:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16993438069",
+  "build_id": "16993438069",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dell/idrac-telemetry-reference-tools/redfishread?tag=v0.0.0-20250714190443-9a1c72b8ce71-x86_64-Linux&download=redfishread.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "34",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dell/idrac-telemetry-reference-tools/redfishread?tag=v0.0.0-20250714190443-9a1c72b8ce71-x86_64-Linux&download=redfishread",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dell/idrac-telemetry-reference-tools/redfishread:v0.0.0-20250714190443-9a1c72b8ce71-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dell/idrac-telemetry-reference-tools/redfishread",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dell/idrac-telemetry-reference-tools/redfishread?tag=v0.0.0-20250714190443-9a1c72b8ce71-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "617d445faa810a5400c4f6113c105c836fba2ca774cf902702d544dd5939b7f4",
+  "size": "6.8 MB",
+  "size_raw": "7042400",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

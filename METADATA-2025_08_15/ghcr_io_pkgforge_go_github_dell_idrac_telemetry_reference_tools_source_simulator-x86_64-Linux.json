@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "source-simulator",
+  "pkg_family": "idrac-telemetry-reference-tools",
+  "pkg_id": "source-simulator#github.com_dell_idrac_telemetry_reference_tools",
+  "pkg_name": "source-simulator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dell/iDRAC-Telemetry-Reference-Tools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Reference toolset for PowerEdge telemetry metric collection and integration with analytics and visualization solutions",
+  "homepage": [
+    "https://github.com/dell/iDRAC-Telemetry-Reference-Tools"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "configui",
+    "dbdiscauth",
+    "elasticsearch",
+    "elkpump",
+    "elkpump-basic",
+    "influxpump",
+    "kafkapump",
+    "prometheuspump",
+    "redfishread",
+    "simpleauth",
+    "simpledisc",
+    "source-simulator",
+    "splunkpump",
+    "timescalepump"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/dell/idrac-telemetry-reference-tools/@v/v0.0.0-20250714190443-9a1c72b8ce71.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250714190443-9a1c72b8ce71",
+  "version_upstream": "",
+  "bsum": "4bbec572d4eee4a869a5205f51cbae695862ee97ef91d3c06292e9a81b9a18e9",
+  "build_date": "2025-08-15T15:41:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16993438069",
+  "build_id": "16993438069",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dell/idrac-telemetry-reference-tools/source-simulator?tag=v0.0.0-20250714190443-9a1c72b8ce71-x86_64-Linux&download=source-simulator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "34",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dell/idrac-telemetry-reference-tools/source-simulator?tag=v0.0.0-20250714190443-9a1c72b8ce71-x86_64-Linux&download=source-simulator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dell/idrac-telemetry-reference-tools/source-simulator:v0.0.0-20250714190443-9a1c72b8ce71-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dell/idrac-telemetry-reference-tools/source-simulator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dell/idrac-telemetry-reference-tools/source-simulator?tag=v0.0.0-20250714190443-9a1c72b8ce71-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "80c823c0b50d8fff1b09d0217b1c72c29465e1563deab0340a13c9983e343094",
+  "size": "8.0 MB",
+  "size_raw": "8319168",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "timescalepump",
+  "pkg_family": "idrac-telemetry-reference-tools",
+  "pkg_id": "timescalepump#github.com_dell_idrac_telemetry_reference_tools",
+  "pkg_name": "timescalepump",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dell/iDRAC-Telemetry-Reference-Tools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Reference toolset for PowerEdge telemetry metric collection and integration with analytics and visualization solutions",
+  "homepage": [
+    "https://github.com/dell/iDRAC-Telemetry-Reference-Tools"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "configui",
+    "dbdiscauth",
+    "elasticsearch",
+    "elkpump",
+    "elkpump-basic",
+    "influxpump",
+    "kafkapump",
+    "prometheuspump",
+    "redfishread",
+    "simpleauth",
+    "simpledisc",
+    "source-simulator",
+    "splunkpump",
+    "timescalepump"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/dell/idrac-telemetry-reference-tools/@v/v0.0.0-20250714190443-9a1c72b8ce71.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250714190443-9a1c72b8ce71",
+  "version_upstream": "",
+  "bsum": "89e092606571281b3986b0b94410a81a587866e30f37711e544b8bdacc133e1c",
+  "build_date": "2025-08-15T15:42:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16993438069",
+  "build_id": "16993438069",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dell/idrac-telemetry-reference-tools/timescalepump?tag=v0.0.0-20250714190443-9a1c72b8ce71-x86_64-Linux&download=timescalepump.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "34",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dell/idrac-telemetry-reference-tools/timescalepump?tag=v0.0.0-20250714190443-9a1c72b8ce71-x86_64-Linux&download=timescalepump",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dell/idrac-telemetry-reference-tools/timescalepump:v0.0.0-20250714190443-9a1c72b8ce71-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dell/idrac-telemetry-reference-tools/timescalepump",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dell/idrac-telemetry-reference-tools/timescalepump?tag=v0.0.0-20250714190443-9a1c72b8ce71-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "343c8724a8f4f426b07d6b924972f83c443c342c8eaab4ba12fc623bdd95a1c0",
+  "size": "8.5 MB",
+  "size_raw": "8868320",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

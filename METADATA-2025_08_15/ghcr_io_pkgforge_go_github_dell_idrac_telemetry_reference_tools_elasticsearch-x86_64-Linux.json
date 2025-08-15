@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "elasticsearch",
+  "pkg_family": "idrac-telemetry-reference-tools",
+  "pkg_id": "elasticsearch#github.com_dell_idrac_telemetry_reference_tools",
+  "pkg_name": "elasticsearch",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dell/iDRAC-Telemetry-Reference-Tools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Reference toolset for PowerEdge telemetry metric collection and integration with analytics and visualization solutions",
+  "homepage": [
+    "https://github.com/dell/iDRAC-Telemetry-Reference-Tools"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "configui",
+    "dbdiscauth",
+    "elasticsearch",
+    "elkpump",
+    "elkpump-basic",
+    "influxpump",
+    "kafkapump",
+    "prometheuspump",
+    "redfishread",
+    "simpleauth",
+    "simpledisc",
+    "source-simulator",
+    "splunkpump",
+    "timescalepump"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/dell/idrac-telemetry-reference-tools/@v/v0.0.0-20250714190443-9a1c72b8ce71.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250714190443-9a1c72b8ce71",
+  "version_upstream": "",
+  "bsum": "6e9468310baeb29f3c43530e4896740b85982bb99da418e21988d178b0359463",
+  "build_date": "2025-08-15T15:42:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16993438069",
+  "build_id": "16993438069",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dell/idrac-telemetry-reference-tools/elasticsearch?tag=v0.0.0-20250714190443-9a1c72b8ce71-x86_64-Linux&download=elasticsearch.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "34",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dell/idrac-telemetry-reference-tools/elasticsearch?tag=v0.0.0-20250714190443-9a1c72b8ce71-x86_64-Linux&download=elasticsearch",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dell/idrac-telemetry-reference-tools/elasticsearch:v0.0.0-20250714190443-9a1c72b8ce71-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dell/idrac-telemetry-reference-tools/elasticsearch",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dell/idrac-telemetry-reference-tools/elasticsearch?tag=v0.0.0-20250714190443-9a1c72b8ce71-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9b3d7c4b87179d501bdecc86d4adf8e48b1699deb6d1983d5183e97bf702a65b",
+  "size": "9.3 MB",
+  "size_raw": "9712800",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
