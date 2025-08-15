@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "gnoi_reset",
+  "pkg_family": "gnxi",
+  "pkg_id": "gnoi_reset#github.com_google_gnxi",
+  "pkg_name": "gnoi_reset",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/google/gnxi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "GNXI Tools - gRPC Network Management/Operations Interface Tools",
+  "homepage": [
+    "https://github.com/google/gnxi"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gnmi_capabilities",
+    "gnmi_get",
+    "gnmi_set",
+    "gnmi_subscribe",
+    "gnmi_target",
+    "gnoi_cert",
+    "gnoi_mockos",
+    "gnoi_os",
+    "gnoi_reset",
+    "gnoi_target"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/google/gnxi/@v/v0.0.0-20250814212710-c9e3a4334bfc.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250814212710-c9e3a4334bfc",
+  "version_upstream": "",
+  "bsum": "d2c187e676f5bdce31a8891cbc960ee2e84f2974942af5a33e6395602fad102d",
+  "build_date": "2025-08-15T04:35:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16982655550",
+  "build_id": "16982655550",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/gnxi/gnoi_reset?tag=v0.0.0-20250814212710-c9e3a4334bfc-x86_64-Linux&download=gnoi_reset.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "278",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/gnxi/gnoi_reset?tag=v0.0.0-20250814212710-c9e3a4334bfc-x86_64-Linux&download=gnoi_reset",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/google/gnxi/gnoi_reset:v0.0.0-20250814212710-c9e3a4334bfc-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/google/gnxi/gnoi_reset",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/gnxi/gnoi_reset?tag=v0.0.0-20250814212710-c9e3a4334bfc-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0d08970b9215ac4a69645b274e90a829ab0a715b8f2eb6ef9689f15b6811a413",
+  "size": "12 MB",
+  "size_raw": "12413696",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
