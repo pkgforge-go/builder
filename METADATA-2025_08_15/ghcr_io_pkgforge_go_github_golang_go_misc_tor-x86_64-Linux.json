@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "tor",
+  "pkg_family": "misc",
+  "pkg_id": "tor#github.com_golang_go_misc",
+  "pkg_name": "tor",
+  "pkg_type": "static",
+  "pkg_webpage": "https://go.dev",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Go programming language",
+  "homepage": [
+    "https://go.dev"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "dns",
+    "forward",
+    "server",
+    "tor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/stalkr/misc/@v/v0.0.0-20250723133800-3ae0eaab8a6b.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250813225733-ca66f907dd44",
+  "version_upstream": "",
+  "bsum": "9e95c892fef96d08373b4343f706464713a61e3b3608ac4cd9d82ea28c93b3c0",
+  "build_date": "2025-08-15T05:16:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16982855249",
+  "build_id": "16982855249",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/go/misc/tor?tag=v0.0.0-20250813225733-ca66f907dd44-x86_64-Linux&download=tor.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "129298",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/go/misc/tor?tag=v0.0.0-20250813225733-ca66f907dd44-x86_64-Linux&download=tor",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/golang/go/misc/tor:v0.0.0-20250813225733-ca66f907dd44-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/golang/go/misc/tor",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/go/misc/tor?tag=v0.0.0-20250813225733-ca66f907dd44-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8149f54042499d2252d7c2f066a0b1f5127a581351a9b7be932d1320e9c687b6",
+  "size": "6.6 MB",
+  "size_raw": "6824128",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
