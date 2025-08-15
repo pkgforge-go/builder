@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "forward",
+  "pkg_family": "misc",
+  "pkg_id": "forward#github.com_golang_go_misc",
+  "pkg_name": "forward",
+  "pkg_type": "static",
+  "pkg_webpage": "https://go.dev",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The Go programming language",
+  "homepage": [
+    "https://go.dev"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "dns",
+    "forward",
+    "server",
+    "tor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/stalkr/misc/@v/v0.0.0-20250723133800-3ae0eaab8a6b.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250813225733-ca66f907dd44",
+  "version_upstream": "",
+  "bsum": "d6963d6ba72d8f188e0a6370ecbb69662cb02c6693a1b1a0d68d9514e09169e2",
+  "build_date": "2025-08-15T05:13:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/16982855249",
+  "build_id": "16982855249",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/go/misc/forward?tag=v0.0.0-20250813225733-ca66f907dd44-riscv64-Linux&download=forward.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "129298",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/go/misc/forward?tag=v0.0.0-20250813225733-ca66f907dd44-riscv64-Linux&download=forward",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/golang/go/misc/forward:v0.0.0-20250813225733-ca66f907dd44-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/golang/go/misc/forward",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/golang/go/misc/forward?tag=v0.0.0-20250813225733-ca66f907dd44-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1e2f25233105b67be76c72c2c15d0b7bb709f9f0af817e81ec76fe2236131344",
+  "size": "2.4 MB",
+  "size_raw": "2493896",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
