@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "elfcore",
+  "pkg_family": "hwmisc",
+  "pkg_id": "elfcore#github.com_lprylli_hwmisc",
+  "pkg_name": "elfcore",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lprylli/hwmisc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tinkering tool for aspeed bmc devel and low-level host manips",
+  "homepage": [
+    "https://github.com/lprylli/hwmisc"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ast",
+    "asti2c",
+    "elfcore",
+    "fru",
+    "hwinfo",
+    "kpoke",
+    "lmesg",
+    "pcimon"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/lprylli/hwmisc/@v/v1.0.6.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.6",
+  "version_upstream": "",
+  "bsum": "e91a59b430666502620159eb0a09069b224c31de2b728bc8f8fed0ba3dbe17b9",
+  "build_date": "2025-08-16T04:39:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17004048849",
+  "build_id": "17004048849",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lprylli/hwmisc/elfcore?tag=v1.0.6-x86_64-Linux&download=elfcore.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lprylli/hwmisc/elfcore?tag=v1.0.6-x86_64-Linux&download=elfcore",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lprylli/hwmisc/elfcore:v1.0.6-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lprylli/hwmisc/elfcore",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lprylli/hwmisc/elfcore?tag=v1.0.6-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6210ec38cb482bbc18c437a283ac908e712bad7b4560769a8809797cc7604925",
+  "size": "2.0 MB",
+  "size_raw": "1997624",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

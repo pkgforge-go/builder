@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "pcimon",
+  "pkg_family": "hwmisc",
+  "pkg_id": "pcimon#github.com_lprylli_hwmisc",
+  "pkg_name": "pcimon",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lprylli/hwmisc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tinkering tool for aspeed bmc devel and low-level host manips",
+  "homepage": [
+    "https://github.com/lprylli/hwmisc"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ast",
+    "asti2c",
+    "elfcore",
+    "fru",
+    "hwinfo",
+    "kpoke",
+    "lmesg",
+    "pcimon"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/lprylli/hwmisc/@v/v1.0.6.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.6",
+  "version_upstream": "",
+  "bsum": "ab2183820bfdc62d85000e2419ad23df67faa8e1582e107a80bfa8eba8b1679c",
+  "build_date": "2025-08-16T04:38:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17004048849",
+  "build_id": "17004048849",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lprylli/hwmisc/pcimon?tag=v1.0.6-x86_64-Linux&download=pcimon.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lprylli/hwmisc/pcimon?tag=v1.0.6-x86_64-Linux&download=pcimon",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lprylli/hwmisc/pcimon:v1.0.6-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lprylli/hwmisc/pcimon",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lprylli/hwmisc/pcimon?tag=v1.0.6-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d4a36bc1b5c28c21e0f258056b4f5a48aadf5a9b7f1c106dba44dfede75d486a",
+  "size": "2.3 MB",
+  "size_raw": "2361688",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
