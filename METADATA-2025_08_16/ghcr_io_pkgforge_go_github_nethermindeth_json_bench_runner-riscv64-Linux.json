@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "runner",
+  "pkg_family": "json-bench",
+  "pkg_id": "runner#github.com_nethermindeth_json_bench",
+  "pkg_name": "runner",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nethermindeth/json-bench",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Etheruem JSON-RPC benchmarking suite",
+  "homepage": [
+    "https://github.com/nethermindeth/json-bench"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "compare-config",
+    "debug-client-metrics",
+    "debug-p99",
+    "debug-parser",
+    "debug-run",
+    "json-bench-web",
+    "runner",
+    "test-save"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/nethermindeth/json-bench/@v/v0.0.0-20250722170313-c26d068dae69.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250722170313-c26d068dae69",
+  "version_upstream": "",
+  "bsum": "80a0700226a3d1d8e9ef4331629995e0b0a8c8009a17283489efb8faaf77361a",
+  "build_date": "2025-08-16T04:48:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17004077467",
+  "build_id": "17004077467",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nethermindeth/json-bench/runner?tag=v0.0.0-20250722170313-c26d068dae69-riscv64-Linux&download=runner.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nethermindeth/json-bench/runner?tag=v0.0.0-20250722170313-c26d068dae69-riscv64-Linux&download=runner",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nethermindeth/json-bench/runner:v0.0.0-20250722170313-c26d068dae69-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nethermindeth/json-bench/runner",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nethermindeth/json-bench/runner?tag=v0.0.0-20250722170313-c26d068dae69-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "21a8c61fe13606cecf9bc2a2b4364ffe50ce97c05dc8cca8587aa5a4a8d62c10",
+  "size": "12 MB",
+  "size_raw": "11676792",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
