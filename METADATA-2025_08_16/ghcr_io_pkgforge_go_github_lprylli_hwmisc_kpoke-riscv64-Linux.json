@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "kpoke",
+  "pkg_family": "hwmisc",
+  "pkg_id": "kpoke#github.com_lprylli_hwmisc",
+  "pkg_name": "kpoke",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lprylli/hwmisc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tinkering tool for aspeed bmc devel and low-level host manips",
+  "homepage": [
+    "https://github.com/lprylli/hwmisc"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ast",
+    "asti2c",
+    "elfcore",
+    "fru",
+    "hwinfo",
+    "kpoke",
+    "lmesg",
+    "pcimon"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/lprylli/hwmisc/@v/v1.0.6.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.6",
+  "version_upstream": "",
+  "bsum": "3536157daecd00e4e29e7203b3a44832dd72658946ba00aa155284d79500fa96",
+  "build_date": "2025-08-16T04:42:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17004048849",
+  "build_id": "17004048849",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lprylli/hwmisc/kpoke?tag=v1.0.6-riscv64-Linux&download=kpoke.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lprylli/hwmisc/kpoke?tag=v1.0.6-riscv64-Linux&download=kpoke",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lprylli/hwmisc/kpoke:v1.0.6-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lprylli/hwmisc/kpoke",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lprylli/hwmisc/kpoke?tag=v1.0.6-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "09de9ae70c768e830a7235adee554853febba9c075235ed89222cdf2712f6abe",
+  "size": "2.3 MB",
+  "size_raw": "2323944",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
