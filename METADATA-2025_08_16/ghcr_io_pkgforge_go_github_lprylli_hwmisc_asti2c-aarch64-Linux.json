@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "asti2c",
+  "pkg_family": "hwmisc",
+  "pkg_id": "asti2c#github.com_lprylli_hwmisc",
+  "pkg_name": "asti2c",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lprylli/hwmisc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tinkering tool for aspeed bmc devel and low-level host manips",
+  "homepage": [
+    "https://github.com/lprylli/hwmisc"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ast",
+    "asti2c",
+    "elfcore",
+    "fru",
+    "hwinfo",
+    "kpoke",
+    "lmesg",
+    "pcimon"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/lprylli/hwmisc/@v/v1.0.6.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.6",
+  "version_upstream": "",
+  "bsum": "e20b953b9b17606a2007f50440aac050373938b90bb85a6c8d96ec966f4deb93",
+  "build_date": "2025-08-16T04:38:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17004048849",
+  "build_id": "17004048849",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lprylli/hwmisc/asti2c?tag=v1.0.6-aarch64-Linux&download=asti2c.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lprylli/hwmisc/asti2c?tag=v1.0.6-aarch64-Linux&download=asti2c",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lprylli/hwmisc/asti2c:v1.0.6-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lprylli/hwmisc/asti2c",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lprylli/hwmisc/asti2c?tag=v1.0.6-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fed8a4dc7fd3e5c93b45e2c1383b427b6a5526c885c4c439792f4007fa08e7f6",
+  "size": "2.3 MB",
+  "size_raw": "2342616",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
