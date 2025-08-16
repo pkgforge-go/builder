@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "reaper",
+  "pkg_family": "open-match",
+  "pkg_id": "reaper#github.com_embarkstudios_open_match",
+  "pkg_name": "reaper",
+  "pkg_type": "static",
+  "pkg_webpage": "http://open-match.dev",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Flexible, extensible, and scalable video game matchmaking",
+  "homepage": [
+    "http://open-match.dev"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "backend",
+    "backfill",
+    "certgen",
+    "default-evaluator",
+    "demo-first-match",
+    "frontend",
+    "minimatch",
+    "query",
+    "reaper",
+    "scale-backend",
+    "scale-evaluator",
+    "scale-frontend",
+    "scale-mmf",
+    "soloduel",
+    "swaggerui",
+    "synchronizer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/embarkstudios/open-match/@v/v0.0.0-20250702123610-6718ab27b8ae.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250702123610-6718ab27b8ae",
+  "version_upstream": "",
+  "bsum": "89a41c5bfa4b7aabe056e76e325deed96be313a6e86ff1ebadd809dd5a3427fe",
+  "build_date": "2025-08-16T04:24:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17003999092",
+  "build_id": "17003999092",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/embarkstudios/open-match/reaper?tag=v0.0.0-20250702123610-6718ab27b8ae-aarch64-Linux&download=reaper.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/embarkstudios/open-match/reaper?tag=v0.0.0-20250702123610-6718ab27b8ae-aarch64-Linux&download=reaper",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/embarkstudios/open-match/reaper:v0.0.0-20250702123610-6718ab27b8ae-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/embarkstudios/open-match/reaper",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/embarkstudios/open-match/reaper?tag=v0.0.0-20250702123610-6718ab27b8ae-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0c72aae61c595054f47e6b7e497c0510cd4541152d9807c25f82a613ca8568d5",
+  "size": "33 MB",
+  "size_raw": "34369280",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
