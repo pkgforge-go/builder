@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "frontend",
+  "pkg_family": "open-match",
+  "pkg_id": "frontend#github.com_embarkstudios_open_match",
+  "pkg_name": "frontend",
+  "pkg_type": "static",
+  "pkg_webpage": "http://open-match.dev",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Flexible, extensible, and scalable video game matchmaking",
+  "homepage": [
+    "http://open-match.dev"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "backend",
+    "backfill",
+    "certgen",
+    "default-evaluator",
+    "demo-first-match",
+    "frontend",
+    "minimatch",
+    "query",
+    "reaper",
+    "scale-backend",
+    "scale-evaluator",
+    "scale-frontend",
+    "scale-mmf",
+    "soloduel",
+    "swaggerui",
+    "synchronizer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/embarkstudios/open-match/@v/v0.0.0-20250702123610-6718ab27b8ae.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250702123610-6718ab27b8ae",
+  "version_upstream": "",
+  "bsum": "78d1c0fe74b7f85a8dacc0221b46baf25e265d1ea96e1db8d1e39adb7642cb12",
+  "build_date": "2025-08-16T04:25:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17003999092",
+  "build_id": "17003999092",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/embarkstudios/open-match/frontend?tag=v0.0.0-20250702123610-6718ab27b8ae-loongarch64-Linux&download=frontend.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/embarkstudios/open-match/frontend?tag=v0.0.0-20250702123610-6718ab27b8ae-loongarch64-Linux&download=frontend",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/embarkstudios/open-match/frontend:v0.0.0-20250702123610-6718ab27b8ae-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/embarkstudios/open-match/frontend",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/embarkstudios/open-match/frontend?tag=v0.0.0-20250702123610-6718ab27b8ae-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7a947f165e9964cac994f27aac92351c965842d53d5f21a7dbad525c1562e9f7",
+  "size": "25 MB",
+  "size_raw": "25856416",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

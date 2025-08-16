@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "query",
+  "pkg_family": "open-match",
+  "pkg_id": "query#github.com_embarkstudios_open_match",
+  "pkg_name": "query",
+  "pkg_type": "static",
+  "pkg_webpage": "http://open-match.dev",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Flexible, extensible, and scalable video game matchmaking",
+  "homepage": [
+    "http://open-match.dev"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "backend",
+    "backfill",
+    "certgen",
+    "default-evaluator",
+    "demo-first-match",
+    "frontend",
+    "minimatch",
+    "query",
+    "reaper",
+    "scale-backend",
+    "scale-evaluator",
+    "scale-frontend",
+    "scale-mmf",
+    "soloduel",
+    "swaggerui",
+    "synchronizer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/embarkstudios/open-match/@v/v0.0.0-20250702123610-6718ab27b8ae.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250702123610-6718ab27b8ae",
+  "version_upstream": "",
+  "bsum": "372630d9e35058cab39f1c8ed85313f4b650e8fdec98bc5eae674f8e5c4a36ba",
+  "build_date": "2025-08-16T04:25:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17003999092",
+  "build_id": "17003999092",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/embarkstudios/open-match/query?tag=v0.0.0-20250702123610-6718ab27b8ae-loongarch64-Linux&download=query.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/embarkstudios/open-match/query?tag=v0.0.0-20250702123610-6718ab27b8ae-loongarch64-Linux&download=query",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/embarkstudios/open-match/query:v0.0.0-20250702123610-6718ab27b8ae-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/embarkstudios/open-match/query",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/embarkstudios/open-match/query?tag=v0.0.0-20250702123610-6718ab27b8ae-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0465d8460e9713393a9d0b97348db6b4aafd8904da54c05e57828e7a1d661d46",
+  "size": "25 MB",
+  "size_raw": "25827520",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
