@@ -18,6 +18,7 @@
 - 🐹 **[jaws](https://serverless.com)**: Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
 - 🐹 **[kong](https://konghq.com/install/)**: The Cloud-Native API Gateway and AI Gateway.
 - 🐹 **[kong](https://konghq.com/install/)**: The Cloud-Native API Gateway and AI Gateway.
+- 🐹 **[cheat.sh](https://cheat.sh/)**: The only cheat sheet you need.
 - 🐹 **[istio](https://istio.io)**: Connect, secure, control, and observe services.
 - 🐹 **[tests](https://docs.ccxt.com)**: A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges.
 - 🐹 **[jaws](https://serverless.com)**: Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more.
