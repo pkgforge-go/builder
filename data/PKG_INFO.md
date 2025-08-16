@@ -147,6 +147,7 @@
 - 🐹 **[package-main-in-root](https://skaffold.dev/)**: Easy and Repeatable Kubernetes Development.
 - 🐹 **[asciinema-cli](https://asciinema.org)**: Terminal session recorder.
 - 🐹 **[asciinema](https://asciinema.org)**: Terminal session recorder.
+- 🐹 **[backend](https://github.com/coze-dev/coze-studio)**: An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before.
 - 🐹 **[tensorboard-controller](https://www.kubeflow.org/)**: Machine Learning Toolkit for Kubernetes.
 - 🐹 **[ultimate-go](https://gumroad.com/l/bpUYF)**: The Ultimate Go Study Guide.
 - 🐹 **[nix](https://nixos.org/)**: Nix, the purely functional package manager.
@@ -391,6 +392,7 @@
 - 🐹 **[official-images](https://hub.docker.com/u/library)**: Primary source of truth for the Docker "Official Images" program.
 - 🐹 **[tools](https://vektra.github.io/mockery/)**: A mock code autogenerator for Go.
 - 🐹 **[calico](https://docs.tigera.io/calico/latest/about/)**: Cloud native networking and network security.
+- 🐹 **[coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu)**: 开发内功修炼.
 - 🐹 **[api-group-resources](https://kyverno.io)**: Cloud Native Policy Management.
 - 🐹 **[controller-gen](https://kyverno.io)**: Cloud Native Policy Management.
 - 🐹 **[docker-credential-none](https://rancherdesktop.io)**: Container Management and Kubernetes on the Desktop.
@@ -466,6 +468,7 @@
 - 🐹 **[billaged](https://go.unkey.com)**: The Developer Platform for Modern APIs.
 - 🐹 **[builderd](https://go.unkey.com)**: The Developer Platform for Modern APIs.
 - 🐹 **[chproxy](https://go.unkey.com)**: The Developer Platform for Modern APIs.
+- 🐹 **[go](https://github.com/marketplace/actions/build-and-push-docker-images)**: GitHub Action to build and push Docker images with Buildx.
 - 🐹 **[grpc-ping-go](https://knative.dev/docs/)**: User documentation for Knative components.
 - 🐹 **[helloworld-go](https://knative.dev/docs/)**: User documentation for Knative components.
 - 🐹 **[servingcontainer](https://knative.dev/docs/)**: User documentation for Knative components.
@@ -484,6 +487,7 @@
 - 🐹 **[cli_e2e](https://digger.dev)**: Digger is an open source IaC orchestration tool.
 - 🐹 **[dgctl](https://digger.dev)**: Digger is an open source IaC orchestration tool.
 - 🐹 **[projects-refresh-service](https://digger.dev)**: Digger is an open source IaC orchestration tool.
+- 🐹 **[backend](https://github.com/coze-dev/coze-loop)**: Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.
 - 🐹 **[helloworld](https://github.com/googlecloudplatform/golang-samples)**: Sample apps and code written for Google Cloud in the Go programming language.
 - 🐹 **[image-processing](https://github.com/googlecloudplatform/golang-samples)**: Sample apps and code written for Google Cloud in the Go programming language.
 - 🐹 **[jobs](https://github.com/googlecloudplatform/golang-samples)**: Sample apps and code written for Google Cloud in the Go programming language.
@@ -623,6 +627,7 @@
 - 🐹 **[operator](https://odigos.io)**: Distributed tracing without code changes.
 - 🐹 **[rbac-docgen](https://odigos.io)**: Distributed tracing without code changes.
 - 🐹 **[scheduler](https://odigos.io)**: Distributed tracing without code changes.
+- 🐹 **[pingtunnel](https://github.com/esrrhs/pingtunnel)**: Pingtunnel is a tool that send TCP/UDP traffic over ICMP.
 - 🐹 **[redis_exporter](https://github.com/oliver006/redis_exporter)**: Prometheus Exporter for ValKey & Redis Metrics.
 - 🐹 **[go](https://docs.microsandbox.dev)**: Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code.
 - 🐹 **[devel](https://github.com/nvidia/k8s-device-plugin)**: NVIDIA device plugin for Kubernetes.
@@ -659,6 +664,7 @@
 - 🐹 **[chaincode-go](https://lf-hyperledger.atlassian.net/wiki/spaces/fabric)**: Samples for Hyperledger Fabric.
 - 🐹 **[chaincode-go](https://lf-hyperledger.atlassian.net/wiki/spaces/fabric)**: Samples for Hyperledger Fabric.
 - 🐹 **[chaincode-go](https://lf-hyperledger.atlassian.net/wiki/spaces/fabric)**: Samples for Hyperledger Fabric.
+- 🐹 **[spanner-interleave-subquery](https://github.com/googlecloudplatform/professional-services)**: Common solutions and tools developed by Google Cloud's Professional Services team.
 - 🐹 **[gcpviz](https://github.com/googlecloudplatform/professional-services)**: Common solutions and tools developed by Google Cloud's Professional Services team.
 - 🐹 **[lambda-compat](https://github.com/googlecloudplatform/professional-services)**: Common solutions and tools developed by Google Cloud's Professional Services team.
 - 🐹 **[tools](https://github.com/uber-go/mock)**: GoMock is a mocking framework for the Go programming language.
@@ -704,6 +710,7 @@
 - 🐹 **[cli](https://kcp.io)**: Kubernetes-like control planes for form-factors and use-cases beyond Kubernetes and container workloads.
 - 🐹 **[mongoose-os](https://mongoose-os.com)**: Mongoose OS - an IoT Firmware Development Framework.
 - 🐹 **[mongoose-iot](https://mongoose-os.com)**: Mongoose OS - an IoT Firmware Development Framework.
+- 🐹 **[v2](https://raviqqe.com/muffet)**: Fast website link checker in Go.
 - 🐹 **[local-path-provisioner](https://github.com/rancher/local-path-provisioner)**: Dynamically provisioning persistent local storage with Kubernetes.
 - 🐹 **[dnstester](https://www.inspektor-gadget.io)**: Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF.
 - 🐹 **[testjson2md](https://www.inspektor-gadget.io)**: Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF.
@@ -714,6 +721,7 @@
 - 🐹 **[kubernetes-go-helm-release-wordpress](https://www.pulumi.com)**: Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes.
 - 🐹 **[aws-go-lambda-gateway](https://www.pulumi.com)**: Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes.
 - 🐹 **[circuitbreaker_rule_transform](https://polarismesh.cn)**: Service Discovery and Governance Platform for Microservice and Distributed Architecture.
+- 🐹 **[flycheck](https://www.flycheck.org)**: On the fly syntax checking for GNU Emacs.
 - 🐹 **[xds-sotw-config-server](https://github.com/envoyproxy/ratelimit)**: Go/gRPC service designed to enable generic rate limit scenarios from different types of applications.
 - 🐹 **[datastar](https://data-star.dev)**: The hypermedia framework.
 - 🐹 **[_examples](https://github.com/data-dog/godog)**: Cucumber for golang.
@@ -919,6 +927,7 @@
 - 🐹 **[grupo-estudos-golang](https://crg.eti.br/tags/grupo-estudos-golang/)**: Material para estudo de Golang, tutoriais, videos e exemplos para quem quer aprender Go.
 - 🐹 **[redress](https://github.com/goretk/redress)**: Redress - A tool for analyzing stripped Go binaries.
 - 🐹 **[galene](https://galene.org)**: The Galène videoconference server.
+- 🐹 **[ink](https://inkproject.github.io/)**: An elegant static blog generator.
 - 🐹 **[migrate](https://registry.terraform.io/providers/cloudflare/cloudflare)**: Cloudflare Terraform Provider.
 - 🐹 **[duckdb-server-go](https://idl.uw.edu/mosaic/)**: An extensible framework for linking databases and interactive views.
 - 🐹 **[sshpiper](https://sshpiper.com/)**: The missing reverse proxy for ssh scp.
@@ -966,6 +975,7 @@
 - 🐹 **[projects](https://cosmo-docs.wundergraph.com/)**: The open-source solution to building, maintaining, and collaborating on GraphQL Federation at Scale.
 - 🐹 **[router-tests](https://cosmo-docs.wundergraph.com/)**: The open-source solution to building, maintaining, and collaborating on GraphQL Federation at Scale.
 - 🐹 **[multiclusterlease](https://cloud.google.com/config-connector/docs/overview)**: GCP Config Connector, a Kubernetes add-on for managing GCP resources.
+- 🐹 **[avaloniaedit](https://github.com/avaloniaui/avaloniaedit)**: Avalonia-based text editor (port of AvalonEdit.
 - 🐹 **[perf-tests](https://github.com/kubernetes/perf-tests)**: Performance tests and benchmarks.
 - 🐹 **[kurl_proxy](https://kots.io)**: KOTS provides the framework, tools and integrations that enable the delivery and management of 3rd-party Kubernetes applications, a.
 - 🐹 **[lurker](https://www.secureCodeBox.io)**: SecureCodeBox (SCB) - continuous secure delivery out of the box.
