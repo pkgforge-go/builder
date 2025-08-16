@@ -23,8 +23,7 @@
     "pkgforge-go (https://github.com/pkgforge-go/builder)"
   ],
   "provides": [
-    "backend",
-    "ddl"
+    "backend"
   ],
   "note": [
     "[EXTERNAL] (This is an Official but externally maintained repository)",
@@ -33,17 +32,17 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://proxy.golang.org/github.com/coze-dev/coze-studio/backend/@v/v0.0.0-20250815123013-a9b87c188b87.zip"
+    "https://proxy.golang.org/github.com/maninblack-coder/grafanapromgo/backend/@v/v0.0.0-20250630081833-896775887743.zip"
   ],
   "tag": [
     "Utility"
   ],
   "version": "v0.0.0-20250815123013-a9b87c188b87",
   "version_upstream": "",
-  "bsum": "0aeac0d6fc9fecbf85e3c4ca789fa251b142a3ab83157952119a58e952ec3eb3",
-  "build_date": "2025-08-16T04:12:39Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17003996091",
-  "build_id": "17003996091",
+  "bsum": "5d38e61031727772ee5f53a84909b4eff030ea4dd26e91ca850aea963f935fe8",
+  "build_date": "2025-08-16T04:44:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17004049781",
+  "build_id": "17004049781",
   "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coze-dev/coze-studio/backend/backend?tag=v0.0.0-20250815123013-a9b87c188b87-riscv64-Linux&download=backend.log",
   "deprecated": "false",
   "desktop_integration": "false",
@@ -56,10 +55,12 @@
   "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/coze-dev/coze-studio/backend/backend?tag=v0.0.0-20250815123013-a9b87c188b87-riscv64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "80305ec4739a5026fd51c902898f2b48329c6f4d5c5a80452ec0800ffce7d955",
-  "size": "158 MB",
-  "size_raw": "165232344",
+  "shasum": "3c127869926aa259863bed57471120dcea0edf722ad590f9734343f6597c38b0",
+  "size": "8.7 MB",
+  "size_raw": "9077080",
   "soar_syms": "false",
-  "snapshots": [],
+  "snapshots": [
+    "v0.0.0-20250815123013-a9b87c188b87-riscv64-Linux"
+  ],
   "trusted": "true"
 }
