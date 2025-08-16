@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "user",
+  "pkg_family": "gmicro",
+  "pkg_id": "user#github.com_xstephe_gmicro",
+  "pkg_name": "user",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/xstephe/gmicro",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "自研微服务框架gmicro重构电商系统",
+  "homepage": [
+    "https://github.com/xstephe/gmicro"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "admin",
+    "client",
+    "goods",
+    "inventory",
+    "order",
+    "text",
+    "tools",
+    "user"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/xstephe/gmicro/@v/v0.0.0-20250624141607-4877d317673d.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250624141607-4877d317673d",
+  "version_upstream": "",
+  "bsum": "6a8ea4fa71f9bc34c41087fa979b6ce0d516932d7a97a6c68b1c6e710f872a2c",
+  "build_date": "2025-08-16T05:23:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17004460406",
+  "build_id": "17004460406",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xstephe/gmicro/user?tag=v0.0.0-20250624141607-4877d317673d-loongarch64-Linux&download=user.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xstephe/gmicro/user?tag=v0.0.0-20250624141607-4877d317673d-loongarch64-Linux&download=user",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/xstephe/gmicro/user:v0.0.0-20250624141607-4877d317673d-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/xstephe/gmicro/user",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/xstephe/gmicro/user?tag=v0.0.0-20250624141607-4877d317673d-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ff1d9cdf146d073aa80270978f399adf2c11dc28f76c73735744e8ab50805658",
+  "size": "26 MB",
+  "size_raw": "26378176",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
