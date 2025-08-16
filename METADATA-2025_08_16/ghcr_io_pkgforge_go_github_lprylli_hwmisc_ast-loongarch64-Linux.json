@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ast",
+  "pkg_family": "hwmisc",
+  "pkg_id": "ast#github.com_lprylli_hwmisc",
+  "pkg_name": "ast",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lprylli/hwmisc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tinkering tool for aspeed bmc devel and low-level host manips",
+  "homepage": [
+    "https://github.com/lprylli/hwmisc"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ast",
+    "asti2c",
+    "elfcore",
+    "fru",
+    "hwinfo",
+    "kpoke",
+    "lmesg",
+    "pcimon"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/lprylli/hwmisc/@v/v1.0.6.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.6",
+  "version_upstream": "",
+  "bsum": "a543dbc47d83e89d8d42f91b700c657f59097222d41bd2d61c74e8f815eabcd3",
+  "build_date": "2025-08-16T04:38:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17004048849",
+  "build_id": "17004048849",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lprylli/hwmisc/ast?tag=v1.0.6-loongarch64-Linux&download=ast.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lprylli/hwmisc/ast?tag=v1.0.6-loongarch64-Linux&download=ast",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lprylli/hwmisc/ast:v1.0.6-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lprylli/hwmisc/ast",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lprylli/hwmisc/ast?tag=v1.0.6-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8d34fad134b8c043a772188e49f11468f063cfe4c1b97cff85406d2c5723d507",
+  "size": "2.4 MB",
+  "size_raw": "2442968",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
