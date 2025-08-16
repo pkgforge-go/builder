@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "pidproxy",
+  "pkg_family": "supervisord",
+  "pkg_id": "pidproxy#github.com_acolyte_supervisord",
+  "pkg_name": "pidproxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/acolyte/supervisord",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A go-lang supervisor implementation",
+  "homepage": [
+    "https://github.com/acolyte/supervisord"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "pidproxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cyralinc/supervisord/@v/v0.2.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250406193534-3c70d57c91be",
+  "version_upstream": "",
+  "bsum": "9efc0c36b91a566cbb47522ab37cb0f019263dea3e7375d85acaaaf722c824b0",
+  "build_date": "2025-08-16T04:14:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17003997213",
+  "build_id": "17003997213",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/acolyte/supervisord/pidproxy?tag=v0.0.0-20250406193534-3c70d57c91be-riscv64-Linux&download=pidproxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/acolyte/supervisord/pidproxy?tag=v0.0.0-20250406193534-3c70d57c91be-riscv64-Linux&download=pidproxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/acolyte/supervisord/pidproxy:v0.0.0-20250406193534-3c70d57c91be-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/acolyte/supervisord/pidproxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/acolyte/supervisord/pidproxy?tag=v0.0.0-20250406193534-3c70d57c91be-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "adcc38915bf0671ec2257d109e8c3cc7c4e9959dc40f68ba1caa344aa8e9345f",
+  "size": "2.0 MB",
+  "size_raw": "2082152",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250406193534-3c70d57c91be-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
