@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "tfpdiff",
+  "pkg_family": "tfpdiff",
+  "pkg_id": "tfpdiff#github.com_svennjegac_tfpdiff",
+  "pkg_name": "tfpdiff",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/svennjegac/tfpdiff",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Terraform plan differ. Useful for helm releases values. terraform plan looks at whole values as a single string. This app parses it as JSON and shows diff for specific field, instead of whole string",
+  "homepage": [
+    "https://github.com/svennjegac/tfpdiff"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "tfpdiff"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/svennjegac/tfpdiff/@v/v0.0.0-20250815093724-d7a44a401415.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250815093724-d7a44a401415",
+  "version_upstream": "",
+  "bsum": "018dd360c9e3a6aea48feb8f11b81781e05a7e6d76768584a98637f6871b2df8",
+  "build_date": "2025-08-16T05:10:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17004334989",
+  "build_id": "17004334989",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/svennjegac/tfpdiff/tfpdiff?tag=v0.0.0-20250815093724-d7a44a401415-aarch64-Linux&download=tfpdiff.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/svennjegac/tfpdiff/tfpdiff?tag=v0.0.0-20250815093724-d7a44a401415-aarch64-Linux&download=tfpdiff",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/svennjegac/tfpdiff/tfpdiff:v0.0.0-20250815093724-d7a44a401415-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/svennjegac/tfpdiff/tfpdiff",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/svennjegac/tfpdiff/tfpdiff?tag=v0.0.0-20250815093724-d7a44a401415-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1f0d9e6910ae0edb8360ff3492be5c31e8eff87e7f96f46b3183a9ed1fed14cd",
+  "size": "4.5 MB",
+  "size_raw": "4634048",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
