@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ssl-checker",
+  "pkg_family": "healthcheck-tools",
+  "pkg_id": "ssl-checker#github.com_bitnami_healthcheck_tools",
+  "pkg_name": "ssl-checker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://bitnami.com",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Set of Go tools to check different elements of your stack (SSL, SMTP, Permissions",
+  "homepage": [
+    "https://bitnami.com"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "smtp-checker",
+    "ssl-checker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/bitnami/healthcheck-tools/@v/v0.0.0-20250812063936-dab2eb4856fc.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250812063936-dab2eb4856fc",
+  "version_upstream": "",
+  "bsum": "b6cda0239fb7d6dab166f616ccceca897e8066c538823296854b92677d4b913b",
+  "build_date": "2025-08-16T03:55:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17003994167",
+  "build_id": "17003994167",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bitnami/healthcheck-tools/ssl-checker?tag=v0.0.0-20250812063936-dab2eb4856fc-loongarch64-Linux&download=ssl-checker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "19",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bitnami/healthcheck-tools/ssl-checker?tag=v0.0.0-20250812063936-dab2eb4856fc-loongarch64-Linux&download=ssl-checker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bitnami/healthcheck-tools/ssl-checker:v0.0.0-20250812063936-dab2eb4856fc-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bitnami/healthcheck-tools/ssl-checker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bitnami/healthcheck-tools/ssl-checker?tag=v0.0.0-20250812063936-dab2eb4856fc-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "eda5e05bde27301a702e6ffa8dfb0f69f377540e4e96c30ed11b8495017714bf",
+  "size": "5.0 MB",
+  "size_raw": "5185248",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
