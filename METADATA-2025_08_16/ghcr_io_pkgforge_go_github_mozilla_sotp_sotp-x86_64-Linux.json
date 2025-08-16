@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "sotp",
+  "pkg_family": "sotp",
+  "pkg_id": "sotp#github.com_mozilla_sotp",
+  "pkg_name": "sotp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://getsops.io/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Get TOTP from the command line using TOTP secrets in Sops encrypted files",
+  "homepage": [
+    "https://getsops.io/"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sotp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/mozilla/sotp/@v/v0.0.0-20250718203355-56d1413cca99.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250718203355-56d1413cca99",
+  "version_upstream": "",
+  "bsum": "af36e0fcd9ffc28374d45184d6ac1a93ecda0c32da4f9b86371bd22f27952ddb",
+  "build_date": "2025-08-16T04:43:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17004072348",
+  "build_id": "17004072348",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mozilla/sotp/sotp?tag=v0.0.0-20250718203355-56d1413cca99-x86_64-Linux&download=sotp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "40",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mozilla/sotp/sotp?tag=v0.0.0-20250718203355-56d1413cca99-x86_64-Linux&download=sotp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mozilla/sotp/sotp:v0.0.0-20250718203355-56d1413cca99-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mozilla/sotp/sotp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mozilla/sotp/sotp?tag=v0.0.0-20250718203355-56d1413cca99-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "603bee02e10d01ac6c357d2262cc6aadc2f12d3614fadea7e7a7fb65907de441",
+  "size": "39 MB",
+  "size_raw": "40524544",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
