@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "smtp-checker",
+  "pkg_family": "healthcheck-tools",
+  "pkg_id": "smtp-checker#github.com_bitnami_healthcheck_tools",
+  "pkg_name": "smtp-checker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://bitnami.com",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Set of Go tools to check different elements of your stack (SSL, SMTP, Permissions",
+  "homepage": [
+    "https://bitnami.com"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "smtp-checker",
+    "ssl-checker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/bitnami/healthcheck-tools/@v/v0.0.0-20250812063936-dab2eb4856fc.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250812063936-dab2eb4856fc",
+  "version_upstream": "",
+  "bsum": "79b1383c57ad38bc636cd3428d8256f9404b16fea4c8a6960572f1596f8655fc",
+  "build_date": "2025-08-16T03:55:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17003994167",
+  "build_id": "17003994167",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bitnami/healthcheck-tools/smtp-checker?tag=v0.0.0-20250812063936-dab2eb4856fc-riscv64-Linux&download=smtp-checker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "19",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bitnami/healthcheck-tools/smtp-checker?tag=v0.0.0-20250812063936-dab2eb4856fc-riscv64-Linux&download=smtp-checker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bitnami/healthcheck-tools/smtp-checker:v0.0.0-20250812063936-dab2eb4856fc-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bitnami/healthcheck-tools/smtp-checker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bitnami/healthcheck-tools/smtp-checker?tag=v0.0.0-20250812063936-dab2eb4856fc-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "42b10964db8d09cc559f937c6ef037dbdd5a01a38e31111bbf40013ad895d5ae",
+  "size": "5.8 MB",
+  "size_raw": "6036888",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
