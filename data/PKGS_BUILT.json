@@ -37888,6 +37888,16 @@
     "version": "HEAD-8a5101f-250623T213305"
   },
   {
+    "description": "Tinkering tool for aspeed bmc devel and low-level host manips",
+    "name": "ast",
+    "pkg_id": "ast#github.com_lprylli_hwmisc",
+    "targets": [
+      "aarch64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v1.0.6"
+  },
+  {
     "description": "Remediate SAST results using AI",
     "name": "ast-ai-prompts",
     "pkg_id": "ast-ai-prompts#github.com_checkmarxdev_ast_ai_prompts",
@@ -37974,6 +37984,16 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-8be120a-220324T162437"
+  },
+  {
+    "description": "Tinkering tool for aspeed bmc devel and low-level host manips",
+    "name": "asti2c",
+    "pkg_id": "asti2c#github.com_lprylli_hwmisc",
+    "targets": [
+      "aarch64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v1.0.6"
   },
   {
     "description": "Demux and mux MPEG Transport Streams _.ts_ natively in GO",
@@ -40043,6 +40063,19 @@
     "version": "v0.0.0-20250527153904-8f6bbbb778ad"
   },
   {
+    "description": "Auto-mTLS - A Zero-Touch mutual TLS for Kubernetes Workload",
+    "name": "auto-mtls",
+    "pkg_id": "auto-mtls#github.com_kupher_tools_auto_mtls",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250815162751-b585d6442d76"
+  },
+  {
     "description": "Auto-pstate is simple script for swithing amd pstate automatically",
     "name": "auto-pstate",
     "pkg_id": "auto-pstate#github.com_jayesh6297_auto_pstate",
@@ -41011,6 +41044,19 @@
     ],
     "updated_at": "2025-06-24",
     "version": "HEAD-32d04f1-250624T201415"
+  },
+  {
+    "description": "The code repository for No Starch Press' Network Programming with Go",
+    "name": "aws",
+    "pkg_id": "aws#github.com_awoodbeck_gnp",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250815230758-d2389d7a9c2d"
   },
   {
     "description": "Deepfence Cloud Scanner runs in your cloud environment, gathering inventory and compliance information for the assets deployed in that environment. It submits that information to your Deepfence ThreatMapper or ThreatStryker Management Console",
@@ -42315,6 +42361,19 @@
     "version": "HEAD-910317d-250626T104341"
   },
   {
+    "description": "The code repository for No Starch Press' Network Programming with Go",
+    "name": "azure",
+    "pkg_id": "azure#github.com_awoodbeck_gnp",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250815230758-d2389d7a9c2d"
+  },
+  {
     "description": "Deepfence Cloud Scanner runs in your cloud environment, gathering inventory and compliance information for the assets deployed in that environment. It submits that information to your Deepfence ThreatMapper or ThreatStryker Management Console",
     "name": "azure",
     "pkg_id": "azure#github.com_deepfence_cloud_scanner_exportcontrols",
@@ -42824,6 +42883,19 @@
     "version": "HEAD-5e2cd7a-250619T141628"
   },
   {
+    "description": "The code repository for No Starch Press' Network Programming with Go",
+    "name": "backend",
+    "pkg_id": "backend#github.com_awoodbeck_gnp",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250815230758-d2389d7a9c2d"
+  },
+  {
     "description": "Ultimate Context Engineering Infrastructure, starting from MCPs and Integrations",
     "name": "backend",
     "pkg_id": "backend#github.com_context_space_context_space_backend",
@@ -42835,6 +42907,31 @@
     ],
     "updated_at": "2025-08-02",
     "version": "v0.0.0-20250724160337-33bc99dfa00a"
+  },
+  {
+    "description": "An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation",
+    "name": "backend",
+    "pkg_id": "backend#github.com_coze_dev_coze_studio_backend",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250815123013-a9b87c188b87"
+  },
+  {
+    "description": "Flexible, extensible, and scalable video game matchmaking",
+    "name": "backend",
+    "pkg_id": "backend#github.com_embarkstudios_open_match",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250702123610-6718ab27b8ae"
   },
   {
     "description": "Serves the API and contains the application logic",
@@ -42925,6 +43022,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-b8d3e98-250213T104149"
+  },
+  {
+    "description": "Flexible, extensible, and scalable video game matchmaking",
+    "name": "backfill",
+    "pkg_id": "backfill#github.com_embarkstudios_open_match",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250702123610-6718ab27b8ae"
   },
   {
     "description": "Software Supply Chain Transparency Log",
@@ -44441,6 +44551,19 @@
     ],
     "updated_at": "2025-08-06",
     "version": "v0.0.0-20250805053119-0ca06b0f509b"
+  },
+  {
+    "description": "Tools separated by folders. Used in tmux and bash config @ https://github.com/diepfote/dot-files",
+    "name": "bash-helper",
+    "pkg_id": "bash-helper#github.com_diepfote_golang_tools",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250814120602-15e58cf86e78"
   },
   {
     "description": "GPUd automates monitoring, diagnostics, and issue identification for GPUs",
@@ -51003,6 +51126,19 @@
     "version": "v0.0.0-20250417063334-22e57e9b869a"
   },
   {
+    "description": "Create websites, EPUBs, and other distributable file formats for your Markdown-based written works",
+    "name": "bookgen",
+    "pkg_id": "bookgen#github.com_jessebotx_bookgen_cmd_bookgen",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250703004321-191e0f00e1c8"
+  },
+  {
     "description": "Bookings and Reservations",
     "name": "bookings",
     "pkg_id": "bookings#github.com_iamsabbiralam_bookings",
@@ -56986,6 +57122,19 @@
     "version": "v0.0.0-20250322230953-821e55cd2d91"
   },
   {
+    "description": "Gravwell Practical BNF Parser Generator",
+    "name": "calc_example",
+    "pkg_id": "calc_example#github.com_gravwell_pbpg",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250805222754-f7aee35cd5d3"
+  },
+  {
     "description": "🔥 Golang audio/video live streaming lib/client/server. support RTMP, RTSP_RTP/RTCP_, HLS, HTTP[S]/WebSocket-FLV/TS, GB28181, H264/H265/AAC/G711/OPUS, relay, cluster, record, HTTP Notify/API/UI. 直播",
     "name": "calcrtmpdelay",
     "pkg_id": "calcrtmpdelay#github.com_q191201771_lal",
@@ -60185,6 +60334,19 @@
     "version": "v0.0.0-20250702214350-bac1c1dff445"
   },
   {
+    "description": "The code repository for No Starch Press' Network Programming with Go",
+    "name": "cert",
+    "pkg_id": "cert#github.com_awoodbeck_gnp",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250815230758-d2389d7a9c2d"
+  },
+  {
     "description": "学习&测试&例子",
     "name": "cert",
     "pkg_id": "cert#github.com_naturelr_code_example_cert",
@@ -60508,6 +60670,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-4e35d8a-250619T141715"
+  },
+  {
+    "description": "Flexible, extensible, and scalable video game matchmaking",
+    "name": "certgen",
+    "pkg_id": "certgen#github.com_embarkstudios_open_match",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250702123610-6718ab27b8ae"
   },
   {
     "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
@@ -62128,6 +62303,19 @@
     "version": "v0.0.0-20250606160907-827a37edaf90"
   },
   {
+    "description": "The code repository for No Starch Press' Network Programming with Go",
+    "name": "ch04",
+    "pkg_id": "ch04#github.com_awoodbeck_gnp",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250815230758-d2389d7a9c2d"
+  },
+  {
     "description": "Exercises from \"The Go Programming Language\" by Donovan and Kernighan",
     "name": "ch04ex01",
     "pkg_id": "ch04ex01#github.com_bewuethr_gopl",
@@ -62908,6 +63096,19 @@
     "version": "v0.0.0-20250606160907-827a37edaf90"
   },
   {
+    "description": "The code repository for No Starch Press' Network Programming with Go",
+    "name": "ch09",
+    "pkg_id": "ch09#github.com_awoodbeck_gnp",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250815230758-d2389d7a9c2d"
+  },
+  {
     "description": "Exercises from \"The Go Programming Language\" by Donovan and Kernighan",
     "name": "ch09ex04",
     "pkg_id": "ch09ex04#github.com_bewuethr_gopl",
@@ -62971,6 +63172,19 @@
     ],
     "updated_at": "2025-07-22",
     "version": "v0.0.0-20250611081446-40975f0ee679"
+  },
+  {
+    "description": "The code repository for No Starch Press' Network Programming with Go",
+    "name": "ch10",
+    "pkg_id": "ch10#github.com_awoodbeck_gnp",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250815230758-d2389d7a9c2d"
   },
   {
     "description": "Exercises from \"The Go Programming Language\" by Donovan and Kernighan",
@@ -68571,6 +68785,17 @@
     "version": "HEAD-8459e0f-250625T120500"
   },
   {
+    "description": "Continusec Key Transparency Server and Client",
+    "name": "cks",
+    "pkg_id": "cks#github.com_continusec_key_transparency",
+    "targets": [
+      "aarch64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250729050319-819fcac132ab"
+  },
+  {
     "description": "A Gateway for connecting application services in different domains, networks, and cloud infrastructures",
     "name": "cl-controlplane",
     "pkg_id": "cl-controlplane#github.com_clusterlink_net_clusterlink",
@@ -71549,6 +71774,19 @@
     ],
     "updated_at": "2025-06-30",
     "version": "v0.0.0-20250323193602-529eb367512b"
+  },
+  {
+    "description": "The code repository for No Starch Press' Network Programming with Go",
+    "name": "client",
+    "pkg_id": "client#github.com_awoodbeck_gnp",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250815230758-d2389d7a9c2d"
   },
   {
     "description": "The progress of learning Go",
@@ -76659,6 +76897,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-a671cc9-250618T010624"
+  },
+  {
+    "description": "The code repository for No Starch Press' Network Programming with Go",
+    "name": "cmd",
+    "pkg_id": "cmd#github.com_awoodbeck_gnp",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250815230758-d2389d7a9c2d"
   },
   {
     "description": "The Amazon CloudWatch Agent Operator is software developed to manage the CloudWatch Agent on kubernetes.",
@@ -84329,6 +84580,19 @@
     "version": "HEAD-556d4a2-250624T170149"
   },
   {
+    "description": "Buildpack for the Conjur / Cloud Foundry integration",
+    "name": "conjur-env",
+    "pkg_id": "conjur-env#github.com_cyberark_cloudfoundry_conjur_buildpack_conjur_env",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250805143157-e4dfc29cc2c0"
+  },
+  {
     "description": "No Description Provided",
     "name": "conjure-api",
     "pkg_id": "conjure-api#github.com_palantir_conjure_go.git",
@@ -86993,6 +87257,19 @@
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-692f5e3-250620T111052"
+  },
+  {
+    "description": "Cloud Native Policy Management",
+    "name": "controller-gen",
+    "pkg_id": "controller-gen#github.com_kyverno_kyverno_hack_controller_gen",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250813140104-37f6d65a37f8"
   },
   {
     "description": "No Description Provided",
@@ -90995,6 +91272,19 @@
     ],
     "updated_at": "2025-06-29",
     "version": "HEAD-c73a2f5-250628T205858"
+  },
+  {
+    "description": "The code repository for No Starch Press' Network Programming with Go",
+    "name": "creds",
+    "pkg_id": "creds#github.com_awoodbeck_gnp",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250815230758-d2389d7a9c2d"
   },
   {
     "description": "The easiest way to access AWS.",
@@ -102935,6 +103225,19 @@
     "version": "HEAD-87d9edb-250627T172621"
   },
   {
+    "description": "An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation",
+    "name": "ddl",
+    "pkg_id": "ddl#github.com_coze_dev_coze_studio_backend",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250815123013-a9b87c188b87"
+  },
+  {
     "description": "The swiss army knife of live data migrations",
     "name": "ddl_ghostferry",
     "pkg_id": "ddl_ghostferry#github.com_Shopify_ghostferry",
@@ -104284,6 +104587,19 @@
     "version": "HEAD-ab63bd8-250619T134850"
   },
   {
+    "description": "Flexible, extensible, and scalable video game matchmaking",
+    "name": "default-evaluator",
+    "pkg_id": "default-evaluator#github.com_embarkstudios_open_match",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250702123610-6718ab27b8ae"
+  },
+  {
     "description": "Updates RabbitMQ default user password",
     "name": "default-user-credential-updater",
     "pkg_id": "default-user-credential-updater#github.com_rabbitmq_default_user_credential_updater",
@@ -104914,6 +105230,19 @@
     "version": "HEAD-02886cc-250623T180945"
   },
   {
+    "description": "Curated catalog of generally useful kpt functions",
+    "name": "delete-annotations",
+    "pkg_id": "delete-annotations#github.com_googlecontainertools_kpt_functions_catalog_contrib_functions_go_delete_annotations",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250802004718-38f885f29031"
+  },
+  {
     "description": "My solutions to Leetcode problems",
     "name": "delete-cols-2-sort",
     "pkg_id": "delete-cols-2-sort#github.com_arunsathiya_leetcode",
@@ -105390,6 +105719,19 @@
     ],
     "updated_at": "2025-06-22",
     "version": "HEAD-3fc575f-250620T093718"
+  },
+  {
+    "description": "Flexible, extensible, and scalable video game matchmaking",
+    "name": "demo-first-match",
+    "pkg_id": "demo-first-match#github.com_embarkstudios_open_match",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250702123610-6718ab27b8ae"
   },
   {
     "description": "A demo Go API for testing various hosting providers",
@@ -111916,6 +112258,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-c463c39-240407T121248"
+  },
+  {
+    "description": "A Docker Container and execution tool for BIND",
+    "name": "docker-bind",
+    "pkg_id": "docker-bind#github.com_dcjulian29_docker_bind",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250812164250-96d7d0c99771"
   },
   {
     "description": "Dumb workaround for 2 opinionated gridlocks",
@@ -120431,6 +120786,16 @@
     "version": "HEAD-33b33db-240627T123616"
   },
   {
+    "description": "Tinkering tool for aspeed bmc devel and low-level host manips",
+    "name": "elfcore",
+    "pkg_id": "elfcore#github.com_lprylli_hwmisc",
+    "targets": [
+      "aarch64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v1.0.6"
+  },
+  {
     "description": "An interesting executable file parsing library written by Golang",
     "name": "elfview",
     "pkg_id": "elfview#github.com_fcharlie_buna",
@@ -122488,6 +122853,19 @@
     ],
     "updated_at": "2025-07-02",
     "version": "v0.0.0-20250406090955-ab4d8902e5af"
+  },
+  {
+    "description": "The notes I took while learning Golang during the development process, which I thought might be useful to me later",
+    "name": "enums",
+    "pkg_id": "enums#github.com_daddydemir_golang_space",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250710175050-3b1b6d7ca362"
   },
   {
     "description": "Go by Example",
@@ -129456,6 +129834,19 @@
     "version": "v0.0.0-20250624031656-019272195b65"
   },
   {
+    "description": "My solution to the exercises in \"The Go Programming Language",
+    "name": "exercise01",
+    "pkg_id": "exercise01#github.com_adalton_go_programming_language",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250710214123-3ef0170735fc"
+  },
+  {
     "description": "Golang experiments about how Linux namespace works.",
     "name": "exercise01",
     "pkg_id": "exercise01#github.com_songrgg_namespace_demo",
@@ -129467,6 +129858,19 @@
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-09ea8e9-200524T102451"
+  },
+  {
+    "description": "My solution to the exercises in \"The Go Programming Language",
+    "name": "exercise02",
+    "pkg_id": "exercise02#github.com_adalton_go_programming_language",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250710214123-3ef0170735fc"
   },
   {
     "description": "Golang experiments about how Linux namespace works.",
@@ -129495,6 +129899,19 @@
     "version": "HEAD-09ea8e9-200524T102451"
   },
   {
+    "description": "My solution to the exercises in \"The Go Programming Language",
+    "name": "exercise04",
+    "pkg_id": "exercise04#github.com_adalton_go_programming_language",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250710214123-3ef0170735fc"
+  },
+  {
     "description": "Golang experiments about how Linux namespace works.",
     "name": "exercise04",
     "pkg_id": "exercise04#github.com_songrgg_namespace_demo",
@@ -129508,6 +129925,19 @@
     "version": "HEAD-09ea8e9-200524T102451"
   },
   {
+    "description": "My solution to the exercises in \"The Go Programming Language",
+    "name": "exercise05",
+    "pkg_id": "exercise05#github.com_adalton_go_programming_language",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250710214123-3ef0170735fc"
+  },
+  {
     "description": "Golang experiments about how Linux namespace works.",
     "name": "exercise05",
     "pkg_id": "exercise05#github.com_songrgg_namespace_demo",
@@ -129519,6 +129949,58 @@
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-09ea8e9-200524T102451"
+  },
+  {
+    "description": "My solution to the exercises in \"The Go Programming Language",
+    "name": "exercise06",
+    "pkg_id": "exercise06#github.com_adalton_go_programming_language",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250710214123-3ef0170735fc"
+  },
+  {
+    "description": "My solution to the exercises in \"The Go Programming Language",
+    "name": "exercise07",
+    "pkg_id": "exercise07#github.com_adalton_go_programming_language",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250710214123-3ef0170735fc"
+  },
+  {
+    "description": "My solution to the exercises in \"The Go Programming Language",
+    "name": "exercise08",
+    "pkg_id": "exercise08#github.com_adalton_go_programming_language",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250710214123-3ef0170735fc"
+  },
+  {
+    "description": "My solution to the exercises in \"The Go Programming Language",
+    "name": "exercise09",
+    "pkg_id": "exercise09#github.com_adalton_go_programming_language",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250710214123-3ef0170735fc"
   },
   {
     "description": "Go 程序设计语言》练习题参考答案",
@@ -129675,6 +130157,32 @@
     ],
     "updated_at": "2025-08-12",
     "version": "v0.0.0-20250727130038-8867d418425f"
+  },
+  {
+    "description": "My solution to the exercises in \"The Go Programming Language",
+    "name": "exercise10",
+    "pkg_id": "exercise10#github.com_adalton_go_programming_language",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250710214123-3ef0170735fc"
+  },
+  {
+    "description": "My solution to the exercises in \"The Go Programming Language",
+    "name": "exercise12",
+    "pkg_id": "exercise12#github.com_adalton_go_programming_language",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250710214123-3ef0170735fc"
   },
   {
     "description": "Go 程序设计语言》练习题参考答案",
@@ -130272,6 +130780,19 @@
     ],
     "updated_at": "2025-07-16",
     "version": "v0.0.0-20250511073013-a54734b71002"
+  },
+  {
+    "description": "Fixes the dates on Google Photos Takeout",
+    "name": "exifupdater",
+    "pkg_id": "exifupdater#github.com_bryanbrunetti_exifupdater",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250815031852-5989c02c68b4"
   },
   {
     "description": "A collection of little snippets of programs I write when I test out ideas. A code _playground_.",
@@ -141565,6 +142086,19 @@
     "version": "HEAD-760a460-250620T105908"
   },
   {
+    "description": "Flexible, extensible, and scalable video game matchmaking",
+    "name": "frontend",
+    "pkg_id": "frontend#github.com_embarkstudios_open_match",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250702123610-6718ab27b8ae"
+  },
+  {
     "description": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC",
     "name": "frontend",
     "pkg_id": "frontend#github.com_googlecloudplatform_microservices_demo_src_frontend",
@@ -141680,6 +142214,16 @@
     ],
     "updated_at": "2025-07-03",
     "version": "v0.0.0-20250702155548-e15cfde5c7fa"
+  },
+  {
+    "description": "Tinkering tool for aspeed bmc devel and low-level host manips",
+    "name": "fru",
+    "pkg_id": "fru#github.com_lprylli_hwmisc",
+    "targets": [
+      "aarch64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v1.0.6"
   },
   {
     "description": "Examples for Kitex.",
@@ -144277,6 +144821,19 @@
     ],
     "updated_at": "2025-08-14",
     "version": "v0.0.0-20250814002436-f5c3cf588ae0"
+  },
+  {
+    "description": "Golang project with ML-KEM-1024 and AES-256",
+    "name": "galaxy",
+    "pkg_id": "galaxy#github.com_corvad_galaxy",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250405020042-93cc16502aad"
   },
   {
     "description": "The Galène videoconference server",
@@ -161690,8 +162247,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-08-07",
-    "version": "v0.0.0-20250807000428-db04666145bf"
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250814002430-dafdede53504"
   },
   {
     "description": "The repo is for sharing whatever I am learning",
@@ -162039,6 +162596,32 @@
     ],
     "updated_at": "2025-08-06",
     "version": "v0.0.0-20250718170344-f20fa7faff18"
+  },
+  {
+    "description": "GO QR and Barcode",
+    "name": "go-barcode-main",
+    "pkg_id": "go-barcode-main#github.com_devzeeh_go_barcode",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v1.0.1"
+  },
+  {
+    "description": "A simple golang compile/test env for local",
+    "name": "go-basic-env",
+    "pkg_id": "go-basic-env#github.com_carlrondoni_go_basic_env",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250714191325-5fd26ee6c126"
   },
   {
     "description": "Fuzz tests for Apple Silicon efficiency cores",
@@ -165477,6 +166060,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-bc272fd-250619T170555"
+  },
+  {
+    "description": "Sparkles: QR Code encoder (Go",
+    "name": "go-qrcode",
+    "pkg_id": "go-qrcode#github.com_linbaozhong_go_qrcode",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.1"
   },
   {
     "description": ":sparkles: QR Code encoder _Go_",
@@ -174896,6 +175492,19 @@
     "version": "v0.0.0-20250801083144-40acc86a12d9"
   },
   {
+    "description": "An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation",
+    "name": "gorm_gen",
+    "pkg_id": "gorm_gen#github.com_coze_dev_coze_studio_backend",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250815123013-a9b87c188b87"
+  },
+  {
     "description": "Go orm _ migrations generator + query builder _",
     "name": "gormite",
     "pkg_id": "gormite#github.com_KoNekoD_gormite",
@@ -180513,6 +181122,19 @@
     ],
     "updated_at": "2025-06-18",
     "version": "HEAD-2f940ec-240606T001904"
+  },
+  {
+    "description": "Swiss army knife for manipulating strings",
+    "name": "gstring",
+    "pkg_id": "gstring#github.com_allaman_gstring",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250815132951-4916444180f1"
   },
   {
     "description": "Securing open-source package ecosystems by originating, validating, and augmenting build attestations.",
@@ -188334,6 +188956,19 @@
     "version": "HEAD-cb7c677-240524T084506"
   },
   {
+    "description": "Alert off graphite metrics",
+    "name": "hound",
+    "pkg_id": "hound#github.com_ccnmtl_hound",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250710192912-c6aabf5ef827"
+  },
+  {
     "description": "A no-frills time tracking toolkit for command line nerds",
     "name": "hours",
     "pkg_id": "hours#github.com_dhth_hours",
@@ -192025,6 +192660,16 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-d19e56e-250620T102335"
+  },
+  {
+    "description": "Tinkering tool for aspeed bmc devel and low-level host manips",
+    "name": "hwinfo",
+    "pkg_id": "hwinfo#github.com_lprylli_hwmisc",
+    "targets": [
+      "aarch64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v1.0.6"
   },
   {
     "description": "HxScanner -HyperScanner v1.4+ is a fast, cross-platform HTTP status scanner for IPs, domains & URLs — now with CORS detection! ⚡ Auto-sorts responses (1xx–5xx), logs valid/invalid targets, and saves results neatly. Built with Go for hackers who love speed, structure, and clean CLI vibes",
@@ -197335,6 +197980,19 @@
     "version": "HEAD-92cf352-250627T134545"
   },
   {
+    "description": "An elegant static blog generator",
+    "name": "ink",
+    "pkg_id": "ink#github.com_inkproject_ink",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250626075148-a525c4090c93"
+  },
+  {
     "description": "Filecoin Full Node Implementation in Go",
     "name": "inline-gen",
     "pkg_id": "inline-gen#github.com_filecoin_project_venus_venus_devtool",
@@ -198109,6 +198767,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-a2195fb-250618T122130"
+  },
+  {
+    "description": "The code repository for No Starch Press' Network Programming with Go",
+    "name": "instrumentation",
+    "pkg_id": "instrumentation#github.com_awoodbeck_gnp",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250815230758-d2389d7a9c2d"
   },
   {
     "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
@@ -210122,6 +210793,16 @@
     "version": "HEAD-2f530cb-250626T173305"
   },
   {
+    "description": "Tinkering tool for aspeed bmc devel and low-level host manips",
+    "name": "kpoke",
+    "pkg_id": "kpoke#github.com_lprylli_hwmisc",
+    "targets": [
+      "aarch64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v1.0.6"
+  },
+  {
     "description": "ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",
     "name": "kprobe",
     "pkg_id": "kprobe#github.com_cilium_ebpf",
@@ -217375,6 +218056,19 @@
     "version": "v0.0.0-20250416115304-4463ff6b4423"
   },
   {
+    "description": "The notes I took while learning Golang during the development process, which I thought might be useful to me later",
+    "name": "linkedlists",
+    "pkg_id": "linkedlists#github.com_daddydemir_golang_space",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250710175050-3b1b6d7ca362"
+  },
+  {
     "description": "Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",
     "name": "linkerd2-cli",
     "pkg_id": "linkerd2-cli#github.com_linkerd_linkerd2",
@@ -217449,6 +218143,19 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.0.0-20250312224028-47ab1e63f69d"
+  },
+  {
+    "description": "An infrastructure platform for network services",
+    "name": "linkstate-edge",
+    "pkg_id": "linkstate-edge#github.com_cisco_open_jalapeno",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250804032658-c40efc921bfd"
   },
   {
     "description": "Kubernetes Cloud Controller Manager for Linode",
@@ -219835,6 +220542,16 @@
     ],
     "updated_at": "2025-06-25",
     "version": "HEAD-2f5c9aa-250625T112458"
+  },
+  {
+    "description": "Tinkering tool for aspeed bmc devel and low-level host manips",
+    "name": "lmesg",
+    "pkg_id": "lmesg#github.com_lprylli_hwmisc",
+    "targets": [
+      "aarch64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v1.0.6"
   },
   {
     "description": "Lebens­mittel­kon­trolle parser (https://verbraucherinfo-bw.de/,Lde/Startseite/Lebensmittelkontrolle",
@@ -225793,6 +226510,19 @@
     "version": "v0.0.0-20250318011356-21fc020075f2"
   },
   {
+    "description": "GO QR and Barcode",
+    "name": "mail",
+    "pkg_id": "mail#github.com_devzeeh_go_barcode",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v1.0.1"
+  },
+  {
     "description": "A collection of go utilities for learning purposes",
     "name": "mail",
     "pkg_id": "mail#github.com_rajeshpillai_go_cookbook",
@@ -228602,6 +229332,19 @@
     ],
     "updated_at": "2025-07-30",
     "version": "v0.2.0"
+  },
+  {
+    "description": "A tool that generates string map from string constants",
+    "name": "mapgen",
+    "pkg_id": "mapgen#github.com_c9s_mapgen",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v1.0.1"
   },
   {
     "description": "Learn | Language Programming | Go",
@@ -236017,6 +236760,19 @@
     "version": "HEAD-828472c-250620T071052"
   },
   {
+    "description": "Flexible, extensible, and scalable video game matchmaking",
+    "name": "minimatch",
+    "pkg_id": "minimatch#github.com_embarkstudios_open_match",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250702123610-6718ab27b8ae"
+  },
+  {
     "description": "Powerful mock generation tool for Go programming language",
     "name": "minimock",
     "pkg_id": "minimock#github.com_gojuno_minimock",
@@ -237066,7 +237822,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-30",
+    "updated_at": "2025-08-16",
     "version": "v0.0.0-20250621133606-90d0d3395d94"
   },
   {
@@ -240257,6 +241013,19 @@
     "version": "v0.0.0-20250623000633-228fdf26afc9"
   },
   {
+    "description": "The notes I took while learning Golang during the development process, which I thought might be useful to me later",
+    "name": "monotonicstack",
+    "pkg_id": "monotonicstack#github.com_daddydemir_golang_space",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250710175050-3b1b6d7ca362"
+  },
+  {
     "description": "Fast HTTP enumerator",
     "name": "monsoon",
     "pkg_id": "monsoon#github.com_RedTeamPentesting_monsoon",
@@ -243420,6 +244189,19 @@
     ],
     "updated_at": "2025-06-30",
     "version": "v0.0.0-20250528170214-efafe8814000"
+  },
+  {
+    "description": "Small wrapper on i3status, written in go and rust",
+    "name": "myi3status",
+    "pkg_id": "myi3status#github.com_borisfaure_myi3status",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250812082720-8d7a26fa4172"
   },
   {
     "description": "Tool to discover your public IP address with STUN",
@@ -261006,6 +261788,19 @@
     "version": "v0.0.0-20250813174841-dc86b0f94a61"
   },
   {
+    "description": "Go linter for finding usages of contexts with timeouts in parallel subtests",
+    "name": "paralleltestctx",
+    "pkg_id": "paralleltestctx#github.com_coder_paralleltestctx",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.1"
+  },
+  {
     "description": "For practice",
     "name": "param-routes",
     "pkg_id": "param-routes#github.com_ra1n6ow_go_demo",
@@ -263121,6 +263916,19 @@
     "version": "HEAD-4f89678-250623T001608"
   },
   {
+    "description": "Gravwell Practical BNF Parser Generator",
+    "name": "pbpg",
+    "pkg_id": "pbpg#github.com_gravwell_pbpg",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250805222754-f7aee35cd5d3"
+  },
+  {
     "description": "A prometheus exporter for Proxmox Backup Server",
     "name": "pbs-exporter",
     "pkg_id": "pbs-exporter#github.com_natrontech_pbs_exporter",
@@ -263197,6 +264005,16 @@
     ],
     "updated_at": "2025-06-25",
     "version": "HEAD-7dd7f6c-250612T180712"
+  },
+  {
+    "description": "Tinkering tool for aspeed bmc devel and low-level host manips",
+    "name": "pcimon",
+    "pkg_id": "pcimon#github.com_lprylli_hwmisc",
+    "targets": [
+      "aarch64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v1.0.6"
   },
   {
     "description": "Go implementation of Ethereum proof of stake",
@@ -265717,7 +266535,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-08-12",
+    "updated_at": "2025-08-16",
     "version": "v0.0.0-20250406193534-3c70d57c91be"
   },
   {
@@ -268116,6 +268934,19 @@
     ],
     "updated_at": "2025-08-05",
     "version": "v0.0.0-20250701014651-9f01a2a62974"
+  },
+  {
+    "description": "Your ultimate Go microservices framework for the cloud-native era",
+    "name": "plot-qrank-distribution",
+    "pkg_id": "plot-qrank-distribution#github.com_go_kratos_kratos_cmd_protoc_gen_go_errors_v2",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v2.0.0-20250731084034-f7f150c3f139"
   },
   {
     "description": "Package diagram implements basic programmable diagramming",
@@ -276168,6 +276999,19 @@
     "version": "v1.0.1"
   },
   {
+    "description": "Collect Prometheus exporter metrics over NATS message bus",
+    "name": "prometheus-nats-ambassador",
+    "pkg_id": "prometheus-nats-ambassador#github.com_insikl_prometheus_nats_ambassador",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250806061542-842b270120a4"
+  },
+  {
     "description": "Prometheus Exporter for Tor Onion Services",
     "name": "prometheus-onion-service-exporter",
     "pkg_id": "prometheus-onion-service-exporter#github.com_systemli_prometheus_onion_service_exporter",
@@ -283229,6 +284073,19 @@
     "version": "HEAD-683c426-240208T110342"
   },
   {
+    "description": "Your ultimate Go microservices framework for the cloud-native era",
+    "name": "qrank-builder",
+    "pkg_id": "qrank-builder#github.com_go_kratos_kratos_cmd_protoc_gen_go_errors_v2",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v2.0.0-20250731084034-f7f150c3f139"
+  },
+  {
     "description": "Collection effective tools",
     "name": "qrcode",
     "pkg_id": "qrcode#github.com_dxasu_tools_cmd_qrcode",
@@ -283662,6 +284519,19 @@
     ],
     "updated_at": "2025-06-27",
     "version": "HEAD-39a3f74-250626T165807"
+  },
+  {
+    "description": "Flexible, extensible, and scalable video game matchmaking",
+    "name": "query",
+    "pkg_id": "query#github.com_embarkstudios_open_match",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250702123610-6718ab27b8ae"
   },
   {
     "description": "Hazelcast Go Client",
@@ -287938,6 +288808,19 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.0.0-20250529200258-9cbcdfc03889"
+  },
+  {
+    "description": "Flexible, extensible, and scalable video game matchmaking",
+    "name": "reaper",
+    "pkg_id": "reaper#github.com_embarkstudios_open_match",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250702123610-6718ab27b8ae"
   },
   {
     "description": "💀 Don_t fear the Reaper 👻",
@@ -301371,6 +302254,19 @@
     "version": "HEAD-c05f55e-250625T181330"
   },
   {
+    "description": "Get max,min,average,percentile CPU usages from sacloud API",
+    "name": "sacloud-cpu-usage",
+    "pkg_id": "sacloud-cpu-usage#github.com_kazeburo_sacloud_cpu_usage",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.2.0"
+  },
+  {
     "description": "🏦 A multiplex cold wallet with multisig and MPC.",
     "name": "safe",
     "pkg_id": "safe#github.com_MixinNetwork_safe",
@@ -302791,6 +303687,19 @@
     "version": "HEAD-8f26092-250627T101804"
   },
   {
+    "description": "Flexible, extensible, and scalable video game matchmaking",
+    "name": "scale-backend",
+    "pkg_id": "scale-backend#github.com_embarkstudios_open_match",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250702123610-6718ab27b8ae"
+  },
+  {
     "description": "Go Implementation of the Polkadot Host",
     "name": "scale-down-ecs-service",
     "pkg_id": "scale-down-ecs-service#github.com_chainsafe_gossamer_devnet",
@@ -302802,6 +303711,45 @@
     ],
     "updated_at": "2025-07-24",
     "version": "v0.0.0-20250704190650-a6e2d814519b"
+  },
+  {
+    "description": "Flexible, extensible, and scalable video game matchmaking",
+    "name": "scale-evaluator",
+    "pkg_id": "scale-evaluator#github.com_embarkstudios_open_match",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250702123610-6718ab27b8ae"
+  },
+  {
+    "description": "Flexible, extensible, and scalable video game matchmaking",
+    "name": "scale-frontend",
+    "pkg_id": "scale-frontend#github.com_embarkstudios_open_match",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250702123610-6718ab27b8ae"
+  },
+  {
+    "description": "Flexible, extensible, and scalable video game matchmaking",
+    "name": "scale-mmf",
+    "pkg_id": "scale-mmf#github.com_embarkstudios_open_match",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250702123610-6718ab27b8ae"
   },
   {
     "description": "Golang polkadot substrate scale codec",
@@ -303734,8 +304682,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-31",
-    "version": "v0.0.0-20250725013139-ab9910dcafdf"
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250813201614-3ad0647f324d"
   },
   {
     "description": "A community terraform provider for Microsoft 365 for configuration as code workflows. It can interface with both MS Graph v1.0 _ MS Graph beta API_s. Built upon the terraform provider framework and MS kiota generated graph sdk_s in go.",
@@ -304113,6 +305061,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-240a4b3-250508T110230"
+  },
+  {
+    "description": "Discrete event simulator for testing ECN-based congestion control",
+    "name": "scim",
+    "pkg_id": "scim#github.com_heistp_scim",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250806122050-41c8faa77c6c"
   },
   {
     "description": "Utility libraries for Go _aka Golang_ API auth including OAuth 2, JWT, TLS Client Authentication and Basic Auth.",
@@ -308947,6 +309908,19 @@
     "version": "v0.0.0-20250628230912-c2f9ad7f3448"
   },
   {
+    "description": "MCP sequential thinking tool for enhanced reasoning processes",
+    "name": "sequential_thinking",
+    "pkg_id": "sequential_thinking#github.com_anntnzrb_sequential_thinking",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250708042252-51ce675878de"
+  },
+  {
     "description": "Human-readable ANSI sequences 🪩",
     "name": "sequin",
     "pkg_id": "sequin#github.com_charmbracelet_sequin",
@@ -309124,6 +310098,19 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.0.0-20250601101430-d3e6f63dcf9d"
+  },
+  {
+    "description": "Continusec Key Transparency Server and Client",
+    "name": "servecks",
+    "pkg_id": "servecks#github.com_continusec_key_transparency",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250729050319-819fcac132ab"
   },
   {
     "description": "Simple Go web server",
@@ -309587,6 +310574,19 @@
     ],
     "updated_at": "2025-06-30",
     "version": "v0.0.0-20250323193602-529eb367512b"
+  },
+  {
+    "description": "The code repository for No Starch Press' Network Programming with Go",
+    "name": "server",
+    "pkg_id": "server#github.com_awoodbeck_gnp",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250815230758-d2389d7a9c2d"
   },
   {
     "description": "The progress of learning Go",
@@ -314568,6 +315568,19 @@
     "version": "v0.0.0-20250627160114-e70fd7bde1be"
   },
   {
+    "description": "The code repository for No Starch Press' Network Programming with Go",
+    "name": "sha512-256sum",
+    "pkg_id": "sha512-256sum#github.com_awoodbeck_gnp",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250815230758-d2389d7a9c2d"
+  },
+  {
     "description": "A simple cli tool for removing debug lines in your codebase",
     "name": "shade",
     "pkg_id": "shade#github.com_cod3ddy_shade",
@@ -317108,8 +318121,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-01",
-    "version": "v0.0.0-20250512184904-b0ce75a845df"
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250811102940-94bb71fec08c"
   },
   {
     "description": "微服务工具箱",
@@ -321774,6 +322787,19 @@
     "version": "v0.0.0-20250510190549-b73e0e1dcccb"
   },
   {
+    "description": "Set of Go tools to check different elements of your stack (SSL, SMTP, Permissions",
+    "name": "smtp-checker",
+    "pkg_id": "smtp-checker#github.com_bitnami_healthcheck_tools",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250812063936-dab2eb4856fc"
+  },
+  {
     "description": "Stupid-simple SMTP debugger written mostly by LLMs",
     "name": "smtp-debug",
     "pkg_id": "smtp-debug#github.com_uoregon_libraries_smtp_debug",
@@ -323158,6 +324184,19 @@
     "version": "v0.5.6"
   },
   {
+    "description": "Solana Golang SDK",
+    "name": "solana-go-sdk",
+    "pkg_id": "solana-go-sdk#github.com_holthou_solana_go_sdk",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250815091155-0ec274241912"
+  },
+  {
     "description": "Solana snapshotfinder but golang",
     "name": "solana-snapshot-finder-go",
     "pkg_id": "solana-snapshot-finder-go#github.com_maestroi_solana_snapshot_finder_go",
@@ -323270,6 +324309,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-45fffc4-230420T134531"
+  },
+  {
+    "description": "Flexible, extensible, and scalable video game matchmaking",
+    "name": "soloduel",
+    "pkg_id": "soloduel#github.com_embarkstudios_open_match",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250702123610-6718ab27b8ae"
   },
   {
     "description": "Learning Go(lang) from many resources in Youtube. (E.G. CMDev, Golang Dojo, The Net Ninja, TechWorld with Nana, freeCodeCamp",
@@ -324202,6 +325254,18 @@
     ],
     "updated_at": "2025-06-25",
     "version": "HEAD-613e395-250625T000654"
+  },
+  {
+    "description": "Common solutions and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product",
+    "name": "spanner-interleave-subquery",
+    "pkg_id": "spanner-interleave-subquery#github.com_googlecloudplatform_professional_services_examples_spanner_interleave_subquery",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250807183402-056975c04b1f"
   },
   {
     "description": "My personal fork of spanner-cli",
@@ -326759,7 +327823,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-08-15",
+    "updated_at": "2025-08-16",
     "version": "v0.0.0-20250804101935-0f3117c805df"
   },
   {
@@ -327701,6 +328765,19 @@
     ],
     "updated_at": "2025-06-28",
     "version": "HEAD-5f2d220-250628T122644"
+  },
+  {
+    "description": "Set of Go tools to check different elements of your stack (SSL, SMTP, Permissions",
+    "name": "ssl-checker",
+    "pkg_id": "ssl-checker#github.com_bitnami_healthcheck_tools",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250812063936-dab2eb4856fc"
   },
   {
     "description": "A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus!",
@@ -335439,6 +336516,19 @@
     "version": "HEAD-eee90c1-250623T141711"
   },
   {
+    "description": "Flexible, extensible, and scalable video game matchmaking",
+    "name": "swaggerui",
+    "pkg_id": "swaggerui#github.com_embarkstudios_open_match",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250702123610-6718ab27b8ae"
+  },
+  {
     "description": "Embedded, self-hosted swagger-ui for go servers",
     "name": "swaggerui",
     "pkg_id": "swaggerui#github.com_sg41_swaggerui",
@@ -336756,6 +337846,19 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.0.0-20250630200411-7655b1f6138e"
+  },
+  {
+    "description": "Flexible, extensible, and scalable video game matchmaking",
+    "name": "synchronizer",
+    "pkg_id": "synchronizer#github.com_embarkstudios_open_match",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250702123610-6718ab27b8ae"
   },
   {
     "description": "工具库",
@@ -349060,6 +350163,19 @@
     "version": "v0.1.0"
   },
   {
+    "description": "The code repository for No Starch Press' Network Programming with Go",
+    "name": "tftp",
+    "pkg_id": "tftp#github.com_awoodbeck_gnp",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250815230758-d2389d7a9c2d"
+  },
+  {
     "description": "Merge Automated Resource Space",
     "name": "tftp",
     "pkg_id": "tftp#gitlab.com_mergetb_facility_mars",
@@ -354595,6 +355711,19 @@
     "version": "HEAD-103d71e-250620T170723"
   },
   {
+    "description": "An infrastructure platform for network services",
+    "name": "topology",
+    "pkg_id": "topology#github.com_cisco_open_jalapeno",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250804032658-c40efc921bfd"
+  },
+  {
     "description": "The Fabric Token SDK provides a collection of APIs and services that streamline development for token-based distributed applications.",
     "name": "topology",
     "pkg_id": "topology#github.com_hyperledger_labs_fabric_token_sdk",
@@ -354606,6 +355735,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-c6a84d2-250619T180743"
+  },
+  {
+    "description": "An infrastructure platform for network services",
+    "name": "topology-aio",
+    "pkg_id": "topology-aio#github.com_cisco_open_jalapeno",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250804032658-c40efc921bfd"
   },
   {
     "description": "A collection of community maintained NRI plugins",
@@ -359437,6 +360579,19 @@
     ],
     "updated_at": "2025-06-29",
     "version": "v0.0.0-20250124051520-b61ef61b16a7"
+  },
+  {
+    "description": "The notes I took while learning Golang during the development process, which I thought might be useful to me later",
+    "name": "type-casting",
+    "pkg_id": "type-casting#github.com_daddydemir_golang_space",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250710175050-3b1b6d7ca362"
   },
   {
     "description": "My experiments",
@@ -365741,7 +366896,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-08-15",
+    "updated_at": "2025-08-16",
     "version": "v2.0.0-20250731084034-f7f150c3f139"
   },
   {
@@ -376406,6 +377561,19 @@
     "version": "v0.3.0"
   },
   {
+    "description": "Your ultimate Go microservices framework for the cloud-native era",
+    "name": "webserver",
+    "pkg_id": "webserver#github.com_go_kratos_kratos_cmd_protoc_gen_go_errors_v2",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v2.0.0-20250731084034-f7f150c3f139"
+  },
+  {
     "description": "Small Web Server to serve SPA and static files",
     "name": "webserver",
     "pkg_id": "webserver#github.com_moonrhythm_webserver",
@@ -377061,6 +378229,19 @@
     ],
     "updated_at": "2025-07-10",
     "version": "v0.0.0-20250612115047-1ff8c9569a8a"
+  },
+  {
+    "description": "DevComm-Shanghai Weekly 上海地区高校技术社团联合周报（欢迎投稿",
+    "name": "weekly",
+    "pkg_id": "weekly#github.com_dyweb_weekly_scripts_weekly",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-16",
+    "version": "v0.0.0-20250722061349-19bf1bfb5230"
   },
   {
     "description": "weather app for the terminal",
