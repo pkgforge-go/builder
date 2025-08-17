@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "servedir",
+  "pkg_family": "servedir",
+  "pkg_id": "servedir#github.com_ngs_servedir",
+  "pkg_name": "servedir",
+  "pkg_type": "static",
+  "pkg_webpage": "https://go.ngs.io/servedir/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Simple HTTP server that hosts local directory statically",
+  "homepage": [
+    "https://go.ngs.io/servedir/"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "servedir"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/ngs/servedir/@v/v1.0.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.1",
+  "version_upstream": "",
+  "bsum": "4ab3f1a058d353260c34c7ac812a897a4b5b74f547dc1c18a8c1832720c9d5cb",
+  "build_date": "2025-08-17T05:15:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17016729964",
+  "build_id": "17016729964",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ngs/servedir/servedir?tag=v1.0.1-loongarch64-Linux&download=servedir.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ngs/servedir/servedir?tag=v1.0.1-loongarch64-Linux&download=servedir",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ngs/servedir/servedir:v1.0.1-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ngs/servedir/servedir",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ngs/servedir/servedir?tag=v1.0.1-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "87a752aa957c62268f879e0f130742cf7dfd6bea323d85862d2c2d66dcafe222",
+  "size": "5.9 MB",
+  "size_raw": "6160160",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
