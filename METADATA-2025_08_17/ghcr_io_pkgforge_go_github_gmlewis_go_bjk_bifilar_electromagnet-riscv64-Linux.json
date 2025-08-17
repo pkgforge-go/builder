@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "bifilar-electromagnet",
+  "pkg_family": "go-bjk",
+  "pkg_id": "bifilar-electromagnet#github.com_gmlewis_go_bjk",
+  "pkg_name": "bifilar-electromagnet",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gmlewis/go-bjk",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go program using embedded gopher-lua to generate Blackjack node-based parametric modeling input files with a simple syntax",
+  "homepage": [
+    "https://github.com/gmlewis/go-bjk"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bifilar-electromagnet",
+    "bjk-to-obj",
+    "bjk-to-stl",
+    "extrude-helix",
+    "extrude-quad",
+    "make-bfem-cage",
+    "make-box",
+    "make-elbows",
+    "make-herringbone-gear",
+    "make-svgpath",
+    "scripts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/gmlewis/go-bjk/@v/v0.0.0-20250813201347-71b953cca8e3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250813201347-71b953cca8e3",
+  "version_upstream": "",
+  "bsum": "910e04aa3d9f7aea1fb7cb1a188945eb8690b10178a84f0c13e0b53e8d102869",
+  "build_date": "2025-08-17T15:42:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17022791709",
+  "build_id": "17022791709",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gmlewis/go-bjk/bifilar-electromagnet?tag=v0.0.0-20250813201347-71b953cca8e3-riscv64-Linux&download=bifilar-electromagnet.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gmlewis/go-bjk/bifilar-electromagnet?tag=v0.0.0-20250813201347-71b953cca8e3-riscv64-Linux&download=bifilar-electromagnet",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gmlewis/go-bjk/bifilar-electromagnet:v0.0.0-20250813201347-71b953cca8e3-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gmlewis/go-bjk/bifilar-electromagnet",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gmlewis/go-bjk/bifilar-electromagnet?tag=v0.0.0-20250813201347-71b953cca8e3-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "16e2d9c3fa768d4532a5b86b6be0ac3b78aa8cefb2141760b8dd0b767e7a01b1",
+  "size": "4.1 MB",
+  "size_raw": "4265320",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
