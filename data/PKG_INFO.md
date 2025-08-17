@@ -173,6 +173,7 @@
 - 🐹 **[terraformer](https://github.com/googlecloudplatform/terraformer)**: CLI tool to generate terraform files from existing infrastructure (reverse Terraform).
 - 🐹 **[addlicense](https://www.gitpod.io)**: The developer platform for on-demand cloud development environments to create software faster and more securely.
 - 🐹 **[codegen](https://www.gitpod.io)**: The developer platform for on-demand cloud development environments to create software faster and more securely.
+- 🐹 **[v3](https://github.com/gizak/termui)**: Golang terminal dashboard.
 - 🐹 **[prettylog](https://www.gitpod.io)**: The developer platform for on-demand cloud development environments to create software faster and more securely.
 - 🐹 **[ws-manager-mk2](https://www.gitpod.io)**: The developer platform for on-demand cloud development environments to create software faster and more securely.
 - 🐹 **[cert-manager](https://cert-manager.io)**: Automatically provision and manage TLS certificates in Kubernetes.
@@ -569,6 +570,7 @@
 - 🐹 **[rel-join-condition](https://bun.uptrace.dev)**: SQL-first Golang ORM.
 - 🐹 **[opentelemetry](https://bun.uptrace.dev)**: SQL-first Golang ORM.
 - 🐹 **[rel-has-one](https://bun.uptrace.dev)**: SQL-first Golang ORM.
+- 🐹 **[vimspector_process_list](http://puremourning.github.io/vimspector-web)**: Vimspector - A multi-language debugging system for Vim.
 - 🐹 **[example1](https://gin-gonic.com/docs/)**: A repository to host examples and tutorials for Gin.
 - 🐹 **[tpm-carte-blanche](https://www.google.com/about/appsecurity/)**: This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
 - 🐹 **[extension](https://marketplace.visualstudio.com/items?itemName=golang.Go)**: Go extension for Visual Studio Code.
@@ -645,6 +647,7 @@
 - 🐹 **[gocode](https://github.com/real-logic/simple-binary-encoding)**: Simple Binary Encoding (SBE) - High Performance Message Codec.
 - 🐹 **[examples](https://github.com/knadh/koanf/examples)**: Simple, extremely lightweight, extensible, configuration management library for Go.
 - 🐹 **[localtunnel](https://github.com/progrium/localtunnel)**: Expose localhost servers to the Internet.
+- 🐹 **[modformatter](https://docs.datadoghq.com/)**: Main repository for Datadog Agent.
 - 🐹 **[go-advice](https://github.com/cristaloleg/go-advice)**: List of advice and tricks for Go  ʕ◔ϖ◔ʔ.
 - 🐹 **[go](https://github.com/google/differential-privacy)**: Google's differential privacy libraries.
 - 🐹 **[independent-lint](https://docs.datadoghq.com/)**: Main repository for Datadog Agent.
@@ -657,6 +660,7 @@
 - 🐹 **[hardentools](https://github.com/securitywithoutborders/hardentools)**: Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
 - 🐹 **[docs-chef-io](http://inspec.io)**: InSpec: Auditing and Testing Framework.
 - 🐹 **[graphjin](https://graphjin.com)**: GraphJin - Build NodeJS / GO APIs in 5 minutes not weeks.
+- 🐹 **[chaincode-go](https://lf-hyperledger.atlassian.net/wiki/spaces/fabric)**: Samples for Hyperledger Fabric.
 - 🐹 **[application-go](https://lf-hyperledger.atlassian.net/wiki/spaces/fabric)**: Samples for Hyperledger Fabric.
 - 🐹 **[application-go](https://lf-hyperledger.atlassian.net/wiki/spaces/fabric)**: Samples for Hyperledger Fabric.
 - 🐹 **[chaincode-go](https://lf-hyperledger.atlassian.net/wiki/spaces/fabric)**: Samples for Hyperledger Fabric.
@@ -715,6 +719,7 @@
 - 🐹 **[local-path-provisioner](https://github.com/rancher/local-path-provisioner)**: Dynamically provisioning persistent local storage with Kubernetes.
 - 🐹 **[dnstester](https://www.inspektor-gadget.io)**: Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF.
 - 🐹 **[testjson2md](https://www.inspektor-gadget.io)**: Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF.
+- 🐹 **[bitbar-plugins](https://xbarapp.com)**: Plugin repository for xbar (the BitBar reboot.
 - 🐹 **[xbar-plugins](https://xbarapp.com)**: Plugin repository for xbar (the BitBar reboot.
 - 🐹 **[test](https://please.build)**: High-performance extensible build system for reproducible multi-language builds.
 - 🐹 **[scripts](https://registry.terraform.io/providers/hashicorp/google/latest/docs)**: Terraform Provider for Google Cloud Platform.
@@ -731,6 +736,7 @@
 - 🐹 **[ts-proto](https://github.com/stephenh/ts-proto)**: An idiomatic protobuf generator for TypeScript.
 - 🐹 **[gosearch](https://github.com/ibnaleem/gosearch)**: Search anyone's digital footprint across 300+ websites.
 - 🐹 **[glb-director-xdp](https://github.com/github/glb-director)**: GitHub Load Balancer Director and supporting tooling.
+- 🐹 **[glb-healthcheck](https://github.com/github/glb-director)**: GitHub Load Balancer Director and supporting tooling.
 - 🐹 **[govc](https://github.com/vmware/govmomi)**: Go library for the VMware vSphere API.
 - 🐹 **[vcsim](https://github.com/vmware/govmomi)**: Go library for the VMware vSphere API.
 - 🐹 **[agent](https://github.com/aws/amazon-vpc-cni-k8s)**: Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS.
@@ -744,6 +750,7 @@
 - 🐹 **[bench](https://github.com/twmb/franz-go)**: Franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.
 - 🐹 **[v2](https://www.krakend.io)**: KrakenD Community Edition: High-performance, stateless, declarative, API Gateway written in Go.
 - 🐹 **[v2](https://www.krakend.io)**: KrakenD Community Edition: High-performance, stateless, declarative, API Gateway written in Go.
+- 🐹 **[whoami.filippo.io](https://github.com/filosottile/whoami.filippo.io)**: A ssh server that knows who you are.
 - 🐹 **[kubie](https://blog.sbstp.ca/introducing-kubie/)**: A more powerful alternative to kubectx and kubens.
 - 🐹 **[yopass](https://yopass.se)**: Secure sharing of secrets, passwords and files.
 - 🐹 **[nodeinit](https://octelium.com/docs)**: A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP & A2A architectures or even as an ngrok-alternative and a homelab infrastructure.
@@ -803,6 +810,7 @@
 - 🐹 **[perf](https://docs.microsoft.com/azure/developer/go/)**: This repository is for active development of the Azure SDK for Go.
 - 🐹 **[perf](https://docs.microsoft.com/azure/developer/go/)**: This repository is for active development of the Azure SDK for Go.
 - 🐹 **[perf](https://docs.microsoft.com/azure/developer/go/)**: This repository is for active development of the Azure SDK for Go.
+- 🐹 **[saveshare](https://hub.docker.com/r/wolveix/satisfactory-server)**: A Dockerized version of the Satisfactory dedicated server.
 - 🐹 **[firehose-transformation-sam-go](https://serverlessland.com)**: Serverless patterns.
 - 🐹 **[CompileDaemon](https://github.com/githubnemo/CompileDaemon)**: Very simple compile daemon for Go.
 - 🐹 **[go-pinyin](https://godoc.org/github.com/mozillazg/go-pinyin)**: 汉字转拼音.
@@ -861,6 +869,8 @@
 - 🐹 **[gcs-fetcher](https://cloud.google.com/cloud-build/)**: Builder images and examples commonly used for Google Cloud Build.
 - 🐹 **[graphviz](https://gitlab.com/graphviz/graphviz)**: Graph Visualization Tools.
 - 🐹 **[fansmedalhelper](https://doc.loveava.top/)**: 新版B站粉丝牌助手 全自动升级粉丝牌.
+- 🐹 **[nativelink](https://nativelink.com)**: NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Pants, Buck2, Reclient, and other RE-compatible build systems.
+- 🐹 **[pghoard](http://aiven-open.github.io/pghoard/)**: PostgreSQL® backup and restore service.
 - 🐹 **[pghoard](http://aiven-open.github.io/pghoard/)**: PostgreSQL® backup and restore service.
 - 🐹 **[smoke](https://nydus.dev/)**: Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.
 - 🐹 **[nydus-overlayfs](https://nydus.dev/)**: Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.
@@ -1011,6 +1021,7 @@
 - 🐹 **[gofrontend](https://github.com/golang/gofrontend)**: Go compiler frontend (gccgo.
 - 🐹 **[teamcity-diff-check](https://googlecloudplatform.github.io/magic-modules/)**: Add Google Cloud Platform support to Terraform.
 - 🐹 **[e2e](https://opentelemetry.io)**: OpenTelemetry Auto Instrumentation using eBPF.
+- 🐹 **[go](https://dropbox.tech/infrastructure/-broccoli--syncing-faster-by-syncing-less)**: Brotli compressor and decompressor written in rust that optionally avoids the stdlib.
 - 🐹 **[spp](https://github.com/esrrhs/spp)**: A simple and powerful proxy.
 - 🐹 **[mangle-test-json](https://azure.github.io/azure-service-operator/)**: Azure Service Operator allows you to create Azure resources using kubectl.
 - 🐹 **[exp](https://golang.org/x/exp)**: Mirror] Experimental and deprecated packages.
