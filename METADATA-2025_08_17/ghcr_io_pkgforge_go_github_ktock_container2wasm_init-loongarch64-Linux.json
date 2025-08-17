@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "init",
+  "pkg_family": "container2wasm",
+  "pkg_id": "init#github.com_ktock_container2wasm",
+  "pkg_name": "init",
+  "pkg_type": "static",
+  "pkg_webpage": "https://ktock.github.io/container2wasm-demo/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Container to WASM converter",
+  "homepage": [
+    "https://ktock.github.io/container2wasm-demo/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "c2w",
+    "c2w-net",
+    "create-spec",
+    "get-qemu-state",
+    "httphello",
+    "init"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/container2wasm/container2wasm/@v/v0.8.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.8.3",
+  "version_upstream": "",
+  "bsum": "3bf29f61a6749b3c6c96b2249f6d753cbca0bae985e889d2f82f6cae574de637",
+  "build_date": "2025-08-17T02:12:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17015472729",
+  "build_id": "17015472729",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ktock/container2wasm/init?tag=v0.8.3-loongarch64-Linux&download=init.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2378",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ktock/container2wasm/init?tag=v0.8.3-loongarch64-Linux&download=init",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ktock/container2wasm/init:v0.8.3-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ktock/container2wasm/init",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ktock/container2wasm/init?tag=v0.8.3-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "233afb68aceef306c2577495a8a1af321b7f7d10a7cb5aab0cfc4f3e043a33b4",
+  "size": "2.8 MB",
+  "size_raw": "2896504",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.8.3-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
