@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "zombie",
+  "pkg_family": "leakless",
+  "pkg_id": "zombie#github.com_huski_inc_leakless",
+  "pkg_name": "zombie",
+  "pkg_type": "static",
+  "pkg_webpage": "https://godoc.org/github.com/ysmood/leakless",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Thou shalt not stay",
+  "homepage": [
+    "https://godoc.org/github.com/ysmood/leakless"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "leakless",
+    "pack",
+    "pack-debug",
+    "test",
+    "zombie"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/huski-inc/leakless/@v/v0.9.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.9.1",
+  "version_upstream": "",
+  "bsum": "db66983a7a3cff2d24681dc3a264429d4942801c497b65d2c9f2334f6e2cc43c",
+  "build_date": "2025-08-17T04:52:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17016573786",
+  "build_id": "17016573786",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/huski-inc/leakless/zombie?tag=v0.9.1-loongarch64-Linux&download=zombie.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/huski-inc/leakless/zombie?tag=v0.9.1-loongarch64-Linux&download=zombie",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/huski-inc/leakless/zombie:v0.9.1-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/huski-inc/leakless/zombie",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/huski-inc/leakless/zombie?tag=v0.9.1-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "14d5105a47138a0b8ecd49c88bbf08d995f8bce0cdf9e928650fdf31a67f1363",
+  "size": "2.2 MB",
+  "size_raw": "2241440",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
