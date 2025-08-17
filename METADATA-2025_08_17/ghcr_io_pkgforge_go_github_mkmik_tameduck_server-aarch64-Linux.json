@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "tameduck",
+  "pkg_id": "server#github.com_mkmik_tameduck",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mkmik/tameduck",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Example of graceful rollouts for http servers on k8s",
+  "homepage": [
+    "https://github.com/mkmik/tameduck"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/mkmik/tameduck/@v/v0.0.0-20250811134344-0392030f04c2.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250811134344-0392030f04c2",
+  "version_upstream": "",
+  "bsum": "2f7f147c581874d5ec2303ea6d9856a69ae802af8f1fd1b6c7599a7231372b3d",
+  "build_date": "2025-08-17T05:12:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17016705669",
+  "build_id": "17016705669",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mkmik/tameduck/server?tag=v0.0.0-20250811134344-0392030f04c2-aarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mkmik/tameduck/server?tag=v0.0.0-20250811134344-0392030f04c2-aarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mkmik/tameduck/server:v0.0.0-20250811134344-0392030f04c2-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mkmik/tameduck/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mkmik/tameduck/server?tag=v0.0.0-20250811134344-0392030f04c2-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ee4e29494e54d9e501f3331ddb29b206a6e3e6bc73ee06b5ecc021c7d10f8a5b",
+  "size": "11 MB",
+  "size_raw": "10602016",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
