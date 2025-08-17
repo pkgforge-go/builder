@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "downtime-server",
+  "pkg_family": "utils",
+  "pkg_id": "downtime-server#github.com_kubernetes_sigs_kubebuilder_docs_book_utils",
+  "pkg_name": "downtime-server",
+  "pkg_type": "static",
+  "pkg_webpage": "http://book.kubebuilder.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubebuilder - SDK for building Kubernetes APIs using CRDs",
+  "homepage": [
+    "http://book.kubebuilder.io"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dcomp",
+    "doh-poke",
+    "doh2dns",
+    "downtime-client",
+    "downtime-server",
+    "git-sort-repo",
+    "mc-logchat",
+    "mc-server-icon",
+    "mc2se",
+    "moba-cracker",
+    "sys-info",
+    "wscli"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/merith-tk/utils/@v/v0.0.0-20250710011649-922eab8d0105.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250813124309-43f1f5e532ee",
+  "version_upstream": "",
+  "bsum": "25ccf5ca21f3f57b7897857bb9759ed7e3cd5df92c0d7e8124fc407af69cc24a",
+  "build_date": "2025-08-17T05:09:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17016662597",
+  "build_id": "17016662597",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/kubebuilder/docs/book/utils/downtime-server?tag=v0.0.0-20250813124309-43f1f5e532ee-loongarch64-Linux&download=downtime-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8625",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/kubebuilder/docs/book/utils/downtime-server?tag=v0.0.0-20250813124309-43f1f5e532ee-loongarch64-Linux&download=downtime-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes-sigs/kubebuilder/docs/book/utils/downtime-server:v0.0.0-20250813124309-43f1f5e532ee-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes-sigs/kubebuilder/docs/book/utils/downtime-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes-sigs/kubebuilder/docs/book/utils/downtime-server?tag=v0.0.0-20250813124309-43f1f5e532ee-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6eadedf65a99abe9c0f0542fe6be12918b88cb9f1ed66e6a0a6cabedb1e2a535",
+  "size": "6.0 MB",
+  "size_raw": "6261632",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
