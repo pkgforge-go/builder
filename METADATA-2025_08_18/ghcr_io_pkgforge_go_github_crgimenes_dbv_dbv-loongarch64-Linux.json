@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "dbv",
+  "pkg_family": "dbv",
+  "pkg_id": "dbv#github.com_crgimenes_dbv",
+  "pkg_name": "dbv",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/crgimenes/dbv",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Terminal-based PostgreSQL viewer and editor designed for fast browsing, quick edits, and easy data handling",
+  "homepage": [
+    "https://github.com/crgimenes/dbv"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dbv",
+    "dbv_edit",
+    "sqllsp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/crgimenes/dbv/@v/v0.1.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.1.0",
+  "version_upstream": "",
+  "bsum": "6926c52f2ee81a4f7cd0f916d14f90a3fc8dbc84cce48cc8d27ba2bf7f8945ad",
+  "build_date": "2025-08-18T04:21:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17030708257",
+  "build_id": "17030708257",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/crgimenes/dbv/dbv?tag=v0.1.0-loongarch64-Linux&download=dbv.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/crgimenes/dbv/dbv?tag=v0.1.0-loongarch64-Linux&download=dbv",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/crgimenes/dbv/dbv:v0.1.0-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/crgimenes/dbv/dbv",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/crgimenes/dbv/dbv?tag=v0.1.0-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d7f0a0c18e90c475c8dceb4b4a8c1a427447bb8e47054ae0efe67046eeb867f2",
+  "size": "13 MB",
+  "size_raw": "12778720",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
