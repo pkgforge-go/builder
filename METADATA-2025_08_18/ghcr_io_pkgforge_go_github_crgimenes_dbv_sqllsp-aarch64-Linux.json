@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "sqllsp",
+  "pkg_family": "dbv",
+  "pkg_id": "sqllsp#github.com_crgimenes_dbv",
+  "pkg_name": "sqllsp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/crgimenes/dbv",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Terminal-based PostgreSQL viewer and editor designed for fast browsing, quick edits, and easy data handling",
+  "homepage": [
+    "https://github.com/crgimenes/dbv"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dbv",
+    "dbv_edit",
+    "sqllsp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/crgimenes/dbv/@v/v0.1.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.1.0",
+  "version_upstream": "",
+  "bsum": "26278e1101a4e1a5bc3bc18bb8dd4d806eae5d82f657c828514d9480f501b0f0",
+  "build_date": "2025-08-18T04:21:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17030708257",
+  "build_id": "17030708257",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/crgimenes/dbv/sqllsp?tag=v0.1.0-aarch64-Linux&download=sqllsp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/crgimenes/dbv/sqllsp?tag=v0.1.0-aarch64-Linux&download=sqllsp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/crgimenes/dbv/sqllsp:v0.1.0-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/crgimenes/dbv/sqllsp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/crgimenes/dbv/sqllsp?tag=v0.1.0-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d2a4eab8a7b54649d86d45d7c001fb20689a3c310aa03f17a15cad6696edd276",
+  "size": "2.0 MB",
+  "size_raw": "2077592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
