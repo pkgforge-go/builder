@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "hraftd",
+  "pkg_family": "hraftd",
+  "pkg_id": "hraftd#github.com_otoolep_hraftd",
+  "pkg_name": "hraftd",
+  "pkg_type": "static",
+  "pkg_webpage": "http://www.philipotoole.com/building-a-distributed-key-value-store-using-raft/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A reference use of Hashicorp's Raft implementation",
+  "homepage": [
+    "http://www.philipotoole.com/building-a-distributed-key-value-store-using-raft/"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hraftd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/otoolep/hraftd/@v/v0.0.0-20250817132209-b931e1f8956e.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250817132209-b931e1f8956e",
+  "version_upstream": "",
+  "bsum": "9ab6eac1f42387f8735c8125a521c84d5b8f78e77042fea10d2582f801fde106",
+  "build_date": "2025-08-18T05:07:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17030833429",
+  "build_id": "17030833429",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/otoolep/hraftd/hraftd?tag=v0.0.0-20250817132209-b931e1f8956e-x86_64-Linux&download=hraftd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1045",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/otoolep/hraftd/hraftd?tag=v0.0.0-20250817132209-b931e1f8956e-x86_64-Linux&download=hraftd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/otoolep/hraftd/hraftd:v0.0.0-20250817132209-b931e1f8956e-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/otoolep/hraftd/hraftd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/otoolep/hraftd/hraftd?tag=v0.0.0-20250817132209-b931e1f8956e-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5fda5c82ec03898c60aedfc0ff373819841b4399f79a34f165af87ec1d39539e",
+  "size": "8.8 MB",
+  "size_raw": "9132160",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
