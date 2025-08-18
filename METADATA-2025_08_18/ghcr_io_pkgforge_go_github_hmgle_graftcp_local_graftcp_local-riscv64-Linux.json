@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "graftcp-local",
+  "pkg_family": "local",
+  "pkg_id": "graftcp-local#github.com_hmgle_graftcp_local",
+  "pkg_name": "graftcp-local",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hmgle/graftcp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy",
+  "homepage": [
+    "https://github.com/hmgle/graftcp"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "graftcp-local"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/hmgle/graftcp/local/@v/v0.0.0-20250817075132-ebb5ad865f67.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250817075132-ebb5ad865f67",
+  "version_upstream": "",
+  "bsum": "b1d7de309ede56e3bf9d609d05afbfda49f26c83697ca3d392558ab07759a3b2",
+  "build_date": "2025-08-18T04:34:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17030750681",
+  "build_id": "17030750681",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hmgle/graftcp/local/graftcp-local?tag=v0.0.0-20250817075132-ebb5ad865f67-riscv64-Linux&download=graftcp-local.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2293",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hmgle/graftcp/local/graftcp-local?tag=v0.0.0-20250817075132-ebb5ad865f67-riscv64-Linux&download=graftcp-local",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hmgle/graftcp/local/graftcp-local:v0.0.0-20250817075132-ebb5ad865f67-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hmgle/graftcp/local/graftcp-local",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hmgle/graftcp/local/graftcp-local?tag=v0.0.0-20250817075132-ebb5ad865f67-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3297791d9ba58bc4b78b163983b7a1a5fa3630b31a4578ec5d07d7e1d8053b3a",
+  "size": "6.6 MB",
+  "size_raw": "6889240",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
