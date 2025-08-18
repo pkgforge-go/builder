@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "nats-cron",
+  "pkg_family": "nats-cron",
+  "pkg_id": "nats-cron#github.com_trader7_nats_cron",
+  "pkg_name": "nats-cron",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/trader7/nats-cron",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Nats-cron is a distributed, leader-elected job scheduler that publishes messages to NATS subjects on a fixed interval or cron schedule. Jobs are defined via NATS key-value storage and executed reliably by a single active instance, with automatic failover and dynamic updates",
+  "homepage": [
+    "https://github.com/trader7/nats-cron"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "nats-cron",
+    "nats-cron-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/trader7/nats-cron/@v/v0.1.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.1.1",
+  "version_upstream": "",
+  "bsum": "b04f385675498724373d4f6d6b1d4dafc835153be5c847f8893fcf91996fccd1",
+  "build_date": "2025-08-18T05:27:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17031083524",
+  "build_id": "17031083524",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/trader7/nats-cron/nats-cron?tag=v0.1.1-x86_64-Linux&download=nats-cron.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/trader7/nats-cron/nats-cron?tag=v0.1.1-x86_64-Linux&download=nats-cron",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/trader7/nats-cron/nats-cron:v0.1.1-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/trader7/nats-cron/nats-cron",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/trader7/nats-cron/nats-cron?tag=v0.1.1-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "aadb5a7e11195729a55f6e37f3e5f33801cc8b0ef283e71a487b31574a67f3b6",
+  "size": "6.8 MB",
+  "size_raw": "7051488",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
