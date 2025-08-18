@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "ocp-efa-device-plugin",
+  "pkg_family": "ocp-efa-operator",
+  "pkg_id": "ocp-efa-device-plugin#github.com_foundation_model_stack_ocp_efa_operator",
+  "pkg_name": "ocp-efa-device-plugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/foundation-model-stack/ocp-efa-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator that enables EFA and/or GDRCOPY in an OpenShift cluster",
+  "homepage": [
+    "https://github.com/foundation-model-stack/ocp-efa-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ocp-efa-device-plugin",
+    "ocp-efa-operator",
+    "ocp-gdrdrv-device-plugin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/foundation-model-stack/ocp-efa-operator/@v/v0.0.0-20250723004253-14cbff6f9868.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250723004253-14cbff6f9868",
+  "version_upstream": "",
+  "bsum": "ac78ac4541bbe9acac92f66b769688e1af507d0cba873035d331c78620d32221",
+  "build_date": "2025-08-18T04:26:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17030713917",
+  "build_id": "17030713917",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foundation-model-stack/ocp-efa-operator/ocp-efa-device-plugin?tag=v0.0.0-20250723004253-14cbff6f9868-loongarch64-Linux&download=ocp-efa-device-plugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foundation-model-stack/ocp-efa-operator/ocp-efa-device-plugin?tag=v0.0.0-20250723004253-14cbff6f9868-loongarch64-Linux&download=ocp-efa-device-plugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/foundation-model-stack/ocp-efa-operator/ocp-efa-device-plugin:v0.0.0-20250723004253-14cbff6f9868-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/foundation-model-stack/ocp-efa-operator/ocp-efa-device-plugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foundation-model-stack/ocp-efa-operator/ocp-efa-device-plugin?tag=v0.0.0-20250723004253-14cbff6f9868-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3eb4ec32be8dfa9cc64983709b305f82885d44ad57e7fbe88e9633ab1c014e2d",
+  "size": "12 MB",
+  "size_raw": "12123840",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
