@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "multiorch",
+  "pkg_family": "multigres",
+  "pkg_id": "multiorch#github.com_multigres_multigres",
+  "pkg_name": "multiorch",
+  "pkg_type": "static",
+  "pkg_webpage": "https://multigres.com",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Vitess for Postgres",
+  "homepage": [
+    "https://multigres.com"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "multigateway",
+    "multiorch",
+    "multipooler",
+    "pgctld"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/multigres/multigres/@v/v0.0.0-20250816033024-e649d18c5e73.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250816033024-e649d18c5e73",
+  "version_upstream": "",
+  "bsum": "a30c4fdc06fd5eab977e33b0268f968cd2696fa6858d488ffba7e2de0c66b118",
+  "build_date": "2025-08-18T05:02:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17030820788",
+  "build_id": "17030820788",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/multigres/multigres/multiorch?tag=v0.0.0-20250816033024-e649d18c5e73-x86_64-Linux&download=multiorch.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1209",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/multigres/multigres/multiorch?tag=v0.0.0-20250816033024-e649d18c5e73-x86_64-Linux&download=multiorch",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/multigres/multigres/multiorch:v0.0.0-20250816033024-e649d18c5e73-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/multigres/multigres/multiorch",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/multigres/multigres/multiorch?tag=v0.0.0-20250816033024-e649d18c5e73-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2a1ca69e6708017421daa6407441cfed24cb457a42dd09a48e0c6d8d511073da",
+  "size": "5.3 MB",
+  "size_raw": "5551616",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
