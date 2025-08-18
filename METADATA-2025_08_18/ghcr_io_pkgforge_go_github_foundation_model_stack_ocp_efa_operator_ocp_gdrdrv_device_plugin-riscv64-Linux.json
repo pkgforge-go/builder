@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ocp-gdrdrv-device-plugin",
+  "pkg_family": "ocp-efa-operator",
+  "pkg_id": "ocp-gdrdrv-device-plugin#github.com_foundation_model_stack_ocp_efa_operator",
+  "pkg_name": "ocp-gdrdrv-device-plugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/foundation-model-stack/ocp-efa-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Operator that enables EFA and/or GDRCOPY in an OpenShift cluster",
+  "homepage": [
+    "https://github.com/foundation-model-stack/ocp-efa-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ocp-efa-device-plugin",
+    "ocp-efa-operator",
+    "ocp-gdrdrv-device-plugin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/foundation-model-stack/ocp-efa-operator/@v/v0.0.0-20250723004253-14cbff6f9868.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250723004253-14cbff6f9868",
+  "version_upstream": "",
+  "bsum": "f10ed1adf65997d68904e7000334f5597d62efc9e45ce94a0060b5918b26172c",
+  "build_date": "2025-08-18T04:26:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17030713917",
+  "build_id": "17030713917",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foundation-model-stack/ocp-efa-operator/ocp-gdrdrv-device-plugin?tag=v0.0.0-20250723004253-14cbff6f9868-riscv64-Linux&download=ocp-gdrdrv-device-plugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foundation-model-stack/ocp-efa-operator/ocp-gdrdrv-device-plugin?tag=v0.0.0-20250723004253-14cbff6f9868-riscv64-Linux&download=ocp-gdrdrv-device-plugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/foundation-model-stack/ocp-efa-operator/ocp-gdrdrv-device-plugin:v0.0.0-20250723004253-14cbff6f9868-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/foundation-model-stack/ocp-efa-operator/ocp-gdrdrv-device-plugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/foundation-model-stack/ocp-efa-operator/ocp-gdrdrv-device-plugin?tag=v0.0.0-20250723004253-14cbff6f9868-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "38c4f483acc662041cb7350626c8d417491c18e4050ac9d3480dbf27242294c5",
+  "size": "12 MB",
+  "size_raw": "11984120",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
