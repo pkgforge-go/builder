@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "nats-trader",
+  "pkg_family": "dex",
+  "pkg_id": "nats-trader#github.com_0xerr0r_dex",
+  "pkg_name": "nats-trader",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/0xerr0r/dex",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Prometheus Docker EXporter",
+  "homepage": [
+    "https://github.com/0xerr0r/dex"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark-lockfree",
+    "benchmark-ultra",
+    "demo",
+    "dex-server",
+    "fix-benchmark",
+    "lx-metrics",
+    "monitor",
+    "nats-auto",
+    "nats-dex",
+    "nats-trader",
+    "perf-test",
+    "persistent-server",
+    "stress-test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/luxfi/dex/@v/v0.0.0-20250818210438-e4d7e5d17bdd.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.41",
+  "version_upstream": "",
+  "bsum": "5a16f3ced023d3c33b4113f24347e1e2a2882c3149225b6b67a8a8e3f545a0db",
+  "build_date": "2025-08-19T15:55:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17074560426",
+  "build_id": "17074560426",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/0xerr0r/dex/nats-trader?tag=v0.0.41-aarch64-Linux&download=nats-trader.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "70",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/0xerr0r/dex/nats-trader?tag=v0.0.41-aarch64-Linux&download=nats-trader",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/0xerr0r/dex/nats-trader:v0.0.41-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/0xerr0r/dex/nats-trader",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/0xerr0r/dex/nats-trader?tag=v0.0.41-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "77f3d054305878be49ddbe4ef0a452954a6282e19589eba0afde3b350222f111",
+  "size": "6.1 MB",
+  "size_raw": "6350624",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

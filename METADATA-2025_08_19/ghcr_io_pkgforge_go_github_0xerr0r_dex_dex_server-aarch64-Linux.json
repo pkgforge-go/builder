@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "dex-server",
+  "pkg_family": "dex",
+  "pkg_id": "dex-server#github.com_0xerr0r_dex",
+  "pkg_name": "dex-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/0xerr0r/dex",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Prometheus Docker EXporter",
+  "homepage": [
+    "https://github.com/0xerr0r/dex"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark-lockfree",
+    "benchmark-ultra",
+    "demo",
+    "dex-server",
+    "fix-benchmark",
+    "lx-metrics",
+    "monitor",
+    "nats-auto",
+    "nats-dex",
+    "nats-trader",
+    "perf-test",
+    "persistent-server",
+    "stress-test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/luxfi/dex/@v/v0.0.0-20250818210438-e4d7e5d17bdd.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.41",
+  "version_upstream": "",
+  "bsum": "2bd4e7e65993fc52fbc37cb1a15c86ec7dc5a1641499e39cc9a5b8ea8e9fe673",
+  "build_date": "2025-08-19T15:56:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17074560426",
+  "build_id": "17074560426",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/0xerr0r/dex/dex-server?tag=v0.0.41-aarch64-Linux&download=dex-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "70",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/0xerr0r/dex/dex-server?tag=v0.0.41-aarch64-Linux&download=dex-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/0xerr0r/dex/dex-server:v0.0.41-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/0xerr0r/dex/dex-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/0xerr0r/dex/dex-server?tag=v0.0.41-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e64f69fa4fad03a5fe0a982c5662a65b54d0301f414def588f6bb8b36d8453d8",
+  "size": "6.1 MB",
+  "size_raw": "6335584",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

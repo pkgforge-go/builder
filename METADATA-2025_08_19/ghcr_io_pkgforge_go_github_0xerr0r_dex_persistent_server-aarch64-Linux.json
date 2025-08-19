@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "persistent-server",
+  "pkg_family": "dex",
+  "pkg_id": "persistent-server#github.com_0xerr0r_dex",
+  "pkg_name": "persistent-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/0xerr0r/dex",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Prometheus Docker EXporter",
+  "homepage": [
+    "https://github.com/0xerr0r/dex"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark-lockfree",
+    "benchmark-ultra",
+    "demo",
+    "dex-server",
+    "fix-benchmark",
+    "lx-metrics",
+    "monitor",
+    "nats-auto",
+    "nats-dex",
+    "nats-trader",
+    "perf-test",
+    "persistent-server",
+    "stress-test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/luxfi/dex/@v/v0.0.0-20250818210438-e4d7e5d17bdd.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.41",
+  "version_upstream": "",
+  "bsum": "b5bb29072c9e6c75dd06e1e9db615742c99c978be1417feb561866d1d8e9880e",
+  "build_date": "2025-08-19T15:56:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17074560426",
+  "build_id": "17074560426",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/0xerr0r/dex/persistent-server?tag=v0.0.41-aarch64-Linux&download=persistent-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "70",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/0xerr0r/dex/persistent-server?tag=v0.0.41-aarch64-Linux&download=persistent-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/0xerr0r/dex/persistent-server:v0.0.41-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/0xerr0r/dex/persistent-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/0xerr0r/dex/persistent-server?tag=v0.0.41-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5b75d8c6111770949513617375cff1d6d82838fe7bb70ca1c531ff949bbac5ca",
+  "size": "6.3 MB",
+  "size_raw": "6540576",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
