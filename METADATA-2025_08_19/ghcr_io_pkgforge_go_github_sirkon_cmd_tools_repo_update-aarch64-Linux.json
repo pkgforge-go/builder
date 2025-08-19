@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "repo-update",
+  "pkg_family": "cmd-tools",
+  "pkg_id": "repo-update#github.com_sirkon_cmd_tools",
+  "pkg_name": "repo-update",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sirkon/cmd-tools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Repository for my command line tools",
+  "homepage": [
+    "https://github.com/sirkon/cmd-tools"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "commit-msg",
+    "gallery",
+    "gamekill",
+    "git-reset-hard",
+    "repo-clean",
+    "repo-find",
+    "repo-update"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sirkon/cmd-tools/@v/v0.0.0-20250809121803-417ada181e7c.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250809121803-417ada181e7c",
+  "version_upstream": "",
+  "bsum": "17e2a95187f492d7ee7ead34a93df0a0c8bf7807f779dff9821f4e6f4eaafdbf",
+  "build_date": "2025-08-19T05:02:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17059336560",
+  "build_id": "17059336560",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sirkon/cmd-tools/repo-update?tag=v0.0.0-20250809121803-417ada181e7c-aarch64-Linux&download=repo-update.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sirkon/cmd-tools/repo-update?tag=v0.0.0-20250809121803-417ada181e7c-aarch64-Linux&download=repo-update",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sirkon/cmd-tools/repo-update:v0.0.0-20250809121803-417ada181e7c-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sirkon/cmd-tools/repo-update",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sirkon/cmd-tools/repo-update?tag=v0.0.0-20250809121803-417ada181e7c-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1592980102aab5d30fb871f5b5a9487599b78a4265840446ebb5a383b07d278b",
+  "size": "2.8 MB",
+  "size_raw": "2857848",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

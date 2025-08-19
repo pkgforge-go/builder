@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "repo-clean",
+  "pkg_family": "cmd-tools",
+  "pkg_id": "repo-clean#github.com_sirkon_cmd_tools",
+  "pkg_name": "repo-clean",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sirkon/cmd-tools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Repository for my command line tools",
+  "homepage": [
+    "https://github.com/sirkon/cmd-tools"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "commit-msg",
+    "gallery",
+    "gamekill",
+    "git-reset-hard",
+    "repo-clean",
+    "repo-find",
+    "repo-update"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sirkon/cmd-tools/@v/v0.0.0-20250809121803-417ada181e7c.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250809121803-417ada181e7c",
+  "version_upstream": "",
+  "bsum": "c0b15212d650647076b97df26d51eb43283104bfca68ec65d84bc9effb709679",
+  "build_date": "2025-08-19T05:02:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17059336560",
+  "build_id": "17059336560",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sirkon/cmd-tools/repo-clean?tag=v0.0.0-20250809121803-417ada181e7c-aarch64-Linux&download=repo-clean.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sirkon/cmd-tools/repo-clean?tag=v0.0.0-20250809121803-417ada181e7c-aarch64-Linux&download=repo-clean",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sirkon/cmd-tools/repo-clean:v0.0.0-20250809121803-417ada181e7c-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sirkon/cmd-tools/repo-clean",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sirkon/cmd-tools/repo-clean?tag=v0.0.0-20250809121803-417ada181e7c-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ea0da1fe9960e9e00d460ebfc5254610510e1d0174eed9b11e1eb88d936645f2",
+  "size": "2.4 MB",
+  "size_raw": "2412056",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
