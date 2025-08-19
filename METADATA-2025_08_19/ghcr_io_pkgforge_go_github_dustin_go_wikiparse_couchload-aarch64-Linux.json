@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "couchload",
+  "pkg_family": "go-wikiparse",
+  "pkg_id": "couchload#github.com_dustin_go_wikiparse",
+  "pkg_name": "couchload",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dustin/go-wikiparse",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Mediawiki dump parser for loading up wikipedia data",
+  "homepage": [
+    "https://github.com/dustin/go-wikiparse"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cbload",
+    "couchload",
+    "esload",
+    "mgoload",
+    "traverse"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/dustin/go-wikiparse/@v/v0.0.0-20250818020950-367bf091230b.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250818020950-367bf091230b",
+  "version_upstream": "",
+  "bsum": "fc200ebcf3282f6f7445c8672b0e8905dfa763dc6b8a622be204e22984f0b72b",
+  "build_date": "2025-08-19T04:12:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17059056532",
+  "build_id": "17059056532",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dustin/go-wikiparse/couchload?tag=v0.0.0-20250818020950-367bf091230b-aarch64-Linux&download=couchload.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "106",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dustin/go-wikiparse/couchload?tag=v0.0.0-20250818020950-367bf091230b-aarch64-Linux&download=couchload",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dustin/go-wikiparse/couchload:v0.0.0-20250818020950-367bf091230b-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dustin/go-wikiparse/couchload",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dustin/go-wikiparse/couchload?tag=v0.0.0-20250818020950-367bf091230b-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dd6115bd2ed056530eb3f16ff891cc7bb647383ccb1ed4a0c120db613908704c",
+  "size": "6.4 MB",
+  "size_raw": "6624960",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
