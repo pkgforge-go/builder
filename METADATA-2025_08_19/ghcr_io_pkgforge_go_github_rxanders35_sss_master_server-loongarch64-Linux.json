@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "master_server",
+  "pkg_family": "sss",
+  "pkg_id": "master_server#github.com_rxanders35_sss",
+  "pkg_name": "master_server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rxanders35/sss",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A distributed object store written in pure Go. Inspired by Facebook's Haystack Store, AWS S3, and HDFS",
+  "homepage": [
+    "https://github.com/rxanders35/sss"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gateway",
+    "master_server",
+    "volume_server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/rxanders35/sss/@v/v0.0.0-20250818031515-604e15ab8b9a.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250818031515-604e15ab8b9a",
+  "version_upstream": "",
+  "bsum": "b9697420256e7ea185cf7f99127277db2c033ac3b44403d141f82b4f3e6f41d8",
+  "build_date": "2025-08-19T04:45:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17059206831",
+  "build_id": "17059206831",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rxanders35/sss/master_server?tag=v0.0.0-20250818031515-604e15ab8b9a-loongarch64-Linux&download=master_server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rxanders35/sss/master_server?tag=v0.0.0-20250818031515-604e15ab8b9a-loongarch64-Linux&download=master_server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rxanders35/sss/master_server:v0.0.0-20250818031515-604e15ab8b9a-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rxanders35/sss/master_server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rxanders35/sss/master_server?tag=v0.0.0-20250818031515-604e15ab8b9a-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "efb4911748c6316786496761a85f04caa49b9970a8fcbd7472ebcc2ccf69c356",
+  "size": "11 MB",
+  "size_raw": "11056128",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
