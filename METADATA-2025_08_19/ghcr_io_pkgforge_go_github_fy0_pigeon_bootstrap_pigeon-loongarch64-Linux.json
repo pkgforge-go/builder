@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "bootstrap-pigeon",
+  "pkg_family": "pigeon",
+  "pkg_id": "bootstrap-pigeon#github.com_fy0_pigeon",
+  "pkg_name": "bootstrap-pigeon",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fy0/pigeon",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Command pigeon generates parsers in Go from a PEG grammar. A fork with lot of new features",
+  "homepage": [
+    "https://github.com/fy0/pigeon"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bootstrap-build",
+    "bootstrap-pigeon",
+    "calculator",
+    "indentation",
+    "json-parser",
+    "pegparse",
+    "pegscan",
+    "pigeon",
+    "static_code_generator",
+    "unicode-classes"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/fy0/pigeon/@v/v0.4.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.4.1",
+  "version_upstream": "",
+  "bsum": "da0123de5304c30cdf443b05b9c755f255256bbd5b29a2f3f09cd8203188f290",
+  "build_date": "2025-08-19T04:18:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17059101560",
+  "build_id": "17059101560",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fy0/pigeon/bootstrap-pigeon?tag=v0.4.1-loongarch64-Linux&download=bootstrap-pigeon.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fy0/pigeon/bootstrap-pigeon?tag=v0.4.1-loongarch64-Linux&download=bootstrap-pigeon",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fy0/pigeon/bootstrap-pigeon:v0.4.1-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fy0/pigeon/bootstrap-pigeon",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fy0/pigeon/bootstrap-pigeon?tag=v0.4.1-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "283a8590f8cc07ce9dfa46bb15ca431c35c7fdbbce8b45ac3dd666bb65839438",
+  "size": "7.6 MB",
+  "size_raw": "7968504",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
