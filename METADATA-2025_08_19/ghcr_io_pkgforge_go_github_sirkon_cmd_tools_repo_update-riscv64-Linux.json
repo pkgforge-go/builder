@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "repo-update",
+  "pkg_family": "cmd-tools",
+  "pkg_id": "repo-update#github.com_sirkon_cmd_tools",
+  "pkg_name": "repo-update",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sirkon/cmd-tools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Repository for my command line tools",
+  "homepage": [
+    "https://github.com/sirkon/cmd-tools"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "commit-msg",
+    "gallery",
+    "git-reset-hard",
+    "repo-clean",
+    "repo-find",
+    "repo-update"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sirkon/cmd-tools/@v/v0.0.0-20250809121803-417ada181e7c.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250809121803-417ada181e7c",
+  "version_upstream": "",
+  "bsum": "2c7a67f7acc6e66c74702370a0405a298fd58e12c499e9a0b29b49c24f7b3a00",
+  "build_date": "2025-08-19T05:03:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17059336560",
+  "build_id": "17059336560",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sirkon/cmd-tools/repo-update?tag=v0.0.0-20250809121803-417ada181e7c-riscv64-Linux&download=repo-update.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sirkon/cmd-tools/repo-update?tag=v0.0.0-20250809121803-417ada181e7c-riscv64-Linux&download=repo-update",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sirkon/cmd-tools/repo-update:v0.0.0-20250809121803-417ada181e7c-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sirkon/cmd-tools/repo-update",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sirkon/cmd-tools/repo-update?tag=v0.0.0-20250809121803-417ada181e7c-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "670a18f5d1135124ffcdc993454301d32cd8b19c3123849a166c029148db6cef",
+  "size": "2.7 MB",
+  "size_raw": "2829064",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
