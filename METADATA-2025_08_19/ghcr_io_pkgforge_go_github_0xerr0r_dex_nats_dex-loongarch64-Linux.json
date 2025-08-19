@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "nats-dex",
+  "pkg_family": "dex",
+  "pkg_id": "nats-dex#github.com_0xerr0r_dex",
+  "pkg_name": "nats-dex",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/0xerr0r/dex",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Prometheus Docker EXporter",
+  "homepage": [
+    "https://github.com/0xerr0r/dex"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark-lockfree",
+    "benchmark-ultra",
+    "demo",
+    "dex-server",
+    "fix-benchmark",
+    "lx-metrics",
+    "monitor",
+    "nats-auto",
+    "nats-dex",
+    "nats-trader",
+    "perf-test",
+    "persistent-server",
+    "stress-test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/luxfi/dex/@v/v0.0.0-20250818210438-e4d7e5d17bdd.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.41",
+  "version_upstream": "",
+  "bsum": "8080778001097ab2d1d9dc09b1ba71d400be7b0304b9602cad20a22c0814ac15",
+  "build_date": "2025-08-19T15:54:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17074560426",
+  "build_id": "17074560426",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/0xerr0r/dex/nats-dex?tag=v0.0.41-loongarch64-Linux&download=nats-dex.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "70",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/0xerr0r/dex/nats-dex?tag=v0.0.41-loongarch64-Linux&download=nats-dex",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/0xerr0r/dex/nats-dex:v0.0.41-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/0xerr0r/dex/nats-dex",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/0xerr0r/dex/nats-dex?tag=v0.0.41-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ae19195bea4d10c2c360503bac656d0faf2921c5ab883319558a862e9c7a3946",
+  "size": "6.3 MB",
+  "size_raw": "6548384",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

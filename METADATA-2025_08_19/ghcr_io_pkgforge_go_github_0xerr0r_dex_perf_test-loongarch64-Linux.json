@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "perf-test",
+  "pkg_family": "dex",
+  "pkg_id": "perf-test#github.com_0xerr0r_dex",
+  "pkg_name": "perf-test",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/0xerr0r/dex",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Prometheus Docker EXporter",
+  "homepage": [
+    "https://github.com/0xerr0r/dex"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "benchmark-lockfree",
+    "benchmark-ultra",
+    "demo",
+    "dex-server",
+    "fix-benchmark",
+    "lx-metrics",
+    "monitor",
+    "nats-auto",
+    "nats-dex",
+    "nats-trader",
+    "perf-test",
+    "persistent-server",
+    "stress-test"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/luxfi/dex/@v/v0.0.0-20250818210438-e4d7e5d17bdd.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.41",
+  "version_upstream": "",
+  "bsum": "5936fcf148992b66284abd9093587e89189e8cb62a3f1ae42e1d69f8f6afda1b",
+  "build_date": "2025-08-19T15:54:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17074560426",
+  "build_id": "17074560426",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/0xerr0r/dex/perf-test?tag=v0.0.41-loongarch64-Linux&download=perf-test.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "70",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/0xerr0r/dex/perf-test?tag=v0.0.41-loongarch64-Linux&download=perf-test",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/0xerr0r/dex/perf-test:v0.0.41-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/0xerr0r/dex/perf-test",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/0xerr0r/dex/perf-test?tag=v0.0.41-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f1bf1994a172ea637f903820455dab9e8cc25f48cd75af6f880caf8358580c7a",
+  "size": "4.1 MB",
+  "size_raw": "4277312",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
