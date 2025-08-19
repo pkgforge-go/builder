@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gallery",
+  "pkg_family": "cmd-tools",
+  "pkg_id": "gallery#github.com_sirkon_cmd_tools",
+  "pkg_name": "gallery",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sirkon/cmd-tools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Repository for my command line tools",
+  "homepage": [
+    "https://github.com/sirkon/cmd-tools"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "commit-msg",
+    "gallery",
+    "git-reset-hard",
+    "repo-clean",
+    "repo-find",
+    "repo-update"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sirkon/cmd-tools/@v/v0.0.0-20250809121803-417ada181e7c.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250809121803-417ada181e7c",
+  "version_upstream": "",
+  "bsum": "b01d158e5169e8c1ec28695c5b99d6403e6fda08e233441b6a2e09c705edaf18",
+  "build_date": "2025-08-19T05:02:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17059336560",
+  "build_id": "17059336560",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sirkon/cmd-tools/gallery?tag=v0.0.0-20250809121803-417ada181e7c-riscv64-Linux&download=gallery.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sirkon/cmd-tools/gallery?tag=v0.0.0-20250809121803-417ada181e7c-riscv64-Linux&download=gallery",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sirkon/cmd-tools/gallery:v0.0.0-20250809121803-417ada181e7c-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sirkon/cmd-tools/gallery",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sirkon/cmd-tools/gallery?tag=v0.0.0-20250809121803-417ada181e7c-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9abd6d6ebb1f743ecfeb5741ab1f086d8803b7e13c0bfe2b101b698be1343f21",
+  "size": "4.9 MB",
+  "size_raw": "5041496",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
