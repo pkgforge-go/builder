@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "repo-find",
+  "pkg_family": "cmd-tools",
+  "pkg_id": "repo-find#github.com_sirkon_cmd_tools",
+  "pkg_name": "repo-find",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sirkon/cmd-tools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Repository for my command line tools",
+  "homepage": [
+    "https://github.com/sirkon/cmd-tools"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "commit-msg",
+    "gallery",
+    "git-reset-hard",
+    "repo-clean",
+    "repo-find",
+    "repo-update"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sirkon/cmd-tools/@v/v0.0.0-20250809121803-417ada181e7c.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250809121803-417ada181e7c",
+  "version_upstream": "",
+  "bsum": "d949be683d441096629095511aaf676d50955161016ba0c9ed25c1cb07e5efb2",
+  "build_date": "2025-08-19T05:02:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17059336560",
+  "build_id": "17059336560",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sirkon/cmd-tools/repo-find?tag=v0.0.0-20250809121803-417ada181e7c-loongarch64-Linux&download=repo-find.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sirkon/cmd-tools/repo-find?tag=v0.0.0-20250809121803-417ada181e7c-loongarch64-Linux&download=repo-find",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sirkon/cmd-tools/repo-find:v0.0.0-20250809121803-417ada181e7c-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sirkon/cmd-tools/repo-find",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sirkon/cmd-tools/repo-find?tag=v0.0.0-20250809121803-417ada181e7c-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "19f952a6cc039b0b58d749669386ce23bc06a3311721baf4db514509f3a6d7b2",
+  "size": "2.6 MB",
+  "size_raw": "2628984",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
