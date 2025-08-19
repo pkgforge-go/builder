@@ -76,6 +76,8 @@
 - 🐹 **[client](https://flatbuffers.dev/)**: FlatBuffers: Memory Efficient Serialization Library.
 - 🐹 **[samples](https://flatbuffers.dev/)**: FlatBuffers: Memory Efficient Serialization Library.
 - 🐹 **[server](https://flatbuffers.dev/)**: FlatBuffers: Memory Efficient Serialization Library.
+- 🐹 **[controller-gen](http://rancher.com)**: Complete container management platform.
+- 🐹 **[mockgen](http://rancher.com)**: Complete container management platform.
 - 🐹 **[go](https://openapi-generator.tech)**: OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3.
 - 🐹 **[client](http://rancher.com)**: Complete container management platform.
 - 🐹 **[dbg](https://github.com/dparker1990/dbg)**: Delve is a debugger for the Go programming language.
@@ -201,6 +203,7 @@
 - 🐹 **[proto](https://earthly.dev)**: Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - 🐹 **[two](https://earthly.dev)**: Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - 🐹 **[v7](https://oauth2-proxy.github.io/oauth2-proxy)**: A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+- 🐹 **[aws-golang-rest-api-with-dynamodb](https://www.serverless.com/examples/)**: Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
 - 🐹 **[openapi-gen-angular](https://heroiclabs.com)**: Distributed server for social and realtime games and apps.
 - 🐹 **[protoc-gen-angular](https://heroiclabs.com)**: Distributed server for social and realtime games and apps.
 - 🐹 **[webhook](https://github.com/adnanh/webhook)**: Webhook is a lightweight incoming webhook server to run shell commands.
@@ -775,6 +778,7 @@
 - 🐹 **[jj](https://github.com/tidwall/jj)**: JSON Stream Editor _command line utility_.
 - 🐹 **[profile](https://github.com/pkg/profile)**: Simple profiling for Go.
 - 🐹 **[jsoned](https://github.com/tidwall/jsoned)**: JSON Stream Editor (command line utility.
+- 🐹 **[platform-samples](https://github.com/github/platform-samples)**: A public place for all platform sample projects.
 - 🐹 **[azurite](https://github.com/azure/azurite)**: A lightweight server clone of Azure Storage that simulates most of the commands supported by it with minimal dependencies.
 - 🐹 **[component](https://wasmcloud.com)**: WasmCloud is an open source Cloud Native Computing Foundation (CNCF) project that enables teams to build, manage, and scale polyglot apps across any cloud, K8s, or edge.
 - 🐹 **[custom-template](https://wasmcloud.com)**: WasmCloud is an open source Cloud Native Computing Foundation (CNCF) project that enables teams to build, manage, and scale polyglot apps across any cloud, K8s, or edge.
@@ -849,6 +853,7 @@
 - 🐹 **[openapi](https://go-fuego.dev/)**: Golang Fuego - Web framework generating OpenAPI 3 spec from source code - Pluggable to existing Gin & Echo APIs.
 - 🐹 **[with-listener](https://go-fuego.dev/)**: Golang Fuego - Web framework generating OpenAPI 3 spec from source code - Pluggable to existing Gin & Echo APIs.
 - 🐹 **[cleaner](https://github.com/orlangure/gnomock)**: Test your code without writing mocks with ephemeral Docker containers 📦 Setup popular services with just a couple lines of code ⏱️ No bash, no yaml, only code.
+- 🐹 **[client](https://github.com/owncloud/client)**: Desktop Syncing Client for ownCloud.
 - 🐹 **[example](https://opentelemetry.io/)**: Collection of extensions for OpenTelemetry-Go.
 - 🐹 **[basic_gazelle](https://github.com/bazel-contrib/rules_go)**: Go rules for Bazel.
 - 🐹 **[fetch_repo](https://github.com/bazelbuild/rules_go)**: Go rules for Bazel.
