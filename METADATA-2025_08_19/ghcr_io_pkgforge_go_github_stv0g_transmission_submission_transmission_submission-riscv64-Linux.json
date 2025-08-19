@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "transmission-submission",
+  "pkg_family": "transmission-submission",
+  "pkg_id": "transmission-submission#github.com_stv0g_transmission_submission",
+  "pkg_name": "transmission-submission",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/stv0g/transmission-submission",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Webservice to submit torrent files and magnet links to Transmission via its RPC interface",
+  "homepage": [
+    "https://github.com/stv0g/transmission-submission"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "transmission-submission"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/stv0g/transmission-submission/@v/v0.0.0-20250818035536-46544f66a2ea.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250818035536-46544f66a2ea",
+  "version_upstream": "",
+  "bsum": "92621a42bb2c189419181906982380d6353ecfbb4cffbd687ef1ed10542fc921",
+  "build_date": "2025-08-19T05:03:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17059396610",
+  "build_id": "17059396610",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stv0g/transmission-submission/transmission-submission?tag=v0.0.0-20250818035536-46544f66a2ea-riscv64-Linux&download=transmission-submission.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stv0g/transmission-submission/transmission-submission?tag=v0.0.0-20250818035536-46544f66a2ea-riscv64-Linux&download=transmission-submission",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/stv0g/transmission-submission/transmission-submission:v0.0.0-20250818035536-46544f66a2ea-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/stv0g/transmission-submission/transmission-submission",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stv0g/transmission-submission/transmission-submission?tag=v0.0.0-20250818035536-46544f66a2ea-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ccdfbc104bda9837010245d5a7f4b3920beec4411ca6d3e3fd21ab9a32007511",
+  "size": "9.1 MB",
+  "size_raw": "9464312",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
