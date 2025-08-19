@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "gateway",
+  "pkg_family": "sss",
+  "pkg_id": "gateway#github.com_rxanders35_sss",
+  "pkg_name": "gateway",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rxanders35/sss",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A distributed object store written in pure Go. Inspired by Facebook's Haystack Store, AWS S3, and HDFS",
+  "homepage": [
+    "https://github.com/rxanders35/sss"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gateway",
+    "master_server",
+    "volume_server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/rxanders35/sss/@v/v0.0.0-20250818031515-604e15ab8b9a.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250818031515-604e15ab8b9a",
+  "version_upstream": "",
+  "bsum": "a53e95c0ce767f95ddb97a930765f17b4881fa6af7d7e7b5ce2a6fa9d2505793",
+  "build_date": "2025-08-19T04:45:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17059206831",
+  "build_id": "17059206831",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rxanders35/sss/gateway?tag=v0.0.0-20250818031515-604e15ab8b9a-aarch64-Linux&download=gateway.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rxanders35/sss/gateway?tag=v0.0.0-20250818031515-604e15ab8b9a-aarch64-Linux&download=gateway",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rxanders35/sss/gateway:v0.0.0-20250818031515-604e15ab8b9a-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rxanders35/sss/gateway",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rxanders35/sss/gateway?tag=v0.0.0-20250818031515-604e15ab8b9a-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2220fae9ffe03ce42f728bb3d1f144df812757707e59f9562c595689ffa72131",
+  "size": "16 MB",
+  "size_raw": "16351712",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
