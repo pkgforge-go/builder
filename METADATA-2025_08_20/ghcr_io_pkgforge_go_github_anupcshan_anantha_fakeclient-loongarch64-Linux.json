@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "fakeclient",
+  "pkg_family": "anantha",
+  "pkg_id": "fakeclient#github.com_anupcshan_anantha",
+  "pkg_name": "fakeclient",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/anupcshan/anantha",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Local Control Toolkit for Carrier Thermostats",
+  "homepage": [
+    "https://github.com/anupcshan/anantha"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "anantha",
+    "bin2hex",
+    "cagen",
+    "fakeclient",
+    "hex2bin",
+    "hexcsum",
+    "protoprint",
+    "signcert"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/anupcshan/anantha/@v/v0.0.0-20250810065915-ce029f57d6ee.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250810065915-ce029f57d6ee",
+  "version_upstream": "",
+  "bsum": "2e0d20d95c40d4e59ed68d62fa73c1136dfbc199441b41f9e6319826b2726bcf",
+  "build_date": "2025-08-20T15:44:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17103194788",
+  "build_id": "17103194788",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anupcshan/anantha/fakeclient?tag=v0.0.0-20250810065915-ce029f57d6ee-loongarch64-Linux&download=fakeclient.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anupcshan/anantha/fakeclient?tag=v0.0.0-20250810065915-ce029f57d6ee-loongarch64-Linux&download=fakeclient",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/anupcshan/anantha/fakeclient:v0.0.0-20250810065915-ce029f57d6ee-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/anupcshan/anantha/fakeclient",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anupcshan/anantha/fakeclient?tag=v0.0.0-20250810065915-ce029f57d6ee-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "111759a69810148be5e49e2258897b6b557ef33c2b26cef9295473c13d699711",
+  "size": "5.9 MB",
+  "size_raw": "6086176",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250702061927-19bf7ea0785f-loongarch64-Linux",
+    "v0.0.0-20250704210241-14336d9aee4a-loongarch64-Linux",
+    "v0.0.0-20250707044623-e901799684f3-loongarch64-Linux",
+    "v0.0.0-20250718051806-d8ce9f6d0547-loongarch64-Linux",
+    "v0.0.0-20250802142800-066cd8294f42-loongarch64-Linux",
+    "v0.0.0-20250805041130-0c914af52703-loongarch64-Linux",
+    "v0.0.0-20250809042700-29d7c5018662-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
