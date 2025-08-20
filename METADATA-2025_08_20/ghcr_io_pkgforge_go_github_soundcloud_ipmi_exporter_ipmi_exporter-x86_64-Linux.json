@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "ipmi_exporter",
+  "pkg_family": "ipmi_exporter",
+  "pkg_id": "ipmi_exporter#github.com_soundcloud_ipmi_exporter",
+  "pkg_name": "ipmi_exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/soundcloud/ipmi_exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Remote IPMI exporter for Prometheus",
+  "homepage": [
+    "https://github.com/soundcloud/ipmi_exporter"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ipmi_exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/jenningsloy318/ipmi_exporter/@v/v0.0.0-20250711091736-291d0107bdab.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.10.1",
+  "version_upstream": "",
+  "bsum": "00255be0b26fa03238d1e6cc15d6185580349970d2cf4feeacacc3a1f22bb6b3",
+  "build_date": "2025-08-20T04:27:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17088040859",
+  "build_id": "17088040859",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/soundcloud/ipmi/exporter/ipmi_exporter?tag=v1.10.1-x86_64-Linux&download=ipmi_exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "534",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/soundcloud/ipmi/exporter/ipmi_exporter?tag=v1.10.1-x86_64-Linux&download=ipmi_exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/soundcloud/ipmi/exporter/ipmi_exporter:v1.10.1-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/soundcloud/ipmi/exporter/ipmi_exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/soundcloud/ipmi/exporter/ipmi_exporter?tag=v1.10.1-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6c98961bf6ddc18cf4fb36a94b35ff59928a5e4e15a84df2fc0033ae3e62270f",
+  "size": "14 MB",
+  "size_raw": "14461184",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.10.1-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
