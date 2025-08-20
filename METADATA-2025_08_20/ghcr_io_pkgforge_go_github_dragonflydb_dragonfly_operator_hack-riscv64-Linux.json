@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "hack",
+  "pkg_family": "dragonfly-operator",
+  "pkg_id": "hack#github.com_dragonflydb_dragonfly_operator",
+  "pkg_name": "hack",
+  "pkg_type": "static",
+  "pkg_webpage": "https://www.dragonflydb.io/docs/managing-dragonfly/operator/installation",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Kubernetes operator to install and manage Dragonfly instances",
+  "homepage": [
+    "https://www.dragonflydb.io/docs/managing-dragonfly/operator/installation"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dragonfly-operator-cmd",
+    "hack"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/dragonflydb/dragonfly-operator/@v/v1.2.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.2.0",
+  "version_upstream": "",
+  "bsum": "9b33ff5c88a6e3682dee55308b15f52de6e875bccc997847f1df9bb8c6408c7f",
+  "build_date": "2025-08-20T04:17:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17087993508",
+  "build_id": "17087993508",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dragonflydb/dragonfly-operator/hack?tag=v1.2.0-riscv64-Linux&download=hack.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "224",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dragonflydb/dragonfly-operator/hack?tag=v1.2.0-riscv64-Linux&download=hack",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dragonflydb/dragonfly-operator/hack:v1.2.0-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dragonflydb/dragonfly-operator/hack",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dragonflydb/dragonfly-operator/hack?tag=v1.2.0-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6581a2d8ce05b36390d378ff0be943a21d1ec8c63dd06a1ea29a0daeec14bb85",
+  "size": "39 MB",
+  "size_raw": "39858648",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
