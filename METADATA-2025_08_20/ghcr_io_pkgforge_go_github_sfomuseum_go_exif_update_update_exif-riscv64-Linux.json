@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "update-exif",
+  "pkg_family": "go-exif-update",
+  "pkg_id": "update-exif#github.com_sfomuseum_go_exif_update",
+  "pkg_name": "update-exif",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sfomuseum/go-exif-update",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go package to for updating EXIF data in JPEG files with support for WebAssembly binaries",
+  "homepage": [
+    "https://github.com/sfomuseum/go-exif-update"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "tags-is-supported",
+    "tags-supported",
+    "update-exif",
+    "update-exif-wasm-demo"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sfomuseum/go-exif-update/@v/v0.2.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.2.1",
+  "version_upstream": "",
+  "bsum": "04c3b8adcdcbfaf07103a9fa9f8390e5d8704b2ed06131ea386dbc3298be4c1b",
+  "build_date": "2025-08-20T04:46:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17088100106",
+  "build_id": "17088100106",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sfomuseum/go-exif-update/update-exif?tag=v0.2.1-riscv64-Linux&download=update-exif.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "17",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sfomuseum/go-exif-update/update-exif?tag=v0.2.1-riscv64-Linux&download=update-exif",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sfomuseum/go-exif-update/update-exif:v0.2.1-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sfomuseum/go-exif-update/update-exif",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sfomuseum/go-exif-update/update-exif?tag=v0.2.1-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e1b6e5c881599a32f82daa3dc4973cd342c062b5333fece0ed269663381605cf",
+  "size": "4.7 MB",
+  "size_raw": "4868344",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
