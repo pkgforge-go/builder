@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "cagen",
+  "pkg_family": "anantha",
+  "pkg_id": "cagen#github.com_anupcshan_anantha",
+  "pkg_name": "cagen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/anupcshan/anantha",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Local Control Toolkit for Carrier Thermostats",
+  "homepage": [
+    "https://github.com/anupcshan/anantha"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "anantha",
+    "bin2hex",
+    "cagen",
+    "fakeclient",
+    "hex2bin",
+    "hexcsum",
+    "protoprint",
+    "signcert"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/anupcshan/anantha/@v/v0.0.0-20250810065915-ce029f57d6ee.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250810065915-ce029f57d6ee",
+  "version_upstream": "",
+  "bsum": "f70af20ec579826c47d8ae72f459d45f9075e2321a1e3140c6c316746eecd922",
+  "build_date": "2025-08-20T15:44:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17103194788",
+  "build_id": "17103194788",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anupcshan/anantha/cagen?tag=v0.0.0-20250810065915-ce029f57d6ee-aarch64-Linux&download=cagen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anupcshan/anantha/cagen?tag=v0.0.0-20250810065915-ce029f57d6ee-aarch64-Linux&download=cagen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/anupcshan/anantha/cagen:v0.0.0-20250810065915-ce029f57d6ee-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/anupcshan/anantha/cagen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anupcshan/anantha/cagen?tag=v0.0.0-20250810065915-ce029f57d6ee-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6e59b9c568e8d6f61be5fbbd3ebc65e2c273afee8dc3aecf8b17e9110a8496d5",
+  "size": "6.8 MB",
+  "size_raw": "7044544",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250702061927-19bf7ea0785f-aarch64-Linux",
+    "v0.0.0-20250704210241-14336d9aee4a-aarch64-Linux",
+    "v0.0.0-20250707044623-e901799684f3-aarch64-Linux",
+    "v0.0.0-20250718051806-d8ce9f6d0547-aarch64-Linux",
+    "v0.0.0-20250802142800-066cd8294f42-aarch64-Linux",
+    "v0.0.0-20250805041130-0c914af52703-aarch64-Linux",
+    "v0.0.0-20250809042700-29d7c5018662-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
