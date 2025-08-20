@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "cap",
+  "pkg_family": "alsa",
+  "pkg_id": "cap#github.com_gen2brain_alsa",
+  "pkg_name": "cap",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gen2brain/alsa",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go reimplementation of tinyalsa",
+  "homepage": [
+    "https://github.com/gen2brain/alsa"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cap",
+    "mix",
+    "pcminfo",
+    "play"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/gen2brain/alsa/@v/v0.3.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.3.0",
+  "version_upstream": "",
+  "bsum": "c2713e9b51b1633b18e4e2b1370c366ab221ddef395dce1f36760ec3fc60d78e",
+  "build_date": "2025-08-20T04:19:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17088027762",
+  "build_id": "17088027762",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gen2brain/alsa/cap?tag=v0.3.0-x86_64-Linux&download=cap.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gen2brain/alsa/cap?tag=v0.3.0-x86_64-Linux&download=cap",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gen2brain/alsa/cap:v0.3.0-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gen2brain/alsa/cap",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gen2brain/alsa/cap?tag=v0.3.0-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "977fbbfd2265eef06d12409ce69f4639751bb9d4598382bab9d282467b9fcf4c",
+  "size": "2.0 MB",
+  "size_raw": "1995352",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
