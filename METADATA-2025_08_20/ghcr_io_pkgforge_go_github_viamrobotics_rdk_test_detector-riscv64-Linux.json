@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "test_detector",
+  "pkg_family": "rdk",
+  "pkg_id": "test_detector#github.com_viamrobotics_rdk",
+  "pkg_name": "test_detector",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/viamrobotics/rdk",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Viam Server - Robotic Development Kit",
+  "homepage": [
+    "https://github.com/viamrobotics/rdk"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "analyzecoverage",
+    "analyzetests",
+    "cli_lint",
+    "client",
+    "cmd",
+    "depth_to_color",
+    "extrinsic_calibration",
+    "subsystem_manifest",
+    "test_detector"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/viamrobotics/rdk/@v/v0.88.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.88.0",
+  "version_upstream": "",
+  "bsum": "f5c7214bc7812ee71daf874d2c02893284bcd32027d7dfd516c8f9f24f5eaab4",
+  "build_date": "2025-08-20T02:39:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17086383478",
+  "build_id": "17086383478",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/viamrobotics/rdk/test_detector?tag=v0.88.0-riscv64-Linux&download=test_detector.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "151",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/viamrobotics/rdk/test_detector?tag=v0.88.0-riscv64-Linux&download=test_detector",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/viamrobotics/rdk/test_detector:v0.88.0-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/viamrobotics/rdk/test_detector",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/viamrobotics/rdk/test_detector?tag=v0.88.0-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5bd75914bb5312e8056cf171327a8c4aaa5f627149664cc9d22f3718ecba2770",
+  "size": "21 MB",
+  "size_raw": "21416280",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-8787a26-250624T171702-riscv64-Linux",
+    "HEAD-1698657-250625T101312-riscv64-Linux",
+    "HEAD-bd621cd-250625T141427-riscv64-Linux",
+    "HEAD-27aaecc-250626T155618-riscv64-Linux",
+    "HEAD-cba228d-250627T143142-riscv64-Linux",
+    "v0.88.0-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
