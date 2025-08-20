@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "tags-supported",
+  "pkg_family": "go-exif-update",
+  "pkg_id": "tags-supported#github.com_sfomuseum_go_exif_update",
+  "pkg_name": "tags-supported",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sfomuseum/go-exif-update",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go package to for updating EXIF data in JPEG files with support for WebAssembly binaries",
+  "homepage": [
+    "https://github.com/sfomuseum/go-exif-update"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "tags-is-supported",
+    "tags-supported",
+    "update-exif",
+    "update-exif-wasm-demo"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sfomuseum/go-exif-update/@v/v0.2.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.2.1",
+  "version_upstream": "",
+  "bsum": "ee8cdf93df8cb2aa104f2d1d35cc3a37171e4f3a78d8e27422331a65b05ad5fe",
+  "build_date": "2025-08-20T04:45:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17088100106",
+  "build_id": "17088100106",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sfomuseum/go-exif-update/tags-supported?tag=v0.2.1-loongarch64-Linux&download=tags-supported.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "17",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sfomuseum/go-exif-update/tags-supported?tag=v0.2.1-loongarch64-Linux&download=tags-supported",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sfomuseum/go-exif-update/tags-supported:v0.2.1-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sfomuseum/go-exif-update/tags-supported",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sfomuseum/go-exif-update/tags-supported?tag=v0.2.1-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "083155ffe1714ed3a21d43efafe64e94fe8f4cd3c9487b8f5b5d0407cac7873f",
+  "size": "2.6 MB",
+  "size_raw": "2667288",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
