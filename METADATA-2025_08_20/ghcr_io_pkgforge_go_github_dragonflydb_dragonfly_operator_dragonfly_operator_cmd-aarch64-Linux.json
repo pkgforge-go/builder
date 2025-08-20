@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "dragonfly-operator-cmd",
+  "pkg_family": "dragonfly-operator",
+  "pkg_id": "dragonfly-operator-cmd#github.com_dragonflydb_dragonfly_operator",
+  "pkg_name": "dragonfly-operator-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://www.dragonflydb.io/docs/managing-dragonfly/operator/installation",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Kubernetes operator to install and manage Dragonfly instances",
+  "homepage": [
+    "https://www.dragonflydb.io/docs/managing-dragonfly/operator/installation"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dragonfly-operator-cmd",
+    "hack"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/dragonflydb/dragonfly-operator/@v/v1.2.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.2.0",
+  "version_upstream": "",
+  "bsum": "24776933bf7c9de1045a2929d52a80892aa4c9e0a38e7dc346ec82494b2f33c0",
+  "build_date": "2025-08-20T04:16:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17087993508",
+  "build_id": "17087993508",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dragonflydb/dragonfly-operator/dragonfly-operator-cmd?tag=v1.2.0-aarch64-Linux&download=dragonfly-operator-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "224",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dragonflydb/dragonfly-operator/dragonfly-operator-cmd?tag=v1.2.0-aarch64-Linux&download=dragonfly-operator-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dragonflydb/dragonfly-operator/dragonfly-operator-cmd:v1.2.0-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dragonflydb/dragonfly-operator/dragonfly-operator-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dragonflydb/dragonfly-operator/dragonfly-operator-cmd?tag=v1.2.0-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "10d545462048a3755f175c7375e5aee1f4437c45f2822b77d5bf275d584eae98",
+  "size": "44 MB",
+  "size_raw": "45163488",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
