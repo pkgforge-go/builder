@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "silver-sshd",
+  "pkg_family": "zinc",
+  "pkg_id": "silver-sshd#github.com_zincium_zinc",
+  "pkg_name": "silver-sshd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/zincium/zinc",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The whims and realizations of Git hosting services",
+  "homepage": [
+    "https://github.com/zincium/zinc"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "balance-update",
+    "h3",
+    "netcat",
+    "post-receive",
+    "pre-receive",
+    "silver-sshd",
+    "update",
+    "zinc",
+    "zinc-balanced",
+    "zinc-sshd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/zincium/zinc/@v/v0.0.0-20250809085041-0fe36d7ce5bc.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250809085041-0fe36d7ce5bc",
+  "version_upstream": "",
+  "bsum": "3d959320a2ca5f9400f61b2bec33f8203f56b1f27cb9c42408425efd1d72989b",
+  "build_date": "2025-08-21T07:27:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17119449868",
+  "build_id": "17119449868",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zincium/zinc/silver-sshd?tag=v0.0.0-20250809085041-0fe36d7ce5bc-loongarch64-Linux&download=silver-sshd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zincium/zinc/silver-sshd?tag=v0.0.0-20250809085041-0fe36d7ce5bc-loongarch64-Linux&download=silver-sshd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/zincium/zinc/silver-sshd:v0.0.0-20250809085041-0fe36d7ce5bc-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/zincium/zinc/silver-sshd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zincium/zinc/silver-sshd?tag=v0.0.0-20250809085041-0fe36d7ce5bc-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4ff7aa4193c42f7ead6951f6fdb8014a5e14a13da008ba1cd46ce5d6af8b6817",
+  "size": "1.2 MB",
+  "size_raw": "1187768",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-77909b8-250624T203255-loongarch64-Linux",
+    "HEAD-3279f5c-250626T093819-loongarch64-Linux",
+    "v0.0.0-20250626041134-ca67ba3761ce-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
