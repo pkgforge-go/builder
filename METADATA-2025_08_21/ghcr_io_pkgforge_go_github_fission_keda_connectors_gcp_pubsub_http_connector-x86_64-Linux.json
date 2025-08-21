@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "gcp-pubsub-http-connector",
+  "pkg_family": "keda-connectors",
+  "pkg_id": "gcp-pubsub-http-connector#github.com_fission_keda_connectors",
+  "pkg_name": "gcp-pubsub-http-connector",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fission/keda-connectors",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Generic connectors for Keda which can be used as worker images as part of scaleTargetRef",
+  "homepage": [
+    "https://github.com/fission/keda-connectors"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws-kinesis-http-connector",
+    "aws-sqs-http-connector",
+    "consumer",
+    "gcp-pubsub-http-connector",
+    "kafka-http-connector",
+    "nats-jetstream-http-connector",
+    "nats-streaming-http-connector",
+    "producer",
+    "publisher",
+    "rabbitmq-http-connector",
+    "redis-http-connector",
+    "server",
+    "validate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/fission/keda-connectors/@v/v0.0.0-20250820160430-77c74d46249b.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250820160430-77c74d46249b",
+  "version_upstream": "",
+  "bsum": "c714d25be0664d434dde361de474338752fd5471f799842d7ad1cf0c7c4ccf56",
+  "build_date": "2025-08-21T04:12:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17116563852",
+  "build_id": "17116563852",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fission/keda-connectors/gcp-pubsub-http-connector?tag=v0.0.0-20250820160430-77c74d46249b-x86_64-Linux&download=gcp-pubsub-http-connector.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "26",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fission/keda-connectors/gcp-pubsub-http-connector?tag=v0.0.0-20250820160430-77c74d46249b-x86_64-Linux&download=gcp-pubsub-http-connector",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fission/keda-connectors/gcp-pubsub-http-connector:v0.0.0-20250820160430-77c74d46249b-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fission/keda-connectors/gcp-pubsub-http-connector",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fission/keda-connectors/gcp-pubsub-http-connector?tag=v0.0.0-20250820160430-77c74d46249b-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9b84a64aa4bfb8603fcbe0abd730c80e20acbbad4dacb6d4d0545d7fa7cf3a38",
+  "size": "22 MB",
+  "size_raw": "22280608",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
