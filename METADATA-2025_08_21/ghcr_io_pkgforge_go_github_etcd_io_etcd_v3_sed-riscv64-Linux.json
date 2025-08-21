@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "sed",
+  "pkg_family": "v3",
+  "pkg_id": "sed#github.com_etcd_io_etcd_v3",
+  "pkg_name": "sed",
+  "pkg_type": "static",
+  "pkg_webpage": "https://etcd.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+  "homepage": [
+    "https://etcd.io"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "contribs",
+    "events",
+    "sed",
+    "wails3"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/linka-cloud/wails/v3/@v/v3.0.0-alpha.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v3.5.22",
+  "version_upstream": "",
+  "bsum": "8a6c75fa41d99605d59df82787a9f4396dbbe8f32fd449a1722e8d8b96596a32",
+  "build_date": "2025-08-21T15:56:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17131730398",
+  "build_id": "17131730398",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/etcd-io/etcd/v3/sed?tag=v3.5.22-riscv64-Linux&download=sed.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "49864",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/etcd-io/etcd/v3/sed?tag=v3.5.22-riscv64-Linux&download=sed",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/etcd-io/etcd/v3/sed:v3.5.22-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/etcd-io/etcd/v3/sed",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/etcd-io/etcd/v3/sed?tag=v3.5.22-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "503229a375418f36a6899b13c9a80f5aaee2b2ecb8597b37953c52354b62bce7",
+  "size": "1.9 MB",
+  "size_raw": "1982632",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
