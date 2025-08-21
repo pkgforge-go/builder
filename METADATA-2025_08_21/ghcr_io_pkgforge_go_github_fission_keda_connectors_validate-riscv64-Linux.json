@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "validate",
+  "pkg_family": "keda-connectors",
+  "pkg_id": "validate#github.com_fission_keda_connectors",
+  "pkg_name": "validate",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fission/keda-connectors",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Generic connectors for Keda which can be used as worker images as part of scaleTargetRef",
+  "homepage": [
+    "https://github.com/fission/keda-connectors"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws-kinesis-http-connector",
+    "aws-sqs-http-connector",
+    "consumer",
+    "gcp-pubsub-http-connector",
+    "kafka-http-connector",
+    "nats-jetstream-http-connector",
+    "nats-streaming-http-connector",
+    "producer",
+    "publisher",
+    "rabbitmq-http-connector",
+    "redis-http-connector",
+    "server",
+    "validate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/fission/keda-connectors/@v/v0.0.0-20250820160430-77c74d46249b.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250820160430-77c74d46249b",
+  "version_upstream": "",
+  "bsum": "a7ddc028b1c5a69e15502a213fa8247fc38bc04dfb08283047cadfcf6004037d",
+  "build_date": "2025-08-21T04:15:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17116563852",
+  "build_id": "17116563852",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fission/keda-connectors/validate?tag=v0.0.0-20250820160430-77c74d46249b-riscv64-Linux&download=validate.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "26",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fission/keda-connectors/validate?tag=v0.0.0-20250820160430-77c74d46249b-riscv64-Linux&download=validate",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fission/keda-connectors/validate:v0.0.0-20250820160430-77c74d46249b-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fission/keda-connectors/validate",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fission/keda-connectors/validate?tag=v0.0.0-20250820160430-77c74d46249b-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2cecdd739da613e6b4fe52f0215cb22773c251deb79c0973336054d13fca931e",
+  "size": "12 MB",
+  "size_raw": "11615928",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
