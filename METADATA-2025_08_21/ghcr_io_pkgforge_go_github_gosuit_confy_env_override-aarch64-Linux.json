@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "env-override",
+  "pkg_family": "confy",
+  "pkg_id": "env-override#github.com_gosuit_confy",
+  "pkg_name": "env-override",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gosuit/confy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Laconic configuration reader",
+  "homepage": [
+    "https://github.com/gosuit/confy"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "base-paths-management",
+    "dir-paths-management",
+    "directory",
+    "env-names-expand",
+    "env-only",
+    "env-override",
+    "multiple-files",
+    "profiles",
+    "profiles-types",
+    "simple"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/gosuit/confy/@v/v1.1.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.1.1",
+  "version_upstream": "",
+  "bsum": "58da531e186d548d0b7e947f5826d4dd98507657d73f47c9c7b8a21eea0fe649",
+  "build_date": "2025-08-21T06:59:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17119441805",
+  "build_id": "17119441805",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gosuit/confy/env-override?tag=v1.1.1-aarch64-Linux&download=env-override.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gosuit/confy/env-override?tag=v1.1.1-aarch64-Linux&download=env-override",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gosuit/confy/env-override:v1.1.1-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gosuit/confy/env-override",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gosuit/confy/env-override?tag=v1.1.1-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "eb957f939586b39404f36bcac423a2ba73efd2d80acce6a9c2cb472b32996d2c",
+  "size": "3.0 MB",
+  "size_raw": "3112760",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.1.0-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
