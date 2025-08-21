@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "dyndns",
+  "pkg_family": "router7",
+  "pkg_id": "dyndns#github.com_rtr7_router7",
+  "pkg_name": "dyndns",
+  "pkg_type": "static",
+  "pkg_webpage": "https://router7.org",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Router7 is a small home internet router completely written in Go. It is implemented as a gokrazy appliance",
+  "homepage": [
+    "https://router7.org"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dyndns"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/rtr7/router7/@v/v0.0.0-20250815062933-0b9afc92733d.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250815062933-0b9afc92733d",
+  "version_upstream": "",
+  "bsum": "2bb780cac567170512b8c37e051926ecc8075e4bd9b24b7e4f98c8708b5a4306",
+  "build_date": "2025-08-21T07:15:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17119445144",
+  "build_id": "17119445144",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rtr7/router7/dyndns?tag=v0.0.0-20250815062933-0b9afc92733d-loongarch64-Linux&download=dyndns.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2714",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rtr7/router7/dyndns?tag=v0.0.0-20250815062933-0b9afc92733d-loongarch64-Linux&download=dyndns",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rtr7/router7/dyndns:v0.0.0-20250815062933-0b9afc92733d-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rtr7/router7/dyndns",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rtr7/router7/dyndns?tag=v0.0.0-20250815062933-0b9afc92733d-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "77c0c8ea59a240d6920dce58527503afaaaba039c4c687424316462cbd640522",
+  "size": "7.2 MB",
+  "size_raw": "7511520",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-52826d6-250417T162712-loongarch64-Linux",
+    "v0.0.0-20250720205713-35fcfc15c8ed-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
