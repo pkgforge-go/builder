@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "monitor",
+  "pkg_family": "enkit",
+  "pkg_id": "monitor#github.com_enfabrica_enkit",
+  "pkg_name": "monitor",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/enfabrica/enkit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Toolkit for lean builds and team management",
+  "homepage": [
+    "https://github.com/enfabrica/enkit"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bb_reporter",
+    "build_nark",
+    "cli",
+    "cmd",
+    "deploy",
+    "docker_events",
+    "enkit_credential_helper",
+    "faketree",
+    "go_extras",
+    "k8s_dummy",
+    "monitor",
+    "nomad_license_manage",
+    "nomad_license_plugin",
+    "remote_apis_build_demo",
+    "staco",
+    "template",
+    "validate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/enfabrica/enkit/@v/v0.0.0-20250814050907-b579d8892efe.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250814050907-b579d8892efe",
+  "version_upstream": "",
+  "bsum": "0eedf02159286dceee25d78f1b61e5bf28116eb08ad9e217c1af8f51fde33ee3",
+  "build_date": "2025-08-21T07:12:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17119441858",
+  "build_id": "17119441858",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/monitor?tag=v0.0.0-20250814050907-b579d8892efe-x86_64-Linux&download=monitor.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "31",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/monitor?tag=v0.0.0-20250814050907-b579d8892efe-x86_64-Linux&download=monitor",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/enfabrica/enkit/monitor:v0.0.0-20250814050907-b579d8892efe-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/enfabrica/enkit/monitor",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/monitor?tag=v0.0.0-20250814050907-b579d8892efe-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a3fbb08a60e34af25daa259c300947068bf3238af27c5b2a438dd9f0065b64fa",
+  "size": "18 MB",
+  "size_raw": "18727776",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-a1810c2-250619T143504-x86_64-Linux",
+    "v0.0.0-20250701213156-970ed86fa7db-x86_64-Linux",
+    "v0.0.0-20250715223538-8d23a272914e-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
