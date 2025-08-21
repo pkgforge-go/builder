@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "writer",
+  "pkg_family": "workloads",
+  "pkg_id": "writer#github.com_fairwindsops_insights_plugins_plugins_workloads",
+  "pkg_name": "writer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://fairwinds.com/insights",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A repository of plugins for the Insights Agent",
+  "homepage": [
+    "https://fairwinds.com/insights"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "receiver",
+    "sender",
+    "writer",
+    "writer_mongodb_1333"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/tylergu/workloads/@v/v0.0.0-20250802071656-34265b3262a0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250818182143-cfb0a69ac6ba",
+  "version_upstream": "",
+  "bsum": "c78cf1e183c3f067f453a1fdb508f8ebf51e5fbee781ed043d73163dbd4380c1",
+  "build_date": "2025-08-21T04:46:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17116641653",
+  "build_id": "17116641653",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fairwindsops/insights-plugins/plugins/workloads/writer?tag=v0.0.0-20250818182143-cfb0a69ac6ba-aarch64-Linux&download=writer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fairwindsops/insights-plugins/plugins/workloads/writer?tag=v0.0.0-20250818182143-cfb0a69ac6ba-aarch64-Linux&download=writer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fairwindsops/insights-plugins/plugins/workloads/writer:v0.0.0-20250818182143-cfb0a69ac6ba-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fairwindsops/insights-plugins/plugins/workloads/writer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fairwindsops/insights-plugins/plugins/workloads/writer?tag=v0.0.0-20250818182143-cfb0a69ac6ba-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7ce7bf66ad809e13da1bfbf4e0e4ab7e1f9f2fae134973ad52521fc9d1494578",
+  "size": "4.9 MB",
+  "size_raw": "5116832",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "receiver",
+  "pkg_family": "workloads",
+  "pkg_id": "receiver#github.com_fairwindsops_insights_plugins_plugins_workloads",
+  "pkg_name": "receiver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://fairwinds.com/insights",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A repository of plugins for the Insights Agent",
+  "homepage": [
+    "https://fairwinds.com/insights"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "receiver",
+    "sender",
+    "writer",
+    "writer_mongodb_1333"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/tylergu/workloads/@v/v0.0.0-20250802071656-34265b3262a0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250818182143-cfb0a69ac6ba",
+  "version_upstream": "",
+  "bsum": "66b4d45eb24061b7d45abc757d6004cae4c4fe12a2fe293338776fd1289d100e",
+  "build_date": "2025-08-21T04:45:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17116641653",
+  "build_id": "17116641653",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fairwindsops/insights-plugins/plugins/workloads/receiver?tag=v0.0.0-20250818182143-cfb0a69ac6ba-aarch64-Linux&download=receiver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fairwindsops/insights-plugins/plugins/workloads/receiver?tag=v0.0.0-20250818182143-cfb0a69ac6ba-aarch64-Linux&download=receiver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fairwindsops/insights-plugins/plugins/workloads/receiver:v0.0.0-20250818182143-cfb0a69ac6ba-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fairwindsops/insights-plugins/plugins/workloads/receiver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fairwindsops/insights-plugins/plugins/workloads/receiver?tag=v0.0.0-20250818182143-cfb0a69ac6ba-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e1ffeea1f0aec010770a48af7c80ffd14dc02554567c7157eec1a99de85288d4",
+  "size": "4.8 MB",
+  "size_raw": "5016608",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
