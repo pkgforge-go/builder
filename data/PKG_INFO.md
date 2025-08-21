@@ -771,6 +771,7 @@
 - 🐹 **[gnostic](https://github.com/google/gnostic)**: A compiler for APIs described by the OpenAPI Specification with plugins for code generation and other API support tasks.
 - 🐹 **[gnostic](https://github.com/googleapis/gnostic)**: A compiler for APIs described by the OpenAPI Specification with plugins for code generation and other API support tasks.
 - 🐹 **[backup](https://vearch.github.io)**: Distributed vector search for AI-native applications.
+- 🐹 **[dapper](https://1backend.com)**: Self-hosted AI microservices platform & backend framework for building scalable, on-premise apps with built-in AI models.
 - 🐹 **[server](https://1backend.com)**: AI-native microservices platform.
 - 🐹 **[simd](http://ermig1979.github.io/Simd)**: C++ image processing and machine learning library with using of SIMD: SSE, AVX, AVX-512, AMX  for x86/x64, NEON for ARM.
 - 🐹 **[jwx](https://github.com/lestrrat-go/jwx)**: Complete implementation of JWx (Javascript Object Signing and Encryption/JOSE) technologies for Go.
@@ -785,6 +786,7 @@
 - 🐹 **[container-use](https://github.com/dagger/container-use)**: Development environments for coding agents.
 - 🐹 **[jj](https://github.com/tidwall/jj)**: JSON Stream Editor _command line utility_.
 - 🐹 **[jsoned](https://github.com/tidwall/jsoned)**: JSON Stream Editor (command line utility.
+- 🐹 **[dash-user-contributions](https://github.com/kapeli/dash-user-contributions)**: Dash repo of user contributed docsets.
 - 🐹 **[platform-samples](https://github.com/github/platform-samples)**: A public place for all platform sample projects.
 - 🐹 **[azurite](https://github.com/azure/azurite)**: A lightweight server clone of Azure Storage that simulates most of the commands supported by it with minimal dependencies.
 - 🐹 **[component](https://wasmcloud.com)**: WasmCloud is an open source Cloud Native Computing Foundation (CNCF) project that enables teams to build, manage, and scale polyglot apps across any cloud, K8s, or edge.
