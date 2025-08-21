@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "nats-streaming-http-connector",
+  "pkg_family": "keda-connectors",
+  "pkg_id": "nats-streaming-http-connector#github.com_fission_keda_connectors",
+  "pkg_name": "nats-streaming-http-connector",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fission/keda-connectors",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Generic connectors for Keda which can be used as worker images as part of scaleTargetRef",
+  "homepage": [
+    "https://github.com/fission/keda-connectors"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws-kinesis-http-connector",
+    "aws-sqs-http-connector",
+    "consumer",
+    "gcp-pubsub-http-connector",
+    "kafka-http-connector",
+    "nats-jetstream-http-connector",
+    "nats-streaming-http-connector",
+    "producer",
+    "publisher",
+    "rabbitmq-http-connector",
+    "redis-http-connector",
+    "server",
+    "validate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/fission/keda-connectors/@v/v0.0.0-20250820160430-77c74d46249b.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250820160430-77c74d46249b",
+  "version_upstream": "",
+  "bsum": "84b52232465454bc8d68db6eb849fde30bb1a197b4790d28d41bd93bee31cbee",
+  "build_date": "2025-08-21T04:13:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17116563852",
+  "build_id": "17116563852",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fission/keda-connectors/nats-streaming-http-connector?tag=v0.0.0-20250820160430-77c74d46249b-aarch64-Linux&download=nats-streaming-http-connector.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "26",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fission/keda-connectors/nats-streaming-http-connector?tag=v0.0.0-20250820160430-77c74d46249b-aarch64-Linux&download=nats-streaming-http-connector",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fission/keda-connectors/nats-streaming-http-connector:v0.0.0-20250820160430-77c74d46249b-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fission/keda-connectors/nats-streaming-http-connector",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fission/keda-connectors/nats-streaming-http-connector?tag=v0.0.0-20250820160430-77c74d46249b-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "63ba794073b0a8465564f7d2d06e3467f65745bf3e13001ed3f8af7e7d660499",
+  "size": "12 MB",
+  "size_raw": "12034048",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
