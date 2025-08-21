@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "env-override",
+  "pkg_family": "confy",
+  "pkg_id": "env-override#github.com_gosuit_confy",
+  "pkg_name": "env-override",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gosuit/confy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Laconic configuration reader",
+  "homepage": [
+    "https://github.com/gosuit/confy"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "base-paths-management",
+    "dir-paths-management",
+    "directory",
+    "env-names-expand",
+    "env-only",
+    "env-override",
+    "multiple-files",
+    "profiles",
+    "profiles-types",
+    "simple"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/gosuit/confy/@v/v1.1.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.1.1",
+  "version_upstream": "",
+  "bsum": "a4c807a82da9b16a6e4e9cae2223e8058784950b10442ed20a2debf6033d5ee4",
+  "build_date": "2025-08-21T06:59:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17119441805",
+  "build_id": "17119441805",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gosuit/confy/env-override?tag=v1.1.1-riscv64-Linux&download=env-override.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gosuit/confy/env-override?tag=v1.1.1-riscv64-Linux&download=env-override",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gosuit/confy/env-override:v1.1.1-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gosuit/confy/env-override",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gosuit/confy/env-override?tag=v1.1.1-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c38af4541da9e4efeda80864218330f3bea3a0d5355c1bfcdf3f3cf83314b8c1",
+  "size": "3.0 MB",
+  "size_raw": "3076168",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.1.0-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
