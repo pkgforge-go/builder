@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "captured",
+  "pkg_family": "router7",
+  "pkg_id": "captured#github.com_rtr7_router7",
+  "pkg_name": "captured",
+  "pkg_type": "static",
+  "pkg_webpage": "https://router7.org",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Router7 is a small home internet router completely written in Go. It is implemented as a gokrazy appliance",
+  "homepage": [
+    "https://router7.org"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "backupd",
+    "captured",
+    "dhcp4",
+    "dhcp4d",
+    "dhcp6",
+    "diagd",
+    "dnsd",
+    "dyndns",
+    "netconfigd",
+    "radvd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/rtr7/router7/@v/v0.0.0-20250815062933-0b9afc92733d.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250815062933-0b9afc92733d",
+  "version_upstream": "",
+  "bsum": "26109075b80190487ba3abcdfd46ad9e3ebbff0ff796552c531687553964fb6b",
+  "build_date": "2025-08-21T07:18:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17119445144",
+  "build_id": "17119445144",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rtr7/router7/captured?tag=v0.0.0-20250815062933-0b9afc92733d-aarch64-Linux&download=captured.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2714",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rtr7/router7/captured?tag=v0.0.0-20250815062933-0b9afc92733d-aarch64-Linux&download=captured",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rtr7/router7/captured:v0.0.0-20250815062933-0b9afc92733d-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rtr7/router7/captured",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rtr7/router7/captured?tag=v0.0.0-20250815062933-0b9afc92733d-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "66baa929fe76b8e1f385a1a50bf4e87b1524830f8d782bdc1997c1c0fd8c2d2d",
+  "size": "8.2 MB",
+  "size_raw": "8536704",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-52826d6-250417T162712-aarch64-Linux",
+    "v0.0.0-20250720205713-35fcfc15c8ed-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
