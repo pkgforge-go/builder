@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "dir-paths-management",
+  "pkg_family": "confy",
+  "pkg_id": "dir-paths-management#github.com_gosuit_confy",
+  "pkg_name": "dir-paths-management",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gosuit/confy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Laconic configuration reader",
+  "homepage": [
+    "https://github.com/gosuit/confy"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "base-paths-management",
+    "dir-paths-management",
+    "directory",
+    "env-names-expand",
+    "env-only",
+    "env-override",
+    "multiple-files",
+    "profiles",
+    "profiles-types",
+    "simple"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/gosuit/confy/@v/v1.1.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.1.1",
+  "version_upstream": "",
+  "bsum": "24afbd21b25340fc3e48d29c0eb07b6aa554147743fa49c5b1e1a8f75b94be1a",
+  "build_date": "2025-08-21T06:59:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17119441805",
+  "build_id": "17119441805",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gosuit/confy/dir-paths-management?tag=v1.1.1-riscv64-Linux&download=dir-paths-management.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gosuit/confy/dir-paths-management?tag=v1.1.1-riscv64-Linux&download=dir-paths-management",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gosuit/confy/dir-paths-management:v1.1.1-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gosuit/confy/dir-paths-management",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gosuit/confy/dir-paths-management?tag=v1.1.1-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b7aafb89d996c60ab5110602007eee2688126df70b6ffd71a9633a74964b1f9c",
+  "size": "3.0 MB",
+  "size_raw": "3082952",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.1.0-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
