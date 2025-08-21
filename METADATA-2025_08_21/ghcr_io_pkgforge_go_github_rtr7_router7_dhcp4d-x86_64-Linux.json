@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "dhcp4d",
+  "pkg_family": "router7",
+  "pkg_id": "dhcp4d#github.com_rtr7_router7",
+  "pkg_name": "dhcp4d",
+  "pkg_type": "static",
+  "pkg_webpage": "https://router7.org",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Router7 is a small home internet router completely written in Go. It is implemented as a gokrazy appliance",
+  "homepage": [
+    "https://router7.org"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "backupd",
+    "captured",
+    "dhcp4",
+    "dhcp4d",
+    "dhcp6",
+    "diagd",
+    "dnsd",
+    "dyndns",
+    "netconfigd",
+    "radvd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/rtr7/router7/@v/v0.0.0-20250815062933-0b9afc92733d.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250815062933-0b9afc92733d",
+  "version_upstream": "",
+  "bsum": "b928fa3f432be32b3589b50aa7b5d9bb127aebf3d03907fbb5b483f7615ab955",
+  "build_date": "2025-08-21T07:19:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17119445144",
+  "build_id": "17119445144",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rtr7/router7/dhcp4d?tag=v0.0.0-20250815062933-0b9afc92733d-x86_64-Linux&download=dhcp4d.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2714",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rtr7/router7/dhcp4d?tag=v0.0.0-20250815062933-0b9afc92733d-x86_64-Linux&download=dhcp4d",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rtr7/router7/dhcp4d:v0.0.0-20250815062933-0b9afc92733d-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rtr7/router7/dhcp4d",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rtr7/router7/dhcp4d?tag=v0.0.0-20250815062933-0b9afc92733d-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5fbd6cca14a4c61f3a71121faee88a2db2d72a0fd76a31234bf7ca3b122abc95",
+  "size": "16 MB",
+  "size_raw": "15808384",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-52826d6-250417T162712-x86_64-Linux",
+    "v0.0.0-20250720205713-35fcfc15c8ed-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
