@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cue-publish",
+  "pkg_family": "plugins",
+  "pkg_id": "cue-publish#github.com_filebot_plugins",
+  "pkg_name": "cue-publish",
+  "pkg_type": "static",
+  "pkg_webpage": "https://www.filebot.net/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Plugins and shell scripts for integrating 3rd party tools with FileBot",
+  "homepage": [
+    "https://www.filebot.net/"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build-archive",
+    "build-plugins",
+    "cue-publish",
+    "golangci-lint",
+    "lint-plugins",
+    "npm-publish",
+    "release",
+    "test-schemas-plugins",
+    "tidy-modules",
+    "upload-archive"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/perses/plugins/@v/v0.0.0-20250819084544-30ff725d227a.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250705105050-819df334887c",
+  "version_upstream": "",
+  "bsum": "fcc98cb45be7dd75dd22514405e3b204e2e0e861808044244172f7402da0f5ee",
+  "build_date": "2025-08-21T13:20:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17127580206",
+  "build_id": "17127580206",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filebot/plugins/cue-publish?tag=v0.0.0-20250705105050-819df334887c-loongarch64-Linux&download=cue-publish.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "90",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filebot/plugins/cue-publish?tag=v0.0.0-20250705105050-819df334887c-loongarch64-Linux&download=cue-publish",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/filebot/plugins/cue-publish:v0.0.0-20250705105050-819df334887c-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/filebot/plugins/cue-publish",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filebot/plugins/cue-publish?tag=v0.0.0-20250705105050-819df334887c-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "35b316545cc7048902ea542ca5df72604b3bce8fe51b49f05e7a816157f3b861",
+  "size": "2.5 MB",
+  "size_raw": "2549880",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250705105050-819df334887c-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
