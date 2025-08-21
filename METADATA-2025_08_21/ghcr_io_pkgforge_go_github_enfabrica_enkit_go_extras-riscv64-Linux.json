@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "go_extras",
+  "pkg_family": "enkit",
+  "pkg_id": "go_extras#github.com_enfabrica_enkit",
+  "pkg_name": "go_extras",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/enfabrica/enkit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Toolkit for lean builds and team management",
+  "homepage": [
+    "https://github.com/enfabrica/enkit"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bb_reporter",
+    "build_nark",
+    "cli",
+    "cmd",
+    "deploy",
+    "docker_events",
+    "enkit_credential_helper",
+    "faketree",
+    "go_extras",
+    "k8s_dummy",
+    "monitor",
+    "nomad_license_manage",
+    "nomad_license_plugin",
+    "remote_apis_build_demo",
+    "staco",
+    "template",
+    "validate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/enfabrica/enkit/@v/v0.0.0-20250814050907-b579d8892efe.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250814050907-b579d8892efe",
+  "version_upstream": "",
+  "bsum": "fd252a2531f471a897f4e187da94e22034e9c4c300a0423526faa4b704b2d32c",
+  "build_date": "2025-08-21T07:13:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17119441858",
+  "build_id": "17119441858",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/go_extras?tag=v0.0.0-20250814050907-b579d8892efe-riscv64-Linux&download=go_extras.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "31",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/go_extras?tag=v0.0.0-20250814050907-b579d8892efe-riscv64-Linux&download=go_extras",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/enfabrica/enkit/go_extras:v0.0.0-20250814050907-b579d8892efe-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/enfabrica/enkit/go_extras",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/go_extras?tag=v0.0.0-20250814050907-b579d8892efe-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2b434053f0c8423b2c9de1303976314c34888c4d8e6b81f63eff98ed21cd71d1",
+  "size": "3.2 MB",
+  "size_raw": "3288552",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250715223538-8d23a272914e-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
