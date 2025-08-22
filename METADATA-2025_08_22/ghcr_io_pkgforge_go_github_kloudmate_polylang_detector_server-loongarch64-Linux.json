@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "polylang-detector",
+  "pkg_id": "server#github.com_kloudmate_polylang_detector",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kloudmate/polylang-detector",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "K8s deployment language detection",
+  "homepage": [
+    "https://github.com/kloudmate/polylang-detector"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "polylang-detector-cmd",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/kloudmate/polylang-detector/@v/v0.0.0-20250821054935-5ee1c8a35570.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250821054935-5ee1c8a35570",
+  "version_upstream": "",
+  "bsum": "24200a17cf8633b25e4cb2311ab238534d36cba8299762891f5421667caa947e",
+  "build_date": "2025-08-22T04:21:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17145585656",
+  "build_id": "17145585656",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kloudmate/polylang-detector/server?tag=v0.0.0-20250821054935-5ee1c8a35570-loongarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kloudmate/polylang-detector/server?tag=v0.0.0-20250821054935-5ee1c8a35570-loongarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kloudmate/polylang-detector/server:v0.0.0-20250821054935-5ee1c8a35570-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kloudmate/polylang-detector/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kloudmate/polylang-detector/server?tag=v0.0.0-20250821054935-5ee1c8a35570-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a72cefc90a0d586e1bdee43171d5e100f4d60a55050eb5c4a5e09a988d56c0bb",
+  "size": "37 MB",
+  "size_raw": "37816224",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
