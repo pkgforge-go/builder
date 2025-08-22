@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "kubernetes-scanner",
+  "pkg_family": "kubernetes-scanner",
+  "pkg_id": "kubernetes-scanner#github.com_snyk_kubernetes_scanner",
+  "pkg_name": "kubernetes-scanner",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/snyk/kubernetes-scanner",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Collects data about Kubernetes resources for Snyk",
+  "homepage": [
+    "https://github.com/snyk/kubernetes-scanner"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "helmreleaser",
+    "kubernetes-scanner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/snyk/kubernetes-scanner/@v/v0.23.5.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.23.5",
+  "version_upstream": "",
+  "bsum": "48804ccbc27e5b5024eb8955fab2d3b680b4bf37d65f47ebe999eafda4739c62",
+  "build_date": "2025-08-22T04:49:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17145619127",
+  "build_id": "17145619127",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/snyk/kubernetes-scanner/kubernetes-scanner?tag=v0.23.5-x86_64-Linux&download=kubernetes-scanner.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/snyk/kubernetes-scanner/kubernetes-scanner?tag=v0.23.5-x86_64-Linux&download=kubernetes-scanner",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/snyk/kubernetes-scanner/kubernetes-scanner:v0.23.5-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/snyk/kubernetes-scanner/kubernetes-scanner",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/snyk/kubernetes-scanner/kubernetes-scanner?tag=v0.23.5-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "83f9cc71759463c860fa79a8eaa2ef5ca1040a9c183fbe868e86414c421aa2af",
+  "size": "45 MB",
+  "size_raw": "46421664",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
