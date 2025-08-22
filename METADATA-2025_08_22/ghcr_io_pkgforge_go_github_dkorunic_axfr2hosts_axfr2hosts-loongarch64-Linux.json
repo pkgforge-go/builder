@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "axfr2hosts",
+  "pkg_family": "axfr2hosts",
+  "pkg_id": "axfr2hosts#github.com_dkorunic_axfr2hosts",
+  "pkg_name": "axfr2hosts",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dkorunic/axfr2hosts",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Fetches one or more DNS zones via AXFR and dumps in Unix hosts format for local use",
+  "homepage": [
+    "https://github.com/dkorunic/axfr2hosts"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "axfr2hosts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/dkorunic/axfr2hosts/@v/v0.14.7.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.14.7",
+  "version_upstream": "",
+  "bsum": "1948094c14a9f19aa3ea96bc5bc108875cd57323abcea00fc8d91176e8e4efd2",
+  "build_date": "2025-08-22T06:51:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17148245047",
+  "build_id": "17148245047",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dkorunic/axfr2hosts/axfr2hosts?tag=v0.14.7-loongarch64-Linux&download=axfr2hosts.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "13",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dkorunic/axfr2hosts/axfr2hosts?tag=v0.14.7-loongarch64-Linux&download=axfr2hosts",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dkorunic/axfr2hosts/axfr2hosts:v0.14.7-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dkorunic/axfr2hosts/axfr2hosts",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dkorunic/axfr2hosts/axfr2hosts?tag=v0.14.7-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9906ed57add6fa0877255b7e620b37d4284519b02b7aed9eb8f603fbe9e13a65",
+  "size": "6.1 MB",
+  "size_raw": "6364032",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-147beb0-250606T092505-loongarch64-Linux[v0.14.6]"
+  ],
+  "trusted": "true"
+}
