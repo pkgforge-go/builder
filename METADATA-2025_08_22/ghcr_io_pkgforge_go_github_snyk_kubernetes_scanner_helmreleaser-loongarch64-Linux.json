@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "helmreleaser",
+  "pkg_family": "kubernetes-scanner",
+  "pkg_id": "helmreleaser#github.com_snyk_kubernetes_scanner",
+  "pkg_name": "helmreleaser",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/snyk/kubernetes-scanner",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Collects data about Kubernetes resources for Snyk",
+  "homepage": [
+    "https://github.com/snyk/kubernetes-scanner"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "helmreleaser",
+    "kubernetes-scanner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/snyk/kubernetes-scanner/@v/v0.23.5.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.23.5",
+  "version_upstream": "",
+  "bsum": "93306ee83c8df18b660d11350a5ba59d063592fce3b746b565a91a156b5fa24c",
+  "build_date": "2025-08-22T04:48:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17145619127",
+  "build_id": "17145619127",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/snyk/kubernetes-scanner/helmreleaser?tag=v0.23.5-loongarch64-Linux&download=helmreleaser.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/snyk/kubernetes-scanner/helmreleaser?tag=v0.23.5-loongarch64-Linux&download=helmreleaser",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/snyk/kubernetes-scanner/helmreleaser:v0.23.5-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/snyk/kubernetes-scanner/helmreleaser",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/snyk/kubernetes-scanner/helmreleaser?tag=v0.23.5-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8bc8c854f269ecdae22557aa2fb016f5a5793a8c4c0c18d71626e69132a2136c",
+  "size": "63 MB",
+  "size_raw": "65762272",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
