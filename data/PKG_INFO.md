@@ -683,6 +683,7 @@
 - 🐹 **[instance_mapper](https://github.com/googlecloudplatform/professional-services)**: Common solutions and tools developed by Google Cloud's Professional Services team.
 - 🐹 **[spiffe-gcp-proxy](https://github.com/googlecloudplatform/professional-services)**: Common solutions and tools developed by Google Cloud's Professional Services team.
 - 🐹 **[spanner-interleave-subquery](https://github.com/googlecloudplatform/professional-services)**: Common solutions and tools developed by Google Cloud's Professional Services team.
+- 🐹 **[appengine](https://github.com/googlecloudplatform/professional-services)**: Common solutions and tools developed by Google Cloud's Professional Services team.
 - 🐹 **[gcpviz](https://github.com/googlecloudplatform/professional-services)**: Common solutions and tools developed by Google Cloud's Professional Services team.
 - 🐹 **[lambda-compat](https://github.com/googlecloudplatform/professional-services)**: Common solutions and tools developed by Google Cloud's Professional Services team.
 - 🐹 **[etcdv3](https://sentinelguard.io/)**: Sentinel Go enables reliability and resiliency for Go microservices.
@@ -898,6 +899,7 @@
 - 🐹 **[test_dep](https://github.com/bazelbuild/bazel-gazelle)**: Gazelle is a Bazel build file generator for Bazel projects.
 - 🐹 **[src](https://databunker.org/)**: Secure Vault for Customer PII/PHI/PCI/KYC Records.
 - 🐹 **[v3](https://github.com/enfein/mieru/v3)**: Mieru is a socks5 / HTTP / HTTPS proxy to bypass censorship.
+- 🐹 **[v6](https://rwynn.github.io/monstache-site/)**: A go daemon that syncs MongoDB to Elasticsearch in realtime.
 - 🐹 **[ssb](https://github.com/pwnesia/ssb)**: Secure Shell Bruteforcer — A faster _ simpler way to bruteforce SSH server.
 - 🐹 **[rate-limiting](https://github.com/modelcontextprotocol/go-sdk)**: The official Go SDK for Model Context Protocol servers and clients.
 - 🐹 **[fetch-github-hosts](https://hosts.gitcdn.top)**: 同步github的hosts工具，支持多平台的图形化和命令行，内置客户端和服务端两种模式~ | Synchronize GitHub hosts tool, support multi-platform graphical and command line, built-in client and server modes.
@@ -2262,6 +2264,7 @@
 - 🐹 **[age-plugin-fido2-hmac](https://github.com/olastor/age-plugin-fido2-hmac)**: Age plugin to encrypt files with fido2 tokens using the hmac-secret extension and non-discoverable credentials.
 - 🐹 **[cb-tumblebug](https://github.com/cloud-barista/cb-tumblebug)**: Cloud-Barista Multi-Cloud Infra Management Framework.
 - 🐹 **[clusterclass](https://turtles.docs.rancher.com)**: Rancher CAPI extension.
+- 🐹 **[clyp](https://github.com/murat-cileli/clyp)**: Clipboard manager for Linux.
 - 🐹 **[consul](https://docs.mss-boot-io.top)**: A front-end and back-end separation authority management system based on Gin, React, Ant Design v5, Umi v4, and mss-boot.
 - 🐹 **[cztack](https://www.chanzuckerberg.com/)**: The CZI infrastructure stack.
 - 🐹 **[kafka](https://docs.mss-boot-io.top)**: A front-end and back-end separation authority management system based on Gin, React, Ant Design v5, Umi v4, and mss-boot.
@@ -2864,6 +2867,7 @@
 - 🐹 **[ini-file](https://bitnami.com)**: CLI tool for modifying .
 - 🐹 **[kwkhtmltopdf](https://github.com/acsone/kwkhtmltopdf)**: Wkhtmltopdf server with transparent drop-in client.
 - 🐹 **[pocketci](https://github.com/franela/pocketci)**: A dagger-based portable CI platform.
+- 🐹 **[prom-scrape-analyzer](https://github.com/pedro-stanaka/prom-scrape-analyzer)**: Get insights from your scrape endpoint (even it speaks Protobuf.
 - 🐹 **[rolling-shutter](https://twitter.com/ShutterNetwork/)**: A threshold encryption framework for L1 & L2 EVM-compatible chains.
 - 🐹 **[run](http://docs.activestate.com/platform/state/)**: The Command Line Interface for managing language runtime environments built by the ActiveState Platform.
 - 🐹 **[teamspeak-client-portable](https://portapps.io/app/teamspeak-client-portable/)**: TeamSpeak Client portable for Windows.
