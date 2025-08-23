@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "analyze",
+  "pkg_family": "go-code-graph",
+  "pkg_id": "analyze#github.com_brutski_go_code_graph",
+  "pkg_name": "analyze",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/brutski/go-code-graph",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A powerful Go codebase analyzer that transforms code into explorable graphs, enabling AI assistants to understand complex codebases through the Model Context Protocol (MCP",
+  "homepage": [
+    "https://github.com/brutski/go-code-graph"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "analyze",
+    "import-neo4j",
+    "mcp-server",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/brutski/go-code-graph/@v/v0.0.0-20250822004139-2d9da61ff40e.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250822004139-2d9da61ff40e",
+  "version_upstream": "",
+  "bsum": "64b3eaa6a4a73be9bedd1613a44d56ae79acab4108c86832b64e58e4e81d2a97",
+  "build_date": "2025-08-23T03:48:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17170810472",
+  "build_id": "17170810472",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/brutski/go-code-graph/analyze?tag=v0.0.0-20250822004139-2d9da61ff40e-aarch64-Linux&download=analyze.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/brutski/go-code-graph/analyze?tag=v0.0.0-20250822004139-2d9da61ff40e-aarch64-Linux&download=analyze",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/brutski/go-code-graph/analyze:v0.0.0-20250822004139-2d9da61ff40e-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/brutski/go-code-graph/analyze",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/brutski/go-code-graph/analyze?tag=v0.0.0-20250822004139-2d9da61ff40e-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d018f55d85fe2658554904c086cfdd115279f50abdbf778bd8d86811cd82fedf",
+  "size": "8.7 MB",
+  "size_raw": "9030560",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
