@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "pocketci",
+  "pkg_id": "server#github.com_franela_pocketci",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/franela/pocketci",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A dagger-based portable CI platform",
+  "homepage": [
+    "https://github.com/franela/pocketci"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/franela/pocketci/@v/v0.0.0-20250822160824-fce972605bf3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250822160824-fce972605bf3",
+  "version_upstream": "",
+  "bsum": "06fde55d3a86f6a5bd4b5ab8fe242d1842ff2121f0a2e66b14122b76173135e3",
+  "build_date": "2025-08-23T15:46:55Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17177169377",
+  "build_id": "17177169377",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/franela/pocketci/server?tag=v0.0.0-20250822160824-fce972605bf3-loongarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "31",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/franela/pocketci/server?tag=v0.0.0-20250822160824-fce972605bf3-loongarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/franela/pocketci/server:v0.0.0-20250822160824-fce972605bf3-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/franela/pocketci/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/franela/pocketci/server?tag=v0.0.0-20250822160824-fce972605bf3-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "37f272b162b8b8e38285262f9b3de36abe60e11c6c418cbf874fb01cde311b1c",
+  "size": "17 MB",
+  "size_raw": "16907616",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-3b9ac59-250625T172845-loongarch64-Linux",
+    "v0.0.0-20250625202845-3b9ac59b1cb1-loongarch64-Linux",
+    "v0.0.0-20250711035033-08ef70082c4f-loongarch64-Linux",
+    "v0.0.0-20250804195055-058bedaf231e-loongarch64-Linux",
+    "v0.0.0-20250813155245-97a8c17f34a7-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
