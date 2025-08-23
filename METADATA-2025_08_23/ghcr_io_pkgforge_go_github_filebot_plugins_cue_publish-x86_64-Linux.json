@@ -25,6 +25,7 @@
   "provides": [
     "build-archive",
     "build-plugins",
+    "bump-deps",
     "cue-publish",
     "golangci-lint",
     "lint-plugins",
@@ -41,17 +42,17 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://proxy.golang.org/github.com/perses/plugins/@v/v0.0.0-20250819084544-30ff725d227a.zip"
+    "https://proxy.golang.org/github.com/perses/plugins/@v/v0.0.0-20250822131346-e0d1eac7e0a7.zip"
   ],
   "tag": [
     "Utility"
   ],
   "version": "v0.0.0-20250705105050-819df334887c",
   "version_upstream": "",
-  "bsum": "73bdc66fba28fa220f86d185f01e32e36e8ca3d762cdb2a60c57069c17a348ad",
-  "build_date": "2025-08-23T13:06:46Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17175666389",
-  "build_id": "17175666389",
+  "bsum": "7fa45e0574a2276214050ac067e189fcf0f60965a4870b74d1a80a9642e2bef2",
+  "build_date": "2025-08-23T21:45:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17180372312",
+  "build_id": "17180372312",
   "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filebot/plugins/cue-publish?tag=v0.0.0-20250705105050-819df334887c-x86_64-Linux&download=cue-publish.log",
   "deprecated": "false",
   "desktop_integration": "false",
@@ -64,9 +65,9 @@
   "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filebot/plugins/cue-publish?tag=v0.0.0-20250705105050-819df334887c-x86_64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "6d498156ddc04904fb41c45fadb3d373f66151d024895c148a47f35ecae03dc0",
+  "shasum": "5072b2a87a637ebe65b86e0ed6c7b36c8db5b8c58582ea025fca60e4944c75f6",
   "size": "2.5 MB",
-  "size_raw": "2562456",
+  "size_raw": "2562520",
   "soar_syms": "false",
   "snapshots": [
     "v0.0.0-20250705105050-819df334887c-x86_64-Linux"
