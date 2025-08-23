@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "atomic",
+  "pkg_family": "arch",
+  "pkg_id": "atomic#github.com_hthuz_arch",
+  "pkg_name": "atomic",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hthuz/arch",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Quick notes of all kinds",
+  "homepage": [
+    "https://github.com/hthuz/arch"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "atomic",
+    "client",
+    "context",
+    "contextcancel",
+    "func",
+    "goroutine",
+    "interface",
+    "reflect_demo",
+    "server",
+    "tree",
+    "win_syscall"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/hthuz/arch/@v/v0.0.0-20250820092156-fa64377b8ca3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250820092156-fa64377b8ca3",
+  "version_upstream": "",
+  "bsum": "a903de703ee34ec9e841fba2e298306d1c13b113ad55bb16523df28137b94059",
+  "build_date": "2025-08-23T18:50:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17178875491",
+  "build_id": "17178875491",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hthuz/arch/atomic?tag=v0.0.0-20250820092156-fa64377b8ca3-loongarch64-Linux&download=atomic.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hthuz/arch/atomic?tag=v0.0.0-20250820092156-fa64377b8ca3-loongarch64-Linux&download=atomic",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hthuz/arch/atomic:v0.0.0-20250820092156-fa64377b8ca3-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hthuz/arch/atomic",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hthuz/arch/atomic?tag=v0.0.0-20250820092156-fa64377b8ca3-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "732ca85af74b0e83e0b484671062114c593f96364776bcdfe0a762113f0002ce",
+  "size": "1.7 MB",
+  "size_raw": "1726328",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250415073323-5781b7864047-loongarch64-Linux",
+    "v0.0.0-20250727152813-35e826b59138-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
