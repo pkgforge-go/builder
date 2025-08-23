@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "dump",
+  "pkg_family": "birdsync",
+  "pkg_id": "dump#github.com_sajmani_birdsync",
+  "pkg_name": "dump",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sajmani/birdsync",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Sync eBird observations and photos to iNaturalist",
+  "homepage": [
+    "https://github.com/sajmani/birdsync"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "birdsync",
+    "dedupe",
+    "dump",
+    "poke",
+    "position",
+    "purge",
+    "repair"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sajmani/birdsync/@v/v0.0.0-20250821204442-ade6c6193226.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250821204442-ade6c6193226",
+  "version_upstream": "",
+  "bsum": "1c2019e8a04facc48344bc8418f6b1a89be30fcc13509b8b2e39605801f244d3",
+  "build_date": "2025-08-23T04:12:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17170836673",
+  "build_id": "17170836673",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sajmani/birdsync/dump?tag=v0.0.0-20250821204442-ade6c6193226-aarch64-Linux&download=dump.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sajmani/birdsync/dump?tag=v0.0.0-20250821204442-ade6c6193226-aarch64-Linux&download=dump",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sajmani/birdsync/dump:v0.0.0-20250821204442-ade6c6193226-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sajmani/birdsync/dump",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sajmani/birdsync/dump?tag=v0.0.0-20250821204442-ade6c6193226-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1764c38d295cb098a25862c46616e1d185da536286d86b326220d16388dfeb51",
+  "size": "6.0 MB",
+  "size_raw": "6220352",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
