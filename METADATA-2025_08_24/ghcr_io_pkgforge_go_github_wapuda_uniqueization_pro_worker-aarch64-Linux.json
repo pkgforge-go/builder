@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "worker",
+  "pkg_family": "uniqueization_pro",
+  "pkg_id": "worker#github.com_wapuda_uniqueization_pro",
+  "pkg_name": "worker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/wapuda/uniqueization_pro",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Dockerized Telegram bot and worker service written in Go for video “unification”. It downloads videos from Telegram, strips metadata, re-encodes with controlled compression. The project uses Redis + Asynq for task queuing, FFmpeg for media processing",
+  "homepage": [
+    "https://github.com/wapuda/uniqueization_pro"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bot",
+    "worker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/wapuda/uniqueization_pro/@v/v0.0.0-20250823220253-485f2b943405.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250823220253-485f2b943405",
+  "version_upstream": "",
+  "bsum": "38cc05a24267d7949ac199a51957cf46e281559bf83d5980a9ca173c54eaf8f0",
+  "build_date": "2025-08-24T15:55:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17190564402",
+  "build_id": "17190564402",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wapuda/uniqueization/pro/worker?tag=v0.0.0-20250823220253-485f2b943405-aarch64-Linux&download=worker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wapuda/uniqueization/pro/worker?tag=v0.0.0-20250823220253-485f2b943405-aarch64-Linux&download=worker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/wapuda/uniqueization/pro/worker:v0.0.0-20250823220253-485f2b943405-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/wapuda/uniqueization/pro/worker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wapuda/uniqueization/pro/worker?tag=v0.0.0-20250823220253-485f2b943405-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "66c04e687e815d591462d177dd2811f865374fe75e85af7e82793397dc6f935c",
+  "size": "9.4 MB",
+  "size_raw": "9818944",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
