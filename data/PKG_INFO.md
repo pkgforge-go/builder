@@ -482,6 +482,7 @@
 - 🐹 **[builderd](https://go.unkey.com)**: The Developer Platform for Modern APIs.
 - 🐹 **[chproxy](https://go.unkey.com)**: The Developer Platform for Modern APIs.
 - 🐹 **[billaged](https://go.unkey.com)**: The Developer Platform for Modern APIs.
+- 🐹 **[v2](https://github.com/gdamore/tcell)**: Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
 - 🐹 **[go](https://github.com/marketplace/actions/build-and-push-docker-images)**: GitHub Action to build and push Docker images with Buildx.
 - 🐹 **[grpc-ping-go](https://knative.dev/docs/)**: User documentation for Knative components.
 - 🐹 **[helloworld-go](https://knative.dev/docs/)**: User documentation for Knative components.
@@ -1133,6 +1134,7 @@
 - 🐹 **[golang](https://triton.one)**: Solana geyser grpc service.
 - 🐹 **[gprofiler](https://github.com/intel/gprofiler)**: GProfiler is a system-wide profiler, combining multiple sampling profilers to produce unified visualization of what your CPU is spending time on.
 - 🐹 **[setup-smoke-test](https://docs.datadoghq.com/tracing/)**: Datadog Go Library including APM tracing, profiling, and security monitoring.
+- 🐹 **[sniffer](https://github.com/chenjiandongx/sniffer)**: A modern alternative network traffic sniffer.
 - 🐹 **[wildcard-dns-http-server](https://github.com/cunnie/sslip.io)**: Golang-based DNS server which maps DNS records with embedded IP addresses to those addresses.
 - 🐹 **[etcd](https://microshift.io)**: A small form factor OpenShift/Kubernetes optimized for edge computing.
 - 🐹 **[prometheus](https://microshift.io)**: A small form factor OpenShift/Kubernetes optimized for edge computing.
