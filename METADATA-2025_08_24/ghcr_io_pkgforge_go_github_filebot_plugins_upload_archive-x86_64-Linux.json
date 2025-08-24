@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "upload-archive",
+  "pkg_family": "plugins",
+  "pkg_id": "upload-archive#github.com_filebot_plugins",
+  "pkg_name": "upload-archive",
+  "pkg_type": "static",
+  "pkg_webpage": "https://www.filebot.net/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Plugins and shell scripts for integrating 3rd party tools with FileBot",
+  "homepage": [
+    "https://www.filebot.net/"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "build-archive",
+    "build-plugins",
+    "bump-deps",
+    "cue-publish",
+    "golangci-lint",
+    "lint-plugins",
+    "npm-publish",
+    "release",
+    "test-schemas-plugins",
+    "tidy-modules",
+    "upload-archive"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/perses/plugins/@v/v0.0.0-20250822131346-e0d1eac7e0a7.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250705105050-819df334887c",
+  "version_upstream": "",
+  "bsum": "0d590b7fcc8a41b55c4a8218f1d6a2835b1ce4b9ceae84bee8fd1ba286e8a7fc",
+  "build_date": "2025-08-24T02:21:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17182772026",
+  "build_id": "17182772026",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filebot/plugins/upload-archive?tag=v0.0.0-20250705105050-819df334887c-x86_64-Linux&download=upload-archive.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "90",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filebot/plugins/upload-archive?tag=v0.0.0-20250705105050-819df334887c-x86_64-Linux&download=upload-archive",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/filebot/plugins/upload-archive:v0.0.0-20250705105050-819df334887c-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/filebot/plugins/upload-archive",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/filebot/plugins/upload-archive?tag=v0.0.0-20250705105050-819df334887c-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4c24334916a876626420bfb057a65b919b759e542159b20045fc6c8f537e0bae",
+  "size": "2.8 MB",
+  "size_raw": "2922104",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250705105050-819df334887c-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
