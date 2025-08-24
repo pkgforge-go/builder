@@ -53763,6 +53763,19 @@
     "version": "HEAD-5a26344-250628T092023"
   },
   {
+    "description": "A Dockerized Telegram bot and worker service written in Go for video “unification”. It downloads videos from Telegram, strips metadata, re-encodes with controlled compression. The project uses Redis + Asynq for task queuing, FFmpeg for media processing",
+    "name": "bot",
+    "pkg_id": "bot#github.com_wapuda_uniqueization_pro",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-24",
+    "version": "v0.0.0-20250823220253-485f2b943405"
+  },
+  {
     "description": "No Description Provided",
     "name": "bot",
     "pkg_id": "bot#proxy.golang.org_github.com_fardog_primeweb_bot_v_v0.0.0_20250810235858_68c882cfb2cc.zip",
@@ -398684,6 +398697,19 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.0.0-20250615223434-b183e0995715"
+  },
+  {
+    "description": "A Dockerized Telegram bot and worker service written in Go for video “unification”. It downloads videos from Telegram, strips metadata, re-encodes with controlled compression. The project uses Redis + Asynq for task queuing, FFmpeg for media processing",
+    "name": "worker",
+    "pkg_id": "worker#github.com_wapuda_uniqueization_pro",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-24",
+    "version": "v0.0.0-20250823220253-485f2b943405"
   },
   {
     "description": "Try Playwright lets you execute and share Playwright scripts in your browser to get started with Playwright",
