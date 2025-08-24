@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "bot",
+  "pkg_family": "uniqueization_pro",
+  "pkg_id": "bot#github.com_wapuda_uniqueization_pro",
+  "pkg_name": "bot",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/wapuda/uniqueization_pro",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Dockerized Telegram bot and worker service written in Go for video “unification”. It downloads videos from Telegram, strips metadata, re-encodes with controlled compression. The project uses Redis + Asynq for task queuing, FFmpeg for media processing",
+  "homepage": [
+    "https://github.com/wapuda/uniqueization_pro"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bot",
+    "worker"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/wapuda/uniqueization_pro/@v/v0.0.0-20250823220253-485f2b943405.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250823220253-485f2b943405",
+  "version_upstream": "",
+  "bsum": "7c5f8cc8d5a8be23f3c4e822376dc6c1c975bf1940b6f4d71d83ab174de987ae",
+  "build_date": "2025-08-24T15:55:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17190564402",
+  "build_id": "17190564402",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wapuda/uniqueization/pro/bot?tag=v0.0.0-20250823220253-485f2b943405-loongarch64-Linux&download=bot.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wapuda/uniqueization/pro/bot?tag=v0.0.0-20250823220253-485f2b943405-loongarch64-Linux&download=bot",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/wapuda/uniqueization/pro/bot:v0.0.0-20250823220253-485f2b943405-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/wapuda/uniqueization/pro/bot",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/wapuda/uniqueization/pro/bot?tag=v0.0.0-20250823220253-485f2b943405-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e6b384835a9dee38521817023d69787b31c742db6a5535745653b5509b9ef0e3",
+  "size": "9.6 MB",
+  "size_raw": "10003328",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
