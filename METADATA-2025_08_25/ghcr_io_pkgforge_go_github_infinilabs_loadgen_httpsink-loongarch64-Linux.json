@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "httpsink",
+  "pkg_family": "loadgen",
+  "pkg_id": "httpsink#github.com_infinilabs_loadgen",
+  "pkg_name": "httpsink",
+  "pkg_type": "static",
+  "pkg_webpage": "https://docs.infinilabs.com/loadgen/main/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "INFINI Loadgen for API Benchmark & API Testing",
+  "homepage": [
+    "https://docs.infinilabs.com/loadgen/main/"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "grpcsink",
+    "httpsink",
+    "loadgen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/honeycombio/loadgen/@v/v0.4.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.29.7",
+  "version_upstream": "",
+  "bsum": "0f80db7de4de086f833648b56c5fc931ef92be18378970ad6f05c8a94194de81",
+  "build_date": "2025-08-25T04:12:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17198613586",
+  "build_id": "17198613586",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/infinilabs/loadgen/httpsink?tag=v1.29.7-loongarch64-Linux&download=httpsink.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "15",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/infinilabs/loadgen/httpsink?tag=v1.29.7-loongarch64-Linux&download=httpsink",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/infinilabs/loadgen/httpsink:v1.29.7-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/infinilabs/loadgen/httpsink",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/infinilabs/loadgen/httpsink?tag=v1.29.7-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6a28b317445f49a6b85c048f66c97e63148fc45f0599a272ae7eac575d3474a8",
+  "size": "13 MB",
+  "size_raw": "13345312",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
