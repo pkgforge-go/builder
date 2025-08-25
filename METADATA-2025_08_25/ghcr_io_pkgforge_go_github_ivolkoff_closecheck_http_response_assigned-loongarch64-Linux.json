@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "http-response-assigned",
+  "pkg_family": "closecheck",
+  "pkg_id": "http-response-assigned#github.com_ivolkoff_closecheck",
+  "pkg_name": "http-response-assigned",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ivolkoff/closecheck",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Static code analyzer for Go which checks whether a return value that implements io.Closer is correctly closed",
+  "homepage": [
+    "https://github.com/ivolkoff/closecheck"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "closecheck",
+    "global-var",
+    "http-response-assigned",
+    "http-response-ignored",
+    "http-response-nopcloser",
+    "http-response-not-assigned",
+    "http-response-on-defer-statement",
+    "http-response-on-go-statement",
+    "http-response-return",
+    "multi-assign",
+    "struct-field"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/ivolkoff/closecheck/@v/v0.0.0-20250824180210-8e899caefd2a.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250824180210-8e899caefd2a",
+  "version_upstream": "",
+  "bsum": "5029dd5dd2f213248f150c237ebca018f2e81ab573b34f484ef428e4c3ebfe48",
+  "build_date": "2025-08-25T04:12:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17198613739",
+  "build_id": "17198613739",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ivolkoff/closecheck/http-response-assigned?tag=v0.0.0-20250824180210-8e899caefd2a-loongarch64-Linux&download=http-response-assigned.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ivolkoff/closecheck/http-response-assigned?tag=v0.0.0-20250824180210-8e899caefd2a-loongarch64-Linux&download=http-response-assigned",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ivolkoff/closecheck/http-response-assigned:v0.0.0-20250824180210-8e899caefd2a-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ivolkoff/closecheck/http-response-assigned",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ivolkoff/closecheck/http-response-assigned?tag=v0.0.0-20250824180210-8e899caefd2a-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1021d2db5d7f6f873a910bf4933bb3cb9b3892fcc05833de8ace1df248c41459",
+  "size": "5.8 MB",
+  "size_raw": "6009120",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
