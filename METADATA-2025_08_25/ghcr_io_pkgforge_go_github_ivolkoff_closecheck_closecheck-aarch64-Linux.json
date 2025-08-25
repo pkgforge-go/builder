@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "closecheck",
+  "pkg_family": "closecheck",
+  "pkg_id": "closecheck#github.com_ivolkoff_closecheck",
+  "pkg_name": "closecheck",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ivolkoff/closecheck",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Static code analyzer for Go which checks whether a return value that implements io.Closer is correctly closed",
+  "homepage": [
+    "https://github.com/ivolkoff/closecheck"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "closecheck",
+    "global-var",
+    "http-response-assigned",
+    "http-response-ignored",
+    "http-response-nopcloser",
+    "http-response-not-assigned",
+    "http-response-on-defer-statement",
+    "http-response-on-go-statement",
+    "http-response-return",
+    "multi-assign",
+    "struct-field"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/ivolkoff/closecheck/@v/v0.0.0-20250824180210-8e899caefd2a.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250824180210-8e899caefd2a",
+  "version_upstream": "",
+  "bsum": "37c8cc58a757f677a265dbf49db2b42f2b23f08c317c5f80ac293d55c2edd47c",
+  "build_date": "2025-08-25T04:12:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17198613739",
+  "build_id": "17198613739",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ivolkoff/closecheck/closecheck?tag=v0.0.0-20250824180210-8e899caefd2a-aarch64-Linux&download=closecheck.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ivolkoff/closecheck/closecheck?tag=v0.0.0-20250824180210-8e899caefd2a-aarch64-Linux&download=closecheck",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ivolkoff/closecheck/closecheck:v0.0.0-20250824180210-8e899caefd2a-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ivolkoff/closecheck/closecheck",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ivolkoff/closecheck/closecheck?tag=v0.0.0-20250824180210-8e899caefd2a-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "527d95d4392bb5b9f93f61e646f66c54b4fa3b4c1bac99e0b2d989e2811be76b",
+  "size": "6.6 MB",
+  "size_raw": "6913088",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
