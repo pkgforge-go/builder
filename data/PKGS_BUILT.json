@@ -27200,8 +27200,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-10",
-    "version": "v0.0.0-20250706052831-43d133b211ac"
+    "updated_at": "2025-08-25",
+    "version": "v0.0.0-20250821174529-ca4b38b8c7de"
   },
   {
     "description": "A bunch of projects made using Go programming language",
@@ -28997,6 +28997,18 @@
     ],
     "updated_at": "2025-06-23",
     "version": "HEAD-c018341-250623T163219"
+  },
+  {
+    "description": "Receives Prometheus Alertmanager webhook messages and creates Kubernetes Jobs based on these messages",
+    "name": "alertmanager-webhook-receiver",
+    "pkg_id": "alertmanager-webhook-receiver#github.com_luciferinlove_alertmanager_webhook_receiver",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.1.0"
   },
   {
     "description": "Alertmanager Wechatrobot",
@@ -30834,6 +30846,19 @@
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-1b1e058-250620T070253"
+  },
+  {
+    "description": "A parser of Android /etc files",
+    "name": "androidetc",
+    "pkg_id": "androidetc#github.com_xaionaro_go_androidetc",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.0.0-20250824193302-b7ecebb3b825"
   },
   {
     "description": "Platform agnostic GSLB frontend with OpenStack-like API",
@@ -77292,6 +77317,19 @@
     "version": "HEAD-40eb278-250627T014431"
   },
   {
+    "description": "Static code analyzer for Go which checks whether a return value that implements io.Closer is correctly closed",
+    "name": "closecheck",
+    "pkg_id": "closecheck#github.com_ivolkoff_closecheck",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.0.0-20250824180210-8e899caefd2a"
+  },
+  {
     "description": "A collection of little snippets of programs I write when I test out ideas. A code _playground_.",
     "name": "closing-channels",
     "pkg_id": "closing-channels#github.com_cedrickchee_experiments",
@@ -78345,6 +78383,19 @@
     ],
     "updated_at": "2025-07-06",
     "version": "v0.0.0-20250530192242-aeac3be7719b"
+  },
+  {
+    "description": "Connect to Google Cloud Shell from your terminal",
+    "name": "cloudshell",
+    "pkg_id": "cloudshell#github.com_astrophena_cloudshell",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v1.4.1"
   },
   {
     "description": "Let anyone deploy your GitHub repos to Google Cloud Run with a single click",
@@ -82302,6 +82353,19 @@
     "version": "v0.0.0-20250326205928-89d01f6d77cd"
   },
   {
+    "description": "A fast and efficient code linter for C/C++ projects",
+    "name": "code_linter",
+    "pkg_id": "code_linter#github.com_nirohfeld_code_linter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.0.0-20250824190033-762287e83904"
+  },
+  {
     "description": "No Description Provided",
     "name": "code_orchestration",
     "pkg_id": "code_orchestration#github.com_Ingenimax_agent_sdk_go",
@@ -85050,6 +85114,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-a2195fb-250618T122130"
+  },
+  {
+    "description": "No bs AI coding assistant",
+    "name": "compell",
+    "pkg_id": "compell#github.com_m4xw311_compell",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.0.0-20250824124310-a1956ea66e01"
   },
   {
     "description": "Compgen is a gqlgen plugin designed to simplify the generation of ComplexityRoot for gqlgen.",
@@ -92309,6 +92386,19 @@
     ],
     "updated_at": "2025-08-17",
     "version": "v0.0.0-20250815104833-9372e9930a8b"
+  },
+  {
+    "description": "COntainer SAndbox NETwork exporter",
+    "name": "cosanet",
+    "pkg_id": "cosanet#github.com_cosanet_cosanet",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.0.1"
   },
   {
     "description": "COSI Driver for Nutanix platform",
@@ -114841,6 +114931,19 @@
     "version": "v0.0.0-20250619181334-3c6c63f9c44d"
   },
   {
+    "description": "Declarative package sync for Arch-based systems",
+    "name": "ditto",
+    "pkg_id": "ditto#github.com_ony_boom_ditto",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.2.5"
+  },
+  {
     "description": "Receive notifications when an image is updated on a Docker registry",
     "name": "diun",
     "pkg_id": "diun#github.com_crazy_max_diun",
@@ -131186,6 +131289,32 @@
     ],
     "updated_at": "2025-06-25",
     "version": "HEAD-47ccb23-250624T140417"
+  },
+  {
+    "description": "EV and battery charging optimizer",
+    "name": "evopt-cmd",
+    "pkg_id": "evopt-cmd#github.com_andig_evopt",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.0.0-20250824144945-f9104f3ae59b"
+  },
+  {
+    "description": "EV and battery charging optimizer",
+    "name": "evopt-fork-cmd",
+    "pkg_id": "evopt-fork-cmd#github.com_ekkea_evopt_fork",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.0.0-20250824135526-2c7bb659e099"
   },
   {
     "description": "Linux Runtime Security and Forensics using eBPF",
@@ -148842,6 +148971,19 @@
     "version": "HEAD-272e041-250626T074657"
   },
   {
+    "description": "A tool for Android project architecture",
+    "name": "fuckandroid",
+    "pkg_id": "fuckandroid#github.com_clarkguan_fuckandroid",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.0.0-20250819064108-82c0b4228a05"
+  },
+  {
     "description": "A curated list of awesome Go frameworks, libraries and software. With repository stars⭐ and forks🍴",
     "name": "fucking-awesome-go",
     "pkg_id": "fucking-awesome-go#github.com_Correia_jpv_fucking_awesome_go",
@@ -165588,6 +165730,19 @@
     "version": "HEAD-33dfff8-250530T083110"
   },
   {
+    "description": "Command-line utility for listing your work in progress Git repositories",
+    "name": "git-wip",
+    "pkg_id": "git-wip#github.com_carhartl_git_wip",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.0.7"
+  },
+  {
     "description": "git-xargs is a command-line tool _CLI_ for making updates across multiple Github repositories with a single command.",
     "name": "git-xargs",
     "pkg_id": "git-xargs#github.com_gruntwork_io_git_xargs",
@@ -167977,6 +168132,19 @@
     ],
     "updated_at": "2025-06-29",
     "version": "v0.0.0-20250506043631-681d04cdef26"
+  },
+  {
+    "description": "Static code analyzer for Go which checks whether a return value that implements io.Closer is correctly closed",
+    "name": "global-var",
+    "pkg_id": "global-var#github.com_ivolkoff_closecheck",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.0.0-20250824180210-8e899caefd2a"
   },
   {
     "description": "Kyma Environment Broker",
@@ -170857,6 +171025,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-d1f6cd3-250618T221429"
+  },
+  {
+    "description": "Automate your go download and installation process",
+    "name": "go-dl",
+    "pkg_id": "go-dl#github.com_joybiswas007_go_dl",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v1.0.2"
   },
   {
     "description": "Dnslink resolution in go-ipfs",
@@ -173844,6 +174025,19 @@
     "version": "v0.0.0-20250628043546-68412c25cb45"
   },
   {
+    "description": "A tool to reap and sow directory trees and files",
+    "name": "go-silo",
+    "pkg_id": "go-silo#github.com_escherize_go_silo",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.1.0"
+  },
+  {
     "description": "Learning the basics of go routing etc",
     "name": "go-simple-api",
     "pkg_id": "go-simple-api#github.com_stckrz_go_simple_api",
@@ -174829,6 +175023,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-40673bd-241022T192347"
+  },
+  {
+    "description": "Automate your go download and installation process",
+    "name": "go-up",
+    "pkg_id": "go-up#github.com_joybiswas007_go_up",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v1.0.0"
   },
   {
     "description": "Component update server for brave-core written in Go",
@@ -185868,6 +186075,19 @@
     "version": "HEAD-941ffa9-250626T151240"
   },
   {
+    "description": "Govulncheck Github Action",
+    "name": "govulncheck-action",
+    "pkg_id": "govulncheck-action#github.com_kmulvey_govulncheck_action",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v1.5.0"
+  },
+  {
     "description": "_go build_ wrapper to add version info to Golang applications",
     "name": "govvv",
     "pkg_id": "govvv#github.com_ahmetb_govvv",
@@ -188357,6 +188577,19 @@
     "version": "HEAD-2ad4068-250623T134331"
   },
   {
+    "description": "An AI powered CLI tool that can find the right commands to run for a specific task",
+    "name": "gromit",
+    "pkg_id": "gromit#github.com_gromitai_gromit",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.0.0-20250824170334-ab4ab1dd2130"
+  },
+  {
     "description": "Make JSON greppable!",
     "name": "gron",
     "pkg_id": "gron#github.com_tomnomnom_gron",
@@ -189087,6 +189320,19 @@
     ],
     "updated_at": "2025-06-27",
     "version": "HEAD-d67f667-250627T153053"
+  },
+  {
+    "description": "INFINI Loadgen for API Benchmark & API Testing",
+    "name": "grpcsink",
+    "pkg_id": "grpcsink#github.com_infinilabs_loadgen",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v1.29.7"
   },
   {
     "description": "An interactive web UI for gRPC, along the lines of postman",
@@ -198872,6 +199118,19 @@
     "version": "v0.0.0-20250505121847-fd6faae16b01"
   },
   {
+    "description": "HTTP over SSH transport for Prometheus",
+    "name": "http-over-ssh",
+    "pkg_id": "http-over-ssh#github.com_digineo_http_over_ssh",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.3.5"
+  },
+  {
     "description": "Collection of small application for demos",
     "name": "http-postgres",
     "pkg_id": "http-postgres#github.com_vojtechmares_demo_apps_http_postgres",
@@ -199057,6 +199316,19 @@
     "version": "v0.0.0-20250617170408-a55732ecab50"
   },
   {
+    "description": "Static code analyzer for Go which checks whether a return value that implements io.Closer is correctly closed",
+    "name": "http-response-assigned",
+    "pkg_id": "http-response-assigned#github.com_ivolkoff_closecheck",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.0.0-20250824180210-8e899caefd2a"
+  },
+  {
     "description": "A collection of comprehensible Go examples",
     "name": "http-response-compression",
     "pkg_id": "http-response-compression#github.com_mukappalambda_go_examples",
@@ -199068,6 +199340,84 @@
     ],
     "updated_at": "2025-07-04",
     "version": "v0.0.0-20250703142517-4e9493bf9715"
+  },
+  {
+    "description": "Static code analyzer for Go which checks whether a return value that implements io.Closer is correctly closed",
+    "name": "http-response-ignored",
+    "pkg_id": "http-response-ignored#github.com_ivolkoff_closecheck",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.0.0-20250824180210-8e899caefd2a"
+  },
+  {
+    "description": "Static code analyzer for Go which checks whether a return value that implements io.Closer is correctly closed",
+    "name": "http-response-nopcloser",
+    "pkg_id": "http-response-nopcloser#github.com_ivolkoff_closecheck",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.0.0-20250824180210-8e899caefd2a"
+  },
+  {
+    "description": "Static code analyzer for Go which checks whether a return value that implements io.Closer is correctly closed",
+    "name": "http-response-not-assigned",
+    "pkg_id": "http-response-not-assigned#github.com_ivolkoff_closecheck",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.0.0-20250824180210-8e899caefd2a"
+  },
+  {
+    "description": "Static code analyzer for Go which checks whether a return value that implements io.Closer is correctly closed",
+    "name": "http-response-on-defer-statement",
+    "pkg_id": "http-response-on-defer-statement#github.com_ivolkoff_closecheck",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.0.0-20250824180210-8e899caefd2a"
+  },
+  {
+    "description": "Static code analyzer for Go which checks whether a return value that implements io.Closer is correctly closed",
+    "name": "http-response-on-go-statement",
+    "pkg_id": "http-response-on-go-statement#github.com_ivolkoff_closecheck",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.0.0-20250824180210-8e899caefd2a"
+  },
+  {
+    "description": "Static code analyzer for Go which checks whether a return value that implements io.Closer is correctly closed",
+    "name": "http-response-return",
+    "pkg_id": "http-response-return#github.com_ivolkoff_closecheck",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.0.0-20250824180210-8e899caefd2a"
   },
   {
     "description": "Magnificent Monorepo",
@@ -200665,6 +201015,19 @@
     ],
     "updated_at": "2025-07-13",
     "version": "v0.5.0"
+  },
+  {
+    "description": "INFINI Loadgen for API Benchmark & API Testing",
+    "name": "httpsink",
+    "pkg_id": "httpsink#github.com_infinilabs_loadgen",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v1.29.7"
   },
   {
     "description": "Events Bridge",
@@ -230908,7 +231271,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-30",
+    "updated_at": "2025-08-25",
     "version": "v1.29.7"
   },
   {
@@ -235185,7 +235548,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-16",
+    "updated_at": "2025-08-25",
     "version": "v0.0.0-20250715113114-c77eb3567582"
   },
   {
@@ -238164,6 +238527,19 @@
     ],
     "updated_at": "2025-06-25",
     "version": "HEAD-b02e132-250625T031925"
+  },
+  {
+    "description": "Programs for cms to manage domains",
+    "name": "managedomains",
+    "pkg_id": "managedomains#github.com_prr123_managedomains",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.0.0-20250822090220-162a8b3a9c08"
   },
   {
     "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
@@ -253420,6 +253796,19 @@
     "version": "v0.24.0"
   },
   {
+    "description": "Static code analyzer for Go which checks whether a return value that implements io.Closer is correctly closed",
+    "name": "multi-assign",
+    "pkg_id": "multi-assign#github.com_ivolkoff_closecheck",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.0.0-20250824180210-8e899caefd2a"
+  },
+  {
     "description": "Swagger 2.0 implementation for go",
     "name": "multi-auth-example-server",
     "pkg_id": "multi-auth-example-server#github.com_go_swagger_go_swagger",
@@ -263976,6 +264365,19 @@
     "version": "HEAD-b548f60-250628T025448"
   },
   {
+    "description": "A wc clone in spirit, written in Go",
+    "name": "nwc",
+    "pkg_id": "nwc#github.com_sparshpriyadarshi_nwc",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.0.0-20250823220630-4cf76fab6d1c"
+  },
+  {
     "description": "A tmux-driven, reverse shell manager with an identity crisis",
     "name": "nx",
     "pkg_id": "nx#github.com_audibleblink_nx",
@@ -273616,6 +274018,19 @@
     "version": "HEAD-321020f-250620T163439"
   },
   {
+    "description": "A fast and simple URL parameter fuzzer that replaces query values with custom payloads",
+    "name": "paramfuzz",
+    "pkg_id": "paramfuzz#github.com_luqmanhy_paramfuzz",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.0.0-20250824080140-e4513bab9798"
+  },
+  {
     "description": "Paramix is a command-line tool for modifying the parameters of a list of URLs from stdin and returns them in stdout.",
     "name": "paramix",
     "pkg_id": "paramix#github.com_xhzeem_paramix",
@@ -277909,6 +278324,19 @@
     ],
     "updated_at": "2025-07-26",
     "version": "v0.0.0-20250724151934-3c238e342f52"
+  },
+  {
+    "description": "Convert PGP/GPG private keys to SSH private keys",
+    "name": "pgp2ssh",
+    "pkg_id": "pgp2ssh#github.com_pinpox_pgp2ssh",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.0.0-20250512092410-792e3a3f107e"
   },
   {
     "description": "PostgreSQL zero-downtime migrations made easy",
@@ -284445,6 +284873,19 @@
     ],
     "updated_at": "2025-06-23",
     "version": "HEAD-34f80cb-250623T124311"
+  },
+  {
+    "description": "A high-performance Model Context Protocol (MCP) server built with Go that provides POSIX system monitoring capabilities for Claude Desktop, Cursor, and other MCP clients",
+    "name": "posix-system-mcp",
+    "pkg_id": "posix-system-mcp#github.com_agent_hellboy_posix_system_mcp",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.0.0-20250824043731-f28e9cbc18e2"
   },
   {
     "description": "Lab helps you experiment with code without friction. Type lab with any extension and start coding - it handles files, organization, and cleanup automatically",
@@ -296746,6 +297187,19 @@
     "version": "HEAD-6952242-250629T115412"
   },
   {
+    "description": "QA-Pilot is an interactive chat project that leverages online/local LLM for rapid understanding and navigation of GitHub code repository",
+    "name": "qa-pilot",
+    "pkg_id": "qa-pilot#github.com_reid41_qa_pilot",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.0.0-20250824034052-747a9ecb61a3"
+  },
+  {
     "description": "Percona Monitoring and Management: an open source database monitoring, observability and management tool",
     "name": "qan-api2",
     "pkg_id": "qan-api2#github.com_percona_pmm",
@@ -300719,6 +301173,19 @@
     ],
     "updated_at": "2025-06-28",
     "version": "HEAD-087190b-250628T153728"
+  },
+  {
+    "description": "Parse the output of deadcode and remove(rewrite) the dead code from the source files",
+    "name": "rdeadcode",
+    "pkg_id": "rdeadcode#github.com_kzmshx_rdeadcode",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.0.0-20250824014521-7afa9c9286ac"
   },
   {
     "description": "Sensor sampling software for the ORCA Buoy Controller",
@@ -324802,6 +325269,19 @@
     "version": "v0.0.0-20250815230758-d2389d7a9c2d"
   },
   {
+    "description": "A simple tunneling service to expose local services publicly",
+    "name": "server",
+    "pkg_id": "server#github.com_aym1607_godig",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.0.0-20250824044734-554c67fc832d"
+  },
+  {
     "description": "The progress of learning Go",
     "name": "server",
     "pkg_id": "server#github.com_azusachino_little_go",
@@ -328157,6 +328637,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-576af54-250619T234310"
+  },
+  {
+    "description": "A simple tunneling service to expose local services publicly",
+    "name": "service",
+    "pkg_id": "service#github.com_aym1607_godig",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.0.0-20250824044734-554c67fc832d"
   },
   {
     "description": "Microservice framework following best cloud practices with a focus on productivity.",
@@ -333323,6 +333816,19 @@
     ],
     "updated_at": "2025-08-14",
     "version": "v0.0.0-20250725085115-e4c16152d01e"
+  },
+  {
+    "description": "Go 通用基础库",
+    "name": "simple-template",
+    "pkg_id": "simple-template#github.com_rehtt_kit_generate_simple_template",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.0.0-20250823031005-336e69c8f01a"
   },
   {
     "description": "Swagger 2.0 implementation for go",
@@ -348964,6 +349470,19 @@
     "version": "v0.0.0-20250813134613-4035ec4127fe"
   },
   {
+    "description": "Static code analyzer for Go which checks whether a return value that implements io.Closer is correctly closed",
+    "name": "struct-field",
+    "pkg_id": "struct-field#github.com_ivolkoff_closecheck",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.0.0-20250824180210-8e899caefd2a"
+  },
+  {
     "description": "Utilities for Eliona app developers",
     "name": "struct-from-asset",
     "pkg_id": "struct-from-asset#github.com_eliona_smart_building_assistant_dev_utilities",
@@ -353848,6 +354367,19 @@
     "version": "v1.3.220"
   },
   {
+    "description": "Gets the system DNS resolvers",
+    "name": "systemdns",
+    "pkg_id": "systemdns#github.com_fvbommel_systemdns",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.0.1"
+  },
+  {
     "description": "Storage orchestrator for containers",
     "name": "syswrap",
     "pkg_id": "syswrap#github.com_NetApp_trident",
@@ -356288,6 +356820,19 @@
     ],
     "updated_at": "2025-07-04",
     "version": "v0.0.0-20250702233541-f3baeb30b461"
+  },
+  {
+    "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
+    "name": "teamcitytestscripts",
+    "pkg_id": "teamcitytestscripts#github.com_coreos_prometheus_operator_scripts",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-25",
+    "version": "v0.0.0-20250821174529-ca4b38b8c7de"
   },
   {
     "description": "Some hubot scripts that help automate the workflow",
@@ -370567,8 +371112,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-08-05",
-    "version": "v0.0.0-20250628124502-b449e977356e"
+    "updated_at": "2025-08-25",
+    "version": "v0.0.0-20250822233947-31c1d3cf40ab"
   },
   {
     "description": "Examples for amisgo",
@@ -384012,7 +384557,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-08-21",
+    "updated_at": "2025-08-25",
     "version": "v2.0.0-20250731084034-f7f150c3f139"
   },
   {
