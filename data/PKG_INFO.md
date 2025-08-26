@@ -212,6 +212,7 @@
 - 🐹 **[webhook](https://github.com/adnanh/webhook)**: Webhook is a lightweight incoming webhook server to run shell commands.
 - 🐹 **[kubeasz](https://github.com/easzlab/kubeasz)**: 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响.
 - 🐹 **[kopia](https://kopia.io)**: Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication.
+- 🐹 **[sliceofpointers](https://pkg.go.dev/github.com/google/go-github/v74/github)**: Go library for accessing the GitHub v3 API.
 - 🐹 **[eventsearcher](https://sftpgo.com)**: Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob.
 - 🐹 **[ipfilter](https://sftpgo.com)**: Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob.
 - 🐹 **[newreposecretwithlibsodium](https://pkg.go.dev/github.com/google/go-github/v72/github)**: Go library for accessing the GitHub v3 API.
@@ -318,6 +319,7 @@
 - 🐹 **[cron-based](https://chain.link)**: Node of the decentralized oracle network, bridging on and off-chain computation.
 - 🐹 **[web-trigger-based](https://chain.link)**: Node of the decentralized oracle network, bridging on and off-chain computation.
 - 🐹 **[scripts](https://chain.link)**: Node of the decentralized oracle network, bridging on and off-chain computation.
+- 🐹 **[bedrock-provider-example](https://tmc.github.io/langchaingo/)**: LangChain for Go, the easiest way to write LLM-based programs in Go.
 - 🐹 **[uiautomator2](https://github.com/openatx/uiautomator2)**: Android Uiautomator2 Python Wrapper.
 - 🐹 **[uibox](https://github.com/openatx/uiautomator2)**: Android Uiautomator2 Python Wrapper.
 - 🐹 **[kompat](https://karpenter.sh)**: Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
@@ -564,6 +566,7 @@
 - 🐹 **[cursor-pagination](https://bun.uptrace.dev)**: SQL-first Golang ORM.
 - 🐹 **[multi-tenant](https://bun.uptrace.dev)**: SQL-first Golang ORM.
 - 🐹 **[pg-listen](https://bun.uptrace.dev)**: SQL-first Golang ORM.
+- 🐹 **[pg-range](https://bun.uptrace.dev)**: SQL-first Golang ORM.
 - 🐹 **[rel-many-to-many](https://bun.uptrace.dev)**: SQL-first Golang ORM.
 - 🐹 **[custom-type](https://bun.uptrace.dev)**: SQL-first Golang ORM.
 - 🐹 **[get-where-fields](https://bun.uptrace.dev)**: SQL-first Golang ORM.
@@ -636,6 +639,7 @@
 - 🐹 **[go](https://www.pantsbuild.org)**: The Pants Build System.
 - 🐹 **[pants](https://www.pantsbuild.org)**: The Pants Build System.
 - 🐹 **[tproxy](https://go-zero.dev)**: A cli tool to proxy and analyze TCP connections.
+- 🐹 **[caddy](https://vulcain.rocks)**: Fast and idiomatic client-driven REST APIs.
 - 🐹 **[generator](http://fabric8.io)**: Java client for Kubernetes & OpenShift.
 - 🐹 **[cli-docgen](https://odigos.io)**: Distributed tracing without code changes.
 - 🐹 **[operator](https://odigos.io)**: Distributed tracing without code changes.
@@ -736,6 +740,7 @@
 - 🐹 **[v2](https://raviqqe.com/muffet)**: Fast website link checker in Go.
 - 🐹 **[local-path-provisioner](https://github.com/rancher/local-path-provisioner)**: Dynamically provisioning persistent local storage with Kubernetes.
 - 🐹 **[dnstester](https://www.inspektor-gadget.io)**: Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF.
+- 🐹 **[go](https://www.inspektor-gadget.io)**: Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF.
 - 🐹 **[testjson2md](https://www.inspektor-gadget.io)**: Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF.
 - 🐹 **[scripts](https://registry.terraform.io/providers/hashicorp/google/latest/docs)**: Terraform Provider for Google Cloud Platform.
 - 🐹 **[bitbar-plugins](https://xbarapp.com)**: Plugin repository for xbar (the BitBar reboot.
@@ -1134,6 +1139,7 @@
 - 🐹 **[loft](https://loft.sh/docs/introduction)**: Namespace & Virtual Cluster Manager for Kubernetes - Lightweight Virtual Clusters, Self-Service Provisioning for Engineers and 70% Cost Savings with Sleep Mode.
 - 🐹 **[golang](https://triton.one)**: Solana geyser grpc service.
 - 🐹 **[gprofiler](https://github.com/intel/gprofiler)**: GProfiler is a system-wide profiler, combining multiple sampling profilers to produce unified visualization of what your CPU is spending time on.
+- 🐹 **[playground](https://github.com/golang/playground)**: Mirror] The Go Playground.
 - 🐹 **[setup-smoke-test](https://docs.datadoghq.com/tracing/)**: Datadog Go Library including APM tracing, profiling, and security monitoring.
 - 🐹 **[sniffer](https://github.com/chenjiandongx/sniffer)**: A modern alternative network traffic sniffer.
 - 🐹 **[wildcard-dns-http-server](https://github.com/cunnie/sslip.io)**: Golang-based DNS server which maps DNS records with embedded IP addresses to those addresses.
@@ -1224,6 +1230,7 @@
 - 🐹 **[samples-go](https://docs.temporal.io/docs/go)**: Temporal Go SDK samples.
 - 🐹 **[otel-tui](https://github.com/ymtdzzz/otel-tui)**: A terminal OpenTelemetry viewer inspired by otel-desktop-viewer.
 - 🐹 **[yoke](https://github.com/yokecd/yoke)**: Kubernetes Package Management as Code; infrastructure as code, but actually.
+- 🐹 **[ping_exporter](https://github.com/czerwonk/ping_exporter)**: Prometheus exporter for ICMP echo requests using https://github.
 - 🐹 **[actions-handler](https://docs.lagoon.sh/)**: Lagoon, the developer-focused application delivery platform.
 - 🐹 **[activestandby](https://docs.lagoon.sh/)**: Lagoon, the developer-focused application delivery platform.
 - 🐹 **[args](https://github.com/dapr/components-contrib)**: Community driven, reusable components for distributed apps.
