@@ -992,6 +992,7 @@
 - 🐹 **[history](https://golang.design/history)**: Go: A Documentary | https://golang.
 - 🐹 **[k8gb](https://www.k8gb.io)**: A cloud native Kubernetes Global Balancer.
 - 🐹 **[kubeview](http://kubeview.benco.io/)**: KubeView is a Kubernetes cluster visualization tool that provides a graphical representation of your cluster's resources and their relationships.
+- 🐹 **[gopherdaily](https://github.com/bigwhite/gopherdaily)**: The archive of gopher daily articles.
 - 🐹 **[hraftd](http://www.philipotoole.com/building-a-distributed-key-value-store-using-raft/)**: A reference use of Hashicorp's Raft implementation.
 - 🐹 **[zoekt](https://github.com/sourcegraph/zoekt)**: Fast trigram based code search.
 - 🐹 **[fbf](https://github.com/googlecloudplatform/cloud-foundation-toolkit)**: The Cloud Foundation toolkit provides GCP best practices as code.
