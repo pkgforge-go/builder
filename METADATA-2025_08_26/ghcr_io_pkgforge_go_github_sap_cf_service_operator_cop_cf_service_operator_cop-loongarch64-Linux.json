@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cf-service-operator-cop",
+  "pkg_family": "cf-service-operator-cop",
+  "pkg_id": "cf-service-operator-cop#github.com_sap_cf_service_operator_cop",
+  "pkg_name": "cf-service-operator-cop",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sap/cf-service-operator-cop",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Component operator (usable with Kyma) for https://github.com/sap/cf-service-operator",
+  "homepage": [
+    "https://github.com/sap/cf-service-operator-cop"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cf-service-operator-cop"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sap/cf-service-operator-cop/@v/v0.3.15.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.3.15",
+  "version_upstream": "",
+  "bsum": "fc9cd07b4907fba54823f4fafbfb350ef69aca6e04d2c58e6406cfa00e4776df",
+  "build_date": "2025-08-26T04:26:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17227409124",
+  "build_id": "17227409124",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sap/cf-service-operator-cop/cf-service-operator-cop?tag=v0.3.15-loongarch64-Linux&download=cf-service-operator-cop.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sap/cf-service-operator-cop/cf-service-operator-cop?tag=v0.3.15-loongarch64-Linux&download=cf-service-operator-cop",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sap/cf-service-operator-cop/cf-service-operator-cop:v0.3.15-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sap/cf-service-operator-cop/cf-service-operator-cop",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sap/cf-service-operator-cop/cf-service-operator-cop?tag=v0.3.15-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b6c3c4c0304c300bfecabfb6ed85dd58f03a2060c4aa4ab31de4671cc5e83b93",
+  "size": "51 MB",
+  "size_raw": "53363872",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
