@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "check",
+  "pkg_family": "gitlab-release-resource",
+  "pkg_id": "check#github.com_orange_cloudfoundry_gitlab_release_resource",
+  "pkg_name": "check",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/orange-cloudfoundry/gitlab-release-resource",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A concourse resource to fetch gitlab releases",
+  "homepage": [
+    "https://github.com/orange-cloudfoundry/gitlab-release-resource"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check",
+    "in",
+    "out"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/orange-cloudfoundry/gitlab-release-resource/@v/v1.12.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.12.0",
+  "version_upstream": "",
+  "bsum": "2c45af61bbfcd465b8ce98ada0a07daa3753398ac6ea1b5b10e64292d9029af7",
+  "build_date": "2025-08-26T04:24:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17227407277",
+  "build_id": "17227407277",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/orange-cloudfoundry/gitlab-release-resource/check?tag=v1.12.0-loongarch64-Linux&download=check.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/orange-cloudfoundry/gitlab-release-resource/check?tag=v1.12.0-loongarch64-Linux&download=check",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/orange-cloudfoundry/gitlab-release-resource/check:v1.12.0-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/orange-cloudfoundry/gitlab-release-resource/check",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/orange-cloudfoundry/gitlab-release-resource/check?tag=v1.12.0-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fe0c43a88a99887e4a8a360fff1878905a5b03bd44b8ddcb88b1b00c80c7bb2f",
+  "size": "8.5 MB",
+  "size_raw": "8826016",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
