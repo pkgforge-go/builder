@@ -23440,6 +23440,18 @@
     "version": "HEAD-1299f27-250627T074311"
   },
   {
+    "description": "Magnificent Monorepo",
+    "name": "99-a-benthos-plugin",
+    "pkg_id": "99-a-benthos-plugin#github.com_qjcg_arcadia_examples_benthos_99_a_benthos_plugin",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux"
+    ],
+    "updated_at": "2025-08-26",
+    "version": "v0.0.0-20250822213847-c9558d66608c"
+  },
+  {
     "description": "The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google_s proven _Zanzibar_ approach. Supports ACL, RBAC, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.",
     "name": "99-cleanup",
     "pkg_id": "99-cleanup#github.com_ory_keto",
@@ -48669,6 +48681,19 @@
     "version": "v0.0.0-20250628230912-c2f9ad7f3448"
   },
   {
+    "description": "LangChain for Go, the easiest way to write LLM-based programs in Go",
+    "name": "bedrock-provider-example",
+    "pkg_id": "bedrock-provider-example#github.com_tmc_langchaingo_examples_bedrock_provider_example",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-26",
+    "version": "v0.0.0-20250824154536-a3fb67edc888"
+  },
+  {
     "description": "Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below",
     "name": "bedrock-runtime-cmd",
     "pkg_id": "bedrock-runtime-cmd#github.com_awsdocs_aws_doc_sdk_examples_gov2_bedrock_runtime",
@@ -64116,6 +64141,9 @@
     "name": "cf-service-operator-cop",
     "pkg_id": "cf-service-operator-cop#github.com_sap_cf_service_operator_cop",
     "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
       "x86_64-Linux"
     ],
     "updated_at": "2025-08-26",
@@ -76401,6 +76429,19 @@
     ],
     "updated_at": "2025-07-19",
     "version": "v0.0.0-20250716183215-a37eb5359ab9"
+  },
+  {
+    "description": "Protocol Buffers - Google's data interchange format",
+    "name": "client",
+    "pkg_id": "client#github.com_protocolbuffers_protobuf_examples_go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-26",
+    "version": "v0.0.0-20250822202200-d10158f63351"
   },
   {
     "description": "MASQUE: Proxying UDP in HTTP/3, RFC 9298",
@@ -112818,6 +112859,19 @@
     ],
     "updated_at": "2025-08-26",
     "version": "v0.0.0-20250707011003-e5d03f53c107"
+  },
+  {
+    "description": "A dev server for web development",
+    "name": "devserver",
+    "pkg_id": "devserver#github.com_tmichel_devserver",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-26",
+    "version": "v0.0.0-20250713100549-307f488f3317"
   },
   {
     "description": "Check if cncf/landscape projects data is in sync with cncf/devstats and report if it isn't via email",
@@ -150174,6 +150228,19 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.0.0-20250510145536-1a5300513591"
+  },
+  {
+    "description": "Function for making queries to Azure Resource Graph API",
+    "name": "function-azresourcegraph",
+    "pkg_id": "function-azresourcegraph#github.com_upbound_function_azresourcegraph",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-26",
+    "version": "v0.10.0"
   },
   {
     "description": "A composition function that returns what you tell it to",
@@ -219786,6 +219853,19 @@
     "version": "v1.0.0"
   },
   {
+    "description": "Protocol Buffers - Google's data interchange format",
+    "name": "keyex",
+    "pkg_id": "keyex#github.com_protocolbuffers_protobuf_examples_go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-26",
+    "version": "v0.0.0-20250822202200-d10158f63351"
+  },
+  {
     "description": "The hemi network core daemons.",
     "name": "keygen",
     "pkg_id": "keygen#github.com_hemilabs_heminetwork",
@@ -236507,7 +236587,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-08-25",
+    "updated_at": "2025-08-26",
     "version": "v0.0.0-20250715113114-c77eb3567582"
   },
   {
@@ -243358,6 +243438,19 @@
     ],
     "updated_at": "2025-06-25",
     "version": "HEAD-36327cc-250625T065608"
+  },
+  {
+    "description": "A lightweight MCP server that integrates with Vertex AI Search to retrieve configurable snippets and extractive segments for document discovery",
+    "name": "mcp-vertex-search-snippets",
+    "pkg_id": "mcp-vertex-search-snippets#github.com_unitvectory_labs_mcp_vertex_search_snippets",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-26",
+    "version": "v0.0.0-20250825030415-fbaf9811e877"
   },
   {
     "description": "The implementation of Model Context Protocol _MCP_ server for VictoriaMetrics",
@@ -250580,6 +250673,19 @@
     ],
     "updated_at": "2025-06-29",
     "version": "HEAD-123567e-250628T174215"
+  },
+  {
+    "description": "Schedule Moby/Docker containers cleanup after specific delay",
+    "name": "moby-ryuk",
+    "pkg_id": "moby-ryuk#github.com_testcontainers_moby_ryuk",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-26",
+    "version": "v0.0.0-20250825152201-7da86a8204c0"
   },
   {
     "description": "A customizable, multi-protocol BitTorrent Tracker",
@@ -279426,6 +279532,19 @@
     ],
     "updated_at": "2025-08-25",
     "version": "v0.0.0-20250512092410-792e3a3f107e"
+  },
+  {
+    "description": "Quick-n-dirty \"ping\" utility for testing connectivity to PostgreSQL databases",
+    "name": "pgping",
+    "pkg_id": "pgping#github.com_sapslaj_pgping",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-26",
+    "version": "v0.2.1"
   },
   {
     "description": "PostgreSQL zero-downtime migrations made easy",
@@ -365281,6 +365400,19 @@
     "version": "HEAD-71ff877-220814T005107"
   },
   {
+    "description": "Powerpipe: Dashboards for DevOps. Visualize cloud configurations. Assess security posture against a massive library of benchmarks. Build custom dashboards with code",
+    "name": "test_generator",
+    "pkg_id": "test_generator#github.com_turbot_powerpipe",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-26",
+    "version": "v1.3.1"
+  },
+  {
     "description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
     "name": "test_on_demand",
     "pkg_id": "test_on_demand#github.com_bluenviron_mediamtx",
@@ -388318,6 +388450,19 @@
     "version": "HEAD-3cef18f-250620T185436"
   },
   {
+    "description": "Recursively search Hashicorp Vault",
+    "name": "vault-kv-search",
+    "pkg_id": "vault-kv-search#github.com_xbglowx_vault_kv_search",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-08-26",
+    "version": "v0.3.0"
+  },
+  {
     "description": "Provides information about X509 certificate on HashiCorp Vault for Prometheus and InfluxDB",
     "name": "vault-pki-exporter",
     "pkg_id": "vault-pki-exporter#github.com_aarnaud_vault_pki_exporter",
@@ -395625,6 +395770,9 @@
     "name": "web-rofi",
     "pkg_id": "web-rofi#github.com_pumenis_web_rofi",
     "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
       "x86_64-Linux"
     ],
     "updated_at": "2025-08-26",
