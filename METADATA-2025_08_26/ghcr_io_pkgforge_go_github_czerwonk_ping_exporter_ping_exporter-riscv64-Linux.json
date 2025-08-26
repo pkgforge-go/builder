@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "ping_exporter",
+  "pkg_family": "ping_exporter",
+  "pkg_id": "ping_exporter#github.com_czerwonk_ping_exporter",
+  "pkg_name": "ping_exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/czerwonk/ping_exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Prometheus exporter for ICMP echo requests using https://github.com/digineo/go-ping",
+  "homepage": [
+    "https://github.com/czerwonk/ping_exporter"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ping_exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/czerwonk/ping_exporter/@v/v0.0.0-20250825135719-f03a9207ab2c.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250825135719-f03a9207ab2c",
+  "version_upstream": "",
+  "bsum": "8ba01effc64ccd2c8888c55c11bf7bd17118994aa379fdafc7ad7e7524a69562",
+  "build_date": "2025-08-26T04:04:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17227363624",
+  "build_id": "17227363624",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/czerwonk/ping/exporter/ping_exporter?tag=v0.0.0-20250825135719-f03a9207ab2c-riscv64-Linux&download=ping_exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "586",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/czerwonk/ping/exporter/ping_exporter?tag=v0.0.0-20250825135719-f03a9207ab2c-riscv64-Linux&download=ping_exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/czerwonk/ping/exporter/ping_exporter:v0.0.0-20250825135719-f03a9207ab2c-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/czerwonk/ping/exporter/ping_exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/czerwonk/ping/exporter/ping_exporter?tag=v0.0.0-20250825135719-f03a9207ab2c-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dc6f70cb969aca5178e213cbec4c1c656c4e7f0455a9fd50745d894cd1d15f0a",
+  "size": "12 MB",
+  "size_raw": "12320216",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
