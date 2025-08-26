@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "web-rofi",
+  "pkg_family": "web-rofi",
+  "pkg_id": "web-rofi#github.com_pumenis_web_rofi",
+  "pkg_name": "web-rofi",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/pumenis/web-rofi",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cgi web server that reproduces rofi -dmenu chooser in web application",
+  "homepage": [
+    "https://github.com/pumenis/web-rofi"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "web-rofi"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/pumenis/web-rofi/@v/v0.0.0-20250825105820-e514357734e9.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250825105820-e514357734e9",
+  "version_upstream": "",
+  "bsum": "b5dc26019c963156a2e572295c2fc6b8bd3f908bab02a6b4629a3a244f81cdaf",
+  "build_date": "2025-08-26T04:25:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17227409661",
+  "build_id": "17227409661",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pumenis/web-rofi/web-rofi?tag=v0.0.0-20250825105820-e514357734e9-riscv64-Linux&download=web-rofi.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pumenis/web-rofi/web-rofi?tag=v0.0.0-20250825105820-e514357734e9-riscv64-Linux&download=web-rofi",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/pumenis/web-rofi/web-rofi:v0.0.0-20250825105820-e514357734e9-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/pumenis/web-rofi/web-rofi",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/pumenis/web-rofi/web-rofi?tag=v0.0.0-20250825105820-e514357734e9-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c050afcaf33b76841fcfd0c33598438c9fd1a52d1c6627d164f37255130608c9",
+  "size": "5.8 MB",
+  "size_raw": "5995160",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
