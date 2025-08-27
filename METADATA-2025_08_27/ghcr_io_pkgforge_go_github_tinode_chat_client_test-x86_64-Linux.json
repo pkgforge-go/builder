@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "client-test",
+  "pkg_family": "chat",
+  "pkg_id": "client-test#github.com_tinode_chat",
+  "pkg_name": "client-test",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tinode/chat",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",
+  "homepage": [
+    "https://github.com/tinode/chat"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chat-server",
+    "client-test",
+    "data-server",
+    "ops"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/itzevvv/chat/@v/v0.0.0-20250502014943-062ede11a2f5.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.24.3",
+  "version_upstream": "",
+  "bsum": "87a68278117ef81c6b242f58fada8db77b8888283f782df0af3e08fc102b4e98",
+  "build_date": "2025-08-27T03:57:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17256687897",
+  "build_id": "17256687897",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinode/chat/client-test?tag=v0.24.3-x86_64-Linux&download=client-test.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12686",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinode/chat/client-test?tag=v0.24.3-x86_64-Linux&download=client-test",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tinode/chat/client-test:v0.24.3-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tinode/chat/client-test",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinode/chat/client-test?tag=v0.24.3-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e4077f29d58712faf1a7818d4644c66f834973d0dec853262e0e5a83cc86bf04",
+  "size": "5.7 MB",
+  "size_raw": "5946944",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
