@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "chat-server",
+  "pkg_family": "chat",
+  "pkg_id": "chat-server#github.com_tinode_chat",
+  "pkg_name": "chat-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tinode/chat",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",
+  "homepage": [
+    "https://github.com/tinode/chat"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chat-server",
+    "client-test",
+    "data-server",
+    "ops"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/itzevvv/chat/@v/v0.0.0-20250502014943-062ede11a2f5.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.24.3",
+  "version_upstream": "",
+  "bsum": "969058da672b533a60dcac74cbcb7742b9c833fab5733cb8169c6791267d6817",
+  "build_date": "2025-08-27T03:57:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17256687897",
+  "build_id": "17256687897",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinode/chat/chat-server?tag=v0.24.3-loongarch64-Linux&download=chat-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12686",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinode/chat/chat-server?tag=v0.24.3-loongarch64-Linux&download=chat-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tinode/chat/chat-server:v0.24.3-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tinode/chat/chat-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinode/chat/chat-server?tag=v0.24.3-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c98283f7323500850306daa26bd19e1dad8e402a0cbafed7aa8d67b692764eaa",
+  "size": "9.2 MB",
+  "size_raw": "9630880",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
