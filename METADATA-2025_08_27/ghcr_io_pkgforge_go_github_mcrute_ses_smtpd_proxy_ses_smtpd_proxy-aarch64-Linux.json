@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "ses-smtpd-proxy",
+  "pkg_family": "ses-smtpd-proxy",
+  "pkg_id": "ses-smtpd-proxy#github.com_mcrute_ses_smtpd_proxy",
+  "pkg_name": "ses-smtpd-proxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mcrute/ses-smtpd-proxy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Simple SMTP to SES Mail Proxy",
+  "homepage": [
+    "https://github.com/mcrute/ses-smtpd-proxy"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ses-smtpd-proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/mcrute/ses-smtpd-proxy/@v/v1.4.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.4.0",
+  "version_upstream": "",
+  "bsum": "83a26dfcc3e1720a5a11b2a954d72a72c85ef3618b90bae2aeef891432ed058d",
+  "build_date": "2025-08-27T04:06:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17256691950",
+  "build_id": "17256691950",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mcrute/ses-smtpd-proxy/ses-smtpd-proxy?tag=v1.4.0-aarch64-Linux&download=ses-smtpd-proxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mcrute/ses-smtpd-proxy/ses-smtpd-proxy?tag=v1.4.0-aarch64-Linux&download=ses-smtpd-proxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mcrute/ses-smtpd-proxy/ses-smtpd-proxy:v1.4.0-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mcrute/ses-smtpd-proxy/ses-smtpd-proxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mcrute/ses-smtpd-proxy/ses-smtpd-proxy?tag=v1.4.0-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d58a1a9c800213ea2326bf89c0d87fc48f090d8245e13738e66b320b6ea73fc1",
+  "size": "15 MB",
+  "size_raw": "14932704",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
