@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "ops",
+  "pkg_family": "chat",
+  "pkg_id": "ops#github.com_tinode_chat",
+  "pkg_name": "ops",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tinode/chat",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",
+  "homepage": [
+    "https://github.com/tinode/chat"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "chat-server",
+    "client-test",
+    "data-server",
+    "ops"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/itzevvv/chat/@v/v0.0.0-20250502014943-062ede11a2f5.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.24.3",
+  "version_upstream": "",
+  "bsum": "906fc261d6026fe322e68d48d85b415e8f62b603044ddd6374649f3ae530b74f",
+  "build_date": "2025-08-27T03:56:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17256687897",
+  "build_id": "17256687897",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinode/chat/ops?tag=v0.24.3-aarch64-Linux&download=ops.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12686",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinode/chat/ops?tag=v0.24.3-aarch64-Linux&download=ops",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tinode/chat/ops:v0.24.3-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tinode/chat/ops",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinode/chat/ops?tag=v0.24.3-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3b2ccc49ff0ac9296b9832798503e8b8df55d34df9dc1347ea29fb778748d129",
+  "size": "8.7 MB",
+  "size_raw": "9039648",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
