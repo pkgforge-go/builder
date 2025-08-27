@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "registry",
+  "pkg_family": "stereoscope",
+  "pkg_id": "registry#github.com_anchore_stereoscope",
+  "pkg_name": "registry",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/anchore/stereoscope",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library for processing container images and simulating a squash filesystem",
+  "homepage": [
+    "https://github.com/anchore/stereoscope"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "registry",
+    "stereoscope-examples"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/anchore/stereoscope/@v/v0.1.9.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.1.9",
+  "version_upstream": "",
+  "bsum": "69d4e9ac6e22d0cb162177bc19b4cdd63f60f24e411e3c2eb966bf7e2117e312",
+  "build_date": "2025-08-27T03:50:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17256685201",
+  "build_id": "17256685201",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anchore/stereoscope/registry?tag=v0.1.9-aarch64-Linux&download=registry.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "97",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anchore/stereoscope/registry?tag=v0.1.9-aarch64-Linux&download=registry",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/anchore/stereoscope/registry:v0.1.9-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/anchore/stereoscope/registry",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anchore/stereoscope/registry?tag=v0.1.9-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8620d240452d3cb6c6f64d1669516dd1c3fff9d5bf0041e315a60d7e1efe1bef",
+  "size": "21 MB",
+  "size_raw": "21408256",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
