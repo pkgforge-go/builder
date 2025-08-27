@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "sleep",
+  "pkg_family": "kubernetes-image-puller",
+  "pkg_id": "sleep#github.com_che_incubator_kubernetes_image_puller",
+  "pkg_name": "sleep",
+  "pkg_type": "static",
+  "pkg_webpage": "https://www.eclipse.org/che/docs/che-7/administration-guide/caching-images-for-faster-workspace-start/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes Image Puller is used for caching images on a cluster. It creates a DaemonSet downloading and running the relevant container images on each node",
+  "homepage": [
+    "https://www.eclipse.org/che/docs/che-7/administration-guide/caching-images-for-faster-workspace-start/"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sleep"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/che-incubator/kubernetes-image-puller/@v/v0.0.0-20250826071907-cfe927fe87ad.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250826071907-cfe927fe87ad",
+  "version_upstream": "",
+  "bsum": "86bc54dd941a26b667216dd32f0eff6cdebf8139932bbb427fa4539aa1bcac61",
+  "build_date": "2025-08-27T03:44:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17256685186",
+  "build_id": "17256685186",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/che-incubator/kubernetes-image-puller/sleep?tag=v0.0.0-20250826071907-cfe927fe87ad-loongarch64-Linux&download=sleep.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "262",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/che-incubator/kubernetes-image-puller/sleep?tag=v0.0.0-20250826071907-cfe927fe87ad-loongarch64-Linux&download=sleep",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/che-incubator/kubernetes-image-puller/sleep:v0.0.0-20250826071907-cfe927fe87ad-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/che-incubator/kubernetes-image-puller/sleep",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/che-incubator/kubernetes-image-puller/sleep?tag=v0.0.0-20250826071907-cfe927fe87ad-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7fa2b481f58d9f5fedcc7628875af9f3a2de2bfef50ce43b7ab9e6501d2eba82",
+  "size": "1.7 MB",
+  "size_raw": "1734840",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
