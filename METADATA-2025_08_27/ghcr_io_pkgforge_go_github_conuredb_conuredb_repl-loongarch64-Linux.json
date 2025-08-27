@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "repl",
+  "pkg_family": "conuredb",
+  "pkg_id": "repl#github.com_conuredb_conuredb",
+  "pkg_name": "repl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/conuredb/conuredb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A B-Tree based key-value store with copy-on-write pages and a Raft-backed distributed mode for linearizable writes and optional follower reads",
+  "homepage": [
+    "https://github.com/conuredb/conuredb"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "repl"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/conuredb/conuredb/@v/v0.0.0-20250826070053-4ce2700dd8f5.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250826070053-4ce2700dd8f5",
+  "version_upstream": "",
+  "bsum": "ddfb4c3382e61632b0d045cb0d566801a167c01c73203da3686042612fafb418",
+  "build_date": "2025-08-27T03:54:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17256686423",
+  "build_id": "17256686423",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/conuredb/conuredb/repl?tag=v0.0.0-20250826070053-4ce2700dd8f5-loongarch64-Linux&download=repl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/conuredb/conuredb/repl?tag=v0.0.0-20250826070053-4ce2700dd8f5-loongarch64-Linux&download=repl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/conuredb/conuredb/repl:v0.0.0-20250826070053-4ce2700dd8f5-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/conuredb/conuredb/repl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/conuredb/conuredb/repl?tag=v0.0.0-20250826070053-4ce2700dd8f5-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2fd280750244182211263516c29cf853a1c5e11817b5f2f070bf4643eb1959c1",
+  "size": "6.3 MB",
+  "size_raw": "6566400",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
