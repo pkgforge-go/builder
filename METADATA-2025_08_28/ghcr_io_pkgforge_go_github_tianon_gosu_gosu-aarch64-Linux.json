@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "gosu",
+  "pkg_family": "gosu",
+  "pkg_id": "gosu#github.com_tianon_gosu",
+  "pkg_name": "gosu",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tianon/gosu",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Simple Go-based setuid+setgid+setgroups+exec",
+  "homepage": [
+    "https://github.com/tianon/gosu"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gosu"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/tianon/gosu/@v/v0.0.0-20250827042046-93d00d05cb3e.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250827042046-93d00d05cb3e",
+  "version_upstream": "",
+  "bsum": "7e283bc3bc1091f278785d8faffaf9ee2dd7b08ddbec9244ca30e94b0cad7f60",
+  "build_date": "2025-08-28T04:22:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17285185855",
+  "build_id": "17285185855",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tianon/gosu/gosu?tag=v0.0.0-20250827042046-93d00d05cb3e-aarch64-Linux&download=gosu.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "4853",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tianon/gosu/gosu?tag=v0.0.0-20250827042046-93d00d05cb3e-aarch64-Linux&download=gosu",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tianon/gosu/gosu:v0.0.0-20250827042046-93d00d05cb3e-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tianon/gosu/gosu",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tianon/gosu/gosu?tag=v0.0.0-20250827042046-93d00d05cb3e-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8448f71e523424b61fca433490e8395d89d96d5f066efa3139d50ce29de46eef",
+  "size": "1.8 MB",
+  "size_raw": "1882552",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
