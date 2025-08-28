@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "docker-mcp",
+  "pkg_family": "mcp-gateway",
+  "pkg_id": "docker-mcp#github.com_docker_mcp_gateway",
+  "pkg_name": "docker-mcp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/docker/mcp-gateway",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Docker mcp CLI plugin / MCP Gateway",
+  "homepage": [
+    "https://github.com/docker/mcp-gateway"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docker-mcp",
+    "elicit",
+    "generator",
+    "jcat"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/docker/mcp-gateway/@v/v0.16.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.16.0",
+  "version_upstream": "",
+  "bsum": "1dab095b9e50dca9093e3dc9b7828f606b1457e62a6144c5af563c04f2818dfb",
+  "build_date": "2025-08-28T15:38:50Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17300650148",
+  "build_id": "17300650148",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docker/mcp-gateway/docker-mcp?tag=v0.16.0-aarch64-Linux&download=docker-mcp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "278",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docker/mcp-gateway/docker-mcp?tag=v0.16.0-aarch64-Linux&download=docker-mcp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/docker/mcp-gateway/docker-mcp:v0.16.0-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/docker/mcp-gateway/docker-mcp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docker/mcp-gateway/docker-mcp?tag=v0.16.0-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cae0daebb086cb4ad61847d647bff252597ba1c5b2e4069a91b99fa71789ded2",
+  "size": "33 MB",
+  "size_raw": "33857920",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
