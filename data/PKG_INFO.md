@@ -425,6 +425,7 @@
 - 🐹 **[basic-chat-with-rendezvous](https://github.com/libp2p/go-libp2p)**: Libp2p implementation in Go.
 - 🐹 **[cxx](https://cxx.rs)**: Safe interop between Rust and C.
 - 🐹 **[domain-list-community](https://www.v2fly.org)**: Community managed domain list.
+- 🐹 **[v2](https://cloudquery.io)**: The open source ELT framework powered by Apache Arrow.
 - 🐹 **[ai-security-guard](https://higress.ai)**: AI Gateway | AI Native API Gateway.
 - 🐹 **[athena](https://cloudquery.io)**: The open source ELT framework powered by Apache Arrow.
 - 🐹 **[basic-auth](https://higress.ai)**: AI Gateway | AI Native API Gateway.
@@ -488,6 +489,7 @@
 - 🐹 **[billaged](https://go.unkey.com)**: The Developer Platform for Modern APIs.
 - 🐹 **[v2](https://github.com/gdamore/tcell)**: Tcell is an alternate terminal package, similar in some ways to termbox, but better in others.
 - 🐹 **[go](https://github.com/marketplace/actions/build-and-push-docker-images)**: GitHub Action to build and push Docker images with Buildx.
+- 🐹 **[gosu](https://github.com/tianon/gosu)**: Simple Go-based setuid+setgid+setgroups+exec.
 - 🐹 **[grpc-ping-go](https://knative.dev/docs/)**: User documentation for Knative components.
 - 🐹 **[helloworld-go](https://knative.dev/docs/)**: User documentation for Knative components.
 - 🐹 **[servingcontainer](https://knative.dev/docs/)**: User documentation for Knative components.
@@ -880,6 +882,7 @@
 - 🐹 **[cleaner](https://github.com/orlangure/gnomock)**: Test your code without writing mocks with ephemeral Docker containers 📦 Setup popular services with just a couple lines of code ⏱️ No bash, no yaml, only code.
 - 🐹 **[client](https://github.com/owncloud/client)**: Desktop Syncing Client for ownCloud.
 - 🐹 **[basic_gazelle](https://github.com/bazel-contrib/rules_go)**: Go rules for Bazel.
+- 🐹 **[ceph-csi](https://github.com/ceph/ceph-csi)**: CSI driver for Ceph.
 - 🐹 **[fetch_repo](https://github.com/bazelbuild/rules_go)**: Go rules for Bazel.
 - 🐹 **[releaser](https://github.com/bazelbuild/rules_go)**: Go rules for Bazel.
 - 🐹 **[rules_go](https://github.com/bazel-contrib/rules_go)**: Go rules for Bazel.
@@ -965,6 +968,7 @@
 - 🐹 **[elasticsql](https://github.com/cch123/elasticsql)**: convert sql to elasticsearch DSL in golang_go_.
 - 🐹 **[regcopy](https://deckhouse.io)**: Kubernetes platform from Flant.
 - 🐹 **[tools](https://deckhouse.io)**: Kubernetes platform from Flant.
+- 🐹 **[v3](https://pkg.go.dev/github.com/go-testfixtures/testfixtures/v3?tab=doc)**: Ruby on Rails like test fixtures for Go.
 - 🐹 **[check-workflow-run](https://github.com/stackrox/stackrox)**: The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.
 - 🐹 **[kuttl](https://github.com/stackrox/stackrox)**: The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.
 - 🐹 **[spqr](https://pg-sharding.tech)**: Stateless Postgres Query Router.
@@ -1188,6 +1192,7 @@
 - 🐹 **[flakybot](https://github.com/googleapis/repo-automation-bots)**: A collection of bots, based on probot, for performing common maintenance tasks across the open-source repos managed by Google on GitHub.
 - 🐹 **[serverless-scheduler-proxy](https://github.com/googleapis/repo-automation-bots)**: A collection of bots, based on probot, for performing common maintenance tasks across the open-source repos managed by Google on GitHub.
 - 🐹 **[test-read-conformance](https://mcap.dev)**: MCAP is a modular, performant, and serialization-agnostic container file format, useful for pub/sub and robotics applications.
+- 🐹 **[txt2img](https://github.com/k1low/deck)**: Deck is a tool for creating deck using Markdown and Google Slides.
 - 🐹 **[maintserve](https://github.com/golang/build)**: Mirror] Go's continuous build and release infrastructure (no stability promises.
 - 🐹 **[build](https://github.com/golang/build)**: Mirror] Go's continuous build and release infrastructure (no stability promises.
 - 🐹 **[cni](https://developer.hashicorp.com/consul/docs/k8s)**: First-class support for Consul Service Mesh on Kubernetes.
@@ -1242,6 +1247,7 @@
 - 🐹 **[loop](https://github.com/dapr/components-contrib)**: Community driven, reusable components for distributed apps.
 - 🐹 **[example](https://github.com/dapr/components-contrib/bindings/wasm/testdata/example)**: Community driven, reusable components for distributed apps.
 - 🐹 **[goben](https://github.com/udhos/goben)**: Goben is a golang tool to measure TCP/UDP transport layer throughput between hosts.
+- 🐹 **[hexreplace](https://github.com/suifei/fridare)**: 强大的 Frida 重打包工具，用于 iOS 和 Android。轻松修改 Frida 特征，增强隐蔽性，绕过检测。简化逆向工程和安全测试。Powerful Frida repackaging tool for iOS and Android.
 - 🐹 **[pg_back](https://github.com/orgrim/pg_back)**: Simple backup tool for PostgreSQL.
 - 🐹 **[example01](https://github.com/golang-queue/queue)**: Queue is a Golang library for spawning and managing a Goroutine pool.
 - 🐹 **[example02](https://github.com/golang-queue/queue)**: Queue is a Golang library for spawning and managing a Goroutine pool.
