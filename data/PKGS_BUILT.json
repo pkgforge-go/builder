@@ -148261,7 +148261,10 @@
     "name": "forwardoptimal",
     "pkg_id": "forwardoptimal#github.com_yunbug_forwardoptimal",
     "targets": [
-      "riscv64-Linux"
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-08-28",
     "version": "v1.4.0"
@@ -406146,7 +406149,8 @@
     "targets": [
       "aarch64-Linux",
       "loongarch64-Linux",
-      "riscv64-Linux"
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-08-28",
     "version": "v1.3.4"
