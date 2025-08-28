@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "generator",
+  "pkg_family": "mcp-gateway",
+  "pkg_id": "generator#github.com_docker_mcp_gateway",
+  "pkg_name": "generator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/docker/mcp-gateway",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Docker mcp CLI plugin / MCP Gateway",
+  "homepage": [
+    "https://github.com/docker/mcp-gateway"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docker-mcp",
+    "elicit",
+    "generator",
+    "jcat"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/docker/mcp-gateway/@v/v0.16.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.16.0",
+  "version_upstream": "",
+  "bsum": "0bf631961de992324cdf26c3d34a9b6a4fe36a58872dbe1898228f7896e4d787",
+  "build_date": "2025-08-28T15:38:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17300650148",
+  "build_id": "17300650148",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docker/mcp-gateway/generator?tag=v0.16.0-loongarch64-Linux&download=generator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "278",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docker/mcp-gateway/generator?tag=v0.16.0-loongarch64-Linux&download=generator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/docker/mcp-gateway/generator:v0.16.0-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/docker/mcp-gateway/generator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docker/mcp-gateway/generator?tag=v0.16.0-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7c4e33a42e6fe93bd64b366cb44185a3617c1d7923f714afcc439dbd5a8bbeb0",
+  "size": "34 MB",
+  "size_raw": "34882064",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
