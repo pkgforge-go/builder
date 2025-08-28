@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "cuevalidator",
+  "pkg_family": "macaron",
+  "pkg_id": "cuevalidator#github.com_oracle_macaron",
+  "pkg_name": "cuevalidator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://oracle.github.io/macaron/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Macaron is an extensible supply-chain security analysis framework from Oracle Labs that supports a wide range of build systems and CI/CD services. It can be used to prevent supply chain attacks, detect malicious Python packages, or check conformance to frameworks, such as SLSA. Documentation",
+  "homepage": [
+    "https://oracle.github.io/macaron/"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bashparser",
+    "cuevalidator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/oracle/macaron/@v/v0.17.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.17.0",
+  "version_upstream": "",
+  "bsum": "481bd1facdbfd72945355383c7cb124e00429f41390fd1744f5929f61dd9ce0c",
+  "build_date": "2025-08-28T04:10:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17285161437",
+  "build_id": "17285161437",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/oracle/macaron/cuevalidator?tag=v0.17.0-loongarch64-Linux&download=cuevalidator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "167",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/oracle/macaron/cuevalidator?tag=v0.17.0-loongarch64-Linux&download=cuevalidator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/oracle/macaron/cuevalidator:v0.17.0-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/oracle/macaron/cuevalidator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/oracle/macaron/cuevalidator?tag=v0.17.0-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ff50fd46a3a7077a35dc7bdf36021f47ef59a404d03cef0d696724701ca9ce9e",
+  "size": "14 MB",
+  "size_raw": "14075648",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
