@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "jcat",
+  "pkg_family": "mcp-gateway",
+  "pkg_id": "jcat#github.com_docker_mcp_gateway",
+  "pkg_name": "jcat",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/docker/mcp-gateway",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Docker mcp CLI plugin / MCP Gateway",
+  "homepage": [
+    "https://github.com/docker/mcp-gateway"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "docker-mcp",
+    "elicit",
+    "generator",
+    "jcat"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/docker/mcp-gateway/@v/v0.16.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.16.0",
+  "version_upstream": "",
+  "bsum": "a03e5a2c174b19403e33979cf4a3dedd7d4f6201a4ad81a2b89331d8a69775a5",
+  "build_date": "2025-08-28T15:38:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17300650148",
+  "build_id": "17300650148",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docker/mcp-gateway/jcat?tag=v0.16.0-riscv64-Linux&download=jcat.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "278",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docker/mcp-gateway/jcat?tag=v0.16.0-riscv64-Linux&download=jcat",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/docker/mcp-gateway/jcat:v0.16.0-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/docker/mcp-gateway/jcat",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/docker/mcp-gateway/jcat?tag=v0.16.0-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "932cd2d432a8bf8b37e673382b9e3e3094df730418f57e646c1f4895556fba25",
+  "size": "2.0 MB",
+  "size_raw": "1995592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
