@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "openaiserver",
+  "pkg_family": "gomcptest",
+  "pkg_id": "openaiserver#github.com_owulveryck_gomcptest",
+  "pkg_name": "openaiserver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/owulveryck/gomcptest",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A proof-of-concept demonstrating a custom-built host implementing an OpenAI-compatible API with Google Vertex AI, function calling, and interaction with MCP servers",
+  "homepage": [
+    "https://github.com/owulveryck/gomcptest"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "duckdbserver",
+    "gomcptest",
+    "imagen_edit",
+    "openaiserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/owulveryck/gomcptest/@v/v0.0.0-20250828134325-81066cf4c9de.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250828134325-81066cf4c9de",
+  "version_upstream": "",
+  "bsum": "17fbf7b5d9ee0c255249ef13bbed1ccd8884a97e6bb62d680288e6c0169fe5b3",
+  "build_date": "2025-08-29T04:13:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17314067350",
+  "build_id": "17314067350",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/owulveryck/gomcptest/openaiserver?tag=v0.0.0-20250828134325-81066cf4c9de-aarch64-Linux&download=openaiserver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "35",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/owulveryck/gomcptest/openaiserver?tag=v0.0.0-20250828134325-81066cf4c9de-aarch64-Linux&download=openaiserver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/owulveryck/gomcptest/openaiserver:v0.0.0-20250828134325-81066cf4c9de-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/owulveryck/gomcptest/openaiserver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/owulveryck/gomcptest/openaiserver?tag=v0.0.0-20250828134325-81066cf4c9de-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "410e9d060526b81499ad824b379ee28ea3f703d312d40bbeef3ec18aea051470",
+  "size": "16 MB",
+  "size_raw": "16733536",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
