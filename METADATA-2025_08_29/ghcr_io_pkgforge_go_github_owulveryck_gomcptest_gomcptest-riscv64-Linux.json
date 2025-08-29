@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gomcptest",
+  "pkg_family": "gomcptest",
+  "pkg_id": "gomcptest#github.com_owulveryck_gomcptest",
+  "pkg_name": "gomcptest",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/owulveryck/gomcptest",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A proof-of-concept demonstrating a custom-built host implementing an OpenAI-compatible API with Google Vertex AI, function calling, and interaction with MCP servers",
+  "homepage": [
+    "https://github.com/owulveryck/gomcptest"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "duckdbserver",
+    "gomcptest",
+    "imagen_edit",
+    "openaiserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/owulveryck/gomcptest/@v/v0.0.0-20250828134325-81066cf4c9de.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250828134325-81066cf4c9de",
+  "version_upstream": "",
+  "bsum": "ac2c7b7a11d3aaccf9ed5c31a4fa3879bfcdbadf562321d51b9ef06cb7ec5d32",
+  "build_date": "2025-08-29T04:15:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17314067350",
+  "build_id": "17314067350",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/owulveryck/gomcptest/gomcptest?tag=v0.0.0-20250828134325-81066cf4c9de-riscv64-Linux&download=gomcptest.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "35",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/owulveryck/gomcptest/gomcptest?tag=v0.0.0-20250828134325-81066cf4c9de-riscv64-Linux&download=gomcptest",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/owulveryck/gomcptest/gomcptest:v0.0.0-20250828134325-81066cf4c9de-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/owulveryck/gomcptest/gomcptest",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/owulveryck/gomcptest/gomcptest?tag=v0.0.0-20250828134325-81066cf4c9de-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e9707fa41c7f5b9b850be6be4691bb064916beae276cbc06173659db6802a9cc",
+  "size": "5.6 MB",
+  "size_raw": "5842968",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
