@@ -80,6 +80,7 @@
 - 🐹 **[controller-gen](http://rancher.com)**: Complete container management platform.
 - 🐹 **[mockgen](http://rancher.com)**: Complete container management platform.
 - 🐹 **[client](http://rancher.com)**: Complete container management platform.
+- 🐹 **[dbg](https://github.com/derekparker/dbg)**: Delve is a debugger for the Go programming language.
 - 🐹 **[dbg](https://github.com/dparker1990/dbg)**: Delve is a debugger for the Go programming language.
 - 🐹 **[delve](https://github.com/go-delve/delve)**: Delve is a debugger for the Go programming language.
 - 🐹 **[developer-docs](https://www.pulumi.com)**: Pulumi - Infrastructure as Code in any programming language.
@@ -511,6 +512,7 @@
 - 🐹 **[projects-refresh-service](https://digger.dev)**: Digger is an open source IaC orchestration tool.
 - 🐹 **[backend](https://github.com/coze-dev/coze-loop)**: Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.
 - 🐹 **[background](https://github.com/googlecloudplatform/golang-samples)**: Sample apps and code written for Google Cloud in the Go programming language.
+- 🐹 **[generic](https://github.com/googlecloudplatform/golang-samples)**: Sample apps and code written for Google Cloud in the Go programming language.
 - 🐹 **[grpc-ping](https://github.com/googlecloudplatform/golang-samples)**: Sample apps and code written for Google Cloud in the Go programming language.
 - 🐹 **[helloworld](https://github.com/googlecloudplatform/golang-samples)**: Sample apps and code written for Google Cloud in the Go programming language.
 - 🐹 **[image-processing](https://github.com/googlecloudplatform/golang-samples)**: Sample apps and code written for Google Cloud in the Go programming language.
@@ -673,6 +675,7 @@
 - 🐹 **[modformatter](https://docs.datadoghq.com/)**: Main repository for Datadog Agent.
 - 🐹 **[go](https://github.com/google/differential-privacy)**: Google's differential privacy libraries.
 - 🐹 **[go-advice](https://github.com/cristaloleg/go-advice)**: List of advice and tricks for Go  ʕ◔ϖ◔ʔ.
+- 🐹 **[ghreleases2appcast](https://syncthing.net)**: Official frugal and native macOS Syncthing application bundle.
 - 🐹 **[match](https://docs.datadoghq.com/)**: Main repository for Datadog Agent.
 - 🐹 **[modparser](https://docs.datadoghq.com/)**: Main repository for Datadog Agent.
 - 🐹 **[retry_file_dump](https://docs.datadoghq.com/)**: Main repository for Datadog Agent.
@@ -692,6 +695,7 @@
 - 🐹 **[chaincode-go](https://lf-hyperledger.atlassian.net/wiki/spaces/fabric)**: Samples for Hyperledger Fabric.
 - 🐹 **[chaincode-go](https://lf-hyperledger.atlassian.net/wiki/spaces/fabric)**: Samples for Hyperledger Fabric.
 - 🐹 **[chaincode-go](https://lf-hyperledger.atlassian.net/wiki/spaces/fabric)**: Samples for Hyperledger Fabric.
+- 🐹 **[gcs2bq](https://github.com/googlecloudplatform/professional-services)**: Common solutions and tools developed by Google Cloud's Professional Services team.
 - 🐹 **[instance_mapper](https://github.com/googlecloudplatform/professional-services)**: Common solutions and tools developed by Google Cloud's Professional Services team.
 - 🐹 **[lambda-compat](https://github.com/googlecloudplatform/professional-services)**: Common solutions and tools developed by Google Cloud's Professional Services team.
 - 🐹 **[spiffe-gcp-proxy](https://github.com/googlecloudplatform/professional-services)**: Common solutions and tools developed by Google Cloud's Professional Services team.
@@ -964,6 +968,7 @@
 - 🐹 **[v2](https://go-doudou.github.io)**: Go-doudou（doudou pronounce /dəudəu/）is OpenAPI 3.
 - 🐹 **[kubectl-cypher](https://cyphernet.es)**: A Kubernetes Query Language.
 - 🐹 **[operator](https://cyphernet.es)**: A Kubernetes Query Language.
+- 🐹 **[public-bugbounty-programs](https://chaos.projectdiscovery.io)**: Community curated list of public bug bounty and responsible disclosure programs.
 - 🐹 **[kolla](https://opendev.org/openstack/kolla)**: Kolla provides production-ready containers and deployment tools for operating OpenStack clouds.
 - 🐹 **[elasticsql](https://github.com/cch123/elasticsql)**: convert sql to elasticsearch DSL in golang_go_.
 - 🐹 **[regcopy](https://deckhouse.io)**: Kubernetes platform from Flant.
@@ -1152,7 +1157,9 @@
 - 🐹 **[wildcard-dns-http-server](https://github.com/cunnie/sslip.io)**: Golang-based DNS server which maps DNS records with embedded IP addresses to those addresses.
 - 🐹 **[etcd](https://microshift.io)**: A small form factor OpenShift/Kubernetes optimized for edge computing.
 - 🐹 **[prometheus](https://microshift.io)**: A small form factor OpenShift/Kubernetes optimized for edge computing.
+- 🐹 **[voapi](https://demo.voapi.top)**: 全新的高颜值/高性能的AI模型接口管理与分发系统，仅供个人学习使用，请勿用于任何商业用途。（全新独立架构版本VoAPI v1.
 - 🐹 **[golang](https://triton.one)**: Solana geyser grpc service.
+- 🐹 **[voapi](https://demo.voapi.top)**: 全新的高颜值/高性能的AI模型接口管理与分发系统，仅供个人学习使用，请勿用于任何商业用途。（全新独立架构版本VoAPI v1.
 - 🐹 **[shortlink](https://shortlink.best)**: Shortlink service (Microservice example) ⭐️ Star the repo if you like it.
 - 🐹 **[value-object](https://shortlink.best)**: Shortlink service (Microservice example) ⭐️ Star the repo if you like it.
 - 🐹 **[kafka-to-elasticsearch](https://shortlink.best)**: Shortlink service (Microservice example) ⭐️ Star the repo if you like it.
