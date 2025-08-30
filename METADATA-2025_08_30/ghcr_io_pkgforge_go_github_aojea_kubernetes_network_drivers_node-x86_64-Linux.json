@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "node",
+  "pkg_family": "kubernetes-network-drivers",
+  "pkg_id": "node#github.com_aojea_kubernetes_network_drivers",
+  "pkg_name": "node",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aojea/kubernetes-network-drivers",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Some reference and example Kubernetes networking drivers, maintained by the SIG Network community",
+  "homepage": [
+    "https://github.com/aojea/kubernetes-network-drivers"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hostdevice",
+    "node"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/aojea/kubernetes-network-drivers/@v/v0.0.0-20250829220729-d57bb9237daa.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250829220729-d57bb9237daa",
+  "version_upstream": "",
+  "bsum": "ece5d328293a3e1070bdd7787c15b211a74c2465fc7f8dc41ae43428b6718247",
+  "build_date": "2025-08-30T03:45:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17338912172",
+  "build_id": "17338912172",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aojea/kubernetes-network-drivers/node?tag=v0.0.0-20250829220729-d57bb9237daa-x86_64-Linux&download=node.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aojea/kubernetes-network-drivers/node?tag=v0.0.0-20250829220729-d57bb9237daa-x86_64-Linux&download=node",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aojea/kubernetes-network-drivers/node:v0.0.0-20250829220729-d57bb9237daa-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aojea/kubernetes-network-drivers/node",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aojea/kubernetes-network-drivers/node?tag=v0.0.0-20250829220729-d57bb9237daa-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cc7257fe13bcb335faec557332a5d610a9ab5dd108f42898261d3ba133e8a590",
+  "size": "55 MB",
+  "size_raw": "57340416",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
