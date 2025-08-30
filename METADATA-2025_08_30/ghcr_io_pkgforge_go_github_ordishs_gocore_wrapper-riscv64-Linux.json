@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "wrapper",
+  "pkg_family": "gocore",
+  "pkg_id": "wrapper#github.com_ordishs_gocore",
+  "pkg_name": "wrapper",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ordishs/gocore",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Core library for Go micro services",
+  "homepage": [
+    "https://github.com/ordishs/gocore"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "config",
+    "gcli",
+    "gocore-cli",
+    "gocore-examples",
+    "gocore-format",
+    "logger",
+    "server",
+    "wrapper"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/ordishs/gocore/@v/v1.0.80.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.80",
+  "version_upstream": "",
+  "bsum": "3952731a582c3cb2011a99f6e7a6d3bbd6db691dc50246f0f5227edf786f1017",
+  "build_date": "2025-08-30T04:17:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17338958886",
+  "build_id": "17338958886",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ordishs/gocore/wrapper?tag=v1.0.80-riscv64-Linux&download=wrapper.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ordishs/gocore/wrapper?tag=v1.0.80-riscv64-Linux&download=wrapper",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ordishs/gocore/wrapper:v1.0.80-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ordishs/gocore/wrapper",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ordishs/gocore/wrapper?tag=v1.0.80-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f2be1d7124607cabf0d891cd3b2eea66ccdb313d2a3fb8a2e15f2e7baddd7131",
+  "size": "6.4 MB",
+  "size_raw": "6709080",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
