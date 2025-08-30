@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "licensepack",
+  "pkg_family": "licensepack",
+  "pkg_id": "licensepack#github.com_paulhammond_licensepack",
+  "pkg_name": "licensepack",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/paulhammond/licensepack",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A tool to embed license information from dependencies into your Go binaries",
+  "homepage": [
+    "https://github.com/paulhammond/licensepack"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "custom",
+    "hello",
+    "licensepack"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/paulhammond/licensepack/@v/v0.0.0-20250829002203-b2435049137e.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250829002203-b2435049137e",
+  "version_upstream": "",
+  "bsum": "1abf49526f4e6de34a5bfacd88ea58562bbe778eea4ce6b508b76f1ab3a0ad40",
+  "build_date": "2025-08-30T04:21:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17338961235",
+  "build_id": "17338961235",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paulhammond/licensepack/licensepack?tag=v0.0.0-20250829002203-b2435049137e-loongarch64-Linux&download=licensepack.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paulhammond/licensepack/licensepack?tag=v0.0.0-20250829002203-b2435049137e-loongarch64-Linux&download=licensepack",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/paulhammond/licensepack/licensepack:v0.0.0-20250829002203-b2435049137e-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/paulhammond/licensepack/licensepack",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/paulhammond/licensepack/licensepack?tag=v0.0.0-20250829002203-b2435049137e-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fd79cf56f98be280b61272c9ba69c0b4f68ae21a28cf35f8a5bb755f55cbe8d2",
+  "size": "6.2 MB",
+  "size_raw": "6408384",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
