@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "publisherapi",
+  "pkg_family": "lap",
+  "pkg_id": "publisherapi#github.com_stonebraker_lap",
+  "pkg_name": "publisherapi",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/stonebraker/lap",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Linked Attestations Protocol (LAP) - Portable, time-boxed proof of content origin and publisher control—verifiable live at fetch and later at rest—without gatekeepers and with clean dissociation when needed",
+  "homepage": [
+    "https://github.com/stonebraker/lap"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "lapctl",
+    "publisherapi",
+    "verifier"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/stonebraker/lap/@v/v0.0.0-20250824130136-97f3efa7823f.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250824130136-97f3efa7823f",
+  "version_upstream": "",
+  "bsum": "12c4cd006b2d1418af94809a5cde506b17a43160e72ea2a762ce99fcd739f3a8",
+  "build_date": "2025-08-30T04:23:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17338974619",
+  "build_id": "17338974619",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stonebraker/lap/publisherapi?tag=v0.0.0-20250824130136-97f3efa7823f-aarch64-Linux&download=publisherapi.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stonebraker/lap/publisherapi?tag=v0.0.0-20250824130136-97f3efa7823f-aarch64-Linux&download=publisherapi",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/stonebraker/lap/publisherapi:v0.0.0-20250824130136-97f3efa7823f-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/stonebraker/lap/publisherapi",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stonebraker/lap/publisherapi?tag=v0.0.0-20250824130136-97f3efa7823f-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ae03a794cd565147497cbfd93e4acd56bce2cd955b98b1c406615054c250b674",
+  "size": "5.9 MB",
+  "size_raw": "6176032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
