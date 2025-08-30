@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "gocore",
+  "pkg_id": "server#github.com_ordishs_gocore",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ordishs/gocore",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Core library for Go micro services",
+  "homepage": [
+    "https://github.com/ordishs/gocore"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "config",
+    "gcli",
+    "gocore-cli",
+    "gocore-examples",
+    "gocore-format",
+    "logger",
+    "server",
+    "wrapper"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/ordishs/gocore/@v/v1.0.80.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.80",
+  "version_upstream": "",
+  "bsum": "68c0bc2b9b3943b881f0d6fba8e564bbd3c049e5d3eab273b7cde921b65889de",
+  "build_date": "2025-08-30T04:17:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17338958886",
+  "build_id": "17338958886",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ordishs/gocore/server?tag=v1.0.80-x86_64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ordishs/gocore/server?tag=v1.0.80-x86_64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ordishs/gocore/server:v1.0.80-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ordishs/gocore/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ordishs/gocore/server?tag=v1.0.80-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "88ca2bb753349505f711649f664bbba0b4dfcda574261f3cea2f5bff6aa0a5a0",
+  "size": "7.5 MB",
+  "size_raw": "7781696",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
