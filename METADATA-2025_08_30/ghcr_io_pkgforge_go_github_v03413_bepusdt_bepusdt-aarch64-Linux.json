@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "bepusdt",
+  "pkg_family": "bepusdt",
+  "pkg_id": "bepusdt#github.com_v03413_bepusdt",
+  "pkg_name": "bepusdt",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/v03413/bepusdt",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "一款更好用的个人 USDT/USDC 收款网关，兼容所有 Epusdt 插件，可无缝切换，支持交易所动态汇率、支持Docker部署；支持独角发卡 易支付 异次元 萌次元发卡",
+  "homepage": [
+    "https://github.com/v03413/bepusdt"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bepusdt"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/v03413/bepusdt/@v/v1.22.6.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.22.6",
+  "version_upstream": "",
+  "bsum": "786e03369676eb7b6a0e11b55a0b860b6cff7d364b75dccaa98c8a97f0e73441",
+  "build_date": "2025-08-30T13:19:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17343982196",
+  "build_id": "17343982196",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/v03413/bepusdt/bepusdt?tag=v1.22.6-aarch64-Linux&download=bepusdt.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "834",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/v03413/bepusdt/bepusdt?tag=v1.22.6-aarch64-Linux&download=bepusdt",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/v03413/bepusdt/bepusdt:v1.22.6-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/v03413/bepusdt/bepusdt",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/v03413/bepusdt/bepusdt?tag=v1.22.6-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e50faaa168405fedc7d305fd4cac25dfe29c75d27d570acd4391c5c2f7667ff4",
+  "size": "25 MB",
+  "size_raw": "25185888",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-9eb3b00-250622T002659-aarch64-Linux",
+    "HEAD-525f0f4-250623T210018-aarch64-Linux",
+    "HEAD-0dc523c-250624T213616-aarch64-Linux",
+    "v1.21.2-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
