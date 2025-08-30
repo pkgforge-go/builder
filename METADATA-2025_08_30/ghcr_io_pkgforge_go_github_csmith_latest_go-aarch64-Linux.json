@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "go",
+  "pkg_family": "latest",
+  "pkg_id": "go#github.com_csmith_latest",
+  "pkg_name": "go",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/csmith/latest",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library for finding the latest versions of things",
+  "homepage": [
+    "https://github.com/csmith/latest"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alpine",
+    "alpinepackage",
+    "alpinepackagelist",
+    "container",
+    "containerdigest",
+    "git",
+    "go",
+    "postgres"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/csmith/latest/@v/v1.3.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.3.1",
+  "version_upstream": "",
+  "bsum": "2f1546d06bcd9d3b1b016356ae8350d33fdeff4542c8338bcdcadc7c4ce6a2dd",
+  "build_date": "2025-08-30T06:45:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17340574122",
+  "build_id": "17340574122",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/csmith/latest/go?tag=v1.3.1-aarch64-Linux&download=go.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/csmith/latest/go?tag=v1.3.1-aarch64-Linux&download=go",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/csmith/latest/go:v1.3.1-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/csmith/latest/go",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/csmith/latest/go?tag=v1.3.1-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bc9b83a863e12272cb103d009a740e2115c429c4e493e28f433c831d6ef7d74b",
+  "size": "6.4 MB",
+  "size_raw": "6638112",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.2.0-aarch64-Linux",
+    "v1.3.0-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
