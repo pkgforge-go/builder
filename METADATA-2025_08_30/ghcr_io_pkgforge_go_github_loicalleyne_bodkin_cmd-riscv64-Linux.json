@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cmd",
+  "pkg_family": "bodkin",
+  "pkg_id": "cmd#github.com_loicalleyne_bodkin",
+  "pkg_name": "cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/loicalleyne/bodkin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library for decoding generic map values and native Go structures into Arrow",
+  "homepage": [
+    "https://github.com/loicalleyne/bodkin"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bodkin-cmd",
+    "cleaner",
+    "cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/loicalleyne/bodkin/@v/v0.3.13.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.3.13",
+  "version_upstream": "",
+  "bsum": "d109b4ac1bd25eb07e5dbf1ec79f7af1b971a95c628af6208a0c814f74e16d97",
+  "build_date": "2025-08-30T18:49:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17347280060",
+  "build_id": "17347280060",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/loicalleyne/bodkin/cmd?tag=v0.3.13-riscv64-Linux&download=cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "17",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/loicalleyne/bodkin/cmd?tag=v0.3.13-riscv64-Linux&download=cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/loicalleyne/bodkin/cmd:v0.3.13-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/loicalleyne/bodkin/cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/loicalleyne/bodkin/cmd?tag=v0.3.13-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "699e66e241217011074f00913686cbbe6e4503824aae696794d617d92c8d423d",
+  "size": "32 MB",
+  "size_raw": "33027384",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-9c53c18-250626T152016-riscv64-Linux",
+    "v0.3.12-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
