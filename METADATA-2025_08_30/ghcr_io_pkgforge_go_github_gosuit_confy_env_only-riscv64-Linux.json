@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "env-only",
+  "pkg_family": "confy",
+  "pkg_id": "env-only#github.com_gosuit_confy",
+  "pkg_name": "env-only",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gosuit/confy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Laconic configuration reader",
+  "homepage": [
+    "https://github.com/gosuit/confy"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "base-paths-management",
+    "dir-paths-management",
+    "directory",
+    "env-names-expand",
+    "env-only",
+    "env-override",
+    "multiple-files",
+    "profiles",
+    "profiles-types",
+    "simple"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/gosuit/confy/@v/v1.1.2.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.1.2",
+  "version_upstream": "",
+  "bsum": "4d22475aeafffa2629ae38f6660d1a5afeaeaf5cc8ec1791968dc99b78290ede",
+  "build_date": "2025-08-30T13:02:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17343978384",
+  "build_id": "17343978384",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gosuit/confy/env-only?tag=v1.1.2-riscv64-Linux&download=env-only.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gosuit/confy/env-only?tag=v1.1.2-riscv64-Linux&download=env-only",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gosuit/confy/env-only:v1.1.2-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gosuit/confy/env-only",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gosuit/confy/env-only?tag=v1.1.2-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2a7cea7172a2d15d5d0d72521192540bde604485c28403de197f94f9cc49b331",
+  "size": "2.2 MB",
+  "size_raw": "2252104",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.1.0-riscv64-Linux",
+    "v1.1.1-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
