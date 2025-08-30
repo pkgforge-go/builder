@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "seof",
+  "pkg_family": "seof",
+  "pkg_id": "seof#github.com_kuking_seof",
+  "pkg_name": "seof",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kuking/seof",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Encrypted drop-in replacement of golang' os.File. It handles WriteAt, Seek, Truncate, etc. Can deal with huge files, random access, etc",
+  "homepage": [
+    "https://github.com/kuking/seof"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "birthday",
+    "seof",
+    "soaktest"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/kuking/seof/@v/v1.0.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.3",
+  "version_upstream": "",
+  "bsum": "34b4df52f3f0c4a70032e711db8e45d4fcbbdf3ceb085ed2e0dbce642a4dd120",
+  "build_date": "2025-08-30T04:05:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17338916289",
+  "build_id": "17338916289",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kuking/seof/seof?tag=v1.0.3-riscv64-Linux&download=seof.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "46",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kuking/seof/seof?tag=v1.0.3-riscv64-Linux&download=seof",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kuking/seof/seof:v1.0.3-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kuking/seof/seof",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kuking/seof/seof?tag=v1.0.3-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c833b4eb883db7ed58ffd8deb5a2b6ff6a1e8bb5d75729b42168b69e0a58faba",
+  "size": "2.7 MB",
+  "size_raw": "2767128",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

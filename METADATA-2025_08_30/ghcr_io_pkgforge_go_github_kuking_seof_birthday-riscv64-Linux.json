@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "birthday",
+  "pkg_family": "seof",
+  "pkg_id": "birthday#github.com_kuking_seof",
+  "pkg_name": "birthday",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kuking/seof",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Encrypted drop-in replacement of golang' os.File. It handles WriteAt, Seek, Truncate, etc. Can deal with huge files, random access, etc",
+  "homepage": [
+    "https://github.com/kuking/seof"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "birthday",
+    "seof",
+    "soaktest"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/kuking/seof/@v/v1.0.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.3",
+  "version_upstream": "",
+  "bsum": "51db9b679c8709d6da2756a62ae8b031d63a6f3c26c9e744cb1f3870fc6cd063",
+  "build_date": "2025-08-30T04:05:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17338916289",
+  "build_id": "17338916289",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kuking/seof/birthday?tag=v1.0.3-riscv64-Linux&download=birthday.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "46",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kuking/seof/birthday?tag=v1.0.3-riscv64-Linux&download=birthday",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kuking/seof/birthday:v1.0.3-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kuking/seof/birthday",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kuking/seof/birthday?tag=v1.0.3-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "901d31dd74268a157a636b863f54283fdb7818bd7057f6efbe6ae0e5de59b1b6",
+  "size": "1.7 MB",
+  "size_raw": "1782344",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

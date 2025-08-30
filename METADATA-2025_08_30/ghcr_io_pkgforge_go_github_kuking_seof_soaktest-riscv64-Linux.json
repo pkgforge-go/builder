@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "soaktest",
+  "pkg_family": "seof",
+  "pkg_id": "soaktest#github.com_kuking_seof",
+  "pkg_name": "soaktest",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kuking/seof",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Encrypted drop-in replacement of golang' os.File. It handles WriteAt, Seek, Truncate, etc. Can deal with huge files, random access, etc",
+  "homepage": [
+    "https://github.com/kuking/seof"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "birthday",
+    "seof",
+    "soaktest"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/kuking/seof/@v/v1.0.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.3",
+  "version_upstream": "",
+  "bsum": "a33b3397922e7989e6eb04b24cacbd0d2b9974c62a78afb2abd1bf1ae1cd1702",
+  "build_date": "2025-08-30T04:05:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17338916289",
+  "build_id": "17338916289",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kuking/seof/soaktest?tag=v1.0.3-riscv64-Linux&download=soaktest.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "46",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kuking/seof/soaktest?tag=v1.0.3-riscv64-Linux&download=soaktest",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kuking/seof/soaktest:v1.0.3-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kuking/seof/soaktest",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kuking/seof/soaktest?tag=v1.0.3-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b70a20047fe886c35d7223b8b1cbb4d4cd78caf4554ee176957e1b3f48a46988",
+  "size": "2.1 MB",
+  "size_raw": "2097592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
