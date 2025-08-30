@@ -1,0 +1,109 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "defer",
+  "pkg_family": "go2v",
+  "pkg_id": "defer#github.com_vlang_go2v",
+  "pkg_name": "defer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/vlang/go2v",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go => V source code translator",
+  "homepage": [
+    "https://github.com/vlang/go2v"
+  ],
+  "license": [
+    "GPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "append",
+    "array_struct_inline_idx",
+    "defer",
+    "delete",
+    "fn_anon",
+    "fn_call",
+    "fn_case",
+    "fn_embedded",
+    "fn_empty",
+    "fn_variadic",
+    "for_bare",
+    "for_c_style_inc",
+    "for_c_style_operator",
+    "for_label",
+    "for_while",
+    "go",
+    "if",
+    "if_complex_condition",
+    "if_else",
+    "if_else_if",
+    "if_init",
+    "if_nested",
+    "import_strings",
+    "len_cap",
+    "match",
+    "match_empty",
+    "match_one",
+    "match_type_special",
+    "module_unicode_utf8",
+    "name_keyword",
+    "name_struct",
+    "println",
+    "println_multiple_args",
+    "string",
+    "string_builder_bytes",
+    "string_builder_strings",
+    "struct_embedded_unnamed",
+    "struct_simple",
+    "var_increment",
+    "var_operators",
+    "var_struct"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/vlang/go2v/@v/v0.0.0-20250827034104-5239045c1eed.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250827034104-5239045c1eed",
+  "version_upstream": "",
+  "bsum": "323c03dd44c66e82f1c3c0295778a2caab258b2f9a6a21a5110e7e67f08e8469",
+  "build_date": "2025-08-30T07:22:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17340577544",
+  "build_id": "17340577544",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vlang/go2v/defer?tag=v0.0.0-20250827034104-5239045c1eed-aarch64-Linux&download=defer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "199",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vlang/go2v/defer?tag=v0.0.0-20250827034104-5239045c1eed-aarch64-Linux&download=defer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/vlang/go2v/defer:v0.0.0-20250827034104-5239045c1eed-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/vlang/go2v/defer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vlang/go2v/defer?tag=v0.0.0-20250827034104-5239045c1eed-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "15f9f5bc461d5b729ea7770a95fc5fbd6f19397cfaa5c677375937c9fe02c69f",
+  "size": "1.6 MB",
+  "size_raw": "1671832",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250405235131-4a00f4bd9490-aarch64-Linux",
+    "v0.0.0-20250717130624-7ab6f779379d-aarch64-Linux",
+    "v0.0.0-20250819221944-acefb4d7c05f-aarch64-Linux",
+    "v0.0.0-20250820231445-79d4712a24d6-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
