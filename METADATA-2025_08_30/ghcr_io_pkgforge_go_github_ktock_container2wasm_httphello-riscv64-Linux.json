@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "httphello",
+  "pkg_family": "container2wasm",
+  "pkg_id": "httphello#github.com_ktock_container2wasm",
+  "pkg_name": "httphello",
+  "pkg_type": "static",
+  "pkg_webpage": "https://ktock.github.io/container2wasm-demo/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Container to WASM converter",
+  "homepage": [
+    "https://ktock.github.io/container2wasm-demo/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "c2w",
+    "c2w-net",
+    "create-spec",
+    "get-qemu-state",
+    "httphello",
+    "init"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/container2wasm/container2wasm/@v/v0.8.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.8.3",
+  "version_upstream": "",
+  "bsum": "88d993ee6155f29e2bb8bab0513ab364d42e28fe71c40a1c86e7659cc35c59e4",
+  "build_date": "2025-08-30T01:44:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17337746209",
+  "build_id": "17337746209",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ktock/container2wasm/httphello?tag=v0.8.3-riscv64-Linux&download=httphello.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2378",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ktock/container2wasm/httphello?tag=v0.8.3-riscv64-Linux&download=httphello",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ktock/container2wasm/httphello:v0.8.3-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ktock/container2wasm/httphello",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ktock/container2wasm/httphello?tag=v0.8.3-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "417f870d228cb9b7354900f8d88db6fc20f558c7995da39ccd0d19369e0d029d",
+  "size": "5.7 MB",
+  "size_raw": "5933400",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.8.3-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
