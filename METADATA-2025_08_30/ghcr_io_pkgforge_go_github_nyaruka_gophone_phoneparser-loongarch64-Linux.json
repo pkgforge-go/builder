@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "phoneparser",
+  "pkg_family": "gophone",
+  "pkg_id": "phoneparser#github.com_nyaruka_gophone",
+  "pkg_name": "phoneparser",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nyaruka/gophone",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "GoLang port of Google's libphonenumber library",
+  "homepage": [
+    "https://github.com/nyaruka/gophone"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "buildmetadata",
+    "phoneparser",
+    "phoneserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/nyaruka/gophone/@v/v1.0.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.3",
+  "version_upstream": "",
+  "bsum": "acb50c9091c4d0c1183c87c9fa511e68eda30e0d4e14d11ca7732d1564230304",
+  "build_date": "2025-08-30T04:15:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17338952588",
+  "build_id": "17338952588",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nyaruka/gophone/phoneparser?tag=v1.0.3-loongarch64-Linux&download=phoneparser.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1440",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nyaruka/gophone/phoneparser?tag=v1.0.3-loongarch64-Linux&download=phoneparser",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nyaruka/gophone/phoneparser:v1.0.3-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nyaruka/gophone/phoneparser",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nyaruka/gophone/phoneparser?tag=v1.0.3-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e42f487d9c9bfe9fbf33b80ecdee3ee584090ded1bef3c2b660715fae5bbe7e6",
+  "size": "2.7 MB",
+  "size_raw": "2804248",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
