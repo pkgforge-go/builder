@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "wrapper",
+  "pkg_family": "gocore",
+  "pkg_id": "wrapper#github.com_ordishs_gocore",
+  "pkg_name": "wrapper",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ordishs/gocore",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Core library for Go micro services",
+  "homepage": [
+    "https://github.com/ordishs/gocore"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "config",
+    "gcli",
+    "gocore-cli",
+    "gocore-examples",
+    "gocore-format",
+    "logger",
+    "server",
+    "wrapper"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/ordishs/gocore/@v/v1.0.80.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.80",
+  "version_upstream": "",
+  "bsum": "14d3b663efb38c58f057c5c7bb5b12a558675d02d5a5e6e39386a834ebf26b00",
+  "build_date": "2025-08-30T04:17:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17338958886",
+  "build_id": "17338958886",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ordishs/gocore/wrapper?tag=v1.0.80-loongarch64-Linux&download=wrapper.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ordishs/gocore/wrapper?tag=v1.0.80-loongarch64-Linux&download=wrapper",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ordishs/gocore/wrapper:v1.0.80-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ordishs/gocore/wrapper",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ordishs/gocore/wrapper?tag=v1.0.80-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "97c7de018f097f847ad4f8c7fd089ee87edb3f16b5f50850f31dff9631df1fee",
+  "size": "6.5 MB",
+  "size_raw": "6804704",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
