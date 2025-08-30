@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "profiles-types",
+  "pkg_family": "confy",
+  "pkg_id": "profiles-types#github.com_gosuit_confy",
+  "pkg_name": "profiles-types",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gosuit/confy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Laconic configuration reader",
+  "homepage": [
+    "https://github.com/gosuit/confy"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "base-paths-management",
+    "dir-paths-management",
+    "directory",
+    "env-names-expand",
+    "env-only",
+    "env-override",
+    "multiple-files",
+    "profiles",
+    "profiles-types",
+    "simple"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/gosuit/confy/@v/v1.1.2.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.1.2",
+  "version_upstream": "",
+  "bsum": "24c72358a70546e1010b6b06231ddac16b9d59f104757794b4a4ba092c1bb705",
+  "build_date": "2025-08-30T13:04:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17343978384",
+  "build_id": "17343978384",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gosuit/confy/profiles-types?tag=v1.1.2-loongarch64-Linux&download=profiles-types.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gosuit/confy/profiles-types?tag=v1.1.2-loongarch64-Linux&download=profiles-types",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gosuit/confy/profiles-types:v1.1.2-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gosuit/confy/profiles-types",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gosuit/confy/profiles-types?tag=v1.1.2-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c2c3a990a864ee7c09cf3ca4c3d05a9311c5ed8ea5055a1fdfe8bb0e9b53200d",
+  "size": "3.1 MB",
+  "size_raw": "3181816",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.1.0-loongarch64-Linux",
+    "v1.1.1-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
