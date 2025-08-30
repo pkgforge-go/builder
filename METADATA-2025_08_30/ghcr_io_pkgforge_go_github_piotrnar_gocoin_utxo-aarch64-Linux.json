@@ -1,0 +1,94 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "utxo",
+  "pkg_family": "gocoin",
+  "pkg_id": "utxo#github.com_piotrnar_gocoin",
+  "pkg_name": "utxo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/piotrnar/gocoin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Full bitcoin solution written in Go (golang",
+  "homepage": [
+    "https://github.com/piotrnar/gocoin"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "balio",
+    "base58",
+    "bdb",
+    "bip39wal",
+    "blockinfo",
+    "bootdat_qt",
+    "btcversig",
+    "client",
+    "fetchblock",
+    "fetchtx",
+    "getfees",
+    "goc",
+    "hdwal",
+    "importblocks",
+    "mkmulti",
+    "peers",
+    "tap2old",
+    "trumpic",
+    "txaddsig",
+    "txmod",
+    "txoutset",
+    "type2determ",
+    "type2next",
+    "unspent4_to_utxo",
+    "utxo",
+    "wallet"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/piotrnar/gocoin/@v/v0.0.0-20250822185406-c89569d00301.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250822185406-c89569d00301",
+  "version_upstream": "",
+  "bsum": "694fa3c6383d60cfd28f381157d697d6cf9d73d699ec667136e79df04e9c3872",
+  "build_date": "2025-08-30T13:26:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17343981175",
+  "build_id": "17343981175",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/piotrnar/gocoin/utxo?tag=v0.0.0-20250822185406-c89569d00301-aarch64-Linux&download=utxo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "995",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/piotrnar/gocoin/utxo?tag=v0.0.0-20250822185406-c89569d00301-aarch64-Linux&download=utxo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/piotrnar/gocoin/utxo:v0.0.0-20250822185406-c89569d00301-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/piotrnar/gocoin/utxo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/piotrnar/gocoin/utxo?tag=v0.0.0-20250822185406-c89569d00301-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9f0b2f677c70c41768a1168e7cf754980889cef93ec6a5cede577ea6b21c085a",
+  "size": "2.2 MB",
+  "size_raw": "2271104",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-44bc9d2-250622T104408-aarch64-Linux",
+    "v0.0.0-20250716185336-2394e49f665f-aarch64-Linux",
+    "v0.0.0-20250717220113-38f3124a00ab-aarch64-Linux",
+    "v0.0.0-20250730103622-ae814d588d5c-aarch64-Linux"
+  ],
+  "trusted": "true"
+}

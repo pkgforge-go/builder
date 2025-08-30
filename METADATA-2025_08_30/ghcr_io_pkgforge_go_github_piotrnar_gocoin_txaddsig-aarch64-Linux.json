@@ -1,0 +1,94 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "txaddsig",
+  "pkg_family": "gocoin",
+  "pkg_id": "txaddsig#github.com_piotrnar_gocoin",
+  "pkg_name": "txaddsig",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/piotrnar/gocoin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Full bitcoin solution written in Go (golang",
+  "homepage": [
+    "https://github.com/piotrnar/gocoin"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "balio",
+    "base58",
+    "bdb",
+    "bip39wal",
+    "blockinfo",
+    "bootdat_qt",
+    "btcversig",
+    "client",
+    "fetchblock",
+    "fetchtx",
+    "getfees",
+    "goc",
+    "hdwal",
+    "importblocks",
+    "mkmulti",
+    "peers",
+    "tap2old",
+    "trumpic",
+    "txaddsig",
+    "txmod",
+    "txoutset",
+    "type2determ",
+    "type2next",
+    "unspent4_to_utxo",
+    "utxo",
+    "wallet"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/piotrnar/gocoin/@v/v0.0.0-20250822185406-c89569d00301.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250822185406-c89569d00301",
+  "version_upstream": "",
+  "bsum": "dfb5b5ad75c64223c859cba416bddc0d34395536a23681fa77dc0cee0bb98125",
+  "build_date": "2025-08-30T13:25:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17343981175",
+  "build_id": "17343981175",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/piotrnar/gocoin/txaddsig?tag=v0.0.0-20250822185406-c89569d00301-aarch64-Linux&download=txaddsig.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "995",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/piotrnar/gocoin/txaddsig?tag=v0.0.0-20250822185406-c89569d00301-aarch64-Linux&download=txaddsig",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/piotrnar/gocoin/txaddsig:v0.0.0-20250822185406-c89569d00301-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/piotrnar/gocoin/txaddsig",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/piotrnar/gocoin/txaddsig?tag=v0.0.0-20250822185406-c89569d00301-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c830deab1f784fb7b8e33628a4420177d72d0e05ec155d51eec22330902c3c0b",
+  "size": "2.0 MB",
+  "size_raw": "2071328",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-44bc9d2-250622T104408-aarch64-Linux",
+    "v0.0.0-20250716185336-2394e49f665f-aarch64-Linux",
+    "v0.0.0-20250717220113-38f3124a00ab-aarch64-Linux",
+    "v0.0.0-20250730103622-ae814d588d5c-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
