@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "container",
+  "pkg_family": "latest",
+  "pkg_id": "container#github.com_csmith_latest",
+  "pkg_name": "container",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/csmith/latest",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library for finding the latest versions of things",
+  "homepage": [
+    "https://github.com/csmith/latest"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alpine",
+    "alpinepackage",
+    "alpinepackagelist",
+    "container",
+    "containerdigest",
+    "git",
+    "go",
+    "postgres"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/csmith/latest/@v/v1.3.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.3.1",
+  "version_upstream": "",
+  "bsum": "875b1a0ee393cb7602a8883ed2910f7e0d21302e763b544161b2f92d3f795297",
+  "build_date": "2025-08-30T06:45:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17340574122",
+  "build_id": "17340574122",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/csmith/latest/container?tag=v1.3.1-loongarch64-Linux&download=container.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/csmith/latest/container?tag=v1.3.1-loongarch64-Linux&download=container",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/csmith/latest/container:v1.3.1-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/csmith/latest/container",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/csmith/latest/container?tag=v1.3.1-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d7e614afce392155f917c8dd4f670894b877478c1f76f969b154532181b281b8",
+  "size": "7.0 MB",
+  "size_raw": "7239360",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.2.0-loongarch64-Linux",
+    "v1.3.0-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}

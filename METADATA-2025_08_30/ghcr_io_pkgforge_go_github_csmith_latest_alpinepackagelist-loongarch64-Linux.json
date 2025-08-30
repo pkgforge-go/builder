@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "alpinepackagelist",
+  "pkg_family": "latest",
+  "pkg_id": "alpinepackagelist#github.com_csmith_latest",
+  "pkg_name": "alpinepackagelist",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/csmith/latest",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library for finding the latest versions of things",
+  "homepage": [
+    "https://github.com/csmith/latest"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alpine",
+    "alpinepackage",
+    "alpinepackagelist",
+    "container",
+    "containerdigest",
+    "git",
+    "go",
+    "postgres"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/csmith/latest/@v/v1.3.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.3.1",
+  "version_upstream": "",
+  "bsum": "9ee840ca62a328ebb32fd0c5c08caa08dbbd4e459494bc59f468198439037c2f",
+  "build_date": "2025-08-30T06:45:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17340574122",
+  "build_id": "17340574122",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/csmith/latest/alpinepackagelist?tag=v1.3.1-loongarch64-Linux&download=alpinepackagelist.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/csmith/latest/alpinepackagelist?tag=v1.3.1-loongarch64-Linux&download=alpinepackagelist",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/csmith/latest/alpinepackagelist:v1.3.1-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/csmith/latest/alpinepackagelist",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/csmith/latest/alpinepackagelist?tag=v1.3.1-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6ffd98e9c1c71bb01d189cb5d30d61a6dc37e2f930d2233a98c4c058032eb70c",
+  "size": "6.5 MB",
+  "size_raw": "6779328",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.2.0-loongarch64-Linux",
+    "v1.3.0-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
