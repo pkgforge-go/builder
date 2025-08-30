@@ -1,0 +1,96 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "modeflight",
+  "pkg_family": "yoke",
+  "pkg_id": "modeflight#github.com_yokecd_yoke",
+  "pkg_name": "modeflight",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/yokecd/yoke",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes Package Management as Code; infrastructure as code, but actually",
+  "homepage": [
+    "https://github.com/yokecd/yoke"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "atc",
+    "atc-installer",
+    "base",
+    "basic",
+    "changelog",
+    "converter",
+    "crossnamespace",
+    "deploymentstatus",
+    "dev",
+    "echo",
+    "embeddedfs",
+    "flight",
+    "flights",
+    "helm2go",
+    "longrunning",
+    "lookup",
+    "modeflight",
+    "prune",
+    "redis",
+    "releaser",
+    "resourceaccessmatchers",
+    "status",
+    "unsafelookup",
+    "versioncheck",
+    "wasmcache",
+    "yoke",
+    "yokecd",
+    "yokecd-installer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/yokecd/yoke/@v/v0.16.7.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.16.7",
+  "version_upstream": "",
+  "bsum": "4ab630787bea263a0cbb3c122223ce148c3bd3598752fcc6020812fc0e36fae5",
+  "build_date": "2025-08-30T12:05:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17342685314",
+  "build_id": "17342685314",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yokecd/yoke/modeflight?tag=v0.16.7-x86_64-Linux&download=modeflight.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "620",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yokecd/yoke/modeflight?tag=v0.16.7-x86_64-Linux&download=modeflight",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/yokecd/yoke/modeflight:v0.16.7-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/yokecd/yoke/modeflight",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/yokecd/yoke/modeflight?tag=v0.16.7-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "055bdf1ed5929e2af3c542de242e06a8fc4d792568bfb567ce4cb65fa28903b7",
+  "size": "11 MB",
+  "size_raw": "10516128",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.16.1-x86_64-Linux",
+    "v0.16.2-x86_64-Linux",
+    "v0.16.4-x86_64-Linux",
+    "v0.16.5-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
