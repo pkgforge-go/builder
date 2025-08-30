@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "phoneserver",
+  "pkg_family": "gophone",
+  "pkg_id": "phoneserver#github.com_nyaruka_gophone",
+  "pkg_name": "phoneserver",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nyaruka/gophone",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "GoLang port of Google's libphonenumber library",
+  "homepage": [
+    "https://github.com/nyaruka/gophone"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "buildmetadata",
+    "phoneparser",
+    "phoneserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/nyaruka/gophone/@v/v1.0.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.3",
+  "version_upstream": "",
+  "bsum": "11055156d00c458bb650d4618c8493b4639e4392b74b0e5b9d847d5fa5d729ce",
+  "build_date": "2025-08-30T04:15:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17338952588",
+  "build_id": "17338952588",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nyaruka/gophone/phoneserver?tag=v1.0.3-x86_64-Linux&download=phoneserver.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1440",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nyaruka/gophone/phoneserver?tag=v1.0.3-x86_64-Linux&download=phoneserver",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nyaruka/gophone/phoneserver:v1.0.3-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nyaruka/gophone/phoneserver",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nyaruka/gophone/phoneserver?tag=v1.0.3-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "30a237c1b404f7e14a3067520a04042f8838cc0f4ed014937070ba72ed8b42e7",
+  "size": "6.9 MB",
+  "size_raw": "7203328",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
