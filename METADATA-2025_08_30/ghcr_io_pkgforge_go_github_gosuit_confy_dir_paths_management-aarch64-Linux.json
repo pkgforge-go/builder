@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "dir-paths-management",
+  "pkg_family": "confy",
+  "pkg_id": "dir-paths-management#github.com_gosuit_confy",
+  "pkg_name": "dir-paths-management",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/gosuit/confy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Laconic configuration reader",
+  "homepage": [
+    "https://github.com/gosuit/confy"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "base-paths-management",
+    "dir-paths-management",
+    "directory",
+    "env-names-expand",
+    "env-only",
+    "env-override",
+    "multiple-files",
+    "profiles",
+    "profiles-types",
+    "simple"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/gosuit/confy/@v/v1.1.2.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.1.2",
+  "version_upstream": "",
+  "bsum": "fdcaef7ddd8fdbc7505a761ff4bbbf469881f50b105abf41ecb597424dc1c971",
+  "build_date": "2025-08-30T13:02:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17343978384",
+  "build_id": "17343978384",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gosuit/confy/dir-paths-management?tag=v1.1.2-aarch64-Linux&download=dir-paths-management.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gosuit/confy/dir-paths-management?tag=v1.1.2-aarch64-Linux&download=dir-paths-management",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gosuit/confy/dir-paths-management:v1.1.2-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gosuit/confy/dir-paths-management",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gosuit/confy/dir-paths-management?tag=v1.1.2-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f92cb7eb282cca1c05b9016f59554c5987c5670f2f3fe8280b4162a425208038",
+  "size": "3.0 MB",
+  "size_raw": "3120536",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.1.0-aarch64-Linux",
+    "v1.1.1-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
