@@ -1,0 +1,94 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "getfees",
+  "pkg_family": "gocoin",
+  "pkg_id": "getfees#github.com_piotrnar_gocoin",
+  "pkg_name": "getfees",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/piotrnar/gocoin",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Full bitcoin solution written in Go (golang",
+  "homepage": [
+    "https://github.com/piotrnar/gocoin"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "balio",
+    "base58",
+    "bdb",
+    "bip39wal",
+    "blockinfo",
+    "bootdat_qt",
+    "btcversig",
+    "client",
+    "fetchblock",
+    "fetchtx",
+    "getfees",
+    "goc",
+    "hdwal",
+    "importblocks",
+    "mkmulti",
+    "peers",
+    "tap2old",
+    "trumpic",
+    "txaddsig",
+    "txmod",
+    "txoutset",
+    "type2determ",
+    "type2next",
+    "unspent4_to_utxo",
+    "utxo",
+    "wallet"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/piotrnar/gocoin/@v/v0.0.0-20250822185406-c89569d00301.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250822185406-c89569d00301",
+  "version_upstream": "",
+  "bsum": "94a459cf54102344b7cdd60631d01332842157db417f5e82fb7b1d5462b8308c",
+  "build_date": "2025-08-30T13:24:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17343981175",
+  "build_id": "17343981175",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/piotrnar/gocoin/getfees?tag=v0.0.0-20250822185406-c89569d00301-x86_64-Linux&download=getfees.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "995",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/piotrnar/gocoin/getfees?tag=v0.0.0-20250822185406-c89569d00301-x86_64-Linux&download=getfees",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/piotrnar/gocoin/getfees:v0.0.0-20250822185406-c89569d00301-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/piotrnar/gocoin/getfees",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/piotrnar/gocoin/getfees?tag=v0.0.0-20250822185406-c89569d00301-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c4b282ca173789e013694b96729c86fd7b5e581454542ae689c69a3a0a21cb10",
+  "size": "6.3 MB",
+  "size_raw": "6597888",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-44bc9d2-250622T104408-x86_64-Linux",
+    "v0.0.0-20250716185336-2394e49f665f-x86_64-Linux",
+    "v0.0.0-20250717220113-38f3124a00ab-x86_64-Linux",
+    "v0.0.0-20250730103622-ae814d588d5c-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
