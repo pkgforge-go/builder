@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "buildmetadata",
+  "pkg_family": "gophone",
+  "pkg_id": "buildmetadata#github.com_nyaruka_gophone",
+  "pkg_name": "buildmetadata",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nyaruka/gophone",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "GoLang port of Google's libphonenumber library",
+  "homepage": [
+    "https://github.com/nyaruka/gophone"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "buildmetadata",
+    "phoneparser",
+    "phoneserver"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/nyaruka/gophone/@v/v1.0.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.3",
+  "version_upstream": "",
+  "bsum": "eeca37b6c331985c141ea5e0d5ef310e731a9baf374248d7b09b762dcb645169",
+  "build_date": "2025-08-30T04:13:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17338952588",
+  "build_id": "17338952588",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nyaruka/gophone/buildmetadata?tag=v1.0.3-riscv64-Linux&download=buildmetadata.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1440",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nyaruka/gophone/buildmetadata?tag=v1.0.3-riscv64-Linux&download=buildmetadata",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nyaruka/gophone/buildmetadata:v1.0.3-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nyaruka/gophone/buildmetadata",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nyaruka/gophone/buildmetadata?tag=v1.0.3-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d96bd6648c8c2c4284733761aac80257578636db9b1626d2fd548ec4afb0634a",
+  "size": "6.8 MB",
+  "size_raw": "7100280",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
