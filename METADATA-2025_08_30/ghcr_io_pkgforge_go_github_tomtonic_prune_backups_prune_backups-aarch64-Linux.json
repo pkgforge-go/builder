@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "prune_backups",
+  "pkg_family": "prune_backups",
+  "pkg_id": "prune_backups#github.com_tomtonic_prune_backups",
+  "pkg_name": "prune_backups",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tomtonic/prune_backups",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A small tool designed to trim backup directories, maintaining one per hour for a day, one per day for a month, and one per month thereafter",
+  "homepage": [
+    "https://github.com/tomtonic/prune_backups"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "prune_backups",
+    "var_name_gen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/tomtonic/prune_backups/@v/v0.9.7.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.9.7",
+  "version_upstream": "",
+  "bsum": "c367014012ee31f1e5f388b470fb801b50016f8eedd296f8221ebb70de8cdf96",
+  "build_date": "2025-08-30T04:27:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17338976378",
+  "build_id": "17338976378",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tomtonic/prune/backups/prune_backups?tag=v0.9.7-aarch64-Linux&download=prune_backups.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tomtonic/prune/backups/prune_backups?tag=v0.9.7-aarch64-Linux&download=prune_backups",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tomtonic/prune/backups/prune_backups:v0.9.7-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tomtonic/prune/backups/prune_backups",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tomtonic/prune/backups/prune_backups?tag=v0.9.7-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "eb88335d4c0f58ec0d2aa65fc61bed81d67c14bc51295573565df00154a730e6",
+  "size": "3.7 MB",
+  "size_raw": "3850168",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
