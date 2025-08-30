@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "c2w-net",
+  "pkg_family": "container2wasm",
+  "pkg_id": "c2w-net#github.com_ktock_container2wasm",
+  "pkg_name": "c2w-net",
+  "pkg_type": "static",
+  "pkg_webpage": "https://ktock.github.io/container2wasm-demo/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Container to WASM converter",
+  "homepage": [
+    "https://ktock.github.io/container2wasm-demo/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "c2w",
+    "c2w-net",
+    "create-spec",
+    "get-qemu-state",
+    "httphello",
+    "init"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/container2wasm/container2wasm/@v/v0.8.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.8.3",
+  "version_upstream": "",
+  "bsum": "f0c9d74fc2b7976f91aa73f0156b5ba2409a71c6b6a08ffbde4af75b7e61bdb2",
+  "build_date": "2025-08-30T01:44:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17337746209",
+  "build_id": "17337746209",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ktock/container2wasm/c2w-net?tag=v0.8.3-aarch64-Linux&download=c2w-net.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2378",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ktock/container2wasm/c2w-net?tag=v0.8.3-aarch64-Linux&download=c2w-net",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ktock/container2wasm/c2w-net:v0.8.3-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ktock/container2wasm/c2w-net",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ktock/container2wasm/c2w-net?tag=v0.8.3-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b833aa5e5740e9104e76ab683bb6884b7185c9373e43f48bef959987e89ad402",
+  "size": "13 MB",
+  "size_raw": "12762624",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.8.3-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
