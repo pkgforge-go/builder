@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "container",
+  "pkg_family": "latest",
+  "pkg_id": "container#github.com_csmith_latest",
+  "pkg_name": "container",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/csmith/latest",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library for finding the latest versions of things",
+  "homepage": [
+    "https://github.com/csmith/latest"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alpine",
+    "alpinepackage",
+    "alpinepackagelist",
+    "container",
+    "containerdigest",
+    "git",
+    "go",
+    "postgres"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/csmith/latest/@v/v1.3.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.3.1",
+  "version_upstream": "",
+  "bsum": "890956f98b545847271bd5a085be7285bc03b735b240aab9d32e04f573b184c5",
+  "build_date": "2025-08-30T06:44:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17340574122",
+  "build_id": "17340574122",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/csmith/latest/container?tag=v1.3.1-riscv64-Linux&download=container.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/csmith/latest/container?tag=v1.3.1-riscv64-Linux&download=container",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/csmith/latest/container:v1.3.1-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/csmith/latest/container",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/csmith/latest/container?tag=v1.3.1-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b51bd3e713da5c4e6d1c717587b8896fe9271c8089bdf544d8bf9f12189a363b",
+  "size": "6.9 MB",
+  "size_raw": "7138808",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.2.0-riscv64-Linux",
+    "v1.3.0-riscv64-Linux"
+  ],
+  "trusted": "true"
+}

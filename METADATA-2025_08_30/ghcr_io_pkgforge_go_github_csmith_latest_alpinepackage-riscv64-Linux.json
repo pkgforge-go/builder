@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "alpinepackage",
+  "pkg_family": "latest",
+  "pkg_id": "alpinepackage#github.com_csmith_latest",
+  "pkg_name": "alpinepackage",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/csmith/latest",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library for finding the latest versions of things",
+  "homepage": [
+    "https://github.com/csmith/latest"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alpine",
+    "alpinepackage",
+    "alpinepackagelist",
+    "container",
+    "containerdigest",
+    "git",
+    "go",
+    "postgres"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/csmith/latest/@v/v1.3.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.3.1",
+  "version_upstream": "",
+  "bsum": "a7d147306256ce2c6ad95c7a71d91c869177b8b64f64c8ba64c0bd084ad9af2a",
+  "build_date": "2025-08-30T06:45:11Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17340574122",
+  "build_id": "17340574122",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/csmith/latest/alpinepackage?tag=v1.3.1-riscv64-Linux&download=alpinepackage.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/csmith/latest/alpinepackage?tag=v1.3.1-riscv64-Linux&download=alpinepackage",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/csmith/latest/alpinepackage:v1.3.1-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/csmith/latest/alpinepackage",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/csmith/latest/alpinepackage?tag=v1.3.1-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "af58d875e6e7d5bd203674aa64126e52ebaf645c68a93c8ed513ab367a2ec17e",
+  "size": "6.4 MB",
+  "size_raw": "6688120",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.2.0-riscv64-Linux",
+    "v1.3.0-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
