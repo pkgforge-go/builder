@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "app",
+  "pkg_family": "talm",
+  "pkg_id": "app#github.com_cozystack_talm",
+  "pkg_name": "app",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cozystack/talm",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Manage Talos Linux the GitOps Way",
+  "homepage": [
+    "https://github.com/cozystack/talm"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "app",
+    "talm"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cozystack/talm/@v/v0.16.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.16.0",
+  "version_upstream": "",
+  "bsum": "5688724b30ad307fb30f684dbbb62b33ab254602c71e16cc68533dd490c8b215",
+  "build_date": "2025-08-30T06:51:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17340574749",
+  "build_id": "17340574749",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cozystack/talm/app?tag=v0.16.0-loongarch64-Linux&download=app.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "315",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cozystack/talm/app?tag=v0.16.0-loongarch64-Linux&download=app",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cozystack/talm/app:v0.16.0-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cozystack/talm/app",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cozystack/talm/app?tag=v0.16.0-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "22ef13d2ec6b89c4522673d68e2473da79160b462cb1990445cbb87419991123",
+  "size": "7.1 MB",
+  "size_raw": "7373376",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.15.0-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
