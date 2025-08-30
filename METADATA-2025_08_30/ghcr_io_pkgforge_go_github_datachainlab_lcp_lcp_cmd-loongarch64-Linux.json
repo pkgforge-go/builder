@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "lcp-cmd",
+  "pkg_family": "lcp",
+  "pkg_id": "lcp-cmd#github.com_datachainlab_lcp",
+  "pkg_name": "lcp-cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://docs.lcp.network",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A proxy middleware for light client verification executed in TEE",
+  "homepage": [
+    "https://docs.lcp.network"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appletokens",
+    "lcp-cmd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://github.com/gleich/lcp.git"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.2.16",
+  "version_upstream": "",
+  "bsum": "6d1c48b09ebd187a3ca60fe6a73da7dfd2fa5119fa28699c574081b492093b4d",
+  "build_date": "2025-08-30T06:45:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17340574329",
+  "build_id": "17340574329",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/datachainlab/lcp/lcp-cmd?tag=v0.2.16-loongarch64-Linux&download=lcp-cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "48",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/datachainlab/lcp/lcp-cmd?tag=v0.2.16-loongarch64-Linux&download=lcp-cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/datachainlab/lcp/lcp-cmd:v0.2.16-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/datachainlab/lcp/lcp-cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/datachainlab/lcp/lcp-cmd?tag=v0.2.16-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c9192aed1e93159566ec6db712804699e44880a218057bd94c74c3931ab8c152",
+  "size": "11 MB",
+  "size_raw": "11362576",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
