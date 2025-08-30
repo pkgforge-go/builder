@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "lapctl",
+  "pkg_family": "lap",
+  "pkg_id": "lapctl#github.com_stonebraker_lap",
+  "pkg_name": "lapctl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/stonebraker/lap",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Linked Attestations Protocol (LAP) - Portable, time-boxed proof of content origin and publisher control—verifiable live at fetch and later at rest—without gatekeepers and with clean dissociation when needed",
+  "homepage": [
+    "https://github.com/stonebraker/lap"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "lapctl",
+    "publisherapi",
+    "verifier"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/stonebraker/lap/@v/v0.0.0-20250824130136-97f3efa7823f.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250824130136-97f3efa7823f",
+  "version_upstream": "",
+  "bsum": "e213b8039f70e91a684481839bf2429031f5b3628cd7cae3c4d67e9bcb748f0f",
+  "build_date": "2025-08-30T04:23:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17338974619",
+  "build_id": "17338974619",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stonebraker/lap/lapctl?tag=v0.0.0-20250824130136-97f3efa7823f-loongarch64-Linux&download=lapctl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stonebraker/lap/lapctl?tag=v0.0.0-20250824130136-97f3efa7823f-loongarch64-Linux&download=lapctl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/stonebraker/lap/lapctl:v0.0.0-20250824130136-97f3efa7823f-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/stonebraker/lap/lapctl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/stonebraker/lap/lapctl?tag=v0.0.0-20250824130136-97f3efa7823f-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7230d97171a9b121bca3dad5b9cdd8b1885579dd3ac595fd68a7fb87eaf33d31",
+  "size": "4.2 MB",
+  "size_raw": "4371744",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
