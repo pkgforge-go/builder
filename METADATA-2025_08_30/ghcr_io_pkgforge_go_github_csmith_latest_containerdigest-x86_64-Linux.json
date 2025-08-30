@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "containerdigest",
+  "pkg_family": "latest",
+  "pkg_id": "containerdigest#github.com_csmith_latest",
+  "pkg_name": "containerdigest",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/csmith/latest",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library for finding the latest versions of things",
+  "homepage": [
+    "https://github.com/csmith/latest"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alpine",
+    "alpinepackage",
+    "alpinepackagelist",
+    "container",
+    "containerdigest",
+    "git",
+    "go",
+    "postgres"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/csmith/latest/@v/v1.3.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.3.1",
+  "version_upstream": "",
+  "bsum": "d93d5440cf63a0f7a8831d91fc3fcd1da86416c87be8f08d0b083b30d5d64de2",
+  "build_date": "2025-08-30T06:44:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17340574122",
+  "build_id": "17340574122",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/csmith/latest/containerdigest?tag=v1.3.1-x86_64-Linux&download=containerdigest.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/csmith/latest/containerdigest?tag=v1.3.1-x86_64-Linux&download=containerdigest",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/csmith/latest/containerdigest:v1.3.1-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/csmith/latest/containerdigest",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/csmith/latest/containerdigest?tag=v1.3.1-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3d3d65c1d4af884cb26ea0ff159d7c13c9bf0973b48c952d7709c07dc91539fd",
+  "size": "7.4 MB",
+  "size_raw": "7696992",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.2.0-x86_64-Linux",
+    "v1.3.0-x86_64-Linux"
+  ],
+  "trusted": "true"
+}

@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "postgres",
+  "pkg_family": "latest",
+  "pkg_id": "postgres#github.com_csmith_latest",
+  "pkg_name": "postgres",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/csmith/latest",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library for finding the latest versions of things",
+  "homepage": [
+    "https://github.com/csmith/latest"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alpine",
+    "alpinepackage",
+    "alpinepackagelist",
+    "container",
+    "containerdigest",
+    "git",
+    "go",
+    "postgres"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/csmith/latest/@v/v1.3.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.3.1",
+  "version_upstream": "",
+  "bsum": "68a0e4c8a7241868695709e83a787b7cb3c9c9883164f338e5d7785ac5f99de3",
+  "build_date": "2025-08-30T06:45:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17340574122",
+  "build_id": "17340574122",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/csmith/latest/postgres?tag=v1.3.1-x86_64-Linux&download=postgres.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/csmith/latest/postgres?tag=v1.3.1-x86_64-Linux&download=postgres",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/csmith/latest/postgres:v1.3.1-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/csmith/latest/postgres",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/csmith/latest/postgres?tag=v1.3.1-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bbbc41e551714963ef856e99ca0507b7e9103fc8158db523877bd6e771797c9e",
+  "size": "7.1 MB",
+  "size_raw": "7439168",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.2.0-x86_64-Linux",
+    "v1.3.0-x86_64-Linux"
+  ],
+  "trusted": "true"
+}

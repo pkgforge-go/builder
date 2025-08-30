@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "alpine",
+  "pkg_family": "latest",
+  "pkg_id": "alpine#github.com_csmith_latest",
+  "pkg_name": "alpine",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/csmith/latest",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library for finding the latest versions of things",
+  "homepage": [
+    "https://github.com/csmith/latest"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "alpine",
+    "alpinepackage",
+    "alpinepackagelist",
+    "container",
+    "containerdigest",
+    "git",
+    "go",
+    "postgres"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/csmith/latest/@v/v1.3.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.3.1",
+  "version_upstream": "",
+  "bsum": "d279ea85344f1ceae004d43d7eca2a87791acf03b936f93253a2baa637a1514b",
+  "build_date": "2025-08-30T06:45:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17340574122",
+  "build_id": "17340574122",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/csmith/latest/alpine?tag=v1.3.1-x86_64-Linux&download=alpine.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/csmith/latest/alpine?tag=v1.3.1-x86_64-Linux&download=alpine",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/csmith/latest/alpine:v1.3.1-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/csmith/latest/alpine",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/csmith/latest/alpine?tag=v1.3.1-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f380ced7e3c8fc9d4bbd7db71e771c47889206b9a87ceb5e6a6cd1b14ba315fd",
+  "size": "7.0 MB",
+  "size_raw": "7286208",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.2.0-x86_64-Linux",
+    "v1.3.0-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
