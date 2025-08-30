@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "hostdevice",
+  "pkg_family": "kubernetes-network-drivers",
+  "pkg_id": "hostdevice#github.com_aojea_kubernetes_network_drivers",
+  "pkg_name": "hostdevice",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aojea/kubernetes-network-drivers",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Some reference and example Kubernetes networking drivers, maintained by the SIG Network community",
+  "homepage": [
+    "https://github.com/aojea/kubernetes-network-drivers"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hostdevice",
+    "node"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/aojea/kubernetes-network-drivers/@v/v0.0.0-20250829220729-d57bb9237daa.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250829220729-d57bb9237daa",
+  "version_upstream": "",
+  "bsum": "562ceed22ccc01aaed6c40bb1a23c6311e2be00b9b7c1a295f3bfd75021c0598",
+  "build_date": "2025-08-30T03:43:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17338912172",
+  "build_id": "17338912172",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aojea/kubernetes-network-drivers/hostdevice?tag=v0.0.0-20250829220729-d57bb9237daa-riscv64-Linux&download=hostdevice.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aojea/kubernetes-network-drivers/hostdevice?tag=v0.0.0-20250829220729-d57bb9237daa-riscv64-Linux&download=hostdevice",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aojea/kubernetes-network-drivers/hostdevice:v0.0.0-20250829220729-d57bb9237daa-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aojea/kubernetes-network-drivers/hostdevice",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aojea/kubernetes-network-drivers/hostdevice?tag=v0.0.0-20250829220729-d57bb9237daa-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0a8be6afbdc30a68bda48e2669a028c607cd332c3193a4a699a717f6cb466f19",
+  "size": "53 MB",
+  "size_raw": "55351416",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
