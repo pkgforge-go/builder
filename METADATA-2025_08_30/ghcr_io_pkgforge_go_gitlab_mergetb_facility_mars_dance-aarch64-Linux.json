@@ -1,0 +1,80 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "dance",
+  "pkg_family": "mars",
+  "pkg_id": "dance#gitlab.com_mergetb_facility_mars",
+  "pkg_name": "dance",
+  "pkg_type": "static",
+  "pkg_webpage": "https://gitlab.com/mergetb/facility/mars",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Merge Automated Resource Space",
+  "homepage": [
+    "https://gitlab.com/mergetb/facility/mars"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apiserver",
+    "canopy",
+    "dance",
+    "dancecmd",
+    "imaging",
+    "metal",
+    "moacmd",
+    "moactl",
+    "moactld",
+    "mrs",
+    "podinit",
+    "sled",
+    "spore",
+    "tftp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/gitlab.com/mergetb/facility/mars/@v/v1.4.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.4.3",
+  "version_upstream": "",
+  "bsum": "951b7a280bbc753787286686c125f11fa2ac52e8594f0e3d8ffa66070cf497ec",
+  "build_date": "2025-08-30T07:38:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17340578793",
+  "build_id": "17340578793",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/mergetb/facility/mars/dance?tag=v1.4.3-aarch64-Linux&download=dance.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/mergetb/facility/mars/dance?tag=v1.4.3-aarch64-Linux&download=dance",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/gitlab/mergetb/facility/mars/dance:v1.4.3-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/gitlab/mergetb/facility/mars/dance",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/gitlab/mergetb/facility/mars/dance?tag=v1.4.3-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "02224464568582d1f749cdbfe2b7a83dcc20895b42c2c35d7c014e8962b6eeca",
+  "size": "25 MB",
+  "size_raw": "25434144",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.4.0-aarch64-Linux",
+    "v1.4.2-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
