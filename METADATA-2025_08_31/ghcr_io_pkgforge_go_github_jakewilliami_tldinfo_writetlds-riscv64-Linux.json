@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "writetlds",
+  "pkg_family": "tldinfo",
+  "pkg_id": "writetlds#github.com_jakewilliami_tldinfo",
+  "pkg_name": "writetlds",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jakewilliami/tldinfo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A small command-line tool to provide basic information about a top-level domain (TLD",
+  "homepage": [
+    "https://github.com/jakewilliami/tldinfo"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cctldmissing",
+    "tldinfo",
+    "tldtypes",
+    "writetlds"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/jakewilliami/tldinfo/@v/v1.0.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.0",
+  "version_upstream": "",
+  "bsum": "9067195fa220e3af92a26b2be925d3525a4ee36788ffe6427b5766be131b4abe",
+  "build_date": "2025-08-31T04:03:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17352131695",
+  "build_id": "17352131695",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jakewilliami/tldinfo/writetlds?tag=v1.0.0-riscv64-Linux&download=writetlds.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jakewilliami/tldinfo/writetlds?tag=v1.0.0-riscv64-Linux&download=writetlds",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jakewilliami/tldinfo/writetlds:v1.0.0-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jakewilliami/tldinfo/writetlds",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jakewilliami/tldinfo/writetlds?tag=v1.0.0-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2d8ebc5f0cc948ab7ec5267f6e7456537514e455a0f82541307760f14ae68cef",
+  "size": "7.6 MB",
+  "size_raw": "7908152",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
