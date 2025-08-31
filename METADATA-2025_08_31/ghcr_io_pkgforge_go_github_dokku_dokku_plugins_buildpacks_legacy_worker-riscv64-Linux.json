@@ -1,0 +1,99 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "legacy_worker",
+  "pkg_family": "buildpacks",
+  "pkg_id": "legacy_worker#github.com_dokku_dokku_plugins_buildpacks",
+  "pkg_name": "legacy_worker",
+  "pkg_type": "static",
+  "pkg_webpage": "https://dokku.com",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A docker-powered PaaS that helps you build and manage the lifecycle of applications",
+  "homepage": [
+    "https://dokku.com"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appengine",
+    "appengine_gopath",
+    "appengine_main",
+    "appengine_validation",
+    "archive_source",
+    "bundle",
+    "checktools",
+    "clear_source",
+    "cloudfunctions",
+    "cmd",
+    "compile",
+    "entrypoint",
+    "exploded_jar",
+    "firebaseangular",
+    "firebasebundle",
+    "firebasenextjs",
+    "firebasenx",
+    "flex",
+    "flex_entrypoint",
+    "flex_gomod",
+    "functions_framework",
+    "get_package",
+    "graalvm",
+    "gradle",
+    "label",
+    "legacy_worker",
+    "maven",
+    "native_image",
+    "npm",
+    "pnpm",
+    "preparer",
+    "pub",
+    "publisher",
+    "rails",
+    "rubygems",
+    "yarn"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/googlecloudplatform/buildpacks/@v/v0.0.0-20250717085109-244d162e4365.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250823224215-1fa72e39f6c3",
+  "version_upstream": "",
+  "bsum": "6ac758bccbb163bffd313911fc8a1e37c829f5c1b1dcaceaaca8af5a064a1d5b",
+  "build_date": "2025-08-31T04:08:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17352130458",
+  "build_id": "17352130458",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dokku/dokku/plugins/buildpacks/legacy_worker?tag=v0.0.0-20250823224215-1fa72e39f6c3-riscv64-Linux&download=legacy_worker.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "31043",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dokku/dokku/plugins/buildpacks/legacy_worker?tag=v0.0.0-20250823224215-1fa72e39f6c3-riscv64-Linux&download=legacy_worker",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dokku/dokku/plugins/buildpacks/legacy_worker:v0.0.0-20250823224215-1fa72e39f6c3-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dokku/dokku/plugins/buildpacks/legacy_worker",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dokku/dokku/plugins/buildpacks/legacy_worker?tag=v0.0.0-20250823224215-1fa72e39f6c3-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6e19d49cfc2c285101cd66530be9a270146b54c051b381afa6637c40b61624f6",
+  "size": "6.2 MB",
+  "size_raw": "6494904",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
