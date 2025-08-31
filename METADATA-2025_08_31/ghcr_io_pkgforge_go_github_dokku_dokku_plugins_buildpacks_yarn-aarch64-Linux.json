@@ -1,0 +1,99 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "yarn",
+  "pkg_family": "buildpacks",
+  "pkg_id": "yarn#github.com_dokku_dokku_plugins_buildpacks",
+  "pkg_name": "yarn",
+  "pkg_type": "static",
+  "pkg_webpage": "https://dokku.com",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A docker-powered PaaS that helps you build and manage the lifecycle of applications",
+  "homepage": [
+    "https://dokku.com"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "appengine",
+    "appengine_gopath",
+    "appengine_main",
+    "appengine_validation",
+    "archive_source",
+    "bundle",
+    "checktools",
+    "clear_source",
+    "cloudfunctions",
+    "cmd",
+    "compile",
+    "entrypoint",
+    "exploded_jar",
+    "firebaseangular",
+    "firebasebundle",
+    "firebasenextjs",
+    "firebasenx",
+    "flex",
+    "flex_entrypoint",
+    "flex_gomod",
+    "functions_framework",
+    "get_package",
+    "graalvm",
+    "gradle",
+    "label",
+    "legacy_worker",
+    "maven",
+    "native_image",
+    "npm",
+    "pnpm",
+    "preparer",
+    "pub",
+    "publisher",
+    "rails",
+    "rubygems",
+    "yarn"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/googlecloudplatform/buildpacks/@v/v0.0.0-20250717085109-244d162e4365.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250823224215-1fa72e39f6c3",
+  "version_upstream": "",
+  "bsum": "69280965616f48d40cb3d4d9b58add3f28050ada0cde68b33520f7de5814ca9d",
+  "build_date": "2025-08-31T04:13:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17352130458",
+  "build_id": "17352130458",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dokku/dokku/plugins/buildpacks/yarn?tag=v0.0.0-20250823224215-1fa72e39f6c3-aarch64-Linux&download=yarn.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "31043",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dokku/dokku/plugins/buildpacks/yarn?tag=v0.0.0-20250823224215-1fa72e39f6c3-aarch64-Linux&download=yarn",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dokku/dokku/plugins/buildpacks/yarn:v0.0.0-20250823224215-1fa72e39f6c3-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dokku/dokku/plugins/buildpacks/yarn",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dokku/dokku/plugins/buildpacks/yarn?tag=v0.0.0-20250823224215-1fa72e39f6c3-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "059348daf493d170de5eb158a3ab7e6b9d6c7b0119ee2f2c74e79e43b2e90b0f",
+  "size": "9.4 MB",
+  "size_raw": "9773664",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
