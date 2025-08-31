@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "verify_release",
+  "pkg_family": "armory-drive-log",
+  "pkg_id": "verify_release#github.com_usbarmory_armory_drive_log",
+  "pkg_name": "verify_release",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/usbarmory/armory-drive-log",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Armory-drive transparency log",
+  "homepage": [
+    "https://github.com/usbarmory/armory-drive-log"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "create_proofbundle",
+    "create_release",
+    "generate_keys",
+    "monitor",
+    "verify_release"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/usbarmory/armory-drive-log/@v/v0.0.0-20250828080636-6d83bf556d51.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250828080636-6d83bf556d51",
+  "version_upstream": "",
+  "bsum": "fe551b3f87236bd986efb7fe7097f27ccc085abe76525d0c53e5c2a01d3adbe7",
+  "build_date": "2025-08-31T05:45:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17352196417",
+  "build_id": "17352196417",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/usbarmory/armory-drive-log/verify_release?tag=v0.0.0-20250828080636-6d83bf556d51-loongarch64-Linux&download=verify_release.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/usbarmory/armory-drive-log/verify_release?tag=v0.0.0-20250828080636-6d83bf556d51-loongarch64-Linux&download=verify_release",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/usbarmory/armory-drive-log/verify_release:v0.0.0-20250828080636-6d83bf556d51-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/usbarmory/armory-drive-log/verify_release",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/usbarmory/armory-drive-log/verify_release?tag=v0.0.0-20250828080636-6d83bf556d51-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2d42fa3d55d2ae3f4326963783ceff898fa7cd0ff40f22e2a700ed7298d7ca05",
+  "size": "2.6 MB",
+  "size_raw": "2699520",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
