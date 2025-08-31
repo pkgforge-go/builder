@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "tldinfo",
+  "pkg_family": "tldinfo",
+  "pkg_id": "tldinfo#github.com_jakewilliami_tldinfo",
+  "pkg_name": "tldinfo",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/jakewilliami/tldinfo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A small command-line tool to provide basic information about a top-level domain (TLD",
+  "homepage": [
+    "https://github.com/jakewilliami/tldinfo"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cctldmissing",
+    "tldinfo",
+    "tldtypes",
+    "writetlds"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/jakewilliami/tldinfo/@v/v1.0.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.0",
+  "version_upstream": "",
+  "bsum": "1d69ab359a358d37f927d23dc554220e0bb0e41cdab3bd99341eea6b820bcf10",
+  "build_date": "2025-08-31T04:02:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17352131695",
+  "build_id": "17352131695",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jakewilliami/tldinfo/tldinfo?tag=v1.0.0-loongarch64-Linux&download=tldinfo.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jakewilliami/tldinfo/tldinfo?tag=v1.0.0-loongarch64-Linux&download=tldinfo",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/jakewilliami/tldinfo/tldinfo:v1.0.0-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/jakewilliami/tldinfo/tldinfo",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/jakewilliami/tldinfo/tldinfo?tag=v1.0.0-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5e6b18117b934e89b11901b17358526d1fafd7b9689f82b4742f60e94608e49c",
+  "size": "2.2 MB",
+  "size_raw": "2251960",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
