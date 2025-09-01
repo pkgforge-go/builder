@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "nomad_license_plugin",
+  "pkg_family": "enkit",
+  "pkg_id": "nomad_license_plugin#github.com_enfabrica_enkit",
+  "pkg_name": "nomad_license_plugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/enfabrica/enkit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Toolkit for lean builds and team management",
+  "homepage": [
+    "https://github.com/enfabrica/enkit"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "asset_downloader_test_util",
+    "bb_reporter",
+    "build_nark",
+    "cli",
+    "cmd",
+    "deploy",
+    "docker_events",
+    "enkit_credential_helper",
+    "faketree",
+    "go_extras",
+    "k8s_dummy",
+    "monitor",
+    "nomad_license_manage",
+    "nomad_license_plugin",
+    "remote_apis_build_demo",
+    "remote_asset_service",
+    "staco",
+    "template",
+    "validate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/enfabrica/enkit/@v/v0.0.0-20250830014157-13b13df0d043.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250830014157-13b13df0d043",
+  "version_upstream": "",
+  "bsum": "1a4c8e946286c269c1135b7255bedda15f03d55a3d96bdc477b22213ec9ff228",
+  "build_date": "2025-09-01T13:50:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17379128808",
+  "build_id": "17379128808",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/nomad_license_plugin?tag=v0.0.0-20250830014157-13b13df0d043-loongarch64-Linux&download=nomad_license_plugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "31",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/nomad_license_plugin?tag=v0.0.0-20250830014157-13b13df0d043-loongarch64-Linux&download=nomad_license_plugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/enfabrica/enkit/nomad_license_plugin:v0.0.0-20250830014157-13b13df0d043-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/enfabrica/enkit/nomad_license_plugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/nomad_license_plugin?tag=v0.0.0-20250830014157-13b13df0d043-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3b8b6bdb8aad42d573e963fc2ec113c921c8a92d2ae5e7c5fdc5709cc8aa6586",
+  "size": "30 MB",
+  "size_raw": "31093728",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250715223538-8d23a272914e-loongarch64-Linux",
+    "v0.0.0-20250814050907-b579d8892efe-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
