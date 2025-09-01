@@ -228327,6 +228327,16 @@
     "version": "v0.0.0-20250813145248-8aab1bf684fe"
   },
   {
+    "description": "Generate config package from launch YML file",
+    "name": "launch-gen",
+    "pkg_id": "launch-gen#github.com_clever_launch_gen",
+    "targets": [
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-01",
+    "version": "v0.0.0-20250825232720-fcca8f94b0fb"
+  },
+  {
     "description": "A Chrome DevTools Protocol driver for web automation and scraping.",
     "name": "launch-managed",
     "pkg_id": "launch-managed#github.com_go_rod_rod",
@@ -280553,6 +280563,16 @@
   {
     "description": "Sync bazel-generated proto sources to your workspace",
     "name": "pbsync",
+    "pkg_id": "pbsync#github.com_bduffany_pbsync",
+    "targets": [
+      "aarch64-Linux"
+    ],
+    "updated_at": "2025-09-01",
+    "version": "v0.0.0-20250512194248-e3ac8290c340"
+  },
+  {
+    "description": "Sync bazel-generated proto sources to your workspace",
+    "name": "pbsync",
     "pkg_id": "pbsync#github.com_buildbuddy_io_pbsync",
     "targets": [
       "aarch64-Linux",
@@ -330590,6 +330610,16 @@
     ],
     "updated_at": "2025-07-12",
     "version": "v0.0.0-20250508094026-645b1ee050d1"
+  },
+  {
+    "description": "Testing connection interruptions during Cilium upgrades",
+    "name": "server",
+    "pkg_id": "server#github.com_cilium_migrate_svc_test",
+    "targets": [
+      "aarch64-Linux"
+    ],
+    "updated_at": "2025-09-01",
+    "version": "v0.0.11"
   },
   {
     "description": "Go SDK for CloudEvents",
