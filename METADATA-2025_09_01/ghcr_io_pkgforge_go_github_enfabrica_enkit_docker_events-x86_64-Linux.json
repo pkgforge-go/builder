@@ -1,0 +1,85 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "docker_events",
+  "pkg_family": "enkit",
+  "pkg_id": "docker_events#github.com_enfabrica_enkit",
+  "pkg_name": "docker_events",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/enfabrica/enkit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Toolkit for lean builds and team management",
+  "homepage": [
+    "https://github.com/enfabrica/enkit"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "asset_downloader_test_util",
+    "bb_reporter",
+    "build_nark",
+    "cli",
+    "cmd",
+    "deploy",
+    "docker_events",
+    "enkit_credential_helper",
+    "faketree",
+    "go_extras",
+    "k8s_dummy",
+    "monitor",
+    "nomad_license_manage",
+    "nomad_license_plugin",
+    "remote_apis_build_demo",
+    "remote_asset_service",
+    "staco",
+    "template",
+    "validate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/enfabrica/enkit/@v/v0.0.0-20250830014157-13b13df0d043.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250830014157-13b13df0d043",
+  "version_upstream": "",
+  "bsum": "bc5feb44f5a46b9aa63cdffbc13b4750fe88a1d383d518bde7b558778433b91b",
+  "build_date": "2025-09-01T13:53:13Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17379128808",
+  "build_id": "17379128808",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/docker_events?tag=v0.0.0-20250830014157-13b13df0d043-x86_64-Linux&download=docker_events.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "31",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/docker_events?tag=v0.0.0-20250830014157-13b13df0d043-x86_64-Linux&download=docker_events",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/enfabrica/enkit/docker_events:v0.0.0-20250830014157-13b13df0d043-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/enfabrica/enkit/docker_events",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/docker_events?tag=v0.0.0-20250830014157-13b13df0d043-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "10b7df82100bdc8ecdf8f0230c814bfd0752a68cbeff91d62f4dcee4d715b400",
+  "size": "18 MB",
+  "size_raw": "18578528",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250715223538-8d23a272914e-x86_64-Linux",
+    "v0.0.0-20250814050907-b579d8892efe-x86_64-Linux"
+  ],
+  "trusted": "true"
+}

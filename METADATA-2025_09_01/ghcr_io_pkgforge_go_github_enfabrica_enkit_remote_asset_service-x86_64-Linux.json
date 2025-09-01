@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "remote_asset_service",
+  "pkg_family": "enkit",
+  "pkg_id": "remote_asset_service#github.com_enfabrica_enkit",
+  "pkg_name": "remote_asset_service",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/enfabrica/enkit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Toolkit for lean builds and team management",
+  "homepage": [
+    "https://github.com/enfabrica/enkit"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "asset_downloader_test_util",
+    "bb_reporter",
+    "build_nark",
+    "cli",
+    "cmd",
+    "deploy",
+    "docker_events",
+    "enkit_credential_helper",
+    "faketree",
+    "go_extras",
+    "k8s_dummy",
+    "monitor",
+    "nomad_license_manage",
+    "nomad_license_plugin",
+    "remote_apis_build_demo",
+    "remote_asset_service",
+    "staco",
+    "template",
+    "validate"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/enfabrica/enkit/@v/v0.0.0-20250830014157-13b13df0d043.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250830014157-13b13df0d043",
+  "version_upstream": "",
+  "bsum": "9f0820351c83414ea21473eda45014ac9dd6ef525cb7f7ebf803b6b6aae8ebf3",
+  "build_date": "2025-09-01T13:52:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17379128808",
+  "build_id": "17379128808",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/remote_asset_service?tag=v0.0.0-20250830014157-13b13df0d043-x86_64-Linux&download=remote_asset_service.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "31",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/remote_asset_service?tag=v0.0.0-20250830014157-13b13df0d043-x86_64-Linux&download=remote_asset_service",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/enfabrica/enkit/remote_asset_service:v0.0.0-20250830014157-13b13df0d043-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/enfabrica/enkit/remote_asset_service",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/enfabrica/enkit/remote_asset_service?tag=v0.0.0-20250830014157-13b13df0d043-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ca303bfe2e4b49582539e6c82e6dfc65c538ecac505444442dcd50d97c55232b",
+  "size": "22 MB",
+  "size_raw": "22222496",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
