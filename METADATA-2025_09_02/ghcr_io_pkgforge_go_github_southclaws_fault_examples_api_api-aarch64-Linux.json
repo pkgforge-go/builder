@@ -23,8 +23,7 @@
     "pkgforge-go (https://github.com/pkgforge-go/builder)"
   ],
   "provides": [
-    "api",
-    "api-cmd"
+    "api"
   ],
   "note": [
     "[EXTERNAL] (This is an Official but externally maintained repository)",
@@ -33,17 +32,17 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://proxy.golang.org/github.com/pakkudon/good-breads/api/@v/v0.0.0-20250702220432-12445f5c0183.zip"
+    "https://proxy.golang.org/github.com/southclaws/fault/examples/api/@v/v0.0.0-20250614212216-15e49aecd673.zip"
   ],
   "tag": [
     "Utility"
   ],
   "version": "v0.0.0-20250614212216-15e49aecd673",
   "version_upstream": "",
-  "bsum": "026cfb4c54557370d0455df9a8367d4c6c4b511a46c17b4df1ff108c6c24ac2c",
-  "build_date": "2025-09-02T09:48:26Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17398594426",
-  "build_id": "17398594426",
+  "bsum": "0dfe7a64799fdd3e4fca3b166b6616e7171abb1dce4a14a6e74c6f116a2ad861",
+  "build_date": "2025-09-02T11:14:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17400479385",
+  "build_id": "17400479385",
   "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/southclaws/fault/examples/api/api?tag=v0.0.0-20250614212216-15e49aecd673-aarch64-Linux&download=api.log",
   "deprecated": "false",
   "desktop_integration": "false",
@@ -56,10 +55,12 @@
   "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/southclaws/fault/examples/api/api?tag=v0.0.0-20250614212216-15e49aecd673-aarch64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "cdc1013204fe2ae47ac0f98d30396bc8ad7fe33d2239f2fd0d4c8785fbab933a",
-  "size": "7.2 MB",
-  "size_raw": "7484384",
+  "shasum": "5dae1b431841f6044979159304cc47e2bb00645fa6a2b1d2d069855b556eee1a",
+  "size": "7.0 MB",
+  "size_raw": "7255904",
   "soar_syms": "false",
-  "snapshots": [],
+  "snapshots": [
+    "v0.0.0-20250614212216-15e49aecd673-aarch64-Linux"
+  ],
   "trusted": "true"
 }
