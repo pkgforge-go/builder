@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "crasher",
+  "pkg_family": "ngolo-fuzzing",
+  "pkg_id": "crasher#github.com_catenacyber_ngolo_fuzzing",
+  "pkg_name": "crasher",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/catenacyber/ngolo-fuzzing",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Automatic fuzz targets generation for Golang packages",
+  "homepage": [
+    "https://github.com/catenacyber/ngolo-fuzzing"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "crasher",
+    "go114-fuzz-build",
+    "ngolo-fuzzing"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/catenacyber/ngolo-fuzzing/@v/v0.0.0-20250824190240-79fd7be1ebd2.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250824190240-79fd7be1ebd2",
+  "version_upstream": "",
+  "bsum": "73de9aedd3d4b004dc163edc9577ccc903f26e7dc9e2765c577eed785dbbb3b8",
+  "build_date": "2025-09-02T04:56:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17392790130",
+  "build_id": "17392790130",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/catenacyber/ngolo-fuzzing/crasher?tag=v0.0.0-20250824190240-79fd7be1ebd2-aarch64-Linux&download=crasher.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "53",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/catenacyber/ngolo-fuzzing/crasher?tag=v0.0.0-20250824190240-79fd7be1ebd2-aarch64-Linux&download=crasher",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/catenacyber/ngolo-fuzzing/crasher:v0.0.0-20250824190240-79fd7be1ebd2-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/catenacyber/ngolo-fuzzing/crasher",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/catenacyber/ngolo-fuzzing/crasher?tag=v0.0.0-20250824190240-79fd7be1ebd2-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5a96e1bf1b395f62e0bf0d8e195b61d4d0f869ac94554519dd09af62a7643cae",
+  "size": "1.2 MB",
+  "size_raw": "1185120",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
