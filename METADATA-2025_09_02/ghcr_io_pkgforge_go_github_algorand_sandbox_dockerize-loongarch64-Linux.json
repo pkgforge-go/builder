@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "dockerize",
+  "pkg_family": "sandbox",
+  "pkg_id": "dockerize#github.com_algorand_sandbox",
+  "pkg_name": "dockerize",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/algorand/sandbox",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Algorand node sandbox",
+  "homepage": [
+    "https://github.com/algorand/sandbox"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dockerize",
+    "expvars-export-vars-http",
+    "go-func-as-var",
+    "http-background-server",
+    "inheritance-override",
+    "range-nil-slice"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/egustafson/sandbox/@v/v0.0.0-20250901221255-15850982fc74.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250627155630-06f7c816db22",
+  "version_upstream": "",
+  "bsum": "f2f930e63e7bfc62ba33a9bb4236fa843a1adeb9c83b6dc8677c27fed39a15fd",
+  "build_date": "2025-09-02T05:40:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17393561175",
+  "build_id": "17393561175",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algorand/sandbox/dockerize?tag=v0.0.0-20250627155630-06f7c816db22-loongarch64-Linux&download=dockerize.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "240",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algorand/sandbox/dockerize?tag=v0.0.0-20250627155630-06f7c816db22-loongarch64-Linux&download=dockerize",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/algorand/sandbox/dockerize:v0.0.0-20250627155630-06f7c816db22-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/algorand/sandbox/dockerize",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algorand/sandbox/dockerize?tag=v0.0.0-20250627155630-06f7c816db22-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "430b882744e9b1a946e333a612edf35dd0a9a2c57574b52388c73e4cda2bd3ce",
+  "size": "5.7 MB",
+  "size_raw": "5927360",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
