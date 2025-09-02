@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "http-background-server",
+  "pkg_family": "sandbox",
+  "pkg_id": "http-background-server#github.com_algorand_sandbox",
+  "pkg_name": "http-background-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/algorand/sandbox",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Algorand node sandbox",
+  "homepage": [
+    "https://github.com/algorand/sandbox"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dockerize",
+    "expvars-export-vars-http",
+    "go-func-as-var",
+    "http-background-server",
+    "inheritance-override",
+    "range-nil-slice"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/egustafson/sandbox/@v/v0.0.0-20250901221255-15850982fc74.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250627155630-06f7c816db22",
+  "version_upstream": "",
+  "bsum": "091f34a271269bd4bfe331e1518cf0d175d342cc0884dda5232353ddb6af0c68",
+  "build_date": "2025-09-02T05:39:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17393561175",
+  "build_id": "17393561175",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algorand/sandbox/http-background-server?tag=v0.0.0-20250627155630-06f7c816db22-riscv64-Linux&download=http-background-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "240",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algorand/sandbox/http-background-server?tag=v0.0.0-20250627155630-06f7c816db22-riscv64-Linux&download=http-background-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/algorand/sandbox/http-background-server:v0.0.0-20250627155630-06f7c816db22-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/algorand/sandbox/http-background-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algorand/sandbox/http-background-server?tag=v0.0.0-20250627155630-06f7c816db22-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "daded03375ad8b1e0a83946e71bd9fc4fb79a0fa0ea14f9681c575312598255a",
+  "size": "5.6 MB",
+  "size_raw": "5843352",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
