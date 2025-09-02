@@ -23,8 +23,7 @@
     "pkgforge-go (https://github.com/pkgforge-go/builder)"
   ],
   "provides": [
-    "api",
-    "api-cmd"
+    "api"
   ],
   "note": [
     "[EXTERNAL] (This is an Official but externally maintained repository)",
@@ -33,17 +32,17 @@
     "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
   ],
   "src_url": [
-    "https://proxy.golang.org/github.com/pakkudon/good-breads/api/@v/v0.0.0-20250702220432-12445f5c0183.zip"
+    "https://proxy.golang.org/github.com/southclaws/fault/examples/api/@v/v0.0.0-20250614212216-15e49aecd673.zip"
   ],
   "tag": [
     "Utility"
   ],
   "version": "v0.0.0-20250614212216-15e49aecd673",
   "version_upstream": "",
-  "bsum": "b70368e41d1377a5b5ea3488ec78d9f143cda9f2b4abab1e7315f0f2fbd5a4d1",
-  "build_date": "2025-09-02T09:47:37Z",
-  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17398594426",
-  "build_id": "17398594426",
+  "bsum": "35387c949777b2e1943813166a0258755e4e7b76aefeb711198b9df5e60294bf",
+  "build_date": "2025-09-02T11:13:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17400479385",
+  "build_id": "17400479385",
   "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/southclaws/fault/examples/api/api?tag=v0.0.0-20250614212216-15e49aecd673-loongarch64-Linux&download=api.log",
   "deprecated": "false",
   "desktop_integration": "false",
@@ -56,10 +55,12 @@
   "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/southclaws/fault/examples/api/api?tag=v0.0.0-20250614212216-15e49aecd673-loongarch64-Linux&manifest",
   "portable": "true",
   "recurse_provides": "false",
-  "shasum": "013d1d27ed45fdd77dc03cd951d383786bf05f05a4cb6e95ec9f2202632bc9c4",
-  "size": "7.4 MB",
-  "size_raw": "7714944",
+  "shasum": "e72d1c73b70a857379c4ae049e6d984df6ea1fc0b6a18e30ea7fd5380aa680bb",
+  "size": "7.2 MB",
+  "size_raw": "7481120",
   "soar_syms": "false",
-  "snapshots": [],
+  "snapshots": [
+    "v0.0.0-20250614212216-15e49aecd673-loongarch64-Linux"
+  ],
   "trusted": "true"
 }
