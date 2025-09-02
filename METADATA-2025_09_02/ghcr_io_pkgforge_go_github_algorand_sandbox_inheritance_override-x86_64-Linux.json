@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "inheritance-override",
+  "pkg_family": "sandbox",
+  "pkg_id": "inheritance-override#github.com_algorand_sandbox",
+  "pkg_name": "inheritance-override",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/algorand/sandbox",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Algorand node sandbox",
+  "homepage": [
+    "https://github.com/algorand/sandbox"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dockerize",
+    "expvars-export-vars-http",
+    "go-func-as-var",
+    "http-background-server",
+    "inheritance-override",
+    "range-nil-slice"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/egustafson/sandbox/@v/v0.0.0-20250901221255-15850982fc74.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250627155630-06f7c816db22",
+  "version_upstream": "",
+  "bsum": "a4ab47209a1de666ee47f746b8a549490345e890d2afa98955a9269f6cc91f29",
+  "build_date": "2025-09-02T05:40:17Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17393561175",
+  "build_id": "17393561175",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algorand/sandbox/inheritance-override?tag=v0.0.0-20250627155630-06f7c816db22-x86_64-Linux&download=inheritance-override.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "240",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algorand/sandbox/inheritance-override?tag=v0.0.0-20250627155630-06f7c816db22-x86_64-Linux&download=inheritance-override",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/algorand/sandbox/inheritance-override:v0.0.0-20250627155630-06f7c816db22-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/algorand/sandbox/inheritance-override",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algorand/sandbox/inheritance-override?tag=v0.0.0-20250627155630-06f7c816db22-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5a6fc1d469ab4083ebfb1d5e2daa4f3af1f76a9f0d744efbdd1fb5a1651d2938",
+  "size": "1.7 MB",
+  "size_raw": "1719928",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
