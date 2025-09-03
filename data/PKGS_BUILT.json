@@ -34912,6 +34912,7 @@
     "name": "analyze",
     "pkg_id": "analyze#github.com_robertjanetzko_legendsbrowser2_analyze",
     "targets": [
+      "aarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -35552,6 +35553,19 @@
     ],
     "updated_at": "2025-08-14",
     "version": "v1.1.2"
+  },
+  {
+    "description": "AniList アカウント間でリストを同期するツール",
+    "name": "anilist-synchronizer",
+    "pkg_id": "anilist-synchronizer#github.com_slashnephy_anilist_synchronizer",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250813185204-5bd47f87a0ec"
   },
   {
     "description": "Go Language Library for SVG generation",
@@ -37589,7 +37603,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-09-02",
+    "updated_at": "2025-09-03",
     "version": "v0.0.0-20250614212216-15e49aecd673"
   },
   {
@@ -54892,6 +54906,19 @@
     "version": "HEAD-866247a-250626T201307"
   },
   {
+    "description": "Unique ID generator in distributed systems",
+    "name": "benchmarks",
+    "pkg_id": "benchmarks#github.com_ricardotlatelpa_uniqueidgen",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250709023430-cf43d78014cf"
+  },
+  {
     "description": "Gno: An interpreted, stack-based Go virtual machine to build succinct and composable apps + gno.land: a blockchain for timeless code and fair open-source.",
     "name": "benchops",
     "pkg_id": "benchops#github.com_gnolang_gno",
@@ -57603,6 +57630,19 @@
     ],
     "updated_at": "2025-06-23",
     "version": "HEAD-68825d7-250623T134352"
+  },
+  {
+    "description": "Learning, researching, playing around",
+    "name": "blob-reader",
+    "pkg_id": "blob-reader#github.com_fredrikaverpil_go_playground",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250601101430-d3e6f63dcf9d"
   },
   {
     "description": "No Description Provided",
@@ -67576,6 +67616,19 @@
     "version": "HEAD-acc3208-250625T221314"
   },
   {
+    "description": "Learning, researching, playing around",
+    "name": "cat",
+    "pkg_id": "cat#github.com_fredrikaverpil_go_playground",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250601101430-d3e6f63dcf9d"
+  },
+  {
     "description": "Fun with go",
     "name": "cat",
     "pkg_id": "cat#github.com_joaonsantos_goscripts_learning",
@@ -75453,6 +75506,19 @@
     ],
     "updated_at": "2025-07-02",
     "version": "v0.0.0-20250512025048-72f739dedb1d"
+  },
+  {
+    "description": "ChatGPT Demo with XSwitch.cn",
+    "name": "chatgpt",
+    "pkg_id": "chatgpt#github.com_rts_cn_chatgpt",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250322215221-4edfd3174285"
   },
   {
     "description": "Interact with ChatGPT directly from your command line",
@@ -83839,6 +83905,19 @@
     ],
     "updated_at": "2025-06-26",
     "version": "HEAD-0e98f9a-250625T175614"
+  },
+  {
+    "description": "Personal tools for project gemini protocol",
+    "name": "client",
+    "pkg_id": "client#github.com_romanthekat_gemini_tools",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250830154732-9961fccfea53"
   },
   {
     "description": "Plik is a temporary file upload system _Wetransfer like_ in Go.",
@@ -102938,6 +103017,19 @@
     "version": "v0.0.0-20250627082440-8dac779635ae"
   },
   {
+    "description": "Personal tools for project gemini protocol",
+    "name": "crawler",
+    "pkg_id": "crawler#github.com_romanthekat_gemini_tools",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250830154732-9961fccfea53"
+  },
+  {
     "description": "八股文代码爬虫工具，用于收集和整理各类（前后端、人工智能）编程面试题，所有数据统一存储在problem目录中",
     "name": "crawler-bagu",
     "pkg_id": "crawler-bagu#github.com_lyydsheep_crawler_bagu",
@@ -118753,6 +118845,19 @@
     "version": "HEAD-ab12610-250626T211522"
   },
   {
+    "description": "Learning, researching, playing around",
+    "name": "dedup",
+    "pkg_id": "dedup#github.com_fredrikaverpil_go_playground",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250601101430-d3e6f63dcf9d"
+  },
+  {
     "description": "A fast and memory-efficient golang tool for deduplicating URLs",
     "name": "dedupe",
     "pkg_id": "dedupe#github.com_0xpugal_dedupe",
@@ -120425,6 +120530,19 @@
     "version": "v0.0.0-20250704192111-38ade2d4e76b"
   },
   {
+    "description": "Learning, researching, playing around",
+    "name": "demo1",
+    "pkg_id": "demo1#github.com_fredrikaverpil_go_playground",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250601101430-d3e6f63dcf9d"
+  },
+  {
     "description": "Golangci-lint run with golang os/exec",
     "name": "demo1x",
     "pkg_id": "demo1x#github.com_go_mate_go_lint",
@@ -120449,6 +120567,19 @@
     ],
     "updated_at": "2025-09-01",
     "version": "v0.0.0-20250704192111-38ade2d4e76b"
+  },
+  {
+    "description": "Learning, researching, playing around",
+    "name": "demo2",
+    "pkg_id": "demo2#github.com_fredrikaverpil_go_playground",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250601101430-d3e6f63dcf9d"
   },
   {
     "description": "Golangci-lint run with golang os/exec",
@@ -185100,6 +185231,19 @@
     "version": "v0.1.0"
   },
   {
+    "description": "Default net/http wrapper to automatically generate RESTful API documentation with Swagger 2.0",
+    "name": "go-chi",
+    "pkg_id": "go-chi#github.com_swaggo_http_swagger_example_go_chi",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250902111949-1340604bd9f5"
+  },
+  {
     "description": "Playground for Go based experiments and tryouts",
     "name": "go-chi_docgen_test",
     "pkg_id": "go-chi_docgen_test#github.com_devisions_go_playground_go_chi_docgen_test",
@@ -199362,6 +199506,19 @@
     "version": "v0.0.0-20250812111359-7c2fb86a0f30"
   },
   {
+    "description": "Default net/http wrapper to automatically generate RESTful API documentation with Swagger 2.0",
+    "name": "gorilla",
+    "pkg_id": "gorilla#github.com_swaggo_http_swagger_example_gorilla",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250902111949-1340604bd9f5"
+  },
+  {
     "description": "Interview Learn in 24",
     "name": "gorilla-chat",
     "pkg_id": "gorilla-chat#github.com_mo3et_itv_learn_24_ws_gorilla_chat",
@@ -202926,7 +203083,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-08-22",
+    "updated_at": "2025-09-03",
     "version": "v0.0.0-20250821100454-4f83e4d936a2"
   },
   {
@@ -208082,6 +208239,19 @@
     ],
     "updated_at": "2025-06-26",
     "version": "HEAD-ca5dfa0-250626T095802"
+  },
+  {
+    "description": "Like which and whereis cli programs but prettier",
+    "name": "has",
+    "pkg_id": "has#github.com_soulsbane_has",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250526020354-65505d94ed65"
   },
   {
     "description": "This repository contains resources to help learn programming in Go (Golang",
@@ -216514,6 +216684,18 @@
     ],
     "updated_at": "2025-07-27",
     "version": "v0.0.0-20250726090022-1932ee23f311"
+  },
+  {
+    "description": "Simple Go HTTP proxy",
+    "name": "http-proxy",
+    "pkg_id": "http-proxy#github.com_stalkr_http_proxy",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250822115238-80bed8ef50c4"
   },
   {
     "description": "Katzenpost is a free and open source software project dedicated to researching and developing mix network protocols",
@@ -234076,6 +234258,19 @@
     "version": "HEAD-6ab7d8e-250625T155845"
   },
   {
+    "description": "Quarantine flaky Go tests",
+    "name": "junit-enhancer",
+    "pkg_id": "junit-enhancer#github.com_smartcontractkit_quarantine_cmd_junit_enhancer",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250902214633-ab77abce775c"
+  },
+  {
     "description": "Config Sync - used to sync Git, OCI and Helm charts to your clusters.",
     "name": "junit-report",
     "pkg_id": "junit-report#github.com_GoogleContainerTools_kpt_config_sync",
@@ -251199,6 +251394,19 @@
     "version": "v1.1.1"
   },
   {
+    "description": "Personal tools for project gemini protocol",
+    "name": "localclient",
+    "pkg_id": "localclient#github.com_romanthekat_gemini_tools",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250830154732-9961fccfea53"
+  },
+  {
     "description": "No Description Provided",
     "name": "localdev",
     "pkg_id": "localdev#github.com_stackrox_scanner",
@@ -251801,6 +252009,19 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.0.0-20250617170408-a55732ecab50"
+  },
+  {
+    "description": "Learning, researching, playing around",
+    "name": "log-reader",
+    "pkg_id": "log-reader#github.com_fredrikaverpil_go_playground",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250601101430-d3e6f63dcf9d"
   },
   {
     "description": "Host a basic auth web sever to share a temporary folder of files",
@@ -267490,6 +267711,19 @@
     "version": "v0.0.0-20250511052757-895b1c1f231b"
   },
   {
+    "description": "Task Manager Backend is implemented in this repositoty (tech stack golang). User can manage their daily life tasks. The purpose of this repository is to learn the code flow and best practices in golang",
+    "name": "migrations",
+    "pkg_id": "migrations#github.com_shumaimhaider_task_manager_backend",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250616085855-951bcea6bbe4"
+  },
+  {
     "description": "Telegram bot for webcasts alerts",
     "name": "migrator",
     "pkg_id": "migrator#github.com_bcmk_siren",
@@ -267981,6 +268215,19 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.0.0-20250623000633-228fdf26afc9"
+  },
+  {
+    "description": "A backup rotation tool for Minio backups created by the various minback containers",
+    "name": "minback-cleanup",
+    "pkg_id": "minback-cleanup#github.com_sierrasoftworks_minback_cleanup",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250814134658-32337c1a4563"
   },
   {
     "description": "Abstraction for fluid, transitive continuity",
@@ -277112,6 +277359,19 @@
     "version": "v0.0.0-20250715120344-fb28d5d2ce25"
   },
   {
+    "description": "Learning, researching, playing around",
+    "name": "mysql-xml-dump-reader",
+    "pkg_id": "mysql-xml-dump-reader#github.com_fredrikaverpil_go_playground",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250601101430-d3e6f63dcf9d"
+  },
+  {
     "description": "This is a simple tool to convert mysql database to markdown",
     "name": "mysql2md",
     "pkg_id": "mysql2md#github.com_jayecc_mysql2md",
@@ -279575,6 +279835,19 @@
     ],
     "updated_at": "2025-06-27",
     "version": "HEAD-59f2daa-250627T022507"
+  },
+  {
+    "description": "Learning, researching, playing around",
+    "name": "net-curl",
+    "pkg_id": "net-curl#github.com_fredrikaverpil_go_playground",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250601101430-d3e6f63dcf9d"
   },
   {
     "description": "🚀Gev is a lightweight, fast non-blocking TCP network library / websocket server based on Reactor mode. Support custom protocols to quickly and easily build high-performance servers.",
@@ -286570,7 +286843,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-09-02",
+    "updated_at": "2025-09-03",
     "version": "v0.0.1"
   },
   {
@@ -303611,6 +303884,19 @@
     ],
     "updated_at": "2025-06-22",
     "version": "HEAD-08d34a0-250428T082213"
+  },
+  {
+    "description": "Distributed Key Value Store in Go",
+    "name": "pithered",
+    "pkg_id": "pithered#github.com_st3v3nmw_pithered",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250125152128-e3b74c7f7a23"
   },
   {
     "description": "Percona Operator for MySQL based on Percona XtraDB Cluster",
@@ -327599,6 +327885,7 @@
     "name": "rebop-probe",
     "pkg_id": "rebop-probe#github.com_rebop_io_rebop_probe",
     "targets": [
+      "aarch64-Linux",
       "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
@@ -332786,6 +333073,19 @@
   {
     "description": "Random utilities",
     "name": "rename",
+    "pkg_id": "rename#github.com_shivansh_rewrite_rename",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250814110111-6b444facc837"
+  },
+  {
+    "description": "Random utilities",
+    "name": "rename",
     "pkg_id": "rename#github.com_shivansh_tmp_rename",
     "targets": [
       "aarch64-Linux",
@@ -333166,6 +333466,19 @@
     ],
     "updated_at": "2025-06-26",
     "version": "HEAD-6e743d6-250625T133342"
+  },
+  {
+    "description": "Random utilities",
+    "name": "reorder",
+    "pkg_id": "reorder#github.com_shivansh_rewrite_reorder",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250814110111-6b444facc837"
   },
   {
     "description": "A CLI tool to beautify JSON and output it to the clipboard or to a file",
@@ -339208,6 +339521,19 @@
     "version": "HEAD-379c6c7-250625T142450"
   },
   {
+    "description": "Task Manager Backend is implemented in this repositoty (tech stack golang). User can manage their daily life tasks. The purpose of this repository is to learn the code flow and best practices in golang",
+    "name": "routes",
+    "pkg_id": "routes#github.com_shumaimhaider_task_manager_backend",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250616085855-951bcea6bbe4"
+  },
+  {
     "description": "An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress",
     "name": "routesrv",
     "pkg_id": "routesrv#github.com_zalando_skipper",
@@ -342320,6 +342646,19 @@
     ],
     "updated_at": "2025-07-31",
     "version": "v0.2.0"
+  },
+  {
+    "description": "A utility tool for s3 bucket name generation",
+    "name": "s3flow",
+    "pkg_id": "s3flow#github.com_saeed0xf_s3flow",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250302174412-e9e296a35893"
   },
   {
     "description": "Fast, concurrent, streaming access to Amazon S3, including gof3r, a CLI. https://godoc.org/github.com/rlmcpherson/s3gof3r",
@@ -350861,6 +351200,19 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.0.0-20250617170408-a55732ecab50"
+  },
+  {
+    "description": "Learning, researching, playing around",
+    "name": "seq-workers",
+    "pkg_id": "seq-workers#github.com_fredrikaverpil_go_playground",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250601101430-d3e6f63dcf9d"
   },
   {
     "description": "Deep Learning framework for Go from scratch",
@@ -361528,7 +361880,9 @@
     "pkg_id": "simplepki#github.com_ricardobranco777_simplepki",
     "targets": [
       "aarch64-Linux",
-      "riscv64-Linux"
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-09-03",
     "version": "v0.0.0-20250815184722-0831fc65435f"
@@ -378837,6 +379191,19 @@
     ],
     "updated_at": "2025-06-30",
     "version": "v0.0.0-20250314112916-39a6976cb3a3"
+  },
+  {
+    "description": "Real World HTTP를 공부합니다",
+    "name": "study-real-world-http",
+    "pkg_id": "study-real-world-http#github.com_thisisnew_study_real_world_http",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250825121039-0a92afcfb523"
   },
   {
     "description": "Compress and embed static files and assets into Go binaries and access them with a virtual file system in production",
@@ -397721,6 +398088,19 @@
     "version": "v0.0.0-20250610033740-47096ee65a06"
   },
   {
+    "description": "JSON assets that are almost static for the TibiaData API",
+    "name": "tibiadata-api-assets",
+    "pkg_id": "tibiadata-api-assets#github.com_tibiadata_tibiadata_api_assets",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250827130747-926bbc81bc7b"
+  },
+  {
     "description": "Open source framework for processing, monitoring, and alerting on time series data",
     "name": "tickdoc",
     "pkg_id": "tickdoc#github.com_influxdata_kapacitor",
@@ -397771,6 +398151,19 @@
     ],
     "updated_at": "2025-06-30",
     "version": "v0.0.0-20250624205618-ea9fe3aa4a1c"
+  },
+  {
+    "description": "Learning, researching, playing around",
+    "name": "ticker-demo",
+    "pkg_id": "ticker-demo#github.com_fredrikaverpil_go_playground",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250601101430-d3e6f63dcf9d"
   },
   {
     "description": "Interview Learn in 24",
@@ -407692,6 +408085,19 @@
     "version": "HEAD-1546f12-211024T195047"
   },
   {
+    "description": "Client and a CLI interface to https://tureng.com",
+    "name": "tureng-cli",
+    "pkg_id": "tureng-cli#github.com_seruman_tureng_cli",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250816170710-e552ab274851"
+  },
+  {
     "description": "总结涵盖比较全面的golang基础使用,也会总结一些基本不错的代码",
     "name": "turinglock",
     "pkg_id": "turinglock#github.com_friendlyhank_gostudy",
@@ -411234,6 +411640,19 @@
     "version": "v0.0.0-20250523175645-996869a22f8a"
   },
   {
+    "description": "Unique ID generator in distributed systems",
+    "name": "uniqueidgen",
+    "pkg_id": "uniqueidgen#github.com_ricardotlatelpa_uniqueidgen",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250709023430-cf43d78014cf"
+  },
+  {
     "description": "Uniqush is a free and open source software system which provides a unified push service for server side notification to apps on mobile devices.",
     "name": "uniqush-push",
     "pkg_id": "uniqush-push#github.com_uniqush_uniqush_push",
@@ -413780,6 +414199,19 @@
     "version": "HEAD-9bfff2b-250623T031445"
   },
   {
+    "description": "A simple uptime monitor & backup script for my home setup",
+    "name": "uptime",
+    "pkg_id": "uptime#github.com_taiidani_uptime",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250820172346-cc010007e7c5"
+  },
+  {
     "description": "A fancy self-hosted monitoring tool",
     "name": "uptime-kuma-push",
     "pkg_id": "uptime-kuma-push#github.com_louislam_uptime_kuma",
@@ -414113,6 +414545,32 @@
     ],
     "updated_at": "2025-06-22",
     "version": "HEAD-0138b90-250313T125803"
+  },
+  {
+    "description": "A web crawler written in Go",
+    "name": "urlwalk",
+    "pkg_id": "urlwalk#github.com_root4loot_urlwalk",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250902180927-6d889d7ddf11"
+  },
+  {
+    "description": "A web crawler written in Go",
+    "name": "urlwalk-examples",
+    "pkg_id": "urlwalk-examples#github.com_root4loot_urlwalk",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250902180927-6d889d7ddf11"
   },
   {
     "description": "urlyzer is a URL parsing analysis tool.",
@@ -418079,6 +418537,58 @@
     "version": "v1.14.2"
   },
   {
+    "description": "Learning, researching, playing around",
+    "name": "variant0",
+    "pkg_id": "variant0#github.com_fredrikaverpil_go_playground",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250601101430-d3e6f63dcf9d"
+  },
+  {
+    "description": "Learning, researching, playing around",
+    "name": "variant1",
+    "pkg_id": "variant1#github.com_fredrikaverpil_go_playground",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250601101430-d3e6f63dcf9d"
+  },
+  {
+    "description": "Learning, researching, playing around",
+    "name": "variant2",
+    "pkg_id": "variant2#github.com_fredrikaverpil_go_playground",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250601101430-d3e6f63dcf9d"
+  },
+  {
+    "description": "Learning, researching, playing around",
+    "name": "variant3",
+    "pkg_id": "variant3#github.com_fredrikaverpil_go_playground",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250601101430-d3e6f63dcf9d"
+  },
+  {
     "description": "Tool to generate a report from payload jobs executed in a PR",
     "name": "variants",
     "pkg_id": "variants#github.com_bertinatto_testgrid",
@@ -421727,6 +422237,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-b03fd9e-250620T162834"
+  },
+  {
+    "description": "A command-line tool that generates captions for one or more images using a Vision Language Model",
+    "name": "vlm-image-captioner",
+    "pkg_id": "vlm-image-captioner#github.com_theryanhowell_vlm_image_captioner",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250902184637-baff8c8f874f"
   },
   {
     "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
@@ -431970,6 +432493,19 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.0.0-20250624141759-0b1e8e431ac6"
+  },
+  {
+    "description": "Learning, researching, playing around",
+    "name": "workers-pool",
+    "pkg_id": "workers-pool#github.com_fredrikaverpil_go_playground",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250601101430-d3e6f63dcf9d"
   },
   {
     "description": "Declarative Workflow of KubeVela which can run as standalone.",
