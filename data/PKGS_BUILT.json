@@ -33187,6 +33187,19 @@
     "version": "v0.3.0"
   },
   {
+    "description": "Lambdas created and used for mattemost cloud operations",
+    "name": "alert-elb-cloudwatch-alarm",
+    "pkg_id": "alert-elb-cloudwatch-alarm#github.com_mattermost_mattermost_cloud_lambdas_alert_elb_cloudwatch_alarm",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250804055810-edcd5b502a2b"
+  },
+  {
     "description": "Operator for Multi-Cluster Monitoring with Thanos",
     "name": "alert-forward",
     "pkg_id": "alert-forward#github.com_open_cluster_management_multicluster_monitoring_operator",
@@ -92713,6 +92726,18 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-11660f4-240402T122126"
+  },
+  {
+    "description": "CLI interface for De Lijn",
+    "name": "commandlijn",
+    "pkg_id": "commandlijn#github.com_kaya_sem_commandlijn",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250728214346-f2b9d82620b1"
   },
   {
     "description": "Launch robotmon service background, and debug tools for developing scripts",
@@ -196681,6 +196706,19 @@
     "version": "v0.0.0-20250510145536-1a5300513591"
   },
   {
+    "description": "Go语言101 : 一个与时俱进的Go编程知识库",
+    "name": "golang101",
+    "pkg_id": "golang101#github.com_golang101_golang101",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v1.25.0"
+  },
+  {
     "description": "Anything I didn't know about go with Java, Python, Groovy, C, C++ background",
     "name": "golang_gotchas-github",
     "pkg_id": "golang_gotchas-github#github.com_framps_golang_gotchas",
@@ -199824,7 +199862,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-08-16",
+    "updated_at": "2025-09-03",
     "version": "v0.0.0-20250815123013-a9b87c188b87"
   },
   {
@@ -368934,6 +368972,19 @@
     "version": "HEAD-467916e-240322T170109"
   },
   {
+    "description": "SourcePoint is a C2 profile generator for Cobalt Strike command and control servers designed to ensure evasion",
+    "name": "sourcepoint",
+    "pkg_id": "sourcepoint#github.com_0xflagplz_sourcepoint",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250411145652-586bbc8d0f47"
+  },
+  {
     "description": "Error handling library with context, assertion, stack trace and source fragments",
     "name": "sources",
     "pkg_id": "sources#github.com_samber_oops_examples_sources",
@@ -415946,6 +415997,19 @@
     ],
     "updated_at": "2025-06-26",
     "version": "HEAD-7a934d8-250625T085147"
+  },
+  {
+    "description": "A very simple deployment tool, like Ansible, but for running bash commands",
+    "name": "usup",
+    "pkg_id": "usup#github.com_lifailon_usup",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-03",
+    "version": "v0.0.0-20250714232925-2f1932b73abd"
   },
   {
     "description": "Usurp is a command shim to assume an AWS role",
