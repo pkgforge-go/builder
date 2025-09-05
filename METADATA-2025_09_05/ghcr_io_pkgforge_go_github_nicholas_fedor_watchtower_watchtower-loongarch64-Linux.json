@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "watchtower",
+  "pkg_family": "watchtower",
+  "pkg_id": "watchtower#github.com_nicholas_fedor_watchtower",
+  "pkg_name": "watchtower",
+  "pkg_type": "static",
+  "pkg_webpage": "http://watchtower.nickfedor.com/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Automate Docker container image updates",
+  "homepage": [
+    "http://watchtower.nickfedor.com/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "tplprev",
+    "watchtower"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/nicholas-fedor/watchtower/@v/v1.11.8.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.11.8",
+  "version_upstream": "",
+  "bsum": "b497ee08b167081c721048c2b6ce89503e49d045477ebe4aac4f7f5bd60d7494",
+  "build_date": "2025-09-05T15:53:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17497740763",
+  "build_id": "17497740763",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nicholas-fedor/watchtower/watchtower?tag=v1.11.8-loongarch64-Linux&download=watchtower.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "238",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nicholas-fedor/watchtower/watchtower?tag=v1.11.8-loongarch64-Linux&download=watchtower",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nicholas-fedor/watchtower/watchtower:v1.11.8-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nicholas-fedor/watchtower/watchtower",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nicholas-fedor/watchtower/watchtower?tag=v1.11.8-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1fb1d3121332ced2d3acfd552bb29751d94570af5941509706e3ac45bf692f7f",
+  "size": "17 MB",
+  "size_raw": "17015840",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
