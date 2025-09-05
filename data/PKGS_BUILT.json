@@ -120658,6 +120658,19 @@
     "version": "HEAD-abd87d8-250513T175836"
   },
   {
+    "description": "A Go library for loading configuration from multiple sources with priority-based merging: YAML files, local overrides, and environment variables",
+    "name": "demo",
+    "pkg_id": "demo#github.com_tendant_yamlenv",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-05",
+    "version": "v0.0.3"
+  },
+  {
     "description": "GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️",
     "name": "demo",
     "pkg_id": "demo#github.com_thomaspoignant_go_feature_flag",
@@ -120669,6 +120682,19 @@
     ],
     "updated_at": "2025-06-22",
     "version": "HEAD-3fc575f-250620T093718"
+  },
+  {
+    "description": "A Go library for loading configuration from multiple sources with priority-based merging: YAML files, local overrides, and environment variables",
+    "name": "demo-embed",
+    "pkg_id": "demo-embed#github.com_tendant_yamlenv",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-05",
+    "version": "v0.0.3"
   },
   {
     "description": "Flexible, extensible, and scalable video game matchmaking",
@@ -137628,6 +137654,19 @@
     "version": "HEAD-14ab44b-250623T143835"
   },
   {
+    "description": "ElasticSearch nodestats exporter for Prometheus",
+    "name": "elasticsearch_exporter",
+    "pkg_id": "elasticsearch_exporter#github.com_vad_elasticsearch_exporter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-05",
+    "version": "v0.7.1"
+  },
+  {
     "description": "A Go _golang_ based Elasticsearch client library.",
     "name": "elastigo",
     "pkg_id": "elastigo#github.com_mattbaird_elastigo",
@@ -150308,7 +150347,10 @@
     "name": "external",
     "pkg_id": "external#github.com_stuartdd_gowebapp_external",
     "targets": [
-      "loongarch64-Linux"
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-09-05",
     "version": "v0.0.0-20250904154837-b612759daf39"
@@ -189231,6 +189273,19 @@
     "version": "v0.0.0-20250313111009-69e37ca3f36d"
   },
   {
+    "description": "Go Proxy provides a CLI tool that creates a proxy server",
+    "name": "go-proxy",
+    "pkg_id": "go-proxy#github.com_whoant_go_proxy",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-05",
+    "version": "v1.1.0"
+  },
+  {
     "description": "Simple Reverse Proxy with Caching, written in Go, using Redis.",
     "name": "go-proxy-cache",
     "pkg_id": "go-proxy-cache#github.com_fabiocicerchia_go_proxy_cache",
@@ -208999,6 +209054,18 @@
     ],
     "updated_at": "2025-06-27",
     "version": "HEAD-75b37f8-250627T024905"
+  },
+  {
+    "description": "Redis scan tool",
+    "name": "harvester",
+    "pkg_id": "harvester#github.com_yedamao_harvester",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-05",
+    "version": "v0.0.0-20250904033449-4ec87b1dcc0e"
   },
   {
     "description": "No Description Provided",
@@ -236205,6 +236272,18 @@
     "version": "v0.0.0-20250707135956-bd0d662e989d"
   },
   {
+    "description": "Mirror of https://github.com/NVIDIA/k8s-driver-managerFor all contribution or issues please refer to https://github.com/NVIDIA/k8s-driver-manager/issues",
+    "name": "k8s-driver-manager",
+    "pkg_id": "k8s-driver-manager#gitlab.com_nvidia_cloud_native_k8s_driver_manager",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-05",
+    "version": "v0.8.1"
+  },
+  {
     "description": "Automating DDNS using Duck DNS ORG and Kubernetes",
     "name": "k8s-duckdns-cmd",
     "pkg_id": "k8s-duckdns-cmd#github.com_binodluitel_k8s_duckdns",
@@ -240630,6 +240709,19 @@
     ],
     "updated_at": "2025-08-16",
     "version": "v1.0.6"
+  },
+  {
+    "description": "Dumberer scat clone and testling sub",
+    "name": "kpow",
+    "pkg_id": "kpow#github.com_thewhodidthis_kpow",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-05",
+    "version": "v0.0.0-20250904044903-0358445aba16"
   },
   {
     "description": "ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",
@@ -278924,6 +279016,19 @@
     "version": "HEAD-16bedff-181118T153912"
   },
   {
+    "description": "Checking CloudFlare DNS",
+    "name": "nagios_check_dns_cloudflare",
+    "pkg_id": "nagios_check_dns_cloudflare#github.com_ymkatz_nagios_check_dns_cloudflare",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-05",
+    "version": "v1.1.0"
+  },
+  {
     "description": "Naiserator creates a full set of Kubernetes application infrastructure based on a single application spec.",
     "name": "naiserator",
     "pkg_id": "naiserator#github.com_nais_naiserator",
@@ -305961,6 +306066,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-4eef80a-250618T145406"
+  },
+  {
+    "description": "Redis scan tool",
+    "name": "planter",
+    "pkg_id": "planter#github.com_yedamao_harvester",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-05",
+    "version": "v0.0.0-20250904033449-4ec87b1dcc0e"
   },
   {
     "description": "Command line util to generate plantuml output via remote/local plantuml service",
@@ -387833,6 +387951,7 @@
     "name": "tcplistener",
     "pkg_id": "tcplistener#github.com_troliosfg_http_go",
     "targets": [
+      "aarch64-Linux",
       "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
@@ -412240,6 +412359,7 @@
     "name": "udpsender",
     "pkg_id": "udpsender#github.com_troliosfg_http_go",
     "targets": [
+      "aarch64-Linux",
       "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
@@ -429966,6 +430086,19 @@
     ],
     "updated_at": "2025-07-26",
     "version": "v0.0.0-20250724152156-7f48445f6eb9"
+  },
+  {
+    "description": "File browser for the web",
+    "name": "weblist",
+    "pkg_id": "weblist#github.com_umputun_weblist",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-05",
+    "version": "v0.14.3"
   },
   {
     "description": "Add, remove, and manage different versions of web-distributed software binaries. No elevated permissions required!",
