@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "watchtower",
+  "pkg_family": "watchtower",
+  "pkg_id": "watchtower#github.com_nicholas_fedor_watchtower",
+  "pkg_name": "watchtower",
+  "pkg_type": "static",
+  "pkg_webpage": "http://watchtower.nickfedor.com/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Automate Docker container image updates",
+  "homepage": [
+    "http://watchtower.nickfedor.com/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "tplprev",
+    "watchtower"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/nicholas-fedor/watchtower/@v/v1.11.8.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.11.8",
+  "version_upstream": "",
+  "bsum": "2bbc8d98ba624963bf42546c6ba25f017a1198b8ec6b6ea8723eb50a229a44f8",
+  "build_date": "2025-09-05T15:52:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17497740763",
+  "build_id": "17497740763",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nicholas-fedor/watchtower/watchtower?tag=v1.11.8-riscv64-Linux&download=watchtower.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "238",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nicholas-fedor/watchtower/watchtower?tag=v1.11.8-riscv64-Linux&download=watchtower",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nicholas-fedor/watchtower/watchtower:v1.11.8-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nicholas-fedor/watchtower/watchtower",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nicholas-fedor/watchtower/watchtower?tag=v1.11.8-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "105a932e9f9c4940d7ebec7e40917f4fdfbb4b53c177a5cfa5bb351aa9b1423a",
+  "size": "17 MB",
+  "size_raw": "16832648",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
