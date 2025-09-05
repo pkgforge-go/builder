@@ -721,6 +721,7 @@
 - 🐹 **[flox](https://flox.dev)**: Developer environments you can take with you.
 - 🐹 **[redis_exporter](https://github.com/oliver006/redis_exporter)**: Prometheus Exporter for Valkey & Redis Metrics.
 - 🐹 **[pingtunnel](https://github.com/esrrhs/pingtunnel)**: Pingtunnel is a tool that send TCP/UDP traffic over ICMP.
+- 🐹 **[cloud-init](https://cloud-init.io/)**: Official upstream for the cloud-init: cloud instance initialization.
 - 🐹 **[geany](https://www.geany.org)**: A fast and lightweight IDE.
 - 🐹 **[go](https://docs.microsandbox.dev)**: Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code.
 - 🐹 **[devel](https://github.com/nvidia/k8s-device-plugin)**: NVIDIA device plugin for Kubernetes.
@@ -1902,6 +1903,7 @@
 - 🐹 **[sonarlint-core](https://github.com/sonarsource/sonarlint-core)**: Core library to run SonarLint analysis.
 - 🐹 **[thanos](https://github.com/efficientgo/e2e)**: Robust framework for running complex workload scenarios in isolation, using Go; for integration, e2e tests, benchmarks and more.
 - 🐹 **[tools](https://github.com/metal3-io/cluster-api-provider-metal3)**: Metal³ integration with https://github.
+- 🐹 **[watchtower](http://watchtower.nickfedor.com/)**: Automate Docker container image updates.
 - 🐹 **[redwood](https://github.com/andybalholm/redwood)**: Web content filter that runs as an HTTP proxy.
 - 🐹 **[app](https://github.com/pulumi/automation-api-examples)**: Examples for the Pulumi Automation API https://pkg.
 - 🐹 **[app](https://github.com/pulumi/automation-api-examples)**: Examples for the Pulumi Automation API https://pkg.
@@ -3133,6 +3135,7 @@
 - 🐹 **[generator](https://registry.terraform.io/providers/northwood-labs/corefunc)**: Utilities that should have been Terraform core functions.
 - 🐹 **[gh-dependabot](https://github.com/einride/gh-dependabot)**: GitHub CLI extension for reviewing Dependabot PRs.
 - 🐹 **[gotv](https://github.com/go101/gotv)**: A tool used to manage installations of multiple Go toolchain versions.
+- 🐹 **[hashira](https://hashira-web.web.app)**: One of a great ToDo manage application for me.
 - 🐹 **[hostsman-portable](https://portapps.io/app/hostsman-portable/)**: Hostsman portable for Windows.
 - 🐹 **[incubator-seata-go-samples](https://seata.apache.org/)**: Samples for seata-go.
 - 🐹 **[kogen](https://github.com/kovetskiy/ko/cmd/kogen)**: Golang package for working with configs in any format.
