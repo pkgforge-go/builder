@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "grpc-lb-test",
+  "pkg_id": "server#github.com_prochac_grpc_lb_test",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/prochac/grpc-lb-test",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "GRPC service to test your load-balancing",
+  "homepage": [
+    "https://github.com/prochac/grpc-lb-test"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/prochac/grpc-lb-test/@v/v0.0.2.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.2",
+  "version_upstream": "",
+  "bsum": "28309102f755eada5758b6afbe470548f1e8af6bde2682f44d96e52d303cbac9",
+  "build_date": "2025-09-05T04:20:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17483125514",
+  "build_id": "17483125514",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prochac/grpc-lb-test/server?tag=v0.0.2-aarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prochac/grpc-lb-test/server?tag=v0.0.2-aarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/prochac/grpc-lb-test/server:v0.0.2-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/prochac/grpc-lb-test/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prochac/grpc-lb-test/server?tag=v0.0.2-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f0c9739add25257a7b7f5a0e078fc1b751160af0f2b79f65794270be13bccd08",
+  "size": "11 MB",
+  "size_raw": "11304832",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
