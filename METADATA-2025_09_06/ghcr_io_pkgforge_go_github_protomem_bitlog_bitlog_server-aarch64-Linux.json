@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "bitlog-server",
+  "pkg_family": "bitlog",
+  "pkg_id": "bitlog-server#github.com_protomem_bitlog",
+  "pkg_name": "bitlog-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/protomem/bitlog",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Bitcask storage with redis compatible protocol",
+  "homepage": [
+    "https://github.com/protomem/bitlog"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bitlog-ctl",
+    "bitlog-server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/protomem/bitlog/@v/v0.0.0-20250902152445-e75e2be2802a.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250902152445-e75e2be2802a",
+  "version_upstream": "",
+  "bsum": "7b816f017cae7e5117713e5d2dddcf51305d0af5d89ba478bbba7bc675f7fbab",
+  "build_date": "2025-09-06T04:11:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17509517426",
+  "build_id": "17509517426",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/protomem/bitlog/bitlog-server?tag=v0.0.0-20250902152445-e75e2be2802a-aarch64-Linux&download=bitlog-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/protomem/bitlog/bitlog-server?tag=v0.0.0-20250902152445-e75e2be2802a-aarch64-Linux&download=bitlog-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/protomem/bitlog/bitlog-server:v0.0.0-20250902152445-e75e2be2802a-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/protomem/bitlog/bitlog-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/protomem/bitlog/bitlog-server?tag=v0.0.0-20250902152445-e75e2be2802a-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e5dbcefff79afa7e381a4ac6e16569ca55fb0b33dfc7a0bda54906545c21125d",
+  "size": "1.7 MB",
+  "size_raw": "1738328",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
