@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "usrp-bridge",
+  "pkg_family": "usrp-go",
+  "pkg_id": "usrp-bridge#github.com_dbehnke_usrp_go",
+  "pkg_name": "usrp-bridge",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dbehnke/usrp-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library implementing the USRP protocol for AllStarLink amateur radio systems",
+  "homepage": [
+    "https://github.com/dbehnke/usrp-go"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "audio-bridge",
+    "audio-router",
+    "discord-bridge",
+    "examples",
+    "usrp-bridge"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/dbehnke/usrp-go/@v/v0.0.0-20250905023614-0bae2f587342.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250905023614-0bae2f587342",
+  "version_upstream": "",
+  "bsum": "0abe5895ee103faea9c6e8a6983432d56f66d9b7db2c5aeac77c68d3c1bb26d3",
+  "build_date": "2025-09-06T03:41:59Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17509477609",
+  "build_id": "17509477609",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dbehnke/usrp-go/usrp-bridge?tag=v0.0.0-20250905023614-0bae2f587342-riscv64-Linux&download=usrp-bridge.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dbehnke/usrp-go/usrp-bridge?tag=v0.0.0-20250905023614-0bae2f587342-riscv64-Linux&download=usrp-bridge",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dbehnke/usrp-go/usrp-bridge:v0.0.0-20250905023614-0bae2f587342-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dbehnke/usrp-go/usrp-bridge",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dbehnke/usrp-go/usrp-bridge?tag=v0.0.0-20250905023614-0bae2f587342-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ef75ae45c72711ffe26a91f25eaedfdeefb59784d73b00ee8350de907492bb85",
+  "size": "3.0 MB",
+  "size_raw": "3098136",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

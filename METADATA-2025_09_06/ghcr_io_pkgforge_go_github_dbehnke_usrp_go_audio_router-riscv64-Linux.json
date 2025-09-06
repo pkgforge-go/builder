@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "audio-router",
+  "pkg_family": "usrp-go",
+  "pkg_id": "audio-router#github.com_dbehnke_usrp_go",
+  "pkg_name": "audio-router",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dbehnke/usrp-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go library implementing the USRP protocol for AllStarLink amateur radio systems",
+  "homepage": [
+    "https://github.com/dbehnke/usrp-go"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "audio-bridge",
+    "audio-router",
+    "discord-bridge",
+    "examples",
+    "usrp-bridge"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/dbehnke/usrp-go/@v/v0.0.0-20250905023614-0bae2f587342.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250905023614-0bae2f587342",
+  "version_upstream": "",
+  "bsum": "e548e1f034a9d175c03e57597b3fd0d86284e4b6b45f7f364511400770ed8e04",
+  "build_date": "2025-09-06T03:42:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17509477609",
+  "build_id": "17509477609",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dbehnke/usrp-go/audio-router?tag=v0.0.0-20250905023614-0bae2f587342-riscv64-Linux&download=audio-router.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dbehnke/usrp-go/audio-router?tag=v0.0.0-20250905023614-0bae2f587342-riscv64-Linux&download=audio-router",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dbehnke/usrp-go/audio-router:v0.0.0-20250905023614-0bae2f587342-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dbehnke/usrp-go/audio-router",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dbehnke/usrp-go/audio-router?tag=v0.0.0-20250905023614-0bae2f587342-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7ced0b450c0d5fd3cade5ee3d4ff3c7ae7d5d5f4d4cd036cc27a1e5bdcf09a2e",
+  "size": "6.2 MB",
+  "size_raw": "6465320",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
