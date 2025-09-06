@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "acme-account-creation-tool",
+  "pkg_family": "acme-account-creation-tool",
+  "pkg_id": "acme-account-creation-tool#github.com_ibm_cloud_security_acme_account_creation_tool",
+  "pkg_name": "acme-account-creation-tool",
+  "pkg_type": "static",
+  "pkg_webpage": "https://cloud.ibm.com/docs/secrets-manager",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Utility to create or retrieve an account with certificate authorities that support the Automatic Certificate Management Environment (ACME) protocol",
+  "homepage": [
+    "https://cloud.ibm.com/docs/secrets-manager"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "acme-account-creation-tool"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/ibm-cloud-security/acme-account-creation-tool/@v/v0.0.0-20250901181059-f7fe5063cda3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250901181059-f7fe5063cda3",
+  "version_upstream": "",
+  "bsum": "b5b94897de676ee3e4634ca7a500b4b4308e76f3caa36518c9afe2da2823e7fd",
+  "build_date": "2025-09-06T03:51:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17509480927",
+  "build_id": "17509480927",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ibm-cloud-security/acme-account-creation-tool/acme-account-creation-tool?tag=v0.0.0-20250901181059-f7fe5063cda3-riscv64-Linux&download=acme-account-creation-tool.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ibm-cloud-security/acme-account-creation-tool/acme-account-creation-tool?tag=v0.0.0-20250901181059-f7fe5063cda3-riscv64-Linux&download=acme-account-creation-tool",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ibm-cloud-security/acme-account-creation-tool/acme-account-creation-tool:v0.0.0-20250901181059-f7fe5063cda3-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ibm-cloud-security/acme-account-creation-tool/acme-account-creation-tool",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ibm-cloud-security/acme-account-creation-tool/acme-account-creation-tool?tag=v0.0.0-20250901181059-f7fe5063cda3-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "3e83a60e850936d57b440d258434642c2739f791580d2a914891985752a8c450",
+  "size": "7.3 MB",
+  "size_raw": "7587752",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
