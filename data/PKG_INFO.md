@@ -415,6 +415,7 @@
 - 🐹 **[soak](https://karpenter.sh)**: Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - 🐹 **[tests](https://chain.link)**: Node of the decentralized oracle network, bridging on and off-chain computation.
 - 🐹 **[prompt-template-example](https://tmc.github.io/langchaingo/)**: LangChain for Go, the easiest way to write LLM-based programs in Go.
+- 🐹 **[non-streaming-tts](https://k2-fsa.github.io/sherpa/onnx/index.html)**: Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection.
 - 🐹 **[chaos-mesh](https://chaos-mesh.org)**: A Chaos Engineering Platform for Kubernetes.
 - 🐹 **[bup](https://bup.github.io/)**: Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images).
 - 🐹 **[repl](https://expr-lang.org)**: Expression language and expression evaluation for Go.
@@ -1930,6 +1931,7 @@
 - 🐹 **[go_workflow](https://github.com/temporalio/samples-python)**: Samples for working with the Temporal Python SDK.
 - 🐹 **[libtailscale](https://github.com/tailscale/libtailscale)**: Tailscale C library.
 - 🐹 **[keep-sorted](https://github.com/google/keep-sorted)**: Keep-sorted is a language-agnostic formatter that sorts lines between two markers in a larger file.
+- 🐹 **[rrda](https://www.statdns.com)**: REST API allowing to perform DNS queries over HTTP.
 - 🐹 **[try-playwright](https://try.playwright.tech)**: Try Playwright lets you execute and share Playwright scripts in your browser to get started with Playwright.
 - 🐹 **[dragonfly-operator](https://www.dragonflydb.io/docs/managing-dragonfly/operator/installation)**: A Kubernetes operator to install and manage Dragonfly instances.
 - 🐹 **[proto](https://cloud.google.com/solutions/healthcare-life-sciences)**: This is an engine that converts data of one structure to another, based on a configuration file which describes how.
@@ -1977,6 +1979,7 @@
 - 🐹 **[cli](https://www.jetbrains.com/help/qodana/getting-started.html)**: JetBrains Qodana’s official command line tool.
 - 🐹 **[differ](https://ssvlabs.io)**: Secret-Shared-Validator(SSV) for ethereum staking.
 - 🐹 **[muxchain](https://github.com/stephens2424/muxchain)**: Lightweight Middleware for net/http.
+- 🐹 **[qodana-cli](https://www.jetbrains.com/help/qodana/getting-started.html)**: JetBrains Qodana’s official command line tool.
 - 🐹 **[skylighting](https://github.com/jgm/skylighting)**: A Haskell syntax highlighting library with tokenizers derived from KDE syntax highlighting descriptions.
 - 🐹 **[clickhouse-flamegraph](https://github.com/slach/clickhouse-flamegraph)**: CLI utility for build flamegraph based on system.
 - 🐹 **[compy](https://github.com/barnacs/compy)**: HTTP/HTTPS compression proxy.
@@ -2352,6 +2355,7 @@
 - 🐹 **[helm-playground](https://helm-playground.com)**: Interactive site to debug Helm templating (& syntax cheatsheet.
 - 🐹 **[nlp](https://github.com/ardanlabs/practical-go)**: This repo contains the material for the Practical Go class.
 - 🐹 **[sshd-lite](https://github.com/jpillora/sshd-lite)**: A feature-light sshd(8) for Windows, Mac, and Linux written in Go.
+- 🐹 **[bafi](https://mmalcek.github.io/bafi/)**: Universal JSON, BSON, YAML, CSV, XML, mt940 converter with templates.
 - 🐹 **[maprange](https://allora.network)**: The Allora Network base network node.
 - 🐹 **[mapshot](https://github.com/palats/mapshot)**: Factorio mod to export maps as zoomable html.
 - 🐹 **[citellus](https://risuorg.github.io)**: Automation Troubleshooting Framework to validate  and report configuration, software installed, etc with bash, python, and your language of choice.
@@ -3446,6 +3450,7 @@
 - 🐹 **[lorca](https://github.com/tayron/go-lang-estudos)**: Vários exemplos de uso de recurso da linhagem de programação GO Lang.
 - 🐹 **[makefile](https://github.com/tayron/go-lang-estudos)**: Vários exemplos de uso de recurso da linhagem de programação GO Lang.
 - 🐹 **[managed-velero-operator](https://github.com/openshift/managed-velero-operator)**: Operator to manage installation of Velero in OpenShift Managed environments.
+- 🐹 **[mast-cli](https://github.com/stevedylandev/mast-cli)**: A simple TUI for sending casts.
 - 🐹 **[memsparkline](https://github.com/dbohdan/memsparkline)**: Track the RAM usage of a process and its descendants in real time.
 - 🐹 **[node-agent](https://github.com/open-edge-platform/edge-node-agents)**: Agents installed as system services in the Edge Node OS.
 - 🐹 **[nzbget-exporter](https://github.com/frebib/nzbget-exporter)**: NZBGet Prometheus metrics exporter.
@@ -3668,6 +3673,7 @@
 - 🐹 **[tenancy-api-mapping](https://docs.openedgeplatform.intel.com/edge-manage-docs)**: Utilities of Edge Manageability Framework Orchestrator.
 - 🐹 **[terraform-credentials-keychain](https://github.com/bendrucker/terraform-credentials-keychain)**: A Terraform credentials helper that stores your credentials in the system keychain.
 - 🐹 **[terraform-provider-baiducloud](https://www.terraform.io/docs/providers/baiducloud/)**: Terraform provider for BaiduCloud.
+- 🐹 **[test-infra](https://aws-controllers-k8s.github.io/community/)**: Testing framework for AWS Controllers for Kubernetes (ACK.
 - 🐹 **[tower](https://github.com/webx-top/tower)**: 基于反向代理的Golang即时编译工具，可在生产环境下无缝切换到新版本.
 - 🐹 **[v2](https://github.com/dirien/pulumi-vultr)**: Pulumi provider for Vultr.
 - 🐹 **[v3](https://github.com/pulumi/pulumi-auth0)**: An auth0Pulumi resource package, providing multi-language access to Auth0.
