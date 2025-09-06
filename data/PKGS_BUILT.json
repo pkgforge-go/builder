@@ -29011,6 +29011,19 @@
     "version": "HEAD-870516a-250624T145755"
   },
   {
+    "description": "Utility to create or retrieve an account with certificate authorities that support the Automatic Certificate Management Environment (ACME) protocol",
+    "name": "acme-account-creation-tool",
+    "pkg_id": "acme-account-creation-tool#github.com_ibm_cloud_security_acme_account_creation_tool",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.0.0-20250901181059-f7fe5063cda3"
+  },
+  {
     "description": "Limited DNS server with RESTful HTTP API to handle ACME DNS challenges easily and securely",
     "name": "acme-dns",
     "pkg_id": "acme-dns#github.com_fritterhoff_acme_dns",
@@ -32661,8 +32674,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-01",
-    "version": "v0.0.22"
+    "updated_at": "2025-09-06",
+    "version": "v0.0.25"
   },
   {
     "description": "Some MQTT things exposed using Go",
@@ -33676,8 +33689,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-01",
-    "version": "v0.0.22"
+    "updated_at": "2025-09-06",
+    "version": "v0.0.25"
   },
   {
     "description": "Accessing Hetereogenous Cloud APIs with a Unified In-process Golang Library",
@@ -34147,6 +34160,19 @@
     "version": "HEAD-1546f12-211024T195047"
   },
   {
+    "description": "Interact with Obsidian vault",
+    "name": "am",
+    "pkg_id": "am#github.com_sascha_andres_obsidian_utils",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.2.0"
+  },
+  {
     "description": "A desktop application designed to help users monitor their financial health and plan budgets effectively",
     "name": "am-budget-view",
     "pkg_id": "am-budget-view#github.com_alexandermakarov_am_budget_view",
@@ -34286,8 +34312,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-01",
-    "version": "v0.0.22"
+    "updated_at": "2025-09-06",
+    "version": "v0.0.25"
   },
   {
     "description": "In-depth attack surface mapping and asset discovery",
@@ -41504,6 +41530,18 @@
     "version": "HEAD-ebd6207-250625T085608"
   },
   {
+    "description": "Register Cluster-API clusters with Argo-CD",
+    "name": "argocd-cluster-register",
+    "pkg_id": "argocd-cluster-register#github.com_dmolik_argocd_cluster_register",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.0.0-20250513194416-ffad4ab81546"
+  },
+  {
     "description": "Notify ArgoCD Application status via Pull Request comment or GitHub Deployment API",
     "name": "argocd-commenter-cmd",
     "pkg_id": "argocd-commenter-cmd#github.com_int128_argocd_commenter",
@@ -44819,6 +44857,19 @@
     "version": "v0.6.2"
   },
   {
+    "description": "Atlantis plan visualisation UI",
+    "name": "atlantis-plan-ui",
+    "pkg_id": "atlantis-plan-ui#github.com_ilyaluk_atlantis_plan_ui",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.3.2"
+  },
+  {
     "description": "MongoDB Atlas CLI enables you to manage your MongoDB in the Cloud",
     "name": "atlas",
     "pkg_id": "atlas#github.com_mongodb_mongodb_atlas_cli",
@@ -45359,6 +45410,32 @@
     ],
     "updated_at": "2025-07-24",
     "version": "v1.0.2"
+  },
+  {
+    "description": "Go library implementing the USRP protocol for AllStarLink amateur radio systems",
+    "name": "audio-bridge",
+    "pkg_id": "audio-bridge#github.com_dbehnke_usrp_go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.0.0-20250905023614-0bae2f587342"
+  },
+  {
+    "description": "Go library implementing the USRP protocol for AllStarLink amateur radio systems",
+    "name": "audio-router",
+    "pkg_id": "audio-router#github.com_dbehnke_usrp_go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.0.0-20250905023614-0bae2f587342"
   },
   {
     "description": "百度云流式语音识别客户端 SDK",
@@ -47773,8 +47850,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-01",
-    "version": "v0.0.22"
+    "updated_at": "2025-09-06",
+    "version": "v0.0.25"
   },
   {
     "description": "Operator to manage pool of AWS accounts for Hive",
@@ -50478,6 +50555,19 @@
     ],
     "updated_at": "2025-07-30",
     "version": "v0.0.0-20250304082247-01d621da1294"
+  },
+  {
+    "description": "ไลบรารีที่สร้างขึ้นเพื่อแก้ปัญหาการแปลงตัวเลขจำนวนเงินบาทไทยให้เป็นข้อความภาษาไทยอย่างถูกต้องและแม่นยำ โดยเลียนแบบฟังก์ชัน BAHTTEXT() ของ [Microsoft Excel",
+    "name": "baht",
+    "pkg_id": "baht#github.com_anuchito_baht",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v1.2.1"
   },
   {
     "description": "Accessing Hetereogenous Cloud APIs with a Unified In-process Golang Library",
@@ -54564,6 +54654,19 @@
   {
     "description": "Benchmark the init cost of Go packages",
     "name": "benchinit",
+    "pkg_id": "benchinit#github.com_jub0bs_benchinit",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.0.0-20250905105630-5315d4b9ef72"
+  },
+  {
+    "description": "Benchmark the init cost of Go packages",
+    "name": "benchinit",
     "pkg_id": "benchinit#github.com_mvdan_benchinit",
     "targets": [
       "aarch64-Linux",
@@ -55985,8 +56088,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-01",
-    "version": "v0.0.22"
+    "updated_at": "2025-09-06",
+    "version": "v0.0.25"
   },
   {
     "description": "bilibili弹幕机核心组件",
@@ -56135,8 +56238,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-01",
-    "version": "v0.0.22"
+    "updated_at": "2025-09-06",
+    "version": "v0.0.25"
   },
   {
     "description": "The modern cryptocurrency trading bot framework written in Go.",
@@ -57034,8 +57137,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-01",
-    "version": "v0.0.22"
+    "updated_at": "2025-09-06",
+    "version": "v0.0.25"
   },
   {
     "description": "Get a list of UTXOs (unspent transaction outputs) from your Bitcoin Core client",
@@ -57114,6 +57217,32 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-3afc25b-250618T182301"
+  },
+  {
+    "description": "Bitcask storage with redis compatible protocol",
+    "name": "bitlog-ctl",
+    "pkg_id": "bitlog-ctl#github.com_protomem_bitlog",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.0.0-20250902152445-e75e2be2802a"
+  },
+  {
+    "description": "Bitcask storage with redis compatible protocol",
+    "name": "bitlog-server",
+    "pkg_id": "bitlog-server#github.com_protomem_bitlog",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.0.0-20250902152445-e75e2be2802a"
   },
   {
     "description": "A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.",
@@ -77498,6 +77627,19 @@
     "version": "v0.0.0-20250704150719-2f79b8295329"
   },
   {
+    "description": "Kubernetes checkly operator",
+    "name": "checkly-operator-cmd",
+    "pkg_id": "checkly-operator-cmd#github.com_imgarena_checkly_operator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v1.9.1"
+  },
+  {
     "description": "An ACME-based certificate authority, written in Go.",
     "name": "checkocsp",
     "pkg_id": "checkocsp#github.com_letsencrypt_boulder",
@@ -85466,6 +85608,19 @@
     "version": "v0.0.0-20250714015845-a1ebfc7c26f0"
   },
   {
+    "description": "A simple and robust logger for Go",
+    "name": "clogs",
+    "pkg_id": "clogs#github.com_hugginsio_clogs",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.0.1"
+  },
+  {
     "description": "Go example code, inspired by the exercises from 'A Tour of Go",
     "name": "clone",
     "pkg_id": "clone#github.com_pangduckwai_goegs",
@@ -88907,8 +89062,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-09-03",
-    "version": "v0.0.0-20250828204710-00e71d53e14d"
+    "updated_at": "2025-09-06",
+    "version": "v0.0.0-20250903210714-0f15c199724e"
   },
   {
     "description": "K8s native notification management with multi-tenancy support",
@@ -105099,6 +105254,28 @@
     "version": "HEAD-9b00512-250627T145130"
   },
   {
+    "description": "A lightweight, cross-platform system cleanup tool, very crunchy indeed",
+    "name": "crunchycleaner",
+    "pkg_id": "crunchycleaner#github.com_knuspii_crunchycleaner",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.0.0-20250905145242-0ef1a9d6a074"
+  },
+  {
+    "description": "No Description Provided",
+    "name": "crunchycleaner",
+    "pkg_id": "crunchycleaner#proxy.golang.org_github.com_knuspii_crunchycleaner_v_v0.0.0_20250905145242_0ef1a9d6a074.zip",
+    "targets": [
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "20250906T040118"
+  },
+  {
     "description": "No Description Provided",
     "name": "crust",
     "pkg_id": "crust#github.com_CoreumFoundation_crust",
@@ -108020,6 +108197,19 @@
     "version": "v0.0.0-20250626181501-8609aadaa526"
   },
   {
+    "description": "A little cut cli tool",
+    "name": "cx",
+    "pkg_id": "cx#github.com_pkitazos_cx",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.0.0-20250905073800-c279163ad5e7"
+  },
+  {
     "description": "Tool for transpiling C to Go.",
     "name": "cxgo",
     "pkg_id": "cxgo#github.com_gotranspile_cxgo",
@@ -108531,6 +108721,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-4ee3c50-250619T224051"
+  },
+  {
+    "description": "Interact with Obsidian vault",
+    "name": "daily",
+    "pkg_id": "daily#github.com_sascha_andres_obsidian_utils",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.2.0"
   },
   {
     "description": "Personal Productivity Tracker with Trend Analysis",
@@ -119317,8 +119520,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-01",
-    "version": "v0.0.22"
+    "updated_at": "2025-09-06",
+    "version": "v0.0.25"
   },
   {
     "description": "The Modern Application Platform.",
@@ -125087,6 +125290,19 @@
     ],
     "updated_at": "2025-08-21",
     "version": "v0.0.0-20250819131509-cfd32c5d89a1"
+  },
+  {
+    "description": "Go library implementing the USRP protocol for AllStarLink amateur radio systems",
+    "name": "discord-bridge",
+    "pkg_id": "discord-bridge#github.com_dbehnke_usrp_go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.0.0-20250905023614-0bae2f587342"
   },
   {
     "description": "Delete entries on discord",
@@ -133619,6 +133835,19 @@
     "version": "HEAD-41b809f-250626T104617"
   },
   {
+    "description": "Assets used by OONI Probe",
+    "name": "dumpnets",
+    "pkg_id": "dumpnets#github.com_ooni_probe_assets",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.28.0"
+  },
+  {
     "description": "GOMODCACHE Go module cache FUSE filesystem",
     "name": "dumppack",
     "pkg_id": "dumppack#github.com_tailscale_gomodfs",
@@ -136332,8 +136561,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-21",
-    "version": "HEAD-4193723-250620T122528"
+    "updated_at": "2025-09-06",
+    "version": "v0.0.0-20250903132250-9d25538f905e"
   },
   {
     "description": "Ship your Ecobee runtime, sensor and weather data to InfluxDB.",
@@ -143497,8 +143726,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-01",
-    "version": "v0.0.22"
+    "updated_at": "2025-09-06",
+    "version": "v0.0.25"
   },
   {
     "description": "The CLI tool for managing AI sandboxes on everywhere.dev",
@@ -147026,6 +147255,19 @@
     ],
     "updated_at": "2025-06-27",
     "version": "HEAD-f840b8a-250627T104442"
+  },
+  {
+    "description": "Go library implementing the USRP protocol for AllStarLink amateur radio systems",
+    "name": "examples",
+    "pkg_id": "examples#github.com_dbehnke_usrp_go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.0.0-20250905023614-0bae2f587342"
   },
   {
     "description": "Define and run multi-container applications with Docker",
@@ -155993,8 +156235,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-01",
-    "version": "v0.0.22"
+    "updated_at": "2025-09-06",
+    "version": "v0.0.25"
   },
   {
     "description": "Go-MCP is a powerful Go_Golang_ version of the MCP SDK that implements the Model Context Protocol _MCP_ to facilitate seamless communication between external systems and AI applications.",
@@ -157054,8 +157296,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-01",
-    "version": "v0.0.22"
+    "updated_at": "2025-09-06",
+    "version": "v0.0.25"
   },
   {
     "description": "firectl is a command-line tool to run Firecracker microVMs",
@@ -177918,6 +178160,19 @@
     "version": "HEAD-dcc7680-250628T220053"
   },
   {
+    "description": "Interact with Obsidian vault",
+    "name": "ggl",
+    "pkg_id": "ggl#github.com_sascha_andres_obsidian_utils",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.2.0"
+  },
+  {
     "description": "A lightweight load balancer used to create big Selenium clusters",
     "name": "ggr",
     "pkg_id": "ggr#github.com_aerokube_ggr",
@@ -181139,8 +181394,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-01",
-    "version": "v0.0.22"
+    "updated_at": "2025-09-06",
+    "version": "v0.0.25"
   },
   {
     "description": "Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation",
@@ -184910,6 +185165,19 @@
     "version": "HEAD-dd98c2a-250626T214907"
   },
   {
+    "description": "Go App to update Intel AMT Certificates from lego",
+    "name": "go-amt-certupdater",
+    "pkg_id": "go-amt-certupdater#github.com_kalledk_go_amt_certupdater",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.0.0-20250904062441-599855147d11"
+  },
+  {
     "description": "Annotate PEM files with plain text certificate info",
     "name": "go-annotate-pem",
     "pkg_id": "go-annotate-pem#github.com_mousefad_go_annotate_pem",
@@ -187828,6 +188096,19 @@
     "version": "v0.0.0-20250415181617-7cade0b35185"
   },
   {
+    "description": "Cross-platform isolate replacement for dev/test environments only. Supports macOS/Linux/Windows",
+    "name": "go-isolate",
+    "pkg_id": "go-isolate#github.com_hellobyte_dev_go_isolate",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.0.0-20250905083458-abade8694456"
+  },
+  {
     "description": "Simple jenkins mcp server",
     "name": "go-jenkins-mcp",
     "pkg_id": "go-jenkins-mcp#github.com_simonfxr_go_jenkins_mcp",
@@ -187839,6 +188120,19 @@
     ],
     "updated_at": "2025-08-28",
     "version": "v0.0.0-20250827102525-073f8de36a60"
+  },
+  {
+    "description": "Jira integration with GitHub or Gitea Action for JIRA Data Center",
+    "name": "go-jira",
+    "pkg_id": "go-jira#github.com_appleboy_go_jira",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.2.0"
   },
   {
     "description": "An implementation of JOSE standards _JWE, JWS, JWT_ in Go",
@@ -188549,6 +188843,19 @@
     ],
     "updated_at": "2025-06-22",
     "version": "HEAD-088e85d-250622T161639"
+  },
+  {
+    "description": "Mutation testing for Go source code. Fork from https://github.com/zimmski/go-mutesting",
+    "name": "go-mutesting",
+    "pkg_id": "go-mutesting#github.com_leonidboykov_go_mutesting",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.0.0-20250905110744-1fffce94ff3f"
   },
   {
     "description": "A collection of Go exercises, tryouts and simple projects",
@@ -192262,6 +192569,19 @@
     "version": "v0.0.0-20250627143814-a0cad9d7a70e"
   },
   {
+    "description": "CLI Complex Password Generator written in Go",
+    "name": "go_password_generator",
+    "pkg_id": "go_password_generator#github.com_rayct_go_password_generator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.2.1"
+  },
+  {
     "description": "学习golang中遇到的坑和一些测试学习的代码仓库",
     "name": "go_pprof",
     "pkg_id": "go_pprof#github.com_allen9012_infinitegolang",
@@ -194086,6 +194406,19 @@
     "version": "HEAD-dd208c6-250615T121648"
   },
   {
+    "description": "Read from or write to the clipboard from Go (fork of atotto/clipboard",
+    "name": "gocopy",
+    "pkg_id": "gocopy#github.com_xyproto_clipboard",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.3.2"
+  },
+  {
     "description": "An experimental Go local docs server/generator and code reader implemented with some fresh ideas.",
     "name": "gocore",
     "pkg_id": "gocore#github.com_go101_golds",
@@ -194162,6 +194495,19 @@
     ],
     "updated_at": "2025-06-23",
     "version": "HEAD-a63fe9e-250622T175511"
+  },
+  {
+    "description": "Coverage testing tool for The Go Programming Language",
+    "name": "gocov",
+    "pkg_id": "gocov#github.com_afunix_gocov",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v1.2.1"
   },
   {
     "description": "YAML language provider for Pulumi",
@@ -198962,8 +199308,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-01",
-    "version": "v0.0.22"
+    "updated_at": "2025-09-06",
+    "version": "v0.0.25"
   },
   {
     "description": "Go client package for OGS",
@@ -199210,6 +199556,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-dd208c6-250615T121648"
+  },
+  {
+    "description": "Read from or write to the clipboard from Go (fork of atotto/clipboard",
+    "name": "gopaste",
+    "pkg_id": "gopaste#github.com_xyproto_clipboard",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.3.2"
   },
   {
     "description": "Refactoring and code transformation tool for Go.",
@@ -204522,8 +204881,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-01",
-    "version": "v0.0.22"
+    "updated_at": "2025-09-06",
+    "version": "v0.0.25"
   },
   {
     "description": "Vendor-neutral programmable observability pipelines.",
@@ -207956,6 +208315,19 @@
     ],
     "updated_at": "2025-06-30",
     "version": "v0.0.0-20250612212850-caa2e7ef790f"
+  },
+  {
+    "description": "Kubernetes checkly operator",
+    "name": "hack",
+    "pkg_id": "hack#github.com_imgarena_checkly_operator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v1.9.1"
   },
   {
     "description": "Operator for provisioning resources _Postgres, Redis etc_ in-cluster or via cloud providers",
@@ -221181,6 +221553,19 @@
     "version": "HEAD-9fecf47-250623T125309"
   },
   {
+    "description": "Interact with Obsidian vault",
+    "name": "ical",
+    "pkg_id": "ical#github.com_sascha_andres_obsidian_utils",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.2.0"
+  },
+  {
     "description": "ICal proxy with support for user-defined filtering rules",
     "name": "ical-filter-proxy",
     "pkg_id": "ical-filter-proxy#github.com_yungwood_ical_filter_proxy",
@@ -231223,6 +231608,19 @@
     "version": "HEAD-949ea95-250626T165645"
   },
   {
+    "description": "A tool for combining Go source code into a single .go file",
+    "name": "issue9",
+    "pkg_id": "issue9#github.com_ktateish_gottani_testdata_issue9",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.0.0-20250528140943-16672e8ac9f0"
+  },
+  {
     "description": "A GitHub bot to check that nontrivial PR commit messages refer to an issue",
     "name": "issuebot",
     "pkg_id": "issuebot#github.com_tailscale_issuebot",
@@ -231517,8 +231915,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-01",
-    "version": "v0.0.22"
+    "updated_at": "2025-09-06",
+    "version": "v0.0.25"
   },
   {
     "description": "Wholly Unnecessary Technologies Model 4 (WUT-4",
@@ -232937,6 +233335,19 @@
     ],
     "updated_at": "2025-08-15",
     "version": "v0.0.0-20250812191104-ca42e6c1e4f3"
+  },
+  {
+    "description": "Test infrastructure for the Kubernetes project",
+    "name": "jobs",
+    "pkg_id": "jobs#github.com_kubernetes_test_infra",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.0.0-20250903210714-0f15c199724e"
   },
   {
     "description": "Event-driven application platform for Kubernetes",
@@ -236335,6 +236746,19 @@
     ],
     "updated_at": "2025-07-08",
     "version": "v0.0.0-20250707135956-bd0d662e989d"
+  },
+  {
+    "description": "A library and a cli to view K8s cluster resources",
+    "name": "k8s-dra-resources",
+    "pkg_id": "k8s-dra-resources#github.com_dharmjit_k8s_dra_resources",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.0.0-20250822121449-1fe6ec9a208c"
   },
   {
     "description": "Mirror of https://github.com/NVIDIA/k8s-driver-managerFor all contribution or issues please refer to https://github.com/NVIDIA/k8s-driver-manager/issues",
@@ -253460,6 +253884,18 @@
     "version": "v0.0.0-20250216112330-6e3ec5b949b2"
   },
   {
+    "description": "JSONL pretty-printer",
+    "name": "logfmt",
+    "pkg_id": "logfmt#github.com_jbarnette_logfmt",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.0.2"
+  },
+  {
     "description": "A simple mixed text/JSON log formatter",
     "name": "logfmt",
     "pkg_id": "logfmt#github.com_zostay_logfmt",
@@ -262327,6 +262763,19 @@
     "version": "v0.0.0-20250608233254-af2313089423"
   },
   {
+    "description": "A simple TUI for sending casts",
+    "name": "mast-cli",
+    "pkg_id": "mast-cli#github.com_stevedylandev_mast_cli",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.2.0"
+  },
+  {
     "description": "B站 会员购 分布式抢票",
     "name": "master",
     "pkg_id": "master#github.com_mikumifa_biliTickerStorm",
@@ -264124,8 +264573,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-01",
-    "version": "v0.0.22"
+    "updated_at": "2025-09-06",
+    "version": "v0.0.25"
   },
   {
     "description": "GitHub_s official MCP Server",
@@ -276082,6 +276531,19 @@
     "version": "HEAD-5bcf801-250625T134405"
   },
   {
+    "description": "Mtconvy - ffmpeg command-line helper utility",
+    "name": "mtconvy",
+    "pkg_id": "mtconvy#github.com_mitoteam_mtconvy",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v1.1.7"
+  },
+  {
     "description": "Visualizes your magic history",
     "name": "mtghistory",
     "pkg_id": "mtghistory#github.com_noqqe_mtghistory",
@@ -285535,6 +285997,17 @@
     "version": "v0.0.0-20250117014957-2947bdbc3702"
   },
   {
+    "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages",
+    "name": "non-streaming-tts",
+    "pkg_id": "non-streaming-tts#github.com_k2_fsa_sherpa_onnx_go_api_examples_non_streaming_tts",
+    "targets": [
+      "aarch64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.0.0-20250905082328-e870afc0e623"
+  },
+  {
     "description": "This is a project to practice Go lang",
     "name": "non-ternary-operator",
     "pkg_id": "non-ternary-operator#github.com_androdri1998_practice_go",
@@ -288732,6 +289205,19 @@
     "version": "HEAD-498b09f-250620T124643"
   },
   {
+    "description": "Interact with Obsidian vault",
+    "name": "obs-fm",
+    "pkg_id": "obs-fm#github.com_sascha_andres_obsidian_utils",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.2.0"
+  },
+  {
     "description": "总结涵盖比较全面的golang基础使用,也会总结一些基本不错的代码",
     "name": "obscurity",
     "pkg_id": "obscurity#github.com_friendlyhank_gostudy",
@@ -288934,6 +289420,18 @@
     ],
     "updated_at": "2025-06-24",
     "version": "HEAD-af9df41-250624T144755"
+  },
+  {
+    "description": "Oc plugin to open the OpenShift 4 console in your web browser",
+    "name": "oc-console",
+    "pkg_id": "oc-console#github.com_cblecker_oc_console",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v1.5.0"
   },
   {
     "description": "A daemon wrapping the openconnect VPN client to provide enhanced functionality for corporate Linux clients",
@@ -289528,6 +290026,19 @@
     ],
     "updated_at": "2025-06-24",
     "version": "HEAD-e56f141-250624T133034"
+  },
+  {
+    "description": "Machine Learning Toolkit for Kubernetes",
+    "name": "odh-notebook-controller",
+    "pkg_id": "odh-notebook-controller#github.com_opendatahub_io_kubeflow_components_odh_notebook_controller",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.0.0-20250905153923-217b5dc47504"
   },
   {
     "description": "odo - Developer-focused CLI for fast _ iterative container-based application development on Podman and Kubernetes. Implementation of the open Devfile standard.",
@@ -291628,8 +292139,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-01",
-    "version": "v0.0.22"
+    "updated_at": "2025-09-06",
+    "version": "v0.0.25"
   },
   {
     "description": "LangChain for Go, the easiest way to write LLM-based programs in Go",
@@ -293586,8 +294097,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-01",
-    "version": "v0.0.22"
+    "updated_at": "2025-09-06",
+    "version": "v0.0.25"
   },
   {
     "description": "NIP-29 relay",
@@ -294492,6 +295003,19 @@
     ],
     "updated_at": "2025-08-07",
     "version": "v0.4.1"
+  },
+  {
+    "description": "A simple tool to refine and produce lists for your bugbounty and pen-test engagements",
+    "name": "orunmila",
+    "pkg_id": "orunmila#github.com_proditis_orunmila",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.0.0-20250901191242-7f56dbf4edb1"
   },
   {
     "description": "Make it simple to exec kratos commands such as \"kratos proto add api/helloworld/demo.proto",
@@ -296058,6 +296582,18 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.0.0-20250617170408-a55732ecab50"
+  },
+  {
+    "description": "A command line utility tool for redirecting command output intelligently",
+    "name": "outputbuddy",
+    "pkg_id": "outputbuddy#github.com_zmunro_outputbuddy",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.0.0-20250905045052-8f6d07e25baa"
   },
   {
     "description": "Identify Cloudformation stacks that have drifted or gone out of sync",
@@ -301450,6 +301986,19 @@
   },
   {
     "description": "Bluesky PDS (Personal Data Server) container image, compose file, and documentation",
+    "name": "pds",
+    "pkg_id": "pds#github.com_quietengineer_pds",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.0.0-20250905225936-4fcbe249e953"
+  },
+  {
+    "description": "Bluesky PDS (Personal Data Server) container image, compose file, and documentation",
     "name": "pdsadmin",
     "pkg_id": "pdsadmin#github.com_quietengineer_pds_pdsadmin",
     "targets": [
@@ -303607,6 +304156,19 @@
     ],
     "updated_at": "2025-06-22",
     "version": "HEAD-367eff9-210213T235434"
+  },
+  {
+    "description": "PHP profiler that sends CPU sampling data to Pyroscope server",
+    "name": "phpscope",
+    "pkg_id": "phpscope#github.com_everythings_gonna_be_alright_phpscope",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.1.0"
   },
   {
     "description": "CLI for the Phrase API",
@@ -306746,8 +307308,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-01",
-    "version": "v0.0.22"
+    "updated_at": "2025-09-06",
+    "version": "v0.0.25"
   },
   {
     "description": "Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.",
@@ -310808,8 +311370,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-01",
-    "version": "v0.0.22"
+    "updated_at": "2025-09-06",
+    "version": "v0.0.25"
   },
   {
     "description": "PostgreSQL controller for managing database user access through kubernetes custom resources",
@@ -317064,6 +317626,19 @@
     "version": "HEAD-32018e9-250520T010729"
   },
   {
+    "description": "An extended go protobuffers generating plugin, which can customize message field name, struct tags, and CamelCase formatted enum constant name",
+    "name": "protoc-gen-go",
+    "pkg_id": "protoc-gen-go#github.com_wizacklabs_protoc_gen_go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.2.0"
+  },
+  {
     "description": "Generate command line interfaces to your gRPC services.",
     "name": "protoc-gen-go-aip-cli",
     "pkg_id": "protoc-gen-go-aip-cli#github.com_einride_aip_cli_go",
@@ -320070,6 +320645,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-2ed7bd3-240531T162330"
+  },
+  {
+    "description": "Go library to efficiently return rich details about a pull request",
+    "name": "prx",
+    "pkg_id": "prx#github.com_codegroove_dev_prx",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.0.0-20250904224634-0e8509f54246"
   },
   {
     "description": "Go library to efficiently return rich details about a pull request",
@@ -330873,8 +331461,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-01",
-    "version": "v0.0.22"
+    "updated_at": "2025-09-06",
+    "version": "v0.0.25"
   },
   {
     "description": "Kubernetes Package Management as Code; infrastructure as code, but actually",
@@ -353300,6 +353888,19 @@
     "version": "HEAD-a49f419-250612T152439"
   },
   {
+    "description": "Simple file server",
+    "name": "serve",
+    "pkg_id": "serve#github.com_marifcelik_serve",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.0.0-20250905145124-c1444dc24dec"
+  },
+  {
     "description": "A simple HTTP server for serving a directory",
     "name": "serve",
     "pkg_id": "serve#github.com_noclaps_serve",
@@ -365342,8 +365943,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-01",
-    "version": "v0.0.22"
+    "updated_at": "2025-09-06",
+    "version": "v0.0.25"
   },
   {
     "description": "Kubernetes controller for GitHub actions self-hosted runners",
@@ -379060,6 +379661,19 @@
     "version": "HEAD-336ebe4-250617T171950"
   },
   {
+    "description": "A fork of Golang's stress function",
+    "name": "stress",
+    "pkg_id": "stress#github.com_cockroachdb_stress",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.0.0-20250905164301-4b2223e5a720"
+  },
+  {
     "description": "A collection of random Go code",
     "name": "stress",
     "pkg_id": "stress#github.com_database64128_cubic_go_playground",
@@ -387467,8 +388081,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-01",
-    "version": "v0.0.22"
+    "updated_at": "2025-09-06",
+    "version": "v0.0.25"
   },
   {
     "description": "Repacked API for easily calculating US personal income taxes",
@@ -388653,8 +389267,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-01",
-    "version": "v0.0.22"
+    "updated_at": "2025-09-06",
+    "version": "v0.0.25"
   },
   {
     "description": "No Description Provided",
@@ -396073,6 +396687,18 @@
     "version": "HEAD-e113d88-250627T214353"
   },
   {
+    "description": "CLI tool for creating and running helm chart unit tests",
+    "name": "testchart",
+    "pkg_id": "testchart#github.com_silphid_testchart",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.0.31"
+  },
+  {
     "description": "Meta_s Time libraries",
     "name": "testchrony",
     "pkg_id": "testchrony#github.com_facebook_time",
@@ -400653,8 +401279,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-01",
-    "version": "v0.0.22"
+    "updated_at": "2025-09-06",
+    "version": "v0.0.25"
   },
   {
     "description": "A collection of little snippets of programs I write when I test out ideas. A code _playground_.",
@@ -402043,6 +402669,19 @@
     ],
     "updated_at": "2025-06-29",
     "version": "HEAD-20aa505-250628T153029"
+  },
+  {
+    "description": "Cli tool to post to X from terminal",
+    "name": "tinytweet",
+    "pkg_id": "tinytweet#github.com_0xnaman1_tinytweet",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.0.0-20250905102824-03c3b81022fc"
   },
   {
     "description": "Miscellaneous tools and codebases",
@@ -417538,6 +418177,19 @@
     "version": "HEAD-7a934d8-250625T085147"
   },
   {
+    "description": "Go library implementing the USRP protocol for AllStarLink amateur radio systems",
+    "name": "usrp-bridge",
+    "pkg_id": "usrp-bridge#github.com_dbehnke_usrp_go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.0.0-20250905023614-0bae2f587342"
+  },
+  {
     "description": "A very simple deployment tool, like Ansible, but for running bash commands",
     "name": "usup",
     "pkg_id": "usup#github.com_lifailon_usup",
@@ -418442,7 +419094,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-09-05",
+    "updated_at": "2025-09-06",
     "version": "v2.0.0-20250903025306-5bcf5bbe2743"
   },
   {
@@ -422032,6 +422684,19 @@
     "version": "v0.0.0-20250701095427-96b70c27f5f9"
   },
   {
+    "description": "Assets used by OONI Probe",
+    "name": "verify",
+    "pkg_id": "verify#github.com_ooni_probe_assets",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.28.0"
+  },
+  {
     "description": "No Description Provided",
     "name": "verify",
     "pkg_id": "verify#github.com_transparency_dev_armored_witness",
@@ -423275,8 +423940,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-01",
-    "version": "v0.0.22"
+    "updated_at": "2025-09-06",
+    "version": "v0.0.25"
   },
   {
     "description": "A research/study project for understanding and learning the fundamentals of audio/video streaming.",
@@ -440180,6 +440845,19 @@
     ],
     "updated_at": "2025-06-22",
     "version": "HEAD-c9f5f8e-250517T132402"
+  },
+  {
+    "description": "Improve zLog with Plugin Marketplace",
+    "name": "zbuild",
+    "pkg_id": "zbuild#github.com_jg1vpp_zylo",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-06",
+    "version": "v0.0.0-20250707135156-1832a6f2113f"
   },
   {
     "description": "Improve zLog with Plugin Marketplace",
