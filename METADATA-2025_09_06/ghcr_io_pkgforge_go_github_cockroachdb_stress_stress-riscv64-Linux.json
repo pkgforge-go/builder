@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "stress",
+  "pkg_family": "stress",
+  "pkg_id": "stress#github.com_cockroachdb_stress",
+  "pkg_name": "stress",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cockroachdb/stress",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A fork of Golang's stress function",
+  "homepage": [
+    "https://github.com/cockroachdb/stress"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "stress"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cockroachdb/stress/@v/v0.0.0-20250905164301-4b2223e5a720.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250905164301-4b2223e5a720",
+  "version_upstream": "",
+  "bsum": "c433b057a07fc55a359446bde0d356c03d8236075acc0f0ae683a19f315b2da5",
+  "build_date": "2025-09-06T03:38:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17509477607",
+  "build_id": "17509477607",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cockroachdb/stress/stress?tag=v0.0.0-20250905164301-4b2223e5a720-riscv64-Linux&download=stress.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cockroachdb/stress/stress?tag=v0.0.0-20250905164301-4b2223e5a720-riscv64-Linux&download=stress",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cockroachdb/stress/stress:v0.0.0-20250905164301-4b2223e5a720-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cockroachdb/stress/stress",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cockroachdb/stress/stress?tag=v0.0.0-20250905164301-4b2223e5a720-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "144ad4bdc1ebc4ad5bcd45c2ee8827ead0050f5f1bd4980066d7af650e3f96f4",
+  "size": "2.4 MB",
+  "size_raw": "2475000",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
