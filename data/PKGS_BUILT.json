@@ -102228,7 +102228,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-26",
+    "updated_at": "2025-09-07",
     "version": "v3.5.22"
   },
   {
@@ -139129,7 +139129,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-26",
+    "updated_at": "2025-09-07",
     "version": "v3.5.22"
   },
   {
@@ -153636,6 +153636,32 @@
     ],
     "updated_at": "2025-07-02",
     "version": "v0.0.0-20250529055958-4c3d871e1813"
+  },
+  {
+    "description": "Farcaster copy",
+    "name": "fcp",
+    "pkg_id": "fcp#github.com_vrypan_fcp",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-07",
+    "version": "v1.0.2"
+  },
+  {
+    "description": "Farcaster copy",
+    "name": "fcp-inspect",
+    "pkg_id": "fcp-inspect#github.com_vrypan_fcp",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-07",
+    "version": "v1.0.2"
   },
   {
     "description": "Fortio load testing library, command line tool, advanced echo server and web UI in go _golang_. Allows to specify a set query-per-second load and record latency histograms and other useful stats.",
@@ -237747,6 +237773,19 @@
     "version": "HEAD-619c6ef-250624T133047"
   },
   {
+    "description": "Deployment inside the kubernetes cluster to export events in a redis stream",
+    "name": "k8see-exporter",
+    "pkg_id": "k8see-exporter#github.com_sgaunet_k8see_exporter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-07",
+    "version": "v0.3.2"
+  },
+  {
     "description": "Giving Kubernetes Superpowers to everyone",
     "name": "k8sgpt",
     "pkg_id": "k8sgpt#github.com_k8sgpt_ai_k8sgpt",
@@ -256088,7 +256127,10 @@
     "name": "loop",
     "pkg_id": "loop#github.com_tullo_otel_workshop",
     "targets": [
-      "aarch64-Linux"
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-09-07",
     "version": "v0.0.0-20250906232102-bd4607b84e61"
@@ -264319,6 +264361,19 @@
     ],
     "updated_at": "2025-08-17",
     "version": "v0.0.0-20250813124309-43f1f5e532ee"
+  },
+  {
+    "description": "Simple operator used to manage minecraft servers deployed in kubernetes cluster",
+    "name": "mc-server-operator",
+    "pkg_id": "mc-server-operator#github.com_vaynerakawalo_mc_server_operator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-07",
+    "version": "v0.0.0-20250831204921-0e874ea186d2"
   },
   {
     "description": "A container entry point to manage graceful shutdown of a Minecraft server",
@@ -293102,6 +293157,19 @@
     "version": "HEAD-e0c7552-250626T065430"
   },
   {
+    "description": "Golang agnostic-framework OpenAPI Swagger generator",
+    "name": "openapi-gen",
+    "pkg_id": "openapi-gen#github.com_zainokta_openapi_gen_cmd_openapi_gen",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-07",
+    "version": "v0.0.0-20250906172936-242244109596"
+  },
+  {
     "description": "Distributed server for social and realtime games and apps",
     "name": "openapi-gen-angular",
     "pkg_id": "openapi-gen-angular#github.com_heroiclabs_nakama_console_openapi_gen_angular",
@@ -301427,6 +301495,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-d4ceae1-250620T121129"
+  },
+  {
+    "description": "A simple tool can accept POST data and print to console",
+    "name": "pasting",
+    "pkg_id": "pasting#github.com_worthies_pasting",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-07",
+    "version": "v0.0.0-20250906034145-9bc4f8620edd"
   },
   {
     "description": "Learning notes",
@@ -316820,7 +316901,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-08-11",
+    "updated_at": "2025-09-07",
     "version": "v0.12.0"
   },
   {
@@ -331614,7 +331695,10 @@
     "name": "recursive",
     "pkg_id": "recursive#github.com_tullo_otel_workshop",
     "targets": [
-      "aarch64-Linux"
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-09-07",
     "version": "v0.0.0-20250906232102-bd4607b84e61"
