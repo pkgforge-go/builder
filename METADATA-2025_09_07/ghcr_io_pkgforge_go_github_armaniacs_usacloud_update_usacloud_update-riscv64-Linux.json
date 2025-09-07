@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "usacloud-update",
+  "pkg_family": "usacloud-update",
+  "pkg_id": "usacloud-update#github.com_armaniacs_usacloud_update",
+  "pkg_name": "usacloud-update",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/armaniacs/usacloud-update",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Sacloudの v0, v1.0, v1.1 それぞれの記述が混じったbashスクリプトが与えられた場合に v1.1で動作するようにスクリプトを書き換えるプログラムです",
+  "homepage": [
+    "https://github.com/armaniacs/usacloud-update"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "usacloud-update"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/armaniacs/usacloud-update/@v/v1.1.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.1.0",
+  "version_upstream": "",
+  "bsum": "0f0d6bd3e747ed2aa1ce5d75113fd5fd3bcabf96059fb2eaf6ca354a02d95c43",
+  "build_date": "2025-09-07T03:49:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17523399180",
+  "build_id": "17523399180",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/armaniacs/usacloud-update/usacloud-update?tag=v1.1.0-riscv64-Linux&download=usacloud-update.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/armaniacs/usacloud-update/usacloud-update?tag=v1.1.0-riscv64-Linux&download=usacloud-update",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/armaniacs/usacloud-update/usacloud-update:v1.1.0-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/armaniacs/usacloud-update/usacloud-update",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/armaniacs/usacloud-update/usacloud-update?tag=v1.1.0-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "35afabe73500252f67e5138152b41f7daff2cfb1f4575804c8bfc1755c739953",
+  "size": "2.1 MB",
+  "size_raw": "2105656",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
