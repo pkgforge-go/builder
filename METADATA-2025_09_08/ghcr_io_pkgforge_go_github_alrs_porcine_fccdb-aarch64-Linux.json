@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "fccdb",
+  "pkg_family": "porcine",
+  "pkg_id": "fccdb#github.com_alrs_porcine",
+  "pkg_name": "fccdb",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/alrs/porcine",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Amateur radio packages written in Go",
+  "homepage": [
+    "https://github.com/alrs/porcine"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "fcc2bolt",
+    "fccd",
+    "fccdb",
+    "ph",
+    "spots"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/alrs/porcine/@v/v0.0.0-20250704153707-29b326942e6a.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250704153707-29b326942e6a",
+  "version_upstream": "",
+  "bsum": "ee79e0231401dccea7c8dba6f0a3de9c9ff8f0e7c2aa1808c994c9b812ff8103",
+  "build_date": "2025-09-08T03:56:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17539089764",
+  "build_id": "17539089764",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/alrs/porcine/fccdb?tag=v0.0.0-20250704153707-29b326942e6a-aarch64-Linux&download=fccdb.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/alrs/porcine/fccdb?tag=v0.0.0-20250704153707-29b326942e6a-aarch64-Linux&download=fccdb",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/alrs/porcine/fccdb:v0.0.0-20250704153707-29b326942e6a-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/alrs/porcine/fccdb",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/alrs/porcine/fccdb?tag=v0.0.0-20250704153707-29b326942e6a-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a0f45d64f4aef7de1f42c89b12e18fd646aede2e138eda740dc2a43dab21dd94",
+  "size": "2.2 MB",
+  "size_raw": "2206488",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "spots",
+  "pkg_family": "porcine",
+  "pkg_id": "spots#github.com_alrs_porcine",
+  "pkg_name": "spots",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/alrs/porcine",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Amateur radio packages written in Go",
+  "homepage": [
+    "https://github.com/alrs/porcine"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "fcc2bolt",
+    "fccd",
+    "fccdb",
+    "ph",
+    "spots"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/alrs/porcine/@v/v0.0.0-20250704153707-29b326942e6a.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250704153707-29b326942e6a",
+  "version_upstream": "",
+  "bsum": "e2e9215123af8f6b9080fdf0120c38cf9004c8021136a23175600f7f198f93b6",
+  "build_date": "2025-09-08T03:56:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17539089764",
+  "build_id": "17539089764",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/alrs/porcine/spots?tag=v0.0.0-20250704153707-29b326942e6a-aarch64-Linux&download=spots.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/alrs/porcine/spots?tag=v0.0.0-20250704153707-29b326942e6a-aarch64-Linux&download=spots",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/alrs/porcine/spots:v0.0.0-20250704153707-29b326942e6a-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/alrs/porcine/spots",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/alrs/porcine/spots?tag=v0.0.0-20250704153707-29b326942e6a-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4c293b2d8880ba6ffab4e6d6e59a1dc725c13c51db4114ff6f1a90e996488007",
+  "size": "6.2 MB",
+  "size_raw": "6455680",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
