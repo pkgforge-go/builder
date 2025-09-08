@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "webhook",
+  "pkg_family": "k8s-dra-driver-gpu",
+  "pkg_id": "webhook#github.com_nvidia_k8s_dra_driver_gpu",
+  "pkg_name": "webhook",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nvidia/k8s-dra-driver-gpu",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "NVIDIA DRA Driver for GPUs",
+  "homepage": [
+    "https://github.com/nvidia/k8s-dra-driver-gpu"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "compute-domain-controller",
+    "compute-domain-daemon",
+    "webhook"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/nvidia/k8s-dra-driver-gpu/@v/v0.0.0-20250905104214-833638e90295.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250905104214-833638e90295",
+  "version_upstream": "",
+  "bsum": "f927b0ada2bf99b0e066e71056adae911f6ef767618dea73fecb2a5f6042a990",
+  "build_date": "2025-09-08T04:32:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17539141851",
+  "build_id": "17539141851",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/k8s-dra-driver-gpu/webhook?tag=v0.0.0-20250905104214-833638e90295-x86_64-Linux&download=webhook.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "428",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/k8s-dra-driver-gpu/webhook?tag=v0.0.0-20250905104214-833638e90295-x86_64-Linux&download=webhook",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nvidia/k8s-dra-driver-gpu/webhook:v0.0.0-20250905104214-833638e90295-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nvidia/k8s-dra-driver-gpu/webhook",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nvidia/k8s-dra-driver-gpu/webhook?tag=v0.0.0-20250905104214-833638e90295-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b36cecb6d5dfaf3a01b9098b9b0240d277d00c4cf29fc94a3ecb168ab76b3756",
+  "size": "40 MB",
+  "size_raw": "41827920",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
