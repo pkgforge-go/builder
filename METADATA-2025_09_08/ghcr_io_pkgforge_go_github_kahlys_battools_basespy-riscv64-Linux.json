@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "basespy",
+  "pkg_family": "battools",
+  "pkg_id": "basespy#github.com_kahlys_battools",
+  "pkg_name": "basespy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kahlys/battools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Personnal tools",
+  "homepage": [
+    "https://github.com/kahlys/battools"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "basespy",
+    "geninter",
+    "oracle",
+    "osv-viewer",
+    "pika",
+    "proxy",
+    "test",
+    "wanda"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/kahlys/battools/@v/v0.0.0-20250906202828-8e33fa2acf4b.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250906202828-8e33fa2acf4b",
+  "version_upstream": "",
+  "bsum": "7de40103b21e7456a229debfc9648411f8395edd14e05fbaab099f96ee2c5f70",
+  "build_date": "2025-09-08T09:56:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17546593887",
+  "build_id": "17546593887",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kahlys/battools/basespy?tag=v0.0.0-20250906202828-8e33fa2acf4b-riscv64-Linux&download=basespy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kahlys/battools/basespy?tag=v0.0.0-20250906202828-8e33fa2acf4b-riscv64-Linux&download=basespy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kahlys/battools/basespy:v0.0.0-20250906202828-8e33fa2acf4b-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kahlys/battools/basespy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kahlys/battools/basespy?tag=v0.0.0-20250906202828-8e33fa2acf4b-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "601c797601d719cd2589f72417824d066cb2a54205c958d18973751e4cb94ae2",
+  "size": "1.7 MB",
+  "size_raw": "1757656",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250514141100-2b66616e4e80-riscv64-Linux",
+    "v0.0.0-20250825102414-b23bd7eafc2a-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
