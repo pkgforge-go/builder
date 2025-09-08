@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "devops",
+  "pkg_family": "devops",
+  "pkg_id": "devops#github.com_ginolatorilla_devops",
+  "pkg_name": "devops",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ginolatorilla/devops",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A collection of tools that I use for DevOps-related tasks",
+  "homepage": [
+    "https://github.com/ginolatorilla/devops"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "devops",
+    "kubectl-list_addresses",
+    "kubectl-list_certs",
+    "kubectl-list_finalizers",
+    "kubectl-list_unhealthy_pods",
+    "kubectl-lookup_address",
+    "kubectl-trigger_cronjob"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/ginolatorilla/devops/@v/v0.0.0-20250727015545-b1ade4b0929e.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250727015545-b1ade4b0929e",
+  "version_upstream": "",
+  "bsum": "24bd16aed78b03c9c1fa6b9d6b24c28a47a32289f2ebb2f81deda2b2171843de",
+  "build_date": "2025-09-08T04:07:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17539091164",
+  "build_id": "17539091164",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ginolatorilla/devops/devops?tag=v0.0.0-20250727015545-b1ade4b0929e-loongarch64-Linux&download=devops.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ginolatorilla/devops/devops?tag=v0.0.0-20250727015545-b1ade4b0929e-loongarch64-Linux&download=devops",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ginolatorilla/devops/devops:v0.0.0-20250727015545-b1ade4b0929e-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ginolatorilla/devops/devops",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ginolatorilla/devops/devops?tag=v0.0.0-20250727015545-b1ade4b0929e-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0120365a47d6fb24d298ec1342139fc04a6ffc390372e5f82a5a654bfb7244bd",
+  "size": "10 MB",
+  "size_raw": "10418816",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
