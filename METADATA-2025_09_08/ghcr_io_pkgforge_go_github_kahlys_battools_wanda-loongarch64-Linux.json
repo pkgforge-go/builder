@@ -1,0 +1,74 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "wanda",
+  "pkg_family": "battools",
+  "pkg_id": "wanda#github.com_kahlys_battools",
+  "pkg_name": "wanda",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kahlys/battools",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Personnal tools",
+  "homepage": [
+    "https://github.com/kahlys/battools"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "basespy",
+    "geninter",
+    "oracle",
+    "osv-viewer",
+    "pika",
+    "proxy",
+    "test",
+    "wanda"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/kahlys/battools/@v/v0.0.0-20250906202828-8e33fa2acf4b.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250906202828-8e33fa2acf4b",
+  "version_upstream": "",
+  "bsum": "4cd19f7f827bab4e9b9a3c399dd0783ffc9370dd81ba0f2b84018b728b392a60",
+  "build_date": "2025-09-08T09:55:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17546593887",
+  "build_id": "17546593887",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kahlys/battools/wanda?tag=v0.0.0-20250906202828-8e33fa2acf4b-loongarch64-Linux&download=wanda.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kahlys/battools/wanda?tag=v0.0.0-20250906202828-8e33fa2acf4b-loongarch64-Linux&download=wanda",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kahlys/battools/wanda:v0.0.0-20250906202828-8e33fa2acf4b-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kahlys/battools/wanda",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kahlys/battools/wanda?tag=v0.0.0-20250906202828-8e33fa2acf4b-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b3d2fd75ce8dc82ecb62db5970ad21977600daa018c6e715add7f84879984264",
+  "size": "10 MB",
+  "size_raw": "10395712",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250514141100-2b66616e4e80-loongarch64-Linux",
+    "v0.0.0-20250825102414-b23bd7eafc2a-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
