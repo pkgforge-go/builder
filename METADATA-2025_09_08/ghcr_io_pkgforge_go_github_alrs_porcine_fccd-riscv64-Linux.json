@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "fccd",
+  "pkg_family": "porcine",
+  "pkg_id": "fccd#github.com_alrs_porcine",
+  "pkg_name": "fccd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/alrs/porcine",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Amateur radio packages written in Go",
+  "homepage": [
+    "https://github.com/alrs/porcine"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "fcc2bolt",
+    "fccd",
+    "fccdb",
+    "ph",
+    "spots"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/alrs/porcine/@v/v0.0.0-20250704153707-29b326942e6a.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250704153707-29b326942e6a",
+  "version_upstream": "",
+  "bsum": "5e9634905a2e5c817534414e54fac22197c48b7578e1531b7c0722d071c68db1",
+  "build_date": "2025-09-08T03:55:44Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17539089764",
+  "build_id": "17539089764",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/alrs/porcine/fccd?tag=v0.0.0-20250704153707-29b326942e6a-riscv64-Linux&download=fccd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/alrs/porcine/fccd?tag=v0.0.0-20250704153707-29b326942e6a-riscv64-Linux&download=fccd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/alrs/porcine/fccd:v0.0.0-20250704153707-29b326942e6a-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/alrs/porcine/fccd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/alrs/porcine/fccd?tag=v0.0.0-20250704153707-29b326942e6a-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0017d055053148e4f0cb667fd9127cae471c2bad5ffa2918781208d19bf02cc8",
+  "size": "6.0 MB",
+  "size_raw": "6288168",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
