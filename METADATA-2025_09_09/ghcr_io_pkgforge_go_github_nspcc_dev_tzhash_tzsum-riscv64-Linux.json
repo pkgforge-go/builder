@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "tzsum",
+  "pkg_family": "tzhash",
+  "pkg_id": "tzsum#github.com_nspcc_dev_tzhash",
+  "pkg_name": "tzsum",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nspcc-dev/tzhash",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Tillich-Zemor hashing golang implementation",
+  "homepage": [
+    "https://github.com/nspcc-dev/tzhash"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "homo",
+    "tzsum"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/nspcc-dev/tzhash/@v/v1.8.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.8.3",
+  "version_upstream": "",
+  "bsum": "57d3a9e3e2efda42311190e184c220f6a1a2260b00f1608c23c4b053cddfec78",
+  "build_date": "2025-09-09T04:20:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17571133088",
+  "build_id": "17571133088",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nspcc-dev/tzhash/tzsum?tag=v1.8.3-riscv64-Linux&download=tzsum.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nspcc-dev/tzhash/tzsum?tag=v1.8.3-riscv64-Linux&download=tzsum",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nspcc-dev/tzhash/tzsum:v1.8.3-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nspcc-dev/tzhash/tzsum",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nspcc-dev/tzhash/tzsum?tag=v1.8.3-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6d1de0d3505fe5f2cf67d8cb72b550e0edbbdb466fdcc105629ad20a99a09a1f",
+  "size": "2.1 MB",
+  "size_raw": "2173400",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
