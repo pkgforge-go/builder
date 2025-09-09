@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "certstream-monitor",
+  "pkg_family": "certstream-monitor",
+  "pkg_id": "certstream-monitor#github.com_osamahamad_certstream_monitor",
+  "pkg_name": "certstream-monitor",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/osamahamad/certstream-monitor",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Leverage certificate transparency live feed to monitor for newly issued subdomain certificates (last 90 days by default, configurable), for domains participating in RDP",
+  "homepage": [
+    "https://github.com/osamahamad/certstream-monitor"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "certstream-monitor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/osamahamad/certstream-monitor/@v/v0.0.0-20250908232958-15b89fb577ce.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250908232958-15b89fb577ce",
+  "version_upstream": "",
+  "bsum": "ba9d66e53d8a7f8b9ef0636b76fda23c1092ec1e97eb496614d907edb1a0f16e",
+  "build_date": "2025-09-09T04:23:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17571136271",
+  "build_id": "17571136271",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osamahamad/certstream-monitor/certstream-monitor?tag=v0.0.0-20250908232958-15b89fb577ce-x86_64-Linux&download=certstream-monitor.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osamahamad/certstream-monitor/certstream-monitor?tag=v0.0.0-20250908232958-15b89fb577ce-x86_64-Linux&download=certstream-monitor",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/osamahamad/certstream-monitor/certstream-monitor:v0.0.0-20250908232958-15b89fb577ce-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/osamahamad/certstream-monitor/certstream-monitor",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/osamahamad/certstream-monitor/certstream-monitor?tag=v0.0.0-20250908232958-15b89fb577ce-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1df7911276fe9df3a5929e5e5b60498a44bd269ae2b103d143237e181b693681",
+  "size": "11 MB",
+  "size_raw": "10861984",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
