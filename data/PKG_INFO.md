@@ -297,6 +297,8 @@
 - 🐹 **[bpmn-js](https://bpmn.io/toolkit/bpmn-js/)**: A BPMN 2.
 - 🐹 **[bot](https://github.com/keybase/client)**: Keybase Go Library, Client, Service, OS X, iOS, Android, Electron.
 - 🐹 **[mirai-source-code](https://github.com/jgamblin/mirai-source-code)**: Leaked Mirai Source Code for Research/IoC Development Purposes.
+- 🐹 **[amqp-consumer-groups](https://watermill.io)**: Building event-driven applications the easy way in Go.
+- 🐹 **[message](https://watermill.io)**: Building event-driven applications the easy way in Go.
 - 🐹 **[kafka](https://watermill.io)**: Building event-driven applications the easy way in Go.
 - 🐹 **[sql](https://watermill.io)**: Building event-driven applications the easy way in Go.
 - 🐹 **[update-examples-deps](https://watermill.io)**: Building event-driven applications the easy way in Go.
@@ -556,6 +558,7 @@
 - 🐹 **[update-go-azure-helpers](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs)**: Terraform provider for Azure Resource Manager.
 - 🐹 **[update-go-azure-sdk](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs)**: Terraform provider for Azure Resource Manager.
 - 🐹 **[pokeapi](https://pokeapi.co)**: The Pokémon API.
+- 🐹 **[whatsapp-bridge](https://x.com/LukeHarries_/status/1905986562388635913)**: WhatsApp MCP server.
 - 🐹 **[spack](https://spack.io)**: A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - 🐹 **[artifactory-build-info-plugin](https://ovh.github.io/cds/)**: Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform.
 - 🐹 **[artifactory-download-artifact-plugin](https://ovh.github.io/cds/)**: Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform.
@@ -828,6 +831,8 @@
 - 🐹 **[dnstester](https://www.inspektor-gadget.io)**: Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF.
 - 🐹 **[go](https://www.inspektor-gadget.io)**: Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF.
 - 🐹 **[testjson2md](https://www.inspektor-gadget.io)**: Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF.
+- 🐹 **[picocrypt](https://github.com/hackeralert/picocrypt)**: A very small, very simple, yet very secure encryption tool.
+- 🐹 **[src](https://github.com/hackeralert/picocrypt)**: A very small, very simple, yet very secure encryption tool.
 - 🐹 **[scripts](https://registry.terraform.io/providers/hashicorp/google/latest/docs)**: Terraform Provider for Google Cloud Platform.
 - 🐹 **[bitbar-plugins](https://xbarapp.com)**: Plugin repository for xbar (the BitBar reboot.
 - 🐹 **[xbar-plugins](https://xbarapp.com)**: Plugin repository for xbar (the BitBar reboot.
@@ -1036,6 +1041,7 @@
 - 🐹 **[builder](https://cloud.google.com/cloud-build/)**: Community-contributed images for Google Cloud Build.
 - 🐹 **[fetch-github-hosts](https://hosts.gitcdn.top)**: 同步github的hosts工具，支持多平台的图形化和命令行，内置客户端和服务端两种模式~ | Synchronize GitHub hosts tool, support multi-platform graphical and command line, built-in client and server modes.
 - 🐹 **[discord](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
+- 🐹 **[binfmt](https://github.com/tonistiigi/binfmt)**: Cross-platform emulator collection distributed with Docker images.
 - 🐹 **[tools](https://github.com/hexdigest/gowrap)**: GoWrap is a command line tool for generating decorators for Go interfaces.
 - 🐹 **[airtable](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
 - 🐹 **[brave](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
@@ -1368,6 +1374,7 @@
 - 🐹 **[http_bench](https://http-bench.vercel.app)**: Golang HTTP stress testing tool, support single and distributed, http/1, http/2 and http/3.
 - 🐹 **[amazon-eks-pod-identity-webhook](https://github.com/aws/amazon-eks-pod-identity-webhook)**: Amazon EKS Pod Identity Webhook.
 - 🐹 **[apparmor.d](https://apparmor.pujol.io)**: Full set of AppArmor policies.
+- 🐹 **[cheatsheets](https://github.com/r1cksec/cheatsheets)**: Collection of knowledge about information security.
 - 🐹 **[codenames](https://www.horsepaste.com)**: Play horse paste online.
 - 🐹 **[daze](https://github.com/godump/daze)**: Daze is a tool to help you link to the Internet.
 - 🐹 **[daze](https://github.com/mohanson/daze)**: Daze is a tool to help you link to the Internet.
