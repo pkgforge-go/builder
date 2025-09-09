@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "monitor",
+  "pkg_family": "go-sap",
+  "pkg_id": "monitor#github.com_holoplot_go_sap",
+  "pkg_name": "monitor",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/holoplot/go-sap",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Golang package to decode and encode SAP announcements according to RFC 2974",
+  "homepage": [
+    "https://github.com/holoplot/go-sap"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "announcer",
+    "monitor"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/holoplot/go-sap/@v/v0.0.0-20250907071343-7683e6981e9d.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250907071343-7683e6981e9d",
+  "version_upstream": "",
+  "bsum": "6d4823dcaff044a4d5d83d81f381523811ca1a28a7e0bb5a6441f94e47b95d94",
+  "build_date": "2025-09-09T04:03:52Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17571106160",
+  "build_id": "17571106160",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/holoplot/go-sap/monitor?tag=v0.0.0-20250907071343-7683e6981e9d-riscv64-Linux&download=monitor.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/holoplot/go-sap/monitor?tag=v0.0.0-20250907071343-7683e6981e9d-riscv64-Linux&download=monitor",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/holoplot/go-sap/monitor:v0.0.0-20250907071343-7683e6981e9d-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/holoplot/go-sap/monitor",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/holoplot/go-sap/monitor?tag=v0.0.0-20250907071343-7683e6981e9d-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a84981cbe3b57cdb09dab5b9b43751c6d5b49d9db83e271ceb30ec06bfc6c297",
+  "size": "2.7 MB",
+  "size_raw": "2738904",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
