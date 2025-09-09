@@ -35969,6 +35969,19 @@
     "version": "HEAD-0c26eee-250627T130810"
   },
   {
+    "description": "Golang package to decode and encode SAP announcements according to RFC 2974",
+    "name": "announcer",
+    "pkg_id": "announcer#github.com_holoplot_go_sap",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250907071343-7683e6981e9d"
+  },
+  {
     "description": "Kubebuilder - SDK for building Kubernetes APIs using CRDs",
     "name": "annoy",
     "pkg_id": "annoy#github.com_kubernetes_sigs_kubebuilder_docs_book_utils",
@@ -39243,6 +39256,16 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.0.0-20250525104414-0c05f75beca5"
+  },
+  {
+    "description": "HTTP/2 Apple Push Notification Service (APNs) push provider for Go — Send push notifications to iOS, tvOS, Safari and OSX apps, using the APNs HTTP/2 protocol",
+    "name": "apns2",
+    "pkg_id": "apns2#github.com_shyhirt_apns2",
+    "targets": [
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250805100843-a3458b437d5a"
   },
   {
     "description": "⚡ HTTP/2 Apple Push Notification Service _APNs_ push provider for Go — Send push notifications to iOS, tvOS, Safari and OSX apps, using the APNs HTTP/2 protocol.",
@@ -49586,6 +49609,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-9ab0c5a-250618T135258"
+  },
+  {
+    "description": "Solidity library for verifying Azure MAA vTPM TDX attestations on-chain",
+    "name": "azure-tdx-verifier",
+    "pkg_id": "azure-tdx-verifier#github.com_hyodar_azure_tdx_verifier",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250716143618-da0d362107af"
   },
   {
     "description": "Nomad Autoscaler brings autoscaling to your Nomad workloads.",
@@ -70611,6 +70647,19 @@
     "version": "HEAD-ee61102-250626T213632"
   },
   {
+    "description": "Leverage certificate transparency live feed to monitor for newly issued subdomain certificates (last 90 days by default, configurable), for domains participating in RDP",
+    "name": "certstream-monitor",
+    "pkg_id": "certstream-monitor#github.com_osamahamad_certstream_monitor",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250908232958-15b89fb577ce"
+  },
+  {
     "description": "This project aims to be a drop-in replacement for the certstream server by Calidog. This tool aggregates, parses, and streams certificate data from multiple certificate transparency logs via websocket connections to the clients.",
     "name": "certstream-server-go",
     "pkg_id": "certstream-server-go#github.com_d_Rickyy_b_certstream_server_go",
@@ -83035,6 +83084,19 @@
     "version": "v0.0.0-20250407221139-bb2673f3136d"
   },
   {
+    "description": "A small server-client app to practice hashing and encryption in Go",
+    "name": "client",
+    "pkg_id": "client#github.com_charafzellou_golang_crypto_validator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250903160434-1dd946cfcdcf"
+  },
+  {
     "description": "Minimalist GRPC Client-Server template in Golang",
     "name": "client",
     "pkg_id": "client#github.com_charafzellou_grpc_golang_template",
@@ -84157,6 +84219,19 @@
     "version": "HEAD-8a3f272-250627T154314"
   },
   {
+    "description": "A bunch of projects made using Go programming language",
+    "name": "client",
+    "pkg_id": "client#github.com_muhtadi1laskar_go_projects",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250819124906-ce29932d6d93"
+  },
+  {
     "description": "A collection of comprehensible Go examples",
     "name": "client",
     "pkg_id": "client#github.com_mukappalambda_go_examples",
@@ -85274,6 +85349,19 @@
     ],
     "updated_at": "2025-09-08",
     "version": "v0.0.0-20250906170652-d57c9d02196c"
+  },
+  {
+    "description": "A bunch of projects made using Go programming language",
+    "name": "client_with_timeout",
+    "pkg_id": "client_with_timeout#github.com_muhtadi1laskar_go_projects",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250819124906-ce29932d6d93"
   },
   {
     "description": ":twisted_rightwards_arrows: Cross-platform Golang implementation of TapDance censorship circumvention system client",
@@ -90279,6 +90367,19 @@
     ],
     "updated_at": "2025-06-30",
     "version": "v0.0.0-20250501192939-857ae9fe25eb"
+  },
+  {
+    "description": "Find largest patterns you can draw using given set of portals",
+    "name": "cmdline",
+    "pkg_id": "cmdline#github.com_pwiecz_portal_patterns",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250814130329-255edcaac4d8"
   },
   {
     "description": "A command line client for openid connect",
@@ -103729,6 +103830,17 @@
     ],
     "updated_at": "2025-07-02",
     "version": "v0.1.0"
+  },
+  {
+    "description": "Find NPM packages in URLs and determine if they can be hijacked",
+    "name": "crawl",
+    "pkg_id": "crawl#github.com_root4loot_npmjack",
+    "targets": [
+      "loongarch64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250908143751-2f8049bf9dcb"
   },
   {
     "description": "Ratus is a RESTful asynchronous task queue server. It translated concepts of distributed task queues into a set of resources that conform to REST principles and provides a consistent HTTP API for various backends.",
@@ -117749,6 +117861,19 @@
     "version": "v1.0.3"
   },
   {
+    "description": "Durable Workflow Orchestration with Golang and Postgres",
+    "name": "dbos-transact-go",
+    "pkg_id": "dbos-transact-go#github.com_dbos_inc_dbos_transact_go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.5.5-beta"
+  },
+  {
     "description": "A controller to create databases using a claim pattern",
     "name": "dbproxy",
     "pkg_id": "dbproxy#github.com_infobloxopen_db_controller_dbproxy",
@@ -120942,6 +121067,19 @@
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-0ea5ed0-250523T160157"
+  },
+  {
+    "description": "Various scripts written in Golang",
+    "name": "deletereddithistory",
+    "pkg_id": "deletereddithistory#github.com_michplunkett_golang_scripting",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250908225442-875ab5198dd9"
   },
   {
     "description": "A helper operator to block deletion of k8s objects by managing finalizers based on some defined rules",
@@ -132137,6 +132275,19 @@
     "version": "v0.0.0-20250612120023-6faf89b52196"
   },
   {
+    "description": "Utilities",
+    "name": "dpi",
+    "pkg_id": "dpi#github.com_ajstarks_utils_cmd_dpi",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250605155711-9db796a2d889"
+  },
+  {
     "description": "DPDK based fast Dataplane / L3 router / SDN enabler, installable on compute nodes / SmartNICs",
     "name": "dpservice-exporter",
     "pkg_id": "dpservice-exporter#github.com_ironcore_dev_dpservice_cli_dpservice_exporter",
@@ -136530,7 +136681,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-17",
+    "updated_at": "2025-09-09",
     "version": "v0.0.0-20250330214638-7d00757e2277"
   },
   {
@@ -175528,6 +175679,19 @@
     "version": "v0.0.0-20250725115839-7bf4e171e285"
   },
   {
+    "description": "Script to generate a GeoIP MaxMind DB (mmdb) from ip2asn.com",
+    "name": "gengeommdb",
+    "pkg_id": "gengeommdb#github.com_negrel_gengeommdb",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250729182833-1c1a0829bde4"
+  },
+  {
     "description": "Next Generation C2 Framework",
     "name": "genhelp",
     "pkg_id": "genhelp#github.com_chainreactors_malice_network",
@@ -186450,6 +186614,19 @@
     "version": "v0.0.0-20250726010636-73a80bacb1ee"
   },
   {
+    "description": "Minimalistic Go boilerplate",
+    "name": "go-boilerplate",
+    "pkg_id": "go-boilerplate#github.com_alexferl_go_boilerplate",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250908000330-e8ab2131b897"
+  },
+  {
     "description": "A boilerplate for starting Go projects",
     "name": "go-boilerplate",
     "pkg_id": "go-boilerplate#github.com_bernardinorafael_go_boilerplate",
@@ -187005,6 +187182,19 @@
     ],
     "updated_at": "2025-06-30",
     "version": "v0.0.0-20250627210727-059fb3740a3a"
+  },
+  {
+    "description": "Go Repository Template for Google Cloud Run",
+    "name": "go-cloud-run",
+    "pkg_id": "go-cloud-run#github.com_dev_templates_go_cloud_run",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250908211600-44cf9c27183b"
   },
   {
     "description": "This project is a simple go cli to demonstrate usage of cobra package",
@@ -188595,6 +188785,19 @@
     "version": "HEAD-80c8b1d-250625T084123"
   },
   {
+    "description": "Tui ext for go-home",
+    "name": "go-home-tui",
+    "pkg_id": "go-home-tui#github.com_david_bosnic_go_home_tui",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250907181354-64c01c4093f3"
+  },
+  {
     "description": "Golang code by learning section",
     "name": "go-htmx",
     "pkg_id": "go-htmx#github.com_zeindevs_golang_source",
@@ -189537,6 +189740,19 @@
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-bb79367-230219T212242"
+  },
+  {
+    "description": "Update outdated Go dependencies interactively",
+    "name": "go-mod-upgrade",
+    "pkg_id": "go-mod-upgrade#github.com_jeremmfr_go_mod_upgrade",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.5.0"
   },
   {
     "description": "An opinionated tool for formatting and merging Go's go.mod and go.sum files",
@@ -194193,6 +194409,19 @@
     "version": "HEAD-4b6c79a-241125T081813"
   },
   {
+    "description": "Tool to spray AWS Console IAM Logins",
+    "name": "goawsconsolespray",
+    "pkg_id": "goawsconsolespray#github.com_confused_binary_goawsconsolespray",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250416144735-e8d8513a70d5"
+  },
+  {
     "description": "A random collection of my utilities",
     "name": "gobasename",
     "pkg_id": "gobasename#github.com_charlievieth_utils_pathutils",
@@ -196789,6 +197018,19 @@
     "version": "HEAD-bf1b00e-250627T113217"
   },
   {
+    "description": "Kafka in go lang.  Open to hire",
+    "name": "gofka",
+    "pkg_id": "gofka#github.com_alexandrecolauto_gofka",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250908030021-ee38f24d7d50"
+  },
+  {
     "description": "Make a lot of requests to a domain quickly",
     "name": "goflood",
     "pkg_id": "goflood#github.com_ao_goflood",
@@ -198119,6 +198361,18 @@
     ],
     "updated_at": "2025-06-30",
     "version": "v0.0.0-20250625194402-05dca9b4ac43"
+  },
+  {
+    "description": "Flexible, structured event replication format for DNS servers (command-line tool and Golang package",
+    "name": "golang-dnstap",
+    "pkg_id": "golang-dnstap#github.com_noxhq_golang_dnstap",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.2.2"
   },
   {
     "description": "A template project to create a minimal Docker image for a Go application",
@@ -200918,7 +201172,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-30",
+    "updated_at": "2025-09-09",
     "version": "v0.0.0-20250626055231-9733f6035fcd"
   },
   {
@@ -202220,6 +202474,19 @@
     ],
     "updated_at": "2025-09-02",
     "version": "v0.0.0-20250823224215-1fa72e39f6c3"
+  },
+  {
+    "description": "A reverse proxy in Golang",
+    "name": "gory-proxy",
+    "pkg_id": "gory-proxy#github.com_johnietre_gory_proxy",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250908071733-fc6961bb49d8"
   },
   {
     "description": "Gos: Armed Golang 💪 _ solutions for go module, goproxy, cross compilation, etc._",
@@ -210931,7 +211198,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-08-27",
+    "updated_at": "2025-09-09",
     "version": "v0.6.8"
   },
   {
@@ -216472,6 +216739,19 @@
     ],
     "updated_at": "2025-06-27",
     "version": "HEAD-0a38de4-250627T113040"
+  },
+  {
+    "description": "Tillich-Zemor hashing golang implementation",
+    "name": "homo",
+    "pkg_id": "homo#github.com_nspcc_dev_tzhash",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v1.8.3"
   },
   {
     "description": "Simula um ambiente de homologação do Renave para servir como mock de uma API que consulta operações Renave na SERPRO",
@@ -224874,6 +225154,19 @@
     ],
     "updated_at": "2025-08-31",
     "version": "v1.1.1"
+  },
+  {
+    "description": "Some basic programs",
+    "name": "imp_program",
+    "pkg_id": "imp_program#github.com_nicks914_imp_program",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250908174913-7c9eba802e13"
   },
   {
     "description": "Reverse Shell based on SSH over websocket.",
@@ -265748,6 +266041,19 @@
     "version": "v0.0.0-20250709005006-64b3faa55565"
   },
   {
+    "description": "Sqlite MCP server",
+    "name": "mcp-sqlite-server",
+    "pkg_id": "mcp-sqlite-server#github.com_liliang_cn_mcp_sqlite_server",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v1.0.1"
+  },
+  {
     "description": "MCP server connecting AI systems to Stockfish chess engine",
     "name": "mcp-stockfish",
     "pkg_id": "mcp-stockfish#github.com_sonirico_mcp_stockfish",
@@ -266456,6 +266762,19 @@
     "version": "HEAD-49937be-250308T121232"
   },
   {
+    "description": "A cross-platform CLI tool to instantly serve and live-preview Markdown files with GitHub styling",
+    "name": "mdserve",
+    "pkg_id": "mdserve#github.com_badiwidya_mdserve",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250905010951-6105bc84da6e"
+  },
+  {
     "description": "The Prometheus monitoring system and time series database",
     "name": "mdserve",
     "pkg_id": "mdserve#github.com_prometheus_prometheus_web_ui_mantine_ui_src_promql_tools",
@@ -266571,6 +266890,19 @@
     ],
     "updated_at": "2025-07-16",
     "version": "v0.9.4"
+  },
+  {
+    "description": "Go linter detecting confusing for-range usage",
+    "name": "meanind",
+    "pkg_id": "meanind#github.com_m0t9_meanind",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250509101519-d0ecda71af91"
   },
   {
     "description": "SDK to build network tools based on Outline components",
@@ -275993,6 +276325,19 @@
     ],
     "updated_at": "2025-08-07",
     "version": "v0.0.0-20250801060141-d5341fbd53b1"
+  },
+  {
+    "description": "Golang package to decode and encode SAP announcements according to RFC 2974",
+    "name": "monitor",
+    "pkg_id": "monitor#github.com_holoplot_go_sap",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250907071343-7683e6981e9d"
   },
   {
     "description": "Go tools for monitoring SFPUC water account usage",
@@ -288610,6 +288955,17 @@
     "version": "v0.0.0-20250831120716-400528a1ca9d"
   },
   {
+    "description": "Find NPM packages in URLs and determine if they can be hijacked",
+    "name": "npmjack",
+    "pkg_id": "npmjack#github.com_root4loot_npmjack",
+    "targets": [
+      "loongarch64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250908143751-2f8049bf9dcb"
+  },
+  {
     "description": "A CLI tool that lets you browse and run npm, pnpm, yarn, or bun scripts from a local project",
     "name": "npr",
     "pkg_id": "npr#github.com_mohammedyh_npr",
@@ -289153,6 +289509,17 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-c22068d-250108T155727"
+  },
+  {
+    "description": "提取QQ NT数据库 group_msg_table 中的纯文本",
+    "name": "ntdb-plaintext-extracter",
+    "pkg_id": "ntdb-plaintext-extracter#github.com_qqbackup_ntdb_plaintext_extracter",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250906133310-65b1ad365221"
   },
   {
     "description": "Example code, Codewars katas and a compiler for the Monkey programming language.",
@@ -294329,6 +294696,45 @@
     ],
     "updated_at": "2025-08-30",
     "version": "v0.0.0-20250131122238-3bb328ab04d2"
+  },
+  {
+    "description": "Collection of terminal monitoring utilities for openQA",
+    "name": "openqa-mon",
+    "pkg_id": "openqa-mon#github.com_grisu48_openqa_mon",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250820081825-8d3a9c5f45dc"
+  },
+  {
+    "description": "Collection of terminal monitoring utilities for openQA",
+    "name": "openqa-mq",
+    "pkg_id": "openqa-mq#github.com_grisu48_openqa_mon",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250820081825-8d3a9c5f45dc"
+  },
+  {
+    "description": "Collection of terminal monitoring utilities for openQA",
+    "name": "openqa-revtui",
+    "pkg_id": "openqa-revtui#github.com_grisu48_openqa_mon",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250820081825-8d3a9c5f45dc"
   },
   {
     "description": "openrisk is a tool that generates a risk score based on the results of a Nuclei scan.",
@@ -299799,6 +300205,19 @@
     "version": "HEAD-9e385f7-250109T090611"
   },
   {
+    "description": "Some basic programs",
+    "name": "palindrome",
+    "pkg_id": "palindrome#github.com_nicks914_imp_program",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250908174913-7c9eba802e13"
+  },
+  {
     "description": "Includes solutions to coding problems, interviews and my favourite algorithms, as well as other interesting stuff",
     "name": "palindrome-go",
     "pkg_id": "palindrome-go#github.com_ozoniuss_algorithms",
@@ -302494,6 +302913,19 @@
     ],
     "updated_at": "2025-06-26",
     "version": "HEAD-379c6c7-250625T142450"
+  },
+  {
+    "description": "Find your way through the maze of misrouted requests",
+    "name": "pathfinder",
+    "pkg_id": "pathfinder#github.com_highonsemicolon_pathfinder",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250823093806-6852373bd900"
   },
   {
     "description": "Generates html documents for printing spells with their description",
@@ -319677,6 +320109,19 @@
     "version": "v0.0.0-20250625195119-16fd06a5435a"
   },
   {
+    "description": "为 go-zero 项目提供 go-kratos 风格错误处理的 protoc 插件",
+    "name": "protoc-gen-go-zero-errors",
+    "pkg_id": "protoc-gen-go-zero-errors#github.com_honeybbq_protoc_gen_go_zero_errors",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250624101400-ccdd8c8b1cbd"
+  },
+  {
     "description": "Generate Go API client libraries from Protocol Buffers.",
     "name": "protoc-gen-go_cli",
     "pkg_id": "protoc-gen-go_cli#github.com_googleapis_gapic_generator_go",
@@ -322382,6 +322827,19 @@
     ],
     "updated_at": "2025-08-01",
     "version": "v0.0.0-20250715213745-8f0f710fa5de"
+  },
+  {
+    "description": "Psl fetches and filters the Public Suffix List based on user-specified criteria",
+    "name": "psl",
+    "pkg_id": "psl#github.com_cybercdh_psl",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250908133305-72092feb03e6"
   },
   {
     "description": "No Description Provided",
@@ -328300,6 +328758,19 @@
     ],
     "updated_at": "2025-06-26",
     "version": "HEAD-29ebb4a-250625T163949"
+  },
+  {
+    "description": "A Prometheus exporter similar to blackbox_exporter but for RADIUS servers",
+    "name": "radius-exporter",
+    "pkg_id": "radius-exporter#github.com_devon_mar_radius_exporter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.4.0"
   },
   {
     "description": "No Description Provided",
@@ -335812,6 +336283,19 @@
     "version": "v0.0.0-20250530170219-8bd83d14abc6"
   },
   {
+    "description": "Controller responsible for validating PVC data sources",
+    "name": "release-tools",
+    "pkg_id": "release-tools#github.com_kubernetes_csi_volume_data_source_validator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250908232728-0690ac2a6318"
+  },
+  {
     "description": "The Google Compute Engine Persistent Disk _GCE PD_ Container Storage Interface _CSI_ Storage Plugin.",
     "name": "release-tools",
     "pkg_id": "release-tools#github.com_kubernetes_sigs_gcp_compute_persistent_disk_csi_driver",
@@ -340626,6 +341110,19 @@
     "version": "HEAD-213186b-250617T110956"
   },
   {
+    "description": "Some basic programs",
+    "name": "reverse_string",
+    "pkg_id": "reverse_string#github.com_nicks914_imp_program",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250908174913-7c9eba802e13"
+  },
+  {
     "description": "Example code, Codewars katas and a compiler for the Monkey programming language.",
     "name": "reverse_string",
     "pkg_id": "reverse_string#github.com_sammi_turner_Assorted_Golang",
@@ -344052,6 +344549,19 @@
     ],
     "updated_at": "2025-07-11",
     "version": "v0.0.0-20250205165222-d430a453842f"
+  },
+  {
+    "description": "RPN in Golang",
+    "name": "rpn-go",
+    "pkg_id": "rpn-go#github.com_celioyutaka_rpn_go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250227014003-a70bcc9da688"
   },
   {
     "description": "A simplified WireGuard-based reverse proxy",
@@ -356488,6 +356998,19 @@
     "version": "v0.0.0-20250407221139-bb2673f3136d"
   },
   {
+    "description": "A small server-client app to practice hashing and encryption in Go",
+    "name": "server",
+    "pkg_id": "server#github.com_charafzellou_golang_crypto_validator",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250903160434-1dd946cfcdcf"
+  },
+  {
     "description": "Minimalist GRPC Client-Server template in Golang",
     "name": "server",
     "pkg_id": "server#github.com_charafzellou_grpc_golang_template",
@@ -358102,6 +358625,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-6b8f00d-241129T212944"
+  },
+  {
+    "description": "A bunch of projects made using Go programming language",
+    "name": "server",
+    "pkg_id": "server#github.com_muhtadi1laskar_go_projects",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250819124906-ce29932d6d93"
   },
   {
     "description": "A collection of comprehensible Go examples",
@@ -364990,6 +365526,17 @@
     "version": "v0.1.1"
   },
   {
+    "description": "Find NPM packages in URLs and determine if they can be hijacked",
+    "name": "simple",
+    "pkg_id": "simple#github.com_root4loot_npmjack",
+    "targets": [
+      "loongarch64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250908143751-2f8049bf9dcb"
+  },
+  {
     "description": "Fork of cview fork of tview",
     "name": "simple",
     "pkg_id": "simple#github.com_sedwards2009_nuview",
@@ -367983,6 +368530,19 @@
     ],
     "updated_at": "2025-06-21",
     "version": "20250621T143757"
+  },
+  {
+    "description": "Various scripts written in Golang",
+    "name": "slackmessageparser",
+    "pkg_id": "slackmessageparser#github.com_michplunkett_golang_scripting",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250908225442-875ab5198dd9"
   },
   {
     "description": "_Golang_ Go bindings for Discord",
@@ -376205,6 +376765,19 @@
     "version": "HEAD-2c2a5fd-250623T215122"
   },
   {
+    "description": "A subtitle editor for SRT files",
+    "name": "srt-editor",
+    "pkg_id": "srt-editor#github.com_hitalos_srt_editor",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250427052024-8619094e6dc5"
+  },
+  {
     "description": "Edwards curve ed25519 identity based RPC for Go/golang. TLS-v1.3 over TCP (or QUIC",
     "name": "srv",
     "pkg_id": "srv#github.com_glycerine_rpc25519",
@@ -376513,6 +377086,19 @@
     ],
     "updated_at": "2025-08-13",
     "version": "v0.0.0-20250812215033-a5dbdb81e95b"
+  },
+  {
+    "description": "SSH agent proxy for tmux",
+    "name": "ssh-agent-switcher",
+    "pkg_id": "ssh-agent-switcher#github.com_jmmv_ssh_agent_switcher",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250403014425-0829683e800e"
   },
   {
     "description": "Telegram bot for executing commands on remote hosts via ssh",
@@ -377901,6 +378487,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-92da5af-250619T134122"
+  },
+  {
+    "description": "Stalk and Hunt Flake Testgrid Jobs",
+    "name": "stalker",
+    "pkg_id": "stalker#github.com_knabben_stalker",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250908162630-f027f62e53a1"
   },
   {
     "description": "Concurrent UDP ping-ping. Scales into the M's when testing firewall state handling",
@@ -388105,6 +388704,19 @@
     ],
     "updated_at": "2025-06-25",
     "version": "HEAD-5d97bd0-250625T132550"
+  },
+  {
+    "description": "T: The Trivially Translatable Thing",
+    "name": "t",
+    "pkg_id": "t#github.com_justledbetter_t",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.3.0"
   },
   {
     "description": "Scry Componentized development framework",
@@ -408394,6 +409006,19 @@
     "version": "v1.11.8"
   },
   {
+    "description": "Verify and print TPM2.0 Quotes (Attestation",
+    "name": "tpm2-quote-attest",
+    "pkg_id": "tpm2-quote-attest#github.com_kioubit_tpm2_quote_attest",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250716191757-d0403ba3eb9d"
+  },
+  {
     "description": "Kubernetes Trusted Platform Module _TPM_ DaemonSet",
     "name": "tpm_daemonset",
     "pkg_id": "tpm_daemonset#github.com_salrashid123_tpm_daemonset",
@@ -414604,6 +415229,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-708d091-230223T164207"
+  },
+  {
+    "description": "Tillich-Zemor hashing golang implementation",
+    "name": "tzsum",
+    "pkg_id": "tzsum#github.com_nspcc_dev_tzhash",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v1.8.3"
   },
   {
     "description": "No Description Provided",
@@ -421430,7 +422068,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-08-29",
+    "updated_at": "2025-09-09",
     "version": "v3.5.22"
   },
   {
@@ -434359,6 +434997,19 @@
     ],
     "updated_at": "2025-09-03",
     "version": "v0.0.0-20250902183229-a900cf973ea5"
+  },
+  {
+    "description": "WhatsApp MCP server",
+    "name": "whatsapp-bridge",
+    "pkg_id": "whatsapp-bridge#github.com_lharries_whatsapp_mcp_whatsapp_bridge",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-09",
+    "version": "v0.0.0-20250713172200-7d6a06dcdce1"
   },
   {
     "description": "No Description Provided",
