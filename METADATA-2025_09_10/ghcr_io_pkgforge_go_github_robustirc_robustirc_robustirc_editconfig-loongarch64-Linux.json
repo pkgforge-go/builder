@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "robustirc-editconfig",
+  "pkg_family": "robustirc",
+  "pkg_id": "robustirc-editconfig#github.com_robustirc_robustirc",
+  "pkg_name": "robustirc-editconfig",
+  "pkg_type": "static",
+  "pkg_webpage": "https://robustirc.net/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "RobustIRC - an IRC network without netsplits, implemented in Go using the Raft consensus algorithm",
+  "homepage": [
+    "https://robustirc.net/"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "robustirc",
+    "robustirc-canary",
+    "robustirc-dump",
+    "robustirc-editconfig",
+    "robustirc-localnet",
+    "robustirc-merge-coverage",
+    "robustirc-refuse",
+    "robustirc-removepeer",
+    "robustirc-rollingrestart"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/robustirc/robustirc/@v/v0.0.0-20250908135041-8b1225c55e40.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250908135041-8b1225c55e40",
+  "version_upstream": "",
+  "bsum": "7a3c46f3427f3dc60f08e2ac95ac5ba8a2ce11fcb064b2f5c6bba677fc3a8a55",
+  "build_date": "2025-09-10T04:12:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17602479775",
+  "build_id": "17602479775",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/robustirc/robustirc/robustirc-editconfig?tag=v0.0.0-20250908135041-8b1225c55e40-loongarch64-Linux&download=robustirc-editconfig.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "185",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/robustirc/robustirc/robustirc-editconfig?tag=v0.0.0-20250908135041-8b1225c55e40-loongarch64-Linux&download=robustirc-editconfig",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/robustirc/robustirc/robustirc-editconfig:v0.0.0-20250908135041-8b1225c55e40-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/robustirc/robustirc/robustirc-editconfig",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/robustirc/robustirc/robustirc-editconfig?tag=v0.0.0-20250908135041-8b1225c55e40-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1ed90f31e2e2df88aa12e9f7c2ff68796b378a6fc2d32ef4e61dc748b1a87774",
+  "size": "7.0 MB",
+  "size_raw": "7300768",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
