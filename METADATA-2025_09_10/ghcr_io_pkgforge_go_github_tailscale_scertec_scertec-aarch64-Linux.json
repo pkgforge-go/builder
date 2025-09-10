@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "scertec",
+  "pkg_family": "scertec",
+  "pkg_id": "scertec#github.com_tailscale_scertec",
+  "pkg_name": "scertec",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tailscale/scertec",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "ACME client daemon that puts fresh HTTPS certs in setec, and client to get them out of at serving time",
+  "homepage": [
+    "https://github.com/tailscale/scertec"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "scertec"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/tailscale/scertec/@v/v0.0.0-20250909174650-9e84640a13c2.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250909174650-9e84640a13c2",
+  "version_upstream": "",
+  "bsum": "0e7f593be4d47419fe6dd6fbc2f6ae76a5d3081aa7ba83cb701d3d9b88778380",
+  "build_date": "2025-09-10T04:13:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17602483090",
+  "build_id": "17602483090",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tailscale/scertec/scertec?tag=v0.0.0-20250909174650-9e84640a13c2-aarch64-Linux&download=scertec.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "35",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tailscale/scertec/scertec?tag=v0.0.0-20250909174650-9e84640a13c2-aarch64-Linux&download=scertec",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tailscale/scertec/scertec:v0.0.0-20250909174650-9e84640a13c2-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tailscale/scertec/scertec",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tailscale/scertec/scertec?tag=v0.0.0-20250909174650-9e84640a13c2-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "abb07ad5ee24d4a35ef36188719dec82d91df45bc287e76dffd03e2dbcc5ded9",
+  "size": "14 MB",
+  "size_raw": "14137792",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
