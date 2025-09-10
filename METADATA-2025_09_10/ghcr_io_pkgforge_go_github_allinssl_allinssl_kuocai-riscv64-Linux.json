@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "kuocai",
+  "pkg_family": "allinssl",
+  "pkg_id": "kuocai#github.com_allinssl_allinssl",
+  "pkg_name": "kuocai",
+  "pkg_type": "static",
+  "pkg_webpage": "https://allinssl.com",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "AllinSSL 是一个集证书申请、管理、部署和监控于一体的SSL证书全生命周期管理工具。AllinSSL is an all-in-one SSL certificate lifecycle management tool that integrates certificate application, management, deployment, and monitoring",
+  "homepage": [
+    "https://allinssl.com"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aliyun",
+    "allinssl-cmd",
+    "doge",
+    "kuocai"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/allinssl/allinssl/@v/v1.1.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.1.0",
+  "version_upstream": "",
+  "bsum": "6aef658fcb2102b2efa8eac791aa9b0e6dab0a3ceebe3ce58a36909202c4e5ea",
+  "build_date": "2025-09-10T03:44:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17602417126",
+  "build_id": "17602417126",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/allinssl/allinssl/kuocai?tag=v1.1.0-riscv64-Linux&download=kuocai.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2842",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/allinssl/allinssl/kuocai?tag=v1.1.0-riscv64-Linux&download=kuocai",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/allinssl/allinssl/kuocai:v1.1.0-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/allinssl/allinssl/kuocai",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/allinssl/allinssl/kuocai?tag=v1.1.0-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ffda1e4f26f2385706614e60a1365c7c90f22324a64f7a98689f320a090afedd",
+  "size": "6.0 MB",
+  "size_raw": "6213352",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
