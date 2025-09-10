@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "doge",
+  "pkg_family": "allinssl",
+  "pkg_id": "doge#github.com_allinssl_allinssl",
+  "pkg_name": "doge",
+  "pkg_type": "static",
+  "pkg_webpage": "https://allinssl.com",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "AllinSSL 是一个集证书申请、管理、部署和监控于一体的SSL证书全生命周期管理工具。AllinSSL is an all-in-one SSL certificate lifecycle management tool that integrates certificate application, management, deployment, and monitoring",
+  "homepage": [
+    "https://allinssl.com"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aliyun",
+    "allinssl-cmd",
+    "doge",
+    "kuocai"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/allinssl/allinssl/@v/v1.1.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.1.0",
+  "version_upstream": "",
+  "bsum": "34d8a9e3d2e9b08e250dc27be34f522c40817d433320f424f1d993c30e218275",
+  "build_date": "2025-09-10T03:44:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17602417126",
+  "build_id": "17602417126",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/allinssl/allinssl/doge?tag=v1.1.0-riscv64-Linux&download=doge.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2842",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/allinssl/allinssl/doge?tag=v1.1.0-riscv64-Linux&download=doge",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/allinssl/allinssl/doge:v1.1.0-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/allinssl/allinssl/doge",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/allinssl/allinssl/doge?tag=v1.1.0-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a357b562803f68f7980bbfde40e5188e5b22d6257a7629e0f4d4dbc510af884b",
+  "size": "6.0 MB",
+  "size_raw": "6205032",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
