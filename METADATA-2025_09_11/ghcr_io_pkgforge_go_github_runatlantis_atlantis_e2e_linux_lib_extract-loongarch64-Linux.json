@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "linux-lib-extract",
+  "pkg_family": "e2e",
+  "pkg_id": "linux-lib-extract#github.com_runatlantis_atlantis_e2e",
+  "pkg_name": "linux-lib-extract",
+  "pkg_type": "static",
+  "pkg_webpage": "https://www.runatlantis.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Terraform Pull Request Automation",
+  "homepage": [
+    "https://www.runatlantis.io"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cache-local",
+    "codegen",
+    "fmt",
+    "group_transitive",
+    "linux-lib-extract",
+    "pass-env",
+    "remote-cache-progress",
+    "restorecache",
+    "simple",
+    "watch"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/hephbuild/heph/test/e2e/@v/v0.0.0-20250328123842-66766709b5ae.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250907014008-413b83617069",
+  "version_upstream": "",
+  "bsum": "d59d9b22769c3be6e735fc9be6ddb28eef1f0b5b313b86fb50386fd3e906e0e1",
+  "build_date": "2025-09-11T03:57:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17633282276",
+  "build_id": "17633282276",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/runatlantis/atlantis/e2e/linux-lib-extract?tag=v0.0.0-20250907014008-413b83617069-loongarch64-Linux&download=linux-lib-extract.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8479",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/runatlantis/atlantis/e2e/linux-lib-extract?tag=v0.0.0-20250907014008-413b83617069-loongarch64-Linux&download=linux-lib-extract",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/runatlantis/atlantis/e2e/linux-lib-extract:v0.0.0-20250907014008-413b83617069-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/runatlantis/atlantis/e2e/linux-lib-extract",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/runatlantis/atlantis/e2e/linux-lib-extract?tag=v0.0.0-20250907014008-413b83617069-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "30d29b37977a63bb4d0c382e55b827231a2f4a99acc7d1b5c3bf5b7bdea01b7c",
+  "size": "3.8 MB",
+  "size_raw": "3914400",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
