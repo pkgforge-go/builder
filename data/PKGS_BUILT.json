@@ -44120,7 +44120,9 @@
     "pkg_id": "asset-fetch#github.com_wwwfyl_asset_fetch",
     "targets": [
       "aarch64-Linux",
-      "riscv64-Linux"
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-09-11",
     "version": "v0.0.0-20250910220649-c732882d5ff6"
@@ -123047,7 +123049,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-08-17",
+    "updated_at": "2025-09-11",
     "version": "v0.0.0-20250816132636-098bf877a869"
   },
   {
@@ -167846,6 +167848,7 @@
     "name": "gateboard",
     "pkg_id": "gateboard#github.com_udhos_gateboard",
     "targets": [
+      "aarch64-Linux",
       "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
@@ -167858,6 +167861,7 @@
     "name": "gateboard-cache",
     "pkg_id": "gateboard-cache#github.com_udhos_gateboard",
     "targets": [
+      "aarch64-Linux",
       "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
@@ -167870,6 +167874,7 @@
     "name": "gateboard-client-example",
     "pkg_id": "gateboard-client-example#github.com_udhos_gateboard",
     "targets": [
+      "aarch64-Linux",
       "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
@@ -167882,6 +167887,7 @@
     "name": "gateboard-discovery",
     "pkg_id": "gateboard-discovery#github.com_udhos_gateboard",
     "targets": [
+      "aarch64-Linux",
       "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
@@ -167894,6 +167900,7 @@
     "name": "gateboard-trace",
     "pkg_id": "gateboard-trace#github.com_udhos_gateboard",
     "targets": [
+      "aarch64-Linux",
       "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
@@ -404258,6 +404265,19 @@
     "version": "v0.0.1"
   },
   {
+    "description": "Converter for Telegram stickers and animations into various formats",
+    "name": "tgs_file_convert",
+    "pkg_id": "tgs_file_convert#github.com_yazmeyaa_telegram_sticker_converter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-11",
+    "version": "v1.0.3"
+  },
+  {
     "description": "Download torrent files to your private NAS",
     "name": "tgtorrentbot",
     "pkg_id": "tgtorrentbot#github.com_minya_tgtorrentbot",
@@ -435715,6 +435735,19 @@
     ],
     "updated_at": "2025-09-05",
     "version": "v0.14.3"
+  },
+  {
+    "description": "Converter for Telegram stickers and animations into various formats",
+    "name": "webm_file_convert",
+    "pkg_id": "webm_file_convert#github.com_yazmeyaa_telegram_sticker_converter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-11",
+    "version": "v1.0.3"
   },
   {
     "description": "Add, remove, and manage different versions of web-distributed software binaries. No elevated permissions required!",
