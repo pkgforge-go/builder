@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "thanosconvert",
+  "pkg_family": "cortex",
+  "pkg_id": "thanosconvert#github.com_cortexproject_cortex",
+  "pkg_name": "thanosconvert",
+  "pkg_type": "static",
+  "pkg_webpage": "https://cortexmetrics.io/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus",
+  "homepage": [
+    "https://cortexmetrics.io/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth-injector",
+    "cortex",
+    "doc-generator",
+    "query-audit",
+    "query-tee",
+    "test-exporter",
+    "thanosconvert",
+    "website"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/aity-cloud/cortex/@v/v1.19.0-monty.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250811234537-d9079f51e93a",
+  "version_upstream": "",
+  "bsum": "ad0779ccc40719a57834f2240c04a0fb6a512fb3f35e4a33977be1f000298d00",
+  "build_date": "2025-09-11T03:50:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17633280065",
+  "build_id": "17633280065",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexproject/cortex/thanosconvert?tag=v0.0.0-20250811234537-d9079f51e93a-x86_64-Linux&download=thanosconvert.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5650",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexproject/cortex/thanosconvert?tag=v0.0.0-20250811234537-d9079f51e93a-x86_64-Linux&download=thanosconvert",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cortexproject/cortex/thanosconvert:v0.0.0-20250811234537-d9079f51e93a-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cortexproject/cortex/thanosconvert",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexproject/cortex/thanosconvert?tag=v0.0.0-20250811234537-d9079f51e93a-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "911f7cee86252db89b3214dc13ed3c96164b6f7d8ba8d76be20e4f58537ad3c4",
+  "size": "58 MB",
+  "size_raw": "60245936",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-fbc197f-250619T000841-x86_64-Linux",
+    "HEAD-bf88f67-250621T233300-x86_64-Linux",
+    "HEAD-f9fc11c-250623T105316-x86_64-Linux",
+    "HEAD-bd2bebf-250624T115532-x86_64-Linux",
+    "HEAD-16a2f54-250626T172806-x86_64-Linux",
+    "v0.0.0-20250723172404-328bc3ba71a7-x86_64-Linux",
+    "v0.0.0-20250811234537-d9079f51e93a-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
