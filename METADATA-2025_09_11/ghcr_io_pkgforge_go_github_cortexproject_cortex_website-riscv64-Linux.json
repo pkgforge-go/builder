@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "website",
+  "pkg_family": "cortex",
+  "pkg_id": "website#github.com_cortexproject_cortex",
+  "pkg_name": "website",
+  "pkg_type": "static",
+  "pkg_webpage": "https://cortexmetrics.io/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus",
+  "homepage": [
+    "https://cortexmetrics.io/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth-injector",
+    "cortex",
+    "doc-generator",
+    "query-audit",
+    "query-tee",
+    "test-exporter",
+    "thanosconvert",
+    "website"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/aity-cloud/cortex/@v/v1.19.0-monty.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250811234537-d9079f51e93a",
+  "version_upstream": "",
+  "bsum": "80055c5adbb5ca258f7a5be3ee68b4f830327fc5547b0130866603e87c2ff6b7",
+  "build_date": "2025-09-11T03:49:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17633280065",
+  "build_id": "17633280065",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexproject/cortex/website?tag=v0.0.0-20250811234537-d9079f51e93a-riscv64-Linux&download=website.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "5650",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexproject/cortex/website?tag=v0.0.0-20250811234537-d9079f51e93a-riscv64-Linux&download=website",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cortexproject/cortex/website:v0.0.0-20250811234537-d9079f51e93a-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cortexproject/cortex/website",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cortexproject/cortex/website?tag=v0.0.0-20250811234537-d9079f51e93a-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0a3c8efdc626e1bd6bc3b23126a45e6ee5e5f399cdda6b1544ce80c39a408d5d",
+  "size": "2.0 MB",
+  "size_raw": "2086040",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-fbc197f-250619T000841-riscv64-Linux",
+    "HEAD-bf88f67-250621T233300-riscv64-Linux",
+    "HEAD-f9fc11c-250623T105316-riscv64-Linux",
+    "HEAD-bd2bebf-250624T115532-riscv64-Linux",
+    "HEAD-16a2f54-250626T172806-riscv64-Linux",
+    "v0.0.0-20250723172404-328bc3ba71a7-riscv64-Linux",
+    "v0.0.0-20250811234537-d9079f51e93a-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
