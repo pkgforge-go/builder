@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gateboard",
+  "pkg_family": "gateboard",
+  "pkg_id": "gateboard#github.com_udhos_gateboard",
+  "pkg_name": "gateboard",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/udhos/gateboard",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Gateboard resolves AWS Private API Gateway ID",
+  "homepage": [
+    "https://github.com/udhos/gateboard"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "gateboard",
+    "gateboard-cache",
+    "gateboard-client-example",
+    "gateboard-discovery",
+    "gateboard-trace"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/udhos/gateboard/@v/v1.12.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.12.1",
+  "version_upstream": "",
+  "bsum": "5ec8ace17fed22748b3ab73d13f75d552876ac3db6d01c85c3e0dd6d0e4d882a",
+  "build_date": "2025-09-11T04:20:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17633342117",
+  "build_id": "17633342117",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/udhos/gateboard/gateboard?tag=v1.12.1-riscv64-Linux&download=gateboard.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/udhos/gateboard/gateboard?tag=v1.12.1-riscv64-Linux&download=gateboard",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/udhos/gateboard/gateboard:v1.12.1-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/udhos/gateboard/gateboard",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/udhos/gateboard/gateboard?tag=v1.12.1-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "37592f502212073facc42a920ba9c235cb1cd141219fc0d74412649471a7bd8a",
+  "size": "81 MB",
+  "size_raw": "84119432",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
