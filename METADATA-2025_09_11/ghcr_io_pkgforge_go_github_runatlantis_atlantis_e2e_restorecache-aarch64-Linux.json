@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "restorecache",
+  "pkg_family": "e2e",
+  "pkg_id": "restorecache#github.com_runatlantis_atlantis_e2e",
+  "pkg_name": "restorecache",
+  "pkg_type": "static",
+  "pkg_webpage": "https://www.runatlantis.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Terraform Pull Request Automation",
+  "homepage": [
+    "https://www.runatlantis.io"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cache-local",
+    "codegen",
+    "fmt",
+    "group_transitive",
+    "linux-lib-extract",
+    "pass-env",
+    "remote-cache-progress",
+    "restorecache",
+    "simple",
+    "watch"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/hephbuild/heph/test/e2e/@v/v0.0.0-20250328123842-66766709b5ae.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250907014008-413b83617069",
+  "version_upstream": "",
+  "bsum": "e0b34ed5e169159d8bceee62aa6e4ff83b38a95b4b28ed43ea455b8af1532a05",
+  "build_date": "2025-09-11T03:58:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17633282276",
+  "build_id": "17633282276",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/runatlantis/atlantis/e2e/restorecache?tag=v0.0.0-20250907014008-413b83617069-aarch64-Linux&download=restorecache.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8479",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/runatlantis/atlantis/e2e/restorecache?tag=v0.0.0-20250907014008-413b83617069-aarch64-Linux&download=restorecache",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/runatlantis/atlantis/e2e/restorecache:v0.0.0-20250907014008-413b83617069-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/runatlantis/atlantis/e2e/restorecache",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/runatlantis/atlantis/e2e/restorecache?tag=v0.0.0-20250907014008-413b83617069-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "16fdb2a250167dceb868da184e7edf8e1d1eb12d4859fc1a9f6015bf8cdae848",
+  "size": "3.6 MB",
+  "size_raw": "3774080",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
