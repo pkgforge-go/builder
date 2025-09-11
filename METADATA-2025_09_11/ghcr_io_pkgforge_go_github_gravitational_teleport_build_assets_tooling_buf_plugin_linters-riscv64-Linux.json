@@ -1,0 +1,84 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "buf-plugin-linters",
+  "pkg_family": "tooling",
+  "pkg_id": "buf-plugin-linters#github.com_gravitational_teleport_build.assets_tooling",
+  "pkg_name": "buf-plugin-linters",
+  "pkg_type": "static",
+  "pkg_webpage": "https://goteleport.com",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The easiest, and most secure way to access and protect all of your infrastructure",
+  "homepage": [
+    "https://goteleport.com"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apiversion",
+    "buf-plugin-linters",
+    "check",
+    "difftest",
+    "goderive",
+    "protoc-gen-eventschema",
+    "query-latest",
+    "render-helm-ref",
+    "render-tests",
+    "rerun",
+    "update-plist-version"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/gravitational/teleport/build.assets/tooling/@v/v0.0.0-20250907140457-e82d7a5d4047.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250907140457-e82d7a5d4047",
+  "version_upstream": "",
+  "bsum": "238b0979338fdabd37816470e57d6e9c36ffec0c201473f67d610a91c3361558",
+  "build_date": "2025-09-11T01:56:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17631509640",
+  "build_id": "17631509640",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gravitational/teleport/build.assets/tooling/buf-plugin-linters?tag=v0.0.0-20250907140457-e82d7a5d4047-riscv64-Linux&download=buf-plugin-linters.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "19102",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gravitational/teleport/build.assets/tooling/buf-plugin-linters?tag=v0.0.0-20250907140457-e82d7a5d4047-riscv64-Linux&download=buf-plugin-linters",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/gravitational/teleport/build.assets/tooling/buf-plugin-linters:v0.0.0-20250907140457-e82d7a5d4047-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/gravitational/teleport/build.assets/tooling/buf-plugin-linters",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/gravitational/teleport/build.assets/tooling/buf-plugin-linters?tag=v0.0.0-20250907140457-e82d7a5d4047-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2ff6ceedd4f6a62c582bb4b23c071415bec01f9ffe052f24cdb226f98cd9228e",
+  "size": "11 MB",
+  "size_raw": "10957272",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250810221017-191274b36d13-riscv64-Linux",
+    "v0.0.0-20250814003954-0f1d7acdcbd9-riscv64-Linux",
+    "v0.0.0-20250819225404-3c09ab8ec9ef-riscv64-Linux",
+    "v0.0.0-20250822232917-bd075a36c199-riscv64-Linux",
+    "v0.0.0-20250829205708-29081b445179-riscv64-Linux",
+    "v0.0.0-20250830141651-6a84aa733eef-riscv64-Linux",
+    "v0.0.0-20250903225338-3a7897bb4c7c-riscv64-Linux",
+    "v0.0.0-20250905213915-dcd4a9b1f88d-riscv64-Linux",
+    "v0.0.0-20250907140457-e82d7a5d4047-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
