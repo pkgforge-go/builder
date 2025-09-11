@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "linux-lib-extract",
+  "pkg_family": "e2e",
+  "pkg_id": "linux-lib-extract#github.com_runatlantis_atlantis_e2e",
+  "pkg_name": "linux-lib-extract",
+  "pkg_type": "static",
+  "pkg_webpage": "https://www.runatlantis.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Terraform Pull Request Automation",
+  "homepage": [
+    "https://www.runatlantis.io"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cache-local",
+    "codegen",
+    "fmt",
+    "group_transitive",
+    "linux-lib-extract",
+    "pass-env",
+    "remote-cache-progress",
+    "restorecache",
+    "simple",
+    "watch"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/hephbuild/heph/test/e2e/@v/v0.0.0-20250328123842-66766709b5ae.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250907014008-413b83617069",
+  "version_upstream": "",
+  "bsum": "eb180a88e2cd037c17c6a09ee9960566a93f5ce3b058564a772c154249e1fa8e",
+  "build_date": "2025-09-11T03:56:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17633282276",
+  "build_id": "17633282276",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/runatlantis/atlantis/e2e/linux-lib-extract?tag=v0.0.0-20250907014008-413b83617069-riscv64-Linux&download=linux-lib-extract.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8479",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/runatlantis/atlantis/e2e/linux-lib-extract?tag=v0.0.0-20250907014008-413b83617069-riscv64-Linux&download=linux-lib-extract",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/runatlantis/atlantis/e2e/linux-lib-extract:v0.0.0-20250907014008-413b83617069-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/runatlantis/atlantis/e2e/linux-lib-extract",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/runatlantis/atlantis/e2e/linux-lib-extract?tag=v0.0.0-20250907014008-413b83617069-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bc6260d9c5bd5de2f67ffe5bbd9cf3ba2f605c7be83feb6a4079671a09869a78",
+  "size": "3.7 MB",
+  "size_raw": "3831752",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

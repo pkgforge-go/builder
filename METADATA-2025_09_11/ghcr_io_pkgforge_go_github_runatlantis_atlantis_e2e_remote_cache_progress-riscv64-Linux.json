@@ -1,0 +1,73 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "remote-cache-progress",
+  "pkg_family": "e2e",
+  "pkg_id": "remote-cache-progress#github.com_runatlantis_atlantis_e2e",
+  "pkg_name": "remote-cache-progress",
+  "pkg_type": "static",
+  "pkg_webpage": "https://www.runatlantis.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Terraform Pull Request Automation",
+  "homepage": [
+    "https://www.runatlantis.io"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cache-local",
+    "codegen",
+    "fmt",
+    "group_transitive",
+    "linux-lib-extract",
+    "pass-env",
+    "remote-cache-progress",
+    "restorecache",
+    "simple",
+    "watch"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/hephbuild/heph/test/e2e/@v/v0.0.0-20250328123842-66766709b5ae.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250907014008-413b83617069",
+  "version_upstream": "",
+  "bsum": "9dae5c221d414efcfbbccd6f74909d0509af80e221322e4e0c333698d55bd8da",
+  "build_date": "2025-09-11T03:57:46Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17633282276",
+  "build_id": "17633282276",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/runatlantis/atlantis/e2e/remote-cache-progress?tag=v0.0.0-20250907014008-413b83617069-riscv64-Linux&download=remote-cache-progress.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "8479",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/runatlantis/atlantis/e2e/remote-cache-progress?tag=v0.0.0-20250907014008-413b83617069-riscv64-Linux&download=remote-cache-progress",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/runatlantis/atlantis/e2e/remote-cache-progress:v0.0.0-20250907014008-413b83617069-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/runatlantis/atlantis/e2e/remote-cache-progress",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/runatlantis/atlantis/e2e/remote-cache-progress?tag=v0.0.0-20250907014008-413b83617069-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b5e7372edd53b34d694fba9898bf7541c4fdad7e3ae16b0c8c3c72bceea5ace6",
+  "size": "3.7 MB",
+  "size_raw": "3836552",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
