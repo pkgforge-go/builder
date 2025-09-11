@@ -742,6 +742,7 @@
 - 🐹 **[devel](https://github.com/nvidia/k8s-device-plugin)**: NVIDIA device plugin for Kubernetes.
 - 🐹 **[geany](https://www.geany.org)**: A fast and lightweight IDE.
 - 🐹 **[go](https://docs.microsandbox.dev)**: Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code.
+- 🐹 **[sql-migrate](https://github.com/rubenv/sql-migrate)**: SQL schema migration tool for Go.
 - 🐹 **[graphql](https://docs.gofiber.io/recipes/)**: Examples for 🚀 Fiber.
 - 🐹 **[sse](https://docs.gofiber.io/recipes/)**: Examples for 🚀 Fiber.
 - 🐹 **[pb2tarsgo](https://github.com/tarscloud/tarsgo)**: A  high performance microservice  framework  in golang.
@@ -802,6 +803,7 @@
 - 🐹 **[use_equal](https://www.git-town.com)**: Git branches made easy.
 - 🐹 **[consul](https://sentinelguard.io/)**: Sentinel Go enables reliability and resiliency for Go microservices.
 - 🐹 **[nacos](https://sentinelguard.io/)**: Sentinel Go enables reliability and resiliency for Go microservices.
+- 🐹 **[hello](https://github.com/golang/example)**: Go example projects.
 - 🐹 **[http-server](https://www.coraza.io)**: OWASP Coraza WAF is a golang modsecurity compatible web application firewall library.
 - 🐹 **[go](https://iggy.apache.org)**: Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed.
 - 🐹 **[allinssl](https://allinssl.com)**: AllinSSL 是一个集证书申请、管理、部署和监控于一体的SSL证书全生命周期管理工具。AllinSSL is an all-in-one SSL certificate lifecycle management tool that integrates certificate application, management, deployment, and monitoring.
@@ -1381,6 +1383,7 @@
 - 🐹 **[baremetal-operator](https://github.com/metalkube/baremetal-operator)**: Bare metal host provisioning integration for Kubernetes.
 - 🐹 **[http_bench](https://http-bench.vercel.app)**: Golang HTTP stress testing tool, support single and distributed, http/1, http/2 and http/3.
 - 🐹 **[amazon-eks-pod-identity-webhook](https://github.com/aws/amazon-eks-pod-identity-webhook)**: Amazon EKS Pod Identity Webhook.
+- 🐹 **[go-astisub](https://github.com/asticode/go-astisub)**: Manipulate subtitles in GO (.
 - 🐹 **[apparmor.d](https://apparmor.pujol.io)**: Full set of AppArmor policies.
 - 🐹 **[cheatsheets](https://github.com/r1cksec/cheatsheets)**: Collection of knowledge about information security.
 - 🐹 **[codenames](https://www.horsepaste.com)**: Play horse paste online.
@@ -1507,6 +1510,7 @@
 - 🐹 **[bench](https://github.com/kelindar/event)**: Simple internal event bus for Go applications.
 - 🐹 **[dora](https://github.com/dinfuehr/dora)**: Dora VM.
 - 🐹 **[cilium-cli](https://cilium.io)**: CLI to install, manage & troubleshoot Kubernetes clusters running Cilium.
+- 🐹 **[xx](https://github.com/tonistiigi/xx)**: Dockerfile cross-compilation helpers.
 - 🐹 **[aws-for-fluent-bit](https://github.com/aws/aws-for-fluent-bit)**: The source of the amazon/aws-for-fluent-bit container image.
 - 🐹 **[onex](https://konglingfei.com)**: 高质量、易维护、高扩展的企业级 Go 项目+ 云原生项目开发脚手架.
 - 🐹 **[onex](https://konglingfei.com)**: 高质量、易维护、高扩展的企业级 Go 项目+ 云原生项目开发脚手架.
