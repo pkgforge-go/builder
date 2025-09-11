@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "create_user",
+  "pkg_family": "auth_service",
+  "pkg_id": "create_user#github.com_all2prosperity_auth_service",
+  "pkg_name": "create_user",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/all2prosperity/auth_service",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Modular auth service could easy be integrate to a project",
+  "homepage": [
+    "https://github.com/all2prosperity/auth_service"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "console",
+    "create_user",
+    "migrate",
+    "renew_token",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/all2prosperity/auth_service/@v/v0.0.2.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.2",
+  "version_upstream": "",
+  "bsum": "69f2d61d99142c67a8c361110a1de9b9ac8482fda0ccdc3392946b45ffb3f173",
+  "build_date": "2025-09-11T03:43:36Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17633279546",
+  "build_id": "17633279546",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/all2prosperity/auth/service/create_user?tag=v0.0.2-riscv64-Linux&download=create_user.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/all2prosperity/auth/service/create_user?tag=v0.0.2-riscv64-Linux&download=create_user",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/all2prosperity/auth/service/create_user:v0.0.2-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/all2prosperity/auth/service/create_user",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/all2prosperity/auth/service/create_user?tag=v0.0.2-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6ba1d330e8e2b33b7e5d9e7d404607c2d0de43745b882b573659a36ce6878022",
+  "size": "13 MB",
+  "size_raw": "12732872",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
