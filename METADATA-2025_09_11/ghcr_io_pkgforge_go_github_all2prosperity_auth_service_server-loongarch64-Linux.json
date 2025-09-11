@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "auth_service",
+  "pkg_id": "server#github.com_all2prosperity_auth_service",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/all2prosperity/auth_service",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Modular auth service could easy be integrate to a project",
+  "homepage": [
+    "https://github.com/all2prosperity/auth_service"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "console",
+    "create_user",
+    "migrate",
+    "renew_token",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/all2prosperity/auth_service/@v/v0.0.2.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.2",
+  "version_upstream": "",
+  "bsum": "6f1a45de5602273b218624cc9986099fda41fd9cfdee9061334c88b246d9844a",
+  "build_date": "2025-09-11T03:42:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17633279546",
+  "build_id": "17633279546",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/all2prosperity/auth/service/server?tag=v0.0.2-loongarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/all2prosperity/auth/service/server?tag=v0.0.2-loongarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/all2prosperity/auth/service/server:v0.0.2-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/all2prosperity/auth/service/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/all2prosperity/auth/service/server?tag=v0.0.2-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f9fee2d998de9c5f6089933bec7dcef1cbb750388cdb722637ab158e4e797986",
+  "size": "19 MB",
+  "size_raw": "19672576",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
