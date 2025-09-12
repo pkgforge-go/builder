@@ -46275,7 +46275,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-08-30",
+    "updated_at": "2025-09-12",
     "version": "v0.0.0-20250820012730-c413c6ac0cb8"
   },
   {
@@ -54168,6 +54168,19 @@
     ],
     "updated_at": "2025-06-27",
     "version": "HEAD-e7f544e-250627T000438"
+  },
+  {
+    "description": "Modern Bazel rules for building OCI container images with advanced performance optimizations",
+    "name": "bcr",
+    "pkg_id": "bcr#github.com_tweag_rules_img",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-12",
+    "version": "v0.2.0-rc1"
   },
   {
     "description": "Cloud-Barista Multi-Cloud Infra Management Framework",
@@ -127218,6 +127231,19 @@
     "version": "HEAD-ea17b42-250624T204427"
   },
   {
+    "description": "Modern Bazel rules for building OCI container images with advanced performance optimizations",
+    "name": "distdir",
+    "pkg_id": "distdir#github.com_tweag_rules_img",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-12",
+    "version": "v0.2.0-rc1"
+  },
+  {
     "description": "Go tool for building, distributing and publishing Go projects",
     "name": "distgo",
     "pkg_id": "distgo#github.com_palantir_distgo",
@@ -143671,6 +143697,19 @@
     ],
     "updated_at": "2025-06-30",
     "version": "v0.0.0-20250413075937-2f5ea99a911c"
+  },
+  {
+    "description": "A layer 2 switch for VMs powered by eBPF",
+    "name": "eswitch",
+    "pkg_id": "eswitch#github.com_thebsdbox_eswitch",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-12",
+    "version": "v0.0.0-20250225165135-065887b897e2"
   },
   {
     "description": "Accessing Hetereogenous Cloud APIs with a Unified In-process Golang Library",
@@ -186856,6 +186895,19 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.0.0-20250326110131-9b19c0d56551"
+  },
+  {
+    "description": "Modern Bazel rules for building OCI container images with advanced performance optimizations",
+    "name": "go",
+    "pkg_id": "go#github.com_tweag_rules_img",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-12",
+    "version": "v0.2.0-rc1"
   },
   {
     "description": "Go => V source code translator",
@@ -230788,6 +230840,19 @@
     "version": "HEAD-ef6f96b-250620T082601"
   },
   {
+    "description": "Modern Bazel rules for building OCI container images with advanced performance optimizations",
+    "name": "integration_test_runner",
+    "pkg_id": "integration_test_runner#github.com_tweag_rules_img",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-12",
+    "version": "v0.2.0-rc1"
+  },
+  {
     "description": "Go testing in the browser. Integrates with _go test_. Write behavioral tests in Go.",
     "name": "integration_testing",
     "pkg_id": "integration_testing#github.com_smartystreets_goconvey",
@@ -238213,7 +238278,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-09-11",
+    "updated_at": "2025-09-12",
     "version": "v1.0.0-beta4"
   },
   {
@@ -247631,6 +247696,19 @@
     "version": "HEAD-48578a3-250618T212157"
   },
   {
+    "description": "AWS Lambda function version cleaner",
+    "name": "lambda-clean",
+    "pkg_id": "lambda-clean#github.com_rxnew_lambda_clean",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-12",
+    "version": "v0.1.1"
+  },
+  {
     "description": "Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.md file below",
     "name": "lambda-cmd",
     "pkg_id": "lambda-cmd#github.com_awsdocs_aws_doc_sdk_examples_gov2_lambda",
@@ -255753,7 +255831,10 @@
     "name": "local-gitingest",
     "pkg_id": "local-gitingest#github.com_purrgod_local_gitingest",
     "targets": [
-      "loongarch64-Linux"
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-09-12",
     "version": "v1.0.1"
@@ -256241,6 +256322,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-03c982a-250224T154040"
+  },
+  {
+    "description": "Modern Bazel rules for building OCI container images with advanced performance optimizations",
+    "name": "lockfile",
+    "pkg_id": "lockfile#github.com_tweag_rules_img",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-12",
+    "version": "v0.2.0-rc1"
   },
   {
     "description": "GoExpertPostGrad is an expansive compilation of academic projects, practical assignments, and theoretical learning from the Lato Sensu post-graduation course in Advanced Development in Golang - Go Expert",
@@ -339530,6 +339624,19 @@
     "version": "v0.0.0-20250320190931-cb31ef79c5ce"
   },
   {
+    "description": "Render *.drawio files to PNG or PDF files in a GitHub Action",
+    "name": "render-drawio-action",
+    "pkg_id": "render-drawio-action#github.com_tbscompany_render_drawio_action",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-12",
+    "version": "v1.0.1"
+  },
+  {
     "description": "KRM functions catalog",
     "name": "render-helm-chart",
     "pkg_id": "render-helm-chart#github.com_krm_functions_catalog",
@@ -421113,6 +421220,19 @@
     "version": "HEAD-b333f9e-250506T205336"
   },
   {
+    "description": "Modern Bazel rules for building OCI container images with advanced performance optimizations",
+    "name": "update_release_files",
+    "pkg_id": "update_release_files#github.com_tweag_rules_img",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-12",
+    "version": "v0.2.0-rc1"
+  },
+  {
     "description": "A tool to track legislation you support",
     "name": "update_same_as",
     "pkg_id": "update_same_as#github.com_jehiah_legislation.support",
@@ -437788,7 +437908,9 @@
     "name": "which-dns",
     "pkg_id": "which-dns#github.com_redirect2me_which_dns",
     "targets": [
-      "aarch64-Linux"
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-09-12",
     "version": "v0.0.0-20250907190600-f4f39797067b"
