@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "dokku-event-listener",
+  "pkg_family": "dokku-event-listener",
+  "pkg_id": "dokku-event-listener#github.com_dokku_dokku_event_listener",
+  "pkg_name": "dokku-event-listener",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dokku/dokku-event-listener",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Service that listens to docker events and runs dokku commands",
+  "homepage": [
+    "https://github.com/dokku/dokku-event-listener"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dokku-event-listener"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/dokku/dokku-event-listener/@v/v0.17.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.17.3",
+  "version_upstream": "",
+  "bsum": "311e8e432e5f262be36845f987835a29f899e07a04a7625d82c49e588cc1dd8c",
+  "build_date": "2025-09-12T03:52:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17663796732",
+  "build_id": "17663796732",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dokku/dokku-event-listener/dokku-event-listener?tag=v0.17.3-riscv64-Linux&download=dokku-event-listener.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dokku/dokku-event-listener/dokku-event-listener?tag=v0.17.3-riscv64-Linux&download=dokku-event-listener",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dokku/dokku-event-listener/dokku-event-listener:v0.17.3-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dokku/dokku-event-listener/dokku-event-listener",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dokku/dokku-event-listener/dokku-event-listener?tag=v0.17.3-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7ba41f0587012f3bf28780af40e2e65d988b1af903ea811593a45458c1c9ce46",
+  "size": "11 MB",
+  "size_raw": "10998312",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
