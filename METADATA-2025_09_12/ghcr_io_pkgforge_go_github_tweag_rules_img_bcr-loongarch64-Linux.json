@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "bcr",
+  "pkg_family": "rules_img",
+  "pkg_id": "bcr#github.com_tweag_rules_img",
+  "pkg_name": "bcr",
+  "pkg_type": "static",
+  "pkg_webpage": "https://registry.bazel.build/modules/rules_img",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Modern Bazel rules for building OCI container images with advanced performance optimizations",
+  "homepage": [
+    "https://registry.bazel.build/modules/rules_img"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bcr",
+    "distdir",
+    "go",
+    "integration_test_runner",
+    "lockfile",
+    "update_release_files"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/tweag/rules_img/@v/v0.2.0-rc1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.2.0-rc1",
+  "version_upstream": "",
+  "bsum": "536f239515d375cc509b9a45a3893afa61275644240237e36c759bf3bd535de8",
+  "build_date": "2025-09-12T04:28:19Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17663875440",
+  "build_id": "17663875440",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tweag/rules/img/bcr?tag=v0.2.0-rc1-loongarch64-Linux&download=bcr.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "40",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tweag/rules/img/bcr?tag=v0.2.0-rc1-loongarch64-Linux&download=bcr",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tweag/rules/img/bcr:v0.2.0-rc1-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tweag/rules/img/bcr",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tweag/rules/img/bcr?tag=v0.2.0-rc1-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "138a257f7f998ac0bc5bbf053870db185139c2fcebbe1f417e40ee9ce2a7ebfd",
+  "size": "2.6 MB",
+  "size_raw": "2708064",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

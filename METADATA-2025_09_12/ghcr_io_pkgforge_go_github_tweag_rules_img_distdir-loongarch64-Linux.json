@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "distdir",
+  "pkg_family": "rules_img",
+  "pkg_id": "distdir#github.com_tweag_rules_img",
+  "pkg_name": "distdir",
+  "pkg_type": "static",
+  "pkg_webpage": "https://registry.bazel.build/modules/rules_img",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Modern Bazel rules for building OCI container images with advanced performance optimizations",
+  "homepage": [
+    "https://registry.bazel.build/modules/rules_img"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bcr",
+    "distdir",
+    "go",
+    "integration_test_runner",
+    "lockfile",
+    "update_release_files"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/tweag/rules_img/@v/v0.2.0-rc1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.2.0-rc1",
+  "version_upstream": "",
+  "bsum": "9614b2cef41de86f53799edbd75e99b6a0118d82f8b8560ab61ceb9f59cbc216",
+  "build_date": "2025-09-12T04:28:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17663875440",
+  "build_id": "17663875440",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tweag/rules/img/distdir?tag=v0.2.0-rc1-loongarch64-Linux&download=distdir.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "40",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tweag/rules/img/distdir?tag=v0.2.0-rc1-loongarch64-Linux&download=distdir",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tweag/rules/img/distdir:v0.2.0-rc1-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tweag/rules/img/distdir",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tweag/rules/img/distdir?tag=v0.2.0-rc1-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f73429794757736b61c2bb961c071fcd201267d9fbd6740d52272ab1018c41d3",
+  "size": "1.9 MB",
+  "size_raw": "1962776",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
