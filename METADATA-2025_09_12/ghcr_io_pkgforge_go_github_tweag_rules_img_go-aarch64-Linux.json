@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "go",
+  "pkg_family": "rules_img",
+  "pkg_id": "go#github.com_tweag_rules_img",
+  "pkg_name": "go",
+  "pkg_type": "static",
+  "pkg_webpage": "https://registry.bazel.build/modules/rules_img",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Modern Bazel rules for building OCI container images with advanced performance optimizations",
+  "homepage": [
+    "https://registry.bazel.build/modules/rules_img"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bcr",
+    "distdir",
+    "go",
+    "integration_test_runner",
+    "lockfile",
+    "update_release_files"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/tweag/rules_img/@v/v0.2.0-rc1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.2.0-rc1",
+  "version_upstream": "",
+  "bsum": "c717dd296820bd7743dacc2e7bd534f25f0c90a913e6d33a388a333c488ca0fe",
+  "build_date": "2025-09-12T04:29:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17663875440",
+  "build_id": "17663875440",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tweag/rules/img/go?tag=v0.2.0-rc1-aarch64-Linux&download=go.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "40",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tweag/rules/img/go?tag=v0.2.0-rc1-aarch64-Linux&download=go",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tweag/rules/img/go:v0.2.0-rc1-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tweag/rules/img/go",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tweag/rules/img/go?tag=v0.2.0-rc1-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2e3b594ac335a6f89ec3bd68a8774748e178137a32d65cc1355791d36cf14a81",
+  "size": "1.7 MB",
+  "size_raw": "1679608",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
