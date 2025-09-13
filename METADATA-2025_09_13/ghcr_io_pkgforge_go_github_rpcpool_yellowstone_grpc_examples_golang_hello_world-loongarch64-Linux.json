@@ -1,0 +1,76 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "hello-world",
+  "pkg_family": "golang",
+  "pkg_id": "hello-world#github.com_rpcpool_yellowstone_grpc_examples_golang",
+  "pkg_name": "hello-world",
+  "pkg_type": "static",
+  "pkg_webpage": "https://triton.one",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Solana geyser grpc service",
+  "homepage": [
+    "https://triton.one"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "decision-structures",
+    "ds-switch",
+    "go-http",
+    "hello-world",
+    "interfaces",
+    "loops",
+    "maps",
+    "pointers",
+    "receivers",
+    "slice",
+    "switch",
+    "types-structs",
+    "varfunc"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/kelbertt/golang/@v/v0.0.0-20250215025158-748dc4298d66.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250905085725-30bb2aa3c09b",
+  "version_upstream": "",
+  "bsum": "1646f43f0d519f9d43824afdd05ab40864e6b03dd28edda8264c882e2dfe814f",
+  "build_date": "2025-09-13T03:56:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17691218460",
+  "build_id": "17691218460",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rpcpool/yellowstone-grpc/examples/golang/hello-world?tag=v0.0.0-20250905085725-30bb2aa3c09b-loongarch64-Linux&download=hello-world.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "797",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rpcpool/yellowstone-grpc/examples/golang/hello-world?tag=v0.0.0-20250905085725-30bb2aa3c09b-loongarch64-Linux&download=hello-world",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rpcpool/yellowstone-grpc/examples/golang/hello-world:v0.0.0-20250905085725-30bb2aa3c09b-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rpcpool/yellowstone-grpc/examples/golang/hello-world",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rpcpool/yellowstone-grpc/examples/golang/hello-world?tag=v0.0.0-20250905085725-30bb2aa3c09b-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ec512b8b45d1b54b6eb4a3d8ddbc6228263a5a89d6f0bbed10315ebd5acf6137",
+  "size": "1.7 MB",
+  "size_raw": "1711576",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
