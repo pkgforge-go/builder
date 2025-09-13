@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "authenticator",
+  "pkg_family": "vault-kubernetes",
+  "pkg_id": "authenticator#github.com_postfinance_vault_kubernetes",
+  "pkg_name": "authenticator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/postfinance/vault-kubernetes",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Authenticate services to @hashicorp Vault via the Kubernetes auth method",
+  "homepage": [
+    "https://github.com/postfinance/vault-kubernetes"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "authenticator",
+    "synchronizer",
+    "token-renewer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/postfinance/vault-kubernetes/@v/v0.3.9.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.3.9",
+  "version_upstream": "",
+  "bsum": "ec049fda96763aa638a833ebcf77092163ae5502a664f78904ee08c07c1f0f09",
+  "build_date": "2025-09-13T04:10:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17691250514",
+  "build_id": "17691250514",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/postfinance/vault-kubernetes/authenticator?tag=v0.3.9-loongarch64-Linux&download=authenticator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "78",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/postfinance/vault-kubernetes/authenticator?tag=v0.3.9-loongarch64-Linux&download=authenticator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/postfinance/vault-kubernetes/authenticator:v0.3.9-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/postfinance/vault-kubernetes/authenticator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/postfinance/vault-kubernetes/authenticator?tag=v0.3.9-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c7ac0265f98c50d946e3e0444a5bb7843ec3e96902014b1ba3a707931a47e731",
+  "size": "7.3 MB",
+  "size_raw": "7620768",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
