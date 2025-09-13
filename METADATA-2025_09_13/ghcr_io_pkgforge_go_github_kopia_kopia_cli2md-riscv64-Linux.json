@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cli2md",
+  "pkg_family": "kopia",
+  "pkg_id": "cli2md#github.com_kopia_kopia",
+  "pkg_name": "cli2md",
+  "pkg_type": "static",
+  "pkg_webpage": "https://kopia.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included",
+  "homepage": [
+    "https://kopia.io"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bigmapbench",
+    "cli2md",
+    "gettool",
+    "kopia",
+    "perf_benchmark",
+    "testingaction"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/kopia/kopia/@v/v0.0.0-20250912000209-7f6ab935a0fb.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250912000209-7f6ab935a0fb",
+  "version_upstream": "",
+  "bsum": "6d7753ee744a22076af1be5705b2dc02e57ab2db5c7cde7266abe67ee02b2785",
+  "build_date": "2025-09-13T01:54:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17689919504",
+  "build_id": "17689919504",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kopia/kopia/cli2md?tag=v0.0.0-20250912000209-7f6ab935a0fb-riscv64-Linux&download=cli2md.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "11092",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kopia/kopia/cli2md?tag=v0.0.0-20250912000209-7f6ab935a0fb-riscv64-Linux&download=cli2md",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kopia/kopia/cli2md:v0.0.0-20250912000209-7f6ab935a0fb-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kopia/kopia/cli2md",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kopia/kopia/cli2md?tag=v0.0.0-20250912000209-7f6ab935a0fb-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f7533399f1cda0c971d5e4c35dea51868de42ba02b9fe9eee286d59f6879dfdf",
+  "size": "52 MB",
+  "size_raw": "54424456",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-126395f-250619T212502-riscv64-Linux",
+    "HEAD-1ead4a4-250624T012609-riscv64-Linux",
+    "HEAD-dd78dc6-250624T155355-riscv64-Linux",
+    "HEAD-a8fc80f-250626T144230-riscv64-Linux",
+    "v0.21.0-riscv64-Linux",
+    "v0.0.0-20250718044757-3a38279bcd7a-riscv64-Linux",
+    "v0.0.0-20250822054743-1f5a923aa88a-riscv64-Linux",
+    "v0.0.0-20250826172541-ed3825e98f9e-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
