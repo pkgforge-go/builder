@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "bepusdt",
+  "pkg_family": "bepusdt",
+  "pkg_id": "bepusdt#github.com_v03413_bepusdt",
+  "pkg_name": "bepusdt",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/v03413/bepusdt",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "一款更好用的个人 USDT/USDC 收款网关，兼容所有 Epusdt 插件，可无缝切换，支持交易所动态汇率、支持Docker部署；支持独角发卡 易支付 异次元 萌次元发卡",
+  "homepage": [
+    "https://github.com/v03413/bepusdt"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bepusdt"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/v03413/bepusdt/@v/v1.22.7.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.22.7",
+  "version_upstream": "",
+  "bsum": "d985070c67d659690e81956a1ced40e283b2179f0e4cd364edb0444c0daf646d",
+  "build_date": "2025-09-13T02:06:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17689922113",
+  "build_id": "17689922113",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/v03413/bepusdt/bepusdt?tag=v1.22.7-loongarch64-Linux&download=bepusdt.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "860",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/v03413/bepusdt/bepusdt?tag=v1.22.7-loongarch64-Linux&download=bepusdt",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/v03413/bepusdt/bepusdt:v1.22.7-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/v03413/bepusdt/bepusdt",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/v03413/bepusdt/bepusdt?tag=v1.22.7-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5a1307436a578b744adbd1e945dfaba6cbbeaa4137a189adc5a49e5c3134a8e7",
+  "size": "25 MB",
+  "size_raw": "25795136",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-9eb3b00-250622T002659-loongarch64-Linux",
+    "HEAD-525f0f4-250623T210018-loongarch64-Linux",
+    "HEAD-0dc523c-250624T213616-loongarch64-Linux",
+    "v1.21.2-loongarch64-Linux",
+    "v1.22.6-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
