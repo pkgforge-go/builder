@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "nixery",
+  "pkg_id": "server#github.com_google_nixery",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://nixery.dev/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery",
+  "homepage": [
+    "https://nixery.dev/"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "popcount",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/google/nixery/@v/v0.0.0-20250912145150-2a90dea62dbe.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250912145150-2a90dea62dbe",
+  "version_upstream": "",
+  "bsum": "7c613dfd6571f56f3de0b21fc3abc89ba759ca367ddcecf696babb317c604169",
+  "build_date": "2025-09-13T03:47:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17691217029",
+  "build_id": "17691217029",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/nixery/server?tag=v0.0.0-20250912145150-2a90dea62dbe-riscv64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "1921",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/nixery/server?tag=v0.0.0-20250912145150-2a90dea62dbe-riscv64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/google/nixery/server:v0.0.0-20250912145150-2a90dea62dbe-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/google/nixery/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/google/nixery/server?tag=v0.0.0-20250912145150-2a90dea62dbe-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "988e3968e19ca0a759a1cd9669cdb77971f920107c99fec2c1e3beb83b109ef4",
+  "size": "18 MB",
+  "size_raw": "18633608",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
