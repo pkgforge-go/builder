@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "shell",
+  "pkg_family": "buildpackapplifecycle",
+  "pkg_id": "shell#github.com_cloudfoundry_buildpackapplifecycle",
+  "pkg_name": "shell",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudfoundry/buildpackapplifecycle",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The bit that takes some bits, mashes them together with other bits, and produces a new bit",
+  "homepage": [
+    "https://github.com/cloudfoundry/buildpackapplifecycle"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "builder",
+    "custom_entrypoint",
+    "getenv",
+    "hello",
+    "launcher",
+    "shell"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cloudfoundry/buildpackapplifecycle/@v/v0.0.0-20250912161115-a52aa26119f3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250912161115-a52aa26119f3",
+  "version_upstream": "",
+  "bsum": "fa30dcd351ff3dc490536dc0e3d6037d264ff0cd6691be78e0bad107ff162ebf",
+  "build_date": "2025-09-13T03:42:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17691215713",
+  "build_id": "17691215713",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/buildpackapplifecycle/shell?tag=v0.0.0-20250912161115-a52aa26119f3-x86_64-Linux&download=shell.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/buildpackapplifecycle/shell?tag=v0.0.0-20250912161115-a52aa26119f3-x86_64-Linux&download=shell",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry/buildpackapplifecycle/shell:v0.0.0-20250912161115-a52aa26119f3-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry/buildpackapplifecycle/shell",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/buildpackapplifecycle/shell?tag=v0.0.0-20250912161115-a52aa26119f3-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "83d631dd96662cbcb4806b3fbb11cbaf714bea54df3a5eca2a0c8a7a2ab4cbed",
+  "size": "7.4 MB",
+  "size_raw": "7753632",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
