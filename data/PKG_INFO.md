@@ -257,6 +257,7 @@
 - 🐹 **[redpanda](https://redpanda.com)**: Redpanda is a streaming data platform for developers.
 - 🐹 **[literally](https://registry.terraform.io/providers/hashicorp/aws)**: The AWS Provider enables Terraform to manage AWS resources.
 - 🐹 **[tfsdk2fw](https://registry.terraform.io/providers/hashicorp/aws)**: The AWS Provider enables Terraform to manage AWS resources.
+- 🐹 **[main](https://gqlgen.com)**: Go generate based graphql server library.
 - 🐹 **[tools](https://www.ferretdb.com)**: A truly Open Source MongoDB alternative.
 - 🐹 **[_examples](https://gqlgen.com)**: Go generate based graphql server library.
 - 🐹 **[gqlgen](https://gqlgen.com)**: Go generate based graphql server library.
@@ -940,6 +941,7 @@
 - 🐹 **[vulnfeeds](https://osv.dev)**: Open source vulnerability DB and triage service.
 - 🐹 **[pool_context](https://github.com/alitto/pond)**: Minimalistic and High-performance goroutine worker pool written in Go.
 - 🐹 **[task_group](https://github.com/alitto/pond)**: Minimalistic and High-performance goroutine worker pool written in Go.
+- 🐹 **[nixery](https://nixery.dev/)**: Container registry which transparently builds images using the Nix package manager.
 - 🐹 **[containers-from-scratch](http://lizrice.com)**: Writing a container in a few lines of Go code, as seen at DockerCon 2017 and on O'Reilly Safari.
 - 🐹 **[nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter)**: NGINX Prometheus Exporter for NGINX and NGINX Plus.
 - 🐹 **[nginx-prometheus-exporter](https://github.com/nginx/nginx-prometheus-exporter)**: NGINX Prometheus Exporter for NGINX and NGINX Plus.
@@ -1061,6 +1063,7 @@
 - 🐹 **[fetch-github-hosts](https://hosts.gitcdn.top)**: 同步github的hosts工具，支持多平台的图形化和命令行，内置客户端和服务端两种模式~ | Synchronize GitHub hosts tool, support multi-platform graphical and command line, built-in client and server modes.
 - 🐹 **[discord](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
 - 🐹 **[binfmt](https://github.com/tonistiigi/binfmt)**: Cross-platform emulator collection distributed with Docker images.
+- 🐹 **[_example](https://go-pkgz.umputun.dev/auth/)**: Authenticator via oauth2, direct, email and telegram.
 - 🐹 **[tools](https://github.com/hexdigest/gowrap)**: GoWrap is a command line tool for generating decorators for Go interfaces.
 - 🐹 **[airtable](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
 - 🐹 **[brave](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
@@ -1166,6 +1169,7 @@
 - 🐹 **[stdlib_diff](https://gno.land/)**: Gno: An interpreted, stack-based Go virtual machine to build succinct and composable apps + gno.
 - 🐹 **[loop](https://gno.land/)**: Gno: An interpreted, stack-based Go virtual machine to build succinct and composable apps + gno.
 - 🐹 **[kati](https://github.com/google/kati)**: An experimental GNU make clone.
+- 🐹 **[composition](https://cloud.google.com/config-connector/docs/overview)**: GCP Config Connector, a Kubernetes add-on for managing GCP resources.
 - 🐹 **[jfa-go](https://jfa-go.com)**: A bit-of-everything user managament app for Jellyfin.
 - 🐹 **[projects](https://cosmo-docs.wundergraph.com/)**: The open-source solution to building, maintaining, and collaborating on GraphQL Federation at Scale.
 - 🐹 **[multiclusterlease](https://cloud.google.com/config-connector/docs/overview)**: GCP Config Connector, a Kubernetes add-on for managing GCP resources.
