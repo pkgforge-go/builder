@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "token-renewer",
+  "pkg_family": "vault-kubernetes",
+  "pkg_id": "token-renewer#github.com_postfinance_vault_kubernetes",
+  "pkg_name": "token-renewer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/postfinance/vault-kubernetes",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Authenticate services to @hashicorp Vault via the Kubernetes auth method",
+  "homepage": [
+    "https://github.com/postfinance/vault-kubernetes"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "authenticator",
+    "synchronizer",
+    "token-renewer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/postfinance/vault-kubernetes/@v/v0.3.9.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.3.9",
+  "version_upstream": "",
+  "bsum": "2633f8b1f75ba438b06b6d92296c48834288af80ca8fd02bb56aed1b4279b9d4",
+  "build_date": "2025-09-13T04:09:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17691250514",
+  "build_id": "17691250514",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/postfinance/vault-kubernetes/token-renewer?tag=v0.3.9-x86_64-Linux&download=token-renewer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "78",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/postfinance/vault-kubernetes/token-renewer?tag=v0.3.9-x86_64-Linux&download=token-renewer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/postfinance/vault-kubernetes/token-renewer:v0.3.9-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/postfinance/vault-kubernetes/token-renewer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/postfinance/vault-kubernetes/token-renewer?tag=v0.3.9-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "89780435124d2c0f64343d8222a8209e49d539ee25ae13299cd6121bbf303e73",
+  "size": "7.6 MB",
+  "size_raw": "7951808",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
