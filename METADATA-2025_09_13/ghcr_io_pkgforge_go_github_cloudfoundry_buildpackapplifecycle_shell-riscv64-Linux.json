@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "shell",
+  "pkg_family": "buildpackapplifecycle",
+  "pkg_id": "shell#github.com_cloudfoundry_buildpackapplifecycle",
+  "pkg_name": "shell",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudfoundry/buildpackapplifecycle",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The bit that takes some bits, mashes them together with other bits, and produces a new bit",
+  "homepage": [
+    "https://github.com/cloudfoundry/buildpackapplifecycle"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "builder",
+    "custom_entrypoint",
+    "getenv",
+    "hello",
+    "launcher",
+    "shell"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cloudfoundry/buildpackapplifecycle/@v/v0.0.0-20250912161115-a52aa26119f3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250912161115-a52aa26119f3",
+  "version_upstream": "",
+  "bsum": "9f88aad0230dc00edf7b608d250c227e34bda123c3eb6218de8e0525e0b8ef73",
+  "build_date": "2025-09-13T03:41:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17691215713",
+  "build_id": "17691215713",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/buildpackapplifecycle/shell?tag=v0.0.0-20250912161115-a52aa26119f3-riscv64-Linux&download=shell.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/buildpackapplifecycle/shell?tag=v0.0.0-20250912161115-a52aa26119f3-riscv64-Linux&download=shell",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry/buildpackapplifecycle/shell:v0.0.0-20250912161115-a52aa26119f3-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry/buildpackapplifecycle/shell",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry/buildpackapplifecycle/shell?tag=v0.0.0-20250912161115-a52aa26119f3-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "461a0c8d43e24d95e4c0c01043e2ebc79a4d5acc4b647e67604c9dfc167a2d4a",
+  "size": "7.1 MB",
+  "size_raw": "7358376",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
