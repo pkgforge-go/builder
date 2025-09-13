@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "synchronizer",
+  "pkg_family": "vault-kubernetes",
+  "pkg_id": "synchronizer#github.com_postfinance_vault_kubernetes",
+  "pkg_name": "synchronizer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/postfinance/vault-kubernetes",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Authenticate services to @hashicorp Vault via the Kubernetes auth method",
+  "homepage": [
+    "https://github.com/postfinance/vault-kubernetes"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "authenticator",
+    "synchronizer",
+    "token-renewer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/postfinance/vault-kubernetes/@v/v0.3.9.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.3.9",
+  "version_upstream": "",
+  "bsum": "ec227e8aadf8ba0286a006d02b6af991de819e497dbd387be2eb2df61c58a422",
+  "build_date": "2025-09-13T04:06:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17691250514",
+  "build_id": "17691250514",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/postfinance/vault-kubernetes/synchronizer?tag=v0.3.9-riscv64-Linux&download=synchronizer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "78",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/postfinance/vault-kubernetes/synchronizer?tag=v0.3.9-riscv64-Linux&download=synchronizer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/postfinance/vault-kubernetes/synchronizer:v0.3.9-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/postfinance/vault-kubernetes/synchronizer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/postfinance/vault-kubernetes/synchronizer?tag=v0.3.9-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "88f423256a980def884a07370bdbfa2fb8e86a28a2f994211b7241b18f304714",
+  "size": "27 MB",
+  "size_raw": "28177160",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
