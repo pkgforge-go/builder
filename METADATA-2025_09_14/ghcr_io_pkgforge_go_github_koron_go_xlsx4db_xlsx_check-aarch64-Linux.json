@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "xlsx_check",
+  "pkg_family": "go-xlsx4db",
+  "pkg_id": "xlsx_check#github.com_koron_go_xlsx4db",
+  "pkg_name": "xlsx_check",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/koron/go-xlsx4db",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Dump and restore RDBMS by using Excel (XLSX",
+  "homepage": [
+    "https://github.com/koron/go-xlsx4db"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check_mysql",
+    "check_psql",
+    "ct",
+    "users",
+    "xlsx4db",
+    "xlsx_check",
+    "xlsx_dump",
+    "xlsx_restore"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/koron/go-xlsx4db/@v/v0.0.4.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.4",
+  "version_upstream": "",
+  "bsum": "ca7c99ca8ef82dc9aec780300925b86d9010ac50763e259adce9e0e037f6f248",
+  "build_date": "2025-09-14T04:12:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17705965919",
+  "build_id": "17705965919",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/koron/go-xlsx4db/xlsx_check?tag=v0.0.4-aarch64-Linux&download=xlsx_check.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/koron/go-xlsx4db/xlsx_check?tag=v0.0.4-aarch64-Linux&download=xlsx_check",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/koron/go-xlsx4db/xlsx_check:v0.0.4-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/koron/go-xlsx4db/xlsx_check",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/koron/go-xlsx4db/xlsx_check?tag=v0.0.4-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "80c3d4de9fda2f636f9804af63f6c1228ac41f82f7db3f3e96679dcfd7b2a9b4",
+  "size": "2.4 MB",
+  "size_raw": "2426680",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
