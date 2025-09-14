@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "weather",
+  "pkg_family": "weather",
+  "pkg_id": "weather#github.com_seemywingz_weather",
+  "pkg_name": "weather",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/seemywingz/weather",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Golang CLI for getting Weather Information provided by DarkSky API",
+  "homepage": [
+    "https://github.com/seemywingz/weather"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "weather"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/zerobsv/weather/@v/v0.0.0-20250913110256-e6178d51e8d1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250613153109-596131e97926",
+  "version_upstream": "",
+  "bsum": "100c2d7cf727f220616a8342de0a9ff353525a8c5f7fca44cbe36481df65d22b",
+  "build_date": "2025-09-14T04:38:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17706017403",
+  "build_id": "17706017403",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/seemywingz/weather/weather?tag=v0.0.0-20250613153109-596131e97926-aarch64-Linux&download=weather.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/seemywingz/weather/weather?tag=v0.0.0-20250613153109-596131e97926-aarch64-Linux&download=weather",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/seemywingz/weather/weather:v0.0.0-20250613153109-596131e97926-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/seemywingz/weather/weather",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/seemywingz/weather/weather?tag=v0.0.0-20250613153109-596131e97926-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d24fe4b770c7307c9b69c84bd0d53016101a45da18cabd151b97854d7e18d7a8",
+  "size": "16 MB",
+  "size_raw": "16535232",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250613153109-596131e97926-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
