@@ -906,6 +906,7 @@
 - 🐹 **[backup](https://vearch.github.io)**: Distributed vector search for AI-native applications.
 - 🐹 **[gnostic](https://github.com/google/gnostic)**: A compiler for APIs described by the OpenAPI Specification with plugins for code generation and other API support tasks.
 - 🐹 **[gnostic](https://github.com/googleapis/gnostic)**: A compiler for APIs described by the OpenAPI Specification with plugins for code generation and other API support tasks.
+- 🐹 **[oo](https://1backend.com)**: Self-hosted AI microservices platform & backend framework for building scalable, on-premise apps with built-in AI models.
 - 🐹 **[dapper](https://1backend.com)**: Self-hosted AI microservices platform & backend framework for building scalable, on-premise apps with built-in AI models.
 - 🐹 **[jwx](https://github.com/lestrrat-go/jwx)**: Complete implementation of JWx (Javascript Object Signing and Encryption/JOSE) technologies for Go.
 - 🐹 **[server](https://1backend.com)**: AI-native microservices platform.
@@ -2548,6 +2549,7 @@
 - 🐹 **[unfilled-circle](https://github.com/tinne26/kage-desk)**: You know Ebitengine but not Kage.
 - 🐹 **[unfilled-rounded-rect](https://github.com/tinne26/kage-desk)**: You know Ebitengine but not Kage.
 - 🐹 **[unfilled-triangle](https://github.com/tinne26/kage-desk)**: You know Ebitengine but not Kage.
+- 🐹 **[vscode-cue](https://github.com/betawaffle/vscode-cue)**: CUE language support for Visual Studio Code.
 - 🐹 **[vscode-cue](https://github.com/cue-sh/vscode-cue)**: CUE language support for Visual Studio Code.
 - 🐹 **[wave-split](https://github.com/tinne26/kage-desk)**: You know Ebitengine but not Kage.
 - 🐹 **[wrap](https://github.com/tinne26/kage-desk)**: You know Ebitengine but not Kage.
@@ -3741,6 +3743,7 @@
 - 🐹 **[gpt_bpe](https://github.com/wbrown/gpt_bpe)**: GPT2 Byte Pair Encoding implementation in Golang.
 - 🐹 **[jit](https://github.com/xyproto/jit)**: :vulcan_salute: Go module and utility for executing machine code.
 - 🐹 **[libavrophonetic](https://github.com/mugli/libavrophonetic)**: Go module providing classic (rule-based) and dictionary backed transliterators for Avro Phonetic.
+- 🐹 **[loader](https://github.com/vhive-serverless/loader)**: Load generator and trace sampler for serverless computing.
 - 🐹 **[localbase](https://github.com/noelukwa/localbase)**: Localbase is a lightweight tool for provisioning secure .
 - 🐹 **[markdownfmt](https://github.com/tianon/markdownfmt)**: Like gofmt, but for Markdown.
 - 🐹 **[memory-mcp-server-go](https://github.com/okooo5km/memory-mcp-server-go)**: A Model Context Protocol server that provides knowledge graph management capabilities.
