@@ -1,0 +1,90 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "trendly_collabs",
+  "pkg_family": "backend-sls",
+  "pkg_id": "trendly_collabs#github.com_idivarts_backend_sls",
+  "pkg_name": "trendly_collabs",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/idivarts/backend-sls",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This will contain the serverless go backend repository",
+  "homepage": [
+    "https://github.com/idivarts/backend-sls"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apis",
+    "applications",
+    "cc_apis",
+    "google-leads-export",
+    "matchmaking",
+    "message_sqs",
+    "message_webhook",
+    "modash",
+    "new-leads",
+    "notion-export",
+    "process_video",
+    "s3",
+    "scripts",
+    "set-password",
+    "simulate_openai",
+    "stream_sqs_hook",
+    "sync-hubspot",
+    "sync-sengrid",
+    "trendly_apis",
+    "trendly_collabs",
+    "trendly_discovery",
+    "trendly_influencers",
+    "trendly_matchmaking",
+    "trendly_v2",
+    "unauth_apis",
+    "webhook",
+    "websocket"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/idivarts/backend-sls/@v/v0.0.0-20250913200506-f5a84afb132c.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250913200506-f5a84afb132c",
+  "version_upstream": "",
+  "bsum": "eda0c59e9c1f3ad0ba52a8966fc6de3b1ffda7f320d458e1a45cd0869ab394e4",
+  "build_date": "2025-09-14T16:00:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17713205718",
+  "build_id": "17713205718",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/idivarts/backend-sls/trendly_collabs?tag=v0.0.0-20250913200506-f5a84afb132c-loongarch64-Linux&download=trendly_collabs.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/idivarts/backend-sls/trendly_collabs?tag=v0.0.0-20250913200506-f5a84afb132c-loongarch64-Linux&download=trendly_collabs",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/idivarts/backend-sls/trendly_collabs:v0.0.0-20250913200506-f5a84afb132c-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/idivarts/backend-sls/trendly_collabs",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/idivarts/backend-sls/trendly_collabs?tag=v0.0.0-20250913200506-f5a84afb132c-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "33fee28ed5bc0a78fee0b586b6aeec5412929768064278a71e8a395a9065a486",
+  "size": "39 MB",
+  "size_raw": "40668640",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
