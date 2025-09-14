@@ -31190,6 +31190,19 @@
     "version": "HEAD-1ff56d1-250624T160226"
   },
   {
+    "description": "Lightweight ADR management tool",
+    "name": "adrctl",
+    "pkg_id": "adrctl#github.com_alexlovelltroy_adrctl",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.1.0"
+  },
+  {
     "description": "Go tools for audio processing _ creation 🎶",
     "name": "adsr",
     "pkg_id": "adsr#github.com_DylanMeeus_GoAudio",
@@ -32689,6 +32702,19 @@
     ],
     "updated_at": "2025-07-27",
     "version": "v1.6.1"
+  },
+  {
+    "description": "AI Gateway | AI Native API Gateway",
+    "name": "ai-quota",
+    "pkg_id": "ai-quota#github.com_alibaba_higress_plugins_wasm_go_extensions_ai_quota",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250912093146-1cc977c6d46a"
   },
   {
     "description": "A CLI tool for managing and generating AI coding rules documentation from YAML configurations",
@@ -47501,6 +47527,18 @@
     "version": "HEAD-81cbfea-250618T191406"
   },
   {
+    "description": "Meloshub的外部辅助工具",
+    "name": "autoimport",
+    "pkg_id": "autoimport#github.com_meloshub_meloshub_tools",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.1.1"
+  },
+  {
     "description": "Durable workflow automation in just a few lines of code",
     "name": "autokitteh",
     "pkg_id": "autokitteh#github.com_autokitteh_autokitteh",
@@ -55991,6 +56029,32 @@
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-04cb15d-250621T110501"
+  },
+  {
+    "description": "Brainf* Interpreter, in Go",
+    "name": "bf",
+    "pkg_id": "bf#github.com_krbreyn_bf",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250313174607-8aa7d7304e34"
+  },
+  {
+    "description": "Brainf* Interpreter, in Go",
+    "name": "bf_go",
+    "pkg_id": "bf_go#github.com_krbreyn_bf_go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250313174607-8aa7d7304e34"
   },
   {
     "description": "BrainFuck Compiler Challenge",
@@ -76028,6 +76092,19 @@
     "version": "v0.0.0-20250621045046-f5f237c7fd36"
   },
   {
+    "description": "Collaborate, build and publish charmed operators for Kubernetes, Linux and Windows",
+    "name": "charm",
+    "pkg_id": "charm#github.com_canonical_charm",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250912214513-089e6a5df405"
+  },
+  {
     "description": "A powerful little TUI framework",
     "name": "charmtone",
     "pkg_id": "charmtone#github.com_charmbracelet_bubbletea_examples",
@@ -77857,6 +77934,19 @@
     "version": "HEAD-8e321f4-250618T233851"
   },
   {
+    "description": "Dump and restore RDBMS by using Excel (XLSX",
+    "name": "check_mysql",
+    "pkg_id": "check_mysql#github.com_koron_go_xlsx4db",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.4"
+  },
+  {
     "description": "My work as i go through the book Idiomatic Go",
     "name": "check_nil",
     "pkg_id": "check_nil#github.com_lowtechturtle_idiomatic_go",
@@ -77894,6 +77984,19 @@
     ],
     "updated_at": "2025-06-24",
     "version": "HEAD-78aa5ad-250623T215649"
+  },
+  {
+    "description": "Dump and restore RDBMS by using Excel (XLSX",
+    "name": "check_psql",
+    "pkg_id": "check_psql#github.com_koron_go_xlsx4db",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.4"
   },
   {
     "description": "Monitoring checks that use gomonitor",
@@ -82875,6 +82978,19 @@
     ],
     "updated_at": "2025-06-28",
     "version": "HEAD-6c0ea69-250628T153441"
+  },
+  {
+    "description": "Export filesystems and config from docker images without daemon",
+    "name": "clib",
+    "pkg_id": "clib#github.com_kenichi_imgex",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250914004223-4fc83f49a7ed"
   },
   {
     "description": "Network utils with a pluggable foundation.",
@@ -106050,6 +106166,19 @@
     "version": "v0.0.0-20250618161309-8d0c35f1333c"
   },
   {
+    "description": "Cronx is a Go-based scheduler for running shell commands on cron-style schedules",
+    "name": "cronx",
+    "pkg_id": "cronx#github.com_focela_cronx",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v1.0.0"
+  },
+  {
     "description": "go library for image programming _merge, crop, resize, watermark, animate, ease, transit_",
     "name": "crop",
     "pkg_id": "crop#github.com_noelyahan_mergi",
@@ -107673,6 +107802,19 @@
     ],
     "updated_at": "2025-07-17",
     "version": "v0.0.0-20250414140739-a544b7f4eaed"
+  },
+  {
+    "description": "Dump and restore RDBMS by using Excel (XLSX",
+    "name": "ct",
+    "pkg_id": "ct#github.com_koron_go_xlsx4db",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.4"
   },
   {
     "description": "Code with text",
@@ -123264,6 +123406,19 @@
   {
     "description": "This repository is for active development of the Azure SDK for Go. For consumers of the SDK we recommend visiting our public developer docs at",
     "name": "deprecate",
+    "pkg_id": "deprecate#github.com_azure_azure_sdk_for_go_eng_tools_deprecate",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250630212816-bb29ffdbc8c4"
+  },
+  {
+    "description": "This repository is for active development of the Azure SDK for Go. For consumers of the SDK we recommend visiting our public developer docs at",
+    "name": "deprecate",
     "pkg_id": "deprecate#github.com_mrbonezy_azure_sdk_for_go_eng_tools_deprecate",
     "targets": [
       "aarch64-Linux",
@@ -125764,6 +125919,18 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.0.0-20250611171441-36baf636c030"
+  },
+  {
+    "description": "Meloshub的外部辅助工具",
+    "name": "differ",
+    "pkg_id": "differ#github.com_meloshub_meloshub_tools",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.1.1"
   },
   {
     "description": "My experiments with the Go Programming Language",
@@ -129309,6 +129476,19 @@
     "version": "HEAD-8bebdc1-250628T094901"
   },
   {
+    "description": "This repository is for active development of the Azure SDK for Go. For consumers of the SDK we recommend visiting our public developer docs at",
+    "name": "doccheck",
+    "pkg_id": "doccheck#github.com_azure_azure_sdk_for_go_eng_tools_doccheck",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250708231228-a4fafd739f36"
+  },
+  {
     "description": "Converts PDF, DOC, DOCX, XML, HTML, RTF, etc to plain text",
     "name": "docconv-client",
     "pkg_id": "docconv-client#github.com_sajari_docconv",
@@ -131847,6 +132027,32 @@
     ],
     "updated_at": "2025-08-17",
     "version": "v0.0.0-20250813124309-43f1f5e532ee"
+  },
+  {
+    "description": "Http3-reverse-proxy-server-experiment",
+    "name": "doh3_debugger",
+    "pkg_id": "doh3_debugger#github.com_masx200_http3_reverse_proxy_server_experiment",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250913163641-e00608f1326e"
+  },
+  {
+    "description": "Http3-reverse-proxy-server-experiment",
+    "name": "doh_debugger",
+    "pkg_id": "doh_debugger#github.com_masx200_http3_reverse_proxy_server_experiment",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250913163641-e00608f1326e"
   },
   {
     "description": "Check wich DoH servers are working on your network",
@@ -148796,6 +149002,32 @@
     "version": "v0.0.0-20250112093902-7d3bba85c4b9"
   },
   {
+    "description": "A Go implementation of NVDA Remote protocol",
+    "name": "example_main",
+    "pkg_id": "example_main#github.com_denizsincar29_nvda_remote_go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250408191734-b5c7bb424025"
+  },
+  {
+    "description": "A Go implementation of NVDA Remote protocol",
+    "name": "example_melody",
+    "pkg_id": "example_melody#github.com_denizsincar29_nvda_remote_go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250408191734-b5c7bb424025"
+  },
+  {
     "description": "Burrow is a globally distributed HTTP proxy via AWS Lambda",
     "name": "example_multi_region",
     "pkg_id": "example_multi_region#github.com_myzie_burrow",
@@ -148807,6 +149039,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-f39379f-241121T121614"
+  },
+  {
+    "description": "A Go implementation of NVDA Remote protocol",
+    "name": "example_piano",
+    "pkg_id": "example_piano#github.com_denizsincar29_nvda_remote_go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250408191734-b5c7bb424025"
   },
   {
     "description": "Go SDK for Oracle Cloud Infrastructure",
@@ -148835,6 +149080,19 @@
     "version": "HEAD-887ec00-250627T160257"
   },
   {
+    "description": "A Go implementation of NVDA Remote protocol",
+    "name": "example_tell_progress",
+    "pkg_id": "example_tell_progress#github.com_denizsincar29_nvda_remote_go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250408191734-b5c7bb424025"
+  },
+  {
     "description": "POC for test the idea  of Phoenix LiveView in Go and Echo",
     "name": "example_todo",
     "pkg_id": "example_todo#github.com_arturoeanton_go_echo_live_view",
@@ -148846,6 +149104,19 @@
     ],
     "updated_at": "2025-06-28",
     "version": "HEAD-887ec00-250627T160257"
+  },
+  {
+    "description": "A Go implementation of NVDA Remote protocol",
+    "name": "example_type_hello_cmd",
+    "pkg_id": "example_type_hello_cmd#github.com_denizsincar29_nvda_remote_go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250408191734-b5c7bb424025"
   },
   {
     "description": "mieru is a socks5 / HTTP / HTTPS proxy to bypass censorship. 見える是一款 socks5 / HTTP / HTTPS 网络代理翻墙工具。",
@@ -152445,6 +152716,19 @@
     "version": "v0.0.0-20250601005540-f74f3971b7cf"
   },
   {
+    "description": "External-DNS Webhook Provider to manage Porkbun Records",
+    "name": "external-dns-porkbun-webhook",
+    "pkg_id": "external-dns-porkbun-webhook#github.com_konnektr_io_external_dns_porkbun_webhook",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.2.19"
+  },
+  {
     "description": "External DNS webhook provider for Adguard",
     "name": "external-dns-provider-adguard",
     "pkg_id": "external-dns-provider-adguard#github.com_muhlba91_external_dns_provider_adguard",
@@ -154848,6 +155132,19 @@
     ],
     "updated_at": "2025-08-13",
     "version": "v0.0.0-20250801182214-9684aaf5cda9"
+  },
+  {
+    "description": "Fast I/O template for competitive programming contests",
+    "name": "fastio",
+    "pkg_id": "fastio#github.com_chalex2k_fastio",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250708081713-34470a0b55f2"
   },
   {
     "description": "TUI Application Launcher. Alternative to rofi/wofi.",
@@ -196656,6 +196953,19 @@
     "version": "v0.0.0-20250710120440-3361f7dc612c"
   },
   {
+    "description": "A wrapper around the gochromedp, created for GoPdfSuit",
+    "name": "gochromedp",
+    "pkg_id": "gochromedp#github.com_chinmay_sawant_gochromedp",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v1.0.2"
+  },
+  {
     "description": "A Scheduler used for performing tasks in background",
     "name": "gochrono",
     "pkg_id": "gochrono#github.com_pavansantosh_ps_gochrono",
@@ -209359,6 +209669,19 @@
     "version": "HEAD-6952242-250629T115412"
   },
   {
+    "description": "Interactive growth maps for rows of trees. CSV in; single HTML out",
+    "name": "grovegrid",
+    "pkg_id": "grovegrid#github.com_aplgr_grovegrid",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.1.0"
+  },
+  {
     "description": "Ensembles of decision trees in go/golang.",
     "name": "growforest",
     "pkg_id": "growforest#github.com_ryanbressler_CloudForest",
@@ -210038,6 +210361,32 @@
     ],
     "updated_at": "2025-07-27",
     "version": "v0.1.0"
+  },
+  {
+    "description": "Generate go server code based on various common IDL files",
+    "name": "gs-gen",
+    "pkg_id": "gs-gen#github.com_go_spring_gs_gen",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.1"
+  },
+  {
+    "description": "创建项目骨架(Create project skeleton",
+    "name": "gs-init",
+    "pkg_id": "gs-init#github.com_go_spring_gs_init",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.2"
   },
   {
     "description": "初始化项目骨架",
@@ -210916,6 +211265,32 @@
     ],
     "updated_at": "2025-07-08",
     "version": "v0.0.0-20250701170512-08c89d4170c5"
+  },
+  {
+    "description": "Http3-reverse-proxy-server-experiment",
+    "name": "h2c_client",
+    "pkg_id": "h2c_client#github.com_masx200_http3_reverse_proxy_server_experiment",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250913163641-e00608f1326e"
+  },
+  {
+    "description": "Http3-reverse-proxy-server-experiment",
+    "name": "h2c_server",
+    "pkg_id": "h2c_server#github.com_masx200_http3_reverse_proxy_server_experiment",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250913163641-e00608f1326e"
   },
   {
     "description": "Simple http 2.0 (h2 and h2c) client in go",
@@ -221753,6 +222128,19 @@
     "version": "v0.0.0-20250830221307-1ad7f62f6bd4"
   },
   {
+    "description": "Http3-reverse-proxy-server-experiment",
+    "name": "http3-reverse-proxy-server-experiment",
+    "pkg_id": "http3-reverse-proxy-server-experiment#github.com_masx200_http3_reverse_proxy_server_experiment",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250913163641-e00608f1326e"
+  },
+  {
     "description": "View HTTP/HTTPS requests made by any Linux program",
     "name": "http3get",
     "pkg_id": "http3get#github.com_monasticacademy_httptap",
@@ -226742,6 +227130,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-e62c418-250508T230526"
+  },
+  {
+    "description": "Export filesystems and config from docker images without daemon",
+    "name": "imgex",
+    "pkg_id": "imgex#github.com_kenichi_imgex",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250914004223-4fc83f49a7ed"
   },
   {
     "description": "Mock image builder for push/pull testing",
@@ -247473,6 +247874,19 @@
     "version": "HEAD-d75345d-250621T031132"
   },
   {
+    "description": "Minimal device plugins integrating linux devices into Kubernetes",
+    "name": "kvm-device-plugin",
+    "pkg_id": "kvm-device-plugin#github.com_anza_labs_kubelet_device_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250913183811-ff87ff923418"
+  },
+  {
     "description": "No Description Provided",
     "name": "kvrocks-operator",
     "pkg_id": "kvrocks-operator#github.com_RocksLabs_kvrocks_operator",
@@ -264592,6 +265006,19 @@
     "version": "HEAD-f21877f-250625T042023"
   },
   {
+    "description": "Zoom plugin for Mattermost :electric_plug",
+    "name": "manifest",
+    "pkg_id": "manifest#github.com_mattermost_mattermost_plugin_zoom",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v1.10.0-rc1"
+  },
+  {
     "description": "Create polls and surveys directly within Mattermost",
     "name": "manifest",
     "pkg_id": "manifest#github.com_matterpoll_matterpoll",
@@ -266497,6 +266924,19 @@
     ],
     "updated_at": "2025-08-09",
     "version": "v0.0.0-20250608233254-af2313089423"
+  },
+  {
+    "description": "Mass DNS reverse lookup",
+    "name": "masslookup",
+    "pkg_id": "masslookup#github.com_koron_masslookup",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.2"
   },
   {
     "description": "A simple TUI for sending casts",
@@ -270687,6 +271127,18 @@
     ],
     "updated_at": "2025-08-11",
     "version": "v0.0.0-20250627010750-af8a90df4273"
+  },
+  {
+    "description": "Meloshub的外部辅助工具",
+    "name": "metagen",
+    "pkg_id": "metagen#github.com_meloshub_meloshub_tools",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.1.1"
   },
   {
     "description": "OpenHue Go is a library written in Golang for interacting with the Philips Hue smart lighting systems",
@@ -277352,6 +277804,19 @@
     ],
     "updated_at": "2025-06-25",
     "version": "20250625T151202"
+  },
+  {
+    "description": "In-browser visualizer for OpenFGA authorization models as a weighted graph which offers insights into their performance characteristics",
+    "name": "model-visualizer",
+    "pkg_id": "model-visualizer#github.com_jeremyloy_model_visualizer",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250904214902-92619eb3d433"
   },
   {
     "description": "In-browser visualizer for OpenFGA authorization models as a weighted graph which offers insights into their performance characteristics",
@@ -284857,7 +285322,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-03",
+    "updated_at": "2025-09-14",
     "version": "v1.1.1"
   },
   {
@@ -293933,6 +294398,16 @@
     "version": "v0.0.0-20250704094603-c12393224bf5"
   },
   {
+    "description": "OCR web app",
+    "name": "ocr-web-app",
+    "pkg_id": "ocr-web-app#github.com_ngocdo1987_ocr_web_app",
+    "targets": [
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250818054759-ae6a307eecc5"
+  },
+  {
     "description": "Web service to generate OCR from a metadata PID",
     "name": "ocr-ws",
     "pkg_id": "ocr-ws#github.com_uvalib_ocr_ws",
@@ -295690,6 +296165,17 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-e201628-210822T185112"
+  },
+  {
+    "description": "Fast Tor Onion Service vanity address generator",
+    "name": "onion-vanity-address",
+    "pkg_id": "onion-vanity-address#github.com_alexanderyastrebov_onion_vanity_address",
+    "targets": [
+      "aarch64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250912195648-a718a013d7ea"
   },
   {
     "description": "Onion addresses for anything.",
@@ -307939,6 +308425,19 @@
     "version": "HEAD-7433cb9-250625T143204"
   },
   {
+    "description": "Pg_ctl command wrapper for golang",
+    "name": "pgctl",
+    "pkg_id": "pgctl#github.com_koron_go_pgctl",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v1.2.2"
+  },
+  {
     "description": "Vitess for Postgres",
     "name": "pgctld",
     "pkg_id": "pgctld#github.com_multigres_multigres",
@@ -312684,6 +313183,19 @@
     "version": "HEAD-f21877f-250625T042023"
   },
   {
+    "description": "Zoom plugin for Mattermost :electric_plug",
+    "name": "pluginctl",
+    "pkg_id": "pluginctl#github.com_mattermost_mattermost_plugin_zoom",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v1.10.0-rc1"
+  },
+  {
     "description": "Create polls and surveys directly within Mattermost",
     "name": "pluginctl",
     "pkg_id": "pluginctl#github.com_matterpoll_matterpoll",
@@ -314108,6 +314620,19 @@
     ],
     "updated_at": "2025-08-21",
     "version": "v0.4.5"
+  },
+  {
+    "description": "Pokedex com GO e HTMX",
+    "name": "pokemon-go",
+    "pkg_id": "pokemon-go#github.com_devluanpereira_pokemon_go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250717230303-c77c6fcf9834"
   },
   {
     "description": "Everything which won't need an own repository (yet",
@@ -338353,6 +338878,19 @@
     ],
     "updated_at": "2025-06-28",
     "version": "HEAD-f460879-250612T153012"
+  },
+  {
+    "description": "Minimal device plugins integrating linux devices into Kubernetes",
+    "name": "release",
+    "pkg_id": "release#github.com_anza_labs_kubelet_device_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250913183811-ff87ff923418"
   },
   {
     "description": "The official ArangoDB go driver.",
@@ -367246,6 +367784,19 @@
     "version": "HEAD-d79508f-250627T205436"
   },
   {
+    "description": "Standalone string interpolator and template processor",
+    "name": "sigil",
+    "pkg_id": "sigil#github.com_gliderlabs_sigil",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.11.5"
+  },
+  {
     "description": "陈明勇的博客，主要分享 Go 技术相关的知识，但不仅限于 Go。在线阅读：https://chenmingyong.cn",
     "name": "sign",
     "pkg_id": "sign#github.com_chenmingyong0423_blog_tutorial_code_go_redis_bitmap_sign",
@@ -373528,6 +374079,19 @@
   {
     "description": "This repository is for active development of the Azure SDK for Go. For consumers of the SDK we recommend visiting our public developer docs at",
     "name": "smoketests",
+    "pkg_id": "smoketests#github.com_azure_azure_sdk_for_go_eng_tools_smoketests",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250630212816-bb29ffdbc8c4"
+  },
+  {
+    "description": "This repository is for active development of the Azure SDK for Go. For consumers of the SDK we recommend visiting our public developer docs at",
+    "name": "smoketests",
     "pkg_id": "smoketests#github.com_mrbonezy_azure_sdk_for_go_eng_tools_smoketests",
     "targets": [
       "aarch64-Linux",
@@ -374566,6 +375130,18 @@
     ],
     "updated_at": "2025-06-29",
     "version": "v0.0.0-20250606151025-bb3942099475"
+  },
+  {
+    "description": "Snell Panel for Surge",
+    "name": "snell-panel",
+    "pkg_id": "snell-panel#github.com_missuo_snell_panel",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v1.0.4"
   },
   {
     "description": "SNI Finder",
@@ -381063,6 +381639,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-85a1f7f-250212T172520"
+  },
+  {
+    "description": "Screenshot web application server",
+    "name": "ssserver",
+    "pkg_id": "ssserver#github.com_koron_ssserver",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v1.3.0"
   },
   {
     "description": "Golang library for managing resctrl filesystem",
@@ -392881,6 +393470,19 @@
   {
     "description": "The Xmidt routing agent",
     "name": "talaria",
+    "pkg_id": "talaria#github.com_comcast_talaria",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.15.1"
+  },
+  {
+    "description": "The Xmidt routing agent",
+    "name": "talaria",
     "pkg_id": "talaria#github.com_xmidt_org_talaria",
     "targets": [
       "aarch64-Linux",
@@ -403067,6 +403669,18 @@
     "version": "v0.0.0-20250313184126-4aa26b6ea76e"
   },
   {
+    "description": "Paladin is a platform for building programmable privacy preserving tokens on EVM, with integrated client and wallet. Support for several privacy frameworks including ZKP tokens, issuer-backed tokens, and private smart contracts",
+    "name": "testinfra",
+    "pkg_id": "testinfra#github.com_lf_decentralized_trust_labs_paladin_testinfra",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250910134742-1478c445f2f1"
+  },
+  {
     "description": "Terraform AliCloud provider",
     "name": "testing",
     "pkg_id": "testing#github.com_aliyun_terraform_provider_alicloud",
@@ -405650,6 +406264,19 @@
     ],
     "updated_at": "2025-09-11",
     "version": "v1.0.3"
+  },
+  {
+    "description": "A thought flow template for human and AI co creation where human keep the thinking and AI implement in a thoughtful steps",
+    "name": "tgsflow",
+    "pkg_id": "tgsflow#github.com_akelv_tgsflow",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250912111319-608e53eca7a0"
   },
   {
     "description": "Download torrent files to your private NAS",
@@ -414206,6 +414833,19 @@
     "version": "v0.0.0-20250816032611-5ba69db87970"
   },
   {
+    "description": "Tree-like command that also prints first lines of plaintext files",
+    "name": "tree",
+    "pkg_id": "tree#github.com_fiatjaf_tree",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.1"
+  },
+  {
     "description": "Graphite metrics receiver with ClickHouse as storage",
     "name": "tree",
     "pkg_id": "tree#github.com_go_graphite_carbon_clickhouse",
@@ -416684,6 +417324,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-91c916d-200909T114857"
+  },
+  {
+    "description": "Minimal device plugins integrating linux devices into Kubernetes",
+    "name": "tun-device-plugin",
+    "pkg_id": "tun-device-plugin#github.com_anza_labs_kubelet_device_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250913183811-ff87ff923418"
   },
   {
     "description": "tun2socks - powered by gVisor TCP/IP stack",
@@ -424299,6 +424952,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-9217ab1-250619T155040"
+  },
+  {
+    "description": "Dump and restore RDBMS by using Excel (XLSX",
+    "name": "users",
+    "pkg_id": "users#github.com_koron_go_xlsx4db",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.4"
   },
   {
     "description": "Aplicação demonstrativa que simula um ambiente federado com microsserviços em Go usando GraphQL",
@@ -435558,6 +436224,19 @@
     "version": "HEAD-6bb3a6f-240926T085033"
   },
   {
+    "description": "Width cut command",
+    "name": "wcut",
+    "pkg_id": "wcut#github.com_koron_wcut",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.1"
+  },
+  {
     "description": "Web-Development 41, a static web server with live-reload",
     "name": "wd-41",
     "pkg_id": "wd-41#github.com_baalimago_wd_41",
@@ -438327,6 +439006,32 @@
     "version": "HEAD-bf192ea-250228T030530"
   },
   {
+    "description": "Weibo collector and monitor",
+    "name": "weibo-archiver",
+    "pkg_id": "weibo-archiver#github.com_chamzzzzzz_weibo",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250913142421-22dfdf8155dd"
+  },
+  {
+    "description": "Weibo collector and monitor",
+    "name": "weibo-collector",
+    "pkg_id": "weibo-collector#github.com_chamzzzzzz_weibo",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250913142421-22dfdf8155dd"
+  },
+  {
     "description": "Examples for Kitex.",
     "name": "weightedrandom",
     "pkg_id": "weightedrandom#github.com_cloudwego_kitex_examples",
@@ -438951,6 +439656,19 @@
     ],
     "updated_at": "2025-08-22",
     "version": "v0.5.0"
+  },
+  {
+    "description": "Go CLI wrapper for OpenAI whisper with shell completions",
+    "name": "whisper-wrapper",
+    "pkg_id": "whisper-wrapper#github.com_kjanat_whisper_wrapper",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v1.0.0"
   },
   {
     "description": "Today I learned",
@@ -444857,6 +445575,58 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-0e234a0-250611T151918"
+  },
+  {
+    "description": "Dump and restore RDBMS by using Excel (XLSX",
+    "name": "xlsx4db",
+    "pkg_id": "xlsx4db#github.com_koron_go_xlsx4db",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.4"
+  },
+  {
+    "description": "Dump and restore RDBMS by using Excel (XLSX",
+    "name": "xlsx_check",
+    "pkg_id": "xlsx_check#github.com_koron_go_xlsx4db",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.4"
+  },
+  {
+    "description": "Dump and restore RDBMS by using Excel (XLSX",
+    "name": "xlsx_dump",
+    "pkg_id": "xlsx_dump#github.com_koron_go_xlsx4db",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.4"
+  },
+  {
+    "description": "Dump and restore RDBMS by using Excel (XLSX",
+    "name": "xlsx_restore",
+    "pkg_id": "xlsx_restore#github.com_koron_go_xlsx4db",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.4"
   },
   {
     "description": "JetStore Compute Analytic Platform",
