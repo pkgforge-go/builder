@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "kvm-device-plugin",
+  "pkg_family": "kubelet-device-plugins",
+  "pkg_id": "kvm-device-plugin#github.com_anza_labs_kubelet_device_plugins",
+  "pkg_name": "kvm-device-plugin",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/anza-labs/kubelet-device-plugins",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Minimal device plugins integrating linux devices into Kubernetes",
+  "homepage": [
+    "https://github.com/anza-labs/kubelet-device-plugins"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kvm-device-plugin",
+    "release",
+    "tun-device-plugin"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/anza-labs/kubelet-device-plugins/@v/v0.0.0-20250913183811-ff87ff923418.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250913183811-ff87ff923418",
+  "version_upstream": "",
+  "bsum": "c3fa4d398594ff384f64aa1d63f0e9cb973e312a953ffa920e673943391b5f8c",
+  "build_date": "2025-09-14T03:46:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17705959313",
+  "build_id": "17705959313",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anza-labs/kubelet-device-plugins/kvm-device-plugin?tag=v0.0.0-20250913183811-ff87ff923418-aarch64-Linux&download=kvm-device-plugin.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anza-labs/kubelet-device-plugins/kvm-device-plugin?tag=v0.0.0-20250913183811-ff87ff923418-aarch64-Linux&download=kvm-device-plugin",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/anza-labs/kubelet-device-plugins/kvm-device-plugin:v0.0.0-20250913183811-ff87ff923418-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/anza-labs/kubelet-device-plugins/kvm-device-plugin",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/anza-labs/kubelet-device-plugins/kvm-device-plugin?tag=v0.0.0-20250913183811-ff87ff923418-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5d46a36b6c33f95b2818d5a2a5294b765277d057a2c0cc738e2796e87324b98f",
+  "size": "15 MB",
+  "size_raw": "15123808",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
