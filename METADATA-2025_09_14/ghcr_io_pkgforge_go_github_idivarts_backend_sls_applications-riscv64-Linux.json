@@ -1,0 +1,90 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "applications",
+  "pkg_family": "backend-sls",
+  "pkg_id": "applications#github.com_idivarts_backend_sls",
+  "pkg_name": "applications",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/idivarts/backend-sls",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This will contain the serverless go backend repository",
+  "homepage": [
+    "https://github.com/idivarts/backend-sls"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apis",
+    "applications",
+    "cc_apis",
+    "google-leads-export",
+    "matchmaking",
+    "message_sqs",
+    "message_webhook",
+    "modash",
+    "new-leads",
+    "notion-export",
+    "process_video",
+    "s3",
+    "scripts",
+    "set-password",
+    "simulate_openai",
+    "stream_sqs_hook",
+    "sync-hubspot",
+    "sync-sengrid",
+    "trendly_apis",
+    "trendly_collabs",
+    "trendly_discovery",
+    "trendly_influencers",
+    "trendly_matchmaking",
+    "trendly_v2",
+    "unauth_apis",
+    "webhook",
+    "websocket"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/idivarts/backend-sls/@v/v0.0.0-20250913200506-f5a84afb132c.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250913200506-f5a84afb132c",
+  "version_upstream": "",
+  "bsum": "26dc7a13cd4b5adc111d45f04c9b9fb522ff9b559280ec034fcf4c582b8ef1a7",
+  "build_date": "2025-09-14T16:04:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17713205718",
+  "build_id": "17713205718",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/idivarts/backend-sls/applications?tag=v0.0.0-20250913200506-f5a84afb132c-riscv64-Linux&download=applications.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/idivarts/backend-sls/applications?tag=v0.0.0-20250913200506-f5a84afb132c-riscv64-Linux&download=applications",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/idivarts/backend-sls/applications:v0.0.0-20250913200506-f5a84afb132c-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/idivarts/backend-sls/applications",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/idivarts/backend-sls/applications?tag=v0.0.0-20250913200506-f5a84afb132c-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b4f52ee6701083474c1f4b82d6547a287766e0c7adb05b4e10248c47ccca3cdb",
+  "size": "31 MB",
+  "size_raw": "32182568",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
