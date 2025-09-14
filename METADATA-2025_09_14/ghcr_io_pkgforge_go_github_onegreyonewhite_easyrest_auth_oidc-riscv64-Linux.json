@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "auth-oidc",
+  "pkg_family": "easyrest",
+  "pkg_id": "auth-oidc#github.com_onegreyonewhite_easyrest",
+  "pkg_name": "auth-oidc",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/onegreyonewhite/easyrest/wiki",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "EasyREST is a lightweight, extensible REST service that provides a unified API for performing CRUD and aggregating queries on relational databases",
+  "homepage": [
+    "https://github.com/onegreyonewhite/easyrest/wiki"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth-awssigv4",
+    "auth-jwt",
+    "auth-oidc",
+    "gateway",
+    "plugin-memcached",
+    "plugin-mysql",
+    "plugin-postgres",
+    "plugin-redis",
+    "plugin-sqlite",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/onegreyonewhite/easyrest/@v/v0.15.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.15.0",
+  "version_upstream": "",
+  "bsum": "dc27ab6d35a0488999699471d760f4c1bf9b766b4f43f2bd7308135bcb00ff44",
+  "build_date": "2025-09-14T09:58:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17709365367",
+  "build_id": "17709365367",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onegreyonewhite/easyrest/auth-oidc?tag=v0.15.0-riscv64-Linux&download=auth-oidc.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onegreyonewhite/easyrest/auth-oidc?tag=v0.15.0-riscv64-Linux&download=auth-oidc",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/onegreyonewhite/easyrest/auth-oidc:v0.15.0-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/onegreyonewhite/easyrest/auth-oidc",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/onegreyonewhite/easyrest/auth-oidc?tag=v0.15.0-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e84bd1da8da4a656eabf0667a968a192e60e7a99ad0f9faf3e256a8129c2909b",
+  "size": "15 MB",
+  "size_raw": "15281352",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.13.0-riscv64-Linux",
+    "v0.13.1-riscv64-Linux",
+    "v0.13.2-riscv64-Linux",
+    "v0.13.3-riscv64-Linux",
+    "v0.14.0-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
