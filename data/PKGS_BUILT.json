@@ -34782,6 +34782,19 @@
     "version": "HEAD-3836e68-250628T172037"
   },
   {
+    "description": "Create and manage virtual cards on Amex",
+    "name": "amex",
+    "pkg_id": "amex#github.com_saucesteals_amex",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.8"
+  },
+  {
     "description": "No Description Provided",
     "name": "amf",
     "pkg_id": "amf#github.com_omec_project_amf",
@@ -47531,6 +47544,7 @@
     "name": "autoimport",
     "pkg_id": "autoimport#github.com_meloshub_meloshub_tools",
     "targets": [
+      "aarch64-Linux",
       "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
@@ -85334,6 +85348,19 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.0.0-20250624150243-fc9f144e91ee"
+  },
+  {
+    "description": "Golang CLI for getting Weather Information provided by DarkSky API",
+    "name": "client",
+    "pkg_id": "client#github.com_seemywingz_weather",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250613153109-596131e97926"
   },
   {
     "description": "新手学习golang的第一步，林林总总都在里面",
@@ -125925,6 +125952,7 @@
     "name": "differ",
     "pkg_id": "differ#github.com_meloshub_meloshub_tools",
     "targets": [
+      "aarch64-Linux",
       "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
@@ -137520,6 +137548,19 @@
     ],
     "updated_at": "2025-06-27",
     "version": "HEAD-9753f8f-250627T050002"
+  },
+  {
+    "description": "Data Backend server that uses eBPF to monitor network connections and provide real-time network analytics",
+    "name": "ebpf-server",
+    "pkg_id": "ebpf-server#github.com_srodi_ebpf_server",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.1"
   },
   {
     "description": "A pure-Go Prometheus exporter for the eBPF Linux subsystem",
@@ -196631,6 +196672,19 @@
     "version": "v0.0.0-20250627200607-8468d5eb58cf"
   },
   {
+    "description": "Cbonsai go port",
+    "name": "gobonsai",
+    "pkg_id": "gobonsai#github.com_nothub_gobonsai",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.5.0"
+  },
+  {
     "description": "It_s go boom, a simple webserver DDoS tool using differents proxy for each threads",
     "name": "goboom",
     "pkg_id": "goboom#github.com_ugomeguerditchian_GoBoom",
@@ -230994,6 +231048,19 @@
     "version": "HEAD-6233bd4-250623T102839"
   },
   {
+    "description": "A Simple CLI ToDo-Tool",
+    "name": "install-todo",
+    "pkg_id": "install-todo#github.com_tiagofvp_todo_manager",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v1.1.3"
+  },
+  {
     "description": "Cluster API driven PaaS Orchestrator",
     "name": "install_metallb",
     "pkg_id": "install_metallb#github.com_nscaledev_uni_kubernetes",
@@ -253679,6 +253746,19 @@
     "version": "20250623T053154"
   },
   {
+    "description": "Project lint tools",
+    "name": "lintool",
+    "pkg_id": "lintool#github.com_openholes_lintool",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250510124319-eb52cc36cf52"
+  },
+  {
     "description": "Lint Golang Struct Padding",
     "name": "lintstructpadding",
     "pkg_id": "lintstructpadding#github.com_majidalaeinia_lintstructpadding",
@@ -268212,6 +268292,19 @@
     "version": "v0.5.0"
   },
   {
+    "description": "MCP-CLI is a command-line tool for interacting with and testing Model Context Protocol (MCP) servers",
+    "name": "mcp-cli",
+    "pkg_id": "mcp-cli#github.com_opensystemslab_mcp_cli",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250911155807-2fedc3d5cb38"
+  },
+  {
     "description": "Run and manage MCP servers as Docker containers with a unified HTTP endpoint. Inspired by Docker compose.",
     "name": "mcp-compose",
     "pkg_id": "mcp-compose#github.com_phildougherty_mcp_compose",
@@ -271133,6 +271226,7 @@
     "name": "metagen",
     "pkg_id": "metagen#github.com_meloshub_meloshub_tools",
     "targets": [
+      "aarch64-Linux",
       "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
@@ -294402,6 +294496,9 @@
     "name": "ocr-web-app",
     "pkg_id": "ocr-web-app#github.com_ngocdo1987_ocr_web_app",
     "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
       "x86_64-Linux"
     ],
     "updated_at": "2025-09-14",
@@ -324172,6 +324269,19 @@
     "version": "v0.3.16"
   },
   {
+    "description": "Automated \"protoc\" installer and runner for all your Go + Protobuf + gRPC projects",
+    "name": "protogo",
+    "pkg_id": "protogo#github.com_pseusys_protogo",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.1.11"
+  },
+  {
     "description": "No Description Provided",
     "name": "protokube",
     "pkg_id": "protokube#github.com_kubernetes_kops.git",
@@ -324310,6 +324420,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-a50de64-201108T152453"
+  },
+  {
+    "description": "An extremely simple proxy to serve your directories as subdomains",
+    "name": "prouter",
+    "pkg_id": "prouter#github.com_steveiliop56_prouter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.1.0"
   },
   {
     "description": "コードリーディングした結果わかったことをまとめる。gist だと一覧性に欠け管理しにくいので git で管理する",
@@ -348147,6 +348270,19 @@
     "version": "v0.0.0-20250120140917-68b0d88b2d3b"
   },
   {
+    "description": "RSH and RCP MCP server",
+    "name": "rsh-mcp",
+    "pkg_id": "rsh-mcp#github.com_tenox7_rsh_mcp",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250913101449-c14d0921440d"
+  },
+  {
     "description": "Daemon for spam-checking IMAP mailboxes with rspamd",
     "name": "rspamd-iscan",
     "pkg_id": "rspamd-iscan#github.com_fho_rspamd_iscan",
@@ -371694,6 +371830,19 @@
     "version": "HEAD-ae918e8-250311T095220"
   },
   {
+    "description": "CLI tool that extracts a list of container images from Kubernetes resources",
+    "name": "skim",
+    "pkg_id": "skim#github.com_yardenshoham_skim",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.0.0-20250913111838-6d22614b3356"
+  },
+  {
     "description": "A naively simple feed reader",
     "name": "skim2html",
     "pkg_id": "skim2html#github.com_rsdoiel_skimmer",
@@ -375137,6 +375286,7 @@
     "pkg_id": "snell-panel#github.com_missuo_snell_panel",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -380878,6 +381028,19 @@
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-2dc8758-250306T124746"
+  },
+  {
+    "description": "Ssh-get-id  add the public SSH keys from a known, trusted online identity to grant SSH access",
+    "name": "ssh-get-id",
+    "pkg_id": "ssh-get-id#github.com_mengzhuo_ssh_get_id",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v0.2.0"
   },
   {
     "description": "A library and command to generate jwt tokens using ssh key or ssh-agent",
@@ -403675,7 +403838,8 @@
     "targets": [
       "aarch64-Linux",
       "loongarch64-Linux",
-      "riscv64-Linux"
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-09-14",
     "version": "v0.0.0-20250910134742-1478c445f2f1"
@@ -410704,6 +410868,19 @@
     ],
     "updated_at": "2025-06-26",
     "version": "HEAD-ecc9203-250625T194425"
+  },
+  {
+    "description": "A Simple CLI ToDo-Tool",
+    "name": "todo",
+    "pkg_id": "todo#github.com_tiagofvp_todo_manager",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-14",
+    "version": "v1.1.3"
   },
   {
     "description": "A Kubernetes cluster to learn Kubernetes. It includes Argo CD, Grafana, Prometheus, Loki, Tempo, Phlare and VictoriaMetrics",
@@ -436309,7 +436486,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-08-19",
+    "updated_at": "2025-09-14",
     "version": "v0.0.0-20250613153109-596131e97926"
   },
   {
