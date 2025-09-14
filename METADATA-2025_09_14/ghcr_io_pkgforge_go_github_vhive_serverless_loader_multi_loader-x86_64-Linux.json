@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "multi_loader",
+  "pkg_family": "loader",
+  "pkg_id": "multi_loader#github.com_vhive_serverless_loader",
+  "pkg_name": "multi_loader",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/vhive-serverless/loader",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Load generator and trace sampler for serverless computing",
+  "homepage": [
+    "https://github.com/vhive-serverless/loader"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws",
+    "driver",
+    "loader-cmd",
+    "multi_loader",
+    "plotter",
+    "timed",
+    "trace-func-go",
+    "wimpy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/vhive-serverless/loader/@v/v0.0.0-20250905083334-2e16a45734eb.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250905083334-2e16a45734eb",
+  "version_upstream": "",
+  "bsum": "dce8a9ac686d422001b819c50d34ca89cc35fa62b1c5073ad17de41ba942e884",
+  "build_date": "2025-09-14T16:10:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17713209486",
+  "build_id": "17713209486",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vhive-serverless/loader/multi_loader?tag=v0.0.0-20250905083334-2e16a45734eb-x86_64-Linux&download=multi_loader.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "24",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vhive-serverless/loader/multi_loader?tag=v0.0.0-20250905083334-2e16a45734eb-x86_64-Linux&download=multi_loader",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/vhive-serverless/loader/multi_loader:v0.0.0-20250905083334-2e16a45734eb-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/vhive-serverless/loader/multi_loader",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vhive-serverless/loader/multi_loader?tag=v0.0.0-20250905083334-2e16a45734eb-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "75d24fcd4a0179e20760b2e5529a73b980a33f6bce377445dc08ab1f7b45200e",
+  "size": "3.2 MB",
+  "size_raw": "3291128",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
