@@ -1,0 +1,90 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "sync-hubspot",
+  "pkg_family": "backend-sls",
+  "pkg_id": "sync-hubspot#github.com_idivarts_backend_sls",
+  "pkg_name": "sync-hubspot",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/idivarts/backend-sls",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This will contain the serverless go backend repository",
+  "homepage": [
+    "https://github.com/idivarts/backend-sls"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "apis",
+    "applications",
+    "cc_apis",
+    "google-leads-export",
+    "matchmaking",
+    "message_sqs",
+    "message_webhook",
+    "modash",
+    "new-leads",
+    "notion-export",
+    "process_video",
+    "s3",
+    "scripts",
+    "set-password",
+    "simulate_openai",
+    "stream_sqs_hook",
+    "sync-hubspot",
+    "sync-sengrid",
+    "trendly_apis",
+    "trendly_collabs",
+    "trendly_discovery",
+    "trendly_influencers",
+    "trendly_matchmaking",
+    "trendly_v2",
+    "unauth_apis",
+    "webhook",
+    "websocket"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/idivarts/backend-sls/@v/v0.0.0-20250913200506-f5a84afb132c.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250913200506-f5a84afb132c",
+  "version_upstream": "",
+  "bsum": "e428506e6baec66acaee9ad382b93f8be50c858190e62e4c36ae7c80d273ac2d",
+  "build_date": "2025-09-14T16:03:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17713205718",
+  "build_id": "17713205718",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/idivarts/backend-sls/sync-hubspot?tag=v0.0.0-20250913200506-f5a84afb132c-riscv64-Linux&download=sync-hubspot.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/idivarts/backend-sls/sync-hubspot?tag=v0.0.0-20250913200506-f5a84afb132c-riscv64-Linux&download=sync-hubspot",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/idivarts/backend-sls/sync-hubspot:v0.0.0-20250913200506-f5a84afb132c-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/idivarts/backend-sls/sync-hubspot",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/idivarts/backend-sls/sync-hubspot?tag=v0.0.0-20250913200506-f5a84afb132c-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bd154e00399d5deff3ccfec8e154fee809ed6f63a7408b713cef4a61b59cd5db",
+  "size": "31 MB",
+  "size_raw": "32163176",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
