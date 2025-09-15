@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "catomic",
+  "pkg_family": "c",
+  "pkg_id": "catomic#github.com_goplus_llgo_demo_c",
+  "pkg_name": "catomic",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/goplus/llgo",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Go compiler based on LLVM in order to better integrate Go with the C ecosystem including Python and JavaScript",
+  "homepage": [
+    "https://github.com/goplus/llgo"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "asmcall",
+    "cabisret",
+    "catomic",
+    "syncdebug"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/goplus/llgo/_demo/c/@v/v0.0.0-20250914023220-897f94476013.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250914023220-897f94476013",
+  "version_upstream": "",
+  "bsum": "ee688fa2bd1c1a4f09784797915cbd87fa634e255592afce2bde55dd4779a0d5",
+  "build_date": "2025-09-15T04:10:34Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17721574890",
+  "build_id": "17721574890",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/goplus/llgo/demo/c/catomic?tag=v0.0.0-20250914023220-897f94476013-riscv64-Linux&download=catomic.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "543",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/goplus/llgo/demo/c/catomic?tag=v0.0.0-20250914023220-897f94476013-riscv64-Linux&download=catomic",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/goplus/llgo/demo/c/catomic:v0.0.0-20250914023220-897f94476013-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/goplus/llgo/demo/c/catomic",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/goplus/llgo/demo/c/catomic?tag=v0.0.0-20250914023220-897f94476013-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b23569bf4b479e6be4ae370e2c0a24024f6462ad9cd88b4c81b34330c038babb",
+  "size": "1.1 MB",
+  "size_raw": "1129472",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
