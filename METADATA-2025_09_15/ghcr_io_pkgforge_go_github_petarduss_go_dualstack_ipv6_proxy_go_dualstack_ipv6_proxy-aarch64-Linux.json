@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "go-dualstack-ipv6-proxy",
+  "pkg_family": "go-dualstack-ipv6-proxy",
+  "pkg_id": "go-dualstack-ipv6-proxy#github.com_petarduss_go_dualstack_ipv6_proxy",
+  "pkg_name": "go-dualstack-ipv6-proxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/petarduss/go-dualstack-ipv6-proxy",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "High-performance HTTP/HTTPS proxy server written in Go, designed to handle incoming IPv4 and IPv6 requests and forward them through randomized IPv6 addresses from a user-defined pool. This makes it especially useful for applications that benefit from IP rotation over IPv6 networks",
+  "homepage": [
+    "https://github.com/petarduss/go-dualstack-ipv6-proxy"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "go-dualstack-ipv6-proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/petarduss/go-dualstack-ipv6-proxy/@v/v0.0.0-20250707162133-10667443b56a.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250707162133-10667443b56a",
+  "version_upstream": "",
+  "bsum": "fdda996494f7c0f6915e4e2833282198ed24b66a81474deca33db4fb0e05a10c",
+  "build_date": "2025-09-15T04:27:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17721604766",
+  "build_id": "17721604766",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/petarduss/go-dualstack-ipv6-proxy/go-dualstack-ipv6-proxy?tag=v0.0.0-20250707162133-10667443b56a-aarch64-Linux&download=go-dualstack-ipv6-proxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/petarduss/go-dualstack-ipv6-proxy/go-dualstack-ipv6-proxy?tag=v0.0.0-20250707162133-10667443b56a-aarch64-Linux&download=go-dualstack-ipv6-proxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/petarduss/go-dualstack-ipv6-proxy/go-dualstack-ipv6-proxy:v0.0.0-20250707162133-10667443b56a-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/petarduss/go-dualstack-ipv6-proxy/go-dualstack-ipv6-proxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/petarduss/go-dualstack-ipv6-proxy/go-dualstack-ipv6-proxy?tag=v0.0.0-20250707162133-10667443b56a-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2aeddf6dbb895bf773c161195932df7a1c42dfdcc7a784cec7493cbdf9051756",
+  "size": "6.6 MB",
+  "size_raw": "6882688",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
