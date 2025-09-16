@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "service1",
+  "pkg_family": "go-workit",
+  "pkg_id": "service1#github.com_lxhanghub_go_workit",
+  "pkg_name": "service1",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lxhanghub/go-workit",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "小航书-Golang快速开发模板（workit",
+  "homepage": [
+    "https://github.com/lxhanghub/go-workit"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "config",
+    "custom",
+    "di",
+    "echo",
+    "env_var",
+    "grpc",
+    "grpcclient",
+    "jwt",
+    "localization",
+    "multiple",
+    "mysql",
+    "oauth2",
+    "postgres",
+    "quckstart",
+    "ratelimit",
+    "redis",
+    "router",
+    "service1",
+    "swag"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/lxhanghub/go-workit/@v/v0.0.0-20250915132540-b260448c9b6b.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250915132540-b260448c9b6b",
+  "version_upstream": "",
+  "bsum": "01f9ac1ecac3194e48ea0df02caf0c5ad74abd3a42c21497b3402d6c47c775e7",
+  "build_date": "2025-09-16T04:16:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17753727359",
+  "build_id": "17753727359",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lxhanghub/go-workit/service1?tag=v0.0.0-20250915132540-b260448c9b6b-aarch64-Linux&download=service1.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lxhanghub/go-workit/service1?tag=v0.0.0-20250915132540-b260448c9b6b-aarch64-Linux&download=service1",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lxhanghub/go-workit/service1:v0.0.0-20250915132540-b260448c9b6b-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lxhanghub/go-workit/service1",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lxhanghub/go-workit/service1?tag=v0.0.0-20250915132540-b260448c9b6b-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "371f7e272d4219a2470526c1d633685c1e2a2104cef40098e964e8851bf4e147",
+  "size": "43 MB",
+  "size_raw": "44176928",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
