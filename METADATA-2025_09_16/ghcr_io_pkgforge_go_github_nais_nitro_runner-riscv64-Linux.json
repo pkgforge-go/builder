@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "runner",
+  "pkg_family": "nitro",
+  "pkg_id": "runner#github.com_nais_nitro",
+  "pkg_name": "runner",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nais/nitro",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Provisioning tool for self hosted Kubernetes clusters",
+  "homepage": [
+    "https://github.com/nais/nitro"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "provision",
+    "runner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/nais/nitro/@v/v0.0.0-20250811085103-74806bf6ac70.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250811085103-74806bf6ac70",
+  "version_upstream": "",
+  "bsum": "d480a6c65318cd76d42bed706122c4fdedf63c806b01321966e82760f4159342",
+  "build_date": "2025-09-16T04:10:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17753767471",
+  "build_id": "17753767471",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/nitro/runner?tag=v0.0.0-20250811085103-74806bf6ac70-riscv64-Linux&download=runner.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/nitro/runner?tag=v0.0.0-20250811085103-74806bf6ac70-riscv64-Linux&download=runner",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nais/nitro/runner:v0.0.0-20250811085103-74806bf6ac70-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nais/nitro/runner",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/nitro/runner?tag=v0.0.0-20250811085103-74806bf6ac70-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "343553b55ee05a9ebdacbd94c414e8f9d0c061dc748ad5bc13bc9a9cab28d853",
+  "size": "34 MB",
+  "size_raw": "35048072",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

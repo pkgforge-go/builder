@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "provision",
+  "pkg_family": "nitro",
+  "pkg_id": "provision#github.com_nais_nitro",
+  "pkg_name": "provision",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nais/nitro",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Provisioning tool for self hosted Kubernetes clusters",
+  "homepage": [
+    "https://github.com/nais/nitro"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "provision",
+    "runner"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/nais/nitro/@v/v0.0.0-20250811085103-74806bf6ac70.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250811085103-74806bf6ac70",
+  "version_upstream": "",
+  "bsum": "3a6cfbda2f05b44b36a13de2258aa49ec25989d796388c39fd255e8c6282191c",
+  "build_date": "2025-09-16T04:10:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17753767471",
+  "build_id": "17753767471",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/nitro/provision?tag=v0.0.0-20250811085103-74806bf6ac70-riscv64-Linux&download=provision.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/nitro/provision?tag=v0.0.0-20250811085103-74806bf6ac70-riscv64-Linux&download=provision",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nais/nitro/provision:v0.0.0-20250811085103-74806bf6ac70-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nais/nitro/provision",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/nitro/provision?tag=v0.0.0-20250811085103-74806bf6ac70-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e4c0a863069321021e6ae57171941cef2650996bc25570227e0c1f334ef2eb54",
+  "size": "38 MB",
+  "size_raw": "38954376",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
