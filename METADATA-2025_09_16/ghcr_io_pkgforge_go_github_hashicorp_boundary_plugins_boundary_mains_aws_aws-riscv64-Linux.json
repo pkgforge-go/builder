@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "aws",
+  "pkg_family": "aws",
+  "pkg_id": "aws#github.com_hashicorp_boundary_plugins_boundary_mains_aws",
+  "pkg_name": "aws",
+  "pkg_type": "static",
+  "pkg_webpage": "https://boundaryproject.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Boundary enables identity-based access management for dynamic infrastructure",
+  "homepage": [
+    "https://boundaryproject.io"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aws"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/hashicorp/boundary/plugins/boundary/mains/aws/@v/v0.0.0-20250915205050-5f6cb0010842.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250915205050-5f6cb0010842",
+  "version_upstream": "",
+  "bsum": "ddaa85bacbea027d31995c47b450fd60d0675d137b6c5b6031d8f0a82098ea99",
+  "build_date": "2025-09-16T19:05:22Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17775817082",
+  "build_id": "17775817082",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/boundary/plugins/boundary/mains/aws/aws?tag=v0.0.0-20250915205050-5f6cb0010842-riscv64-Linux&download=aws.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3949",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/boundary/plugins/boundary/mains/aws/aws?tag=v0.0.0-20250915205050-5f6cb0010842-riscv64-Linux&download=aws",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/boundary/plugins/boundary/mains/aws/aws:v0.0.0-20250915205050-5f6cb0010842-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/boundary/plugins/boundary/mains/aws/aws",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/boundary/plugins/boundary/mains/aws/aws?tag=v0.0.0-20250915205050-5f6cb0010842-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a39f57c93e750d13a0493108b5bea7992382040fa95640cb03d6fe3fe2f107b3",
+  "size": "50 MB",
+  "size_raw": "51911880",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250828173041-bd4dd9808aed-riscv64-Linux",
+    "v0.0.0-20250903234307-95c267cdfc71-riscv64-Linux",
+    "v0.0.0-20250905202236-afc02f1b6b5e-riscv64-Linux",
+    "v0.0.0-20250912215539-ea6ff60d1e56-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
