@@ -30058,6 +30058,7 @@
     "pkg_id": "adcs#github.com_rpromyshlennikov_adcs",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -33147,6 +33148,19 @@
     ],
     "updated_at": "2025-06-29",
     "version": "HEAD-ad8d211-250628T144446"
+  },
+  {
+    "description": "批量测试符合 OpenAI 协议和 Anthropic 协议的 AI 模型性能指标。支持 TTFT（首字节时间）、TPS（吞吐量）、网络延迟等关键性能指标的测量，提供多模型对比测试和详细的性能报告生成功能",
+    "name": "ait",
+    "pkg_id": "ait#github.com_yinxulai_ait",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-16",
+    "version": "v0.0.0-20250915135538-0963e4fa0ab0"
   },
   {
     "description": "Provision and manage Aiven Services from your Kubernetes cluster.",
@@ -50844,6 +50858,19 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.0.0-20250618161309-8d0c35f1333c"
+  },
+  {
+    "description": "A DNS server where every IP address gets its own domain",
+    "name": "backname",
+    "pkg_id": "backname#github.com_twixes_backname",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-16",
+    "version": "v0.0.0-20250914220119-8e364b89e0fe"
   },
   {
     "description": "Programmable connectivity platform",
@@ -71226,6 +71253,19 @@
     ],
     "updated_at": "2025-06-25",
     "version": "HEAD-870516a-250624T145755"
+  },
+  {
+    "description": "Orders a set of certs properly for go",
+    "name": "certorder",
+    "pkg_id": "certorder#github.com_xmidt_org_certorder",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-16",
+    "version": "v0.1.3"
   },
   {
     "description": "This project aims to be a drop-in replacement for the certstream server by Calidog. This tool aggregates, parses, and streams certificate data from multiple certificate transparency logs via websocket connections to the clients.",
@@ -120740,7 +120780,10 @@
     "name": "debug-index-generator",
     "pkg_id": "debug-index-generator#github.com_soyart_ssg_soyweb",
     "targets": [
-      "riscv64-Linux"
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-09-16",
     "version": "v0.0.0-20250915201634-7a3437b733c0"
@@ -139903,6 +139946,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-c884338-250619T172253"
+  },
+  {
+    "description": "Expression Grammar Generator",
+    "name": "egg",
+    "pkg_id": "egg#gitlab.com_cznic_egg",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-16",
+    "version": "v0.1.14"
   },
   {
     "description": "Go SDK for building AVSs on Eigenlayer",
@@ -164496,6 +164552,19 @@
     "version": "HEAD-7e81430-250625T144047"
   },
   {
+    "description": "Shows how the CFT modules can be composed to build a secure cloud foundation",
+    "name": "foundation-deployer",
+    "pkg_id": "foundation-deployer#github.com_terraform_google_modules_terraform_example_foundation_helpers_foundation_deployer",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-16",
+    "version": "v0.0.0-20250915192013-baaf30e969a7"
+  },
+  {
     "description": "A Cloud Native Buildpack that provides the Foundry Tool Suite",
     "name": "foundry",
     "pkg_id": "foundry#github.com_amp_buildpacks_foundry",
@@ -170127,6 +170196,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-e53bf65-240615T121732"
+  },
+  {
+    "description": "Go blob store module and app",
+    "name": "gblobs",
+    "pkg_id": "gblobs#github.com_tenzoki_gblobs",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-16",
+    "version": "v0.0.0-20250914190444-3d0157b1df36"
   },
   {
     "description": "Plugins for integrating ACI with container orchestration systems",
@@ -225105,6 +225187,19 @@
     "version": "v0.2.0"
   },
   {
+    "description": "ʕ◔ϖ◔ʔ",
+    "name": "huffman_coding",
+    "pkg_id": "huffman_coding#github.com_souzaramon_huffman_coding",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-16",
+    "version": "v0.0.0-20250128082810-2778e3847ec6"
+  },
+  {
     "description": "New Relic Infrastructure Agent",
     "name": "huge",
     "pkg_id": "huge#github.com_newrelic_infrastructure_agent",
@@ -276188,7 +276283,10 @@
     "name": "minifier",
     "pkg_id": "minifier#github.com_soyart_ssg_soyweb",
     "targets": [
-      "riscv64-Linux"
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-09-16",
     "version": "v0.0.0-20250915201634-7a3437b733c0"
@@ -379553,7 +379651,10 @@
     "name": "soyweb",
     "pkg_id": "soyweb#github.com_soyart_ssg_soyweb",
     "targets": [
-      "riscv64-Linux"
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-09-16",
     "version": "v0.0.0-20250915201634-7a3437b733c0"
@@ -383149,7 +383250,10 @@
     "name": "ssg-minifier",
     "pkg_id": "ssg-minifier#github.com_soyart_ssg_soyweb",
     "targets": [
-      "riscv64-Linux"
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-09-16",
     "version": "v0.0.0-20250915201634-7a3437b733c0"
