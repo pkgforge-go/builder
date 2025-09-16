@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "shell",
+  "pkg_family": "buildpack_app_lifecycle",
+  "pkg_id": "shell#github.com_cloudfoundry_incubator_buildpack_app_lifecycle",
+  "pkg_name": "shell",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/cloudfoundry-incubator/buildpack_app_lifecycle",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "The bit that takes some bits, mashes them together with other bits, and produces a new bit",
+  "homepage": [
+    "https://github.com/cloudfoundry-incubator/buildpack_app_lifecycle"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "builder",
+    "custom_entrypoint",
+    "getenv",
+    "hello",
+    "launcher",
+    "shell"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cloudfoundry-incubator/buildpack_app_lifecycle/@v/v0.0.0-20250912161115-a52aa26119f3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250912161115-a52aa26119f3",
+  "version_upstream": "",
+  "bsum": "266a52f08c55ece0a5c144e6429ab7fac526d5db86d1e5916b3115b5a1a08f00",
+  "build_date": "2025-09-16T03:48:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17753718698",
+  "build_id": "17753718698",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry-incubator/buildpack/app/lifecycle/shell?tag=v0.0.0-20250912161115-a52aa26119f3-loongarch64-Linux&download=shell.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry-incubator/buildpack/app/lifecycle/shell?tag=v0.0.0-20250912161115-a52aa26119f3-loongarch64-Linux&download=shell",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/cloudfoundry-incubator/buildpack/app/lifecycle/shell:v0.0.0-20250912161115-a52aa26119f3-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/cloudfoundry-incubator/buildpack/app/lifecycle/shell",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/cloudfoundry-incubator/buildpack/app/lifecycle/shell?tag=v0.0.0-20250912161115-a52aa26119f3-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bde644821c1bdc094d9433d6847e97e8019114005f7cc65fc62278d6438a0368",
+  "size": "7.2 MB",
+  "size_raw": "7458208",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
