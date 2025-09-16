@@ -1,0 +1,82 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "redis",
+  "pkg_family": "newb",
+  "pkg_id": "redis#github.com_lxhanghub_newb",
+  "pkg_name": "redis",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/lxhanghub/newb",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "小航书-Golang快速开发模板（workit",
+  "homepage": [
+    "https://github.com/lxhanghub/newb"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "config",
+    "custom",
+    "di",
+    "echo",
+    "env_var",
+    "grpc",
+    "grpcclient",
+    "jwt",
+    "localization",
+    "multiple",
+    "mysql",
+    "oauth2",
+    "postgres",
+    "quckstart",
+    "ratelimit",
+    "redis",
+    "router",
+    "service1",
+    "swag"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/lxhanghub/newb/@v/v0.0.0-20250915132540-b260448c9b6b.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250915132540-b260448c9b6b",
+  "version_upstream": "",
+  "bsum": "e60a8d33cfda4870ca90a37ff13ce1e23bff7180fd62891d71cdd7ed77a73885",
+  "build_date": "2025-09-16T04:14:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17753726507",
+  "build_id": "17753726507",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lxhanghub/newb/redis?tag=v0.0.0-20250915132540-b260448c9b6b-riscv64-Linux&download=redis.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "6",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lxhanghub/newb/redis?tag=v0.0.0-20250915132540-b260448c9b6b-riscv64-Linux&download=redis",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/lxhanghub/newb/redis:v0.0.0-20250915132540-b260448c9b6b-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/lxhanghub/newb/redis",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/lxhanghub/newb/redis?tag=v0.0.0-20250915132540-b260448c9b6b-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b94a7f296e6ecb917078e3ee21032f93e0aefc03c35f92a0228069d31d16ef4c",
+  "size": "45 MB",
+  "size_raw": "47089544",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
