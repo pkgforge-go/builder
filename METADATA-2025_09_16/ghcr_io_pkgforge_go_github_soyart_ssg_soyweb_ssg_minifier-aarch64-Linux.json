@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "ssg-minifier",
+  "pkg_family": "soyweb",
+  "pkg_id": "ssg-minifier#github.com_soyart_ssg_soyweb",
+  "pkg_name": "ssg-minifier",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/soyart/ssg",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Nix Flake for ssg from https://romanzolotarev.com/bin/ssg and ssg-go",
+  "homepage": [
+    "https://github.com/soyart/ssg"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "debug-index-generator",
+    "minifier",
+    "soyweb",
+    "ssg-minifier"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/soyart/ssg/soyweb/@v/v0.0.0-20250915201634-7a3437b733c0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250915201634-7a3437b733c0",
+  "version_upstream": "",
+  "bsum": "391cd7b4efe2087834e2443b95a580731977a45935797ba1bdec85b607a00e85",
+  "build_date": "2025-09-16T04:25:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17753795264",
+  "build_id": "17753795264",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/soyart/ssg/soyweb/ssg-minifier?tag=v0.0.0-20250915201634-7a3437b733c0-aarch64-Linux&download=ssg-minifier.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/soyart/ssg/soyweb/ssg-minifier?tag=v0.0.0-20250915201634-7a3437b733c0-aarch64-Linux&download=ssg-minifier",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/soyart/ssg/soyweb/ssg-minifier:v0.0.0-20250915201634-7a3437b733c0-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/soyart/ssg/soyweb/ssg-minifier",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/soyart/ssg/soyweb/ssg-minifier?tag=v0.0.0-20250915201634-7a3437b733c0-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "79034128dbc6d59354f72a2dcb058000d47ca99dda3f1b1c9a0e7300df32f170",
+  "size": "5.5 MB",
+  "size_raw": "5669760",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
