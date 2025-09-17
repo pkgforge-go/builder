@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "tsidp",
+  "pkg_family": "tsidp",
+  "pkg_id": "tsidp#github.com_tailscale_tsidp",
+  "pkg_name": "tsidp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tailscale/tsidp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A simple OIDC / OAuth Identity Provider (IdP) server for your tailnet",
+  "homepage": [
+    "https://github.com/tailscale/tsidp"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "tsidp",
+    "verifier"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/tailscale/tsidp/@v/v0.0.0-20250915222000-e6bf0ba1adbd.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250915222000-e6bf0ba1adbd",
+  "version_upstream": "",
+  "bsum": "a32fd3ec913e13824a7ce6dcb58fd6d65ccb20a1082a3b1c4be0d832bd78d535",
+  "build_date": "2025-09-17T04:24:24Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17786011235",
+  "build_id": "17786011235",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tailscale/tsidp/tsidp?tag=v0.0.0-20250915222000-e6bf0ba1adbd-riscv64-Linux&download=tsidp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tailscale/tsidp/tsidp?tag=v0.0.0-20250915222000-e6bf0ba1adbd-riscv64-Linux&download=tsidp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tailscale/tsidp/tsidp:v0.0.0-20250915222000-e6bf0ba1adbd-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tailscale/tsidp/tsidp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tailscale/tsidp/tsidp?tag=v0.0.0-20250915222000-e6bf0ba1adbd-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2f872aa16dd6d6547b5abd0811185c3732a682d3e5db8c01bd4f8022197e765c",
+  "size": "29 MB",
+  "size_raw": "30277864",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
