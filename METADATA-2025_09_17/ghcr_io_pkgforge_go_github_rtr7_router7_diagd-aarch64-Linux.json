@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "diagd",
+  "pkg_family": "router7",
+  "pkg_id": "diagd#github.com_rtr7_router7",
+  "pkg_name": "diagd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://router7.org",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Router7 is a small home internet router completely written in Go. It is implemented as a gokrazy appliance",
+  "homepage": [
+    "https://router7.org"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "backupd",
+    "captured",
+    "dhcp4",
+    "dhcp4d",
+    "dhcp6",
+    "diagd",
+    "dnsd",
+    "dyndns",
+    "netconfigd",
+    "radvd"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/rtr7/router7/@v/v0.0.0-20250914094836-e2d4de476821.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250914094836-e2d4de476821",
+  "version_upstream": "",
+  "bsum": "8f5114e229c9240a56e5cf9c564b62d7463606b042af393c3e4b1d76280eaab6",
+  "build_date": "2025-09-17T02:05:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17784062095",
+  "build_id": "17784062095",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rtr7/router7/diagd?tag=v0.0.0-20250914094836-e2d4de476821-aarch64-Linux&download=diagd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2716",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rtr7/router7/diagd?tag=v0.0.0-20250914094836-e2d4de476821-aarch64-Linux&download=diagd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rtr7/router7/diagd:v0.0.0-20250914094836-e2d4de476821-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rtr7/router7/diagd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rtr7/router7/diagd?tag=v0.0.0-20250914094836-e2d4de476821-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d4ef89a2131b2ff8899b3a755a040de12bbee1e89f152575c30bddc4170afb38",
+  "size": "11 MB",
+  "size_raw": "10518016",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-52826d6-250417T162712-aarch64-Linux",
+    "v0.0.0-20250720205713-35fcfc15c8ed-aarch64-Linux",
+    "v0.0.0-20250815062933-0b9afc92733d-aarch64-Linux",
+    "v0.0.0-20250911062110-128a7e98ef22-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
