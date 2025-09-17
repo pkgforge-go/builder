@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "verifier",
+  "pkg_family": "tsidp",
+  "pkg_id": "verifier#github.com_tailscale_tsidp",
+  "pkg_name": "verifier",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tailscale/tsidp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A simple OIDC / OAuth Identity Provider (IdP) server for your tailnet",
+  "homepage": [
+    "https://github.com/tailscale/tsidp"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "tsidp",
+    "verifier"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/tailscale/tsidp/@v/v0.0.0-20250915222000-e6bf0ba1adbd.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250915222000-e6bf0ba1adbd",
+  "version_upstream": "",
+  "bsum": "18bf11533c9e1c99d54209ff3ccc86ee8b4aa7d05e1a24d158a44c98c8a87d83",
+  "build_date": "2025-09-17T04:26:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17786011235",
+  "build_id": "17786011235",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tailscale/tsidp/verifier?tag=v0.0.0-20250915222000-e6bf0ba1adbd-aarch64-Linux&download=verifier.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tailscale/tsidp/verifier?tag=v0.0.0-20250915222000-e6bf0ba1adbd-aarch64-Linux&download=verifier",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tailscale/tsidp/verifier:v0.0.0-20250915222000-e6bf0ba1adbd-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tailscale/tsidp/verifier",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tailscale/tsidp/verifier?tag=v0.0.0-20250915222000-e6bf0ba1adbd-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7f33c858b8b3e62467818df6af7d6a2f81d5606e57384c204102e5f21c2ce227",
+  "size": "6.0 MB",
+  "size_raw": "6190432",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
