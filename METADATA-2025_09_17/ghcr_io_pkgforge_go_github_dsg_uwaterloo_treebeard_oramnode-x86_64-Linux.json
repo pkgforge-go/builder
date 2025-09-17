@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "oramnode",
+  "pkg_family": "treebeard",
+  "pkg_id": "oramnode#github.com_dsg_uwaterloo_treebeard",
+  "pkg_name": "oramnode",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dsg-uwaterloo/treebeard",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A scalable and fault-tolerant Oblivious RAM (ORAM) data store",
+  "homepage": [
+    "https://github.com/dsg-uwaterloo/treebeard"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "oramnode",
+    "router",
+    "shardnode"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/keshavbansal015/treebeard/@v/v0.0.0-20250916011142-6f4824fce804.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250619235412-6cd46d5a8fe4",
+  "version_upstream": "",
+  "bsum": "7a9dc2cd8d1b8f912eaa680e7a80186dbf23e78c17fd4e02c213facffe9b5652",
+  "build_date": "2025-09-17T15:47:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17802904707",
+  "build_id": "17802904707",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dsg-uwaterloo/treebeard/oramnode?tag=v0.0.0-20250619235412-6cd46d5a8fe4-x86_64-Linux&download=oramnode.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dsg-uwaterloo/treebeard/oramnode?tag=v0.0.0-20250619235412-6cd46d5a8fe4-x86_64-Linux&download=oramnode",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dsg-uwaterloo/treebeard/oramnode:v0.0.0-20250619235412-6cd46d5a8fe4-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dsg-uwaterloo/treebeard/oramnode",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dsg-uwaterloo/treebeard/oramnode?tag=v0.0.0-20250619235412-6cd46d5a8fe4-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "cb9b46e8400e6509488da8c67c9205a69b2d8844bb3064983e7cdf1d21d60025",
+  "size": "18 MB",
+  "size_raw": "18376992",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250619235412-6cd46d5a8fe4-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
