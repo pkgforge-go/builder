@@ -144059,6 +144059,8 @@
     "name": "epoch",
     "pkg_id": "epoch#github.com_tischda_epoch",
     "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
       "riscv64-Linux",
       "x86_64-Linux"
     ],
@@ -159504,7 +159506,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-09-02",
+    "updated_at": "2025-09-17",
     "version": "v0.0.0-20250728100853-9bb7b6a3df28"
   },
   {
@@ -232705,6 +232707,19 @@
     "version": "v0.0.0-20250624022550-b10b9d040865"
   },
   {
+    "description": "The part of Lagoon insights that runs on remote clusters",
+    "name": "insights-remote",
+    "pkg_id": "insights-remote#github.com_uselagoon_insights_remote",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-17",
+    "version": "v0.0.13"
+  },
+  {
     "description": "Aggregator service for insights results",
     "name": "insights-results-aggregator",
     "pkg_id": "insights-results-aggregator#github.com_RedHatInsights_insights_results_aggregator",
@@ -244296,6 +244311,19 @@
     ],
     "updated_at": "2025-06-22",
     "version": "HEAD-b87c8b2-250622T145511"
+  },
+  {
+    "description": "Kdcf is a CLI tool for formatting Kotlin data classes",
+    "name": "kdcf",
+    "pkg_id": "kdcf#github.com_yasukotelin_kdcf",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-17",
+    "version": "v0.0.0-20250219082511-bfd27307f9fc"
   },
   {
     "description": "Declarative resource management for Kafka",
@@ -343749,7 +343777,9 @@
     "name": "rename-pvc",
     "pkg_id": "rename-pvc#github.com_stackitcloud_rename_pvc",
     "targets": [
-      "riscv64-Linux"
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-09-17",
     "version": "v0.6.0"
@@ -369421,6 +369451,19 @@
     ],
     "updated_at": "2025-07-08",
     "version": "v0.0.0-20250701170512-08c89d4170c5"
+  },
+  {
+    "description": "Implementation of Shamir’s Secret Sharing in Go",
+    "name": "shamir",
+    "pkg_id": "shamir#github.com_wbrc_shamir",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-17",
+    "version": "v1.1.0"
   },
   {
     "description": "CLI tool to display Shamsi/Jalali calendar in terminal",
@@ -420146,6 +420189,19 @@
     "version": "HEAD-7b1a027-250628T020844"
   },
   {
+    "description": "A simple OIDC / OAuth Identity Provider (IdP) server for your tailnet",
+    "name": "tsidp",
+    "pkg_id": "tsidp#github.com_tailscale_tsidp",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-17",
+    "version": "v0.0.0-20250915222000-e6bf0ba1adbd"
+  },
+  {
     "description": "An SSH agent implementation over setec",
     "name": "tskagent",
     "pkg_id": "tskagent#github.com_tailscale_tskagent",
@@ -433701,6 +433757,19 @@
     "version": "v0.0.0-20250824130136-97f3efa7823f"
   },
   {
+    "description": "A simple OIDC / OAuth Identity Provider (IdP) server for your tailnet",
+    "name": "verifier",
+    "pkg_id": "verifier#github.com_tailscale_tsidp",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-17",
+    "version": "v0.0.0-20250915222000-e6bf0ba1adbd"
+  },
+  {
     "description": "A place to store some examples which use Trillian APIs to build things",
     "name": "verify",
     "pkg_id": "verify#github.com_google_trillian_examples",
@@ -445282,6 +445351,19 @@
     "version": "v0.9.2"
   },
   {
+    "description": "Go package for traveling Who's On First documents and their relations",
+    "name": "wof-belongs-to",
+    "pkg_id": "wof-belongs-to#github.com_whosonfirst_go_whosonfirst_travel",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-17",
+    "version": "v1.0.3"
+  },
+  {
     "description": "Go package for working with Who's On First GitHub repositories",
     "name": "wof-clone-repos",
     "pkg_id": "wof-clone-repos#github.com_whosonfirst_go_whosonfirst_github",
@@ -445488,6 +445570,19 @@
     ],
     "updated_at": "2025-08-02",
     "version": "v0.9.2"
+  },
+  {
+    "description": "Go package for traveling Who's On First documents and their relations",
+    "name": "wof-travel-id",
+    "pkg_id": "wof-travel-id#github.com_whosonfirst_go_whosonfirst_travel",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-17",
+    "version": "v1.0.3"
   },
   {
     "description": "Go package for working with Who's On First GitHub repositories",
