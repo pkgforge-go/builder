@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "csflow",
+  "pkg_family": "v3",
+  "pkg_id": "csflow#github.com_etcd_io_etcd_v3",
+  "pkg_name": "csflow",
+  "pkg_type": "static",
+  "pkg_webpage": "https://etcd.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+  "homepage": [
+    "https://etcd.io"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cnetflow",
+    "cnflegacy",
+    "csflow",
+    "goflow"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/cloudflare/goflow/v3/@v/v3.0.0-20250219152149-e5a8a4eabd73.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v3.5.22",
+  "version_upstream": "",
+  "bsum": "ed68a8ce0b3116e1edb95e12e39541c1ede3abe680c4dc217a7298ec4a2d2dff",
+  "build_date": "2025-09-17T03:47:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17785885148",
+  "build_id": "17785885148",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/etcd-io/etcd/v3/csflow?tag=v3.5.22-riscv64-Linux&download=csflow.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "49864",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/etcd-io/etcd/v3/csflow?tag=v3.5.22-riscv64-Linux&download=csflow",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/etcd-io/etcd/v3/csflow:v3.5.22-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/etcd-io/etcd/v3/csflow",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/etcd-io/etcd/v3/csflow?tag=v3.5.22-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d54696be045d1541318bceed4d8cea4bfc5efa905c13944db5b105684b6d2157",
+  "size": "12 MB",
+  "size_raw": "12035592",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
