@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "sshrelay",
+  "pkg_family": "sshrelay",
+  "pkg_id": "sshrelay#github.com_prochac_sshrelay",
+  "pkg_name": "sshrelay",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/prochac/sshrelay",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "This is a simple SSH server that accepts just port forwarding requests from any SSH client",
+  "homepage": [
+    "https://github.com/prochac/sshrelay"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sshrelay"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/prochac/sshrelay/@v/v0.0.20.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.20",
+  "version_upstream": "",
+  "bsum": "6d877da0a59cb501df490d90d9b3f409c22f94fbf384eeacfbac8e6f24ed79e5",
+  "build_date": "2025-09-17T04:16:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17785981041",
+  "build_id": "17785981041",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prochac/sshrelay/sshrelay?tag=v0.0.20-loongarch64-Linux&download=sshrelay.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prochac/sshrelay/sshrelay?tag=v0.0.20-loongarch64-Linux&download=sshrelay",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/prochac/sshrelay/sshrelay:v0.0.20-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/prochac/sshrelay/sshrelay",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/prochac/sshrelay/sshrelay?tag=v0.0.20-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6277f6c5622b57e30217337a0194f38aa6a7201d37538875dd33c381aee5ee70",
+  "size": "5.2 MB",
+  "size_raw": "5424064",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
