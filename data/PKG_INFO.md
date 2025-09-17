@@ -3824,6 +3824,7 @@
 - 🐹 **[scapinoculars](https://github.com/jritter/scapinoculars)**: OpenSCAP Report Publisher.
 - 🐹 **[securetcprelay](https://github.com/badafans/securetcprelay)**: 具备Host和SNI以及IP地址过滤的TCP数据转发.
 - 🐹 **[slick](https://github.com/mcandre/slick)**: A CI-ready shell language syntax checker.
+- 🐹 **[src](https://github.com/aerospike/aerolab)**: Quickly spin up Aerospike clusters on docker, AWS and GCP.
 - 🐹 **[strava-heatmap-proxy](https://github.com/patrickziegler/strava-heatmap-proxy)**: Proxy server that provides easy access to the Strava high resolution global heatmap.
 - 🐹 **[suricata_exporter](https://github.com/corelight/suricata_exporter)**: A Prometheus Exporter for Suricata.
 - 🐹 **[tenancy-api-mapping](https://docs.openedgeplatform.intel.com/edge-manage-docs)**: Utilities of Edge Manageability Framework Orchestrator.
