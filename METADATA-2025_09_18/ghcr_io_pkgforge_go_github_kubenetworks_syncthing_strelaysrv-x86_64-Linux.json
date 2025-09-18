@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "strelaysrv",
+  "pkg_family": "syncthing",
+  "pkg_id": "strelaysrv#github.com_kubenetworks_syncthing",
+  "pkg_name": "strelaysrv",
+  "pkg_type": "static",
+  "pkg_webpage": "https://syncthing.net/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open Source Continuous File Synchronization",
+  "homepage": [
+    "https://syncthing.net/"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "stcompdirs",
+    "stcrashreceiver",
+    "stdisco",
+    "stdiscosrv",
+    "stevents",
+    "stfileinfo",
+    "stfinddevice",
+    "stfindignored",
+    "stgenfiles",
+    "strelaypoolsrv",
+    "strelaysrv",
+    "stsigtool",
+    "stupgrades",
+    "stvanity",
+    "stwatchfile",
+    "syncthing",
+    "testutil",
+    "ursrv"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/kubenetworks/syncthing/@v/v1.29.7-rc.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.29.7-rc.3",
+  "version_upstream": "",
+  "bsum": "b237071d58d5bccf8be1af1cc45ae9f52e809f4a56440c3436c6f96db487cc58",
+  "build_date": "2025-09-18T04:11:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17817218153",
+  "build_id": "17817218153",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubenetworks/syncthing/strelaysrv?tag=v1.29.7-rc.3-x86_64-Linux&download=strelaysrv.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubenetworks/syncthing/strelaysrv?tag=v1.29.7-rc.3-x86_64-Linux&download=strelaysrv",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubenetworks/syncthing/strelaysrv:v1.29.7-rc.3-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubenetworks/syncthing/strelaysrv",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubenetworks/syncthing/strelaysrv?tag=v1.29.7-rc.3-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fd9e7baccf541ddf7391eee3b669f59d82874bafed6d0994a6bbca5050591ea4",
+  "size": "13 MB",
+  "size_raw": "13105248",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

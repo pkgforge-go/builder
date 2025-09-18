@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "stdisco",
+  "pkg_family": "syncthing",
+  "pkg_id": "stdisco#github.com_kubenetworks_syncthing",
+  "pkg_name": "stdisco",
+  "pkg_type": "static",
+  "pkg_webpage": "https://syncthing.net/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open Source Continuous File Synchronization",
+  "homepage": [
+    "https://syncthing.net/"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "stcompdirs",
+    "stcrashreceiver",
+    "stdisco",
+    "stdiscosrv",
+    "stevents",
+    "stfileinfo",
+    "stfinddevice",
+    "stfindignored",
+    "stgenfiles",
+    "strelaypoolsrv",
+    "strelaysrv",
+    "stsigtool",
+    "stupgrades",
+    "stvanity",
+    "stwatchfile",
+    "syncthing",
+    "testutil",
+    "ursrv"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/kubenetworks/syncthing/@v/v1.29.7-rc.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.29.7-rc.3",
+  "version_upstream": "",
+  "bsum": "b696156b2c29ebf503afca464028e7e058beeb7cd51ddbb89c23ddaf82be5630",
+  "build_date": "2025-09-18T04:10:56Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17817218153",
+  "build_id": "17817218153",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubenetworks/syncthing/stdisco?tag=v1.29.7-rc.3-x86_64-Linux&download=stdisco.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubenetworks/syncthing/stdisco?tag=v1.29.7-rc.3-x86_64-Linux&download=stdisco",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubenetworks/syncthing/stdisco:v1.29.7-rc.3-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubenetworks/syncthing/stdisco",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubenetworks/syncthing/stdisco?tag=v1.29.7-rc.3-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7ecbb8bf9b86bad7869635d782c58d99545a357c206d88088555048190243ec7",
+  "size": "9.4 MB",
+  "size_raw": "9754272",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

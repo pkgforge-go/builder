@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "testutil",
+  "pkg_family": "syncthing",
+  "pkg_id": "testutil#github.com_kubenetworks_syncthing",
+  "pkg_name": "testutil",
+  "pkg_type": "static",
+  "pkg_webpage": "https://syncthing.net/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open Source Continuous File Synchronization",
+  "homepage": [
+    "https://syncthing.net/"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "stcompdirs",
+    "stcrashreceiver",
+    "stdisco",
+    "stdiscosrv",
+    "stevents",
+    "stfileinfo",
+    "stfinddevice",
+    "stfindignored",
+    "stgenfiles",
+    "strelaypoolsrv",
+    "strelaysrv",
+    "stsigtool",
+    "stupgrades",
+    "stvanity",
+    "stwatchfile",
+    "syncthing",
+    "testutil",
+    "ursrv"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/kubenetworks/syncthing/@v/v1.29.7-rc.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.29.7-rc.3",
+  "version_upstream": "",
+  "bsum": "6b3059e64fceb77db8f2360466474a141df896382bb4c2b03a2ca2a06478dfe4",
+  "build_date": "2025-09-18T04:10:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17817218153",
+  "build_id": "17817218153",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubenetworks/syncthing/testutil?tag=v1.29.7-rc.3-x86_64-Linux&download=testutil.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubenetworks/syncthing/testutil?tag=v1.29.7-rc.3-x86_64-Linux&download=testutil",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubenetworks/syncthing/testutil:v1.29.7-rc.3-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubenetworks/syncthing/testutil",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubenetworks/syncthing/testutil?tag=v1.29.7-rc.3-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c891b808e15bfcfd4f673cf2b3af3b9e55b4b6ef59b1f64c3729fd9d4e2d1c81",
+  "size": "9.6 MB",
+  "size_raw": "10041152",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
