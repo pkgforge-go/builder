@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "server",
+  "pkg_family": "pgmcp",
+  "pkg_id": "server#github.com_subnetmarco_pgmcp",
+  "pkg_name": "server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/subnetmarco/pgmcp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "An MCP server to query any Postgres database in natural language",
+  "homepage": [
+    "https://github.com/subnetmarco/pgmcp"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/subnetmarco/pgmcp/@v/v0.0.0-20250917202337-ddf833bb6713.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250917202337-ddf833bb6713",
+  "version_upstream": "",
+  "bsum": "269f4d8dc40c091f993a6752af27dbc4fd36256f1b566a19b8d6253f33b6ddbb",
+  "build_date": "2025-09-18T04:22:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17817301508",
+  "build_id": "17817301508",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/subnetmarco/pgmcp/server?tag=v0.0.0-20250917202337-ddf833bb6713-loongarch64-Linux&download=server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/subnetmarco/pgmcp/server?tag=v0.0.0-20250917202337-ddf833bb6713-loongarch64-Linux&download=server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/subnetmarco/pgmcp/server:v0.0.0-20250917202337-ddf833bb6713-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/subnetmarco/pgmcp/server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/subnetmarco/pgmcp/server?tag=v0.0.0-20250917202337-ddf833bb6713-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a0778431b3c539ca3666f00429c69732f9fe57b8feae03c9d34aa10bea376b13",
+  "size": "15 MB",
+  "size_raw": "15546144",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
