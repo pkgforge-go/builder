@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "sclient",
+  "pkg_family": "sclient",
+  "pkg_id": "sclient#github.com_therootcompany_sclient",
+  "pkg_name": "sclient",
+  "pkg_type": "static",
+  "pkg_webpage": "https://webinstall.dev/sclient",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Secure Client for exposing TLS (aka SSL) secured services as plain-text connections locally. Also ideal for multiplexing a single port with multiple protocols using SNI",
+  "homepage": [
+    "https://webinstall.dev/sclient"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "sclient"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/therootcompany/sclient/@v/v1.5.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.5.1",
+  "version_upstream": "",
+  "bsum": "c9124b2b4023a28de464862c0e87ac8b0669b9eb5298cc618e2c7e007f174fd7",
+  "build_date": "2025-09-18T04:22:41Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17817304047",
+  "build_id": "17817304047",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/therootcompany/sclient/sclient?tag=v1.5.1-riscv64-Linux&download=sclient.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "16",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/therootcompany/sclient/sclient?tag=v1.5.1-riscv64-Linux&download=sclient",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/therootcompany/sclient/sclient:v1.5.1-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/therootcompany/sclient/sclient",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/therootcompany/sclient/sclient?tag=v1.5.1-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "97267ea12893ae2f6ea26c1e03ffaca6659853860e37745d58c28b990be66175",
+  "size": "4.5 MB",
+  "size_raw": "4656680",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
