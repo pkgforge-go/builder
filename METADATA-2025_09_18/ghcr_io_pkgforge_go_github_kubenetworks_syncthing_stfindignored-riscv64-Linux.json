@@ -1,0 +1,81 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "stfindignored",
+  "pkg_family": "syncthing",
+  "pkg_id": "stfindignored#github.com_kubenetworks_syncthing",
+  "pkg_name": "stfindignored",
+  "pkg_type": "static",
+  "pkg_webpage": "https://syncthing.net/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Open Source Continuous File Synchronization",
+  "homepage": [
+    "https://syncthing.net/"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "stcompdirs",
+    "stcrashreceiver",
+    "stdisco",
+    "stdiscosrv",
+    "stevents",
+    "stfileinfo",
+    "stfinddevice",
+    "stfindignored",
+    "stgenfiles",
+    "strelaypoolsrv",
+    "strelaysrv",
+    "stsigtool",
+    "stupgrades",
+    "stvanity",
+    "stwatchfile",
+    "syncthing",
+    "testutil",
+    "ursrv"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/kubenetworks/syncthing/@v/v1.29.7-rc.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.29.7-rc.3",
+  "version_upstream": "",
+  "bsum": "4d10aaf5d5a38df2342496db71e720039560479c4fd3848151eba03f8ad31a22",
+  "build_date": "2025-09-18T04:11:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17817218153",
+  "build_id": "17817218153",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubenetworks/syncthing/stfindignored?tag=v1.29.7-rc.3-riscv64-Linux&download=stfindignored.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubenetworks/syncthing/stfindignored?tag=v1.29.7-rc.3-riscv64-Linux&download=stfindignored",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubenetworks/syncthing/stfindignored:v1.29.7-rc.3-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubenetworks/syncthing/stfindignored",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubenetworks/syncthing/stfindignored?tag=v1.29.7-rc.3-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "51f84a4f9056cdb6e9b67d1186c68c834cf789d1cb533c37f6174a00d35fdf7f",
+  "size": "8.4 MB",
+  "size_raw": "8729704",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
