@@ -128,6 +128,7 @@
 - 🐹 **[go](https://www.dolthub.com)**: Dolt – Git for Data.
 - 🐹 **[swoole-src](https://www.swoole.com)**: Coroutine-based concurrency library for PHP.
 - 🐹 **[frontend](https://cymbal-shops.retail.cymbal.dev)**: Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
+- 🐹 **[gcc-explorer](https://godbolt.org)**: Run compilers interactively from your web browser and interact with the assembly.
 - 🐹 **[gen_github_action_config](https://golangci-lint.run)**: Fast linters runner for Go.
 - 🐹 **[fx](https://fx.wtf)**: Terminal JSON viewer & processor.
 - 🐹 **[gvisor](https://gvisor.dev)**: Application Kernel for Containers.
@@ -1853,6 +1854,7 @@
 - 🐹 **[openstacksdk](https://opendev.org/openstack/openstacksdk)**: Unified SDK for OpenStack.
 - 🐹 **[dnsrocks](https://github.com/facebook/dns)**: Collection of Meta's DNS Libraries.
 - 🐹 **[dnsrocks](https://github.com/facebookincubator/dns)**: Collection of Meta's DNS Libraries.
+- 🐹 **[go-cdb-mods](https://github.com/facebook/dns)**: Collection of Meta's DNS Libraries.
 - 🐹 **[cshatag](https://github.com/rfjakob/cshatag)**: Detect silent data corruption under Linux using sha256 stored in extended attributes.
 - 🐹 **[esbulk](https://github.com/miku/esbulk)**: Bulk indexing command line tool for elasticsearch.
 - 🐹 **[generic-device-plugin](https://github.com/squat/generic-device-plugin)**: A Kubernetes device plugin to schedule generic Linux devices.
@@ -2317,6 +2319,7 @@
 - 🐹 **[immich-upload-optimizer](https://github.com/miguelangel-nubla/immich-upload-optimizer)**: Automatically optimize files uploaded to Immich in order to save storage space.
 - 🐹 **[operator](https://github.com/confidential-containers/operator)**: Operator to deploy confidential containers runtime.
 - 🐹 **[ansible_puller](https://github.com/teslamotors/ansible_puller)**: Ansible daemon for massively-scaleable Ansible.
+- 🐹 **[dask-gateway-proxy](https://gateway.dask.org/)**: A multi-tenant server for securely deploying and managing Dask clusters.
 - 🐹 **[nakama-project-template](https://github.com/heroiclabs/nakama)**: An example project on how to set up and write custom server code in Nakama server.
 - 🐹 **[ssh-agent-win](https://github.com/masahide/ssh-agent-win)**: Integrated ssh-agent for windows.
 - 🐹 **[gha-find-replace](https://github.com/jacobtomlinson/gha-find-replace)**: A GitHub Action to find and replace strings in project files.
@@ -2479,6 +2482,7 @@
 - 🐹 **[dbos-transact-go](https://dbos.dev/)**: Durable Workflow Orchestration with Golang and Postgres.
 - 🐹 **[dockerfile](https://github.com/asottile-archive/dockerfile)**: Parse a dockerfile into a high-level representation using the official go parser.
 - 🐹 **[function](https://uptrace.dev/get/opentelemetry-go)**: OpenTelemetry Go distribution for Uptrace.
+- 🐹 **[gosleep](https://github.com/tianon/gosleep)**: Sleep(1)", but with Go duration parsing OR explicit time to sleep until and a progress bar.
 - 🐹 **[metrics](https://uptrace.dev/get/opentelemetry-go)**: OpenTelemetry Go distribution for Uptrace.
 - 🐹 **[otel-api](https://uptrace.dev/get/opentelemetry-go)**: OpenTelemetry Go distribution for Uptrace.
 - 🐹 **[otlp-traces-http](https://uptrace.dev/get/opentelemetry-go)**: OpenTelemetry Go distribution for Uptrace.
@@ -2701,6 +2705,7 @@
 - 🐹 **[velero-plugin-for-gcp](https://github.com/vmware-tanzu/velero-plugin-for-gcp)**: Plugins to support Velero on Google Cloud Platform (GCP.
 - 🐹 **[audio-streaming-client-go](https://github.com/baidubce/pie/audio-streaming-client-go)**: 百度云流式语音识别客户端 SDK.
 - 🐹 **[docker-credential-vault-login](https://github.com/morningconsult/docker-credential-vault-login)**: Automatically gets docker credentials from Hashicorp Vault.
+- 🐹 **[eth.store](https://beaconcha.in/ethstore)**: ETH.
 - 🐹 **[example](https://github.com/godaddy/asherah/go/appencryption/cmd/example)**: Asherah is a multi-language, cross-platform application encryption SDK.
 - 🐹 **[guardian](https://github.com/cloudfoundry-incubator/guardian)**: Containers4life.
 - 🐹 **[guardian](https://github.com/cloudfoundry/guardian)**: Containers4life.
@@ -3188,6 +3193,7 @@
 - 🐹 **[datastar-go](https://github.com/starfederation/datastar-go)**: Official Datastar Go SDK.
 - 🐹 **[dna-store](https://github.com/pulumi/pulumi-go-provider)**: A framework for building Go Providers for Pulumi.
 - 🐹 **[foundation](https://github.com/gsmlg-dev/foundation)**: BASE.
+- 🐹 **[fstail](https://github.com/alexellis/fstail)**: Scan a directory for changed files and tail them.
 - 🐹 **[generate-dependency-deprecation-github-issue](https://buildpacks.ci.cf-app.com)**: Concourse CI pipelines for the buildpacks team.
 - 🐹 **[geoip2](https://github.com/gsmlg-dev/foundation)**: BASE.
 - 🐹 **[go-qcow2reader-example](https://pkg.go.dev/github.com/lima-vm/go-qcow2reader)**: Qcow2 reader for Go.
@@ -3347,6 +3353,7 @@
 - 🐹 **[processor](https://wasmcv.org)**: WebAssembly guest interfaces for computer vision using OpenCV.
 - 🐹 **[processor](https://wasmcv.org)**: WebAssembly guest interfaces for computer vision using OpenCV.
 - 🐹 **[processor](https://wasmcv.org)**: WebAssembly guest interfaces for computer vision using OpenCV.
+- 🐹 **[proxyd](https://optimism.io)**: Optimism is Ethereum, scaled.
 - 🐹 **[render-template](https://bitnami.com)**: CLI tool for rendering templates with custom data.
 - 🐹 **[s3cli](https://github.com/pivotal-golang/s3cli)**: Go CLI for S3.
 - 🐹 **[scripts](https://github.com/donearm/scripts)**: A collection of personal scripts and libraries.
@@ -3859,6 +3866,7 @@
 - 🐹 **[mii-lama](https://github.com/zerodha/mii-lama)**: A tool for posting metrics from node-exporter to LAMA (Indian stock market regulatory framework) API gateways.
 - 🐹 **[ndax](https://github.com/kc2g-flex-tools/ndax)**: Flex 6xxx DAX (digital audio transport) connector to PulseAudio.
 - 🐹 **[nola-transit-map](https://github.com/codefornola/nola-transit-map)**: Realtime view of all NOLA public transit vehicles https://nolatransit.
+- 🐹 **[parallel](https://github.com/wandb/parallel)**: Easy & robust parallelism in golang.
 - 🐹 **[pdhcp](https://github.com/pyke369/pdhcp)**: Programmable DHCP client/server/relay.
 - 🐹 **[phoenix](https://www.r6security.com)**: Phoenix AMTD Operator for Kubernetes.
 - 🐹 **[pprof-example-app-go](https://github.com/polarsignals/pprof-example-app-go)**: Go app that exposes pprof profiling endpoints via HTTP.
