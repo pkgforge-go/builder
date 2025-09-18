@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "dask-gateway-proxy",
+  "pkg_family": "dask-gateway-proxy",
+  "pkg_id": "dask-gateway-proxy#github.com_dask_dask_gateway_dask_gateway_server_dask_gateway_proxy",
+  "pkg_name": "dask-gateway-proxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://gateway.dask.org/",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A multi-tenant server for securely deploying and managing Dask clusters",
+  "homepage": [
+    "https://gateway.dask.org/"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dask-gateway-proxy"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/dask/dask-gateway/dask-gateway-server/dask-gateway-proxy/@v/v0.0.0-20250410144949-6f2ad287d7a6.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250410144949-6f2ad287d7a6",
+  "version_upstream": "",
+  "bsum": "fc014aba90cbc52601ae75b1cc4232f43d609a7bd2ff78533520eaffe9641e5c",
+  "build_date": "2025-09-18T03:48:06Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17817213236",
+  "build_id": "17817213236",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dask/dask-gateway/dask-gateway-server/dask-gateway-proxy/dask-gateway-proxy?tag=v0.0.0-20250410144949-6f2ad287d7a6-x86_64-Linux&download=dask-gateway-proxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "142",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dask/dask-gateway/dask-gateway-server/dask-gateway-proxy/dask-gateway-proxy?tag=v0.0.0-20250410144949-6f2ad287d7a6-x86_64-Linux&download=dask-gateway-proxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dask/dask-gateway/dask-gateway-server/dask-gateway-proxy/dask-gateway-proxy:v0.0.0-20250410144949-6f2ad287d7a6-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dask/dask-gateway/dask-gateway-server/dask-gateway-proxy/dask-gateway-proxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dask/dask-gateway/dask-gateway-server/dask-gateway-proxy/dask-gateway-proxy?tag=v0.0.0-20250410144949-6f2ad287d7a6-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7d397eb610d6cff8640a14aa7ebf27022bbbd59bb5e17d7495361904dd57ef23",
+  "size": "7.3 MB",
+  "size_raw": "7594560",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
