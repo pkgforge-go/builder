@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "create-aircraft",
+  "pkg_family": "go-sfomuseum-airfield",
+  "pkg_id": "create-aircraft#github.com_sfomuseum_go_sfomuseum_airfield",
+  "pkg_name": "create-aircraft",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sfomuseum/go-sfomuseum-airfield",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go package for working with airfield-related activities at SFO Museum (airlines, aircraft, airports, flights",
+  "homepage": [
+    "https://github.com/sfomuseum/go-sfomuseum-airfield"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "compile-flysfo-airlines-data",
+    "compile-sfomuseum-aircraft-data",
+    "compile-sfomuseum-airlines-data",
+    "compile-sfomuseum-airports-data",
+    "create-aircraft",
+    "create-airline",
+    "lookup",
+    "tailnumbers"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sfomuseum/go-sfomuseum-airfield/@v/v0.6.14.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.6.14",
+  "version_upstream": "",
+  "bsum": "d99ea847f5b4458dd5faa6f07fb6f512496c70beb505d0641a2e6fe4012783bf",
+  "build_date": "2025-09-18T04:20:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17817293735",
+  "build_id": "17817293735",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sfomuseum/go-sfomuseum-airfield/create-aircraft?tag=v0.6.14-riscv64-Linux&download=create-aircraft.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sfomuseum/go-sfomuseum-airfield/create-aircraft?tag=v0.6.14-riscv64-Linux&download=create-aircraft",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sfomuseum/go-sfomuseum-airfield/create-aircraft:v0.6.14-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sfomuseum/go-sfomuseum-airfield/create-aircraft",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sfomuseum/go-sfomuseum-airfield/create-aircraft?tag=v0.6.14-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "184d166f23da4e1c4614ab2ddae781bc103b12f0a793dabb0ba97d99f0a6f31b",
+  "size": "8.0 MB",
+  "size_raw": "8306920",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
