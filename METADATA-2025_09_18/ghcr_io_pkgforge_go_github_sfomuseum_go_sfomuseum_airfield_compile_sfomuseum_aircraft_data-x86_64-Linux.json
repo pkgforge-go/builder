@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "compile-sfomuseum-aircraft-data",
+  "pkg_family": "go-sfomuseum-airfield",
+  "pkg_id": "compile-sfomuseum-aircraft-data#github.com_sfomuseum_go_sfomuseum_airfield",
+  "pkg_name": "compile-sfomuseum-aircraft-data",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sfomuseum/go-sfomuseum-airfield",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go package for working with airfield-related activities at SFO Museum (airlines, aircraft, airports, flights",
+  "homepage": [
+    "https://github.com/sfomuseum/go-sfomuseum-airfield"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "compile-flysfo-airlines-data",
+    "compile-sfomuseum-aircraft-data",
+    "compile-sfomuseum-airlines-data",
+    "compile-sfomuseum-airports-data",
+    "create-aircraft",
+    "create-airline",
+    "lookup",
+    "tailnumbers"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sfomuseum/go-sfomuseum-airfield/@v/v0.6.14.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.6.14",
+  "version_upstream": "",
+  "bsum": "d1bbe0ffd57ff7d0e381d7bd7ea2141df7290f451dae9ad040884e0732e77d35",
+  "build_date": "2025-09-18T04:19:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17817293735",
+  "build_id": "17817293735",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sfomuseum/go-sfomuseum-airfield/compile-sfomuseum-aircraft-data?tag=v0.6.14-x86_64-Linux&download=compile-sfomuseum-aircraft-data.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sfomuseum/go-sfomuseum-airfield/compile-sfomuseum-aircraft-data?tag=v0.6.14-x86_64-Linux&download=compile-sfomuseum-aircraft-data",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sfomuseum/go-sfomuseum-airfield/compile-sfomuseum-aircraft-data:v0.6.14-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sfomuseum/go-sfomuseum-airfield/compile-sfomuseum-aircraft-data",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sfomuseum/go-sfomuseum-airfield/compile-sfomuseum-aircraft-data?tag=v0.6.14-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b97088292b02891b5d7dbf58976b39af22d8254561d39dbdf7987fb40f992378",
+  "size": "13 MB",
+  "size_raw": "13167584",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
