@@ -3203,6 +3203,7 @@
 - 🐹 **[labeler-action](https://github.com/marketplace/actions/auto-labeler)**: GitHub Action allowing for applying labels to issues and pull requests based on patterns found in the title or description.
 - 🐹 **[nbdkit](https://gitlab.com/nbdkit/nbdkit)**: NBD server with stable plugin ABI and permissive license.
 - 🐹 **[ojosama-api](https://ojosama.jiro4989.com)**: テキストを壱百満天原サロメお嬢様風の口調に変換するWebアプリ.
+- 🐹 **[opa-control-plane](https://github.com/styrainc/opa-control-plane)**: OPA Control Plane (OCP) simplifies how you manage policies for your OPA deployments.
 - 🐹 **[signal-portable](https://portapps.io/app/signal-portable/)**: Signal portable for Windows.
 - 🐹 **[str](https://github.com/iwahbe/pulumi-go-provider)**: A framework for building Go Providers for Pulumi.
 - 🐹 **[str](https://github.com/pulumi/pulumi-go-provider)**: A framework for building Go Providers for Pulumi.
