@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "lookup",
+  "pkg_family": "go-sfomuseum-curatorial",
+  "pkg_id": "lookup#github.com_sfomuseum_go_sfomuseum_curatorial",
+  "pkg_name": "lookup",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sfomuseum/go-sfomuseum-curatorial",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go package for working with curatorial activities (exhibitions, public art, collection) in a SFO Museum context",
+  "homepage": [
+    "https://github.com/sfomuseum/go-sfomuseum-curatorial"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "assign-exhibition-gallery",
+    "compile-collection-data",
+    "compile-exhibitions-data",
+    "compile-publicart-data",
+    "lookup",
+    "supersede-exhibition"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sfomuseum/go-sfomuseum-curatorial/@v/v0.3.6.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.3.6",
+  "version_upstream": "",
+  "bsum": "8ff18d7384d7c504de901fb9eedb0a09c8f323b1e20b204b1f9375d37bb62a1f",
+  "build_date": "2025-09-19T04:18:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17847880240",
+  "build_id": "17847880240",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sfomuseum/go-sfomuseum-curatorial/lookup?tag=v0.3.6-x86_64-Linux&download=lookup.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sfomuseum/go-sfomuseum-curatorial/lookup?tag=v0.3.6-x86_64-Linux&download=lookup",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sfomuseum/go-sfomuseum-curatorial/lookup:v0.3.6-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sfomuseum/go-sfomuseum-curatorial/lookup",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sfomuseum/go-sfomuseum-curatorial/lookup?tag=v0.3.6-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b6df5ddacffeb6675aaf91d82c704ecf56128f535e8de42f8dd4af3d58822757",
+  "size": "18 MB",
+  "size_raw": "18736672",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
