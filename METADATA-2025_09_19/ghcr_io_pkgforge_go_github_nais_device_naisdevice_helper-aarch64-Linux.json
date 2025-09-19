@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "naisdevice-helper",
+  "pkg_family": "device",
+  "pkg_id": "naisdevice-helper#github.com_nais_device",
+  "pkg_name": "naisdevice-helper",
+  "pkg_type": "static",
+  "pkg_webpage": "https://doc.nais.io/device/install",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Naisdevice is a application suite that enables NAV developers to connect to internal resources in a secure and friendly manner",
+  "homepage": [
+    "https://doc.nais.io/device/install"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth-server",
+    "controlplane-cli",
+    "enroller",
+    "gateway-agent",
+    "naisdevice-helper",
+    "naisdevice-systray",
+    "prometheus-agent",
+    "scripts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/nais/device/@v/v1.0.12.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.12",
+  "version_upstream": "",
+  "bsum": "535b8b9f974d8775611c95dcf3cac56c3e64164354e7401474e561ccda780806",
+  "build_date": "2025-09-19T15:51:39Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17862922488",
+  "build_id": "17862922488",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/device/naisdevice-helper?tag=v1.0.12-aarch64-Linux&download=naisdevice-helper.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/device/naisdevice-helper?tag=v1.0.12-aarch64-Linux&download=naisdevice-helper",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nais/device/naisdevice-helper:v1.0.12-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nais/device/naisdevice-helper",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/device/naisdevice-helper?tag=v1.0.12-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "216d154a37cb9298ecf35c23f94674ca6194c28b6c1ef171149903c92f849546",
+  "size": "16 MB",
+  "size_raw": "15753696",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "auth-server",
+  "pkg_family": "device",
+  "pkg_id": "auth-server#github.com_nais_device",
+  "pkg_name": "auth-server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://doc.nais.io/device/install",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Naisdevice is a application suite that enables NAV developers to connect to internal resources in a secure and friendly manner",
+  "homepage": [
+    "https://doc.nais.io/device/install"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth-server",
+    "controlplane-cli",
+    "enroller",
+    "gateway-agent",
+    "naisdevice-helper",
+    "naisdevice-systray",
+    "prometheus-agent",
+    "scripts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/nais/device/@v/v1.0.12.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.12",
+  "version_upstream": "",
+  "bsum": "1dd4b4f339bc61bb3595af1f21c209c1ec50db5fe6d1bc4a9c44b37c6c47e3df",
+  "build_date": "2025-09-19T15:51:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17862922488",
+  "build_id": "17862922488",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/device/auth-server?tag=v1.0.12-aarch64-Linux&download=auth-server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/device/auth-server?tag=v1.0.12-aarch64-Linux&download=auth-server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nais/device/auth-server:v1.0.12-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nais/device/auth-server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/device/auth-server?tag=v1.0.12-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a527352db352eb08eb47fb14643fa276f3b0122e40cfdcb5bbaa33ce560d4341",
+  "size": "6.7 MB",
+  "size_raw": "6999232",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

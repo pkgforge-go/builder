@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "controlplane-cli",
+  "pkg_family": "device",
+  "pkg_id": "controlplane-cli#github.com_nais_device",
+  "pkg_name": "controlplane-cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://doc.nais.io/device/install",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Naisdevice is a application suite that enables NAV developers to connect to internal resources in a secure and friendly manner",
+  "homepage": [
+    "https://doc.nais.io/device/install"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth-server",
+    "controlplane-cli",
+    "enroller",
+    "gateway-agent",
+    "naisdevice-helper",
+    "naisdevice-systray",
+    "prometheus-agent",
+    "scripts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/nais/device/@v/v1.0.12.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.12",
+  "version_upstream": "",
+  "bsum": "ba942f26a1921dd4feebcf581f6cd74d8513ae16042bd6ebfb47ff1327643fe7",
+  "build_date": "2025-09-19T15:51:00Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17862922488",
+  "build_id": "17862922488",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/device/controlplane-cli?tag=v1.0.12-aarch64-Linux&download=controlplane-cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/device/controlplane-cli?tag=v1.0.12-aarch64-Linux&download=controlplane-cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nais/device/controlplane-cli:v1.0.12-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nais/device/controlplane-cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/device/controlplane-cli?tag=v1.0.12-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "93e79e61675695787e79ffa7f0fd2200866d3a0baac6c5ff447777045634eff6",
+  "size": "12 MB",
+  "size_raw": "11976736",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
