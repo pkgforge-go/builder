@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "lookup",
+  "pkg_family": "go-sfomuseum-curatorial",
+  "pkg_id": "lookup#github.com_sfomuseum_go_sfomuseum_curatorial",
+  "pkg_name": "lookup",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/sfomuseum/go-sfomuseum-curatorial",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go package for working with curatorial activities (exhibitions, public art, collection) in a SFO Museum context",
+  "homepage": [
+    "https://github.com/sfomuseum/go-sfomuseum-curatorial"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "assign-exhibition-gallery",
+    "compile-collection-data",
+    "compile-exhibitions-data",
+    "compile-publicart-data",
+    "lookup",
+    "supersede-exhibition"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sfomuseum/go-sfomuseum-curatorial/@v/v0.3.6.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.3.6",
+  "version_upstream": "",
+  "bsum": "59f5e1cdfddd54a172b872ece8e19a7231fcb6e6f700496519cdf6e87a1e67d4",
+  "build_date": "2025-09-19T04:18:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17847880240",
+  "build_id": "17847880240",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sfomuseum/go-sfomuseum-curatorial/lookup?tag=v0.3.6-loongarch64-Linux&download=lookup.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sfomuseum/go-sfomuseum-curatorial/lookup?tag=v0.3.6-loongarch64-Linux&download=lookup",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/sfomuseum/go-sfomuseum-curatorial/lookup:v0.3.6-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/sfomuseum/go-sfomuseum-curatorial/lookup",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/sfomuseum/go-sfomuseum-curatorial/lookup?tag=v0.3.6-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8e72890f8c730325d70997cc10c9c184ed666da32c41d3fba1253e5b6fda8550",
+  "size": "18 MB",
+  "size_raw": "18434400",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
