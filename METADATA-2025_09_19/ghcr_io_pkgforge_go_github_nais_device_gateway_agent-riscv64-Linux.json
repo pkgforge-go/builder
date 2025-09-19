@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "gateway-agent",
+  "pkg_family": "device",
+  "pkg_id": "gateway-agent#github.com_nais_device",
+  "pkg_name": "gateway-agent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://doc.nais.io/device/install",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Naisdevice is a application suite that enables NAV developers to connect to internal resources in a secure and friendly manner",
+  "homepage": [
+    "https://doc.nais.io/device/install"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth-server",
+    "controlplane-cli",
+    "enroller",
+    "gateway-agent",
+    "naisdevice-helper",
+    "naisdevice-systray",
+    "prometheus-agent",
+    "scripts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/nais/device/@v/v1.0.12.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.12",
+  "version_upstream": "",
+  "bsum": "5157e3ef7d765a84ee8d795d5d6c1a7dd5add91de63ce9523fdbb553e4934288",
+  "build_date": "2025-09-19T15:53:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17862922488",
+  "build_id": "17862922488",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/device/gateway-agent?tag=v1.0.12-riscv64-Linux&download=gateway-agent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/device/gateway-agent?tag=v1.0.12-riscv64-Linux&download=gateway-agent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nais/device/gateway-agent:v1.0.12-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nais/device/gateway-agent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/device/gateway-agent?tag=v1.0.12-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4e9afebc9ba710880e83f8a88508ee7c714957688bdc487996624b387d5cd264",
+  "size": "20 MB",
+  "size_raw": "20471240",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
