@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "login-kerb",
+  "pkg_family": "vault-plugin-auth-kerberos",
+  "pkg_id": "login-kerb#github.com_hashicorp_vault_plugin_auth_kerberos",
+  "pkg_name": "login-kerb",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/hashicorp/vault-plugin-auth-kerberos",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A plugin for HashiCorp Vault enabling Kerberos authentication",
+  "homepage": [
+    "https://github.com/hashicorp/vault-plugin-auth-kerberos"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "login-kerb",
+    "vault-plugin-auth-kerberos"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/hashicorp/vault-plugin-auth-kerberos/@v/v0.11.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.11.1",
+  "version_upstream": "",
+  "bsum": "18d00501d95a86b038c4beae95282182d32d25facd5f5e60d3d6100fd3744c8c",
+  "build_date": "2025-09-19T04:04:42Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17847833150",
+  "build_id": "17847833150",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/vault-plugin-auth-kerberos/login-kerb?tag=v0.11.1-aarch64-Linux&download=login-kerb.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/vault-plugin-auth-kerberos/login-kerb?tag=v0.11.1-aarch64-Linux&download=login-kerb",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/hashicorp/vault-plugin-auth-kerberos/login-kerb:v0.11.1-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/hashicorp/vault-plugin-auth-kerberos/login-kerb",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/hashicorp/vault-plugin-auth-kerberos/login-kerb?tag=v0.11.1-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4bdbe79a9b901f03064c9f0ef5ab6bff3bf2d6fa1944b825d8602dcc0f4965d4",
+  "size": "15 MB",
+  "size_raw": "14906624",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
