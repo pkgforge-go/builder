@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "global-var",
+  "pkg_family": "closecheck",
+  "pkg_id": "global-var#github.com_dcu_closecheck",
+  "pkg_name": "global-var",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dcu/closecheck",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Static code analyzer for Go which checks whether a return value that implements io.Closer is correctly closed",
+  "homepage": [
+    "https://github.com/dcu/closecheck"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "closecheck",
+    "global-var",
+    "http-response-assigned",
+    "http-response-external-closer",
+    "http-response-ignored",
+    "http-response-nopcloser",
+    "http-response-not-assigned",
+    "http-response-on-defer-statement",
+    "http-response-on-go-statement",
+    "http-response-return",
+    "multi-assign",
+    "struct-field"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/dcu/closecheck/@v/v0.0.0-20250918161350-cfe3fda994dc.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250918161350-cfe3fda994dc",
+  "version_upstream": "",
+  "bsum": "d1119bc7e9388d4f29062a9f3635caa7fe44d6d03fc42043f1ee9aed400f2263",
+  "build_date": "2025-09-19T03:51:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17847831092",
+  "build_id": "17847831092",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dcu/closecheck/global-var?tag=v0.0.0-20250918161350-cfe3fda994dc-riscv64-Linux&download=global-var.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dcu/closecheck/global-var?tag=v0.0.0-20250918161350-cfe3fda994dc-riscv64-Linux&download=global-var",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dcu/closecheck/global-var:v0.0.0-20250918161350-cfe3fda994dc-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dcu/closecheck/global-var",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dcu/closecheck/global-var?tag=v0.0.0-20250918161350-cfe3fda994dc-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8a7852b2433dfcf7ae126ba5e72e4941211da2e1db34d7416805ebdd0731226e",
+  "size": "1.4 MB",
+  "size_raw": "1412096",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

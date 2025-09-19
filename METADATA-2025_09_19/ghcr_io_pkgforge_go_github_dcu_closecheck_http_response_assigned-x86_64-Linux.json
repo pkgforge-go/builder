@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "http-response-assigned",
+  "pkg_family": "closecheck",
+  "pkg_id": "http-response-assigned#github.com_dcu_closecheck",
+  "pkg_name": "http-response-assigned",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dcu/closecheck",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Static code analyzer for Go which checks whether a return value that implements io.Closer is correctly closed",
+  "homepage": [
+    "https://github.com/dcu/closecheck"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "closecheck",
+    "global-var",
+    "http-response-assigned",
+    "http-response-external-closer",
+    "http-response-ignored",
+    "http-response-nopcloser",
+    "http-response-not-assigned",
+    "http-response-on-defer-statement",
+    "http-response-on-go-statement",
+    "http-response-return",
+    "multi-assign",
+    "struct-field"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/dcu/closecheck/@v/v0.0.0-20250918161350-cfe3fda994dc.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250918161350-cfe3fda994dc",
+  "version_upstream": "",
+  "bsum": "61cab9797ada0463a2ee33944bba59bd3cc4abd27c1d785fbba3a5ecdb137594",
+  "build_date": "2025-09-19T03:50:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17847831092",
+  "build_id": "17847831092",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dcu/closecheck/http-response-assigned?tag=v0.0.0-20250918161350-cfe3fda994dc-x86_64-Linux&download=http-response-assigned.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dcu/closecheck/http-response-assigned?tag=v0.0.0-20250918161350-cfe3fda994dc-x86_64-Linux&download=http-response-assigned",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dcu/closecheck/http-response-assigned:v0.0.0-20250918161350-cfe3fda994dc-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dcu/closecheck/http-response-assigned",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dcu/closecheck/http-response-assigned?tag=v0.0.0-20250918161350-cfe3fda994dc-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f43a4a0aaf700cbf5f985d188d866bf785943a4cc00a56c9e3e4dfd13a8aba23",
+  "size": "6.0 MB",
+  "size_raw": "6239488",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}

@@ -1,0 +1,75 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "http-response-on-defer-statement",
+  "pkg_family": "closecheck",
+  "pkg_id": "http-response-on-defer-statement#github.com_dcu_closecheck",
+  "pkg_name": "http-response-on-defer-statement",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dcu/closecheck",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Static code analyzer for Go which checks whether a return value that implements io.Closer is correctly closed",
+  "homepage": [
+    "https://github.com/dcu/closecheck"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "closecheck",
+    "global-var",
+    "http-response-assigned",
+    "http-response-external-closer",
+    "http-response-ignored",
+    "http-response-nopcloser",
+    "http-response-not-assigned",
+    "http-response-on-defer-statement",
+    "http-response-on-go-statement",
+    "http-response-return",
+    "multi-assign",
+    "struct-field"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/dcu/closecheck/@v/v0.0.0-20250918161350-cfe3fda994dc.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250918161350-cfe3fda994dc",
+  "version_upstream": "",
+  "bsum": "f05eb132b213364fd9478a31ddc813b1099c66bc0a5e36a37a096762a4609046",
+  "build_date": "2025-09-19T03:50:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17847831092",
+  "build_id": "17847831092",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dcu/closecheck/http-response-on-defer-statement?tag=v0.0.0-20250918161350-cfe3fda994dc-x86_64-Linux&download=http-response-on-defer-statement.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dcu/closecheck/http-response-on-defer-statement?tag=v0.0.0-20250918161350-cfe3fda994dc-x86_64-Linux&download=http-response-on-defer-statement",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dcu/closecheck/http-response-on-defer-statement:v0.0.0-20250918161350-cfe3fda994dc-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dcu/closecheck/http-response-on-defer-statement",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dcu/closecheck/http-response-on-defer-statement?tag=v0.0.0-20250918161350-cfe3fda994dc-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6667a0c990b31d59104aedad4885dfd1a7d93edba22ceeb1116fdf4ea52bd7be",
+  "size": "6.0 MB",
+  "size_raw": "6237568",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
