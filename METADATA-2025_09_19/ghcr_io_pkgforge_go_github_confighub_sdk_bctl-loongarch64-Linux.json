@@ -1,0 +1,68 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "bctl",
+  "pkg_family": "sdk",
+  "pkg_id": "bctl#github.com_confighub_sdk",
+  "pkg_name": "bctl",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/confighub/sdk",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "ConfigHub SDK for building custom API clients, workers and other tools",
+  "homepage": [
+    "https://github.com/confighub/sdk"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bctl",
+    "cub",
+    "cub-worker",
+    "fctl",
+    "functionsrv"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/confighub/sdk/@v/v0.0.0-20250918210918-b12b88b8ae8f.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250918210918-b12b88b8ae8f",
+  "version_upstream": "",
+  "bsum": "90d8a61570c4b0a11dcc0d8d663a81fbfced631d0412e76e5c3503d979786bb6",
+  "build_date": "2025-09-19T15:46:03Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17862919448",
+  "build_id": "17862919448",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/confighub/sdk/bctl?tag=v0.0.0-20250918210918-b12b88b8ae8f-loongarch64-Linux&download=bctl.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/confighub/sdk/bctl?tag=v0.0.0-20250918210918-b12b88b8ae8f-loongarch64-Linux&download=bctl",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/confighub/sdk/bctl:v0.0.0-20250918210918-b12b88b8ae8f-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/confighub/sdk/bctl",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/confighub/sdk/bctl?tag=v0.0.0-20250918210918-b12b88b8ae8f-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "12bd9f5e394fb256414ca56e8b904a84db3edf8b4d332d792cf4903e2363f422",
+  "size": "12 MB",
+  "size_raw": "11607040",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
