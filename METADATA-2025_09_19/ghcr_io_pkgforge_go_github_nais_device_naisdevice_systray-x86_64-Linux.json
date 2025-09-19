@@ -1,0 +1,71 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "naisdevice-systray",
+  "pkg_family": "device",
+  "pkg_id": "naisdevice-systray#github.com_nais_device",
+  "pkg_name": "naisdevice-systray",
+  "pkg_type": "static",
+  "pkg_webpage": "https://doc.nais.io/device/install",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Naisdevice is a application suite that enables NAV developers to connect to internal resources in a secure and friendly manner",
+  "homepage": [
+    "https://doc.nais.io/device/install"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auth-server",
+    "controlplane-cli",
+    "enroller",
+    "gateway-agent",
+    "naisdevice-helper",
+    "naisdevice-systray",
+    "prometheus-agent",
+    "scripts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/nais/device/@v/v1.0.12.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.12",
+  "version_upstream": "",
+  "bsum": "652387e232d331ec69a4e29fd575e97eac0b089c90da989f37417edb5f81b5d7",
+  "build_date": "2025-09-19T15:53:15Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17862922488",
+  "build_id": "17862922488",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/device/naisdevice-systray?tag=v1.0.12-x86_64-Linux&download=naisdevice-systray.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "18",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/device/naisdevice-systray?tag=v1.0.12-x86_64-Linux&download=naisdevice-systray",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nais/device/naisdevice-systray:v1.0.12-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nais/device/naisdevice-systray",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/device/naisdevice-systray?tag=v1.0.12-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "310d2050d4228bf62b1ace02965f9ec381d6a41e52f719d9299a30e6002a21a0",
+  "size": "17 MB",
+  "size_raw": "17708160",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
