@@ -249114,7 +249114,10 @@
     "name": "kubectl-mounts",
     "pkg_id": "kubectl-mounts#github.com_yeqianmen_kubectl_mounts",
     "targets": [
-      "aarch64-Linux"
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
     ],
     "updated_at": "2025-09-19",
     "version": "v0.1.3"
@@ -332276,6 +332279,19 @@
     "version": "HEAD-dc709c0-250627T173055"
   },
   {
+    "description": "Given a Go source code file, find all known pure functions",
+    "name": "pure",
+    "pkg_id": "pure#github.com_xyproto_purefunction",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-19",
+    "version": "v1.0.4"
+  },
+  {
     "description": "Golang implementation of the Named Data Networking protocol stack",
     "name": "pure-sync",
     "pkg_id": "pure-sync#github.com_named_data_ndnd",
@@ -332287,6 +332303,19 @@
     ],
     "updated_at": "2025-06-29",
     "version": "HEAD-420daff-250628T112116"
+  },
+  {
+    "description": "Given a Go source code file, find all known pure functions",
+    "name": "pure2",
+    "pkg_id": "pure2#github.com_xyproto_purefunction",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-19",
+    "version": "v1.0.4"
   },
   {
     "description": "Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.",
