@@ -409,6 +409,8 @@
 - 🐹 **[vertex-embedding-example](https://tmc.github.io/langchaingo/)**: LangChain for Go, the easiest way to write LLM-based programs in Go.
 - 🐹 **[watsonx-llm-example](https://tmc.github.io/langchaingo/)**: LangChain for Go, the easiest way to write LLM-based programs in Go.
 - 🐹 **[zapier-llm-example](https://tmc.github.io/langchaingo/)**: LangChain for Go, the easiest way to write LLM-based programs in Go.
+- 🐹 **[evmread](https://chain.link)**: Node of the decentralized oracle network, bridging on and off-chain computation.
+- 🐹 **[evmread-negative](https://chain.link)**: Node of the decentralized oracle network, bridging on and off-chain computation.
 - 🐹 **[cron](https://chain.link)**: Node of the decentralized oracle network, bridging on and off-chain computation.
 - 🐹 **[cron-based](https://chain.link)**: Node of the decentralized oracle network, bridging on and off-chain computation.
 - 🐹 **[evmread](https://chain.link)**: Node of the decentralized oracle network, bridging on and off-chain computation.
@@ -488,6 +490,8 @@
 - 🐹 **[transformer](https://higress.ai)**: AI Gateway | AI Native API Gateway.
 - 🐹 **[domain-list-community](https://www.v2fly.org)**: Community managed domain list.
 - 🐹 **[http-call](https://higress.ai)**: AI Gateway | AI Native API Gateway.
+- 🐹 **[check-issue](https://go-rod.github.io)**: A Chrome DevTools Protocol driver for web automation and scraping.
+- 🐹 **[custom-websocket](https://go-rod.github.io)**: A Chrome DevTools Protocol driver for web automation and scraping.
 - 🐹 **[athena](https://cloudquery.io)**: The open source ELT framework powered by Apache Arrow.
 - 🐹 **[v6](https://cloudquery.io)**: The open source ELT framework powered by Apache Arrow.
 - 🐹 **[v2](https://cloudquery.io)**: The open source ELT framework powered by Apache Arrow.
@@ -1480,6 +1484,7 @@
 - 🐹 **[embed](https://github.com/goplus/llgo)**: A Go compiler based on LLVM in order to better integrate Go with the C ecosystem including Python and JavaScript.
 - 🐹 **[go](https://github.com/goplus/llgo)**: A Go compiler based on LLVM in order to better integrate Go with the C ecosystem including Python and JavaScript.
 - 🐹 **[py](https://github.com/goplus/llgo)**: A Go compiler based on LLVM in order to better integrate Go with the C ecosystem including Python and JavaScript.
+- 🐹 **[seed](https://github.com/golang-templates/seed)**: Go application GitHub repository template.
 - 🐹 **[_demo](https://github.com/goplus/llgo)**: A Go compiler based on LLVM in order to better integrate Go with the C ecosystem including Python and JavaScript.
 - 🐹 **[_pydemo](https://github.com/goplus/llgo)**: A Go compiler based on LLVM in order to better integrate Go with the C ecosystem including Python and JavaScript.
 - 🐹 **[armada](https://armadaproject.io)**: A multi-cluster batch queuing system for high-throughput workloads on Kubernetes.
@@ -1731,6 +1736,7 @@
 - 🐹 **[stylemanager-demo](https://github.com/chasefleming/elem-go)**: Type-safe Go library for creating and manipulating HTML elements (with htmx helpers.
 - 🐹 **[gowebdav](https://github.com/studio-b12/gowebdav)**: A golang WebDAV client library and command line tool.
 - 🐹 **[howsmyssl](https://github.com/jmhodges/howsmyssl)**: The web app running howsmyssl.
+- 🐹 **[v3](https://github.com/twpayne/go-jsonstruct)**: Generate Go structs from multiple JSON or YAML objects.
 - 🐹 **[nami](https://www.txthinking.com)**: A clean and tidy decentralized package manager.
 - 🐹 **[influxdata-docker](https://github.com/influxdata/influxdata-docker)**: Official docker images for the influxdata stack.
 - 🐹 **[testsrv](https://github.com/open-policy-agent/opa-envoy-plugin)**: A plugin to enforce OPA policies with Envoy.
@@ -1879,6 +1885,7 @@
 - 🐹 **[go-learning](https://github.com/caoyingjunz/go-learning)**: A learning and practise map for OpenStack, kubernetes, golang and the others.
 - 🐹 **[terraform-provider-routeros](https://github.com/terraform-routeros/terraform-provider-routeros)**: Terraform Provider for Mikrotik RouterOS.
 - 🐹 **[clickhouse_fdw](https://github.com/adjust/clickhouse_fdw)**: ClickHouse FDW for PostgreSQL.
+- 🐹 **[crocgui](https://github.com/howeyc/crocgui)**: GUI for croc.
 - 🐹 **[rules_proto_grpc](https://rules-proto-grpc.com)**: Bazel rules for building Protobuf and gRPC code and libraries from proto_library targets.
 - 🐹 **[imgcat](https://github.com/danielgatis/imgcat)**: Display images and gifs in your terminal.
 - 🐹 **[hive](https://github.com/openshift/hive)**: API driven OpenShift cluster provisioning and management.
@@ -2187,6 +2194,7 @@
 - 🐹 **[tests](https://axone.xyz)**: Axone blockchain.
 - 🐹 **[cmd](https://github.com/ipld/go-car)**: A content addressible archive utility.
 - 🐹 **[grapes](https://github.com/yaronsumel/grapes)**: easy way to distribute commands over ssh.
+- 🐹 **[integration](https://netapp.github.io/harvest/latest)**: Open-metrics endpoint for ONTAP and StorageGRID.
 - 🐹 **[pear](https://docs.pears.com/)**: Combined Peer-to-Peer (P2P) Runtime, Development & Deployment tool.
 - 🐹 **[postman-portable](https://portapps.io/app/postman-portable/)**: Postman portable for Windows.
 - 🐹 **[tokens](https://twir.app)**: Twitch chat bot written in Golang and TypeScript.
@@ -2447,6 +2455,7 @@
 - 🐹 **[dnsprobe](https://dnscrypt.info)**: Dnscrypt-proxy multiarch docker image.
 - 🐹 **[pktstat-bpf](https://github.com/dkorunic/pktstat-bpf)**: TC, XDP, KProbe and CGroup eBPF based simple Ethernet interface traffic monitor and reporting tool.
 - 🐹 **[tcping](https://github.com/nodeseeker/tcping)**: 一款基于Golang的TCP Ping工具，支持IPv4、IPv6和域名，以及自定义端口、次数和间隔时间.
+- 🐹 **[iran-bomber](https://github.com/m-logique/iran-bomber)**: An extremely fast, cross-platform SMS Bomber written in Go.
 - 🐹 **[mynewt-mcumgr](https://mynewt.apache.org/)**: Apache mynewt.
 - 🐹 **[concreate](https://cekit.io/)**: CEKit - Container Evolution Kit.
 - 🐹 **[concreate](https://cekit.io/)**: CEKit - Container Evolution Kit.
@@ -2479,6 +2488,7 @@
 - 🐹 **[mkcert](https://github.com/lukasa/mkcert)**: Customised trust stores for you and your family.
 - 🐹 **[packer-post-processor-amazon-ami-management](https://github.com/wata727/packer-post-processor-amazon-ami-management)**: Packer post-processor plugin for Amazon AMI management.
 - 🐹 **[basic](https://uptrace.dev/get/opentelemetry-go)**: OpenTelemetry Go distribution for Uptrace.
+- 🐹 **[d2-playground](https://play.d2lang.com)**: An online runner to play, learn, and create with D2, the modern diagram scripting language that turns text to diagrams.
 - 🐹 **[dbos-transact-go](https://dbos.dev/)**: Durable Workflow Orchestration with Golang and Postgres.
 - 🐹 **[dockerfile](https://github.com/asottile-archive/dockerfile)**: Parse a dockerfile into a high-level representation using the official go parser.
 - 🐹 **[function](https://uptrace.dev/get/opentelemetry-go)**: OpenTelemetry Go distribution for Uptrace.
@@ -2716,6 +2726,7 @@
 - 🐹 **[go](https://github.com/golang-fips/go)**: Repository for FIPS enabled Go using OpenSSL.
 - 🐹 **[gotchas](https://github.com/golang-leipzig/gotchas)**: Go gotchas, surprises, puzzles.
 - 🐹 **[pex](https://github.com/josharian/pex)**: pex makes piping easier.
+- 🐹 **[registration-server](https://refraction.network)**: Conjure Refraction Networking station code.
 - 🐹 **[stockpile](https://caldera.mitre.org/)**: A CALDERA plugin.
 - 🐹 **[eudore](https://github.com/eudore/eudore)**: Eudore is the core of a composite web framework.
 - 🐹 **[example-workflows](https://github.com/google-github-actions/example-workflows)**: Repository to demonstrate example workflows.
@@ -2819,6 +2830,7 @@
 - 🐹 **[sdk-mcuboot](https://developer.nordicsemi.com/nRF_Connect_SDK/doc/latest/mcuboot/index.html)**: NCS downstream of https://github.
 - 🐹 **[syslog-drain-listener](https://github.com/cloudfoundry/cf-acceptance-tests)**: CF Acceptance tests.
 - 🐹 **[tcp-listener](https://github.com/cloudfoundry/cf-acceptance-tests)**: CF Acceptance tests.
+- 🐹 **[terraform-diff](https://github.com/contentful-labs/terraform-diff)**: Always know where you need to run Terraform plan & apply.
 - 🐹 **[test_scripts](https://github.com/fedora-iot/fido-device-onboard-rs)**: An implementation of the FIDO Device Onboard (FDO) spec written in Rust.
 - 🐹 **[worker](https://github.com/cloudfoundry/cf-acceptance-tests)**: CF Acceptance tests.
 - 🐹 **[age-plugin-fido2-hmac](https://github.com/olastor/age-plugin-fido2-hmac)**: Age plugin to encrypt files with fido2 tokens using the hmac-secret extension and non-discoverable credentials.
@@ -3027,6 +3039,7 @@
 - 🐹 **[go](https://github.com/aws/aws-encryption-sdk)**: AWS Encryption SDK.
 - 🐹 **[gostun](https://github.com/oneclickvirt/ecs)**: 本机NAT类型检测工具(Local NAT type detection tool)(NatTypeTester.
 - 🐹 **[keycard-cli](https://keycard.tech)**: A command line tool and shell to manage keycards.
+- 🐹 **[summon-aws-secrets](https://github.com/cyberark/summon-aws-secrets)**: Summon provider for AWS Secrets Manager.
 - 🐹 **[tinydns](https://github.com/projectdiscovery/tinydns)**: Tiny embeddable dns server.
 - 🐹 **[webhook-proxy](https://github.com/opendevstack/ods-core)**: The core of OpenDevStack - infrastructure setup based on Atlassian tools, Jenkins, Nexus, SonarQube and shared images.
 - 🐹 **[e2e](https://github.com/izumin5210/gex)**: The implementation of "clarify best practice for tool dependencies.
@@ -3411,6 +3424,7 @@
 - 🐹 **[fts5index](https://github.com/fazalmajid/fts5index)**: SQLite FTS5-based search engine for Hugo pages.
 - 🐹 **[github-copilot-svcs](https://github.com/privapps/github-copilot-svcs)**: Github Copilot Service Proxy.
 - 🐹 **[github-mirror](https://github-mirror.xiaoxuan6.me)**: GitHub 文件加速集群.
+- 🐹 **[go-check-sumtype](https://github.com/alecthomas/go-check-sumtype)**: A simple utility for running exhaustiveness checks on Go "sum types.
 - 🐹 **[go3270](https://github.com/racingmars/go3270)**: A 3270 server library for Go.
 - 🐹 **[golang](https://hub.docker.com/r/docker/buildkit-syft-scanner/tags)**: BuildKit Syft scanner.
 - 🐹 **[gomcptest](https://github.com/owulveryck/gomcptest)**: A proof-of-concept demonstrating a custom-built host implementing an OpenAI-compatible API with Google Vertex AI, function calling, and interaction with MCP servers.
