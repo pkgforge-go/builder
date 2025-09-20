@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "syslinux",
+  "pkg_family": "hub",
+  "pkg_id": "syslinux#github.com_tinkerbell_hub",
+  "pkg_name": "syslinux",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tinkerbell/hub",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Suite of Tinkerbell Actions for use in Tinkerbell Workflows",
+  "homepage": [
+    "https://github.com/tinkerbell/hub"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "archive2disk",
+    "cexec",
+    "grub2disk",
+    "image2disk",
+    "kexec",
+    "oci2disk",
+    "qemuimg2disk",
+    "rootio",
+    "server",
+    "slurp",
+    "syslinux",
+    "writefile"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/tinkerbell/hub/@v/v0.0.0-20250915154957-66e4fc9a20d9.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250915154957-66e4fc9a20d9",
+  "version_upstream": "",
+  "bsum": "7e427de93c8f899a1f621c3ba1981f703587c45cf20ec3e5f5a37a366a0aeb5f",
+  "build_date": "2025-09-20T09:59:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17878259434",
+  "build_id": "17878259434",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinkerbell/hub/syslinux?tag=v0.0.0-20250915154957-66e4fc9a20d9-riscv64-Linux&download=syslinux.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "32",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinkerbell/hub/syslinux?tag=v0.0.0-20250915154957-66e4fc9a20d9-riscv64-Linux&download=syslinux",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tinkerbell/hub/syslinux:v0.0.0-20250915154957-66e4fc9a20d9-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tinkerbell/hub/syslinux",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinkerbell/hub/syslinux?tag=v0.0.0-20250915154957-66e4fc9a20d9-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fd916363b43a78923d5bf92538a5c0e04b3401c19758f5c5d3aa471077f43632",
+  "size": "2.1 MB",
+  "size_raw": "2107544",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250716223720-50bd343710d7-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
