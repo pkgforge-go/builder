@@ -29646,6 +29646,19 @@
     "version": "HEAD-e6e621a-250624T112620"
   },
   {
+    "description": "Bulk replace GitHub Actions references from version tags to commit hashes for locked, reproducible workflows",
+    "name": "actionspin",
+    "pkg_id": "actionspin#github.com_mashiike_actionspin",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.2.0"
+  },
+  {
     "description": "Zscaler SDK for Golang _ZPA/ZIA/ZDX/ZCC APIs_",
     "name": "activation_cli",
     "pkg_id": "activation_cli#github.com_zscaler_zscaler_sdk_go",
@@ -31922,8 +31935,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-01",
-    "version": "v0.0.0-20250625231836-fa2dfdaf4868"
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250919192057-606f04f802bf"
   },
   {
     "description": "Node Monitoring Platform for blockchain nodes",
@@ -50013,6 +50026,19 @@
     ],
     "updated_at": "2025-06-22",
     "version": "HEAD-ebf22d8-250622T054156"
+  },
+  {
+    "description": "An Azure CLI mixin for Porter",
+    "name": "az-mixin",
+    "pkg_id": "az-mixin#github.com_getporter_az_mixin",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v1.0.6"
   },
   {
     "description": "Azctx is a CLI to switch az CLI contexts",
@@ -74973,6 +74999,45 @@
     "version": "v0.16.7"
   },
   {
+    "description": "Changelog generation based on files in a directory",
+    "name": "changelog-build",
+    "pkg_id": "changelog-build#github.com_hashicorp_go_changelog",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250919195833-01c397f608a9"
+  },
+  {
+    "description": "Changelog generation based on files in a directory",
+    "name": "changelog-check",
+    "pkg_id": "changelog-check#github.com_hashicorp_go_changelog",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250919195833-01c397f608a9"
+  },
+  {
+    "description": "Changelog generation based on files in a directory",
+    "name": "changelog-entry",
+    "pkg_id": "changelog-entry#github.com_hashicorp_go_changelog",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250919195833-01c397f608a9"
+  },
+  {
     "description": "GitHub Action that generates a changelog in JSON format",
     "name": "changelog-json",
     "pkg_id": "changelog-json#github.com_prodyna_changelog_json",
@@ -74984,6 +75049,19 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.0.0-20250217223759-1cc3ca9af3a7"
+  },
+  {
+    "description": "Changelog generation based on files in a directory",
+    "name": "changelog-pr-body-check",
+    "pkg_id": "changelog-pr-body-check#github.com_hashicorp_go_changelog",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250919195833-01c397f608a9"
   },
   {
     "description": "Update multiple repositories in with one command",
@@ -77813,6 +77891,17 @@
     "version": "v0.0.0-20250620175740-70b809335b84"
   },
   {
+    "description": "Check Plugins for monitoring written in golang",
+    "name": "check-aws-cloudwatch-logs",
+    "pkg_id": "check-aws-cloudwatch-logs#github.com_mackerelio_go_check_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.50.0"
+  },
+  {
     "description": "Yet another Amazon CloudWatch Logs check plugin with CloudWatch Logs Insights",
     "name": "check-aws-cloudwatch-logs-insights",
     "pkg_id": "check-aws-cloudwatch-logs-insights#github.com_mackerelio_check_aws_cloudwatch_logs_insights",
@@ -77839,6 +77928,17 @@
     "version": "v0.1.3"
   },
   {
+    "description": "Check Plugins for monitoring written in golang",
+    "name": "check-aws-sqs-queue-size",
+    "pkg_id": "check-aws-sqs-queue-size#github.com_mackerelio_go_check_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.50.0"
+  },
+  {
     "description": "Structured, pluggable logging for Go",
     "name": "check-callsize",
     "pkg_id": "check-callsize#github.com_sirupsen_logrus_ci",
@@ -77850,6 +77950,17 @@
     ],
     "updated_at": "2025-07-10",
     "version": "v0.0.0-20250620175740-70b809335b84"
+  },
+  {
+    "description": "Check Plugins for monitoring written in golang",
+    "name": "check-cert-file",
+    "pkg_id": "check-cert-file#github.com_mackerelio_go_check_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.50.0"
   },
   {
     "description": "Sensu plugins & libraries written in go",
@@ -78008,6 +78119,17 @@
     "version": "v0.0.0-20250620175740-70b809335b84"
   },
   {
+    "description": "Check Plugins for monitoring written in golang",
+    "name": "check-disk",
+    "pkg_id": "check-disk#github.com_mackerelio_go_check_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.50.0"
+  },
+  {
     "description": "Sensu plugins & libraries written in go",
     "name": "check-disk",
     "pkg_id": "check-disk#github.com_thomis_sensu_plugins_go",
@@ -78021,6 +78143,17 @@
     "version": "v0.0.0-20250607064934-74f500445898"
   },
   {
+    "description": "Check Plugins for monitoring written in golang",
+    "name": "check-dns",
+    "pkg_id": "check-dns#github.com_mackerelio_go_check_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.50.0"
+  },
+  {
     "description": "Structured, pluggable logging for Go",
     "name": "check-downgrades",
     "pkg_id": "check-downgrades#github.com_sirupsen_logrus_ci",
@@ -78032,6 +78165,17 @@
     ],
     "updated_at": "2025-07-10",
     "version": "v0.0.0-20250620175740-70b809335b84"
+  },
+  {
+    "description": "Check Plugins for monitoring written in golang",
+    "name": "check-elasticsearch",
+    "pkg_id": "check-elasticsearch#github.com_mackerelio_go_check_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.50.0"
   },
   {
     "description": "Sensu plugins & libraries written in go",
@@ -78058,6 +78202,28 @@
     ],
     "updated_at": "2025-07-10",
     "version": "v0.0.0-20250620175740-70b809335b84"
+  },
+  {
+    "description": "Check Plugins for monitoring written in golang",
+    "name": "check-file-age",
+    "pkg_id": "check-file-age#github.com_mackerelio_go_check_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.50.0"
+  },
+  {
+    "description": "Check Plugins for monitoring written in golang",
+    "name": "check-file-size",
+    "pkg_id": "check-file-size#github.com_mackerelio_go_check_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.50.0"
   },
   {
     "description": "Ingress controller for Google Cloud",
@@ -78097,6 +78263,17 @@
     ],
     "updated_at": "2025-08-18",
     "version": "v0.0.0-20250817072745-015ea41e427b"
+  },
+  {
+    "description": "Check Plugins for monitoring written in golang",
+    "name": "check-http",
+    "pkg_id": "check-http#github.com_mackerelio_go_check_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.50.0"
   },
   {
     "description": "Sensu plugins & libraries written in go",
@@ -78164,6 +78341,17 @@
     "version": "v0.0.0-20250918063807-420383d5c8bd"
   },
   {
+    "description": "Check Plugins for monitoring written in golang",
+    "name": "check-jmx-jolokia",
+    "pkg_id": "check-jmx-jolokia#github.com_mackerelio_go_check_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.50.0"
+  },
+  {
     "description": "Structured, pluggable logging for Go",
     "name": "check-large-files",
     "pkg_id": "check-large-files#github.com_sirupsen_logrus_ci",
@@ -78175,6 +78363,17 @@
     ],
     "updated_at": "2025-07-10",
     "version": "v0.0.0-20250620175740-70b809335b84"
+  },
+  {
+    "description": "Check Plugins for monitoring written in golang",
+    "name": "check-ldap",
+    "pkg_id": "check-ldap#github.com_mackerelio_go_check_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.50.0"
   },
   {
     "description": "Your ultimate Go microservices framework for the cloud-native era",
@@ -78201,6 +78400,61 @@
     ],
     "updated_at": "2025-07-15",
     "version": "v0.0.0-20250714134202-0c36331ee552"
+  },
+  {
+    "description": "Check Plugins for monitoring written in golang",
+    "name": "check-load",
+    "pkg_id": "check-load#github.com_mackerelio_go_check_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.50.0"
+  },
+  {
+    "description": "Check Plugins for monitoring written in golang",
+    "name": "check-log",
+    "pkg_id": "check-log#github.com_mackerelio_go_check_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.50.0"
+  },
+  {
+    "description": "Check Plugins for monitoring written in golang",
+    "name": "check-mailq",
+    "pkg_id": "check-mailq#github.com_mackerelio_go_check_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.50.0"
+  },
+  {
+    "description": "Check Plugins for monitoring written in golang",
+    "name": "check-masterha",
+    "pkg_id": "check-masterha#github.com_mackerelio_go_check_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.50.0"
+  },
+  {
+    "description": "Check Plugins for monitoring written in golang",
+    "name": "check-memcached",
+    "pkg_id": "check-memcached#github.com_mackerelio_go_check_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.50.0"
   },
   {
     "description": "Cross platform memory check for Sensu",
@@ -78268,6 +78522,17 @@
     "version": "v0.0.0-20250620175740-70b809335b84"
   },
   {
+    "description": "Check Plugins for monitoring written in golang",
+    "name": "check-mysql",
+    "pkg_id": "check-mysql#github.com_mackerelio_go_check_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.50.0"
+  },
+  {
     "description": "Sensu plugins & libraries written in go",
     "name": "check-mysql-ping",
     "pkg_id": "check-mysql-ping#github.com_thomis_sensu_plugins_go",
@@ -78320,6 +78585,28 @@
     "version": "v0.0.0-20250311094044-a16979a9107a"
   },
   {
+    "description": "Check Plugins for monitoring written in golang",
+    "name": "check-ntpoffset",
+    "pkg_id": "check-ntpoffset#github.com_mackerelio_go_check_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.50.0"
+  },
+  {
+    "description": "Check Plugins for monitoring written in golang",
+    "name": "check-ntservice",
+    "pkg_id": "check-ntservice#github.com_mackerelio_go_check_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.50.0"
+  },
+  {
     "description": "Kubernetes Operator for Datadog Resources",
     "name": "check-operator",
     "pkg_id": "check-operator#github.com_DataDog_datadog_operator",
@@ -78369,6 +78656,17 @@
     ],
     "updated_at": "2025-07-10",
     "version": "v0.0.0-20250620175740-70b809335b84"
+  },
+  {
+    "description": "Check Plugins for monitoring written in golang",
+    "name": "check-ping",
+    "pkg_id": "check-ping#github.com_mackerelio_go_check_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.50.0"
   },
   {
     "description": "Sensu plugins & libraries written in go",
@@ -78423,6 +78721,17 @@
     "version": "v0.0.0-20250607064934-74f500445898"
   },
   {
+    "description": "Check Plugins for monitoring written in golang",
+    "name": "check-postgresql",
+    "pkg_id": "check-postgresql#github.com_mackerelio_go_check_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.50.0"
+  },
+  {
     "description": "Sensu plugins & libraries written in go",
     "name": "check-process",
     "pkg_id": "check-process#github.com_thomis_sensu_plugins_go",
@@ -78434,6 +78743,17 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.0.0-20250607064934-74f500445898"
+  },
+  {
+    "description": "Check Plugins for monitoring written in golang",
+    "name": "check-procs",
+    "pkg_id": "check-procs#github.com_mackerelio_go_check_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.50.0"
   },
   {
     "description": "Sensu plugins & libraries written in go",
@@ -78449,6 +78769,17 @@
     "version": "v0.0.0-20250607064934-74f500445898"
   },
   {
+    "description": "Check Plugins for monitoring written in golang",
+    "name": "check-redis",
+    "pkg_id": "check-redis#github.com_mackerelio_go_check_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.50.0"
+  },
+  {
     "description": "Sensu plugins & libraries written in go",
     "name": "check-redis",
     "pkg_id": "check-redis#github.com_thomis_sensu_plugins_go",
@@ -78460,6 +78791,50 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.0.0-20250607064934-74f500445898"
+  },
+  {
+    "description": "Check Plugins for monitoring written in golang",
+    "name": "check-smtp",
+    "pkg_id": "check-smtp#github.com_mackerelio_go_check_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.50.0"
+  },
+  {
+    "description": "Check Plugins for monitoring written in golang",
+    "name": "check-solr",
+    "pkg_id": "check-solr#github.com_mackerelio_go_check_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.50.0"
+  },
+  {
+    "description": "Check Plugins for monitoring written in golang",
+    "name": "check-ssh",
+    "pkg_id": "check-ssh#github.com_mackerelio_go_check_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.50.0"
+  },
+  {
+    "description": "Check Plugins for monitoring written in golang",
+    "name": "check-ssl-cert",
+    "pkg_id": "check-ssl-cert#github.com_mackerelio_go_check_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.50.0"
   },
   {
     "description": "Cross platform memory check for Sensu",
@@ -78486,6 +78861,17 @@
     ],
     "updated_at": "2025-08-24",
     "version": "v0.5.3"
+  },
+  {
+    "description": "Check Plugins for monitoring written in golang",
+    "name": "check-tcp",
+    "pkg_id": "check-tcp#github.com_mackerelio_go_check_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.50.0"
   },
   {
     "description": "Environment configuration for the Cloud Platform",
@@ -78527,6 +78913,17 @@
     "version": "v1.0.2-6.15.4"
   },
   {
+    "description": "Check Plugins for monitoring written in golang",
+    "name": "check-uptime",
+    "pkg_id": "check-uptime#github.com_mackerelio_go_check_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.50.0"
+  },
+  {
     "description": "Sensu plugins & libraries written in go",
     "name": "check-uptime",
     "pkg_id": "check-uptime#github.com_thomis_sensu_plugins_go",
@@ -78551,6 +78948,17 @@
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-fd18f0a-241125T085554"
+  },
+  {
+    "description": "Check Plugins for monitoring written in golang",
+    "name": "check-windows-eventlog",
+    "pkg_id": "check-windows-eventlog#github.com_mackerelio_go_check_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.50.0"
   },
   {
     "description": "Icinga check plugin to run checks and other commands directly on any Windows system using WinRM (Windows Remote Management). Main use case would be to call one of the plugins from the Icinga Powershell Framework. This will avoid the requirement of installing an Icinga 2 agent on every Windows system",
@@ -80054,8 +80462,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-08-07",
-    "version": "v0.0.0-20250806205844-03b0f1821767"
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250919170735-0d31a95bf738"
   },
   {
     "description": "https://github.com/alecthomas/chroma/ style generator, viewer and dumper",
@@ -85219,6 +85627,19 @@
     "version": "v0.0.0-20250113180804-b684d488948a"
   },
   {
+    "description": "DPVS is a high performance Layer-4 load balancer based on DPDK",
+    "name": "client",
+    "pkg_id": "client#github.com_iqiyi_dpvs_test_quic",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250623015704-4582d20dc6cc"
+  },
+  {
     "description": "Connect, secure, control, and observe services",
     "name": "client",
     "pkg_id": "client#github.com_istio_istio",
@@ -89154,7 +89575,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-09-02",
+    "updated_at": "2025-09-20",
     "version": "v0.5.11"
   },
   {
@@ -90508,6 +90929,19 @@
     ],
     "updated_at": "2025-06-28",
     "version": "HEAD-8c94d9b-250627T192533"
+  },
+  {
+    "description": "An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation",
+    "name": "cmd",
+    "pkg_id": "cmd#github.com_coze_dev_coze_studio_backend",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250815123013-a9b87c188b87"
   },
   {
     "description": "A penetration toolkit for container environment",
@@ -92338,6 +92772,19 @@
     ],
     "updated_at": "2025-06-28",
     "version": "HEAD-8c94d9b-250627T192533"
+  },
+  {
+    "description": "Minimalistic Kubernetes network plugin that just works",
+    "name": "cni-kindnet",
+    "pkg_id": "cni-kindnet#github.com_aojea_kindnet_cmd_cni_kindnet",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250904140349-42a565f98b61"
   },
   {
     "description": "Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS",
@@ -97533,6 +97980,19 @@
     "version": "v0.0.0-20250619160034-02e3fca75bc2"
   },
   {
+    "description": "Encyclopedia for Go language",
+    "name": "concurrent",
+    "pkg_id": "concurrent#github.com_lcy2013_thinking_in_go_action_06_concurrent",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250625094837-bcdb234b3623"
+  },
+  {
     "description": "Go client library for the Norwegian Meteorological Institute and the Norwegian Broadcasting Corporation weather API",
     "name": "concurrent",
     "pkg_id": "concurrent#github.com_qba73_meteo",
@@ -101112,6 +101572,19 @@
     "version": "v0.0.0-20250825141417-a1d6929e3228"
   },
   {
+    "description": "Encyclopedia for Go language",
+    "name": "context",
+    "pkg_id": "context#github.com_lcy2013_thinking_in_go_action_06_concurrent",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250625094837-bcdb234b3623"
+  },
+  {
     "description": "Lab helps you experiment with code without friction. Type lab with any extension and start coding - it handles files, organization, and cleanup automatically",
     "name": "context",
     "pkg_id": "context#github.com_lugenx_lab",
@@ -103536,6 +104009,19 @@
     ],
     "updated_at": "2025-07-06",
     "version": "v0.0.0-20250702184519-960e79087b33"
+  },
+  {
+    "description": "Go code generator that copies structs from a package into a target file",
+    "name": "copystruct",
+    "pkg_id": "copystruct#github.com_mistermx_copystruct",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v1.0.0"
   },
   {
     "description": "Anything I didn't know about go with Java, Python, Groovy, C, C++ background",
@@ -129250,6 +129736,19 @@
     "version": "v0.0.0-20250627094045-9d6567446f9e"
   },
   {
+    "description": "Learning more about Golang binary distribution",
+    "name": "distribution",
+    "pkg_id": "distribution#github.com_abatilo_distribution",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.6-rc1"
+  },
+  {
     "description": "Libraries and binaries for running checkpoint distributors for verifiable logs",
     "name": "distributor-cmd",
     "pkg_id": "distributor-cmd#github.com_transparency_dev_distributor",
@@ -130346,6 +130845,19 @@
     ],
     "updated_at": "2025-06-23",
     "version": "HEAD-11e8607-250623T115825"
+  },
+  {
+    "description": "A JSON/HTTP interface for Dnsmasq",
+    "name": "dnsmasq-web",
+    "pkg_id": "dnsmasq-web#github.com_amigus_dnsmasq_web",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.5.0"
   },
   {
     "description": "Command line client for DNS Made Easy",
@@ -137544,6 +138056,18 @@
     "version": "HEAD-1bdcc8d-250606T192731"
   },
   {
+    "description": "A simple CLI utility to get the battery level of Dygma keyboards",
+    "name": "dygma-indicator",
+    "pkg_id": "dygma-indicator#github.com_coolapso_dygma_indicator",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v1.1.1"
+  },
+  {
     "description": "A Go compiler based on LLVM in order to better integrate Go with the C ecosystem including Python",
     "name": "dylibdeps",
     "pkg_id": "dylibdeps#github.com_luoliwoshang_llgo",
@@ -140788,6 +141312,17 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-1c945a5-250619T195141"
+  },
+  {
+    "description": "Hostname filtering for arbitrary network protocols",
+    "name": "egress-eddie",
+    "pkg_id": "egress-eddie#github.com_capnspacehook_egress_eddie",
+    "targets": [
+      "aarch64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v1.1.4"
   },
   {
     "description": "Container for regularly updating the egress filter list",
@@ -145098,6 +145633,19 @@
     ],
     "updated_at": "2025-06-30",
     "version": "v0.0.0-20250614122804-a892715ed094"
+  },
+  {
+    "description": "Encyclopedia for Go language",
+    "name": "errorgroup",
+    "pkg_id": "errorgroup#github.com_lcy2013_thinking_in_go_action_06_concurrent",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250625094837-bcdb234b3623"
   },
   {
     "description": "The STACKIT SDK for Go",
@@ -175261,6 +175809,19 @@
     "version": "HEAD-0bc11ec-250619T150042"
   },
   {
+    "description": "Go Training Class Material",
+    "name": "generate",
+    "pkg_id": "generate#github.com_ardanlabs_gotraining_topics_go_videos_miki_building_generate",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250813050714-1c2b62967d78"
+  },
+  {
     "description": "A multi-cluster batch queuing system for high-throughput workloads on Kubernetes.",
     "name": "generate",
     "pkg_id": "generate#github.com_armadaproject_armada",
@@ -181513,6 +182074,19 @@
     "version": "HEAD-47ccb23-250624T140417"
   },
   {
+    "description": "Ethereum HD Wallet derivations in Go (golang",
+    "name": "geth-hdwallet",
+    "pkg_id": "geth-hdwallet#github.com_mdehoog_go_ethereum_hdwallet",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250919015454-4f3f74837ae0"
+  },
+  {
     "description": "Go SDK library and RPC client for the Solana Blockchain",
     "name": "gethealth",
     "pkg_id": "gethealth#github.com_gagliardetto_solana_go",
@@ -182856,6 +183430,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-b3499e9-250619T092829"
+  },
+  {
+    "description": "Returns verified e-mail addresses for a GitHub user",
+    "name": "gh-mailto",
+    "pkg_id": "gh-mailto#github.com_codegroove_dev_gh_mailto",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250908164420-5968d0fc77a1"
   },
   {
     "description": "Make labels for GitHub repo",
@@ -184752,6 +185339,19 @@
     ],
     "updated_at": "2025-08-01",
     "version": "v0.0.0-20250720064159-a1cb6d4a4b32"
+  },
+  {
+    "description": "Git 的 commit 规范话",
+    "name": "git-commit-guide",
+    "pkg_id": "git-commit-guide#github.com_breeze_go_rust_git_commit_guide",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.2"
   },
   {
     "description": "They're tools, they're handy",
@@ -190689,6 +191289,17 @@
     "version": "v0.0.0-20250520163416-1059b5692a4d"
   },
   {
+    "description": "Check Plugins for monitoring written in golang",
+    "name": "go-check-plugins",
+    "pkg_id": "go-check-plugins#github.com_mackerelio_go_check_plugins",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.50.0"
+  },
+  {
     "description": "Go-check-smtp is a simple drop-in replacement for check_smtp in nagios-plugins distribution written in Go",
     "name": "go-check-smtp",
     "pkg_id": "go-check-smtp#github.com_nabeken_go_check_smtp",
@@ -194782,6 +195393,16 @@
     "version": "v1.0.3"
   },
   {
+    "description": "Example project for https://github.com/mouuff/go-rocket-update",
+    "name": "go-rocket-update-example",
+    "pkg_id": "go-rocket-update-example#github.com_mouuff_go_rocket_update_example",
+    "targets": [
+      "aarch64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v1.5.1"
+  },
+  {
     "description": "Go rod fast is a wrapper around rod that wraps browser creation, spoofing and tab creation",
     "name": "go-rod-fast",
     "pkg_id": "go-rod-fast#github.com_renniemaharaj_go_rod_fast",
@@ -198845,6 +199466,17 @@
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-bbc6aec-250621T065936"
+  },
+  {
+    "description": "Lightweight process isolation for Windows + macOS + Linux",
+    "name": "gobtest",
+    "pkg_id": "gobtest#github.com_modulesio_isolator",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.7.4"
   },
   {
     "description": "Prelude for the Buck2 project",
@@ -203028,6 +203660,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-4b06e99-250620T132146"
+  },
+  {
+    "description": "Render markdown on the CLI, with pizzazz",
+    "name": "gold",
+    "pkg_id": "gold#github.com_charmbracelet_gold",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.1.3"
   },
   {
     "description": "An experimental Go local docs server/generator and code reader implemented with some fresh ideas.",
@@ -207464,6 +208109,19 @@
     "version": "v0.0.0-20250914054050-968a8f3375fb"
   },
   {
+    "description": "Q: Where are the services",
+    "name": "gossip-sim",
+    "pkg_id": "gossip-sim#github.com_eliwjones_seer",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250707205419-303fdc3b6279"
+  },
+  {
     "description": "Gossup is a simplistic Go based system automation tool, which embeds the desired state and test suite into a binary to be distributed to end-systems for realization",
     "name": "gossup",
     "pkg_id": "gossup#github.com_retr0h_gossup",
@@ -207975,6 +208633,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-32a7dcc-240608T135809"
+  },
+  {
+    "description": "A tool for formatting Go test results as readable documentation",
+    "name": "gotestdox",
+    "pkg_id": "gotestdox#github.com_macleodmac_gotestdox",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250919105013-c53b72728757"
   },
   {
     "description": "go test output for humans",
@@ -213933,6 +214604,32 @@
     ],
     "updated_at": "2025-09-04",
     "version": "v0.0.0-20250821125120-47a41b597f65"
+  },
+  {
+    "description": "DPVS is a high performance Layer-4 load balancer based on DPDK",
+    "name": "h3client",
+    "pkg_id": "h3client#github.com_iqiyi_dpvs_test_quic",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250623015704-4582d20dc6cc"
+  },
+  {
+    "description": "DPVS is a high performance Layer-4 load balancer based on DPDK",
+    "name": "h3server",
+    "pkg_id": "h3server#github.com_iqiyi_dpvs_test_quic",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250623015704-4582d20dc6cc"
   },
   {
     "description": "H8s | httptonats - HTTP and bi-directional websockets over NATS",
@@ -259774,6 +260471,18 @@
     "version": "v0.0.0-20250126185342-9ea683eb4117"
   },
   {
+    "description": "EXPERIMENTAL",
+    "name": "local-argocd-renderer",
+    "pkg_id": "local-argocd-renderer#github.com_lorenzbischof_local_argocd_renderer",
+    "targets": [
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250919151137-d7bcfc189995"
+  },
+  {
     "description": "No Description Provided",
     "name": "local-artifact-mirror",
     "pkg_id": "local-artifact-mirror#github.com_replicatedhq_embedded_cluster",
@@ -277136,6 +277845,19 @@
     "version": "HEAD-a15f15f-250621T030949"
   },
   {
+    "description": "An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation",
+    "name": "migration_tool",
+    "pkg_id": "migration_tool#github.com_coze_dev_coze_studio_backend",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250815123013-a9b87c188b87"
+  },
+  {
     "description": "Storj v3 network statistics",
     "name": "migrations",
     "pkg_id": "migrations#github.com_3bl3gamer_storjnet_info",
@@ -284381,6 +285103,19 @@
     "version": "HEAD-822b567-250602T210150"
   },
   {
+    "description": "Experimental Concatenative Shell-like Scripting Language",
+    "name": "mshell",
+    "pkg_id": "mshell#github.com_mitchpaulus_mshell_mshell",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250919215933-57d4b9fc25e1"
+  },
+  {
     "description": "Convert MS IME format user dictionary to Mac format",
     "name": "msime2mac",
     "pkg_id": "msime2mac#github.com_slashnephy_msime2mac",
@@ -290359,6 +291094,19 @@
     "version": "v1.0.0"
   },
   {
+    "description": "Performance tests and benchmarks",
+    "name": "netperf",
+    "pkg_id": "netperf#github.com_kubernetes_perf_tests_network_benchmarks_netperf",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250917103213-48123e4c36f1"
+  },
+  {
     "description": "Rust and Go TCP and gRPC ping benchmark",
     "name": "netpingbench",
     "pkg_id": "netpingbench#github.com_evanj_netpingbench",
@@ -291440,6 +292188,19 @@
     ],
     "updated_at": "2025-07-04",
     "version": "v0.0.0-20250703223538-ef71c9885701"
+  },
+  {
+    "description": "A plugin that can seamlessly link AnyShake products to SeisComP",
+    "name": "nexus",
+    "pkg_id": "nexus#github.com_anyshake_nexus",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.1.0"
   },
   {
     "description": "CAS Authentication Reverse Proxy for Sonatype Nexus",
@@ -295534,6 +296295,19 @@
     ],
     "updated_at": "2025-06-29",
     "version": "HEAD-1d1df84-250629T094326"
+  },
+  {
+    "description": "Performance tests and benchmarks",
+    "name": "nptest",
+    "pkg_id": "nptest#github.com_kubernetes_perf_tests_network_benchmarks_netperf",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250917103213-48123e4c36f1"
   },
   {
     "description": "hep is the mono repository holding all of go-hep.org/x/hep packages and tools",
@@ -304288,6 +305062,19 @@
     "version": "HEAD-32ca4ea-250624T162531"
   },
   {
+    "description": "Ote updates a packages' go.mod file with a comment next to all dependencies that are test dependencies; identifying them as such",
+    "name": "ote",
+    "pkg_id": "ote#github.com_komuw_ote",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.12"
+  },
+  {
     "description": "Demonstrates several examples of using cmd-stream-go",
     "name": "otel",
     "pkg_id": "otel#github.com_cmd_stream_cmd_stream_examples_go",
@@ -308847,6 +309634,19 @@
     ],
     "updated_at": "2025-08-20",
     "version": "v0.0.0-20250120140917-68b0d88b2d3b"
+  },
+  {
+    "description": "On-chain atomic swaps for Decred and other cryptocurrencies",
+    "name": "partatomicswap",
+    "pkg_id": "partatomicswap#github.com_decred_atomicswap_cmd_partatomicswap",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250805174319-fdc473d35102"
   },
   {
     "description": "A Certificate Transparency log implementation and monitoring API designed for scalability, ease of operation, and reduced cost.",
@@ -313642,6 +314442,19 @@
     ],
     "updated_at": "2025-08-16",
     "version": "v0.0.0-20250815231555-4535077e730f"
+  },
+  {
+    "description": "GitHub Actions Pinner",
+    "name": "pinata",
+    "pkg_id": "pinata#github.com_caarlos0_pinata",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.1.2"
   },
   {
     "description": "CLI tool for transcribing audio files with arbitrary formats using the OpenAI API",
@@ -319530,6 +320343,19 @@
     "version": "HEAD-d435080-250623T115912"
   },
   {
+    "description": "Making Docker and Kubernetes management easy",
+    "name": "portainercc",
+    "pkg_id": "portainercc#github.com_c3ai_lab_portainercc",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.10.0"
+  },
+  {
     "description": "Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨",
     "name": "portal",
     "pkg_id": "portal#github.com_SpatiumPortae_portal",
@@ -323601,6 +324427,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-4397f98-250529T005304"
+  },
+  {
+    "description": "Q: Where are the services",
+    "name": "process-sim",
+    "pkg_id": "process-sim#github.com_eliwjones_seer",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250707205419-303fdc3b6279"
   },
   {
     "description": "OCI Runtime Tools",
@@ -331796,6 +332635,19 @@
     ],
     "updated_at": "2025-06-29",
     "version": "v0.0.0-20250627124055-9135d2f4412e"
+  },
+  {
+    "description": "A Pulumi provider for creating and managing Proxmox VE resources",
+    "name": "pulumi-gen-tailscale-bastion",
+    "pkg_id": "pulumi-gen-tailscale-bastion#github.com_muhlba91_pulumi_proxmoxve_provider",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250831104603-a8f159e58c1f"
   },
   {
     "description": "A Pulumi provider for creating and managing Proxmox VE resources",
@@ -345000,6 +345852,19 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.0.0-20250623000633-228fdf26afc9"
+  },
+  {
+    "description": "An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation",
+    "name": "remove_unused_snippets",
+    "pkg_id": "remove_unused_snippets#github.com_coze_dev_coze_studio_backend",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250815123013-a9b87c188b87"
   },
   {
     "description": "练习刷的算法题",
@@ -362321,6 +363186,19 @@
     "version": "HEAD-58c2bd7-240805T170052"
   },
   {
+    "description": "Q: Where are the services",
+    "name": "seer",
+    "pkg_id": "seer#github.com_eliwjones_seer",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250707205419-303fdc3b6279"
+  },
+  {
     "description": "Edwards curve ed25519 identity based RPC for Go/golang. TLS-v1.3 over TCP (or QUIC",
     "name": "seesparse",
     "pkg_id": "seesparse#github.com_glycerine_rpc25519",
@@ -363083,6 +363961,19 @@
     ],
     "updated_at": "2025-08-26",
     "version": "v1.0.0"
+  },
+  {
+    "description": "Encyclopedia for Go language",
+    "name": "semaphore",
+    "pkg_id": "semaphore#github.com_lcy2013_thinking_in_go_action_06_concurrent",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250625094837-bcdb234b3623"
   },
   {
     "description": "Place for all things using Go Language",
@@ -366187,6 +367078,19 @@
     ],
     "updated_at": "2025-06-30",
     "version": "v0.0.0-20250113180804-b684d488948a"
+  },
+  {
+    "description": "DPVS is a high performance Layer-4 load balancer based on DPDK",
+    "name": "server",
+    "pkg_id": "server#github.com_iqiyi_dpvs_test_quic",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250623015704-4582d20dc6cc"
   },
   {
     "description": "Connect, secure, control, and observe services",
@@ -375802,6 +376706,19 @@
     "version": "v0.0.0-20250608131033-512548c8bc88"
   },
   {
+    "description": "Encyclopedia for Go language",
+    "name": "singleflight",
+    "pkg_id": "singleflight#github.com_lcy2013_thinking_in_go_action_06_concurrent",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250625094837-bcdb234b3623"
+  },
+  {
     "description": "Interview Learn in 24",
     "name": "singleflight",
     "pkg_id": "singleflight#github.com_mo3et_itv_learn_24",
@@ -379514,6 +380431,19 @@
     "version": "HEAD-9956e0b-250621T170817"
   },
   {
+    "description": "Session manager and task runner for tmux. Start your development environment within one command",
+    "name": "smug",
+    "pkg_id": "smug#github.com_ivaaaan_smug",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.3.8"
+  },
+  {
     "description": "A rapid HTTP downgrade smuggling scanner written in Go.",
     "name": "smugglefuzz",
     "pkg_id": "smugglefuzz#github.com_Moopinger_smugglefuzz",
@@ -381344,6 +382274,19 @@
     ],
     "updated_at": "2025-09-02",
     "version": "v0.0.0-20250311101641-1b0172176028"
+  },
+  {
+    "description": "Lightweight static file webserver",
+    "name": "sonicweb",
+    "pkg_id": "sonicweb#github.com_alphaone1_sonicweb",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v1.6.1"
   },
   {
     "description": "Run Slurm in Kubernetes",
@@ -397058,6 +398001,19 @@
     "version": "v1.0.3"
   },
   {
+    "description": "Encyclopedia for Go language",
+    "name": "syncatomic",
+    "pkg_id": "syncatomic#github.com_lcy2013_thinking_in_go_action_06_concurrent",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250625094837-bcdb234b3623"
+  },
+  {
     "description": "My sandbox",
     "name": "synccond",
     "pkg_id": "synccond#github.com_blck_snwmn_playground_go_synccond",
@@ -397069,6 +398025,19 @@
     ],
     "updated_at": "2025-07-27",
     "version": "v0.0.0-20250726172804-e0f804d7f54b"
+  },
+  {
+    "description": "Encyclopedia for Go language",
+    "name": "synccond",
+    "pkg_id": "synccond#github.com_lcy2013_thinking_in_go_action_06_concurrent",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250625094837-bcdb234b3623"
   },
   {
     "description": "A Go compiler based on LLVM in order to better integrate Go with the C ecosystem including Python",
@@ -397274,6 +398243,19 @@
     ],
     "updated_at": "2025-07-06",
     "version": "v0.0.0-20250519224345-7875107cbf06"
+  },
+  {
+    "description": "Encyclopedia for Go language",
+    "name": "syncpool",
+    "pkg_id": "syncpool#github.com_lcy2013_thinking_in_go_action_06_concurrent",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250625094837-bcdb234b3623"
   },
   {
     "description": "Sample apps and code written for Google Cloud in the Go programming language",
@@ -398530,6 +399512,19 @@
     ],
     "updated_at": "2025-07-01",
     "version": "v0.1.2"
+  },
+  {
+    "description": "Tagfmt formats struct tag within Go programs",
+    "name": "tagfmt",
+    "pkg_id": "tagfmt#github.com_jummyliu_tagfmt",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v1.3.0"
   },
   {
     "description": "GhostSCAD enables you to programatically build complex 3D models in Go and render them in OpenSCAD",
@@ -412626,6 +413621,19 @@
     "version": "v0.0.0-20250628195233-5d128eadbb5f"
   },
   {
+    "description": "Minimal terminal thumbnail grid picker using Kitty Graphics Protocol",
+    "name": "thumbgrid",
+    "pkg_id": "thumbgrid#github.com_ck_zhang_thumbgrid",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.3"
+  },
+  {
     "description": "Community driven repository for Dapr samples",
     "name": "thumbnail",
     "pkg_id": "thumbnail#github.com_dapr_samples_twitter_sentiment_processor_demos_demo2_viewer",
@@ -412907,6 +413915,19 @@
     ],
     "updated_at": "2025-08-14",
     "version": "v0.0.0-20250813174841-dc86b0f94a61"
+  },
+  {
+    "description": "A lightweight Go application to bulk export transcripts from the TicketsBot API. This tool allows you to download ticket transcripts in multiple formats from the TicketsBot dashboard",
+    "name": "ticketsbot-transcript-exporter",
+    "pkg_id": "ticketsbot-transcript-exporter#github.com_bradselph_ticketsbot_transcript_exporter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250521203520-d8aac77eb9c1"
   },
   {
     "description": "A thread-based ticket manager written in Go",
@@ -414464,6 +415485,19 @@
     ],
     "updated_at": "2025-07-02",
     "version": "v0.0.0-20250701211001-6ac228982531"
+  },
+  {
+    "description": "Tiny shadowsocks for WATER",
+    "name": "tiny-shadowsocks",
+    "pkg_id": "tiny-shadowsocks#github.com_getlantern_tiny_shadowsocks",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v1.0.0"
   },
   {
     "description": "Gorgonia is a library that helps facilitate machine learning in Go.",
@@ -416518,6 +417552,19 @@
     "version": "v0.0.0-20250821233938-e73a161c9e01"
   },
   {
+    "description": "Find todo items in Markdown files",
+    "name": "todolist",
+    "pkg_id": "todolist#github.com_edthedev_todolist",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250919164705-197ce6df4ae1"
+  },
+  {
     "description": "Build cross platform GUI apps with GO and HTML/JS/CSS _powered by nwjs_",
     "name": "todomvc",
     "pkg_id": "todomvc#github.com_dtylman_gowd",
@@ -416555,6 +417602,19 @@
     ],
     "updated_at": "2025-07-31",
     "version": "v0.0.0-20250728213915-416d0f3b6ca9"
+  },
+  {
+    "description": "Find todo items in Markdown files",
+    "name": "todotxt",
+    "pkg_id": "todotxt#github.com_edthedev_todolist",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250919164705-197ce6df4ae1"
   },
   {
     "description": "Converts opinionated .todo files to markdown files using an opinionated format",
@@ -417738,8 +418798,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-09-13",
-    "version": "v0.0.0-20250911094942-594f9d63a5f9"
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250918115531-d5cc5e2738e2"
   },
   {
     "description": "Pessoal | API | Go | Finalizado",
@@ -419107,6 +420167,19 @@
     ],
     "updated_at": "2025-06-26",
     "version": "HEAD-c221969-250624T181107"
+  },
+  {
+    "description": "ECS task event/log tracer CLI",
+    "name": "tracer",
+    "pkg_id": "tracer#github.com_fujiwara_tracer",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v1.1.2"
   },
   {
     "description": "IPREF netutils - CLI utilities for hosts behind an IPREF gateway",
@@ -431699,6 +432772,19 @@
     "version": "HEAD-347f5d2-250621T123109"
   },
   {
+    "description": "Encyclopedia for Go language",
+    "name": "v1",
+    "pkg_id": "v1#github.com_lcy2013_thinking_in_go_action_06_concurrent",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250625094837-bcdb234b3623"
+  },
+  {
     "description": "A JSON TCP Server & Client in Go",
     "name": "v1",
     "pkg_id": "v1#github.com_omept_jsonapp",
@@ -431933,6 +433019,19 @@
     "version": "HEAD-4207ca1-250213T222010"
   },
   {
+    "description": "Encyclopedia for Go language",
+    "name": "v2",
+    "pkg_id": "v2#github.com_lcy2013_thinking_in_go_action_06_concurrent",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250625094837-bcdb234b3623"
+  },
+  {
     "description": "Minimalist and opinionated feed reader",
     "name": "v2",
     "pkg_id": "v2#github.com_miniflux_v2",
@@ -432125,6 +433224,19 @@
     ],
     "updated_at": "2025-09-19",
     "version": "v3.5.22"
+  },
+  {
+    "description": "Encyclopedia for Go language",
+    "name": "v3",
+    "pkg_id": "v3#github.com_lcy2013_thinking_in_go_action_06_concurrent",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.0-20250625094837-bcdb234b3623"
   },
   {
     "description": "Go stuff",
@@ -445976,6 +447088,19 @@
     "version": "HEAD-9d53bc7-230513T105534"
   },
   {
+    "description": "Identifies dependent modules that have raised the Go version",
+    "name": "why-go-over",
+    "pkg_id": "why-go-over#github.com_ebi_yade_why_go_over",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.0.1"
+  },
+  {
     "description": "A service that waits for security notices from wid.cert-bund.de and wid.lsi.bayern.de and sends configurable email notifications",
     "name": "wid-notifier",
     "pkg_id": "wid-notifier#github.com_chaoticbyte_wid_notifier",
@@ -450749,6 +451874,19 @@
     "version": "v0.0.0-20250721235608-14985feeaebb"
   },
   {
+    "description": "What the UTF",
+    "name": "wtutf",
+    "pkg_id": "wtutf#github.com_eliheady_wtutf",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.1.0"
+  },
+  {
     "description": "My GitHub Profile",
     "name": "wuhan005",
     "pkg_id": "wuhan005#github.com_wuhan005_wuhan005",
@@ -450808,6 +451946,19 @@
     ],
     "updated_at": "2025-07-12",
     "version": "v0.1.1"
+  },
+  {
+    "description": "The AgentBay SDK provides a comprehensive suite of tools for efficient interaction with AgentBay cloud environments, enabling you to create and manage cloud sessions, execute commands, operate files, and interact with user interfaces",
+    "name": "wuying-agentbay-sdk",
+    "pkg_id": "wuying-agentbay-sdk#github.com_aliyun_wuying_agentbay_sdk",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-20",
+    "version": "v0.8.0"
   },
   {
     "description": "Simple RESTful API for WhatsApp in Golang (using the Whatsmeow multi device library",
