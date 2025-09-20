@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "nptest",
+  "pkg_family": "netperf",
+  "pkg_id": "nptest#github.com_kubernetes_perf_tests_network_benchmarks_netperf",
+  "pkg_name": "nptest",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/perf-tests",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Performance tests and benchmarks",
+  "homepage": [
+    "https://github.com/kubernetes/perf-tests"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "netperf",
+    "nptest"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/kubernetes/perf-tests/network/benchmarks/netperf/@v/v0.0.0-20250917103213-48123e4c36f1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250917103213-48123e4c36f1",
+  "version_upstream": "",
+  "bsum": "5b726d199d8485eb5fb9d343d68dd56532348056133b71db91f30ae4f6d4e8e2",
+  "build_date": "2025-09-20T04:13:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17874873251",
+  "build_id": "17874873251",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/perf-tests/network/benchmarks/netperf/nptest?tag=v0.0.0-20250917103213-48123e4c36f1-riscv64-Linux&download=nptest.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "943",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/perf-tests/network/benchmarks/netperf/nptest?tag=v0.0.0-20250917103213-48123e4c36f1-riscv64-Linux&download=nptest",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/perf-tests/network/benchmarks/netperf/nptest:v0.0.0-20250917103213-48123e4c36f1-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/perf-tests/network/benchmarks/netperf/nptest",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/perf-tests/network/benchmarks/netperf/nptest?tag=v0.0.0-20250917103213-48123e4c36f1-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "45cccaf29c987107dc8d22cf28ce9c0be28e362a349909b1889e00111526f418",
+  "size": "8.7 MB",
+  "size_raw": "9077640",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
