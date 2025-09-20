@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "maskinporten",
+  "pkg_family": "krakend",
+  "pkg_id": "maskinporten#github.com_nais_krakend",
+  "pkg_name": "maskinporten",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nais/krakend",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes operator for installing and managing KrakenD in kubernetes namespaces",
+  "homepage": [
+    "https://github.com/nais/krakend"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "krakend-cmd",
+    "maskinporten",
+    "samples"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/nais/krakend/@v/v0.0.0-20250919070021-8644fe2a2928.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250919070021-8644fe2a2928",
+  "version_upstream": "",
+  "bsum": "40c887721a7038bb360e0d49f45d071944eb5c0b37cf98c8e053f73d2291c31c",
+  "build_date": "2025-09-20T04:30:12Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17874895855",
+  "build_id": "17874895855",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/krakend/maskinporten?tag=v0.0.0-20250919070021-8644fe2a2928-loongarch64-Linux&download=maskinporten.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/krakend/maskinporten?tag=v0.0.0-20250919070021-8644fe2a2928-loongarch64-Linux&download=maskinporten",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nais/krakend/maskinporten:v0.0.0-20250919070021-8644fe2a2928-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nais/krakend/maskinporten",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/krakend/maskinporten?tag=v0.0.0-20250919070021-8644fe2a2928-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2886617cc1300c44a818ef3d996f8a8610881ce8a5c273df563f95dc5bda3d89",
+  "size": "34 MB",
+  "size_raw": "35327584",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
