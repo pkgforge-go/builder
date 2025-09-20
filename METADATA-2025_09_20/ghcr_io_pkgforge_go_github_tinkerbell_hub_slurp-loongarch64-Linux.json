@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "slurp",
+  "pkg_family": "hub",
+  "pkg_id": "slurp#github.com_tinkerbell_hub",
+  "pkg_name": "slurp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tinkerbell/hub",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Suite of Tinkerbell Actions for use in Tinkerbell Workflows",
+  "homepage": [
+    "https://github.com/tinkerbell/hub"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "archive2disk",
+    "cexec",
+    "grub2disk",
+    "image2disk",
+    "kexec",
+    "oci2disk",
+    "qemuimg2disk",
+    "rootio",
+    "server",
+    "slurp",
+    "syslinux",
+    "writefile"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/tinkerbell/hub/@v/v0.0.0-20250915154957-66e4fc9a20d9.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250915154957-66e4fc9a20d9",
+  "version_upstream": "",
+  "bsum": "4c3c3a4b521d9f3e181cc97c9e35b349a32419758ce0a5512f2634681f851c99",
+  "build_date": "2025-09-20T10:00:08Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17878259434",
+  "build_id": "17878259434",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinkerbell/hub/slurp?tag=v0.0.0-20250915154957-66e4fc9a20d9-loongarch64-Linux&download=slurp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "32",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinkerbell/hub/slurp?tag=v0.0.0-20250915154957-66e4fc9a20d9-loongarch64-Linux&download=slurp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tinkerbell/hub/slurp:v0.0.0-20250915154957-66e4fc9a20d9-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tinkerbell/hub/slurp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinkerbell/hub/slurp?tag=v0.0.0-20250915154957-66e4fc9a20d9-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0997d8f29c7e79a2f6d96de6accc1a6c47aec6a3f2c6899094dbd71ee230b465",
+  "size": "5.9 MB",
+  "size_raw": "6163488",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250716223720-50bd343710d7-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}

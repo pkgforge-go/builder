@@ -1,0 +1,77 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "oci2disk",
+  "pkg_family": "hub",
+  "pkg_id": "oci2disk#github.com_tinkerbell_hub",
+  "pkg_name": "oci2disk",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/tinkerbell/hub",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Suite of Tinkerbell Actions for use in Tinkerbell Workflows",
+  "homepage": [
+    "https://github.com/tinkerbell/hub"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "archive2disk",
+    "cexec",
+    "grub2disk",
+    "image2disk",
+    "kexec",
+    "oci2disk",
+    "qemuimg2disk",
+    "rootio",
+    "server",
+    "slurp",
+    "syslinux",
+    "writefile"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/tinkerbell/hub/@v/v0.0.0-20250915154957-66e4fc9a20d9.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250915154957-66e4fc9a20d9",
+  "version_upstream": "",
+  "bsum": "c5a25a30177e5ac5b2ba7501c6444a718df9135c6fdcad339ae98b40080fc8d8",
+  "build_date": "2025-09-20T09:59:31Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17878259434",
+  "build_id": "17878259434",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinkerbell/hub/oci2disk?tag=v0.0.0-20250915154957-66e4fc9a20d9-loongarch64-Linux&download=oci2disk.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "32",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinkerbell/hub/oci2disk?tag=v0.0.0-20250915154957-66e4fc9a20d9-loongarch64-Linux&download=oci2disk",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/tinkerbell/hub/oci2disk:v0.0.0-20250915154957-66e4fc9a20d9-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/tinkerbell/hub/oci2disk",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/tinkerbell/hub/oci2disk?tag=v0.0.0-20250915154957-66e4fc9a20d9-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "781d90f0a0f30309f8f5e20786e1518f5ac533518e5522ff6d9cb47a6ae4fa02",
+  "size": "7.4 MB",
+  "size_raw": "7750272",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250716223720-50bd343710d7-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
