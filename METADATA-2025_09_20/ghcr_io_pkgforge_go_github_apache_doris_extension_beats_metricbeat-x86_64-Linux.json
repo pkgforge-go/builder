@@ -1,0 +1,99 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "metricbeat",
+  "pkg_family": "beats",
+  "pkg_id": "metricbeat#github.com_apache_doris_extension_beats",
+  "pkg_name": "metricbeat",
+  "pkg_type": "static",
+  "pkg_webpage": "https://doris.apache.org",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Apache Doris is an easy-to-use, high performance and unified analytics database",
+  "homepage": [
+    "https://doris.apache.org"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "auditbeat",
+    "filebeat",
+    "heartbeat",
+    "metricbeat",
+    "winlogbeat"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/apache/doris/extension/beats/@v/v0.0.0-20250919130732-f0f26d7c7dae.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250919130732-f0f26d7c7dae",
+  "version_upstream": "",
+  "bsum": "c184e1328fe44674649d861b082344deb965eec76fe5e46deabaf22d0d07c0c2",
+  "build_date": "2025-09-20T09:42:30Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17878257379",
+  "build_id": "17878257379",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/doris/extension/beats/metricbeat?tag=v0.0.0-20250919130732-f0f26d7c7dae-x86_64-Linux&download=metricbeat.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "14264",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/doris/extension/beats/metricbeat?tag=v0.0.0-20250919130732-f0f26d7c7dae-x86_64-Linux&download=metricbeat",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/apache/doris/extension/beats/metricbeat:v0.0.0-20250919130732-f0f26d7c7dae-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/apache/doris/extension/beats/metricbeat",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/apache/doris/extension/beats/metricbeat?tag=v0.0.0-20250919130732-f0f26d7c7dae-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "5bee87905297c4ab035cba435749de5e4bc96e34a6b1558c2115c5414e077aa6",
+  "size": "96 MB",
+  "size_raw": "100376104",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250630113607-a1653f8d67ce-x86_64-Linux",
+    "v0.0.0-20250703133715-ce3bbf97e7a8-x86_64-Linux",
+    "v0.0.0-20250704141805-641fe19d193f-x86_64-Linux",
+    "v0.0.0-20250710231157-1ab8911dcdda-x86_64-Linux",
+    "v0.0.0-20250715131434-3555fd4fc420-x86_64-Linux",
+    "v0.0.0-20250716201156-ac6a3b551751-x86_64-Linux",
+    "v0.0.0-20250721173844-2bfe3575e491-x86_64-Linux",
+    "v0.0.0-20250723143511-3b5e97addc2e-x86_64-Linux",
+    "v0.0.0-20250725143428-726c8d13831e-x86_64-Linux",
+    "v0.0.0-20250728125003-edf2d23e8b6a-x86_64-Linux",
+    "v0.0.0-20250730135601-49189b57a70f-x86_64-Linux",
+    "v0.0.0-20250731165632-52547727d25c-x86_64-Linux",
+    "v0.0.0-20250801094537-8926bb145d87-x86_64-Linux",
+    "v0.0.0-20250802165005-ffbacbcdc64b-x86_64-Linux",
+    "v0.0.0-20250803220305-1b7f43d9fca6-x86_64-Linux",
+    "v0.0.0-20250804124234-7113a47930b1-x86_64-Linux",
+    "v0.0.0-20250806114300-97bb87d3e1eb-x86_64-Linux",
+    "v0.0.0-20250810144640-76c92c9155b7-x86_64-Linux",
+    "v0.0.0-20250813235052-9927b8bc48f3-x86_64-Linux",
+    "v0.0.0-20250819134051-d54f3dd46f5e-x86_64-Linux",
+    "v0.0.0-20250822140827-e45d72c5f22b-x86_64-Linux",
+    "v0.0.0-20250829144947-fee2d91b363c-x86_64-Linux",
+    "v0.0.0-20250830182459-7794e51982a2-x86_64-Linux",
+    "v0.0.0-20250903230253-11da05e8b24f-x86_64-Linux",
+    "v0.0.0-20250906170857-ab70b9f49ecf-x86_64-Linux",
+    "v0.0.0-20250907101729-8192bbfa3844-x86_64-Linux",
+    "v0.0.0-20250911161959-61eed5bb16d8-x86_64-Linux",
+    "v0.0.0-20250914003742-49411092ef61-x86_64-Linux",
+    "v0.0.0-20250914232710-3fccf2061799-x86_64-Linux",
+    "v0.0.0-20250915164211-f4b1548a4d69-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
