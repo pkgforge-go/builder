@@ -1,0 +1,92 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "textview",
+  "pkg_family": "tview",
+  "pkg_id": "textview#github.com_rivo_tview",
+  "pkg_name": "textview",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rivo/tview",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Terminal UI library with rich, interactive widgets — written in Golang",
+  "homepage": [
+    "https://github.com/rivo/tview"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "autocomplete",
+    "autocompleteasync",
+    "box",
+    "button",
+    "chat",
+    "checkbox",
+    "dropdown",
+    "flex",
+    "form",
+    "frame",
+    "grid",
+    "image",
+    "inputfield",
+    "list",
+    "modal",
+    "pages",
+    "presentation",
+    "primitive",
+    "table",
+    "textarea",
+    "textview",
+    "treeview",
+    "unicode",
+    "virtualtable"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/rivo/tview/@v/v0.0.0-20250916163949-0b5989b59ce6.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250916163949-0b5989b59ce6",
+  "version_upstream": "",
+  "bsum": "635e1631dce6ab7f106febae126b34748dbfd6fe2f15fe054694cb1ddf9875e7",
+  "build_date": "2025-09-20T13:23:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17880116453",
+  "build_id": "17880116453",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rivo/tview/textview?tag=v0.0.0-20250916163949-0b5989b59ce6-aarch64-Linux&download=textview.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12823",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rivo/tview/textview?tag=v0.0.0-20250916163949-0b5989b59ce6-aarch64-Linux&download=textview",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rivo/tview/textview:v0.0.0-20250916163949-0b5989b59ce6-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rivo/tview/textview",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rivo/tview/textview?tag=v0.0.0-20250916163949-0b5989b59ce6-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "7128633b5dfe5d0b6d9b1fcd85b860c9e4bc1206b6555b9d510a0a8caafbb585",
+  "size": "3.2 MB",
+  "size_raw": "3348216",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0c592cd-250501T133434-aarch64-Linux",
+    "HEAD-a4a78f1-250625T184341-aarch64-Linux",
+    "v0.0.0-20250625164341-a4a78f1e05cb-aarch64-Linux",
+    "v0.0.0-20250904205922-4cdaaa9bd6f6-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
