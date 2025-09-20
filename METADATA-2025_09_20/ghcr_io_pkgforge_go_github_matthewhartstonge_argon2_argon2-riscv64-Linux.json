@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "argon2",
+  "pkg_family": "argon2",
+  "pkg_id": "argon2#github.com_matthewhartstonge_argon2",
+  "pkg_name": "argon2",
+  "pkg_type": "static",
+  "pkg_webpage": "https://pkg.go.dev/github.com/matthewhartstonge/argon2",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A pure Go Argon2 implementation for secure password hashing in Go",
+  "homepage": [
+    "https://pkg.go.dev/github.com/matthewhartstonge/argon2"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "argon2"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/matthewhartstonge/argon2/@v/v1.4.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.4.0",
+  "version_upstream": "",
+  "bsum": "93d7e11ee948bc3b4f936902b1ec7b39695695b5e219cfbc88b3d2c40d6ee3cd",
+  "build_date": "2025-09-20T09:50:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17878258650",
+  "build_id": "17878258650",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matthewhartstonge/argon2/argon2?tag=v1.4.0-riscv64-Linux&download=argon2.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "124",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matthewhartstonge/argon2/argon2?tag=v1.4.0-riscv64-Linux&download=argon2",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/matthewhartstonge/argon2/argon2:v1.4.0-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/matthewhartstonge/argon2/argon2",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/matthewhartstonge/argon2/argon2?tag=v1.4.0-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "21bab60b546ce2e7e3585988b6f50d52a4057fda46c2d8827109607d1bc722c6",
+  "size": "1.9 MB",
+  "size_raw": "1954120",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.3.3-riscv64-Linux",
+    "v1.3.4-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
