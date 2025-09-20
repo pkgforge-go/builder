@@ -1,0 +1,79 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "postgrestmp",
+  "pkg_family": "hacks",
+  "pkg_id": "postgrestmp#github.com_evanj_hacks",
+  "pkg_name": "postgrestmp",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/evanj/hacks",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Small things that I found useful more than once",
+  "homepage": [
+    "https://github.com/evanj/hacks"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "archlevel",
+    "getprotoc",
+    "grpchealthping",
+    "httpping",
+    "importtree",
+    "lastimport",
+    "makeflaky",
+    "postgrestmp",
+    "protodecode",
+    "protodemocmd",
+    "runtypescript",
+    "timeparse",
+    "unimportedpkgs",
+    "zlibpipe"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/evanj/hacks/@v/v0.0.0-20250918170321-07a4912f526f.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250918170321-07a4912f526f",
+  "version_upstream": "",
+  "bsum": "d4fcc8c432bb30db708fcf98316e5e80d598609568e8b2f70b46fb610b9f6d3b",
+  "build_date": "2025-09-20T09:47:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17878258359",
+  "build_id": "17878258359",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/evanj/hacks/postgrestmp?tag=v0.0.0-20250918170321-07a4912f526f-riscv64-Linux&download=postgrestmp.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/evanj/hacks/postgrestmp?tag=v0.0.0-20250918170321-07a4912f526f-riscv64-Linux&download=postgrestmp",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/evanj/hacks/postgrestmp:v0.0.0-20250918170321-07a4912f526f-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/evanj/hacks/postgrestmp",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/evanj/hacks/postgrestmp?tag=v0.0.0-20250918170321-07a4912f526f-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "dc3000f8a8d7a002d4cfe0a3ae7659f3125f3a52af06cea8ef3624a81b7b08a0",
+  "size": "9.4 MB",
+  "size_raw": "9811528",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250717013931-56652ced3090-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
