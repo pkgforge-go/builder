@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "client",
+  "pkg_family": "plugins",
+  "pkg_id": "client#github.com_containernetworking_plugins",
+  "pkg_name": "client",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/containernetworking/plugins",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Some reference and example networking plugins, maintained by the CNI team",
+  "homepage": [
+    "https://github.com/containernetworking/plugins"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bandwidth",
+    "bridge",
+    "client",
+    "dhcp",
+    "dummy",
+    "firewall",
+    "host-device",
+    "host-local",
+    "ipvlan",
+    "loopback",
+    "macvlan",
+    "portmap",
+    "ptp",
+    "sample",
+    "sbr",
+    "server",
+    "static",
+    "tap",
+    "tuning",
+    "vlan",
+    "vrf"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/containernetworking/plugins/@v/v0.0.0-20250901152306-0e648479e11c.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250901152306-0e648479e11c",
+  "version_upstream": "",
+  "bsum": "de631d41d36cd5949e9fd9dc6e23f6e8b4c5779184f1feb76cac129a5c99774c",
+  "build_date": "2025-09-20T18:48:14Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17883490392",
+  "build_id": "17883490392",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containernetworking/plugins/client?tag=v0.0.0-20250901152306-0e648479e11c-x86_64-Linux&download=client.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2426",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containernetworking/plugins/client?tag=v0.0.0-20250901152306-0e648479e11c-x86_64-Linux&download=client",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/containernetworking/plugins/client:v0.0.0-20250901152306-0e648479e11c-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/containernetworking/plugins/client",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containernetworking/plugins/client?tag=v0.0.0-20250901152306-0e648479e11c-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "bfa8de3d5d24705bfdd495e364e31802b1c151622f58c89f1bb5a6d1f7e0f7c9",
+  "size": "2.4 MB",
+  "size_raw": "2474200",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.8.0-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
