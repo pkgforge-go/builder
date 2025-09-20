@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "portmap",
+  "pkg_family": "plugins",
+  "pkg_id": "portmap#github.com_containernetworking_plugins",
+  "pkg_name": "portmap",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/containernetworking/plugins",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Some reference and example networking plugins, maintained by the CNI team",
+  "homepage": [
+    "https://github.com/containernetworking/plugins"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bandwidth",
+    "bridge",
+    "client",
+    "dhcp",
+    "dummy",
+    "firewall",
+    "host-device",
+    "host-local",
+    "ipvlan",
+    "loopback",
+    "macvlan",
+    "portmap",
+    "ptp",
+    "sample",
+    "sbr",
+    "server",
+    "static",
+    "tap",
+    "tuning",
+    "vlan",
+    "vrf"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/containernetworking/plugins/@v/v0.0.0-20250901152306-0e648479e11c.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250901152306-0e648479e11c",
+  "version_upstream": "",
+  "bsum": "a80096c0dd8a6fd10b7109d331af5003b998a2cfc409ca2d4c73de1f022da131",
+  "build_date": "2025-09-20T18:48:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17883490392",
+  "build_id": "17883490392",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containernetworking/plugins/portmap?tag=v0.0.0-20250901152306-0e648479e11c-aarch64-Linux&download=portmap.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2426",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containernetworking/plugins/portmap?tag=v0.0.0-20250901152306-0e648479e11c-aarch64-Linux&download=portmap",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/containernetworking/plugins/portmap:v0.0.0-20250901152306-0e648479e11c-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/containernetworking/plugins/portmap",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/containernetworking/plugins/portmap?tag=v0.0.0-20250901152306-0e648479e11c-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4dcf24f9ff990201a04d7b3313952bd2c6ebfcd14aedb97f538d52e6a3fefa5a",
+  "size": "3.6 MB",
+  "size_raw": "3731264",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.8.0-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
