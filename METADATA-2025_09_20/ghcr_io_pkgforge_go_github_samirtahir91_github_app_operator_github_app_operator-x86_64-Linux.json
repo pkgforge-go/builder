@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "github-app-operator",
+  "pkg_family": "github-app-operator",
+  "pkg_id": "github-app-operator#github.com_samirtahir91_github_app_operator",
+  "pkg_name": "github-app-operator",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/samirtahir91/github-app-operator",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Requests an access token for a Github App and stores it in a secret to use for authenticated requests to Github as the GithubApp. It will reconcile a new access token before expiry (1hr",
+  "homepage": [
+    "https://github.com/samirtahir91/github-app-operator"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "github-app-operator"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/samirtahir91/github-app-operator/@v/v1.12.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.12.1",
+  "version_upstream": "",
+  "bsum": "82466a55e733f772cda3f65702a6e5ed45b38b385ff46b711b5ae60a94e52cf9",
+  "build_date": "2025-09-20T04:37:05Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17874903212",
+  "build_id": "17874903212",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/samirtahir91/github-app-operator/github-app-operator?tag=v1.12.1-x86_64-Linux&download=github-app-operator.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/samirtahir91/github-app-operator/github-app-operator?tag=v1.12.1-x86_64-Linux&download=github-app-operator",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/samirtahir91/github-app-operator/github-app-operator:v1.12.1-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/samirtahir91/github-app-operator/github-app-operator",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/samirtahir91/github-app-operator/github-app-operator?tag=v1.12.1-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ebb679cb34f26c7273927b017fe6940fe6a90b99b02a4d07e83543a6c2e32612",
+  "size": "66 MB",
+  "size_raw": "68647776",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
