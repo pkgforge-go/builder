@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "samples",
+  "pkg_family": "krakend",
+  "pkg_id": "samples#github.com_nais_krakend",
+  "pkg_name": "samples",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/nais/krakend",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Kubernetes operator for installing and managing KrakenD in kubernetes namespaces",
+  "homepage": [
+    "https://github.com/nais/krakend"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "krakend-cmd",
+    "maskinporten",
+    "samples"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/nais/krakend/@v/v0.0.0-20250919070021-8644fe2a2928.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250919070021-8644fe2a2928",
+  "version_upstream": "",
+  "bsum": "bcee52deb199e00f92772552ce6afa8b6914a9b9b6d39974dbf008dfc0f9895d",
+  "build_date": "2025-09-20T04:28:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17874895855",
+  "build_id": "17874895855",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/krakend/samples?tag=v0.0.0-20250919070021-8644fe2a2928-riscv64-Linux&download=samples.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "10",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/krakend/samples?tag=v0.0.0-20250919070021-8644fe2a2928-riscv64-Linux&download=samples",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/nais/krakend/samples:v0.0.0-20250919070021-8644fe2a2928-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/nais/krakend/samples",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/nais/krakend/samples?tag=v0.0.0-20250919070021-8644fe2a2928-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b5330dde6e916aa36a3a2b5c4059cdbeab1db2463a56efa626654b81e9d097c8",
+  "size": "17 MB",
+  "size_raw": "17818184",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
