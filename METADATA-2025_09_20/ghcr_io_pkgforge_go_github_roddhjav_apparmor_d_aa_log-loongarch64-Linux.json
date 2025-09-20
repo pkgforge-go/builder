@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "aa-log",
+  "pkg_family": "apparmor.d",
+  "pkg_id": "aa-log#github.com_roddhjav_apparmor.d",
+  "pkg_name": "aa-log",
+  "pkg_type": "static",
+  "pkg_webpage": "https://apparmor.pujol.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Full set of AppArmor policies",
+  "homepage": [
+    "https://apparmor.pujol.io"
+  ],
+  "license": [
+    "GPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aa",
+    "aa-log",
+    "cmd",
+    "prebuild"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/roddhjav/apparmor.d/@v/v0.0.0-20250916184235-9db6bf4a3583.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250916184235-9db6bf4a3583",
+  "version_upstream": "",
+  "bsum": "eb5cc1753de22858fb8ef12aa2ba175f00f6bfd7fa006e6f1a8243efb0ee092e",
+  "build_date": "2025-09-20T07:12:28Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17876631436",
+  "build_id": "17876631436",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/roddhjav/apparmor.d/aa-log?tag=v0.0.0-20250916184235-9db6bf4a3583-loongarch64-Linux&download=aa-log.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "653",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/roddhjav/apparmor.d/aa-log?tag=v0.0.0-20250916184235-9db6bf4a3583-loongarch64-Linux&download=aa-log",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/roddhjav/apparmor.d/aa-log:v0.0.0-20250916184235-9db6bf4a3583-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/roddhjav/apparmor.d/aa-log",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/roddhjav/apparmor.d/aa-log?tag=v0.0.0-20250916184235-9db6bf4a3583-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "6ce2d72b651dd74e97c6a474e583597a31284eec990af85e71ca2c50e1bc61ce",
+  "size": "4.1 MB",
+  "size_raw": "4279384",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-3ffff07-250620T000048-loongarch64-Linux",
+    "HEAD-1aee62f-250621T210702-loongarch64-Linux",
+    "v0.0.0-20250824220415-7ecc84d3b0e1-loongarch64-Linux",
+    "v0.0.0-20250901135428-09c1f61bb7aa-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
