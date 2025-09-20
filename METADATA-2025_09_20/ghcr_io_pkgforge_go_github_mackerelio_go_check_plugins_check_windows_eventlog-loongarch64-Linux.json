@@ -1,0 +1,94 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "check-windows-eventlog",
+  "pkg_family": "go-check-plugins",
+  "pkg_id": "check-windows-eventlog#github.com_mackerelio_go_check_plugins",
+  "pkg_name": "check-windows-eventlog",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mackerelio/go-check-plugins",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Check Plugins for monitoring written in golang",
+  "homepage": [
+    "https://github.com/mackerelio/go-check-plugins"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "check-aws-cloudwatch-logs",
+    "check-aws-sqs-queue-size",
+    "check-cert-file",
+    "check-disk",
+    "check-dns",
+    "check-elasticsearch",
+    "check-file-age",
+    "check-file-size",
+    "check-http",
+    "check-jmx-jolokia",
+    "check-ldap",
+    "check-load",
+    "check-log",
+    "check-mailq",
+    "check-masterha",
+    "check-memcached",
+    "check-mysql",
+    "check-ntpoffset",
+    "check-ntservice",
+    "check-ping",
+    "check-postgresql",
+    "check-procs",
+    "check-redis",
+    "check-smtp",
+    "check-solr",
+    "check-ssh",
+    "check-ssl-cert",
+    "check-tcp",
+    "check-uptime",
+    "check-windows-eventlog",
+    "go-check-plugins"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/mackerelio/go-check-plugins/@v/v0.50.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.50.0",
+  "version_upstream": "",
+  "bsum": "1de0187d5eeca9ab9620b52711db85a981f106a97119b09f813963fa94a056ac",
+  "build_date": "2025-09-20T04:24:51Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17874877401",
+  "build_id": "17874877401",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mackerelio/go-check-plugins/check-windows-eventlog?tag=v0.50.0-loongarch64-Linux&download=check-windows-eventlog.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "258",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mackerelio/go-check-plugins/check-windows-eventlog?tag=v0.50.0-loongarch64-Linux&download=check-windows-eventlog",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mackerelio/go-check-plugins/check-windows-eventlog:v0.50.0-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mackerelio/go-check-plugins/check-windows-eventlog",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mackerelio/go-check-plugins/check-windows-eventlog?tag=v0.50.0-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fabaa047ff8ab6456364b28dd99722c56b3c0b8c4765119ebc392eb3046a2684",
+  "size": "1.2 MB",
+  "size_raw": "1187800",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
