@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "aa",
+  "pkg_family": "apparmor.d",
+  "pkg_id": "aa#github.com_roddhjav_apparmor.d",
+  "pkg_name": "aa",
+  "pkg_type": "static",
+  "pkg_webpage": "https://apparmor.pujol.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Full set of AppArmor policies",
+  "homepage": [
+    "https://apparmor.pujol.io"
+  ],
+  "license": [
+    "GPL-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "aa",
+    "aa-log",
+    "cmd",
+    "prebuild"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/roddhjav/apparmor.d/@v/v0.0.0-20250916184235-9db6bf4a3583.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250916184235-9db6bf4a3583",
+  "version_upstream": "",
+  "bsum": "7d3aef3775225ab9227b4c0dee854b35a5eab5b0d207c398cea1097e333b0a19",
+  "build_date": "2025-09-20T07:15:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17876631436",
+  "build_id": "17876631436",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/roddhjav/apparmor.d/aa?tag=v0.0.0-20250916184235-9db6bf4a3583-x86_64-Linux&download=aa.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "653",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/roddhjav/apparmor.d/aa?tag=v0.0.0-20250916184235-9db6bf4a3583-x86_64-Linux&download=aa",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/roddhjav/apparmor.d/aa:v0.0.0-20250916184235-9db6bf4a3583-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/roddhjav/apparmor.d/aa",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/roddhjav/apparmor.d/aa?tag=v0.0.0-20250916184235-9db6bf4a3583-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c5d1ccc56524280fd6414e38a6312c4cf25fb68ad90b3e297c57dfc33865e6e5",
+  "size": "4.1 MB",
+  "size_raw": "4231832",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-3ffff07-250620T000048-x86_64-Linux",
+    "HEAD-1aee62f-250621T210702-x86_64-Linux",
+    "v0.0.0-20250824220415-7ecc84d3b0e1-x86_64-Linux",
+    "v0.0.0-20250901135428-09c1f61bb7aa-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
