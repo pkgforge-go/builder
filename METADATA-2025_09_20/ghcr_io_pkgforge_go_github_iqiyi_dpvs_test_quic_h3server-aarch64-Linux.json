@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "h3server",
+  "pkg_family": "quic",
+  "pkg_id": "h3server#github.com_iqiyi_dpvs_test_quic",
+  "pkg_name": "h3server",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/iqiyi/dpvs",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "DPVS is a high performance Layer-4 load balancer based on DPDK",
+  "homepage": [
+    "https://github.com/iqiyi/dpvs"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "client",
+    "h3client",
+    "h3server",
+    "server"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/iqiyi/dpvs/test/quic/@v/v0.0.0-20250623015704-4582d20dc6cc.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250623015704-4582d20dc6cc",
+  "version_upstream": "",
+  "bsum": "6273ee744c4d9a7428f5b3228ba5f54af235372fe0426eb0cbe804a4bbde61f6",
+  "build_date": "2025-09-20T04:07:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17874866100",
+  "build_id": "17874866100",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/iqiyi/dpvs/test/quic/h3server?tag=v0.0.0-20250623015704-4582d20dc6cc-aarch64-Linux&download=h3server.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "3166",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/iqiyi/dpvs/test/quic/h3server?tag=v0.0.0-20250623015704-4582d20dc6cc-aarch64-Linux&download=h3server",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/iqiyi/dpvs/test/quic/h3server:v0.0.0-20250623015704-4582d20dc6cc-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/iqiyi/dpvs/test/quic/h3server",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/iqiyi/dpvs/test/quic/h3server?tag=v0.0.0-20250623015704-4582d20dc6cc-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "23ed6013f48cd98833a06d0843ff494334f33ee06112c3b64bf50523713505fa",
+  "size": "8.6 MB",
+  "size_raw": "8917984",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
