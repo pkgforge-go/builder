@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "netperf",
+  "pkg_family": "netperf",
+  "pkg_id": "netperf#github.com_kubernetes_perf_tests_network_benchmarks_netperf",
+  "pkg_name": "netperf",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/kubernetes/perf-tests",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Performance tests and benchmarks",
+  "homepage": [
+    "https://github.com/kubernetes/perf-tests"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "netperf",
+    "nptest"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/kubernetes/perf-tests/network/benchmarks/netperf/@v/v0.0.0-20250917103213-48123e4c36f1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250917103213-48123e4c36f1",
+  "version_upstream": "",
+  "bsum": "273bc3f2031a048f1adc406d70696bf84d250d9080985fb287077194a4acbe13",
+  "build_date": "2025-09-20T04:12:47Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17874873251",
+  "build_id": "17874873251",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/perf-tests/network/benchmarks/netperf/netperf?tag=v0.0.0-20250917103213-48123e4c36f1-aarch64-Linux&download=netperf.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "943",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/perf-tests/network/benchmarks/netperf/netperf?tag=v0.0.0-20250917103213-48123e4c36f1-aarch64-Linux&download=netperf",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/kubernetes/perf-tests/network/benchmarks/netperf/netperf:v0.0.0-20250917103213-48123e4c36f1-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/kubernetes/perf-tests/network/benchmarks/netperf/netperf",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/kubernetes/perf-tests/network/benchmarks/netperf/netperf?tag=v0.0.0-20250917103213-48123e4c36f1-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "08ee145c15684c6f9c83939bc492eadfc4c69e16058c7ee98a4b2fbb8b601f8a",
+  "size": "27 MB",
+  "size_raw": "28129824",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
