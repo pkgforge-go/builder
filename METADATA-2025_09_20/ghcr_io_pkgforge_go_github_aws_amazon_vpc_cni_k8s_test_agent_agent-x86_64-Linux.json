@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "agent",
+  "pkg_family": "agent",
+  "pkg_id": "agent#github.com_aws_amazon_vpc_cni_k8s_test_agent",
+  "pkg_name": "agent",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/aws/amazon-vpc-cni-k8s",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS",
+  "homepage": [
+    "https://github.com/aws/amazon-vpc-cni-k8s"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/loadbalancerorg/lbfeedback/agent/@v/v0.0.0-20250509171129-fb5f2e6db817.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250919192057-606f04f802bf",
+  "version_upstream": "",
+  "bsum": "f27c30f8cc5fe398508fb2e04165802ce240dc94b0bc8caea8eb8e6d524a209a",
+  "build_date": "2025-09-20T04:16:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17874876725",
+  "build_id": "17874876725",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-vpc-cni-k8s/test/agent/agent?tag=v0.0.0-20250919192057-606f04f802bf-x86_64-Linux&download=agent.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "2382",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-vpc-cni-k8s/test/agent/agent?tag=v0.0.0-20250919192057-606f04f802bf-x86_64-Linux&download=agent",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/aws/amazon-vpc-cni-k8s/test/agent/agent:v0.0.0-20250919192057-606f04f802bf-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/aws/amazon-vpc-cni-k8s/test/agent/agent",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/aws/amazon-vpc-cni-k8s/test/agent/agent?tag=v0.0.0-20250919192057-606f04f802bf-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c87d19d2fec1966bf3d5da176a1294b35ba3a37bc2b02ea4834d64052b2af993",
+  "size": "7.7 MB",
+  "size_raw": "8019008",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250625231836-fa2dfdaf4868-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
