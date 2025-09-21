@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "tempsense-cli",
+  "pkg_family": "tempsense-exporter",
+  "pkg_id": "tempsense-cli#github.com_vgropp_tempsense_exporter",
+  "pkg_name": "tempsense-cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/vgropp/tempsense-exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Prometheus-exporter and cli utility to read temperature from DS18B20 USB HID device",
+  "homepage": [
+    "https://github.com/vgropp/tempsense-exporter"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "tempsense-cli",
+    "tempsense-exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/vgropp/tempsense-exporter/@v/v0.0.0-20250909211033-cd7d3782b19f.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250909211033-cd7d3782b19f",
+  "version_upstream": "",
+  "bsum": "d4366989968a58927fce9494add372b6dbc292512fc9849b8cd0c5c9118ab9c7",
+  "build_date": "2025-09-21T04:31:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17888599074",
+  "build_id": "17888599074",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vgropp/tempsense-exporter/tempsense-cli?tag=v0.0.0-20250909211033-cd7d3782b19f-riscv64-Linux&download=tempsense-cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vgropp/tempsense-exporter/tempsense-cli?tag=v0.0.0-20250909211033-cd7d3782b19f-riscv64-Linux&download=tempsense-cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/vgropp/tempsense-exporter/tempsense-cli:v0.0.0-20250909211033-cd7d3782b19f-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/vgropp/tempsense-exporter/tempsense-cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vgropp/tempsense-exporter/tempsense-cli?tag=v0.0.0-20250909211033-cd7d3782b19f-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "14ea1ce7ed792fe33189a7b6317f6e80fa799f2588f2bf33dd79f812e93e55de",
+  "size": "2.0 MB",
+  "size_raw": "2070488",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
