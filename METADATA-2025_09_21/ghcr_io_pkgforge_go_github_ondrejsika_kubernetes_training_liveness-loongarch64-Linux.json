@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "liveness",
+  "pkg_family": "kubernetes-training",
+  "pkg_id": "liveness#github.com_ondrejsika_kubernetes_training",
+  "pkg_name": "liveness",
+  "pkg_type": "static",
+  "pkg_webpage": "https://skoleni-kubernetes.cz",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Skoleni Kubernetes",
+  "homepage": [
+    "https://skoleni-kubernetes.cz"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cpu-hard",
+    "liveness",
+    "readiness"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/ondrejsika/kubernetes-training/@v/v0.0.0-20250915155819-e65af10e611f.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250915155819-e65af10e611f",
+  "version_upstream": "",
+  "bsum": "2f06509ad194e2439d90c1225961258711e321bb0ce10777bece0ba3153c184d",
+  "build_date": "2025-09-21T04:19:35Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17888596536",
+  "build_id": "17888596536",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ondrejsika/kubernetes-training/liveness?tag=v0.0.0-20250915155819-e65af10e611f-loongarch64-Linux&download=liveness.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "76",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ondrejsika/kubernetes-training/liveness?tag=v0.0.0-20250915155819-e65af10e611f-loongarch64-Linux&download=liveness",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ondrejsika/kubernetes-training/liveness:v0.0.0-20250915155819-e65af10e611f-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ondrejsika/kubernetes-training/liveness",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ondrejsika/kubernetes-training/liveness?tag=v0.0.0-20250915155819-e65af10e611f-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "9163b1d9cb3991dd0f00e39ecbf20b6b3874f09a1f6d87a32af2e309f1d43d3b",
+  "size": "5.7 MB",
+  "size_raw": "5934528",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
