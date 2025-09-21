@@ -1,0 +1,64 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "ec2mqtt",
+  "pkg_family": "ec2mqtt",
+  "pkg_id": "ec2mqtt#github.com_mback2k_ec2mqtt",
+  "pkg_name": "ec2mqtt",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/mback2k/ec2mqtt",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Push data from Energy Count 3000 / RT-110 to Home Assistant via MQTT using a JeeLink",
+  "homepage": [
+    "https://github.com/mback2k/ec2mqtt"
+  ],
+  "license": [
+    "GPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "ec2mqtt"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/mback2k/ec2mqtt/@v/v0.0.0-20250919204623-18620b929058.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250919204623-18620b929058",
+  "version_upstream": "",
+  "bsum": "6dd1368d0c912523fbb6eb0e2806abad951c98738eb339f468da76f859e6a00c",
+  "build_date": "2025-09-21T04:13:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17888593962",
+  "build_id": "17888593962",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mback2k/ec2mqtt/ec2mqtt?tag=v0.0.0-20250919204623-18620b929058-x86_64-Linux&download=ec2mqtt.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mback2k/ec2mqtt/ec2mqtt?tag=v0.0.0-20250919204623-18620b929058-x86_64-Linux&download=ec2mqtt",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/mback2k/ec2mqtt/ec2mqtt:v0.0.0-20250919204623-18620b929058-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/mback2k/ec2mqtt/ec2mqtt",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/mback2k/ec2mqtt/ec2mqtt?tag=v0.0.0-20250919204623-18620b929058-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f2539c5418a3fcd495690131c2c83893a052da6f9ca56e0c6468d32163f25b9b",
+  "size": "7.8 MB",
+  "size_raw": "8089376",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
