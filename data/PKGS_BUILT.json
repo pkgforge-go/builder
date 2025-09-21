@@ -12409,6 +12409,19 @@
     "version": "HEAD-1299f27-250627T074311"
   },
   {
+    "description": "Miscellaneous tools and codebases",
+    "name": "11cat",
+    "pkg_id": "11cat#github.com_tmc_misc_cmd_11cat",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250610033740-47096ee65a06"
+  },
+  {
     "description": "GoExpertPostGrad is an expansive compilation of academic projects, practical assignments, and theoretical learning from the Lato Sensu post-graduation course in Advanced Development in Golang - Go Expert",
     "name": "11structs",
     "pkg_id": "11structs#github.com_brunoliveiradev_goexpertpostgrad",
@@ -44278,8 +44291,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-06-29",
-    "version": "v0.0.0-20250618153321-aa837fd1539d"
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250822154823-7eb9f00c5e9d"
   },
   {
     "description": "Go library providing algorithms optimized to leverage the characteristics of modern CPUs",
@@ -136026,6 +136039,19 @@
     "version": "v0.0.0-20250624031656-019272195b65"
   },
   {
+    "description": "Drawioファイルの全ページをpngエクスポートするCLIアプリ",
+    "name": "drawio-export-tool",
+    "pkg_id": "drawio-export-tool#github.com_towa1204_drawio_export_tool",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.3"
+  },
+  {
     "description": "Tool for drawing relationship diagrams from SQL databases",
     "name": "drawsql",
     "pkg_id": "drawsql#github.com_thirdmartini_drawsql",
@@ -160988,6 +161014,8 @@
     "pkg_id": "filter#github.com_prattmic_pgo_analysis",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
       "x86_64-Linux"
     ],
     "updated_at": "2025-09-21",
@@ -196705,7 +196733,7 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-08-22",
+    "updated_at": "2025-09-21",
     "version": "v0.0.0-20250818063648-e2f183fc3311"
   },
   {
@@ -262839,6 +262867,19 @@
     "version": "HEAD-c22068d-250108T155727"
   },
   {
+    "description": "Log file logrotate and archive",
+    "name": "logpack",
+    "pkg_id": "logpack#github.com_zhangyuming_logpack",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.1.2-build1"
+  },
+  {
     "description": "A simple and lightweight alternative to cAdvisor for getting basic Docker container metrics as well as custom metrics _e.g. container uptime and number of logged messages_.",
     "name": "logporter",
     "pkg_id": "logporter#github.com_Lifailon_logporter",
@@ -306006,6 +306047,9 @@
     "name": "ottracesjson",
     "pkg_id": "ottracesjson#github.com_tencentblueking_bkmonitor_datalink_pkg_collector_example_ottracesjson",
     "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
       "x86_64-Linux"
     ],
     "updated_at": "2025-09-21",
@@ -313766,6 +313810,8 @@
     "pkg_id": "pgo-analysis#github.com_prattmic_pgo_analysis",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
       "x86_64-Linux"
     ],
     "updated_at": "2025-09-21",
@@ -346563,6 +346609,8 @@
     "pkg_id": "rename#github.com_prattmic_pgo_analysis",
     "targets": [
       "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
       "x86_64-Linux"
     ],
     "updated_at": "2025-09-21",
@@ -373545,6 +373593,19 @@
     "version": "v0.0.0-20250624211111-9baa6b9b25ce"
   },
   {
+    "description": "A simple URL shortener",
+    "name": "shorten",
+    "pkg_id": "shorten#github.com_zhongruoyu_shorten",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250918191729-a4727dfd7d5c"
+  },
+  {
     "description": "Автотесты для курса по Go",
     "name": "shortenerstress",
     "pkg_id": "shortenerstress#github.com_yandex_practicum_go_autotests",
@@ -373556,6 +373617,19 @@
     ],
     "updated_at": "2025-07-02",
     "version": "v0.12.1"
+  },
+  {
+    "description": "A simple URL shortener",
+    "name": "shortenpw",
+    "pkg_id": "shortenpw#github.com_zhongruoyu_shorten",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250918191729-a4727dfd7d5c"
   },
   {
     "description": "URL shortener with pastebin and file upload functions",
@@ -404413,6 +404487,32 @@
     ],
     "updated_at": "2025-08-30",
     "version": "v0.1.0"
+  },
+  {
+    "description": "Prometheus-exporter and cli utility to read temperature from DS18B20 USB HID device",
+    "name": "tempsense-cli",
+    "pkg_id": "tempsense-cli#github.com_vgropp_tempsense_exporter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250909211033-cd7d3782b19f"
+  },
+  {
+    "description": "Prometheus-exporter and cli utility to read temperature from DS18B20 USB HID device",
+    "name": "tempsense-exporter",
+    "pkg_id": "tempsense-exporter#github.com_vgropp_tempsense_exporter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250909211033-cd7d3782b19f"
   },
   {
     "description": "Example code, Codewars katas and a compiler for the Monkey programming language.",
@@ -455131,6 +455231,19 @@
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-2213560-250620T090404"
+  },
+  {
+    "description": "Some old code about scheme compiler I've ever wrote",
+    "name": "yasfs",
+    "pkg_id": "yasfs#github.com_tiancaiamao_yasfs",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250616075652-3dd1db7ef628"
   },
   {
     "description": "yataf extracts secrets and paths from files or urls - its best used against javascript files",
