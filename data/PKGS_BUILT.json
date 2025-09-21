@@ -51321,6 +51321,19 @@
     "version": "HEAD-5e1e9ff-250624T161909"
   },
   {
+    "description": "Proto Store backed by Redis",
+    "name": "backup_cli",
+    "pkg_id": "backup_cli#github.com_brotherlogic_rstore",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.69.0"
+  },
+  {
     "description": "Go client for Scalingo API",
     "name": "backup_download",
     "pkg_id": "backup_download#github.com_Scalingo_go_scalingo",
@@ -62040,8 +62053,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-24",
-    "version": "v3.5.22"
+    "updated_at": "2025-09-21",
+    "version": "v3.5.23"
   },
   {
     "description": "LaunchDarkly Server-side SDK for Salesforce Apex",
@@ -62296,6 +62309,19 @@
     ],
     "updated_at": "2025-06-25",
     "version": "HEAD-4df7a1f-250625T143856"
+  },
+  {
+    "description": "Broadlink golang http server",
+    "name": "broadlinkgo",
+    "pkg_id": "broadlinkgo#github.com_drtimf_broadlinkgo",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250920095700-fe47abc855ab"
   },
   {
     "description": "A personal project repository focused on learning and implementing key concepts from Go (Golang). Each branch explores different features, improvements, and fixes related to core Go topics such as concurrency, error handling, data structures, and more",
@@ -81870,6 +81896,19 @@
     ],
     "updated_at": "2025-07-30",
     "version": "v0.0.0-20250712142512-6c0dfad18786"
+  },
+  {
+    "description": "Typing tui",
+    "name": "clatype",
+    "pkg_id": "clatype#github.com_cladamos_clatype",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250920125022-e90931136c87"
   },
   {
     "description": "Claude Code bridge to ntfy.sh",
@@ -106012,6 +106051,19 @@
     ],
     "updated_at": "2025-06-22",
     "version": "HEAD-264e2f3-250417T143014"
+  },
+  {
+    "description": "Skoleni Kubernetes",
+    "name": "cpu-hard",
+    "pkg_id": "cpu-hard#github.com_ondrejsika_kubernetes_training",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250915155819-e65af10e611f"
   },
   {
     "description": "System Programming Essentials with Go, published by Packt",
@@ -139724,6 +139776,18 @@
     "version": "v0.0.0-20250628033556-bb5666c9c22e"
   },
   {
+    "description": "Push data from Energy Count 3000 / RT-110 to Home Assistant via MQTT using a JeeLink",
+    "name": "ec2mqtt",
+    "pkg_id": "ec2mqtt#github.com_mback2k_ec2mqtt",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250919204623-18620b929058"
+  },
+  {
     "description": "EC2 price comparison cli tool",
     "name": "ec2price",
     "pkg_id": "ec2price#github.com_psanford_ec2price",
@@ -151717,6 +151781,19 @@
     "version": "HEAD-dc709c0-250627T173055"
   },
   {
+    "description": "Example from K&D chapter 9, concurrency with share variables - race conditions; semaphor",
+    "name": "examples-ch9bank2",
+    "pkg_id": "examples-ch9bank2#github.com_jerberlin_examples_ch9bank2",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250920175754-49661da7e330"
+  },
+  {
     "description": "Random fake data generator written in go",
     "name": "exampleupdate",
     "pkg_id": "exampleupdate#github.com_brianvoe_gofakeit",
@@ -160904,6 +160981,17 @@
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-d7312d1-221118T222111"
+  },
+  {
+    "description": "Tools to analyze the effects of Go PGO builds",
+    "name": "filter",
+    "pkg_id": "filter#github.com_prattmic_pgo_analysis",
+    "targets": [
+      "aarch64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250917154228-c61e05847e78"
   },
   {
     "description": "Terraform provider for managing Snowflake accounts",
@@ -178578,8 +178666,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-09-02",
-    "version": "v0.0.0-20250815133523-2f26b1c3d7e9"
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250829160155-874dee720acf"
   },
   {
     "description": "Tacquito is an open source TACACs+ server written in Go that implements RFC8907",
@@ -179738,6 +179826,19 @@
     ],
     "updated_at": "2025-07-04",
     "version": "v0.0.0-20250702214350-bac1c1dff445"
+  },
+  {
+    "description": "Overthinking per-bool size overhead? Turn bool-heavy structs into compact, typed bitflags for Go — fast, zero-alloc, and go:generate–friendly",
+    "name": "genflagged",
+    "pkg_id": "genflagged#github.com_asmsh_flagged_cmd_genflagged",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250920143527-eb2ecfe9361f"
   },
   {
     "description": "Autonity Go Client _AGC_",
@@ -193117,6 +193218,19 @@
     "version": "v0.0.0-20250915012143-7174e68e781c"
   },
   {
+    "description": "Retrieve and forward e-mails between IMAP servers",
+    "name": "go-getmail",
+    "pkg_id": "go-getmail#github.com_mback2k_go_getmail",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250920194343-6bf8c12e003d"
+  },
+  {
     "description": "Package for downloading things from a string URL using a variety of protocols.",
     "name": "go-getter",
     "pkg_id": "go-getter#github.com_hashicorp_go_getter",
@@ -193712,6 +193826,19 @@
     ],
     "updated_at": "2025-08-13",
     "version": "v0.0.0-20250621055555-52503267dd86"
+  },
+  {
+    "description": "Simplified JSON Patch (RFC 6902) apply function for Go with support for some extensions",
+    "name": "go-jsonpatch",
+    "pkg_id": "go-jsonpatch#github.com_flitsinc_go_jsonpatch",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250920192846-470f7093145e"
   },
   {
     "description": "Sandbox service built on Linux container technologies with simple REST and gRPC API",
@@ -196541,6 +196668,19 @@
     ],
     "updated_at": "2025-06-22",
     "version": "HEAD-28dfc5f-250620T175957"
+  },
+  {
+    "description": "Pure Go implementation of the TCGplayer API",
+    "name": "go-tcgplayer",
+    "pkg_id": "go-tcgplayer#github.com_mtgban_go_tcgplayer",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.1"
   },
   {
     "description": "Micro_service Demo",
@@ -208394,6 +208534,19 @@
     ],
     "updated_at": "2025-07-15",
     "version": "v0.0.0-20250714144901-83a09e910bb8"
+  },
+  {
+    "description": "GoStint API client and commandline tool - https://goethite.github.io/gostint",
+    "name": "gostint-client",
+    "pkg_id": "gostint-client#github.com_goethite_gostint_client",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.1.0"
   },
   {
     "description": "GoStorm is a Go library that implements the communications protocol required to write Storm spouts and Bolts in Go that communicate with the Storm shells.",
@@ -222318,6 +222471,18 @@
     "version": "v0.0.0-20250610210140-1f5b91467b8f"
   },
   {
+    "description": "Observability for your AWS load balancers, CloudFront, and more",
+    "name": "honeyalb",
+    "pkg_id": "honeyalb#github.com_honeycombio_honeyelb",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v1.4.0"
+  },
+  {
     "description": "Gostuff",
     "name": "honeybee",
     "pkg_id": "honeybee#github.com_ryanharper_gostuff",
@@ -222331,6 +222496,30 @@
     "version": "v0.0.0-20250611081446-40975f0ee679"
   },
   {
+    "description": "Observability for your AWS load balancers, CloudFront, and more",
+    "name": "honeycloudfront",
+    "pkg_id": "honeycloudfront#github.com_honeycombio_honeyelb",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v1.4.0"
+  },
+  {
+    "description": "Observability for your AWS load balancers, CloudFront, and more",
+    "name": "honeycloudtrail",
+    "pkg_id": "honeycloudtrail#github.com_honeycombio_honeyelb",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v1.4.0"
+  },
+  {
     "description": "Signature based honeypot detector tool written in Golang",
     "name": "honeydet",
     "pkg_id": "honeydet#github.com_referefref_honeydet",
@@ -222342,6 +222531,18 @@
     ],
     "updated_at": "2025-06-21",
     "version": "HEAD-27b0960-250322T161956"
+  },
+  {
+    "description": "Observability for your AWS load balancers, CloudFront, and more",
+    "name": "honeyelb",
+    "pkg_id": "honeyelb#github.com_honeycombio_honeyelb",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v1.4.0"
   },
   {
     "description": "The benjojo.co.uk fork of honk",
@@ -257564,6 +257765,19 @@
     "version": "HEAD-e7acda6-250626T164502"
   },
   {
+    "description": "Gno: An interpreted, stack-based Go virtual machine to build succinct and composable apps + gno.land: a blockchain for timeless code and fair open-source",
+    "name": "linter",
+    "pkg_id": "linter#github.com_gnolang_gno_misc_docs_tools_linter",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250919042539-e0b2d02e8d4e"
+  },
+  {
     "description": "General purpose linter for structured configuration data powered by Jsonnet. Support various formats such as JSON, YAML, HCL, etc. You can reuse and distribute lint rules easily",
     "name": "lintnet",
     "pkg_id": "lintnet#github.com_lintnet_lintnet",
@@ -259345,6 +259559,19 @@
     ],
     "updated_at": "2025-08-10",
     "version": "v0.0.0-20250725070858-68c97e3d8278"
+  },
+  {
+    "description": "Skoleni Kubernetes",
+    "name": "liveness",
+    "pkg_id": "liveness#github.com_ondrejsika_kubernetes_training",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250915155819-e65af10e611f"
   },
   {
     "description": "COSI driver for Huawei Storage",
@@ -293461,6 +293688,19 @@
     "version": "HEAD-a68272b-250616T014113"
   },
   {
+    "description": "Generate a NixOS config from a Docker Compose project",
+    "name": "nixose",
+    "pkg_id": "nixose#github.com_aksiksi_nixose",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.3.2"
+  },
+  {
     "description": "A matrix bot to get notified of nixpkgs-update build failures",
     "name": "nixpkgs-update-notifier",
     "pkg_id": "nixpkgs-update-notifier#github.com_asymmetric_nixpkgs_update_notifier",
@@ -294139,6 +294379,19 @@
     ],
     "updated_at": "2025-06-27",
     "version": "HEAD-f687bf2-250627T074945"
+  },
+  {
+    "description": "Workspace for experimenting with Cloud-Native technologies, tooling, patterns, focusing on Kubernetes and its ecosystem",
+    "name": "node-daemon",
+    "pkg_id": "node-daemon#github.com_davidandw190_k8s_lab_custom_scheduler",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250711101008-d5bbc3764274"
   },
   {
     "description": "PodPacemaker is a Kubernetes operator designed to manage the rate at which pods are initiated on a specific node.",
@@ -299495,6 +299748,19 @@
     "version": "HEAD-0c246e0-250626T115142"
   },
   {
+    "description": "Efficient trigram-markov-chain procedural name generator with offline code generator",
+    "name": "offline",
+    "pkg_id": "offline#github.com_ishani_markovich_offline",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250608202205-1b5192f448db"
+  },
+  {
     "description": "Demonstration of a browser connecting to Pion WebRTC without a signaling server",
     "name": "offline-browser-communication",
     "pkg_id": "offline-browser-communication#github.com_pion_offline_browser_communication",
@@ -300709,6 +300975,19 @@
     ],
     "updated_at": "2025-09-02",
     "version": "v0.0.0-20250610215413-143db03aff66"
+  },
+  {
+    "description": "Pm2 like tool to run commands and see status on ui",
+    "name": "onepage",
+    "pkg_id": "onepage#github.com_ikouchiha47_swissknife",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250208201448-7d1f3627581d"
   },
   {
     "description": "Declare your secrets including how they are retrieved",
@@ -304032,6 +304311,18 @@
     "version": "v0.0.0-20250725135511-bafc2e2130aa"
   },
   {
+    "description": "Yorc plugin allowing the orchestrator to dynamically set the locations where to allocate infrastructure resources during the workflow execution, according to placement computations done by LEXIS WP4 Business Logic Unit",
+    "name": "orch-service-yorc-dynamic-orchestration-plugin",
+    "pkg_id": "orch-service-yorc-dynamic-orchestration-plugin#github.com_lexis_project_orch_service_yorc_dynamic_orchestration_plugin",
+    "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v1.0.0"
+  },
+  {
     "description": "Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices",
     "name": "orchard",
     "pkg_id": "orchard#github.com_cirruslabs_orchard",
@@ -305709,6 +306000,16 @@
     ],
     "updated_at": "2025-06-30",
     "version": "v0.0.0-20250624133324-f4fda62f4401"
+  },
+  {
+    "description": "数据链路为蓝鲸监控平台提供通用统一的数据采集、转换和存查能力",
+    "name": "ottracesjson",
+    "pkg_id": "ottracesjson#github.com_tencentblueking_bkmonitor_datalink_pkg_collector_example_ottracesjson",
+    "targets": [
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250910102109-1bb24273f624"
   },
   {
     "description": "A concourse resource for creating and updating Grafana annotations, now maintained by GOV.UK Pay",
@@ -307615,6 +307916,19 @@
     ],
     "updated_at": "2025-06-24",
     "version": "HEAD-4664b24-250624T083515"
+  },
+  {
+    "description": "Pm2 like tool to run commands and see status on ui",
+    "name": "paged",
+    "pkg_id": "paged#github.com_ikouchiha47_swissknife",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250208201448-7d1f3627581d"
   },
   {
     "description": "No Description Provided",
@@ -313447,6 +313761,17 @@
     "version": "v0.0.0-20250910035139-258f438a3bbd"
   },
   {
+    "description": "Tools to analyze the effects of Go PGO builds",
+    "name": "pgo-analysis",
+    "pkg_id": "pgo-analysis#github.com_prattmic_pgo_analysis",
+    "targets": [
+      "aarch64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250917154228-c61e05847e78"
+  },
+  {
     "description": "Convert PGP/GPG private keys to SSH private keys",
     "name": "pgp2ssh",
     "pkg_id": "pgp2ssh#github.com_pinpox_pgp2ssh",
@@ -313575,6 +313900,19 @@
     ],
     "updated_at": "2025-07-22",
     "version": "v0.0.0-20250711182151-bdd757a1aa09"
+  },
+  {
+    "description": "Postgres version of pstore",
+    "name": "pgstore",
+    "pkg_id": "pgstore#github.com_brotherlogic_pgstore",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.32.0"
   },
   {
     "description": "PostgreSQL replication with DDL changes",
@@ -316994,8 +317332,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-08-26",
-    "version": "v0.0.0-20250813145248-8aab1bf684fe"
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250911092302-456768ac7aea"
   },
   {
     "description": "No Description Provided",
@@ -322303,6 +322641,19 @@
     ],
     "updated_at": "2025-09-20",
     "version": "v0.0.0-20250919151402-5382e8f865c9"
+  },
+  {
+    "description": "Mirror] The Go Playground",
+    "name": "precompile",
+    "pkg_id": "precompile#github.com_golang_playground",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250911092302-456768ac7aea"
   },
   {
     "description": "A new repository for Subnet-EVM Stateful Precompiles",
@@ -338759,6 +339110,19 @@
     "version": "HEAD-7020082-250409T150906"
   },
   {
+    "description": "Polardbx-engine is a MySQL branch originated from Alibaba Group, especially supports large-scale distributed database system",
+    "name": "raw",
+    "pkg_id": "raw#github.com_polardb_polardbx_engine_client_transfer_test",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250822095552-966da490069f"
+  },
+  {
     "description": "Helper Libraries",
     "name": "raw",
     "pkg_id": "raw#github.com_projectdiscovery_utils",
@@ -340086,6 +340450,19 @@
     "version": "HEAD-36da1eb-250623T151525"
   },
   {
+    "description": "Skoleni Kubernetes",
+    "name": "readiness",
+    "pkg_id": "readiness#github.com_ondrejsika_kubernetes_training",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250915155819-e65af10e611f"
+  },
+  {
     "description": "A collection of little snippets of programs I write when I test out ideas. A code _playground_.",
     "name": "reading-files",
     "pkg_id": "reading-files#github.com_cedrickchee_experiments",
@@ -340509,6 +340886,19 @@
     ],
     "updated_at": "2025-06-22",
     "version": "HEAD-12e242c-241101T083352"
+  },
+  {
+    "description": "A simple terminal-based bar graph plotter",
+    "name": "realplot",
+    "pkg_id": "realplot#github.com_charadev96_realplot",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250920145731-1d46875bed81"
   },
   {
     "description": "A repository to host examples and tutorials for Gin.",
@@ -341348,6 +341738,19 @@
     ],
     "updated_at": "2025-08-10",
     "version": "v0.0.0-20250602082547-857724dc116a"
+  },
+  {
+    "description": "Polardbx-engine is a MySQL branch originated from Alibaba Group, especially supports large-scale distributed database system",
+    "name": "recover_all",
+    "pkg_id": "recover_all#github.com_polardb_polardbx_engine_client_transfer_test",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250822095552-966da490069f"
   },
   {
     "description": "A Golang linter to check if goroutines have a recover check to recover it from panics",
@@ -346153,6 +346556,17 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-393ac0d-241207T225124"
+  },
+  {
+    "description": "Tools to analyze the effects of Go PGO builds",
+    "name": "rename",
+    "pkg_id": "rename#github.com_prattmic_pgo_analysis",
+    "targets": [
+      "aarch64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250917154228-c61e05847e78"
   },
   {
     "description": "Random utilities",
@@ -353907,6 +354321,32 @@
     "version": "v0.0.0-20250619111307-7a66c30f35aa"
   },
   {
+    "description": "Proto Store backed by Redis",
+    "name": "rstore",
+    "pkg_id": "rstore#github.com_brotherlogic_rstore",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.69.0"
+  },
+  {
+    "description": "Proto Store backed by Redis",
+    "name": "rstore_cli",
+    "pkg_id": "rstore_cli#github.com_brotherlogic_rstore",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.69.0"
+  },
+  {
     "description": "Package your Risor scripts into a standalone Go binary",
     "name": "rsx",
     "pkg_id": "rsx#github.com_rubiojr_rsx",
@@ -358854,6 +359294,19 @@
     "version": "HEAD-92cf352-250627T134545"
   },
   {
+    "description": "Workspace for experimenting with Cloud-Native technologies, tooling, patterns, focusing on Kubernetes and its ecosystem",
+    "name": "scheduler",
+    "pkg_id": "scheduler#github.com_davidandw190_k8s_lab_custom_scheduler",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250711101008-d5bbc3764274"
+  },
+  {
     "description": "A docker-powered PaaS that helps you build and manage the lifecycle of applications",
     "name": "scheduler",
     "pkg_id": "scheduler#github.com_dokku_dokku_plugins_scheduler",
@@ -360910,6 +361363,19 @@
     ],
     "updated_at": "2025-06-25",
     "version": "HEAD-cef1e0c-250624T071306"
+  },
+  {
+    "description": "Proto Store backed by Redis",
+    "name": "scripts",
+    "pkg_id": "scripts#github.com_brotherlogic_rstore",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.69.0"
   },
   {
     "description": "Fast directory traversal for Golang",
@@ -382008,6 +382474,19 @@
     "version": "HEAD-e004166-250624T154953"
   },
   {
+    "description": "Simple SSH-based secure chat room for groups",
+    "name": "softroom",
+    "pkg_id": "softroom#github.com_sibexico_softroom",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.1"
+  },
+  {
     "description": "SoftTube - An YouTube client written in go",
     "name": "softtube.cleanup",
     "pkg_id": "softtube.cleanup#github.com_hultan_softtube",
@@ -386875,6 +387354,19 @@
     "version": "v0.0.0-20250915201634-7a3437b733c0"
   },
   {
+    "description": "Go static site generator",
+    "name": "ssgen",
+    "pkg_id": "ssgen#github.com_ktravis_ssgen",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250920234834-ceef6a2fec32"
+  },
+  {
     "description": "A collection of random Go code",
     "name": "ssgodatabyip",
     "pkg_id": "ssgodatabyip#github.com_database64128_cubic_go_playground",
@@ -391182,8 +391674,8 @@
       "riscv64-Linux",
       "x86_64-Linux"
     ],
-    "updated_at": "2025-07-24",
-    "version": "v3.5.22"
+    "updated_at": "2025-09-21",
+    "version": "v3.5.23"
   },
   {
     "description": "All-in-One Backend as a Service with Headless CMS Power",
@@ -400263,6 +400755,19 @@
     ],
     "updated_at": "2025-06-29",
     "version": "HEAD-ea5704b-250628T170421"
+  },
+  {
+    "description": "Pure Golang implementation of server-side ECMR exchange functionality (Tang server",
+    "name": "tang.go",
+    "pkg_id": "tang.go#github.com_anatol_tang.go",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250920193351-e505ad2c76db"
   },
   {
     "description": "Dockerized Deployment",
@@ -411712,6 +412217,19 @@
     "version": "v1.29.7-rc.3"
   },
   {
+    "description": "Enhanced test coverage UI for go",
+    "name": "testviz",
+    "pkg_id": "testviz#github.com_cjea_testviz",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.3"
+  },
+  {
     "description": "Podman: A tool for managing OCI containers and pods.",
     "name": "testvol",
     "pkg_id": "testvol#github.com_containers_podman",
@@ -411838,6 +412356,19 @@
     ],
     "updated_at": "2025-06-20",
     "version": "HEAD-393ac0d-241207T225124"
+  },
+  {
+    "description": "Pm2 like tool to run commands and see status on ui",
+    "name": "text",
+    "pkg_id": "text#github.com_ikouchiha47_swissknife",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250208201448-7d1f3627581d"
   },
   {
     "description": "Vector graphics in Go",
@@ -421084,6 +421615,19 @@
     "version": "HEAD-0bd32aa-250618T225519"
   },
   {
+    "description": "Polardbx-engine is a MySQL branch originated from Alibaba Group, especially supports large-scale distributed database system",
+    "name": "transfer",
+    "pkg_id": "transfer#github.com_polardb_polardbx_engine_client_transfer_test",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250822095552-966da490069f"
+  },
+  {
     "description": "Easy and fast file sharing from the command-line.",
     "name": "transfer.sh",
     "pkg_id": "transfer.sh#github.com_dutchcoders_transfer.sh",
@@ -423414,6 +423958,19 @@
     ],
     "updated_at": "2025-06-19",
     "version": "HEAD-e253746-250605T192711"
+  },
+  {
+    "description": "Polardbx-engine is a MySQL branch originated from Alibaba Group, especially supports large-scale distributed database system",
+    "name": "tso_server",
+    "pkg_id": "tso_server#github.com_polardb_polardbx_engine_client_transfer_test",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v0.0.0-20250822095552-966da490069f"
   },
   {
     "description": "Time aeries plot. 绘制时序数据折线图的简单工具",
@@ -449304,6 +449861,19 @@
     ],
     "updated_at": "2025-09-13",
     "version": "v0.0.0-20250717225845-26988db82cfa"
+  },
+  {
+    "description": "CVC word set generator project",
+    "name": "wordscvc",
+    "pkg_id": "wordscvc#github.com_gilwo_wordscvc",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-21",
+    "version": "v1.0.2"
   },
   {
     "description": "A command-line wordsearch puzzle generator that uses my Go wordsearch package",
