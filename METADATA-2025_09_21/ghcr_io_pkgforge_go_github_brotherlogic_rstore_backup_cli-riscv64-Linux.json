@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "backup_cli",
+  "pkg_family": "rstore",
+  "pkg_id": "backup_cli#github.com_brotherlogic_rstore",
+  "pkg_name": "backup_cli",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/brotherlogic/rstore",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Proto Store backed by Redis",
+  "homepage": [
+    "https://github.com/brotherlogic/rstore"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "backup_cli",
+    "rstore",
+    "rstore_cli",
+    "scripts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/brotherlogic/rstore/@v/v0.69.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.69.0",
+  "version_upstream": "",
+  "bsum": "6881889fe772677ff16b719dd87de030c0586756bbc0c3d3126830b727d64e77",
+  "build_date": "2025-09-21T03:56:07Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17888545514",
+  "build_id": "17888545514",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/brotherlogic/rstore/backup_cli?tag=v0.69.0-riscv64-Linux&download=backup_cli.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/brotherlogic/rstore/backup_cli?tag=v0.69.0-riscv64-Linux&download=backup_cli",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/brotherlogic/rstore/backup_cli:v0.69.0-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/brotherlogic/rstore/backup_cli",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/brotherlogic/rstore/backup_cli?tag=v0.69.0-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0ee6e60a6a9cc7b32019611582fa12a5dc82115d9b648317ef44b559b290ce42",
+  "size": "11 MB",
+  "size_raw": "10855720",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
