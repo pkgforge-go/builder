@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "bridge",
+  "pkg_family": "v3",
+  "pkg_id": "bridge#github.com_etcd_io_etcd_v3",
+  "pkg_name": "bridge",
+  "pkg_type": "static",
+  "pkg_webpage": "https://etcd.io",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+  "homepage": [
+    "https://etcd.io"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bridge",
+    "storage"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/coreos/etcd/v3/@v/v3.5.23.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v3.5.23",
+  "version_upstream": "",
+  "bsum": "0792b533183e485b51daab758790327e7706b978ebefaa6e8d1b6009f863a8e5",
+  "build_date": "2025-09-21T03:55:37Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17888545542",
+  "build_id": "17888545542",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/etcd-io/etcd/v3/bridge?tag=v3.5.23-riscv64-Linux&download=bridge.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "50340",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/etcd-io/etcd/v3/bridge?tag=v3.5.23-riscv64-Linux&download=bridge",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/etcd-io/etcd/v3/bridge:v3.5.23-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/etcd-io/etcd/v3/bridge",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/etcd-io/etcd/v3/bridge?tag=v3.5.23-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "2ec76af1bd7cd5134b5a574a8742eb8c2e5e2331d31ae6565a534dd45f3fdfd9",
+  "size": "2.5 MB",
+  "size_raw": "2586360",
+  "soar_syms": "false",
+  "snapshots": [
+    "v3.5.22-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
