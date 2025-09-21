@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "scheduler",
+  "pkg_family": "custom-scheduler",
+  "pkg_id": "scheduler#github.com_davidandw190_k8s_lab_custom_scheduler",
+  "pkg_name": "scheduler",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/davidandw190/k8s-lab",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Workspace for experimenting with Cloud-Native technologies, tooling, patterns, focusing on Kubernetes and its ecosystem",
+  "homepage": [
+    "https://github.com/davidandw190/k8s-lab"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "node-daemon",
+    "scheduler"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/davidandw190/k8s-lab/custom-scheduler/@v/v0.0.0-20250711101008-d5bbc3764274.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250711101008-d5bbc3764274",
+  "version_upstream": "",
+  "bsum": "bdcbc25c889f36042e6e65abcde869e4d7f7a3a45911a484d3e88d8a0ca38be8",
+  "build_date": "2025-09-21T04:00:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17888545888",
+  "build_id": "17888545888",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/davidandw190/k8s-lab/custom-scheduler/scheduler?tag=v0.0.0-20250711101008-d5bbc3764274-loongarch64-Linux&download=scheduler.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/davidandw190/k8s-lab/custom-scheduler/scheduler?tag=v0.0.0-20250711101008-d5bbc3764274-loongarch64-Linux&download=scheduler",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/davidandw190/k8s-lab/custom-scheduler/scheduler:v0.0.0-20250711101008-d5bbc3764274-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/davidandw190/k8s-lab/custom-scheduler/scheduler",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/davidandw190/k8s-lab/custom-scheduler/scheduler?tag=v0.0.0-20250711101008-d5bbc3764274-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "70c9a30b5e9bf8947023f882a69312c24ea55fa38dd240f6954795dd0d339bee",
+  "size": "45 MB",
+  "size_raw": "46932896",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
