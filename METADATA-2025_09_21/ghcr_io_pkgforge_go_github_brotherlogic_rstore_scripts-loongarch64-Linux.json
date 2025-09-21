@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "scripts",
+  "pkg_family": "rstore",
+  "pkg_id": "scripts#github.com_brotherlogic_rstore",
+  "pkg_name": "scripts",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/brotherlogic/rstore",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Proto Store backed by Redis",
+  "homepage": [
+    "https://github.com/brotherlogic/rstore"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "backup_cli",
+    "rstore",
+    "rstore_cli",
+    "scripts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/brotherlogic/rstore/@v/v0.69.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.69.0",
+  "version_upstream": "",
+  "bsum": "4a924d6a0e6e4df0d04522f6a4843d2e300f5261f9895404ac8712db03305c28",
+  "build_date": "2025-09-21T03:54:57Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17888545514",
+  "build_id": "17888545514",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/brotherlogic/rstore/scripts?tag=v0.69.0-loongarch64-Linux&download=scripts.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/brotherlogic/rstore/scripts?tag=v0.69.0-loongarch64-Linux&download=scripts",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/brotherlogic/rstore/scripts:v0.69.0-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/brotherlogic/rstore/scripts",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/brotherlogic/rstore/scripts?tag=v0.69.0-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4903cbd877d3d220de5fdd2417c749c15af43fc7e3ecb7f2d55c7e1ec608de5c",
+  "size": "11 MB",
+  "size_raw": "10593248",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
