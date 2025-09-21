@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cpu-hard",
+  "pkg_family": "kubernetes-training",
+  "pkg_id": "cpu-hard#github.com_ondrejsika_kubernetes_training",
+  "pkg_name": "cpu-hard",
+  "pkg_type": "static",
+  "pkg_webpage": "https://skoleni-kubernetes.cz",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Skoleni Kubernetes",
+  "homepage": [
+    "https://skoleni-kubernetes.cz"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cpu-hard",
+    "liveness",
+    "readiness"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/ondrejsika/kubernetes-training/@v/v0.0.0-20250915155819-e65af10e611f.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250915155819-e65af10e611f",
+  "version_upstream": "",
+  "bsum": "f2b18665bebd2159606205761e13d785499040cbaca102054a5a5d931153d260",
+  "build_date": "2025-09-21T04:19:25Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17888596536",
+  "build_id": "17888596536",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ondrejsika/kubernetes-training/cpu-hard?tag=v0.0.0-20250915155819-e65af10e611f-riscv64-Linux&download=cpu-hard.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "76",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ondrejsika/kubernetes-training/cpu-hard?tag=v0.0.0-20250915155819-e65af10e611f-riscv64-Linux&download=cpu-hard",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ondrejsika/kubernetes-training/cpu-hard:v0.0.0-20250915155819-e65af10e611f-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ondrejsika/kubernetes-training/cpu-hard",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ondrejsika/kubernetes-training/cpu-hard?tag=v0.0.0-20250915155819-e65af10e611f-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a7a1044fa93b3be8fc1ff5307dbfb788a54f17fdf611df0734bbfe614f9035fa",
+  "size": "5.6 MB",
+  "size_raw": "5841352",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
