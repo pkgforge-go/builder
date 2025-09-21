@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "rstore",
+  "pkg_family": "rstore",
+  "pkg_id": "rstore#github.com_brotherlogic_rstore",
+  "pkg_name": "rstore",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/brotherlogic/rstore",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Proto Store backed by Redis",
+  "homepage": [
+    "https://github.com/brotherlogic/rstore"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "backup_cli",
+    "rstore",
+    "rstore_cli",
+    "scripts"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/brotherlogic/rstore/@v/v0.69.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.69.0",
+  "version_upstream": "",
+  "bsum": "6471dba0a0a439c0914300cff3b3700c75ffedc7c18826dba1e3605bede30ca3",
+  "build_date": "2025-09-21T03:57:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17888545514",
+  "build_id": "17888545514",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/brotherlogic/rstore/rstore?tag=v0.69.0-aarch64-Linux&download=rstore.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/brotherlogic/rstore/rstore?tag=v0.69.0-aarch64-Linux&download=rstore",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/brotherlogic/rstore/rstore:v0.69.0-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/brotherlogic/rstore/rstore",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/brotherlogic/rstore/rstore?tag=v0.69.0-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b712755dc05c79c1f0274dd080bcd2f8097c8a94695363ae4d7417d6be3b9571",
+  "size": "20 MB",
+  "size_raw": "19966848",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
