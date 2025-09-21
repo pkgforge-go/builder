@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "tempsense-exporter",
+  "pkg_family": "tempsense-exporter",
+  "pkg_id": "tempsense-exporter#github.com_vgropp_tempsense_exporter",
+  "pkg_name": "tempsense-exporter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/vgropp/tempsense-exporter",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Prometheus-exporter and cli utility to read temperature from DS18B20 USB HID device",
+  "homepage": [
+    "https://github.com/vgropp/tempsense-exporter"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "tempsense-cli",
+    "tempsense-exporter"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/vgropp/tempsense-exporter/@v/v0.0.0-20250909211033-cd7d3782b19f.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250909211033-cd7d3782b19f",
+  "version_upstream": "",
+  "bsum": "a0ccd60aa9ab35875de39b0c133a3fef81f58012e3a5074363630ab095385088",
+  "build_date": "2025-09-21T04:29:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17888599074",
+  "build_id": "17888599074",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vgropp/tempsense-exporter/tempsense-exporter?tag=v0.0.0-20250909211033-cd7d3782b19f-aarch64-Linux&download=tempsense-exporter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vgropp/tempsense-exporter/tempsense-exporter?tag=v0.0.0-20250909211033-cd7d3782b19f-aarch64-Linux&download=tempsense-exporter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/vgropp/tempsense-exporter/tempsense-exporter:v0.0.0-20250909211033-cd7d3782b19f-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/vgropp/tempsense-exporter/tempsense-exporter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/vgropp/tempsense-exporter/tempsense-exporter?tag=v0.0.0-20250909211033-cd7d3782b19f-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c9393c4c44906a7d4a0091a93cdb67c3480494d77ebf3a41f9916973c888e73c",
+  "size": "8.7 MB",
+  "size_raw": "9118368",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
