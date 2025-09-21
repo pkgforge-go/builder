@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "awslim",
+  "pkg_family": "awslim",
+  "pkg_id": "awslim#github.com_fujiwara_awslim",
+  "pkg_name": "awslim",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fujiwara/awslim",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A simplified alternative to the AWS CLI for limited use cases",
+  "homepage": [
+    "https://github.com/fujiwara/awslim"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "awslim",
+    "awslim-gen",
+    "awslim-gen-gen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/fujiwara/awslim/@v/v0.4.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.4.1",
+  "version_upstream": "",
+  "bsum": "731d68d7420885bcc57c2fab7a692ce5059fe5a5a9d20b8bd7fe01a2cf7b1b9b",
+  "build_date": "2025-09-21T06:55:33Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17890264049",
+  "build_id": "17890264049",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fujiwara/awslim/awslim?tag=v0.4.1-aarch64-Linux&download=awslim.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "136",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fujiwara/awslim/awslim?tag=v0.4.1-aarch64-Linux&download=awslim",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fujiwara/awslim/awslim:v0.4.1-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fujiwara/awslim/awslim",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fujiwara/awslim/awslim?tag=v0.4.1-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "eff8568d416c5ea0151a3ddfb4b2210390b70ec063347406e318c7c5a5564246",
+  "size": "17 MB",
+  "size_raw": "16790112",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-262c066-250619T102037-aarch64-Linux",
+    "HEAD-7f49e15-250624T190803-aarch64-Linux",
+    "HEAD-5558639-250627T093914-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
