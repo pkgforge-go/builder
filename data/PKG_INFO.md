@@ -117,6 +117,7 @@
 - 🐹 **[distroless](https://github.com/googlecontainertools/distroless)**: Language focused docker images, minus the operating system.
 - 🐹 **[neon](https://neon.tech)**: Neon: Serverless Postgres.
 - 🐹 **[learngo](http://twitter.com/inancgumus)**: 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes.
+- 🐹 **[mise](https://mise.jdx.dev)**: Dev tools, env vars, task runner.
 - 🐹 **[gold](https://github.com/charmbracelet/gold)**: Render markdown on the CLI, with pizzazz.
 - 🐹 **[event-handler](https://goteleport.com)**: The easiest, and most secure way to access and protect all of your infrastructure.
 - 🐹 **[go-client](https://goteleport.com)**: The easiest, and most secure way to access and protect all of your infrastructure.
@@ -1394,6 +1395,7 @@
 - 🐹 **[go-drive](https://go-drive.top/)**: A simple cloud drive mapping web app supports local, FTP/SFTP, S3, OneDrive, WebDAV, Google Drive.
 - 🐹 **[basex](http://basex.org)**: BaseX Main Repository.
 - 🐹 **[mcp](https://github.com/cinar/indicator)**: Indicator Go delivers a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework.
+- 🐹 **[terragrunt-atlantis-config](https://transcend.io/blog/why-we-use-terragrunt)**: Generate Atlantis config for Terragrunt projects.
 - 🐹 **[gripmock](https://github.com/tokopedia/gripmock)**: GRPC Mock Server.
 - 🐹 **[oio-sds](https://www.openio.io)**: High Performance Software-Defined Object Storage for Big Data and AI, that supports Amazon S3 and Openstack Swift.
 - 🐹 **[protoc-gen-gripmock](https://github.com/tokopedia/gripmock)**: GRPC Mock Server.
