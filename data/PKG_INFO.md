@@ -193,6 +193,8 @@
 - 🐹 **[go](https://dagger.io)**: An open-source runtime for composable workflows.
 - 🐹 **[go](https://dagger.io)**: An open-source runtime for composable workflows.
 - 🐹 **[golangci](https://dagger.io)**: An open-source runtime for composable workflows.
+- 🐹 **[ifaces](https://dagger.io)**: An open-source runtime for composable workflows.
+- 🐹 **[impl](https://dagger.io)**: An open-source runtime for composable workflows.
 - 🐹 **[markdown](https://dagger.io)**: An open-source runtime for composable workflows.
 - 🐹 **[ps-analyzer](https://dagger.io)**: An open-source runtime for composable workflows.
 - 🐹 **[recorder](https://dagger.io)**: An open-source runtime for composable workflows.
@@ -530,6 +532,8 @@
 - 🐹 **[lambda](https://fleetdm.com)**: Open device management.
 - 🐹 **[remote-routing](http://proto.actor)**: Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin.
 - 🐹 **[fakeoidc](https://github.com/sigstore/cosign)**: Code signing and transparency for containers and binaries.
+- 🐹 **[pterm](https://pterm.sh)**: PTerm is a modern Go module to easily beautify console output.
+- 🐹 **[_s2sx](https://github.com/klauspost/compress)**: Optimized Go Compression Packages.
 - 🐹 **[helpers](https://docs.github.com/en/code-security/dependabot)**: Dependabot's core logic for creating update PRs.
 - 🐹 **[_generate](https://github.com/klauspost/compress)**: Optimized Go Compression Packages.
 - 🐹 **[_generate](https://github.com/klauspost/compress)**: Optimized Go Compression Packages.
@@ -738,6 +742,7 @@
 - 🐹 **[zeebe](https://camunda.com/platform/)**: Process Orchestration Framework.
 - 🐹 **[_examples](https://github.com/alecthomas/parser)**: A parser library for Go.
 - 🐹 **[wal-g](https://github.com/wal-g/wal-g)**: Archival and Restoration for databases in the Cloud.
+- 🐹 **[inngestctl](https://www.inngest.com/docs)**: The leading workflow orchestration platform.
 - 🐹 **[scripts](https://wakapi.dev)**: A minimalist, self-hosted WakaTime-compatible backend for coding statistics.
 - 🐹 **[back-end](https://aws.github.io/copilot-cli/)**: The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
 - 🐹 **[front-end](https://aws.github.io/copilot-cli/)**: The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
@@ -899,6 +904,7 @@
 - 🐹 **[plugins](https://github.com/containernetworking/plugins)**: Some reference and example networking plugins, maintained by the CNI team.
 - 🐹 **[glb-director-xdp](https://github.com/github/glb-director)**: GitHub Load Balancer Director and supporting tooling.
 - 🐹 **[glb-healthcheck](https://github.com/github/glb-director)**: GitHub Load Balancer Director and supporting tooling.
+- 🐹 **[autocommit_marks](https://github.com/twmb/franz-go)**: Franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.
 - 🐹 **[bench](https://github.com/twmb/franz-go)**: Franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.
 - 🐹 **[agent](https://github.com/aws/amazon-vpc-cni-k8s)**: Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS.
 - 🐹 **[container2wasm](https://ktock.github.io/container2wasm-demo/)**: Container to WASM converter.
