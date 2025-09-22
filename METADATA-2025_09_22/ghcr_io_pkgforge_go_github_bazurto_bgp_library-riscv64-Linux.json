@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "library",
+  "pkg_family": "bgp",
+  "pkg_id": "library#github.com_bazurto_bgp",
+  "pkg_name": "library",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/bazurto/bgp",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Bazurto Good Privacy",
+  "homepage": [
+    "https://github.com/bazurto/bgp"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "bgp-cmd",
+    "library"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/bazurto/bgp/@v/v1.0.2.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.2",
+  "version_upstream": "",
+  "bsum": "39103d2685c47bdf59c2df2e8fa0c684ec49ac766dbd78ca2f5b2e60f3c9cba3",
+  "build_date": "2025-09-22T03:52:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17903936792",
+  "build_id": "17903936792",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bazurto/bgp/library?tag=v1.0.2-riscv64-Linux&download=library.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bazurto/bgp/library?tag=v1.0.2-riscv64-Linux&download=library",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/bazurto/bgp/library:v1.0.2-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/bazurto/bgp/library",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/bazurto/bgp/library?tag=v1.0.2-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "32932700fbedd04ec9fb1437e3ac04a2cc3cca38c4298c8dcfee47633408dff9",
+  "size": "3.6 MB",
+  "size_raw": "3687528",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
