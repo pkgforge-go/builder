@@ -1,0 +1,65 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "metricsclientcheck",
+  "pkg_family": "snmpsim-check",
+  "pkg_id": "metricsclientcheck#github.com_inexio_snmpsim_check",
+  "pkg_name": "metricsclientcheck",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/inexio/snmpsim-check",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Monitoring check plugin for the snmpsim REST API (written in golang",
+  "homepage": [
+    "https://github.com/inexio/snmpsim-check"
+  ],
+  "license": [
+    "non-standard"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "managementclientcheck",
+    "metricsclientcheck"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/inexio/snmpsim-check/@v/v1.0.0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.0.0",
+  "version_upstream": "",
+  "bsum": "2f3e3d39b16568b9b4bc032901ccd05f00cd5b5951009fbc65c4145d31a05899",
+  "build_date": "2025-09-22T03:58:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17903938262",
+  "build_id": "17903938262",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/inexio/snmpsim-check/metricsclientcheck?tag=v1.0.0-aarch64-Linux&download=metricsclientcheck.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/inexio/snmpsim-check/metricsclientcheck?tag=v1.0.0-aarch64-Linux&download=metricsclientcheck",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/inexio/snmpsim-check/metricsclientcheck:v1.0.0-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/inexio/snmpsim-check/metricsclientcheck",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/inexio/snmpsim-check/metricsclientcheck?tag=v1.0.0-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "03353f46a00c8d5032c7e77015c8dd6497560274723af23d14cd7940482f00f4",
+  "size": "6.7 MB",
+  "size_raw": "7016288",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
