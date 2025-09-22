@@ -445724,6 +445724,8 @@
     "name": "webcam",
     "pkg_id": "webcam#github.com_vladimirvivien_go4vl_examples_webcam",
     "targets": [
+      "aarch64-Linux",
+      "riscv64-Linux",
       "x86_64-Linux"
     ],
     "updated_at": "2025-09-22",
@@ -457609,6 +457611,19 @@
     ],
     "updated_at": "2025-06-26",
     "version": "HEAD-5e1d3b5-250626T102343"
+  },
+  {
+    "description": "Error handling library with context, assertion, stack trace and source fragments",
+    "name": "zerolog",
+    "pkg_id": "zerolog#github.com_samber_oops_examples_zerolog",
+    "targets": [
+      "aarch64-Linux",
+      "loongarch64-Linux",
+      "riscv64-Linux",
+      "x86_64-Linux"
+    ],
+    "updated_at": "2025-09-22",
+    "version": "v0.0.0-20250902142136-058d517ffd2b"
   },
   {
     "description": "Example Code Snippets",
