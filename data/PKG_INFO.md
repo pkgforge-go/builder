@@ -15,6 +15,7 @@
 - 🐹 **[xattr](https://min.io/download?license=agpl&platform=linux)**: MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - 🐹 **[v3](https://etcd.io)**: Distributed reliable key-value store for the most critical data of a distributed system.
 - 🐹 **[v3](https://etcd.io)**: Distributed reliable key-value store for the most critical data of a distributed system.
+- 🐹 **[keeper](https://geth.ethereum.org)**: Go implementation of the Ethereum protocol.
 - 🐹 **[serverless](https://serverless.com)**: Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
 - 🐹 **[jaws](https://serverless.com)**: Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
 - 🐹 **[terraform](http://developer.hashicorp.com/terraform)**: Terraform enables you to safely and predictably create, change, and improve infrastructure.
@@ -60,6 +61,13 @@
 - 🐹 **[chunks-inspect](https://grafana.com/loki)**: Like Prometheus, but for logs.
 - 🐹 **[segment-inspect](https://grafana.com/loki)**: Like Prometheus, but for logs.
 - 🐹 **[lambda-promtail](https://grafana.com/loki)**: Like Prometheus, but for logs.
+- 🐹 **[server](https://seaweedfs.com)**: SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering.
+- 🐹 **[basic](https://www.iris-go.com)**: The fastest HTTP/2 Go Web Framework.
+- 🐹 **[h2c](https://www.iris-go.com)**: The fastest HTTP/2 Go Web Framework.
+- 🐹 **[http3-quic](https://www.iris-go.com)**: The fastest HTTP/2 Go Web Framework.
+- 🐹 **[json-third-party](https://www.iris-go.com)**: The fastest HTTP/2 Go Web Framework.
+- 🐹 **[socketio](https://www.iris-go.com)**: The fastest HTTP/2 Go Web Framework.
+- 🐹 **[webview](https://www.iris-go.com)**: The fastest HTTP/2 Go Web Framework.
 - 🐹 **[ci](https://github.com/sirupsen/logrus)**: Structured, pluggable logging for Go.
 - 🐹 **[_codegen](https://github.com/stretchr/testify)**: A toolkit with common assertions and mocks that plays nicely with the standard library.
 - 🐹 **[actor-activation-locker](https://dapr.io)**: Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.
@@ -107,6 +115,7 @@
 - 🐹 **[lua-scripting](https://redis.io)**: Redis Go client.
 - 🐹 **[otel](https://redis.io)**: Redis Go client.
 - 🐹 **[otel](https://redis.io)**: Redis Go client.
+- 🐹 **[pubsub](https://redis.io)**: Redis Go client.
 - 🐹 **[redis-bloom](https://redis.io)**: Redis Go client.
 - 🐹 **[scan-struct](https://redis.io)**: Redis Go client.
 - 🐹 **[scan-struct](https://redis.io)**: Redis Go client.
@@ -368,6 +377,7 @@
 - 🐹 **[godoc](https://golang.org/x/tools)**: Mirror] Go Tools.
 - 🐹 **[gobyexample](https://gobyexample.com)**: Go by Example.
 - 🐹 **[liteide](https://github.com/visualfc/liteide)**: LiteIDE is a simple, open source, cross-platform Go IDE.
+- 🐹 **[tutorial-basic-chat-app](https://tmc.github.io/langchaingo/)**: LangChain for Go, the easiest way to write LLM-based programs in Go.
 - 🐹 **[anthropic-completion-example](https://tmc.github.io/langchaingo/)**: LangChain for Go, the easiest way to write LLM-based programs in Go.
 - 🐹 **[anthropic-tool-call-example](https://tmc.github.io/langchaingo/)**: LangChain for Go, the easiest way to write LLM-based programs in Go.
 - 🐹 **[bedrock-claude3-vision-example](https://tmc.github.io/langchaingo/)**: LangChain for Go, the easiest way to write LLM-based programs in Go.
@@ -501,6 +511,7 @@
 - 🐹 **[check-issue](https://go-rod.github.io)**: A Chrome DevTools Protocol driver for web automation and scraping.
 - 🐹 **[custom-websocket](https://go-rod.github.io)**: A Chrome DevTools Protocol driver for web automation and scraping.
 - 🐹 **[athena](https://cloudquery.io)**: The open source ELT framework powered by Apache Arrow.
+- 🐹 **[table_diff](https://cloudquery.io)**: The open source ELT framework powered by Apache Arrow.
 - 🐹 **[v6](https://cloudquery.io)**: The open source ELT framework powered by Apache Arrow.
 - 🐹 **[v2](https://cloudquery.io)**: The open source ELT framework powered by Apache Arrow.
 - 🐹 **[v3](https://cloudquery.io)**: The open source ELT framework powered by Apache Arrow.
@@ -958,6 +969,7 @@
 - 🐹 **[platform-samples](https://github.com/github/platform-samples)**: A public place for all platform sample projects.
 - 🐹 **[azurite](https://github.com/azure/azurite)**: A lightweight server clone of Azure Storage that simulates most of the commands supported by it with minimal dependencies.
 - 🐹 **[ilogtail](https://observability.cn/project/loongcollector/readme/)**: Fast and Lightweight Observability Data Collector.
+- 🐹 **[go](https://osv.dev)**: Open source vulnerability DB and triage service.
 - 🐹 **[_gen](https://github.com/klauspost/reedsolomon)**: Reed-Solomon Erasure Coding in Go.
 - 🐹 **[pygments](http://pygments.org/)**: Pygments is a generic syntax highlighter written in Python.
 - 🐹 **[loongcollector](https://observability.cn/project/loongcollector/readme/)**: Fast and Lightweight Observability Data Collector.
@@ -968,6 +980,7 @@
 - 🐹 **[pool_context](https://github.com/alitto/pond)**: Minimalistic and High-performance goroutine worker pool written in Go.
 - 🐹 **[task_group](https://github.com/alitto/pond)**: Minimalistic and High-performance goroutine worker pool written in Go.
 - 🐹 **[nixery](https://nixery.dev/)**: Container registry which transparently builds images using the Nix package manager.
+- 🐹 **[playground](https://goccy.github.io/go-yaml)**: YAML support for the Go language.
 - 🐹 **[containers-from-scratch](http://lizrice.com)**: Writing a container in a few lines of Go code, as seen at DockerCon 2017 and on O'Reilly Safari.
 - 🐹 **[nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter)**: NGINX Prometheus Exporter for NGINX and NGINX Plus.
 - 🐹 **[nginx-prometheus-exporter](https://github.com/nginx/nginx-prometheus-exporter)**: NGINX Prometheus Exporter for NGINX and NGINX Plus.
@@ -1092,6 +1105,7 @@
 - 🐹 **[discord](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
 - 🐹 **[binfmt](https://github.com/tonistiigi/binfmt)**: Cross-platform emulator collection distributed with Docker images.
 - 🐹 **[_example](https://go-pkgz.umputun.dev/auth/)**: Authenticator via oauth2, direct, email and telegram.
+- 🐹 **[ucall](https://unum-cloud.github.io/ucall/)**: Web Serving and Remote Procedure Calls at 50x lower latency and 70x higher bandwidth than FastAPI, implementing JSON-RPC & REST over io_uring.
 - 🐹 **[tools](https://github.com/hexdigest/gowrap)**: GoWrap is a command line tool for generating decorators for Go interfaces.
 - 🐹 **[airtable](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
 - 🐹 **[brave](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
@@ -1133,6 +1147,7 @@
 - 🐹 **[multigres](https://multigres.com)**: Vitess for Postgres.
 - 🐹 **[protoc-gen-auth](https://pipecd.dev)**: The One CD for All {applications, platforms, operations.
 - 🐹 **[pacgo](https://github.com/danicat/pacgo)**: A Pac Man clone written in Go (with emojis.
+- 🐹 **[re2c](https://re2c.org)**: Lexer generator for C, C++, D, Go, Haskell, Java, JS, OCaml, Python, Rust, Swift, V and Zig.
 - 🐹 **[v2](https://go-doudou.github.io)**: Go-doudou（doudou pronounce /dəudəu/）is OpenAPI 3.
 - 🐹 **[kubectl-cypher](https://cyphernet.es)**: A Kubernetes Query Language.
 - 🐹 **[operator](https://cyphernet.es)**: A Kubernetes Query Language.
@@ -1485,6 +1500,7 @@
 - 🐹 **[cloudflare-controller](https://adyanth.site/posts/migration-compose-k8s/cloudflare-tunnel-operator-architecture/)**: A Kubernetes Operator to create and manage Cloudflare Tunnels and DNS records  for (HTTP/TCP/UDP*) Service Resources.
 - 🐹 **[example01](https://github.com/golang-queue/queue)**: Queue is a Golang library for spawning and managing a Goroutine pool.
 - 🐹 **[example02](https://github.com/golang-queue/queue)**: Queue is a Golang library for spawning and managing a Goroutine pool.
+- 🐹 **[contrib](https://github.com/godror/godror)**: GO DRiver for ORacle DB.
 - 🐹 **[kingfisher](https://github.com/mongodb/kingfisher)**: Kingfisher is a blazingly fast tool for secret detection and live validation across files, Git repos, S3, Docker images, Jira, Slack, and Confluence.
 - 🐹 **[hexreplace](https://github.com/suifei/fridare)**: 强大的 Frida 重打包工具，用于 iOS 和 Android。轻松修改 Frida 特征，增强隐蔽性，绕过检测。简化逆向工程和安全测试。Powerful Frida repackaging tool for iOS and Android.
 - 🐹 **[skill-icons](https://go-skill-icons.vercel.app)**: Fork" of official skill-icons repository.
