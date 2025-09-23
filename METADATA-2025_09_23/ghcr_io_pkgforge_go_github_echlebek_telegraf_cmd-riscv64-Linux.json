@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "cmd",
+  "pkg_family": "telegraf",
+  "pkg_id": "cmd#github.com_echlebek_telegraf",
+  "pkg_name": "cmd",
+  "pkg_type": "static",
+  "pkg_webpage": "https://influxdata.com/telegraf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data",
+  "homepage": [
+    "https://influxdata.com/telegraf"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "config_includer",
+    "custom_builder",
+    "examples",
+    "license_checker",
+    "package_incus_test",
+    "readme_config_includer",
+    "readme_linter",
+    "stress_test_write",
+    "telegraf",
+    "testcases",
+    "thrift_serialize",
+    "update_goversion"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/elisaedn/telegraf/@v/v1.0.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250717211217-e6185f1735a7",
+  "version_upstream": "",
+  "bsum": "b489b8e88b26deac8601d9e6f2de1dfc9331708f5c13e44b558b923da725bdef",
+  "build_date": "2025-09-23T04:02:04Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17935079705",
+  "build_id": "17935079705",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/echlebek/telegraf/cmd?tag=v0.0.0-20250717211217-e6185f1735a7-riscv64-Linux&download=cmd.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/echlebek/telegraf/cmd?tag=v0.0.0-20250717211217-e6185f1735a7-riscv64-Linux&download=cmd",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/echlebek/telegraf/cmd:v0.0.0-20250717211217-e6185f1735a7-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/echlebek/telegraf/cmd",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/echlebek/telegraf/cmd?tag=v0.0.0-20250717211217-e6185f1735a7-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ceba8e4d8a2a5ddc3e9339c0cb15afb34752c6d2378dfc4c2a1ee6d5cfa64cd9",
+  "size": "12 MB",
+  "size_raw": "11638408",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250717211217-e6185f1735a7-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
