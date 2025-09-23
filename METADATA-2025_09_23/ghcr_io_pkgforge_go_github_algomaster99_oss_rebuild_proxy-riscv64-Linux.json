@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "proxy",
+  "pkg_family": "oss-rebuild",
+  "pkg_id": "proxy#github.com_algomaster99_oss_rebuild",
+  "pkg_name": "proxy",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/algomaster99/oss-rebuild",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Securing open-source package ecosystems by originating, validating, and augmenting build attestations",
+  "homepage": [
+    "https://github.com/algomaster99/oss-rebuild"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "agent-api",
+    "analyzer",
+    "api",
+    "combine",
+    "ctl",
+    "flow",
+    "gateway",
+    "generate",
+    "git_cache",
+    "gsutil_writeonly",
+    "indexscan",
+    "inference",
+    "medic",
+    "oss-rebuild",
+    "proxy",
+    "pypi_rss",
+    "rebuilder",
+    "registryscan",
+    "run_local",
+    "stabilize",
+    "subscriber",
+    "timewarp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/algomaster99/oss-rebuild/@v/v0.0.0-20250919232541-8342a9329fbb.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250919232541-8342a9329fbb",
+  "version_upstream": "",
+  "bsum": "a438d4cdbe95385a7371a03129f59f8e18b4373b095f9bb8b4d2d5b65f3b4a49",
+  "build_date": "2025-09-23T04:07:49Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17935077822",
+  "build_id": "17935077822",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algomaster99/oss-rebuild/proxy?tag=v0.0.0-20250919232541-8342a9329fbb-riscv64-Linux&download=proxy.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algomaster99/oss-rebuild/proxy?tag=v0.0.0-20250919232541-8342a9329fbb-riscv64-Linux&download=proxy",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/algomaster99/oss-rebuild/proxy:v0.0.0-20250919232541-8342a9329fbb-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/algomaster99/oss-rebuild/proxy",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algomaster99/oss-rebuild/proxy?tag=v0.0.0-20250919232541-8342a9329fbb-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "8f35b6546a5e5e21b44a5869425d5e99cfbc699c9e5f4d91d540a29af2b2357f",
+  "size": "7.8 MB",
+  "size_raw": "8159176",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
