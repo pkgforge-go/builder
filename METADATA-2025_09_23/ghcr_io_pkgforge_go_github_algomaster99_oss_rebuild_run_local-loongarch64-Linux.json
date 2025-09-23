@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "run_local",
+  "pkg_family": "oss-rebuild",
+  "pkg_id": "run_local#github.com_algomaster99_oss_rebuild",
+  "pkg_name": "run_local",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/algomaster99/oss-rebuild",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Securing open-source package ecosystems by originating, validating, and augmenting build attestations",
+  "homepage": [
+    "https://github.com/algomaster99/oss-rebuild"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "agent-api",
+    "analyzer",
+    "api",
+    "combine",
+    "ctl",
+    "flow",
+    "gateway",
+    "generate",
+    "git_cache",
+    "gsutil_writeonly",
+    "indexscan",
+    "inference",
+    "medic",
+    "oss-rebuild",
+    "proxy",
+    "pypi_rss",
+    "rebuilder",
+    "registryscan",
+    "run_local",
+    "stabilize",
+    "subscriber",
+    "timewarp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/algomaster99/oss-rebuild/@v/v0.0.0-20250919232541-8342a9329fbb.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250919232541-8342a9329fbb",
+  "version_upstream": "",
+  "bsum": "835d2e41718bc41fd8bdece4ed54bbfdb686fee5e8aaffd462d137bb40351449",
+  "build_date": "2025-09-23T04:07:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17935077822",
+  "build_id": "17935077822",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algomaster99/oss-rebuild/run_local?tag=v0.0.0-20250919232541-8342a9329fbb-loongarch64-Linux&download=run_local.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algomaster99/oss-rebuild/run_local?tag=v0.0.0-20250919232541-8342a9329fbb-loongarch64-Linux&download=run_local",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/algomaster99/oss-rebuild/run_local:v0.0.0-20250919232541-8342a9329fbb-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/algomaster99/oss-rebuild/run_local",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algomaster99/oss-rebuild/run_local?tag=v0.0.0-20250919232541-8342a9329fbb-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a53ae946a870fde2e103c807d54912022e40948bcf7a4a714a5dfecf05eb2bd4",
+  "size": "2.1 MB",
+  "size_raw": "2099672",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
