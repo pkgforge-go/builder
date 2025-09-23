@@ -1,0 +1,86 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "subscriber",
+  "pkg_family": "oss-rebuild",
+  "pkg_id": "subscriber#github.com_algomaster99_oss_rebuild",
+  "pkg_name": "subscriber",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/algomaster99/oss-rebuild",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Securing open-source package ecosystems by originating, validating, and augmenting build attestations",
+  "homepage": [
+    "https://github.com/algomaster99/oss-rebuild"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "agent",
+    "agent-api",
+    "analyzer",
+    "api",
+    "combine",
+    "ctl",
+    "flow",
+    "gateway",
+    "generate",
+    "git_cache",
+    "gsutil_writeonly",
+    "indexscan",
+    "inference",
+    "medic",
+    "oss-rebuild",
+    "proxy",
+    "pypi_rss",
+    "rebuilder",
+    "registryscan",
+    "run_local",
+    "stabilize",
+    "subscriber",
+    "timewarp"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/algomaster99/oss-rebuild/@v/v0.0.0-20250919232541-8342a9329fbb.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250919232541-8342a9329fbb",
+  "version_upstream": "",
+  "bsum": "7b2eccbd1fed2cc8c1603a00c859396004f6abd40d843e81ed916fe640ee00ea",
+  "build_date": "2025-09-23T04:08:09Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17935077822",
+  "build_id": "17935077822",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algomaster99/oss-rebuild/subscriber?tag=v0.0.0-20250919232541-8342a9329fbb-x86_64-Linux&download=subscriber.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algomaster99/oss-rebuild/subscriber?tag=v0.0.0-20250919232541-8342a9329fbb-x86_64-Linux&download=subscriber",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/algomaster99/oss-rebuild/subscriber:v0.0.0-20250919232541-8342a9329fbb-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/algomaster99/oss-rebuild/subscriber",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/algomaster99/oss-rebuild/subscriber?tag=v0.0.0-20250919232541-8342a9329fbb-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a2d8c7fd8bb47e67b729b25e183d9f6d66a1235f48e600da1881886dc4803098",
+  "size": "35 MB",
+  "size_raw": "36650656",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
