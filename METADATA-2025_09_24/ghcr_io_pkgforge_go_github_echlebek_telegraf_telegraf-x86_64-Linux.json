@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "telegraf",
+  "pkg_family": "telegraf",
+  "pkg_id": "telegraf#github.com_echlebek_telegraf",
+  "pkg_name": "telegraf",
+  "pkg_type": "static",
+  "pkg_webpage": "https://influxdata.com/telegraf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data",
+  "homepage": [
+    "https://influxdata.com/telegraf"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "config_includer",
+    "custom_builder",
+    "examples",
+    "license_checker",
+    "package_incus_test",
+    "readme_config_includer",
+    "readme_linter",
+    "stress_test_write",
+    "telegraf",
+    "testcases",
+    "thrift_serialize",
+    "update_goversion"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/elisaedn/telegraf/@v/v1.0.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250717211217-e6185f1735a7",
+  "version_upstream": "",
+  "bsum": "9ae3deb7e3d7b5b439d241930218665b89dbeaebb0a5e7262c01d6009a643d8f",
+  "build_date": "2025-09-24T02:08:27Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17963873661",
+  "build_id": "17963873661",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/echlebek/telegraf/telegraf?tag=v0.0.0-20250717211217-e6185f1735a7-x86_64-Linux&download=telegraf.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/echlebek/telegraf/telegraf?tag=v0.0.0-20250717211217-e6185f1735a7-x86_64-Linux&download=telegraf",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/echlebek/telegraf/telegraf:v0.0.0-20250717211217-e6185f1735a7-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/echlebek/telegraf/telegraf",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/echlebek/telegraf/telegraf?tag=v0.0.0-20250717211217-e6185f1735a7-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "a5abbe66a1976d7021d8a088283aa8b812a106da03eacace7f2a9ea203575c61",
+  "size": "315 MB",
+  "size_raw": "329781360",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250717211217-e6185f1735a7-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
