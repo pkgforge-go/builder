@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "update_goversion",
+  "pkg_family": "telegraf",
+  "pkg_id": "update_goversion#github.com_echlebek_telegraf",
+  "pkg_name": "update_goversion",
+  "pkg_type": "static",
+  "pkg_webpage": "https://influxdata.com/telegraf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data",
+  "homepage": [
+    "https://influxdata.com/telegraf"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "config_includer",
+    "custom_builder",
+    "examples",
+    "license_checker",
+    "package_incus_test",
+    "readme_config_includer",
+    "readme_linter",
+    "stress_test_write",
+    "telegraf",
+    "testcases",
+    "thrift_serialize",
+    "update_goversion"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/elisaedn/telegraf/@v/v1.0.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250717211217-e6185f1735a7",
+  "version_upstream": "",
+  "bsum": "89983ce98d057253244b6a004a5541109e246dd4aab865d844dee66726ece12c",
+  "build_date": "2025-09-24T02:09:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17963873661",
+  "build_id": "17963873661",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/echlebek/telegraf/update_goversion?tag=v0.0.0-20250717211217-e6185f1735a7-riscv64-Linux&download=update_goversion.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/echlebek/telegraf/update_goversion?tag=v0.0.0-20250717211217-e6185f1735a7-riscv64-Linux&download=update_goversion",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/echlebek/telegraf/update_goversion:v0.0.0-20250717211217-e6185f1735a7-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/echlebek/telegraf/update_goversion",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/echlebek/telegraf/update_goversion?tag=v0.0.0-20250717211217-e6185f1735a7-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "92487521ef5b86f5122491065f5181dfa1b8b541d3c47e947c7a5a4e39ea8f96",
+  "size": "6.1 MB",
+  "size_raw": "6368872",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250717211217-e6185f1735a7-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
