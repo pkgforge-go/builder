@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "hperf",
+  "pkg_family": "hperf",
+  "pkg_id": "hperf#github.com_minio_hperf",
+  "pkg_name": "hperf",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/minio/hperf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Distributed HTTP Speed Test",
+  "homepage": [
+    "https://github.com/minio/hperf"
+  ],
+  "license": [
+    "AGPL-3.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "hperf"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/minio/hperf/@v/v0.0.0-20250922182457-85f4ba53063b.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250922182457-85f4ba53063b",
+  "version_upstream": "",
+  "bsum": "436dedc4dd80581ca21df892a8e9267c715261e14bee4e95edb1210eca4ea613",
+  "build_date": "2025-09-24T02:24:45Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17963932471",
+  "build_id": "17963932471",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/minio/hperf/hperf?tag=v0.0.0-20250922182457-85f4ba53063b-aarch64-Linux&download=hperf.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "58",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/minio/hperf/hperf?tag=v0.0.0-20250922182457-85f4ba53063b-aarch64-Linux&download=hperf",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/minio/hperf/hperf:v0.0.0-20250922182457-85f4ba53063b-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/minio/hperf/hperf",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/minio/hperf/hperf?tag=v0.0.0-20250922182457-85f4ba53063b-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b553bdbc8993e1776964a64d3bd03afec0362bca0489f11d91beb116aa85db6b",
+  "size": "13 MB",
+  "size_raw": "12878208",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250922182457-85f4ba53063b-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
