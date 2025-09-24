@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "thrift_serialize",
+  "pkg_family": "telegraf",
+  "pkg_id": "thrift_serialize#github.com_echlebek_telegraf",
+  "pkg_name": "thrift_serialize",
+  "pkg_type": "static",
+  "pkg_webpage": "https://influxdata.com/telegraf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data",
+  "homepage": [
+    "https://influxdata.com/telegraf"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "config_includer",
+    "custom_builder",
+    "examples",
+    "license_checker",
+    "package_incus_test",
+    "readme_config_includer",
+    "readme_linter",
+    "stress_test_write",
+    "telegraf",
+    "testcases",
+    "thrift_serialize",
+    "update_goversion"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/elisaedn/telegraf/@v/v1.0.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250717211217-e6185f1735a7",
+  "version_upstream": "",
+  "bsum": "4edd2575222aa0a3edf2a749fb47dc2e7429eb5a612571eb47e28c25a269a24c",
+  "build_date": "2025-09-24T02:10:54Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17963873661",
+  "build_id": "17963873661",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/echlebek/telegraf/thrift_serialize?tag=v0.0.0-20250717211217-e6185f1735a7-aarch64-Linux&download=thrift_serialize.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/echlebek/telegraf/thrift_serialize?tag=v0.0.0-20250717211217-e6185f1735a7-aarch64-Linux&download=thrift_serialize",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/echlebek/telegraf/thrift_serialize:v0.0.0-20250717211217-e6185f1735a7-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/echlebek/telegraf/thrift_serialize",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/echlebek/telegraf/thrift_serialize?tag=v0.0.0-20250717211217-e6185f1735a7-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b02b389e668af55854066b7a85447fb6116610024a295e440f8611965e08458a",
+  "size": "4.2 MB",
+  "size_raw": "4367840",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250717211217-e6185f1735a7-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
