@@ -1,0 +1,78 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "package_incus_test",
+  "pkg_family": "telegraf",
+  "pkg_id": "package_incus_test#github.com_echlebek_telegraf",
+  "pkg_name": "package_incus_test",
+  "pkg_type": "static",
+  "pkg_webpage": "https://influxdata.com/telegraf",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data",
+  "homepage": [
+    "https://influxdata.com/telegraf"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "cmd",
+    "config_includer",
+    "custom_builder",
+    "examples",
+    "license_checker",
+    "package_incus_test",
+    "readme_config_includer",
+    "readme_linter",
+    "stress_test_write",
+    "telegraf",
+    "testcases",
+    "thrift_serialize",
+    "update_goversion"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/elisaedn/telegraf/@v/v1.0.3.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250717211217-e6185f1735a7",
+  "version_upstream": "",
+  "bsum": "56989f4f897e4d1f7bc7219cc05b1d0d847d6b28650427c1eb9b296f1ff28e20",
+  "build_date": "2025-09-24T02:10:01Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17963873661",
+  "build_id": "17963873661",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/echlebek/telegraf/package_incus_test?tag=v0.0.0-20250717211217-e6185f1735a7-loongarch64-Linux&download=package_incus_test.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/echlebek/telegraf/package_incus_test?tag=v0.0.0-20250717211217-e6185f1735a7-loongarch64-Linux&download=package_incus_test",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/echlebek/telegraf/package_incus_test:v0.0.0-20250717211217-e6185f1735a7-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/echlebek/telegraf/package_incus_test",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/echlebek/telegraf/package_incus_test?tag=v0.0.0-20250717211217-e6185f1735a7-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b8f3023b072af088db6289ba019fbe87803e70c67750ce15f372a7420416c2e8",
+  "size": "15 MB",
+  "size_raw": "15479280",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250717211217-e6185f1735a7-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
