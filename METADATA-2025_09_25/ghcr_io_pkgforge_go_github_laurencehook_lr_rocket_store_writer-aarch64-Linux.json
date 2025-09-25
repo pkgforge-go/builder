@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "writer",
+  "pkg_family": "rocket-store",
+  "pkg_id": "writer#github.com_laurencehook_lr_rocket_store",
+  "pkg_name": "writer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/laurencehook-lr/rocket-store",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "High-performance KV store, s3 / kafka,  hexagonal architecture. Achieves 200k events/sec writes and sub-50ms lookups",
+  "homepage": [
+    "https://github.com/laurencehook-lr/rocket-store"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "producer",
+    "reader",
+    "segment_dump",
+    "writer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/laurencehook-lr/rocket-store/@v/v0.0.0-20250923221013-b797420901e0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250923221013-b797420901e0",
+  "version_upstream": "",
+  "bsum": "eb0fe9e0c7327d87cc48678cf50ecbd18a8ef46bf4cf4ccea3b25cbdd98e9e8c",
+  "build_date": "2025-09-25T04:40:32Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17996281688",
+  "build_id": "17996281688",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/laurencehook-lr/rocket-store/writer?tag=v0.0.0-20250923221013-b797420901e0-aarch64-Linux&download=writer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/laurencehook-lr/rocket-store/writer?tag=v0.0.0-20250923221013-b797420901e0-aarch64-Linux&download=writer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/laurencehook-lr/rocket-store/writer:v0.0.0-20250923221013-b797420901e0-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/laurencehook-lr/rocket-store/writer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/laurencehook-lr/rocket-store/writer?tag=v0.0.0-20250923221013-b797420901e0-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "841e783a2dc140f915a3b5f66adc4dcf4e8ad56e6f0dec9d4739dda8f788c3b3",
+  "size": "12 MB",
+  "size_raw": "12407520",
+  "soar_syms": "false",
+  "snapshots": [],
+  "trusted": "true"
+}
