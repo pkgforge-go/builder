@@ -1,0 +1,88 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "workload_identity",
+  "pkg_family": "gosnowflake",
+  "pkg_id": "workload_identity#github.com_carstonhernke_gosnowflake",
+  "pkg_name": "workload_identity",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/carstonhernke/gosnowflake",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go Snowflake Driver",
+  "homepage": [
+    "https://github.com/carstonhernke/gosnowflake"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "async",
+    "batches",
+    "connectionproxy",
+    "distributedfetch",
+    "externalbrowser",
+    "fetchresultbyid",
+    "filestransfer",
+    "keepalive",
+    "keypair",
+    "logger",
+    "mfa",
+    "multistatement",
+    "noconnpool",
+    "oauth",
+    "programmatic_access_token",
+    "select1",
+    "selectmany",
+    "showparam",
+    "tomlfileconnection",
+    "transform_batches_to_rows",
+    "variant",
+    "verifycert",
+    "workload_identity"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sfc-gh-gmerticariu/gosnowflake/@v/v0.0.0-20250911095445-20c4d105d9a0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250909095846-b3cb0a89a1db",
+  "version_upstream": "",
+  "bsum": "a725c28d5b6a3798e7f0319f573598a7cea1d48a571fd1ee344e7b5c4d208a9d",
+  "build_date": "2025-09-25T05:25:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/17996994870",
+  "build_id": "17996994870",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carstonhernke/gosnowflake/workload_identity?tag=v0.0.0-20250909095846-b3cb0a89a1db-riscv64-Linux&download=workload_identity.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carstonhernke/gosnowflake/workload_identity?tag=v0.0.0-20250909095846-b3cb0a89a1db-riscv64-Linux&download=workload_identity",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/carstonhernke/gosnowflake/workload_identity:v0.0.0-20250909095846-b3cb0a89a1db-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/carstonhernke/gosnowflake/workload_identity",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carstonhernke/gosnowflake/workload_identity?tag=v0.0.0-20250909095846-b3cb0a89a1db-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b7d1d92136f5fba2fdcb42dfff9ba9366ca34cd9147fc8491dd5532c10112712",
+  "size": "28 MB",
+  "size_raw": "28650472",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250909095846-b3cb0a89a1db-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
