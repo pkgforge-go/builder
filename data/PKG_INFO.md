@@ -240,6 +240,7 @@
 - 🐹 **[gource](https://gource.io)**: Software version control visualization.
 - 🐹 **[exactly_once](https://github.com/shopify/sarama)**: Sarama is a Go library for Apache Kafka.
 - 🐹 **[sasl_scram_client](https://github.com/shopify/sarama)**: Sarama is a Go library for Apache Kafka.
+- 🐹 **[sasl_scram_client](https://github.com/ibm/sarama)**: Sarama is a Go library for Apache Kafka.
 - 🐹 **[go-module-support](https://github.com/swaggo/swag)**: Automatically generate RESTful API documentation with Swagger 2.
 - 🐹 **[consumergroup](https://github.com/shopify/sarama)**: Sarama is a Go library for Apache Kafka.
 - 🐹 **[consumergroup](https://github.com/ibm/sarama)**: Sarama is a Go library for Apache Kafka.
@@ -430,6 +431,7 @@
 - 🐹 **[vertex-embedding-example](https://tmc.github.io/langchaingo/)**: LangChain for Go, the easiest way to write LLM-based programs in Go.
 - 🐹 **[watsonx-llm-example](https://tmc.github.io/langchaingo/)**: LangChain for Go, the easiest way to write LLM-based programs in Go.
 - 🐹 **[zapier-llm-example](https://tmc.github.io/langchaingo/)**: LangChain for Go, the easiest way to write LLM-based programs in Go.
+- 🐹 **[evmread-negative](https://chain.link)**: Node of the decentralized oracle network, bridging on and off-chain computation.
 - 🐹 **[cron](https://chain.link)**: Node of the decentralized oracle network, bridging on and off-chain computation.
 - 🐹 **[cron-based](https://chain.link)**: Node of the decentralized oracle network, bridging on and off-chain computation.
 - 🐹 **[evmread](https://chain.link)**: Node of the decentralized oracle network, bridging on and off-chain computation.
@@ -882,6 +884,7 @@
 - 🐹 **[bench](https://www.inspektor-gadget.io)**: Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF.
 - 🐹 **[dnstester](https://www.inspektor-gadget.io)**: Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF.
 - 🐹 **[go](https://www.inspektor-gadget.io)**: Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF.
+- 🐹 **[go](https://www.inspektor-gadget.io)**: Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF.
 - 🐹 **[testjson2md](https://www.inspektor-gadget.io)**: Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF.
 - 🐹 **[local-path-provisioner](https://github.com/rancher/local-path-provisioner)**: Dynamically provisioning persistent local storage with Kubernetes.
 - 🐹 **[picocrypt](https://github.com/hackeralert/picocrypt)**: A very small, very simple, yet very secure encryption tool.
@@ -951,6 +954,7 @@
 - 🐹 **[gnostic](https://github.com/googleapis/gnostic)**: A compiler for APIs described by the OpenAPI Specification with plugins for code generation and other API support tasks.
 - 🐹 **[jwx](https://github.com/lestrrat-go/jwx)**: Complete implementation of JWx (Javascript Object Signing and Encryption/JOSE) technologies for Go.
 - 🐹 **[oo](https://1backend.com)**: Self-hosted AI microservices platform & backend framework for building scalable, on-premise apps with built-in AI models.
+- 🐹 **[supercronic](https://github.com/aptible/supercronic)**: Cron for containers.
 - 🐹 **[dapper](https://1backend.com)**: Self-hosted AI microservices platform & backend framework for building scalable, on-premise apps with built-in AI models.
 - 🐹 **[server](https://1backend.com)**: AI-native microservices platform.
 - 🐹 **[simd](http://ermig1979.github.io/Simd)**: C++ image processing and machine learning library with using of SIMD: SSE, AVX, AVX-512, AMX  for x86/x64, NEON for ARM.
@@ -1178,6 +1182,7 @@
 - 🐹 **[galene](https://galene.org)**: The Galène videoconference server.
 - 🐹 **[cycletls](https://github.com/danny-dasilva/cycletls)**: Spoof TLS/JA3 fingerprints in GO and Javascript.
 - 🐹 **[testdata](https://github.com/klauspost/cpuid)**: CPU feature identification for Go.
+- 🐹 **[mapcidr](https://projectdiscovery.io)**: Utility program to perform multiple operations for a given subnet/CIDR ranges.
 - 🐹 **[journalctl_mock](https://dmitryfrank.com/projects/nerdlog/article)**: Nerdlog: fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server.
 - 🐹 **[go-tls](https://github.com/danny-dasilva/go-tls)**: Spoof TLS/JA3 fingerprints in GO and Javascript.
 - 🐹 **[duckdb-server-go](https://idl.uw.edu/mosaic/)**: An extensible framework for linking databases and interactive views.
@@ -1220,6 +1225,7 @@
 - 🐹 **[linter](https://gno.land/)**: Gno: An interpreted, stack-based Go virtual machine to build succinct and composable apps + gno.
 - 🐹 **[loop](https://gno.land/)**: Gno: An interpreted, stack-based Go virtual machine to build succinct and composable apps + gno.
 - 🐹 **[stdlib_diff](https://gno.land/)**: Gno: An interpreted, stack-based Go virtual machine to build succinct and composable apps + gno.
+- 🐹 **[tools](https://gno.land/)**: Gno: An interpreted, stack-based Go virtual machine to build succinct and composable apps + gno.
 - 🐹 **[account-gen](https://jfa-go.com)**: A bit-of-everything user managament app for Jellyfin.
 - 🐹 **[ini](https://jfa-go.com)**: A bit-of-everything user managament app for Jellyfin.
 - 🐹 **[gocoin](https://github.com/piotrnar/gocoin)**: Full bitcoin solution written in Go (golang.
@@ -1441,6 +1447,7 @@
 - 🐹 **[cni](https://developer.hashicorp.com/consul/docs/k8s)**: First-class support for Consul Service Mesh on Kubernetes.
 - 🐹 **[copy-crds-to-chart](https://developer.hashicorp.com/consul/docs/k8s)**: First-class support for Consul Service Mesh on Kubernetes.
 - 🐹 **[helm-reference-gen](https://developer.hashicorp.com/consul/docs/k8s)**: First-class support for Consul Service Mesh on Kubernetes.
+- 🐹 **[v3](https://github.com/incu6us/goimport-reviser)**: Right imports sorting & code formatting tool (goimports alternative.
 - 🐹 **[build](https://github.com/golang/build)**: Mirror] Go's continuous build and release infrastructure (no stability promises.
 - 🐹 **[maintserve](https://github.com/golang/build)**: Mirror] Go's continuous build and release infrastructure (no stability promises.
 - 🐹 **[tools](https://github.com/metal3-io/baremetal-operator)**: Bare metal host provisioning integration for Kubernetes.
@@ -1492,6 +1499,7 @@
 - 🐹 **[grpc-proxy](https://docs.temporal.io/docs/go)**: Temporal Go SDK samples.
 - 🐹 **[fastws](http://bit.ly/neffos-wiki)**: A modern, fast and scalable websocket framework with elegant API written in Go.
 - 🐹 **[ws](http://bit.ly/neffos-wiki)**: A modern, fast and scalable websocket framework with elegant API written in Go.
+- 🐹 **[v5](https://github.com/go-chi/jwtauth)**: JWT authentication middleware for Go HTTP services.
 - 🐹 **[samples-go](https://docs.temporal.io/docs/go)**: Temporal Go SDK samples.
 - 🐹 **[example](https://github.com/chainguard-images/images/images/ko/tests/example)**: Public Chainguard Images.
 - 🐹 **[actions-handler](https://docs.lagoon.sh/)**: Lagoon, the developer-focused application delivery platform.
@@ -2001,6 +2009,7 @@
 - 🐹 **[go-getting-started](https://devcenter.heroku.com/articles/getting-started-with-go)**: Getting Started with Go on Heroku.
 - 🐹 **[owi](https://ocamlpro.github.io/owi/)**: Symbolic execution for Wasm, C, C++, Rust and Zig.
 - 🐹 **[example](https://github.com/hallgren/eventsourcing/example)**: Event Sourcing in Go.
+- 🐹 **[goblog](https://goblog.app)**: Simple blogging system written in Go.
 - 🐹 **[src](https://github.com/qaware/protocurl)**: ProtoCURL is cURL for Protobuf: The command-line tool for interacting with Protobuf over HTTP REST endpoints using human-readable text formats.
 - 🐹 **[txtimg](https://github.com/jiro4989/txtimg)**: Command to convert from color text (ANSI or 256) to image.
 - 🐹 **[god](https://github.com/pioz/god)**: Automation tool to deploy and manage Go services using systemd on GNU/Linux machines.
