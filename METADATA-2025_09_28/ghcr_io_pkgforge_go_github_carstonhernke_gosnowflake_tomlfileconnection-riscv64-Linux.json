@@ -1,0 +1,88 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "tomlfileconnection",
+  "pkg_family": "gosnowflake",
+  "pkg_id": "tomlfileconnection#github.com_carstonhernke_gosnowflake",
+  "pkg_name": "tomlfileconnection",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/carstonhernke/gosnowflake",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go Snowflake Driver",
+  "homepage": [
+    "https://github.com/carstonhernke/gosnowflake"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "async",
+    "batches",
+    "connectionproxy",
+    "distributedfetch",
+    "externalbrowser",
+    "fetchresultbyid",
+    "filestransfer",
+    "keepalive",
+    "keypair",
+    "logger",
+    "mfa",
+    "multistatement",
+    "noconnpool",
+    "oauth",
+    "programmatic_access_token",
+    "select1",
+    "selectmany",
+    "showparam",
+    "tomlfileconnection",
+    "transform_batches_to_rows",
+    "variant",
+    "verifycert",
+    "workload_identity"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sfc-gh-gmerticariu/gosnowflake/@v/v0.0.0-20250911095445-20c4d105d9a0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250909095846-b3cb0a89a1db",
+  "version_upstream": "",
+  "bsum": "ee027969606421fce38b03266b4ecf6f8db39576097046f4d0479d7e6e3366ab",
+  "build_date": "2025-09-28T03:29:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/18068146228",
+  "build_id": "18068146228",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carstonhernke/gosnowflake/tomlfileconnection?tag=v0.0.0-20250909095846-b3cb0a89a1db-riscv64-Linux&download=tomlfileconnection.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carstonhernke/gosnowflake/tomlfileconnection?tag=v0.0.0-20250909095846-b3cb0a89a1db-riscv64-Linux&download=tomlfileconnection",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/carstonhernke/gosnowflake/tomlfileconnection:v0.0.0-20250909095846-b3cb0a89a1db-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/carstonhernke/gosnowflake/tomlfileconnection",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/carstonhernke/gosnowflake/tomlfileconnection?tag=v0.0.0-20250909095846-b3cb0a89a1db-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1f5b5f8337b699715220038dc15f40619fac039594749796d6061970b7a56aa7",
+  "size": "28 MB",
+  "size_raw": "28856968",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250909095846-b3cb0a89a1db-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
