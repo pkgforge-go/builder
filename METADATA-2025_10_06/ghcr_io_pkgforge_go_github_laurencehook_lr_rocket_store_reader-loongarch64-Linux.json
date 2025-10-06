@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "reader",
+  "pkg_family": "rocket-store",
+  "pkg_id": "reader#github.com_laurencehook_lr_rocket_store",
+  "pkg_name": "reader",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/laurencehook-lr/rocket-store",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "High-performance KV store, s3 / kafka,  hexagonal architecture. Achieves 200k events/sec writes and sub-50ms lookups",
+  "homepage": [
+    "https://github.com/laurencehook-lr/rocket-store"
+  ],
+  "license": [
+    "Blessing"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "producer",
+    "reader",
+    "segment_dump",
+    "writer"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/laurencehook-lr/rocket-store/@v/v0.0.0-20250923221013-b797420901e0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250923221013-b797420901e0",
+  "version_upstream": "",
+  "bsum": "a531e15729d9d20b6db796914d6bc0c49b37491bbdc10254e43a1dfc628e0248",
+  "build_date": "2025-10-06T02:43:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/18267838473",
+  "build_id": "18267838473",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/laurencehook-lr/rocket-store/reader?tag=v0.0.0-20250923221013-b797420901e0-loongarch64-Linux&download=reader.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/laurencehook-lr/rocket-store/reader?tag=v0.0.0-20250923221013-b797420901e0-loongarch64-Linux&download=reader",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/laurencehook-lr/rocket-store/reader:v0.0.0-20250923221013-b797420901e0-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/laurencehook-lr/rocket-store/reader",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/laurencehook-lr/rocket-store/reader?tag=v0.0.0-20250923221013-b797420901e0-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "d3637a6a69edc55e50bdb67f303524f400ef3f383fb0a7562a855b4e96b547c8",
+  "size": "11 MB",
+  "size_raw": "10574832",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250923221013-b797420901e0-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
