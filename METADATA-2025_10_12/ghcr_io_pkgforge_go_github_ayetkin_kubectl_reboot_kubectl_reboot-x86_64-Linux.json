@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "kubectl-reboot",
+  "pkg_family": "kubectl-reboot",
+  "pkg_id": "kubectl-reboot#github.com_ayetkin_kubectl_reboot",
+  "pkg_name": "kubectl-reboot",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/ayetkin/kubectl-reboot",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A kubectl plugin that safely restarts Kubernetes nodes by draining pods, rebooting via SSH, verifying the reboot, and uncordoning the nodes",
+  "homepage": [
+    "https://github.com/ayetkin/kubectl-reboot"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "kubectl-reboot"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/ayetkin/kubectl-reboot/@v/v1.1.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.1.1",
+  "version_upstream": "",
+  "bsum": "be4a22718339a1386fe19522a16af529055e4ef815aebf24174d65dfaac2aec5",
+  "build_date": "2025-10-12T02:00:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/18437523180",
+  "build_id": "18437523180",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ayetkin/kubectl-reboot/kubectl-reboot?tag=v1.1.1-x86_64-Linux&download=kubectl-reboot.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ayetkin/kubectl-reboot/kubectl-reboot?tag=v1.1.1-x86_64-Linux&download=kubectl-reboot",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/ayetkin/kubectl-reboot/kubectl-reboot:v1.1.1-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/ayetkin/kubectl-reboot/kubectl-reboot",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/ayetkin/kubectl-reboot/kubectl-reboot?tag=v1.1.1-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "c77a88e8e9d0cd5ae0e2c2781407dd4c385d26d6a246f66c80b37d2a7b56088f",
+  "size": "37 MB",
+  "size_raw": "38142688",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250923135603-b18f34a494b8-x86_64-Linux",
+    "v1.1.1-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
