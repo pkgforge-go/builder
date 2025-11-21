@@ -1,0 +1,98 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "modal",
+  "pkg_family": "tview",
+  "pkg_id": "modal#github.com_rivo_tview",
+  "pkg_name": "modal",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rivo/tview",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Terminal UI library with rich, interactive widgets — written in Golang",
+  "homepage": [
+    "https://github.com/rivo/tview"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "autocomplete",
+    "autocompleteasync",
+    "box",
+    "button",
+    "chat",
+    "checkbox",
+    "colors",
+    "dropdown",
+    "dropdownx",
+    "flex",
+    "form",
+    "frame",
+    "grid",
+    "image",
+    "inputfield",
+    "list",
+    "listx",
+    "modal",
+    "modal_form",
+    "modal_list",
+    "pages",
+    "presentation",
+    "primitive",
+    "table",
+    "textarea",
+    "textview",
+    "treeview",
+    "unicode",
+    "virtualtable"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/dissoupov/tview/@v/v0.0.0-20251010170340-69142db1845a.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250916163949-0b5989b59ce6",
+  "version_upstream": "",
+  "bsum": "a72d02f567774f42c5655fe747ba3f16f88eaa75a62b5dc099bee1dceb3a5fc1",
+  "build_date": "2025-11-21T02:10:18Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/19557245078",
+  "build_id": "19557245078",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rivo/tview/modal?tag=v0.0.0-20250916163949-0b5989b59ce6-riscv64-Linux&download=modal.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12823",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rivo/tview/modal?tag=v0.0.0-20250916163949-0b5989b59ce6-riscv64-Linux&download=modal",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rivo/tview/modal:v0.0.0-20250916163949-0b5989b59ce6-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rivo/tview/modal",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rivo/tview/modal?tag=v0.0.0-20250916163949-0b5989b59ce6-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1db7e26979ddfc5675b62b3bf84e423f75b991966c768972b68caaf1f62eeca8",
+  "size": "3.3 MB",
+  "size_raw": "3359312",
+  "soar_syms": "false",
+  "snapshots": [
+    "HEAD-0c592cd-250501T133434-riscv64-Linux",
+    "HEAD-a4a78f1-250625T184341-riscv64-Linux",
+    "v0.0.0-20250625164341-a4a78f1e05cb-riscv64-Linux",
+    "v0.0.0-20250904205922-4cdaaa9bd6f6-riscv64-Linux",
+    "v0.0.0-20250916163949-0b5989b59ce6-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
