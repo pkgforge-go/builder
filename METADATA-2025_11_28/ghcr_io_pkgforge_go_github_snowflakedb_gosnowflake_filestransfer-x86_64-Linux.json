@@ -1,0 +1,88 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "filestransfer",
+  "pkg_family": "gosnowflake",
+  "pkg_id": "filestransfer#github.com_snowflakedb_gosnowflake",
+  "pkg_name": "filestransfer",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/snowflakedb/gosnowflake",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go Snowflake Driver",
+  "homepage": [
+    "https://github.com/snowflakedb/gosnowflake"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "async",
+    "batches",
+    "connectionproxy",
+    "distributedfetch",
+    "externalbrowser",
+    "fetchresultbyid",
+    "filestransfer",
+    "keepalive",
+    "keypair",
+    "logger",
+    "mfa",
+    "multistatement",
+    "noconnpool",
+    "oauth",
+    "programmatic_access_token",
+    "select1",
+    "selectmany",
+    "showparam",
+    "tomlfileconnection",
+    "transform_batches_to_rows",
+    "variant",
+    "verifycert",
+    "workload_identity"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sfc-gh-gmerticariu/gosnowflake/@v/v0.0.0-20250911095445-20c4d105d9a0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.18.0",
+  "version_upstream": "",
+  "bsum": "0e4276703fc5b2a0bd557b35b83903944707358a1524fa2de4cb40cc86b76c84",
+  "build_date": "2025-11-28T03:01:43Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/19752233648",
+  "build_id": "19752233648",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/snowflakedb/gosnowflake/filestransfer?tag=v1.18.0-x86_64-Linux&download=filestransfer.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "346",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/snowflakedb/gosnowflake/filestransfer?tag=v1.18.0-x86_64-Linux&download=filestransfer",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/snowflakedb/gosnowflake/filestransfer:v1.18.0-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/snowflakedb/gosnowflake/filestransfer",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/snowflakedb/gosnowflake/filestransfer?tag=v1.18.0-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "e7e481c9c33ad60c415c251a0f86c1c9e2494e649656c046a23635766aad7c35",
+  "size": "32 MB",
+  "size_raw": "32845424",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.18.0-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
