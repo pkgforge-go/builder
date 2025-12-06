@@ -1,0 +1,95 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "chat",
+  "pkg_family": "tview",
+  "pkg_id": "chat#github.com_rivo_tview",
+  "pkg_name": "chat",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/rivo/tview",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Terminal UI library with rich, interactive widgets — written in Golang",
+  "homepage": [
+    "https://github.com/rivo/tview"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "autocomplete",
+    "autocompleteasync",
+    "box",
+    "button",
+    "chat",
+    "checkbox",
+    "colors",
+    "dropdown",
+    "dropdownx",
+    "flex",
+    "form",
+    "frame",
+    "grid",
+    "image",
+    "inputfield",
+    "list",
+    "listx",
+    "modal",
+    "modal_form",
+    "modal_list",
+    "pages",
+    "presentation",
+    "primitive",
+    "table",
+    "textarea",
+    "textview",
+    "treeview",
+    "unicode",
+    "virtualtable"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/dissoupov/tview/@v/v0.0.0-20251122170831-26e1ed361a9b.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250916163949-0b5989b59ce6",
+  "version_upstream": "",
+  "bsum": "6c9a6269549e76ca898b2a2e7f390c918b1b55fb4b915fedd3a0e25ae9cb6437",
+  "build_date": "2025-12-06T02:16:58Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/19981032700",
+  "build_id": "19981032700",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rivo/tview/chat?tag=v0.0.0-20250916163949-0b5989b59ce6-x86_64-Linux&download=chat.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "12823",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rivo/tview/chat?tag=v0.0.0-20250916163949-0b5989b59ce6-x86_64-Linux&download=chat",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/rivo/tview/chat:v0.0.0-20250916163949-0b5989b59ce6-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/rivo/tview/chat",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/rivo/tview/chat?tag=v0.0.0-20250916163949-0b5989b59ce6-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "f887a98a555017ab617d477f275753dd6b53b42edca4e8dd7f82b944ef92ae0f",
+  "size": "3.8 MB",
+  "size_raw": "3933240",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250904205922-4cdaaa9bd6f6-x86_64-Linux",
+    "v0.0.0-20250916163949-0b5989b59ce6-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
