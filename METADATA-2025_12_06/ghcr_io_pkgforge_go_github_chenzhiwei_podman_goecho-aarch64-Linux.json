@@ -1,0 +1,66 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "goecho",
+  "pkg_family": "podman",
+  "pkg_id": "goecho#github.com_chenzhiwei_podman",
+  "pkg_name": "goecho",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/chenzhiwei/podman",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Libpod is a library used to create container pods. Home of Podman",
+  "homepage": [
+    "https://github.com/chenzhiwei/podman"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "goecho"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/chenzhiwei/podman/@v/v0.12.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.12.1",
+  "version_upstream": "",
+  "bsum": "3ca16ec36e378aff6d85a370ee9ff2cde18c37f930d05550c72f1caff2775e0f",
+  "build_date": "2025-12-06T01:59:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/19981030329",
+  "build_id": "19981030329",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chenzhiwei/podman/goecho?tag=v0.12.1-aarch64-Linux&download=goecho.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chenzhiwei/podman/goecho?tag=v0.12.1-aarch64-Linux&download=goecho",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/chenzhiwei/podman/goecho:v0.12.1-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/chenzhiwei/podman/goecho",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/chenzhiwei/podman/goecho?tag=v0.12.1-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4cf96696bc4b55cd3c3a4fc326045a2e0044a252d2b197a92218079be258ae01",
+  "size": "1.7 MB",
+  "size_raw": "1684664",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.12.1-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
