@@ -1,0 +1,88 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "select1",
+  "pkg_family": "gosnowflake",
+  "pkg_id": "select1#github.com_snowflakedb_gosnowflake",
+  "pkg_name": "select1",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/snowflakedb/gosnowflake",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go Snowflake Driver",
+  "homepage": [
+    "https://github.com/snowflakedb/gosnowflake"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "async",
+    "batches",
+    "connectionproxy",
+    "distributedfetch",
+    "externalbrowser",
+    "fetchresultbyid",
+    "filestransfer",
+    "keepalive",
+    "keypair",
+    "logger",
+    "mfa",
+    "multistatement",
+    "noconnpool",
+    "oauth",
+    "programmatic_access_token",
+    "select1",
+    "selectmany",
+    "showparam",
+    "tomlfileconnection",
+    "transform_batches_to_rows",
+    "variant",
+    "verifycert",
+    "workload_identity"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sfc-gh-gmerticariu/gosnowflake/@v/v0.0.0-20250911095445-20c4d105d9a0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.18.0",
+  "version_upstream": "",
+  "bsum": "e53ce824d9a67650eff0990294d6c3dc4d0549fe17f0ff1fc167507e5d78f843",
+  "build_date": "2025-12-06T03:02:10Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/19981471218",
+  "build_id": "19981471218",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/snowflakedb/gosnowflake/select1?tag=v1.18.0-riscv64-Linux&download=select1.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "346",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/snowflakedb/gosnowflake/select1?tag=v1.18.0-riscv64-Linux&download=select1",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/snowflakedb/gosnowflake/select1:v1.18.0-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/snowflakedb/gosnowflake/select1",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/snowflakedb/gosnowflake/select1?tag=v1.18.0-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "99757a27abdce6e69be1e7caf5c2f7ccf9bd75fe08dc84ed352759fcda1f93ae",
+  "size": "28 MB",
+  "size_raw": "28890336",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.18.0-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
