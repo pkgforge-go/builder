@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "dmarc-lookup",
+  "pkg_family": "go-msgauth",
+  "pkg_id": "dmarc-lookup#github.com_dschp_go_msgauth",
+  "pkg_name": "dmarc-lookup",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dschp/go-msgauth",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Go library and tools for DKIM, DMARC and Authentication-Results",
+  "homepage": [
+    "https://github.com/dschp/go-msgauth"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dkim-keygen",
+    "dkim-milter",
+    "dkim-verify",
+    "dmarc-lookup"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/jnolleau/go-msgauth/@v/v0.7.4.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250719122649-42ce6705ea12",
+  "version_upstream": "",
+  "bsum": "206e4bde62800b846cda03e1dd9a3cb0db58470ae9129b7b49673ec42a1e918b",
+  "build_date": "2025-12-06T02:19:02Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/19981080419",
+  "build_id": "19981080419",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dschp/go-msgauth/dmarc-lookup?tag=v0.0.0-20250719122649-42ce6705ea12-aarch64-Linux&download=dmarc-lookup.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dschp/go-msgauth/dmarc-lookup?tag=v0.0.0-20250719122649-42ce6705ea12-aarch64-Linux&download=dmarc-lookup",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dschp/go-msgauth/dmarc-lookup:v0.0.0-20250719122649-42ce6705ea12-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dschp/go-msgauth/dmarc-lookup",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dschp/go-msgauth/dmarc-lookup?tag=v0.0.0-20250719122649-42ce6705ea12-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "13a62dc88d89499d14de6bcc607352dd4c6bff905213a61c5327d9299dfeaf74",
+  "size": "2.4 MB",
+  "size_raw": "2456024",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250719122649-42ce6705ea12-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
