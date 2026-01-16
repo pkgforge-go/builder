@@ -1,0 +1,69 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "dkim-milter",
+  "pkg_family": "go-msgauth",
+  "pkg_id": "dkim-milter#github.com_dschp_go_msgauth",
+  "pkg_name": "dkim-milter",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dschp/go-msgauth",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Go library and tools for DKIM, DMARC and Authentication-Results",
+  "homepage": [
+    "https://github.com/dschp/go-msgauth"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dkim-keygen",
+    "dkim-milter",
+    "dkim-verify",
+    "dmarc-lookup"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/jnolleau/go-msgauth/@v/v0.7.4.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20250719122649-42ce6705ea12",
+  "version_upstream": "",
+  "bsum": "ec1da5aed3aa51641bbef47f5fd751d0ef9496339505e35cd3f1e0da9c2088cf",
+  "build_date": "2026-01-16T02:38:40Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/21053173860",
+  "build_id": "21053173860",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dschp/go-msgauth/dkim-milter?tag=v0.0.0-20250719122649-42ce6705ea12-riscv64-Linux&download=dkim-milter.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dschp/go-msgauth/dkim-milter?tag=v0.0.0-20250719122649-42ce6705ea12-riscv64-Linux&download=dkim-milter",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dschp/go-msgauth/dkim-milter:v0.0.0-20250719122649-42ce6705ea12-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dschp/go-msgauth/dkim-milter",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dschp/go-msgauth/dkim-milter?tag=v0.0.0-20250719122649-42ce6705ea12-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "1096e6da0441bf9bb9c5fe2d772b22ec81e82a411172d64f8525cd307a9fa241",
+  "size": "4.3 MB",
+  "size_raw": "4452904",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250719122649-42ce6705ea12-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
