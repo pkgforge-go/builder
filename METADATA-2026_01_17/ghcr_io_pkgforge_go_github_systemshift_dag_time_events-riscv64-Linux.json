@@ -1,0 +1,67 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "events",
+  "pkg_family": "dag-time",
+  "pkg_id": "events#github.com_systemshift_dag_time",
+  "pkg_name": "events",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/systemshift/dag-time",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Hash based directed acyclic graph clock for internet native time",
+  "homepage": [
+    "https://github.com/systemshift/dag-time"
+  ],
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dagtime",
+    "events"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/systemshift/dag-time/@v/v0.2.1.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.2.1",
+  "version_upstream": "",
+  "bsum": "7e7037b3b8bad712bf79ef98d2208dd16d83d6a81cb71529921b917d48d5eb40",
+  "build_date": "2026-01-17T03:06:21Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/21087011858",
+  "build_id": "21087011858",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/systemshift/dag-time/events?tag=v0.2.1-riscv64-Linux&download=events.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/systemshift/dag-time/events?tag=v0.2.1-riscv64-Linux&download=events",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/systemshift/dag-time/events:v0.2.1-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/systemshift/dag-time/events",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/systemshift/dag-time/events?tag=v0.2.1-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "fe343474fdb20b4da31adfa91ba32627a8f651b80bb3d6b044960db5a69da1bd",
+  "size": "28 MB",
+  "size_raw": "28679080",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.2.1-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
