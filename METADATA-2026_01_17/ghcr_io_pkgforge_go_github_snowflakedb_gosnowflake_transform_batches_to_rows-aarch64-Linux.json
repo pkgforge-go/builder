@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "aarch64-Linux",
+  "rank": "",
+  "pkg": "transform_batches_to_rows",
+  "pkg_family": "gosnowflake",
+  "pkg_id": "transform_batches_to_rows#github.com_snowflakedb_gosnowflake",
+  "pkg_name": "transform_batches_to_rows",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/snowflakedb/gosnowflake",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go Snowflake Driver",
+  "homepage": [
+    "https://github.com/snowflakedb/gosnowflake"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "async",
+    "batches",
+    "connectionproxy",
+    "distributedfetch",
+    "externalbrowser",
+    "fetchresultbyid",
+    "filestransfer",
+    "keepalive",
+    "keypair",
+    "logger",
+    "mfa",
+    "multistatement",
+    "noconnpool",
+    "oauth",
+    "programmatic_access_token",
+    "select1",
+    "selectmany",
+    "showparam",
+    "tomlfileconnection",
+    "transform_batches_to_rows",
+    "variant",
+    "verifycert",
+    "workload_identity"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sfc-gh-gmerticariu/gosnowflake/@v/v0.0.0-20250911095445-20c4d105d9a0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.18.1",
+  "version_upstream": "",
+  "bsum": "f2f3e2c1e493a5c0ffc699289261dbab8deaf1c5d79aac39a978bc77b2917e91",
+  "build_date": "2026-01-17T03:17:53Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/21086963917",
+  "build_id": "21086963917",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/snowflakedb/gosnowflake/transform_batches_to_rows?tag=v1.18.1-aarch64-Linux&download=transform_batches_to_rows.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "349",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/snowflakedb/gosnowflake/transform_batches_to_rows?tag=v1.18.1-aarch64-Linux&download=transform_batches_to_rows",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/snowflakedb/gosnowflake/transform_batches_to_rows:v1.18.1-aarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/snowflakedb/gosnowflake/transform_batches_to_rows",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/snowflakedb/gosnowflake/transform_batches_to_rows?tag=v1.18.1-aarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "aba5765e7ed81e4e242f0a522f49c1a9dd9b6c682575064dcb807729676676c0",
+  "size": "27 MB",
+  "size_raw": "27734096",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.18.0-aarch64-Linux",
+    "v1.18.1-aarch64-Linux"
+  ],
+  "trusted": "true"
+}
