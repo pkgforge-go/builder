@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "externalbrowser",
+  "pkg_family": "gosnowflake",
+  "pkg_id": "externalbrowser#github.com_snowflakedb_gosnowflake",
+  "pkg_name": "externalbrowser",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/snowflakedb/gosnowflake",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go Snowflake Driver",
+  "homepage": [
+    "https://github.com/snowflakedb/gosnowflake"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "async",
+    "batches",
+    "connectionproxy",
+    "distributedfetch",
+    "externalbrowser",
+    "fetchresultbyid",
+    "filestransfer",
+    "keepalive",
+    "keypair",
+    "logger",
+    "mfa",
+    "multistatement",
+    "noconnpool",
+    "oauth",
+    "programmatic_access_token",
+    "select1",
+    "selectmany",
+    "showparam",
+    "tomlfileconnection",
+    "transform_batches_to_rows",
+    "variant",
+    "verifycert",
+    "workload_identity"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sfc-gh-gmerticariu/gosnowflake/@v/v0.0.0-20250911095445-20c4d105d9a0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.18.1",
+  "version_upstream": "",
+  "bsum": "21a6bca8546466d251248584058453ee02b32e14b5c66a104c195c8ef3cd7c03",
+  "build_date": "2026-02-08T04:14:23Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/21791550404",
+  "build_id": "21791550404",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/snowflakedb/gosnowflake/externalbrowser?tag=v1.18.1-x86_64-Linux&download=externalbrowser.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "349",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/snowflakedb/gosnowflake/externalbrowser?tag=v1.18.1-x86_64-Linux&download=externalbrowser",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/snowflakedb/gosnowflake/externalbrowser:v1.18.1-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/snowflakedb/gosnowflake/externalbrowser",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/snowflakedb/gosnowflake/externalbrowser?tag=v1.18.1-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "ff28ed79ba86746606382741ddc7a1e617e3ba29f35549bb0f0c4d0577bf99ac",
+  "size": "32 MB",
+  "size_raw": "32815872",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.18.0-x86_64-Linux",
+    "v1.18.1-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
