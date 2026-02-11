@@ -1,0 +1,89 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "async",
+  "pkg_family": "gosnowflake",
+  "pkg_id": "async#github.com_snowflakedb_gosnowflake",
+  "pkg_name": "async",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/snowflakedb/gosnowflake",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "Go Snowflake Driver",
+  "homepage": [
+    "https://github.com/snowflakedb/gosnowflake"
+  ],
+  "license": [
+    "Apache-2.0"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "async",
+    "batches",
+    "connectionproxy",
+    "distributedfetch",
+    "externalbrowser",
+    "fetchresultbyid",
+    "filestransfer",
+    "keepalive",
+    "keypair",
+    "logger",
+    "mfa",
+    "multistatement",
+    "noconnpool",
+    "oauth",
+    "programmatic_access_token",
+    "select1",
+    "selectmany",
+    "showparam",
+    "tomlfileconnection",
+    "transform_batches_to_rows",
+    "variant",
+    "verifycert",
+    "workload_identity"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sfc-gh-gmerticariu/gosnowflake/@v/v0.0.0-20250911095445-20c4d105d9a0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v1.18.1",
+  "version_upstream": "",
+  "bsum": "ed234deae554791aa21ba6bd399a8986363909d0ecaf97f7be85c5f4c0337f1b",
+  "build_date": "2026-02-11T03:54:48Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/21891319380",
+  "build_id": "21891319380",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/snowflakedb/gosnowflake/async?tag=v1.18.1-loongarch64-Linux&download=async.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "349",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/snowflakedb/gosnowflake/async?tag=v1.18.1-loongarch64-Linux&download=async",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/snowflakedb/gosnowflake/async:v1.18.1-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/snowflakedb/gosnowflake/async",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/snowflakedb/gosnowflake/async?tag=v1.18.1-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "b7f9a6d6047d56e6149da63e48828143e901529ba7f8ba1d43fab0c5eee91d86",
+  "size": "29 MB",
+  "size_raw": "30045080",
+  "soar_syms": "false",
+  "snapshots": [
+    "v1.18.0-loongarch64-Linux",
+    "v1.18.1-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
