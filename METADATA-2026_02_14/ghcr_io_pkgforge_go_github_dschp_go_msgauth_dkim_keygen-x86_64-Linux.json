@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "dkim-keygen",
+  "pkg_family": "go-msgauth",
+  "pkg_id": "dkim-keygen#github.com_dschp_go_msgauth",
+  "pkg_name": "dkim-keygen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dschp/go-msgauth",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Go library and tools for DKIM, DMARC and Authentication-Results",
+  "homepage": [
+    "https://github.com/dschp/go-msgauth"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dkim-keygen",
+    "dkim-milter",
+    "dkim-verify",
+    "dmarc-lookup"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/jnolleau/go-msgauth/@v/v0.7.4.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20260204055113-511f681f4a9b",
+  "version_upstream": "",
+  "bsum": "08eda8935c60fb99db034729f270da3b4be2e585b86158cb3f2a87e59fbf7485",
+  "build_date": "2026-02-14T02:41:26Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/22009407615",
+  "build_id": "22009407615",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dschp/go-msgauth/dkim-keygen?tag=v0.0.0-20260204055113-511f681f4a9b-x86_64-Linux&download=dkim-keygen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dschp/go-msgauth/dkim-keygen?tag=v0.0.0-20260204055113-511f681f4a9b-x86_64-Linux&download=dkim-keygen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dschp/go-msgauth/dkim-keygen:v0.0.0-20260204055113-511f681f4a9b-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dschp/go-msgauth/dkim-keygen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dschp/go-msgauth/dkim-keygen?tag=v0.0.0-20260204055113-511f681f4a9b-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0b878338dd53a97fe651fd26e83cbb100d7609914eb63186bdf1713e5cc7d9de",
+  "size": "3.4 MB",
+  "size_raw": "3477896",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250719122649-42ce6705ea12-x86_64-Linux",
+    "v0.0.0-20260204055113-511f681f4a9b-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
