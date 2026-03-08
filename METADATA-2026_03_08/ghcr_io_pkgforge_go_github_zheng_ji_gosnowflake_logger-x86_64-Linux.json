@@ -1,0 +1,88 @@
+{
+  "_disabled": "false",
+  "host": "x86_64-Linux",
+  "rank": "",
+  "pkg": "logger",
+  "pkg_family": "gosnowflake",
+  "pkg_id": "logger#github.com_zheng_ji_gosnowflake",
+  "pkg_name": "logger",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/zheng-ji/gosnowflake",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "一个实现 Twitter SnowFlake 算法 的 Go 分布式 UID 生成器.A threadsafe unique ID generator inspired by Twitter SnowFlake theory",
+  "homepage": [
+    "https://github.com/zheng-ji/gosnowflake"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "async",
+    "batches",
+    "connectionproxy",
+    "distributedfetch",
+    "externalbrowser",
+    "fetchresultbyid",
+    "filestransfer",
+    "keepalive",
+    "keypair",
+    "logger",
+    "mfa",
+    "multistatement",
+    "noconnpool",
+    "oauth",
+    "programmatic_access_token",
+    "select1",
+    "selectmany",
+    "showparam",
+    "tomlfileconnection",
+    "transform_batches_to_rows",
+    "variant",
+    "verifycert",
+    "workload_identity"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/sfc-gh-gmerticariu/gosnowflake/@v/v0.0.0-20250911095445-20c4d105d9a0.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20260216062636-a2b3b37d0373",
+  "version_upstream": "",
+  "bsum": "6fd2e620207df512fbf840fd66f829d2e67684c19560b23a3e00b736cadde258",
+  "build_date": "2026-03-08T03:44:29Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/22812634272",
+  "build_id": "22812634272",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zheng-ji/gosnowflake/logger?tag=v0.0.0-20260216062636-a2b3b37d0373-x86_64-Linux&download=logger.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "361",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zheng-ji/gosnowflake/logger?tag=v0.0.0-20260216062636-a2b3b37d0373-x86_64-Linux&download=logger",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/zheng-ji/gosnowflake/logger:v0.0.0-20260216062636-a2b3b37d0373-x86_64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/zheng-ji/gosnowflake/logger",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/zheng-ji/gosnowflake/logger?tag=v0.0.0-20260216062636-a2b3b37d0373-x86_64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "0918983e6badf08b0ade7654bf0b6398a8d21c137952ea9dfdb1e12d6945d4cc",
+  "size": "26 MB",
+  "size_raw": "26863992",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20260216062636-a2b3b37d0373-x86_64-Linux"
+  ],
+  "trusted": "true"
+}
