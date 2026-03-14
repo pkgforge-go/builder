@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "riscv64-Linux",
+  "rank": "",
+  "pkg": "awslim",
+  "pkg_family": "aws-sdk-client-go",
+  "pkg_id": "awslim#github.com_fujiwara_aws_sdk_client_go",
+  "pkg_name": "awslim",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fujiwara/aws-sdk-client-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A simplified alternative to the AWS CLI for limited use cases",
+  "homepage": [
+    "https://github.com/fujiwara/aws-sdk-client-go"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "awslim",
+    "awslim-gen",
+    "awslim-gen-gen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/fujiwara/aws-sdk-client-go/@v/v0.6.11.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.6.11",
+  "version_upstream": "",
+  "bsum": "c3aa409786fac4522f09f887d7dec01465c041cf7e25a899e7a91b84d923d2c6",
+  "build_date": "2026-03-14T02:42:16Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/23078256066",
+  "build_id": "23078256066",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fujiwara/aws-sdk-client-go/awslim?tag=v0.6.11-riscv64-Linux&download=awslim.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "138",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fujiwara/aws-sdk-client-go/awslim?tag=v0.6.11-riscv64-Linux&download=awslim",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fujiwara/aws-sdk-client-go/awslim:v0.6.11-riscv64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fujiwara/aws-sdk-client-go/awslim",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fujiwara/aws-sdk-client-go/awslim?tag=v0.6.11-riscv64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "23bb7a31d77abba7f2c2a64999352b61774362088ea66c85b493af9ebf1b8307",
+  "size": "17 MB",
+  "size_raw": "16971584",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.4.1-riscv64-Linux",
+    "v0.4.3-riscv64-Linux",
+    "v0.6.11-riscv64-Linux"
+  ],
+  "trusted": "true"
+}
