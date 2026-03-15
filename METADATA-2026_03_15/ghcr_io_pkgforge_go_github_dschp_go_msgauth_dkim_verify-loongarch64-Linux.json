@@ -1,0 +1,72 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "dkim-verify",
+  "pkg_family": "go-msgauth",
+  "pkg_id": "dkim-verify#github.com_dschp_go_msgauth",
+  "pkg_name": "dkim-verify",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/dschp/go-msgauth",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A Go library and tools for DKIM, DMARC and Authentication-Results",
+  "homepage": [
+    "https://github.com/dschp/go-msgauth"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "dkim-keygen",
+    "dkim-milter",
+    "dkim-verify",
+    "dmarc-lookup"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/jnolleau/go-msgauth/@v/v0.7.4.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.0.0-20260303061813-a2943900a848",
+  "version_upstream": "",
+  "bsum": "f3077cc797e5df997e6f0828ac2a87e88dee232167980faa4b5b495bcd51e712",
+  "build_date": "2026-03-15T03:16:20Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/23101890423",
+  "build_id": "23101890423",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dschp/go-msgauth/dkim-verify?tag=v0.0.0-20260303061813-a2943900a848-loongarch64-Linux&download=dkim-verify.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "-1",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dschp/go-msgauth/dkim-verify?tag=v0.0.0-20260303061813-a2943900a848-loongarch64-Linux&download=dkim-verify",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/dschp/go-msgauth/dkim-verify:v0.0.0-20260303061813-a2943900a848-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/dschp/go-msgauth/dkim-verify",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/dschp/go-msgauth/dkim-verify?tag=v0.0.0-20260303061813-a2943900a848-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "4175e9e3a8bcc5b2f075ae939ac20f1ff83d607951039ae1d312a716cefdcd01",
+  "size": "3.9 MB",
+  "size_raw": "4005168",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.0.0-20250719122649-42ce6705ea12-loongarch64-Linux",
+    "v0.0.0-20260204055113-511f681f4a9b-loongarch64-Linux",
+    "v0.0.0-20260218060320-168fe64930f3-loongarch64-Linux",
+    "v0.0.0-20260303061813-a2943900a848-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
