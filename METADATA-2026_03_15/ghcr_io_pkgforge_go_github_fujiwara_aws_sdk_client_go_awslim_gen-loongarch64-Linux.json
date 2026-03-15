@@ -1,0 +1,70 @@
+{
+  "_disabled": "false",
+  "host": "loongarch64-Linux",
+  "rank": "",
+  "pkg": "awslim-gen",
+  "pkg_family": "aws-sdk-client-go",
+  "pkg_id": "awslim-gen#github.com_fujiwara_aws_sdk_client_go",
+  "pkg_name": "awslim-gen",
+  "pkg_type": "static",
+  "pkg_webpage": "https://github.com/fujiwara/aws-sdk-client-go",
+  "bundle": "false",
+  "category": [
+    "Utility"
+  ],
+  "description": "A simplified alternative to the AWS CLI for limited use cases",
+  "homepage": [
+    "https://github.com/fujiwara/aws-sdk-client-go"
+  ],
+  "license": [
+    "MIT"
+  ],
+  "maintainer": [
+    "pkgforge-go (https://github.com/pkgforge-go/builder)"
+  ],
+  "provides": [
+    "awslim",
+    "awslim-gen",
+    "awslim-gen-gen"
+  ],
+  "note": [
+    "[EXTERNAL] (This is an Official but externally maintained repository)",
+    "This package was automatically built from source using go+zig",
+    "Provided by: https://github.com/pkgforge-go/builder",
+    "Learn More: https://docs.pkgforge.dev/repositories/external/pkgforge-go"
+  ],
+  "src_url": [
+    "https://proxy.golang.org/github.com/fujiwara/aws-sdk-client-go/@v/v0.6.11.zip"
+  ],
+  "tag": [
+    "Utility"
+  ],
+  "version": "v0.6.11",
+  "version_upstream": "",
+  "bsum": "09bb73106a34a6f51bbe2b483de8bb86af5fd4b1d2b79b41d980d8484423bdcf",
+  "build_date": "2026-03-15T03:06:38Z",
+  "build_gha": "https://github.com/pkgforge-go/builder/actions/runs/23101859954",
+  "build_id": "23101859954",
+  "build_log": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fujiwara/aws-sdk-client-go/awslim-gen?tag=v0.6.11-loongarch64-Linux&download=awslim-gen.log",
+  "deprecated": "false",
+  "desktop_integration": "false",
+  "download_count": "138",
+  "download_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fujiwara/aws-sdk-client-go/awslim-gen?tag=v0.6.11-loongarch64-Linux&download=awslim-gen",
+  "external": "true",
+  "ghcr_pkg": "ghcr.io/pkgforge-go/github/fujiwara/aws-sdk-client-go/awslim-gen:v0.6.11-loongarch64-Linux",
+  "ghcr_url": "https://ghcr.io/pkgforge-go/github/fujiwara/aws-sdk-client-go/awslim-gen",
+  "installable": "true",
+  "manifest_url": "https://api.ghcr.pkgforge.dev/pkgforge-go/github/fujiwara/aws-sdk-client-go/awslim-gen?tag=v0.6.11-loongarch64-Linux&manifest",
+  "portable": "true",
+  "recurse_provides": "false",
+  "shasum": "88cb976aa73393eadad890fa440a7d095de824a7a80b88c725c9239ff2653057",
+  "size": "56 MB",
+  "size_raw": "58681808",
+  "soar_syms": "false",
+  "snapshots": [
+    "v0.4.1-loongarch64-Linux",
+    "v0.4.3-loongarch64-Linux",
+    "v0.6.11-loongarch64-Linux"
+  ],
+  "trusted": "true"
+}
