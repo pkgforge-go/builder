@@ -2459,6 +2459,7 @@
 - 🐹 **[newlog](https://www.lfedge.org/projects/eve/)**: EVE is Edge Virtualization Engine.
 - 🐹 **[cloud-run-button](https://cloud.run)**: Let anyone deploy your GitHub repos to Google Cloud Run with a single click.
 - 🐹 **[launcher](https://kolide.com/launcher)**: Osquery launcher, autoupdater, and packager.
+- 🐹 **[zap](https://github.com/gin-contrib/zap)**: Alternative logging through zap.
 - 🐹 **[openai-proxy](https://github.com/geekai-dev/openai-proxy)**: 基于 Go 实现的 OpenAI HTTP 代理（云函数、lambda 函数、自己部署均可.
 - 🐹 **[openai-proxy](https://github.com/geekai-pub/openai-proxy)**: 基于 Go 实现的 OpenAI HTTP 代理（云函数、lambda 函数、自己部署均可.
 - 🐹 **[ipmi_exporter](https://github.com/soundcloud/ipmi_exporter)**: Remote IPMI exporter for Prometheus.
