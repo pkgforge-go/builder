@@ -848,6 +848,7 @@
 - 🐹 **[sidecarcontainer](https://knative.dev/docs/)**: User documentation for Knative components.
 - 🐹 **[websockets-go](https://knative.dev/docs/)**: User documentation for Knative components.
 - 🐹 **[gocode](https://github.com/nsf/gocode)**: An autocompletion daemon for the Go programming language.
+- 🐹 **[test-010-listener-readd](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
 - 🐹 **[fetch-and-display](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
 - 🐹 **[test-006-issue-81](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
 - 🐹 **[vg-for](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
@@ -1736,6 +1737,7 @@
 - 🐹 **[node](https://unblink.net)**: Camera monitoring with VLM.
 - 🐹 **[gomodcheck](https://atmos.tools)**: Terraform Orchestration Tool for DevOps.
 - 🐹 **[check-workflow-run](https://github.com/stackrox/stackrox)**: The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.
+- 🐹 **[raft](https://github.com/eliben/raft)**: Rowboat: Raft implementation in Go.
 - 🐹 **[re2c](https://re2c.org)**: Lexer generator for C, C++, D, Go, Haskell, Java, JS, OCaml, Python, Rust, Swift, V and Zig.
 - 🐹 **[kuttl](https://github.com/stackrox/stackrox)**: The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.
 - 🐹 **[sqlite-vec](https://github.com/docker/mcp-gateway)**: Docker mcp CLI plugin / MCP Gateway.
