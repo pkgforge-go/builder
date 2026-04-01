@@ -3971,6 +3971,7 @@
 - 🐹 **[server](https://systems.codeyourfuture.io/)**: An immersive, introductory course to backend software engineering using go.
 - 🐹 **[sobelow](https://smithy.security)**: The security workflow engine.
 - 🐹 **[grpc](https://www.ibm.com/products/instana)**: Rocket: Go Distributed Tracing & Metrics Sensor for Instana.
+- 🐹 **[lazyagent](https://lazyagent.dev/)**: Monitor all your coding agents from one terminal - Claude Code, Cursor, OpenCode, pi and more.
 - 🐹 **[rules_lint](https://registry.bazel.build/docs/aspect_rules_lint)**: Run static analysis tools with Bazel.
 - 🐹 **[trmnlp](https://github.com/usetrmnl/trmnlp)**: A local dev server for building TRMNL plugins.
 - 🐹 **[vpm](https://vpm.vlang.io)**: V's package manager.
@@ -6015,6 +6016,7 @@
 - 🐹 **[fur](https://github.com/evolbioinf/fur)**: Find Unique genomic Regions.
 - 🐹 **[game-of-life-otel](https://github.com/datadog/opentelemetry-examples)**: OpenTelemetry examples for ramping up.
 - 🐹 **[gengo](https://github.com/spenserblack/gengo)**: A linguist-inspired language classifier with multiple file source handlers.
+- 🐹 **[go](https://github.com/1l0/flap)**: Go inside Flutter.
 - 🐹 **[go](https://github.com/nosuta/flap)**: Go x Flutter frontend template.
 - 🐹 **[go-binlog-kafka](https://github.com/feiin/go-binlog-kafka)**: A simple MySQL tool for syncing BinLog to Kafka with JSON format.
 - 🐹 **[go-contract](http://hyperledger-labs.github.io/fabric-builder-k8s/)**: Kubernetes chaincode builder for Hyperledger Fabric.
@@ -8395,6 +8397,7 @@
 - 🐹 **[episodes](https://github.com/ikenticus/blogcode)**: Code Repository referenced by Blog.
 - 🐹 **[example-golang](https://www.pantsbuild.org/2.20/docs/go)**: An example repo to demonstrate Go support in Pants.
 - 🐹 **[example-secure](https://goreleaser.com)**: A secure way to release software using GoReleaser and GitHub Actions.
+- 🐹 **[facedetection](https://github.com/jeromelesaux/facedetection)**: Face detection in pure Go.
 - 🐹 **[faceloader](https://faceloader.link/)**: A simple gui application to create ical files with events from Facebook pages.
 - 🐹 **[fate](https://github.com/pteichman/fate)**: Ngram text synthesis with delusions of grandeur.
 - 🐹 **[fireblazer](https://github.com/bedros-p/fireblazer)**: Extract all services used by a Google Cloud Platform project with a regular API key like "AIza.
