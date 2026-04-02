@@ -1710,6 +1710,7 @@
 - 🐹 **[ex1](https://capnproto.org)**: Cap'n Proto library and code generator for Go.
 - 🐹 **[ex2](https://capnproto.org)**: Cap'n Proto library and code generator for Go.
 - 🐹 **[go](https://pkg.go.dev/github.com/fsouza/fake-gcs-server/fakestorage?tab=doc)**: Google Cloud Storage emulator & testing library.
+- 🐹 **[libsourcey](https://sourcey.com/libsourcey)**: C++14 evented IO libraries for high performance networking and media based applications.
 - 🐹 **[gen-config-doc](https://ignite.com)**: Ignite is a CLI tool and hub designed for constructing Proof of Stake Blockchains rooted in Cosmos-SDK.
 - 🐹 **[dashboard](https://github.com/faasflow/goflow)**: A Golang based high performance, scalable and distributed workflow framework.
 - 🐹 **[mxbai-rerank](https://github.com/gomlx/gomlx)**: GoMLX: An Accelerated Machine Learning Framework For Go.
@@ -2474,6 +2475,7 @@
 - 🐹 **[controller-gen](https://kyverno.github.io/chainsaw/)**: Declarative K8s e2e testing.
 - 🐹 **[photofield](https://github.com/smilyorg/photofield)**: Experimental fast photo viewer.
 - 🐹 **[armada](https://armadaproject.io)**: A multi-cluster batch queuing system for high-throughput workloads on Kubernetes.
+- 🐹 **[chainloop](https://docs.chainloop.dev)**: SDLC evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more.
 - 🐹 **[compare-sbom-sources](https://www.lfedge.org/projects/eve/)**: EVE is Edge Virtualization Engine.
 - 🐹 **[eve-bridge](https://www.lfedge.org/projects/eve/)**: EVE is Edge Virtualization Engine.
 - 🐹 **[measure-config](https://www.lfedge.org/projects/eve/)**: EVE is Edge Virtualization Engine.
@@ -3842,6 +3844,7 @@
 - 🐹 **[tillitis-key1-apps](https://www.tillitis.se)**: SSH Agent for TKey, the flexible open hardware/software USB security key.
 - 🐹 **[tkey-ssh-agent](https://www.tillitis.se)**: SSH Agent for TKey, the flexible open hardware/software USB security key.
 - 🐹 **[backend](https://docs.srv.us)**: Ssh to expose local HTTP services online, CLI pastebin, etc.
+- 🐹 **[daggerheart-srd](https://github.com/seansbox/daggerheart-srd)**: Daggerheart System Reference Document (SRD) in Obsidian MD, CSV, and JSON.
 - 🐹 **[gha-find-replace](https://github.com/jacobtomlinson/gha-find-replace)**: A GitHub Action to find and replace strings in project files.
 - 🐹 **[managed-bots](https://github.com/keybase/managed-bots)**: Keybase managed bots.
 - 🐹 **[operator](https://skywalking.apache.org/)**: Apache SkyWalking Cloud on Kubernetes.
@@ -4403,6 +4406,7 @@
 - 🐹 **[astextract](https://astextract.lu4p.xyz/)**: Convert a go file to its ast representation.
 - 🐹 **[bbs](https://github.com/synacktiv/bbs)**: Bbs is a router for SOCKS and HTTP proxies.
 - 🐹 **[bnfuzzer](https://github.com/rexim/bnfuzzer)**: Generate random messages based on their BNF definition.
+- 🐹 **[centauri](https://picasso.network)**: A trustless, cross-chain bridging protocol.
 - 🐹 **[container-object-storage-interface-controller](https://github.com/kubernetes-retired/container-object-storage-interface-controller)**: Container Object Storage Interface (COSI) controller responsible to manage lifecycle of COSI objects.
 - 🐹 **[eip712sign](https://github.com/base-org/eip712sign)**: Golang utility for signing EIP-712 payloads.
 - 🐹 **[eip712sign](https://github.com/base/eip712sign)**: Golang utility for signing EIP-712 payloads.
