@@ -710,6 +710,7 @@
 - 🐹 **[docker-images](https://developer.oracle.com/use-cases/#containers)**: Official source of container configurations, images, and examples for Oracle products and projects.
 - 🐹 **[official-images](https://hub.docker.com/u/library)**: Primary source of truth for the Docker "Official Images" program.
 - 🐹 **[docker](https://developer.oracle.com/use-cases/#containers)**: Official source of container configurations, images, and examples for Oracle products and projects.
+- 🐹 **[scripts](https://ai.aicode.cc)**: An APP that integrates mainstream large language models and image generation models, built with Flutter, with fully open-source code.
 - 🐹 **[ai-security-guard](https://higress.ai)**: AI Gateway | AI Native API Gateway.
 - 🐹 **[go](http://www.rabbitmq.com/getstarted.html)**: Tutorials for using RabbitMQ in various ways.
 - 🐹 **[basic-chat-with-rendezvous](https://github.com/libp2p/go-libp2p)**: Libp2p implementation in Go.
@@ -852,7 +853,34 @@
 - 🐹 **[helloworld-go](https://knative.dev/docs/)**: User documentation for Knative components.
 - 🐹 **[websockets-go](https://knative.dev/docs/)**: User documentation for Knative components.
 - 🐹 **[gocode](https://github.com/nsf/gocode)**: An autocompletion daemon for the Go programming language.
+- 🐹 **[compound-component](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
+- 🐹 **[magefiles](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
+- 🐹 **[simple](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
+- 🐹 **[test-001-simple](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
+- 🐹 **[test-002-click](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
+- 🐹 **[test-003-prop](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
+- 🐹 **[test-004-component](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
+- 🐹 **[test-005-issue-80](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
+- 🐹 **[test-007-issue-85](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
+- 🐹 **[test-008-for-i](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
+- 🐹 **[test-008-for-keyvalue](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
+- 🐹 **[test-008-for-kv](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
+- 🐹 **[test-009-trim-unused](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
 - 🐹 **[test-010-listener-readd](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
+- 🐹 **[test-011-wire](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
+- 🐹 **[test-012-router](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
+- 🐹 **[test-013-issue-117](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
+- 🐹 **[test-014-attrintf](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
+- 🐹 **[test-015-attribute-lister](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
+- 🐹 **[test-016-svg](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
+- 🐹 **[test-017-nesting](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
+- 🐹 **[test-018-comp-events](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
+- 🐹 **[test-019-js-create-populate](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
+- 🐹 **[test-020-vgform](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
+- 🐹 **[test-021-slots](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
+- 🐹 **[test-022-event-listener](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
+- 🐹 **[test-023-lifecycle-callbacks](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
+- 🐹 **[test-024-event-buffer-size](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
 - 🐹 **[fetch-and-display](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
 - 🐹 **[test-006-issue-81](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
 - 🐹 **[vg-for](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
@@ -1126,6 +1154,7 @@
 - 🐹 **[pingtunnel](https://github.com/esrrhs/pingtunnel)**: Pingtunnel is a tool that send TCP/UDP traffic over ICMP.
 - 🐹 **[caddy](https://vulcain.rocks)**: Fast and idiomatic client-driven REST APIs.
 - 🐹 **[geany](https://www.geany.org)**: A fast and lightweight IDE.
+- 🐹 **[_examples](https://github.com/alecthomas/kingpin)**: CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser.
 - 🐹 **[independent-lint](https://docs.datadoghq.com/)**: Main repository for Datadog Agent.
 - 🐹 **[match](https://docs.datadoghq.com/)**: Main repository for Datadog Agent.
 - 🐹 **[modformatter](https://docs.datadoghq.com/)**: Main repository for Datadog Agent.
