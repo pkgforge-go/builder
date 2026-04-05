@@ -854,6 +854,7 @@
 - 🐹 **[websockets-go](https://knative.dev/docs/)**: User documentation for Knative components.
 - 🐹 **[gocode](https://github.com/nsf/gocode)**: An autocompletion daemon for the Go programming language.
 - 🐹 **[compound-component](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
+- 🐹 **[html-form](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
 - 🐹 **[magefiles](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
 - 🐹 **[simple](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
 - 🐹 **[test-001-simple](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
@@ -881,6 +882,7 @@
 - 🐹 **[test-022-event-listener](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
 - 🐹 **[test-023-lifecycle-callbacks](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
 - 🐹 **[test-024-event-buffer-size](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
+- 🐹 **[test-025-valueof](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
 - 🐹 **[fetch-and-display](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
 - 🐹 **[test-006-issue-81](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
 - 🐹 **[vg-for](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
@@ -1636,6 +1638,7 @@
 - 🐹 **[mcuboot](https://github.com/juullabs-oss/mcuboot)**: Secure boot for 32-bit Microcontrollers.
 - 🐹 **[go](https://cakewallet.com)**: The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.
 - 🐹 **[quick-lint-js](https://quick-lint-js.com)**: Quick-lint-js finds bugs in JavaScript programs.
+- 🐹 **[zip](https://github.com/kuba--/zip)**: A portable, simple zip library written in C.
 - 🐹 **[antidupl](https://ermig1979.github.io/AntiDupl)**: A program to search similar and defect pictures on the disk.
 - 🐹 **[server](https://github.com/doxx/darkflare)**: DarkFlare Firewall Piercing (TCP over CDN.
 - 🐹 **[cli](https://github.com/hetznercloud/cli)**: A command-line interface for Hetzner Cloud.
@@ -1720,6 +1723,7 @@
 - 🐹 **[pghoard](http://aiven-open.github.io/pghoard/)**: PostgreSQL® backup and restore service.
 - 🐹 **[pghoard](http://aiven-open.github.io/pghoard/)**: PostgreSQL® backup and restore service.
 - 🐹 **[spqr](https://pg-sharding.tech)**: Stateless Postgres Query Router.
+- 🐹 **[scripts](https://www.linode.com/docs/)**: Linode guides and tutorials.
 - 🐹 **[_examples](https://pkg.go.dev/github.com/centrifugal/centrifuge)**: Real-time messaging library for Go.
 - 🐹 **[cyber](https://cyberscript.dev)**: Fast and concurrent scripting.
 - 🐹 **[src](https://databunker.org/)**: Secure Vault for Customer PII/PHI/PCI/KYC Records.
