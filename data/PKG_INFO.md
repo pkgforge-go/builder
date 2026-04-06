@@ -2529,6 +2529,7 @@
 - 🐹 **[diff-excel](https://github.com/zbuzhi/diff-excel)**: Excel文件对比工具.
 - 🐹 **[eino-examples](https://github.com/cloudwego/eino-examples)**: Examples and demonstrations for using the Eino framework.
 - 🐹 **[openai-proxy](https://github.com/geekai-dev/openai-proxy)**: 基于 Go 实现的 OpenAI HTTP 代理（云函数、lambda 函数、自己部署均可.
+- 🐹 **[mp3](https://github.com/disgoorg/disgo)**: A modular Golang Discord API Wrapper.
 - 🐹 **[openai-proxy](https://github.com/geekai-pub/openai-proxy)**: 基于 Go 实现的 OpenAI HTTP 代理（云函数、lambda 函数、自己部署均可.
 - 🐹 **[ipmi_exporter](https://github.com/soundcloud/ipmi_exporter)**: Remote IPMI exporter for Prometheus.
 - 🐹 **[ipmi_exporter](https://github.com/prometheus-community/ipmi_exporter)**: Remote IPMI exporter for Prometheus.
