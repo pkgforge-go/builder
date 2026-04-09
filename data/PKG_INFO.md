@@ -5040,6 +5040,7 @@
 - 🐹 **[gosqlapi](https://github.com/elgs/gosqlapi)**: Turns any SQL database into a RESTful API.
 - 🐹 **[heybabe](https://github.com/noql-net/heybabe)**: Heybabe, a little TLS ClientHello testing tool.
 - 🐹 **[kaniop](https://pando85.github.io/)**: Kubernetes operator for managing Kanidm.
+- 🐹 **[magec](https://magec.dev)**: Multi-agent AI platform with voice and text control.
 - 🐹 **[netsshsetup](https://annetutil.github.io/gnetcli/)**: The ultimate solution for CLI automation in Golang.
 - 🐹 **[plugins](https://buf.build)**: Remote Protobuf plugins available on the BSR.
 - 🐹 **[runtime-packages](https://github.com/databrickslabs/sandbox)**: Experimental labs projects.
@@ -5653,6 +5654,7 @@
 - 🐹 **[tools](https://github.com/belong-inc/go-hubspot)**: HubSpot API Go client.
 - 🐹 **[v4](https://github.com/corazawaf/coraza-coreruleset)**: Wrapper library to consume CRS in coraza without including files.
 - 🐹 **[wsproxy](https://github.com/golangboy/wsproxy)**: A lightweight proxy tool based on the WebSocket protocol.
+- 🐹 **[zen101](https://nkanaev.github.io/zen101/)**: 101 Zen Stories.
 - 🐹 **[AntiZapret-V2Ray](https://github.com/OmarAssadi/AntiZapret-V2Ray)**: V2Ray rule generator to circumvent censorship by the Russian government and evade DPI.
 - 🐹 **[apiserver-from-scratch](https://github.com/phosae/x-kubernetes)**: Extend Kubernetes like a Pro.
 - 🐹 **[apiserver-proxy](https://github.com/phosae/x-kubernetes)**: Extend Kubernetes like a Pro.
@@ -5803,6 +5805,7 @@
 - 🐹 **[mc-server-runner](https://github.com/itzg/mc-server-runner)**: A container entry point to manage graceful shutdown of a Minecraft server.
 - 🐹 **[op-txproxy](https://optimism.io)**: Optimism is Ethereum, scaled.
 - 🐹 **[pod-babashka-sqlite3](https://github.com/babashka/pod-babashka-sqlite3)**: A babashka pod for interacting with sqlite3.
+- 🐹 **[potatoverse](https://github.com/blue-monads/potatoverse)**: Platform for apps.
 - 🐹 **[project-infra](https://github.com/kubevirt/project-infra)**: Project infrastructure administrative tools.
 - 🐹 **[proxyd](https://optimism.io)**: Optimism is Ethereum, scaled.
 - 🐹 **[psx-license-tool](https://github.com/jbreckmckye/psx-license-tool)**: Utilities for dumping / patching PSX disc license data.
@@ -6066,6 +6069,7 @@
 - 🐹 **[rescached](https://sr.ht/~shulhan/rescached)**: Mirror] Resolver (DNS) cache daemon.
 - 🐹 **[rescached-go](https://sr.ht/~shulhan/rescached)**: Mirror] Resolver (DNS) cache daemon.
 - 🐹 **[restmate](https://github.com/aunjaffery/restmate)**: REST api client.
+- 🐹 **[s9s](https://github.com/jontk/s9s)**: S9s - Slurm 9000 Text User Interface.
 - 🐹 **[server](https://github.com/kazzmir/master-of-magic)**: Clone of the MicroProse game, Master of Magic.
 - 🐹 **[shm-et340](https://github.com/mitchese/shm-et340)**: Sunny Home Manager emulator in a Victron ESS System (replaces ET340.
 - 🐹 **[soppo](https://soppolang.dev)**: Go, with the features it's missing.
@@ -6128,6 +6132,7 @@
 - 🐹 **[toy-programmer](https://github.com/shykes/toy-programmer)**: A toy AI agent that can write programs, powered by Dagger.
 - 🐹 **[v2](https://github.com/xyproto/ollamaclient)**: Go package and example utilities for using Ollama / LLMs.
 - 🐹 **[aiven-operator](https://aiven.github.io/aiven-operator)**: Provision and manage Aiven Services from your Kubernetes cluster.
+- 🐹 **[alfred-ask-create-share](https://github.com/nikivdev/alfred-ask-create-share)**: Alfred workflow for creating web submissions (Stack Exchange, Forums and more.
 - 🐹 **[api](https://github.com/julsemaan/anyfile-notepad)**: Google Drive and Dropbox cloud text editor.
 - 🐹 **[blast](https://github.com/trinhminhtriet/blast)**: Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease.
 - 🐹 **[ci](https://github.com/grafana/influx2cortex)**: Influx to Cortex Proxy.
