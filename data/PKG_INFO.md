@@ -856,6 +856,7 @@
 - 🐹 **[backend](https://github.com/coze-dev/coze-loop)**: Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.
 - 🐹 **[gocode](https://github.com/nsf/gocode)**: An autocompletion daemon for the Go programming language.
 - 🐹 **[dom-events](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
+- 🐹 **[embed-and-translate](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
 - 🐹 **[compound-component](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
 - 🐹 **[html-form](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
 - 🐹 **[magefiles](https://www.vugu.org)**: Vugu: A modern UI library for Go+WebAssembly (experimental.
@@ -3213,6 +3214,7 @@
 - 🐹 **[webui](https://github.com/kubeedge/examples)**: Examples for KubeEdge.
 - 🐹 **[cloud-stub](https://github.com/kubeedge/examples)**: Examples for KubeEdge.
 - 🐹 **[douceur](https://github.com/aymerick/douceur)**: A simple CSS parser and inliner in Go.
+- 🐹 **[gear](https://gear-tech.io)**: Web3 Ultimate Execution Engine.
 - 🐹 **[led-raspberrypi](https://github.com/kubeedge/examples)**: Examples for KubeEdge.
 - 🐹 **[mess-with-dns-backend](https://messwithdns.net)**: Source for Mess With DNS.
 - 🐹 **[modbus](https://github.com/kubeedge/examples)**: Examples for KubeEdge.
@@ -5306,6 +5308,7 @@
 - 🐹 **[vhive-benchmarking](https://github.com/ease-lab/vhive-benchmarking)**: A suite of representative serverless cloud-agnostic (i.
 - 🐹 **[wasm_inliner](https://vmail.leopard.in.ua/)**: VMail - check the markup (HTML, CSS) of HTML email template compatibility with email clients.
 - 🐹 **[wasm_parser](https://vmail.leopard.in.ua/)**: VMail - check the markup (HTML, CSS) of HTML email template compatibility with email clients.
+- 🐹 **[web-ui-v2](https://github.com/webtor-io/web-ui-v2)**: The second version of webtor.
 - 🐹 **[chunk](https://github.com/cuducos/chunk)**: Chunk is a download manager for slow and unstable servers.
 - 🐹 **[dev](https://github.com/alexec/dev)**: Tiny fast local workflow engine for building and testing software.
 - 🐹 **[get-started](https://kpt.dev/book/05-developing-functions/)**: Catalog of Kubernetes Resource Model (KRM) functions that can be used to validate or mutate kpt packages.
