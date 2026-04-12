@@ -2530,6 +2530,7 @@
 - 🐹 **[yolobox](https://github.com/finbarr/yolobox)**: Let your AI go full send.
 - 🐹 **[armada](https://armadaproject.io)**: A multi-cluster batch queuing system for high-throughput workloads on Kubernetes.
 - 🐹 **[chainloop](https://docs.chainloop.dev)**: SDLC evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more.
+- 🐹 **[go](https://oxide.fyi)**: The fastest PDF library for Python and Rust.
 - 🐹 **[sigtop](https://github.com/tbvdm/sigtop)**: Export messages from Signal Desktop.
 - 🐹 **[cloud-run-button](https://cloud.run)**: Let anyone deploy your GitHub repos to Google Cloud Run with a single click.
 - 🐹 **[launcher](https://kolide.com/launcher)**: Osquery launcher, autoupdater, and packager.
