@@ -1535,6 +1535,7 @@
 - 🐹 **[nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter)**: NGINX Prometheus Exporter for NGINX and NGINX Plus.
 - 🐹 **[examples](https://github.com/gotd/td/examples)**: Telegram client, in Go.
 - 🐹 **[internal-templating](https://carvel.dev/ytt)**: YAML templating tool that works on YAML structure instead of text.
+- 🐹 **[go](https://www.magmacore.org/)**: Platform for building access networks and modular network services.
 - 🐹 **[toc](https://cncf.io)**: The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation.
 - 🐹 **[sitev2](https://kpt.dev)**: Automate Kubernetes Configuration Editing.
 - 🐹 **[sitev2](https://kpt.dev)**: Automate Kubernetes Configuration Editing.
@@ -4811,6 +4812,7 @@
 - 🐹 **[demo](https://github.com/gioui-plugins/gio-plugins)**: Gio-Plugins offers new plugins to extend and enhance your Gio app.
 - 🐹 **[earring-ring](https://github.com/aykevl/things)**: Collection of microcontroller projects.
 - 🐹 **[festival-camp](https://github.com/aykevl/things)**: Collection of microcontroller projects.
+- 🐹 **[gallery](https://github.com/gogpu/ui)**: Pure Go GUI toolkit built on GoGPU — widgets, layouts, styling.
 - 🐹 **[go](https://github.com/euphoricrhino/jackson-em-notes)**: Classical Electrodynamics 3rd Edition By J.
 - 🐹 **[goserver](https://github.com/network-quality/goserver)**: Reference server for networkQuality/gorespsonsiveness.
 - 🐹 **[hello](https://github.com/gogpu/ui)**: Pure Go GUI toolkit built on GoGPU — widgets, layouts, styling.
@@ -5334,6 +5336,7 @@
 - 🐹 **[build](https://help.splunk.com/en/splunk-observability-cloud/manage-data/available-data-sources/supported-integrations-in-splunk-observability-cloud/apm-instrumentation/instrument-a-go-application)**: Splunk Distribution of OpenTelemetry Go.
 - 🐹 **[dns](https://www.pulumi.com/docs/guides/self-hosted/)**: Repository for getting started with self-hosted Pulumi Service.
 - 🐹 **[fastcp](https://fastcp.org)**: FastCP is a modern, fast, and secure control panel to run multiple PHP websites on an Ubuntu server.
+- 🐹 **[geohash](https://github.com/pierrre/geohash)**: Go geohash library.
 - 🐹 **[gke-auth-plugin](https://github.com/traviswt/gke-auth-plugin)**: A GKE standalone auth plugin, with no dependencies on gcloud cli and python.
 - 🐹 **[gobuilder](https://github.com/gvcgo/gobuilder)**: An enhancement for official _go build_.
 - 🐹 **[grafana-kafka-datasource](https://github.com/hoptical/grafana-kafka-datasource)**: A Grafana datasource plugin for Apache Kafka.
