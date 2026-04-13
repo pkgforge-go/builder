@@ -3887,6 +3887,7 @@
 - 🐹 **[engblogs](https://engineeringblogs.xyz/)**: Engineering blog aggregator.
 - 🐹 **[gokatas](https://github.com/jreisinger/gokatas)**: Internalize the Go movements.
 - 🐹 **[logging-sample](https://github.com/googlecloudplatform/cloud-build-notifiers)**: Notifier images for Cloud Build, complete with build status filtering and Google Secret Manager integration.
+- 🐹 **[tools](https://submariner-io.github.io/architecture/service-discovery/)**: DNS service discovery across connected Kubernetes clusters.
 - 🐹 **[confidential-containers-operator](https://github.com/confidential-containers/confidential-containers-operator)**: Operator to deploy confidential containers runtime.
 - 🐹 **[find-gh-poc](https://trickest.com)**: Find CVE PoCs on GitHub.
 - 🐹 **[operator](https://github.com/confidential-containers/operator)**: Operator to deploy confidential containers runtime.
@@ -4407,6 +4408,7 @@
 - 🐹 **[fwd](https://github.com/cloudnativedataplane/cndp)**: Cloud Native Data Plane (CNDP) is a collection of user space libraries to accelerate packet processing for cloud applications using AF_XDP sockets as the primary I/O.
 - 🐹 **[gce_metadata_server](https://github.com/salrashid123/gce_metadata_server)**: Simple emulator for the Google Compute Engine Metadata Server.
 - 🐹 **[git-credential-1password](https://github.com/ethrgeist/git-credential-1password)**: A Git credential helper that utilizes the 1Password CLI to authenticate a Git over http(s) connection.
+- 🐹 **[mcp-server](https://github.com/chainguard-dev/dfc)**: D)ocker(F)ile (C)onverter: CLI to convert Dockerfiles to use Chainguard Images and APKs in FROM and RUN lines etc.
 - 🐹 **[qrgo](https://qrgo.elsesiy.com)**: Fast & simple service to generate QR codes from your CLI.
 - 🐹 **[sampling](https://github.com/cloudnativedataplane/cndp)**: Cloud Native Data Plane (CNDP) is a collection of user space libraries to accelerate packet processing for cloud applications using AF_XDP sockets as the primary I/O.
 - 🐹 **[tibiadata-api-go](https://api.tibiadata.com)**: TibiaData API written in Golang and deployed in container (version v3 and above.
