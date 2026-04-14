@@ -135,6 +135,7 @@
 - 🐹 **[v3](https://www.pulumi.com)**: Pulumi - Infrastructure as Code in any programming language.
 - 🐹 **[v3](https://www.pulumi.com)**: Pulumi - Infrastructure as Code in any programming language.
 - 🐹 **[v3](https://www.pulumi.com)**: Pulumi - Infrastructure as Code in any programming language.
+- 🐹 **[graphify](https://safishamsi.github.io/penpax.ai)**: AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity).
 - 🐹 **[v2](https://go-colly.org/)**: Elegant Scraper and Crawler Framework for Golang.
 - 🐹 **[_tools](https://github.com/microsoft/typescript-go)**: Staging repo for development of native port of TypeScript.
 - 🐹 **[v12](http://godoc.org/github.com/tsenart/vegeta/lib)**: HTTP load testing tool and library.
@@ -2474,6 +2475,7 @@
 - 🐹 **[sse](https://github.com/donseba/go-htmx)**: Seamless HTMX integration in golang applications.
 - 🐹 **[tiktaktoe](https://github.com/donseba/go-htmx)**: Seamless HTMX integration in golang applications.
 - 🐹 **[k8s-batch](https://armadaproject.io)**: A multi-cluster batch queuing system for high-throughput workloads on Kubernetes.
+- 🐹 **[go-shellwords](https://github.com/mattn/go-shellwords)**: Parse line as shell words.
 - 🐹 **[integration](https://github.com/onflow/flow-go)**: A fast, secure, and developer-friendly blockchain built to support the next generation of games, apps, and the digital assets that power them.
 - 🐹 **[local](https://github.com/grafana/dskit)**: Distributed systems kit.
 - 🐹 **[unparam](https://github.com/mvdan/unparam)**: Find unused parameters in Go.
@@ -4494,6 +4496,7 @@
 - 🐹 **[set-image](https://catalog.kpt.dev)**: Curated catalog of generally useful kpt functions.
 - 🐹 **[set-image](https://catalog.kpt.dev)**: Curated catalog of generally useful kpt functions.
 - 🐹 **[set-labels](https://catalog.kpt.dev)**: Curated catalog of generally useful kpt functions.
+- 🐹 **[set-labels](https://catalog.kpt.dev)**: Curated catalog of generally useful kpt functions.
 - 🐹 **[set-namespace](https://catalog.kpt.dev)**: Curated catalog of generally useful kpt functions.
 - 🐹 **[simple](https://github.com/trendyol/go-pq-cdc)**: Go-pq-cdc is lightweight and efficient Change Data Capture (CDC) system designed for PostgreSQL.
 - 🐹 **[tools](https://github.com/hyperledger-labs/fabric-token-sdk)**: The Fabric Token SDK provides a collection of APIs and services that streamline development for token-based distributed applications.
@@ -4827,6 +4830,7 @@
 - 🐹 **[mq-dev-samples](https://github.com/ibm-messaging/mq-dev-samples)**: Samples for getting started with IBM MQ.
 - 🐹 **[things](https://github.com/aykevl/things)**: Collection of microcontroller projects.
 - 🐹 **[thirdparty-simulator](https://github.com/temporalio/background-checks)**: Sample application using Temporal.
+- 🐹 **[tools](https://submariner.io/for_developers/shipyard/)**: Framework and scripts to create multiple Kubernetes clusters with kind (K8s in Docker) for local E2E testing and development.
 - 🐹 **[tx5-go-pion-turn](https://github.com/holochain/tx5)**: Holochain WebRTC P2P Communication Ecosystem.
 - 🐹 **[vibebin](https://github.com/jgbrwn/vibebin)**: Vibebin: code and host inside Incus containers on your own VPS/server.
 - 🐹 **[watch](https://github.com/aykevl/things)**: Collection of microcontroller projects.
