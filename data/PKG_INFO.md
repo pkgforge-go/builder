@@ -1862,6 +1862,7 @@
 - 🐹 **[account-gen](https://jfa-go.com)**: A bit-of-everything user management app for Jellyfin.
 - 🐹 **[yaml](https://jfa-go.com)**: A bit-of-everything user management app for Jellyfin.
 - 🐹 **[timescaledb](https://schemahero.io)**: A Kubernetes operator for declarative database schema management (gitops for database schemas.
+- 🐹 **[webanalyze](https://github.com/rverton/webanalyze)**: Port of Wappalyzer (uncovers technologies used on websites) to automate mass scanning.
 - 🐹 **[build](https://zrepl.github.io)**: One-stop ZFS backup & replication solution.
 - 🐹 **[gomlx_checkpoints](https://github.com/gomlx/gomlx)**: GoMLX: An Accelerated Machine Learning Framework For Go.
 - 🐹 **[ldapnomnom](https://github.com/lkarlslund/ldapnomnom)**: Quietly and anonymously bruteforce Active Directory usernames at insane speeds from Domain Controllers by _ab_using LDAP Ping requests _cLDAP_.
