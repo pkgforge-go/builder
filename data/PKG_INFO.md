@@ -2453,6 +2453,7 @@
 - 🐹 **[activestandby](https://docs.lagoon.sh/)**: Lagoon, the developer-focused application delivery platform.
 - 🐹 **[benchmem](https://github.com/godror/godror)**: GO DRiver for ORacle DB.
 - 🐹 **[go-sqlite-bench](https://github.com/cvilsmeier/go-sqlite-bench)**: Benchmarks for Golang SQLite Drivers.
+- 🐹 **[p4-guide](https://github.com/jafingerhut/p4-guide)**: Guide to p4lang repositories and some other public info about P4.
 - 🐹 **[tools](https://conduit.io)**: Conduit streams data between data stores.
 - 🐹 **[actions-handler](https://docs.lagoon.sh/)**: Lagoon, the developer-focused application delivery platform.
 - 🐹 **[contrib](https://github.com/godror/godror)**: GO DRiver for ORacle DB.
