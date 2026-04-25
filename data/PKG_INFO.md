@@ -179,6 +179,7 @@
 - 🐹 **[pubsub](https://redis.io)**: Redis Go client.
 - 🐹 **[cmd](https://dgraph.io)**: High-performance graph database for real-time use cases.
 - 🐹 **[memgpt](https://docs.letta.com/)**: Letta is the platform for building stateful agents: AI with advanced memory that can learn and self-improve over time.
+- 🐹 **[beads](https://github.com/steveyegge/beads)**: Beads - A memory upgrade for your coding agent.
 - 🐹 **[mdbook](https://rust-lang.github.io/mdBook/)**: Create book from markdown files.
 - 🐹 **[mdbook](https://rust-lang.github.io/mdBook/)**: Create book from markdown files.
 - 🐹 **[docker](https://neko.m1k1o.net/)**: A self hosted virtual browser that runs in docker and uses WebRTC.
@@ -431,6 +432,7 @@
 - 🐹 **[res-downloader](https://github.com/putyy/res-downloader)**: 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载.
 - 🐹 **[server](https://gqlgen.com)**: Go generate based graphql server library.
 - 🐹 **[tiny-rdm](https://redis.tinycraft.cc/)**: Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
+- 🐹 **[v2](https://imgproxy.net)**: Fast and secure standalone server for resizing, processing, and converting images on the fly.
 - 🐹 **[redpanda](https://redpanda.com)**: Redpanda is a streaming data platform for developers.
 - 🐹 **[gqlgen](https://gqlgen.com)**: Go generate based graphql server library.
 - 🐹 **[_examples](https://gqlgen.com)**: Go generate based graphql server library.
@@ -722,6 +724,7 @@
 - 🐹 **[scripts](https://ai.aicode.cc)**: An APP that integrates mainstream large language models and image generation models, built with Flutter, with fully open-source code.
 - 🐹 **[ai-security-guard](https://higress.ai)**: AI Gateway | AI Native API Gateway.
 - 🐹 **[go](http://www.rabbitmq.com/getstarted.html)**: Tutorials for using RabbitMQ in various ways.
+- 🐹 **[gogcli](https://gogcli.sh)**: Google Suite CLI: Gmail, GCal, GDrive, GContacts.
 - 🐹 **[xonotic](https://agones.dev)**: Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes.
 - 🐹 **[ipfs-camp-2019](https://github.com/libp2p/go-libp2p)**: Libp2p implementation in Go.
 - 🐹 **[chat](https://github.com/libp2p/go-libp2p)**: Libp2p implementation in Go.
@@ -1217,6 +1220,7 @@
 - 🐹 **[tech-interview-questions](https://tech-vault-web.vercel.app/)**: A list of many interview questions & real-world challenges in Tech! (https://tech-vault-web.
 - 🐹 **[tech-vault](https://tech-vault-web.vercel.app/)**: A list of many interview questions & real-world challenges in Tech! (https://tech-vault-web.
 - 🐹 **[go-build-template](https://github.com/thockin/go-build-template)**: A Makefile/Dockerfile example for Go projects.
+- 🐹 **[lapis](http://leafo.net/lapis/)**: A web framework for Lua and OpenResty written in MoonScript.
 - 🐹 **[gosearch](https://github.com/ibnaleem/gosearch)**: Search anyone's digital footprint across 300+ websites.
 - 🐹 **[go](https://github.com/google/differential-privacy)**: Google's differential privacy libraries.
 - 🐹 **[stringzilla](https://ashvardanian.com/posts/stringzilla/)**: Up to 100x faster strings for C, C++, CUDA, Python, Rust, Swift, JS, & Go, leveraging NEON, AVX2, AVX-512, SVE, GPGPU, & SWAR to accelerate search, hashing, sorting, edit distances, sketches, and memory ops.
@@ -1430,6 +1434,7 @@
 - 🐹 **[cronexpr](https://github.com/aptible/supercronic)**: Cron for containers.
 - 🐹 **[datastar](https://data-star.dev)**: The hypermedia framework.
 - 🐹 **[supercronic](https://github.com/aptible/supercronic)**: Cron for containers.
+- 🐹 **[kdash](https://kdash.cli.rs)**: A simple and fast dashboard for Kubernetes.
 - 🐹 **[podpool](https://github.com/ray-project/kuberay)**: A toolkit to run Ray applications on Kubernetes.
 - 🐹 **[engine](https://www.qovery.com)**: The Orchestration Engine To Deliver Self-Service Infrastructure.
 - 🐹 **[piranha](https://github.com/uber/piranha)**: A tool for refactoring code related to feature flag APIs.
@@ -1704,6 +1709,7 @@
 - 🐹 **[example53-container-base-image-updates](https://github.com/go-training/training)**: Learning Golang one day.
 - 🐹 **[herokuish](https://github.com/gliderlabs/herokuish)**: Utility for emulating Heroku build and runtime tasks in containers.
 - 🐹 **[training](https://github.com/go-training/training)**: Learning Golang one day.
+- 🐹 **[jvm-mon-go](https://ajermakovics.github.io/jvm-mon/)**: Console-based JVM monitoring tool.
 - 🐹 **[cleaner](https://github.com/orlangure/gnomock)**: Test your code without writing mocks with ephemeral Docker containers 📦 Setup popular services with just a couple lines of code ⏱️ No bash, no yaml, only code.
 - 🐹 **[syncer-amplitude](https://bemidb.com)**: Open-source Snowflake and Fivetran alternative bundled together.
 - 🐹 **[syncer-postgres](https://bemidb.com)**: Open-source Snowflake and Fivetran alternative bundled together.
