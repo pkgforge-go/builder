@@ -1201,6 +1201,7 @@
 - 🐹 **[illustrated-tls](https://tls12.ulfheim.net)**: The Illustrated TLS 1.
 - 🐹 **[pgrok](https://github.com/pgrok/pgrok)**: Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding.
 - 🐹 **[graphql](https://docs.gofiber.io/recipes/)**: Examples for 🚀 Fiber.
+- 🐹 **[https-tls](https://docs.gofiber.io/recipes/)**: Examples for 🚀 Fiber.
 - 🐹 **[recipes](https://docs.gofiber.io/recipes/)**: Examples for 🚀 Fiber.
 - 🐹 **[spa](https://docs.gofiber.io/recipes/)**: Examples for 🚀 Fiber.
 - 🐹 **[sse](https://docs.gofiber.io/recipes/)**: Examples for 🚀 Fiber.
