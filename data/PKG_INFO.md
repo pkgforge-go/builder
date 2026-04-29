@@ -1316,6 +1316,7 @@
 - 🐹 **[backend](https://whishper-docs.pages.dev/)**: Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI.
 - 🐹 **[multus-cni](https://github.com/intel/multus-cni)**: A CNI meta-plugin for multi-homed pods in Kubernetes.
 - 🐹 **[multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni)**: A CNI meta-plugin for multi-homed pods in Kubernetes.
+- 🐹 **[pop](https://github.com/charmbracelet/pop)**: Send emails from your terminal.
 - 🐹 **[server](https://kube-vip.io)**: Kubernetes Control Plane Virtual IP and Load-Balancer.
 - 🐹 **[bench](https://www.inspektor-gadget.io)**: Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF.
 - 🐹 **[testjson2md](https://www.inspektor-gadget.io)**: Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF.
@@ -1555,6 +1556,7 @@
 - 🐹 **[examples](https://github.com/gotd/td/examples)**: Telegram client, in Go.
 - 🐹 **[internal-templating](https://carvel.dev/ytt)**: YAML templating tool that works on YAML structure instead of text.
 - 🐹 **[go](https://www.magmacore.org/)**: Platform for building access networks and modular network services.
+- 🐹 **[qqzeng_phone_go](https://www.qqzeng.com/)**: 最新IP地址数据库-多语言解析以及导入数据库脚本.
 - 🐹 **[toc](https://cncf.io)**: The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation.
 - 🐹 **[doccheck](https://docs.microsoft.com/azure/developer/go/)**: This repository is for active development of the Azure SDK for Go.
 - 🐹 **[indexer](https://docs.microsoft.com/azure/developer/go/)**: This repository is for active development of the Azure SDK for Go.
@@ -2128,6 +2130,7 @@
 - 🐹 **[issue193](https://go-ruleguard.github.io/)**: Define and run pattern-based custom linting rules.
 - 🐹 **[issue317](https://go-ruleguard.github.io/)**: Define and run pattern-based custom linting rules.
 - 🐹 **[kserve-api](https://docs.openvino.ai/2026/model-server/ovms_what_is_openvino_model_server.html)**: A scalable inference server for models optimized with OpenVINO.
+- 🐹 **[lorri](https://github.com/nix-community/lorri)**: Your project’s nix-env [maintainer=@Profpatsch,@nyarly.
 - 🐹 **[mantra](https://amolo.com.br)**: A tool used to hunt down API key leaks in JS files and pages.
 - 🐹 **[eunomia-bpf](https://eunomia.dev/eunomia-bpf/introduction/)**: A Tool to make Build and Run eBPF programs easier.
 - 🐹 **[rainbow-delimiters.nvim](https://gitlab.com/HiPhish/rainbow-delimiters.nvim)**: Rainbow delimiters for Neovim with Tree-sitter.
@@ -4206,6 +4209,7 @@
 - 🐹 **[rpmpack](https://github.com/google/rpmpack)**: Rpmpack (tar2rpm) - package rpms in pure golang or cli.
 - 🐹 **[stc](https://github.com/tenox7/stc)**: Syncthing CLI Tool.
 - 🐹 **[templates](https://github.com/nix-community/templates)**: Nix flake templates managed by the community [maintainer=@IogaMaster.
+- 🐹 **[camunda-bpmn-js](https://github.com/camunda/camunda-bpmn-js)**: Embeddable Camunda modeling distributions based on bpmn-js.
 - 🐹 **[cluster-api-control-plane-provider-talos](https://github.com/talos-systems/cluster-api-control-plane-provider-talos)**: A control plane provider for CAPI + Talos.
 - 🐹 **[comet](https://github.com/liamg/comet)**: :comet: Command line tool to help you use conventional commit messages _https://www.
 - 🐹 **[coriolis](https://github.com/cloudbase/coriolis)**: Cloud Migration as a Service.
@@ -5236,6 +5240,7 @@
 - 🐹 **[example8](https://github.com/pinoogni/ebpf-samples)**: This repo contains various examples to learn, explore, and experiment with eBPF.
 - 🐹 **[featureprofiles](https://github.com/openconfig/featureprofiles)**: Feature Profiles are groups of OpenConfig paths and tests which verify their behavior.
 - 🐹 **[fennec](https://github.com/shamspias/fennec)**: Fennec is a simple image processing package for Go.
+- 🐹 **[go-get-proxied](https://github.com/rapid7/go-get-proxied)**: Cross platform retrieval of system proxy configurations.
 - 🐹 **[gocar](https://github.com/uselibrary/gocar)**: Gocar, a cargo tool for Go.
 - 🐹 **[issue2file](https://github.com/ibarryyan/issue2file)**: You know , for github issue.
 - 🐹 **[lls](https://github.com/catatsuy/lls)**: You can get a list of files in a directory that contains a large number of files.
@@ -5273,6 +5278,7 @@
 - 🐹 **[v6](https://github.com/yaacov/tree-search-language)**: Tree Search Language (TSL) is a wonderful search langauge.
 - 🐹 **[02_daemon_service](https://nvidia.github.io/gontainer/)**: Simple but powerful dependency injection container for Go projects.
 - 🐹 **[aligns](https://github.com/tinne26/etxt)**: Text rendering package for Ebitengine.
+- 🐹 **[appengine](https://appmetrica.io)**: AppMetrica SDK for Android.
 - 🐹 **[authcrunch](https://github.com/authcrunch/authcrunch)**: Authentication Portal based on Caddy Security.
 - 🐹 **[authp](https://github.com/authp/authp)**: Authentication Portal based on Caddy Security.
 - 🐹 **[color_markup](https://github.com/tinne26/etxt/examples/ebiten/color_markup)**: Text rendering package for Ebitengine.
@@ -5821,6 +5827,7 @@
 - 🐹 **[sqlmapsh](https://www.unlock-security.it)**: SQLMap wrapper that lets you use Interact.
 - 🐹 **[sqlx](https://github.com/x5iu/defc)**: A Go code generator that automatically generates database CRUD operations, HTTP client code and net/rpc wrappers from interface definitions.
 - 🐹 **[terraform-provider-fivetran](https://fivetran.com)**: Terraform Provider for Fivetran.
+- 🐹 **[terraform-provider-harness](https://github.com/harness/terraform-provider-harness)**: Terraform provider for provisioning Harness resources.
 - 🐹 **[tools](https://github.com/belong-inc/go-hubspot)**: HubSpot API Go client.
 - 🐹 **[v4](https://github.com/corazawaf/coraza-coreruleset)**: Wrapper library to consume CRS in coraza without including files.
 - 🐹 **[wsproxy](https://github.com/golangboy/wsproxy)**: A lightweight proxy tool based on the WebSocket protocol.
