@@ -54,6 +54,7 @@
 - 🐹 **[common](https://dokku.com)**: A docker-powered PaaS that helps you build and manage the lifecycle of applications.
 - 🐹 **[config](https://dokku.com)**: A docker-powered PaaS that helps you build and manage the lifecycle of applications.
 - 🐹 **[cron](https://dokku.com)**: A docker-powered PaaS that helps you build and manage the lifecycle of applications.
+- 🐹 **[docker-options](https://dokku.com)**: A docker-powered PaaS that helps you build and manage the lifecycle of applications.
 - 🐹 **[dokku](https://dokku.com)**: A docker-powered PaaS that helps you build and manage the lifecycle of applications.
 - 🐹 **[logs](https://dokku.com)**: A docker-powered PaaS that helps you build and manage the lifecycle of applications.
 - 🐹 **[network](https://dokku.com)**: A docker-powered PaaS that helps you build and manage the lifecycle of applications.
@@ -1610,6 +1611,7 @@
 - 🐹 **[pinyin](https://godoc.org/github.com/mozillazg/go-pinyin)**: 汉字转拼音.
 - 🐹 **[dyplomat](https://github.com/envoyproxy/go-control-plane)**: Go implementation of data-plane-api.
 - 🐹 **[eventmesh-operator](https://eventmesh.apache.org/)**: EventMesh is a new generation serverless event middleware for building distributed event-driven applications.
+- 🐹 **[server](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
 - 🐹 **[opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator)**: Kubernetes Operator for OpenTelemetry Collector.
 - 🐹 **[cifar-cnn](https://github.com/eliben/code-for-blog)**: Code samples from my blog.
 - 🐹 **[code-for-blog](https://github.com/eliben/code-for-blog)**: Code samples from my blog.
