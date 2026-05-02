@@ -45,6 +45,7 @@
 - 🐹 **[zoxide](https://crates.io/crates/zoxide)**: A smarter cd command.
 - 🐹 **[examples](https://github.com/charmbracelet/bubbletea/examples)**: A powerful little TUI framework.
 - 🐹 **[v3](https://wails.io)**: Create beautiful applications using Go.
+- 🐹 **[kafka-client-loadtest](https://seaweedfs.com)**: SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
 - 🐹 **[server](https://seaweedfs.com)**: SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
 - 🐹 **[dokku](https://dokku.com)**: A docker-powered PaaS that helps you build and manage the lifecycle of applications.
 - 🐹 **[app-json](https://dokku.com)**: A docker-powered PaaS that helps you build and manage the lifecycle of applications.
@@ -1288,6 +1289,7 @@
 - 🐹 **[wycheproof](https://github.com/google/wycheproof)**: Project Wycheproof tests crypto libraries against known attacks.
 - 🐹 **[tinymist](https://myriad-dreamin.github.io/tinymist)**: Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst.
 - 🐹 **[nfs-subdir-external-provisioner](https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner)**: Dynamic sub-dir volume provisioner on a remote NFS server.
+- 🐹 **[surge](https://github.com/surge-downloader/surge)**: Blazing fast TUI download manager built in Go for power users.
 - 🐹 **[asciigraph](https://pkg.go.dev/github.com/guptarohit/asciigraph)**: Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
 - 🐹 **[bench_server](https://docs.godoxy.dev)**: High-performance reverse proxy and container orchestrator for self-hosters.
 - 🐹 **[h2c_test_server](https://docs.godoxy.dev)**: High-performance reverse proxy and container orchestrator for self-hosters.
