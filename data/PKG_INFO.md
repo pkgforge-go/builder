@@ -452,6 +452,7 @@
 - 🐹 **[sqs](https://github.com/awsdocs/aws-doc-sdk-examples)**: Welcome to the AWS Code Examples Repository.
 - 🐹 **[docgen](https://www.talos.dev)**: Talos Linux is a modern Linux distribution built for Kubernetes.
 - 🐹 **[gotagsrewrite](https://www.talos.dev)**: Talos Linux is a modern Linux distribution built for Kubernetes.
+- 🐹 **[labeled-squashfs](https://www.talos.dev)**: Talos Linux is a modern Linux distribution built for Kubernetes.
 - 🐹 **[tools](https://www.talos.dev)**: Talos Linux is a modern Linux distribution built for Kubernetes.
 - 🐹 **[cloud-image-uploader](https://www.talos.dev)**: Talos Linux is a modern Linux distribution built for Kubernetes.
 - 🐹 **[super-linter](https://github.com/super-linter/super-linter)**: Combination of multiple linters to run as a GitHub Action or standalone.
@@ -708,6 +709,7 @@
 - 🐹 **[relnotesgen](https://www.telepresence.io)**: Local development against a remote Kubernetes or OpenShift cluster.
 - 🐹 **[teleroute](https://www.telepresence.io)**: Local development against a remote Kubernetes or OpenShift cluster.
 - 🐹 **[v2](https://www.telepresence.io)**: Local development against a remote Kubernetes or OpenShift cluster.
+- 🐹 **[gogcli](https://gogcli.sh)**: Google Suite CLI: Gmail, GCal, GDrive, GContacts.
 - 🐹 **[gitlab-ce](https://gitlab.com/gitlab-org/gitlab-foss)**: GitLab FOSS is a read-only mirror of GitLab, with all proprietary code removed.
 - 🐹 **[gitlab-foss](https://gitlab.com/gitlab-org/gitlab-foss)**: GitLab FOSS is a read-only mirror of GitLab, with all proprietary code removed.
 - 🐹 **[calico](https://docs.tigera.io/calico/latest/about/)**: Cloud native networking and network security.
