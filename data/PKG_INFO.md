@@ -2073,6 +2073,7 @@
 - 🐹 **[template01](https://github.com/google/go-licenses)**: A lightweight tool to report on the licenses used by a Go package and its dependencies.
 - 🐹 **[vendored03](https://github.com/google/go-licenses)**: A lightweight tool to report on the licenses used by a Go package and its dependencies.
 - 🐹 **[redis-js](https://docs.upstash.com/redis)**: HTTP based Redis Client for Serverless and Edge Functions.
+- 🐹 **[nwg-look](https://github.com/nwg-piotr/nwg-look)**: GTK3 settings editor adapted to work in the wlroots environment.
 - 🐹 **[complex](https://github.com/google/go-licenses)**: A lightweight tool to report on the licenses used by a Go package and its dependencies.
 - 🐹 **[hello01](https://github.com/google/go-licenses)**: A lightweight tool to report on the licenses used by a Go package and its dependencies.
 - 🐹 **[log](https://pkg.go.dev/github.com/samber/oops)**: Error handling library with context, assertion, stack trace and source fragments.
