@@ -420,6 +420,7 @@
 - 🐹 **[openapi-gen-angular](https://heroiclabs.com)**: Distributed server for social and realtime games and apps.
 - 🐹 **[testdata](https://redpanda.com)**: Redpanda is a streaming data platform for developers.
 - 🐹 **[protoc-gen-angular](https://heroiclabs.com)**: Distributed server for social and realtime games and apps.
+- 🐹 **[v86](https://pkg.go.dev/github.com/google/go-github/v85/github)**: Go library for accessing the GitHub v3 API.
 - 🐹 **[sliceofpointers](https://pkg.go.dev/github.com/google/go-github/v85/github)**: Go library for accessing the GitHub v3 API.
 - 🐹 **[tools](https://pkg.go.dev/github.com/google/go-github/v85/github)**: Go library for accessing the GitHub v3 API.
 - 🐹 **[newreposecretwithlibsodium](https://pkg.go.dev/github.com/google/go-github/v84/github)**: Go library for accessing the GitHub v3 API.
@@ -2181,6 +2182,7 @@
 - 🐹 **[tracing](https://github.com/aquasecurity/libbpfgo)**: EBPF library for Go.
 - 🐹 **[tracing-by-offset](https://github.com/aquasecurity/libbpfgo)**: EBPF library for Go.
 - 🐹 **[uprobe](https://github.com/aquasecurity/libbpfgo)**: EBPF library for Go.
+- 🐹 **[gocron](https://github.com/gocronx-team/gocron)**: Distributed scheduled task management system.
 - 🐹 **[cgroup](https://github.com/aquasecurity/libbpfgo)**: EBPF library for Go.
 - 🐹 **[cgroup-legacy](https://github.com/aquasecurity/libbpfgo)**: EBPF library for Go.
 - 🐹 **[create-map](https://github.com/aquasecurity/libbpfgo)**: EBPF library for Go.
