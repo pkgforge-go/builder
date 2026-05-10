@@ -983,6 +983,7 @@
 - 🐹 **[file-transfer-go](https://transfer.52python.cn)**: Go/React开发的端到端webrtc的文件传输/文字传输/桌面共享，安全，隐私，数据不经过服务器.
 - 🐹 **[v6](https://linuxcontainers.org/incus)**: Powerful system container and virtual machine manager.
 - 🐹 **[tools](https://developers.cloudflare.com)**: Cloudflare’s documentation.
+- 🐹 **[1millogs](https://www.getmaxim.ai/bifrost)**: Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.
 - 🐹 **[tetragon-rthooks](https://tetragon.io)**: EBPF-based Security Observability and Runtime Enforcement.
 - 🐹 **[appengine](https://github.com/googlecloudplatform/golang-samples)**: Sample apps and code written for Google Cloud in the Go programming language.
 - 🐹 **[authenticating-users](https://github.com/googlecloudplatform/golang-samples)**: Sample apps and code written for Google Cloud in the Go programming language.
@@ -3859,6 +3860,7 @@
 - 🐹 **[hello](https://github.com/prometheus-community/prometheus-playground)**: Turnkey sandbox projects demonstrating a wide variety of Prometheus use cases.
 - 🐹 **[mod](https://github.com/paketo-buildpacks/samples)**: A collection of samples.
 - 🐹 **[myapp](https://github.com/prometheus-community/prometheus-playground)**: Turnkey sandbox projects demonstrating a wide variety of Prometheus use cases.
+- 🐹 **[myservice](https://github.com/prometheus-community/prometheus-playground)**: Turnkey sandbox projects demonstrating a wide variety of Prometheus use cases.
 - 🐹 **[web](https://github.com/prometheus-community/prometheus-playground)**: Turnkey sandbox projects demonstrating a wide variety of Prometheus use cases.
 - 🐹 **[webhook](https://github.com/prometheus-community/prometheus-playground)**: Turnkey sandbox projects demonstrating a wide variety of Prometheus use cases.
 - 🐹 **[alfred-awesome-lists](https://github.com/nikivdev/alfred-awesome-lists)**: Alfred workflow to search awesome lists.
@@ -4243,6 +4245,7 @@
 - 🐹 **[fuzz](https://github.com/cloudwego/frugal)**: A very fast dynamic Thrift serializer & deserializer.
 - 🐹 **[generate-schemas](https://www.measurementlab.net/)**: Docker native ndt5 and ndt7 server with prometheus integration.
 - 🐹 **[google-shopping-scraper](https://oxylabs.io/products/scraper-api/ecommerce/google-shopping)**: Google Shopping Scraper can scrape and parse various Google Shopping page types to collect structured e-commerce data.
+- 🐹 **[jedie](http://mattn.github.io/jedie/)**: Static site generator written in golang.
 - 🐹 **[kubelet-serving-cert-approver](https://github.com/alex1989hu/kubelet-serving-cert-approver)**: Kubelet Serving TLS Certificate Signing Request Approver.
 - 🐹 **[schemadiff](https://github.com/planetscale/schemadiff)**: Declarative schema diffing, normalization, validation and manipulation via command line.
 - 🐹 **[server](https://systems.codeyourfuture.io/)**: An immersive, introductory course to backend software engineering using go.
@@ -5080,6 +5083,7 @@
 - 🐹 **[bb-browser](https://github.com/buildbarn/bb-browser)**: Web frontend for exploring an Action Cache / Content Addressable Storage.
 - 🐹 **[benchmarks](https://annetutil.github.io/gnetcli/)**: The ultimate solution for CLI automation in Golang.
 - 🐹 **[binary](https://github.com/cloudfoundry/cf-acceptance-tests)**: CF Acceptance tests.
+- 🐹 **[blend_modes](https://github.com/tinne26/etxt)**: Text rendering package for Ebitengine.
 - 🐹 **[bufstream-demo](https://buf.build/product/bufstream)**: A demo of Bufstream, a drop-in replacement for Apache Kafka that's 8x less expensive to operate and brings broker-side schema awareness to Kafka.
 - 🐹 **[buildkite-agent-scaler](https://github.com/buildkite/buildkite-agent-scaler)**: A lambda for scaling an AutoScalingGroup based on Buildkite metrics.
 - 🐹 **[cb-tumblebug](https://github.com/cloud-barista/cb-tumblebug)**: Cloud-Barista Multi-Cloud Infra Management Framework.
@@ -5093,8 +5097,10 @@
 - 🐹 **[datapushgateway](https://github.com/perforce/p4prometheus)**: Community Supported] Perforce (Helix Core) interface for writing Prometheus metrics from real-time analysis of p4d log files.
 - 🐹 **[debug_glyph](https://github.com/tinne26/etxt)**: Text rendering package for Ebitengine.
 - 🐹 **[debug_glyph](https://github.com/tinne26/etxt)**: Text rendering package for Ebitengine.
+- 🐹 **[direction_bidi](https://github.com/tinne26/etxt)**: Text rendering package for Ebitengine.
 - 🐹 **[doc-gen](https://tinygo.org)**: Web site for TinyGo project.
 - 🐹 **[dotfiles](https://github.com/skanehira/dotfiles)**: My dotfiles.
+- 🐹 **[each_font](https://github.com/tinne26/etxt)**: Text rendering package for Ebitengine.
 - 🐹 **[elastic_sizer](https://github.com/tinne26/etxt)**: Text rendering package for Ebitengine.
 - 🐹 **[faux_styles](https://github.com/tinne26/etxt)**: Text rendering package for Ebitengine.
 - 🐹 **[ffmpegof](https://github.com/aleksasiriski/ffmpegof)**: Go script that allows transparent load balancing of ffmpeg and ffprobe commands over SSH a.
@@ -5499,6 +5505,7 @@
 - 🐹 **[tun](https://github.com/goxray/tun)**: CLI Xray VPN client.
 - 🐹 **[v2](https://github.com/justinfx/gofileseq)**: A library for parsing/building frame ranges and sequences.
 - 🐹 **[vhive-benchmarking](https://github.com/ease-lab/vhive-benchmarking)**: A suite of representative serverless cloud-agnostic (i.
+- 🐹 **[web-ui](https://github.com/webtor-io/web-ui)**: The second version of webtor.
 - 🐹 **[web-ui-v2](https://github.com/webtor-io/web-ui-v2)**: The second version of webtor.
 - 🐹 **[chunk](https://github.com/cuducos/chunk)**: Chunk is a download manager for slow and unstable servers.
 - 🐹 **[dev](https://github.com/alexec/dev)**: Tiny fast local workflow engine for building and testing software.
@@ -5534,6 +5541,7 @@
 - 🐹 **[gke-auth-plugin](https://github.com/traviswt/gke-auth-plugin)**: A GKE standalone auth plugin, with no dependencies on gcloud cli and python.
 - 🐹 **[grafana-kafka-datasource](https://github.com/hoptical/grafana-kafka-datasource)**: A Grafana datasource plugin for Apache Kafka.
 - 🐹 **[invoker](https://github.com/ease-lab/vswarm/tools/invoker)**: A suite of representative serverless cloud-agnostic (i.
+- 🐹 **[k8s-aws-ebs-tagger](https://github.com/mtougeron/k8s-aws-ebs-tagger)**: A utility to tag volumes based on a Kubernetes PVC annotation.
 - 🐹 **[k8s-pvc-tagger](https://github.com/mtougeron/k8s-pvc-tagger)**: A utility to tag volumes based on a Kubernetes PVC annotation.
 - 🐹 **[kpt-functions-sdk](https://kpt.dev/book/05-developing-functions/)**: Catalog of Kubernetes Resource Model (KRM) functions that can be used to validate or mutate kpt packages.
 - 🐹 **[macvtap-cni](https://github.com/kubevirt/macvtap-cni)**: A CNI + device plugin combo for virtualization workloads on Kubernetes.
@@ -5785,6 +5793,7 @@
 - 🐹 **[ethutil](https://github.com/10gic/ethutil)**: An Ethereum util, can transfer eth, check balance, call any contract function etc.
 - 🐹 **[ffcss](https://github.com/gwennlbh/ffcss)**: A CLI interface to apply and configure FirefoxCSS themes.
 - 🐹 **[fstail](https://github.com/alexellis/fstail)**: Scan a directory for changed files and tail them.
+- 🐹 **[go-proxy](https://github.com/jonathaneoliver/infinite-streaming)**: Docker-based HLS/DASH live-like media server for testing video players under deterministic failure conditions.
 - 🐹 **[gocode](http://developer.couchbase.com)**: The Membase Server Superdupervisor.
 - 🐹 **[godot](https://github.com/tetafro/godot)**: Linter that checks that comments end in a period.
 - 🐹 **[hades](https://github.com/wardle/hades)**: A FHIR terminology server.
@@ -6074,6 +6083,7 @@
 - 🐹 **[generate-dependency-deprecation-github-issue](https://buildpacks.ci.cf-app.com)**: Concourse CI pipelines for the buildpacks team.
 - 🐹 **[ghcommit](https://github.com/planetscale/ghcommit)**: Use GitHub's GraphQL API to commit files to a GitHub repository.
 - 🐹 **[go-hidproxy](https://github.com/rosmo/go-hidproxy)**: Proxies Bluetooth keyboards and mouse as HID devices (eg.
+- 🐹 **[go-hunspell](https://github.com/client9/go-hunspell)**: Pure golang spelling based on hunspell dictionaries.
 - 🐹 **[go-lsass](https://github.com/jfjallid/go-lsass)**: Tool to aid in dumping LSASS process remotely.
 - 🐹 **[go-sshlib](https://github.com/blacknon/go-sshlib)**: Easy ssh library for golang.
 - 🐹 **[go_proxy_pool](https://github.com/find-xposed-magisk/go_proxy_pool)**: Plug-and-play Proxy IP Pool with No Environmental Dependencies 无环境依赖开箱即用的代理IP池.
@@ -6435,6 +6445,7 @@
 - 🐹 **[selectel_billing_exporter](https://github.com/mxssl/selectel_billing_exporter)**: Prometheus exporter для получения информации по биллингу аккаунта в хостинге Selectel.
 - 🐹 **[shippingservice](https://github.com/signalfx/microservices-demo)**: Sample cloud-native application with 10 microservices showcasing instrumention with OpenTelemetry.
 - 🐹 **[skiff](https://github.com/dcermak/skiff)**: OCI Image and Layer disk usage utility.
+- 🐹 **[skrynia](https://github.com/oslyak/skrynia)**: TPM 2.
 - 🐹 **[sqlite](https://github.com/tayron/golang-estudos)**: Vários exemplos de uso de recurso da linhagem de programação GO Lang.
 - 🐹 **[task-invoke](https://github.com/obot-platform/tools)**: The home of official Obot tools.
 - 🐹 **[tasks](https://github.com/obot-platform/tools)**: The home of official Obot tools.
@@ -6560,6 +6571,7 @@
 - 🐹 **[connect-envoy-demo](https://github.com/bufbuild/connect-envoy-demo)**: Demonstration of how to use the new Connect-gRPC Envoy filter, available in Envoy v1.
 - 🐹 **[conops](https://conops.anuragxd.com)**: GitOps controller for Docker Compose - Self-healing, Git-driven deployments without Kubernetes.
 - 🐹 **[crd-sync](https://github.com/loft-sh/vcluster-sdk)**: Provides a toolset to create custom vcluster syncers.
+- 🐹 **[dingospeed](https://github.com/dingodb/dingospeed)**: Dingospeed is a self-hosted huggingface mirror service.
 - 🐹 **[director_colorm](https://github.com/setanarut/kamera)**: Camera package for Ebitengine v2.
 - 🐹 **[dl](https://github.com/microsoft/go-infra)**: Infrastructure supporting the use of Go in Microsoft.
 - 🐹 **[elastictraining](https://github.com/paddleflow/elastictraining)**: Elastic Deep Learning Training based on Kubernetes by Leveraging EDL and Volcano.
@@ -6569,6 +6581,7 @@
 - 🐹 **[fur](https://github.com/evolbioinf/fur)**: Find Unique genomic Regions.
 - 🐹 **[gengo](https://github.com/spenserblack/gengo)**: A linguist-inspired language classifier with multiple file source handlers.
 - 🐹 **[go](https://github.com/1l0/flap)**: Go inside Flutter.
+- 🐹 **[go](https://github.com/errtokyo/flap)**: Run Go inside Flutter.
 - 🐹 **[go](https://github.com/nosuta/flap)**: Run Go inside Flutter.
 - 🐹 **[go-binlog-kafka](https://github.com/feiin/go-binlog-kafka)**: A simple MySQL tool for syncing BinLog to Kafka with JSON format.
 - 🐹 **[go-binlog-kafka](https://github.com/yangyin5127/go-binlog-kafka)**: A simple MySQL tool for syncing BinLog to Kafka with JSON format.
@@ -7103,6 +7116,7 @@
 - 🐹 **[wait-for-pg](https://github.com/mxssl/wait-for-pg)**: Check if PostgreSQL database is ready.
 - 🐹 **[wxlog](https://github.com/thomashabets/radiostuff)**: My collection of gnuradio stuff.
 - 🐹 **[05b-web-api](https://github.com/rstropek/golang-samples)**: My samples for learning and teaching Go.
+- 🐹 **[accounts_server](https://github.com/kiali/demos)**: Samples application to demo ServiceMesh scenarios based on Istio and managed by Kiali.
 - 🐹 **[analytics](https://github.com/gschier/analytics)**: Analytics.
 - 🐹 **[apps](https://github.com/fyne-io/apps)**: Fyne App Browser.
 - 🐹 **[armory-ums](https://github.com/f-secure-foundry/armory-ums)**: USB armory - Mass Storage firmware.
@@ -7645,6 +7659,7 @@
 - 🐹 **[raw](https://github.com/bep/execrpc)**: RCP via os/exec with generic types.
 - 🐹 **[readmeexample](https://github.com/bep/execrpc)**: RCP via os/exec with generic types.
 - 🐹 **[regexp2cg](https://github.com/dlclark/regexp2cg)**: Static Regexp code generation in pure Go.
+- 🐹 **[remirror](https://github.com/yobert/remirror)**: Caching proxy for various public things (arch linux, fedora, centos, and other misc.
 - 🐹 **[remotedesktopforgaming](https://github.com/wawesomenogui/remotedesktopforgaming)**: Gonna have a webrtc video stream of the desktop, and datachannel messages to simulate keypresses/ mouse events on the windows desktop.
 - 🐹 **[rtl_433_prometheus](https://github.com/mhansen/rtl_433_prometheus)**: Prometheus time-series DB exporter for rtl_433 433MHz radio packet decoder.
 - 🐹 **[runjail](https://github.com/debfx/runjail)**: Ad-hoc sandboxes on Linux.
@@ -7669,6 +7684,7 @@
 - 🐹 **[volc-openapi-demos](https://github.com/volcengine/volc-openapi-demos)**: Demos for Volcengine's OpenAPIs.
 - 🐹 **[web-tail](https://github.com/mishankov/web-tail)**: Web based log monitoring tool.
 - 🐹 **[yamux-cli](https://github.com/nwtgck/yamux-cli)**: TCP and UDP multiplexer using yamux.
+- 🐹 **[zcam-controller](https://github.com/quinnypig/zcam-controller)**: A binary to control the Z-Cam line of cameras via API.
 - 🐹 **[zqdgr](https://github.com/juls0730/zqdgr)**: Zoe_s Quick and Dirty Golang Runner.
 - 🐹 **[advent-of-code-my-solutions](https://github.com/colasnahaboo/advent-of-code-my-solutions)**: These are my solutions for the advent-of-code puzzles.
 - 🐹 **[amanda](https://github.com/sivel/amanda)**: A simple web application, to mimic the v3 API endpoints for Ansible Galaxy Collections, with no database, just a directory with artifacts.
@@ -7678,6 +7694,7 @@
 - 🐹 **[azure-keyvault-exporter](https://github.com/webdevops/azure-keyvault-exporter)**: Prometheus exporter for Azure Keyvault entries (expiry date.
 - 🐹 **[badns](https://github.com/matir/hacks)**: Miscellaneous Hacks.
 - 🐹 **[bond](https://github.com/will-moss/bond)**: Self-hostable headless QR code generator.
+- 🐹 **[brighella](https://github.com/weppos/brighella)**: A simple URL-masking redirect service built on Go.
 - 🐹 **[buildpack_app_lifecycle](https://github.com/cloudfoundry-incubator/buildpack_app_lifecycle)**: The bit that takes some bits, mashes them together with other bits, and produces a new bit.
 - 🐹 **[buildpackapplifecycle](https://github.com/cloudfoundry/buildpackapplifecycle)**: The bit that takes some bits, mashes them together with other bits, and produces a new bit.
 - 🐹 **[byebye](https://github.com/d1psy-sh/byebye)**: Byebye is a command line interface to logout, lock, suspend, hibernate, shutdown, reboot, from the command line on every Linux system (with xdg-screensaver on X11 or swaylock on wayland.
@@ -7748,6 +7765,7 @@
 - 🐹 **[issue2md](https://github.com/bigwhite/issue2md)**: A tool to convert GitHub issue/discussion into Markdown.
 - 🐹 **[jwtutil](https://github.com/goware/jwtutil)**: Handy little jwt debugging utility  to encode/decode tokens.
 - 🐹 **[koyomi](https://github.com/goark/koyomi)**: 日本のこよみ.
+- 🐹 **[koyomi](https://github.com/spiegel-im-spiegel/koyomi)**: 日本のこよみ.
 - 🐹 **[kube-binpacking-exporter](https://github.com/procore-oss/kube-binpacking-exporter)**: Exports Pre-computed Kubernetes Cluster Binpacking Metrics.
 - 🐹 **[kube-binpacking-exporter](https://github.com/sherifabdlnaby/kube-binpacking-exporter)**: Exports Pre-computed Kubernetes Cluster Binpacking Metrics.
 - 🐹 **[kube-cluster-binpacking-exporter](https://github.com/sherifabdlnaby/kube-cluster-binpacking-exporter)**: Exports Pre-computed Kubernetes Cluster Binpacking Metrics.
@@ -8014,6 +8032,7 @@
 - 🐹 **[nextver](https://github.com/craftypath/nextver)**: Version increments within your CI/CD pipeline.
 - 🐹 **[openadp](https://github.com/openadp/openadp)**: Open source Advanced Data Protection for everyone.
 - 🐹 **[opencode](https://jmylchreest.github.io/tinct/)**: A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
+- 🐹 **[openqa-mon](https://github.com/os-autoinst/openqa-mon)**: Collection of terminal monitoring utilities for openQA.
 - 🐹 **[paletty](https://jmylchreest.github.io/tinct/)**: A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 - 🐹 **[parser-example](https://github.com/backpaper0/sandbox)**: 遊び場.
 - 🐹 **[plugindemowasm](https://github.com/traefik/plugindemowasm)**: This repository includes an example wasm plugin, for you to use as a reference for developing your own plugins.
@@ -8122,6 +8141,7 @@
 - 🐹 **[go](https://github.com/pulumi/pulumi-tls)**: A Pulumi provider for TLS resource management.
 - 🐹 **[go](https://github.com/pulumi/pulumi-tls)**: A Pulumi provider for TLS resource management.
 - 🐹 **[go](https://github.com/sandover/plasmite)**: Easy interprocess communication based on persistent JSON message queues.
+- 🐹 **[go-gin-embedded](https://github.com/xani/toolbox)**: Random crap and small/unfinished admin scripts.
 - 🐹 **[go-hasdefer](https://github.com/nathants/go-hasdefer)**: A go linter to check goroutines for defer.
 - 🐹 **[go-http-proxy-to-socks](https://github.com/shadowy-pycoder/go-http-proxy-to-socks)**: Simple CLI tool to transform SOCKS proxy into HTTP proxy with support for Transparent Proxy (Redirect and TProxy), Proxychains, ARP spoofing and Traffic Sniffing.
 - 🐹 **[go-native-squid-proxy](https://github.com/yigitkonur/go-native-squid-proxy)**: High-performance HTTP/HTTPS forward proxy in Go — fasthttp, Prometheus, zero fingerprint.
@@ -8505,6 +8525,7 @@
 - 🐹 **[vault-plugin-secrets-gcpkms](https://github.com/hashicorp/vault-plugin-secrets-gcpkms)**: Manage, encrypt, decrypt, sign, and verify data with @GoogleCloudPlatform KMS and @HashiCorp Vault.
 - 🐹 **[vbantxt](https://github.com/onyx-and-iris/vbantxt)**: VBANTXT package with a CLI.
 - 🐹 **[vbantxt-cli](https://github.com/onyx-and-iris/vbantxt-cli)**: VBANTXT package with a CLI.
+- 🐹 **[waggle](https://github.com/danielloader/waggle)**: Local OpenTelemetry viewer with Honeycomb-style query builder — OTLP/HTTP ingest into SQLite, trace waterfall, FTS5 log search.
 - 🐹 **[wireguard-operator](https://github.com/balboah/wireguard-operator)**: WireGuard operator.
 - 🐹 **[wzjn-server](https://github.com/ricardobalk/wzjn-server)**: Back-end server (API) of waarzitje.
 - 🐹 **[xdp-etherip](https://github.com/x86taka/xdp-etherip)**: Implementation of EtherIP with XDP.
@@ -9304,6 +9325,7 @@
 - 🐹 **[emojivoto](https://github.com/datawire/emojivoto)**: Example application to help demonstrate the Linkerd service mesh.
 - 🐹 **[engineering-interviews](https://mbianchidev.github.io/engineering-interviews/)**: Questions to prepare for engineering interviews and some coding challenges solutions.
 - 🐹 **[episodes](https://github.com/ikenticus/blogcode)**: Code Repository referenced by Blog.
+- 🐹 **[ex1](https://github.com/pingdai/dagflow)**: 基于DAG的事件流flow处理.
 - 🐹 **[example-golang](https://www.pantsbuild.org/2.20/docs/go)**: An example repo to demonstrate Go support in Pants.
 - 🐹 **[facedetection](https://github.com/jeromelesaux/facedetection)**: Face detection in pure Go.
 - 🐹 **[faceloader](https://faceloader.link/)**: A simple gui application to create ical files with events from Facebook pages.
@@ -9681,6 +9703,7 @@
 - 🐹 **[locc](https://github.com/hrtsegv/locc)**: Locc is a fast and efficient Lines of Code (LOC) counter written in Go.
 - 🐹 **[locc](https://github.com/knbr13/locc)**: Locc is a fast and efficient Lines of Code (LOC) counter written in Go.
 - 🐹 **[logchef-mcp](https://github.com/mr-karan/logchef-mcp)**: MCP server for Logchef.
+- 🐹 **[lokiecho](https://github.com/rfratto/lokiecho)**: Tee stdin to Loki.
 - 🐹 **[macapp](https://github.com/hajimehoshi/macapp)**: A software to create a minimal *.
 - 🐹 **[magicpod-api-client](https://github.com/magic-pod/magicpod-api-client)**: Simple and useful wrapper for MagicPod Web API.
 - 🐹 **[markdown-link-converter](https://www.sheldonhull.com)**: Magical blog goodness with an interspersing of.
@@ -9813,6 +9836,7 @@
 - 🐹 **[webassembly-demo](https://github.com/phmatray/webassembly-demo)**: A Go-based WebAssembly sample with React app.
 - 🐹 **[whitespace](https://github.com/syumai/til)**: Today I learned.
 - 🐹 **[wire](https://github.com/wireinject/.github/blob/main/profile/README.md)**: Compile-time Dependency Injection for Go.
+- 🐹 **[wire-pod-plugins](https://github.com/bliteknight/wire-pod-plugins)**: Custom plugins for wire-pod.
 - 🐹 **[wofimoji](https://github.com/kenshaw/wofimoji)**: A emoji picker for wofi.
 - 🐹 **[wordcount](https://github.com/cedrickchee/experiments)**: A collection of little snippets of programs I write when I test out ideas.
 - 🐹 **[workloads](https://fairwinds.com/insights)**: A repository of plugins for the Insights Agent.
@@ -10234,6 +10258,7 @@
 - 🐹 **[binary](https://github.com/xyproto/binary)**: Paw_prints: Detect if a file is binary or text.
 - 🐹 **[binary-package-manager](https://github.com/jduepmeier/binary-package-manager)**: A small package manager that installs binaries from github.
 - 🐹 **[bintree-benchmark](https://github.com/yarcat/playground)**: Various experiments.
+- 🐹 **[bip39checksum-go](https://github.com/alex27riva/bip39checksum-go)**: A simple go program to find the last BIP39 mnemonic word.
 - 🐹 **[blog](https://gitlab.com/efronlicht/blog)**: Source code for my software articles, including the popular series "Starting Systems Programming" and "Backend from the Beginning.
 - 🐹 **[bondreminderbot](https://github.com/xuqingfeng/bondreminderbot)**: 可转债小助手.
 - 🐹 **[boot-transparency](https://github.com/usbarmory/boot-transparency)**: Go library which enables interaction with transparency ecosystems for boot loading operations.
@@ -10433,6 +10458,7 @@
 - 🐹 **[imagic](https://github.com/cartland/imagic)**: Autostereogram generator hosted on the Go App Engine runtime.
 - 🐹 **[imprint](https://github.com/kessler-frost/imprint)**: Lets AI agents control a terminal and see what's on screen via MCP, allowing precise TUI testing.
 - 🐹 **[indexer](https://github.com/tyktechnologies/exp)**: This repository holds experimental and deprecated tooling.
+- 🐹 **[integration-test](https://github.com/rclone/integration-test)**: Setup for the rclone integration test server.
 - 🐹 **[invitebot](https://github.com/deltachat-bot/invitebot)**: Delta Chat bot that allows to generate invitation QRs and links for your private groups.
 - 🐹 **[inviter](https://github.com/reviewdog/inviter)**: Invite contributors to @reviewdog org automatically.
 - 🐹 **[iot_emulation](https://github.com/volodiapg/giraff)**: Using functions and auctions for a sustainable Fog model.
@@ -11036,6 +11062,7 @@
 - 🐹 **[grpc-basic](https://github.com/egustafson/sandbox)**: Example Code Snippets.
 - 🐹 **[grpc-client-cancel-recv-stream](https://github.com/egustafson/sandbox)**: Example Code Snippets.
 - 🐹 **[grpc-streaming](https://github.com/egustafson/sandbox)**: Example Code Snippets.
+- 🐹 **[grrep](https://grrep.com/)**: A small and fast recursive grep written in Go.
 - 🐹 **[gtmx](https://github.com/meinside/gtmx)**: Go-Tmux, easy Tmux runner.
 - 🐹 **[gtoken](https://github.com/imaware/gtoken)**: Securely access AWS services from GKE cluster.
 - 🐹 **[guilife](https://github.com/pneumaticdeath/guilife)**: A cross-platform GUI for Conway's Game of life written in Go.
@@ -12447,6 +12474,7 @@
 - 🐹 **[go-sftpd](https://github.com/cs8425/go-sftpd)**: A cross-platform, simple and easy-to-use SFTP server written in Go.
 - 🐹 **[go-signs](https://www.socallinuxexpo.org)**: ARCHIVED] Moved to socallinuxexpo/scale-signs.
 - 🐹 **[go-social-media-backend](https://github.com/codewithed/go-social-media-backend)**: A social media backend built using Go.
+- 🐹 **[go-stack](https://github.com/emilioforrer/go-stack)**: Production-ready Go scaffold template with clean architecture, lifecycle-managed dependency injection (samber/do), HTTP server (net/http + Huma/OpenAPI), CLI scaffolding, 45+ AI agent skills for Claude/Copilot/OpenCode, and built-in DevOps security tooling.
 - 🐹 **[go-stats-calculator](https://github.com/jftuga/go-stats-calculator)**: CLI tool for computing statistics (mean, median, variance, std-dev, skewness, etc.
 - 🐹 **[go-sudoku](https://github.com/rumendamyanov/go-sudoku)**: Fast, dependency-light Sudoku generator & solver for Go — classic 9x9 plus configurable smaller grids — with guaranteed unique puzzles, deterministic seeding, CLI, REST server, and optional GUI.
 - 🐹 **[go-syntax](https://github.com/arjundev17/go-syntax)**: A personal project repository focused on learning and implementing key concepts from Go (Golang).
@@ -12787,6 +12815,7 @@
 - 🐹 **[provider](https://github.com/dirien/pulumi-azapi)**: Pulumi provider for Azure API Management.
 - 🐹 **[provider](https://github.com/eventstore/pulumi-eventstorecloud)**: Pulumi provider for Event Store Cloud.
 - 🐹 **[provider](https://github.com/footholdtech/pulumi-fivetran)**: A Pulumi package for creating and managing Fivetran cloud resources.
+- 🐹 **[provider](https://github.com/pulumi/pulumi-auto-deploy)**: Automatic dependent stack updates via Pulumi Deployments.
 - 🐹 **[provider](https://github.com/pulumiverse/pulumi-heroku)**: Pulumi provider for Heroku.
 - 🐹 **[pull-request-title-validator](https://github.com/kontrolplane/pull-request-title-validator)**: GitHub Action for validation of pull request titles based on the conventional commit specification.
 - 🐹 **[pups](https://github.com/dogeorg/pups)**: Dogecoin Foundation maintained Dogebox pups.
@@ -12927,6 +12956,7 @@
 - 🐹 **[teamspeak-to-telegram](https://github.com/kevincali/teamspeak-to-telegram)**: Shows currently online TeamSpeak users in Telegram.
 - 🐹 **[telegraf-exec-btrfs-status](https://github.com/iwvelando/telegraf-exec-btrfs-status)**: A simple tool to extract btrfs status and output Influx line protocol; usable as a telegraf input plugin.
 - 🐹 **[temp-to-cloud](https://github.com/thomashabets/temp-to-cloud)**: Upload temperature measurements to Stackdriver.
+- 🐹 **[template](https://github.com/emilioforrer/go-stack)**: Production-ready Go scaffold template with clean architecture, lifecycle-managed dependency injection (samber/do), HTTP server (net/http + Huma/OpenAPI), CLI scaffolding, 45+ AI agent skills for Claude/Copilot/OpenCode, and built-in DevOps security tooling.
 - 🐹 **[template-for-go-projects](https://github.com/asyncapi/template-for-go-projects)**: This is a repository template for golang projects.
 - 🐹 **[template-wh](https://github.com/pete911/template-wh)**: Kubernetes template mutating admission webhook.
 - 🐹 **[termtyper](https://github.com/fr3dr/termtyper)**: Typing test in the terminal.
@@ -13080,6 +13110,7 @@
 - 🐹 **[8ball](https://github.com/ollycat/8ball)**: Magic ball for fun.
 - 🐹 **[_example](https://github.com/traptitech/go-traq-oauth2)**: Package traqoauth2 provides constants for using OAuth2 to access traQ.
 - 🐹 **[a_uintptr_bug](https://github.com/campanulamediuml/a_uintptr_bug)**: 一个uintptr触发的bug.
+- 🐹 **[acache](https://github.com/pornopatsan/acache)**: Simple Cache Server on Golang using gRPC.
 - 🐹 **[ace](https://github.com/middle-management/ace)**: Append-only enCrypted Environment variables.
 - 🐹 **[ace](https://github.com/slaskis/ace)**: Append-only enCrypted Environment variables.
 - 🐹 **[acm-cli](https://github.com/stolostron/acm-cli)**: Collection of binaries for managing ACM.
@@ -13130,6 +13161,7 @@
 - 🐹 **[algorithmsolutions](https://github.com/fr0stfree/algorithmsolutions)**: Repo for leetcode/codewars problem solving.
 - 🐹 **[allengaller.github.io](https://allengaller.github.io)**: Personal Main Page.
 - 🐹 **[alsa](https://github.com/gen2brain/alsa)**: Go reimplementation of tinyalsa.
+- 🐹 **[am-discord](https://github.com/rtgnx/am-discord)**: Alertmanager discord forwarder.
 - 🐹 **[ambrogio](https://github.com/vulpemventures/ambrogio)**: Qualified assistant for kick-starting DDD projects.
 - 🐹 **[amisgo-examples](https://amisgo-examples.onrender.com)**: Examples for amisgo.
 - 🐹 **[amzcurl](https://github.com/ivoronin/amzcurl)**: A minimal wrapper around curl that adds AWS SigV4 authentication using credentials from the AWS SDK and automatic service detection.
@@ -13170,6 +13202,7 @@
 - 🐹 **[artifactory](https://github.com/vbehar/daggerverse)**: Custom Dagger modules for https://daggerverse.
 - 🐹 **[asciiart](https://github.com/jeffc25/asciiart)**: Image-to-ASCII tool with angled edge detection.
 - 🐹 **[asm](https://github.com/bwesterb/go-and)**: Fast bitwise operations on byte-slices.
+- 🐹 **[asm-go](https://github.com/itsubaki/asm-go)**: Go assembly playground.
 - 🐹 **[assets](https://nayuki.cyou)**: Nayuki.
 - 🐹 **[ast](https://github.com/boschglobal/dse.clib)**: C Library of the Dynamic Simulation Environment Core Platform.
 - 🐹 **[ast-extract](https://michurin.github.io/warehouse/)**: Homeless things.
@@ -13292,6 +13325,7 @@
 - 🐹 **[cloud-server-auth](https://github.com/mattermost/mattermost-cloud-lambdas)**: Lambdas created and used for mattemost cloud operations.
 - 🐹 **[clouder](https://k8s-school.fr)**: One-liner to create Google Cloud GKE or GCE cluster.
 - 🐹 **[cloudflare-colo-status](https://github.com/piger/cloudflare-colo-status)**: Shows the status of Cloudflare's colocations in the command-line.
+- 🐹 **[cloudflare-ddns](https://github.com/rokoucha/cloudflare-ddns)**: Create or Update dns record in cloudflare.
 - 🐹 **[cloudflare-dns-cleaner](https://github.com/appscodelabs/cloudflare-dns-cleaner)**: DELETE all dns records from a Cloudflare Zone.
 - 🐹 **[cloudquery](https://github.com/opshelminc/cloudquery)**: Fork of the cloudquery repo.
 - 🐹 **[cloudsploit](https://github.com/ca-risken/common)**: 共通のライブラリやローカル開発環境のための何か.
@@ -13481,6 +13515,7 @@
 - 🐹 **[es](https://github.com/zmoog/es)**: Elasticsearch CLI tool.
 - 🐹 **[esbuild-py](https://github.com/keller-mark/esbuild-py)**: Python bindings to the esbuild Transform API.
 - 🐹 **[escape-to-the-heap-examples](https://michurin.github.io/warehouse/)**: Homeless things.
+- 🐹 **[escposimg](https://github.com/72nd/escposimg)**: Convert images to ESC/POS commands for receipt printers.
 - 🐹 **[etc2](https://github.com/nigeltao/etc2)**: Ericsson Texture Compression in Go.
 - 🐹 **[eugenefelix](https://github.com/nonomino)**: Profile READMe.
 - 🐹 **[eventrouter](https://github.com/mwennrich/eventrouter)**: A simple introspective kubernetes service that forwards events to a specified sink.
@@ -14215,6 +14250,7 @@
 - 🐹 **[pr-watch](https://github.com/andrewkroh/go-examples)**: A scratchpad for Go examples and test code.
 - 🐹 **[praytime-load](https://praytime.app)**: Praytime: Iqamah Time Aggregation Service.
 - 🐹 **[predict](https://github.com/xyproto/predict)**: Commandline utility for predicting left or right arrow key presses.
+- 🐹 **[preprocessing-base](https://github.com/artefactual-sdps/preprocessing-base)**: Enduro child workflows template repository.
 - 🐹 **[preprocessing-moma](https://github.com/artefactual-sdps/preprocessing-moma)**: Preprocessing for the museum of modern arts.
 - 🐹 **[primary](https://github.com/xhd2015/go-inspect)**: A library that enables you to instrument your go code easily.
 - 🐹 **[printer](https://github.com/khuedoan/playground)**: Just my playground, nothing to see here.
@@ -14438,6 +14474,7 @@
 - 🐹 **[steam](https://github.com/zalgonoise/x)**: Experimental Go libraries (take it with a grain of salt.
 - 🐹 **[step-kmsproxy-plugin](https://github.com/orbit-online/step-kmsproxy-plugin)**: HSM backed authenticating proxy for mTLS services.
 - 🐹 **[storage-server](https://github.com/utarwyn/storage-server)**: Lightweight production-ready static storage web server.
+- 🐹 **[stored](https://github.com/mpdroog/stored)**: Storage daemon.
 - 🐹 **[str](https://github.com/mattmc3/str)**: A modern command line string utility.
 - 🐹 **[stracectl](https://fabianoflorentino.github.io/stracectl/)**: A modern strace with a real-time with TUI and an HTTP API.
 - 🐹 **[strava-tile-proxy](https://github.com/apexskier/strava-tile-proxy)**: Proxy strava heatmap tiles.
@@ -15172,6 +15209,7 @@
 - 🐹 **[cli](https://github.com/thajeztah/cli)**: The Docker CLI.
 - 🐹 **[cli-cobra](https://github.com/piprim/goplt-tmpl)**: Collection of goplt templates.
 - 🐹 **[cli-games](https://github.com/keenbytes/cli-games)**: Terminal-based games for kids.
+- 🐹 **[cli-template](https://github.com/qdm12/cli-template)**: A template for cross platform, cross CPU binary CLI tools.
 - 🐹 **[clibana](https://github.com/ivoronin/clibana)**: Clibana - A CLI tool for OpenSearch, providing Kibana-like log search, export and live tailing with -f support.
 - 🐹 **[clice](https://github.com/crhntr/clice)**: A simple extensible spreadsheet web-app in Go.
 - 🐹 **[clickhouse-connect-proxy](https://github.com/njublockchain/clickhouse-connect-proxy)**: A simple reverse proxy for Clickhouse database.
