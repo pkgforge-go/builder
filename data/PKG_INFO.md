@@ -4769,6 +4769,7 @@
 - 🐹 **[verify-resource](https://github.com/sigstore/k8s-manifest-sigstore)**: Kubectl plugin for signing Kubernetes manifest YAML files with sigstore.
 - 🐹 **[ecommerce](https://nesohq.github.io/bgce-archive/)**: Best Golang Community Ever Archive.
 - 🐹 **[go_mapreduce](https://dan.bravender.net)**: A simple MapReduce implementation in Google Go.
+- 🐹 **[middleman](https://github.com/wesm/middleman)**: Local-first GitHub dashboard for maintainers to triage, review, and merge PRs and issues across repos without needing GitHub's built-in notification emails or dashboard.
 - 🐹 **[morph](https://github.com/morph-l2/morph)**: Morph Monorepo.
 - 🐹 **[quick_start](https://github.com/cutelittledevil/go-jt808)**: Jt808服务端 单机[2核4G]并发10w+ 100%测试覆盖率 例子丰富(每日保存亿+经纬度  JT1078流媒体播放 jt808转gb28181 兼容任意808服务 真实设备对接案例等.
 - 🐹 **[s3zipper](https://engineroom.teamwork.com/)**: Simple Steaming S3 File Zipper Microservice - works with any backend via redis and redirection.
@@ -8256,6 +8257,7 @@
 - 🐹 **[coins](https://github.com/1995parham-teaching/interviews)**: Use code to remember the awesome moments of our lives :heart_eyes: :see_no_evil.
 - 🐹 **[collagol](http://collagol.douady.paris/)**: Collaborative Game of Life.
 - 🐹 **[credimi](https://credimi.io)**: Automated interoperability/conformance testing and marketplace for decentralized identity solutions (EUDI.
+- 🐹 **[cute_mold](https://github.com/abcdeab/cute_mold)**: Mold grow and evolution simulation.
 - 🐹 **[cutemold](https://github.com/abcdeab/cutemold)**: Mold grow and evolution simulation.
 - 🐹 **[d2pfuzz](https://github.com/agnopraxlab/d2pfuzz)**: D2PFuzz, Fuzzer tool for analyze devp2p protocol.
 - 🐹 **[datadog-sidekiq](https://github.com/feedforce/datadog-sidekiq)**: Send Sidekiq metrics to Datadog via DogStatsD.
@@ -9542,6 +9544,7 @@
 - 🐹 **[accumulate](https://gitlab.com/accumulatenetwork/accumulate)**: The core implementation of the Accumulate protocol.
 - 🐹 **[acme-account-creation-tool](https://cloud.ibm.com/docs/secrets-manager)**: Utility to create or retrieve an account with certificate authorities that support the Automatic Certificate Management Environment (ACME) protocol.
 - 🐹 **[actionspin](https://github.com/mashiike/actionspin)**: Bulk replace GitHub Actions references from version tags to commit hashes for locked, reproducible workflows.
+- 🐹 **[air-menu](https://github.com/rokostik/air-menu)**: Airthings data in your MacOS menu bar.
 - 🐹 **[algobattle](https://algobattle.org)**: Let teams compete by making them create hard instances and fast solvers for problems of your choice.
 - 🐹 **[alud-dact](https://github.com/rug-compling/alud)**: A Go package for deriving Universal Dependencies from Dutch sentences parsed with Alpino.
 - 🐹 **[amp](https://github.com/txn2/amp)**: Kubernetes Dynamic Admission Control mutating Webhook proxy for Pods.
@@ -14244,6 +14247,7 @@
 - 🐹 **[pos-printer](https://github.com/aro-wolo/pos-printer)**: Pos-printer is a Go application designed to fetch order details from an API and print a formatted receipt on a thermal printer.
 - 🐹 **[posterr-cli](https://github.com/jyggen/posterr-cli)**: A CLI tool to update Plex posters to the best ones available on the internet.
 - 🐹 **[postgresql-archiver](https://github.com/airframesio/postgresql-archiver)**: A high-performance CLI tool for archiving PostgreSQL partitioned table data to S3-compatible object storage.
+- 🐹 **[powerlab](https://github.com/neochaotic/powerlab)**: The headless OS panel for home servers and edge boxes — self-hosted, AI-friendly, beautiful.
 - 🐹 **[powervs-hack](https://github.com/hamzy/powervs-hack)**: Tools for PowerVS cloud.
 - 🐹 **[pprof-web](https://github.com/wzxjohn/pprof-web)**: Web proxy for Go pprof endpoints - access pprof debug endpoints through firewalls with an interactive UI.
 - 🐹 **[pr-checker-go](https://github.com/rapatao/pr-checker-go)**: A standalone macOS menu bar application to monitor your GitHub pull requests.
@@ -14804,6 +14808,7 @@
 - 🐹 **[adventofcode](https://github.com/yardenshoham/adventofcode)**: Solutions for Advent of Code.
 - 🐹 **[adventofgocode](https://github.com/bruceadowns/adventofgocode)**: Golang solutions to the adventofcode christmas problems.
 - 🐹 **[aegis](https://github.com/sardonyx001/aegis)**: Aegis: simple file encryption/decryption based on MinIO's DARE format and sio library.
+- 🐹 **[aegis-core](https://binhsu.org)**: Real-time meeting transcription + multilingual RAG for chief-of-staff workflows.
 - 🐹 **[aesnet256](https://github.com/irq-conflict/aesnet256)**: A self contained local alternative to the aesencryption.
 - 🐹 **[aether-shield](https://skygenesisenterprise.com)**: Open-source, declarative and observable firewall for modern infrastructures.
 - 🐹 **[aether-vault](https://skygenesisenterprise.com)**: An open-source secrets and TOTP vault designed as a security control plane for developers.
