@@ -3492,6 +3492,7 @@
 - 🐹 **[watchtower](http://watchtower.nickfedor.com/)**: Automate Docker container image updates.
 - 🐹 **[automation](https://github.com/pulumi/automation-api-examples)**: Examples for the Pulumi Automation API https://pkg.
 - 🐹 **[coreos-installer](https://coreos.github.io/coreos-installer/)**: Installer for CoreOS disk images.
+- 🐹 **[exploitdb](https://gitlab.com/exploit-database/exploitdb)**: Exploitdb // The official Exploit-Database repository.
 - 🐹 **[fargate](https://github.com/pulumi/automation-api-examples)**: Examples for the Pulumi Automation API https://pkg.
 - 🐹 **[aws-vpn-client](https://github.com/samm-git/aws-vpn-client)**: Connect to the AWS Client VPN with SAML using OSS Client.
 - 🐹 **[app](https://github.com/pulumi/automation-api-examples)**: Examples for the Pulumi Automation API https://pkg.
@@ -5812,6 +5813,7 @@
 - 🐹 **[hades](https://github.com/wardle/hades)**: A FHIR terminology server.
 - 🐹 **[lcui](https://github.com/kharyam/go-litra-driver)**: Go implementation of a CLI and UI to control Logitech Litra Glow and Beam.
 - 🐹 **[ns_server](http://developer.couchbase.com)**: The Membase Server Superdupervisor.
+- 🐹 **[pkgstats-cli](https://pkgstats.archlinux.de/)**: Pkgstats client.
 - 🐹 **[signal-portable](https://portapps.io/app/signal-portable/)**: Signal portable for Windows.
 - 🐹 **[siv-mode](https://github.com/cryptomator/siv-mode)**: RFC 5297 SIV mode of operation in Java.
 - 🐹 **[system](https://github.com/spencertorres/click-v)**: A RISC-V emulator built with ClickHouse SQL.
@@ -10154,6 +10156,7 @@
 - 🐹 **[ristretto255](https://github.com/koba-e964/code-reading)**: コードリーディングした結果わかったことをまとめる。gist だと一覧性に欠け管理しにくいので git で管理する.
 - 🐹 **[rootkit_scanner](https://github.com/njcx/rootkit_scanner)**: This scanner supports both kernel-mode and user-mode rootkits.
 - 🐹 **[ru-domains](https://github.com/makdren/ru-domains)**: Файл Geosite для различных проектов.
+- 🐹 **[runtime](https://contenox.com)**: Built for agentic AI workflows.
 - 🐹 **[rxgo](https://github.com/gunsluo/go-example)**: Study go example.
 - 🐹 **[s3post](https://up.dabase.com/)**: Golang sample to POST directly to an S3 bucket.
 - 🐹 **[scoringengine](https://scoreboard.netkoth.org)**: Scoring engine for NetKotH.
