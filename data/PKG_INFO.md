@@ -2117,6 +2117,7 @@
 - 🐹 **[spp](https://github.com/esrrhs/spp)**: A simple and powerful proxy.
 - 🐹 **[srp](https://github.com/esrrhs/srp)**: A simple and powerful proxy.
 - 🐹 **[voapi](https://demo.voapi.top)**: 全新下一代高颜值、高性能、高扩展的智能AI大模型API聚合分发系统 | A new next-generation high-value, high-performance, and highly scalable intelligent AI large-model API aggregation and distribution.
+- 🐹 **[risor](https://risor.io)**: Risor is a fast, embeddable scripting language for Go applications.
 - 🐹 **[mangle-test-json](https://azure.github.io/azure-service-operator/)**: Azure Service Operator allows you to create Azure resources using kubectl.
 - 🐹 **[demo1](https://github.com/bigwhite/experiments)**: Personal code, scripts and config files for experiments.
 - 🐹 **[demo4](https://github.com/bigwhite/experiments)**: Personal code, scripts and config files for experiments.
@@ -3018,6 +3019,7 @@
 - 🐹 **[da](https://github.com/celestiaorg/rollmint)**: A modular framework for building performant networks, pushing the boundary of today in order to build the apps of tomorrow.
 - 🐹 **[geocn](https://github.com/ljxi/geocn)**: 中国大陆高精度IPV4+IPV6离线库，部分IP精确到区.
 - 🐹 **[da](https://github.com/celestiaorg/optimint)**: A modular framework for building performant networks, pushing the boundary of today in order to build the apps of tomorrow.
+- 🐹 **[dasarpemrogramangolang-example](https://dasarpemrogramangolang.novalagung.com/)**: Source Code Praktik E-book Dasar Pemrograman Golang.
 - 🐹 **[umh-core](https://www.umh.app)**: The Open-Source toolkit to build your own reliable and secure Industrial IoT platform.
 - 🐹 **[grpc](https://skywalking.apache.org/)**: The Golang auto-instrument Agent for Apache SkyWalking, which provides the native tracing/metrics/logging abilities for Golang projects.
 - 🐹 **[nami](https://www.txthinking.com)**: A clean and tidy decentralized package manager.
@@ -3481,6 +3483,7 @@
 - 🐹 **[tilt-extensions](https://tilt.dev/)**: Extensions for Tilt.
 - 🐹 **[tilt-extensions](https://tilt.dev/)**: Extensions for Tilt.
 - 🐹 **[tns](https://github.com/grafana/tns)**: Observability Demo App.
+- 🐹 **[v2](https://github.com/mayth/go-simple-upload-server)**: Simple HTTP server to save artifacts.
 - 🐹 **[cmdg](https://github.com/thomashabets/cmdg)**: Command line Gmail client.
 - 🐹 **[dbcrossbar](https://www.dbcrossbar.org/)**: Copy tabular data between databases, CSV files and cloud storage.
 - 🐹 **[kontain.me](https://github.com/imjasonh/kontain.me)**: Container image registry that serves images built fresh when you ask for them.
@@ -4392,6 +4395,7 @@
 - 🐹 **[table](https://pkg.go.dev/github.com/aquasecurity/table)**: Abacus: Tables for terminals, in Go.
 - 🐹 **[tsm](https://github.com/adibhanna/tsm)**: Terminal session manager.
 - 🐹 **[v2](https://github.com/grafana/smtprelay)**: Simple Golang SMTP relay/proxy server.
+- 🐹 **[yt2pod](https://github.com/frou/yt2pod)**: Daemon that monitors YouTube channels and publishes audio podcasts of them.
 - 🐹 **[agent](https://bullfrogsec.com)**: Simple plug-and-play Github Action to block unauthorized outbound traffic (egress) in your Github workflows.
 - 🐹 **[cert-manager-webhook-ovh](https://github.com/baarde/cert-manager-webhook-ovh)**: OVH Webhook for Cert Manager.
 - 🐹 **[changelog](https://github.com/falcosecurity/plugins)**: Falco plugins registry.
@@ -5678,6 +5682,7 @@
 - 🐹 **[go-grpc](https://github.com/wso2/choreo-samples)**: This will contain integration and service samples displayed in choreo.
 - 🐹 **[go-heroku-example](http://mmcgrana.github.com/2012/09/getting-started-with-go-on-heroku.html)**: Hello world Heroku app written in Go.
 - 🐹 **[go-heroku-example](http://mmcgrana.github.com/2012/09/getting-started-with-go-on-heroku.html)**: Hello world Heroku app written in Go.
+- 🐹 **[go-which](https://pkg.go.dev/github.com/hairyhenderson/go-which)**: A cross-platform Go implementation of the which(1) command, usable both as a CLI and library.
 - 🐹 **[gorm](https://github.com/crazy-max/goxx)**: Go CGO cross-compiler Docker image.
 - 🐹 **[goxx](https://github.com/crazy-max/goxx)**: Go CGO cross-compiler Docker image.
 - 🐹 **[gz-transport](https://gazebosim.org)**: Transport library for component communication based on publication/subscription and service calls.
@@ -7756,6 +7761,7 @@
 - 🐹 **[go-easyrsa-migrate](https://github.com/kemsta/go-easyrsa)**: A drop-in replacement for easy-rsa as a Go library.
 - 🐹 **[go-github-apps](https://github.com/nabeken/go-github-apps)**: A tiny command-line utility to retrieve Github Apps Installation Token.
 - 🐹 **[go-h264-streamer](https://github.com/bezineb5/go-h264-streamer)**: Golang program/library to stream H264 from a Raspberry Pi to a browser.
+- 🐹 **[go-hdrezka](https://github.com/n0madic/go-hdrezka)**: Scraper package for HDrezka site.
 - 🐹 **[go-lib](https://github.com/ikun2021/go-lib)**: Go一些常用库的用法.
 - 🐹 **[go-lib](https://github.com/luxun9527/go-lib)**: Go一些常用库的用法.
 - 🐹 **[go-patch-overlay](https://github.com/felixge/go-patch-overlay)**: WIP.
@@ -7861,6 +7867,7 @@
 - 🐹 **[autoscaler](https://github.com/gardener/autoscaler)**: Customised fork of cluster-autoscaler to support machine-controller-manager.
 - 🐹 **[bed](https://github.com/lee101/gobed)**: Static embedding models in golang.
 - 🐹 **[bench](https://github.com/philpearl/symboltab)**: A hopefully fast symbol table (string <=> integer sequence number.
+- 🐹 **[bench](https://reliablyobserve.github.io/loki-vl-proxy/)**: Loki-compatible API proxy for VictoriaLogs.
 - 🐹 **[binance_withdraw](https://github.com/flashydepre/Binance_withdraw)**: Batch withdraw from Binance.
 - 🐹 **[bodkin](https://github.com/loicalleyne/bodkin)**: Go library for decoding generic map values and native Go structures into Arrow.
 - 🐹 **[bump](https://github.com/magiconair/bump)**: Tool for managing versions in git tags.
@@ -8963,6 +8970,7 @@
 - 🐹 **[pubsub.kafka](https://github.com/dapr-sandbox/components-go-sdk)**: Dapr SDK to compose pluggable components in Go.
 - 🐹 **[pubsub.memory](https://github.com/dapr-sandbox/components-go-sdk)**: Dapr SDK to compose pluggable components in Go.
 - 🐹 **[pubsub.redis](https://github.com/dapr-sandbox/components-go-sdk)**: Dapr SDK to compose pluggable components in Go.
+- 🐹 **[pyck-oss](https://pyck.ai)**: An Open-Source warehousing framework, engineered for the AI era.
 - 🐹 **[qmk_keymaps](https://github.com/haunt98/qmk_keymaps)**: Custom QMK keymaps.
 - 🐹 **[qubitengine](https://github.com/perclft/qubitengine)**: QubitEngine is a production-ready, distributed quantum circuit simulator designed for both research and real-world applications.
 - 🐹 **[raindrop-alfread-workflow](https://github.com/ytakahashi/raindrop-alfread-workflow)**: Alfred workflow to see bookmarks stored on Raindrop.
@@ -10431,6 +10439,7 @@
 - 🐹 **[go-mcp-postgres](https://github.com/guoling2008/go-mcp-postgres)**: Zero burden, ready-to-use Model Context Protocol (MCP) server for interacting with postgresql and automation with sse / stdio mode and i18n support.
 - 🐹 **[go-offline-packager](https://github.com/go-sharp/go-offline-packager)**: A simple tool to manage dependencies in an air-gapped environment.
 - 🐹 **[go-prof-app](https://github.com/felixge/go-prof-app)**: WIP.
+- 🐹 **[go-spanner-cassandra](https://github.com/googleapis/go-spanner-cassandra)**: Cassandra wire-protocol proxy for Cloud Spanner.
 - 🐹 **[go-translate-cli](https://github.com/rnoldo/go-translate-cli)**: A cli tool for translation between Chinese and English （一个用go和cli写的用于osx命令行的翻译工具.
 - 🐹 **[go-underly-principle](https://github.com/progzc/summary4golang)**: Summary for Golang.
 - 🐹 **[go-varlink](https://github.com/emersion/go-varlink)**: A Go library for Varlink.
@@ -14470,6 +14479,7 @@
 - 🐹 **[sk8l-api](https://sk8l.io/)**: Cronjob monitoring and visualization in kubernetes.
 - 🐹 **[skool-loom-dl](https://github.com/fx64b/skool-loom-dl)**: A skool loom video downloader written in go.
 - 🐹 **[skupper-example-tcp-echo](https://skupper.io/)**: A minimal example showing multi-cluster TCP communication.
+- 🐹 **[slackhog](https://github.com/harakeishi/slackhog)**: A MailHog-like tool for Slack.
 - 🐹 **[slashmovie-go](https://github.com/chiefy/slashmovie-go)**: Movie lookup for Slack.
 - 🐹 **[small](https://stefanvanburen.xyz/blog/small/)**: Small is a .
 - 🐹 **[small](https://stefanvanburen.xyz/blog/small/)**: Small is a .
@@ -14580,6 +14590,7 @@
 - 🐹 **[tg-led](https://github.com/0xfelix/tg-led)**: Small utility to control the LED state of TG6442VF modems (Vodafone Station Wi-Fi 6 Arris.
 - 🐹 **[things-cloud-sdk](https://github.com/arthursoares/things-cloud-sdk)**: Golang client for the culturedcode things cloud.
 - 🐹 **[thirdparty](https://github.com/ddddddo/work)**: お試し.
+- 🐹 **[thoth-operator](https://docs.atensecurity.com/docs/kubernetes-operator/)**: Kubernetes operator for managing Thoth headless control-plane resources.
 - 🐹 **[tibia-sprites-exporter](https://github.com/tilaven/tibia-sprites-exporter)**: A small, fast, and cross-platform CLI utility to extract Tibia client sprite sheets into PNG files and optionally split them into  per-sprite PNGs named by their sprite ID.
 - 🐹 **[tictacgo](https://github.com/ef-eff/tictacgo)**: Tic Tac Toe using Golang on as many aspects of the game as possible.
 - 🐹 **[tidbgw](https://github.com/dveeden/tidbgw)**: TiDB Gateway.
@@ -15665,6 +15676,7 @@
 - 🐹 **[entropy](https://pkg.go.dev/go.foxforensics.dev/entropy)**: File entropy calculation tool.
 - 🐹 **[env2json](https://github.com/gbretas/env2json)**: Convert .
 - 🐹 **[envctl](https://github.com/siddhesh-agarwal/envctl)**: CLI Tool for API key management.
+- 🐹 **[envfold](https://github.com/senotrusov/envfold)**: Fast, centralized environment variable manager with a single global config that automatically loads and unloads variables based on your current directory using pure shell logic, without spawning external processes or relying on per-directory .
 - 🐹 **[envlens](https://github.com/craigf-svg/envlens)**: A Go utility to easily manage environment variables from the terminal.
 - 🐹 **[envoy](https://www.envoyproxy.io)**: Cloud-native high-performance edge/middle/service proxy.
 - 🐹 **[envr](https://github.com/sbrow/envr)**: Manage and Backup your .
