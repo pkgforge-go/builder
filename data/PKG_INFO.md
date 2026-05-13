@@ -9405,6 +9405,7 @@
 - 🐹 **[go-polyjson](https://github.com/polyfloyd/go-polyjson)**: Moved to https://codeberg.
 - 🐹 **[go-rules](https://github.com/please-build/go-rules)**: Golang rules for the Please build system.
 - 🐹 **[go-sandbox](https://github.com/supply-chain-tools/go-sandbox)**: Experimental supply chain tools.
+- 🐹 **[go-wallet-toolbox](https://github.com/bsv-blockchain/go-wallet-toolbox)**: Tools for building effective, compliant BRC-100 wallets in Go language.
 - 🐹 **[go_xml](https://github.com/rhysd/misc)**: A scrapyard for miscellaneous files which belong to no project.
 - 🐹 **[gobetter](https://github.com/mobiletoly/gobetter)**: GO Better - code generated builders for Go struct.
 - 🐹 **[godeps](https://hephbuild.github.io/heph)**: Efficient build system.
@@ -13800,6 +13801,7 @@
 - 🐹 **[go2readme](https://github.com/gnue/go2readme)**: Generate README for Go program.
 - 🐹 **[go_chat](https://github.com/onnenon/go_chat)**: A basic WebSocket client/server cli chat app written in Go.
 - 🐹 **[go_gal](https://github.com/rhamdeew/go_gal)**: A password-protected web gallery application written in Go.
+- 🐹 **[go_rpc_microservice](https://github.com/manvirag982/tech_learning_tinkering)**: Tinkering with code.
 - 🐹 **[go_tour_src](https://github.com/go-gurus/go_tour_src)**: Source code examples for the workshop https://github.
 - 🐹 **[goadiftools](https://github.com/jj1bdx/goadiftools)**: Go tools for amateur radio ADIF files.
 - 🐹 **[goalodoro](https://github.com/albertarakelyan/goalodoro)**: A Goal-Focused Time Tracker written in Go.
@@ -15189,6 +15191,7 @@
 - 🐹 **[cash](https://github.com/aromatt/cash)**: Memoizing cache for shell commands.
 - 🐹 **[catbow](https://github.com/jeremysball/catbow)**: Fast rainbow text in your terminal.
 - 🐹 **[catomic](https://github.com/jurgen-kluft/catomic)**: Lockfree, atomic library.
+- 🐹 **[catwalk](https://github.com/taigrr/catwalk)**: A collection of LLM inference providers and models.
 - 🐹 **[cbase](https://github.com/jurgen-kluft/cbase)**: C++ cross-platform base library.
 - 🐹 **[cbsd-mq-router](https://github.com/cbsd/cbsd-mq-router)**: CBSD message queue router.
 - 🐹 **[cc-assettransfer-go](https://github.com/kmilodenisglez/fabric-testnet-nano-without-syschannel)**: Fabric test network based on fabric-samples/test-network-nano-bash, but without using "system channel".
