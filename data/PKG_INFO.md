@@ -1522,6 +1522,7 @@
 - 🐹 **[playground](https://goccy.github.io/go-yaml)**: YAML support for the Go language.
 - 🐹 **[ycat](https://goccy.github.io/go-yaml)**: YAML support for the Go language.
 - 🐹 **[examples](https://langwatch.ai)**: The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization.
+- 🐹 **[octopus](https://github.com/bestruirui/octopus)**: One Hub All LLMs For You | 为个人打造的 LLM API 聚合服务.
 - 🐹 **[realm](https://github.com/zhboner/realm)**: A network relay tool.
 - 🐹 **[snmp_exporter](https://github.com/prometheus/snmp_exporter)**: SNMP Exporter for Prometheus.
 - 🐹 **[websoft9](https://www.websoft9.com)**: Applications self-hosting and DevOps platform for running open source, web-based linux Panel of lite PaaS.
