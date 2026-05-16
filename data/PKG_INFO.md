@@ -822,6 +822,7 @@
 - 🐹 **[persistence](http://proto.actor)**: Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin.
 - 🐹 **[remote-activate](http://proto.actor)**: Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin.
 - 🐹 **[remote-routing](http://proto.actor)**: Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin.
+- 🐹 **[pmd](https://pmd.github.io)**: An extensible multilanguage static code analyzer.
 - 🐹 **[persistence](http://proto.actor)**: Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin.
 - 🐹 **[lambda](https://fleetdm.com)**: Open device management.
 - 🐹 **[backend](https://github.com/coze-dev/cozeloop)**: Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.
@@ -1830,6 +1831,9 @@
 - 🐹 **[tools](https://deckhouse.io)**: Kubernetes platform from Flant.
 - 🐹 **[rate-limiting](https://github.com/modelcontextprotocol/go-sdk)**: The official Go SDK for Model Context Protocol servers and clients.
 - 🐹 **[gpt2](https://github.com/gomlx/gomlx)**: GoMLX: An Accelerated Machine Learning Framework For Go.
+- 🐹 **[tcpproxy](https://pkg.go.dev/github.com/inetaf/tcpproxy)**: Proxy TCP connections based on static rules, HTTP Host headers, and SNI server names (Go package or binary.
+- 🐹 **[tcpproxy](https://pkg.go.dev/github.com/inetaf/tcpproxy)**: Proxy TCP connections based on static rules, HTTP Host headers, and SNI server names (Go package or binary.
+- 🐹 **[tcpproxy](https://pkg.go.dev/github.com/inetaf/tcpproxy)**: Proxy TCP connections based on static rules, HTTP Host headers, and SNI server names (Go package or binary.
 - 🐹 **[builder](https://cloud.google.com/cloud-build/)**: Community-contributed images for Google Cloud Build.
 - 🐹 **[cloud-builders-community](https://cloud.google.com/cloud-build/)**: Community-contributed images for Google Cloud Build.
 - 🐹 **[slackbot](https://cloud.google.com/cloud-build/)**: Community-contributed images for Google Cloud Build.
