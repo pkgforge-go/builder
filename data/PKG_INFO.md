@@ -839,6 +839,7 @@
 - 🐹 **[http-metadata-server](https://kvcache-ai.github.io/Mooncake/)**: Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.
 - 🐹 **[dockerize](https://github.com/jwilder/dockerize)**: Utility to simplify running applications in docker containers.
 - 🐹 **[how-to-build-a-coding-agent](https://ghuntley.com/agent/)**: A workshop that teaches you how to build your own coding agent.
+- 🐹 **[src](https://zoraxy.aroz.org)**: A general purpose HTTP reverse proxy and forwarding tool.
 - 🐹 **[v2](https://github.com/confluentinc/confluent-kafka-go)**: Confluent's Apache Kafka Golang client.
 - 🐹 **[v2](https://github.com/confluentinc/confluent-kafka-go)**: Confluent's Apache Kafka Golang client.
 - 🐹 **[v2](https://github.com/confluentinc/confluent-kafka-go)**: Confluent's Apache Kafka Golang client.
@@ -2630,6 +2631,7 @@
 - 🐹 **[chainloop](https://docs.chainloop.dev)**: SDLC evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more.
 - 🐹 **[kurtosis](https://docs.kurtosistech.com/)**: A platform for packaging and launching blockchain infra.
 - 🐹 **[sigtop](https://github.com/tbvdm/sigtop)**: Export messages from Signal Desktop.
+- 🐹 **[cli](https://docs.kurtosistech.com/)**: A platform for packaging and launching blockchain infra.
 - 🐹 **[files_artifacts_expander](https://docs.kurtosistech.com/)**: A platform for packaging and launching blockchain infra.
 - 🐹 **[cloud-run-button](https://cloud.run)**: Let anyone deploy your GitHub repos to Google Cloud Run with a single click.
 - 🐹 **[launcher](https://kolide.com/launcher)**: Osquery launcher, autoupdater, and packager.
