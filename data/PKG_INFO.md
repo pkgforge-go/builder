@@ -806,6 +806,7 @@
 - 🐹 **[helpers](https://docs.github.com/en/code-security/dependabot)**: Dependabot's core logic for creating update PRs.
 - 🐹 **[unit](https://unit.nginx.org)**: NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming language runtimes.
 - 🐹 **[repo_not_found](https://docs.github.com/en/code-security/dependabot)**: Dependabot's core logic for creating update PRs.
+- 🐹 **[red-discordbot](https://docs.discord.red)**: A multi-function Discord bot.
 - 🐹 **[autofs](https://cubefs.io)**: Cloud-native distributed storage.
 - 🐹 **[_generate](https://github.com/klauspost/compress)**: Optimized Go Compression Packages.
 - 🐹 **[_generate](https://github.com/klauspost/compress)**: Optimized Go Compression Packages.
