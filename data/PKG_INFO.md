@@ -1445,6 +1445,7 @@
 - 🐹 **[websockify](https://tox.chat)**: The future of online communications.
 - 🐹 **[ts-proto](https://github.com/stephenh/ts-proto)**: An idiomatic protobuf generator for TypeScript.
 - 🐹 **[please](https://please.build)**: High-performance extensible build system for reproducible multi-language builds.
+- 🐹 **[src](https://bbernhard.github.io/signal-cli-rest-api/)**: Dockerized Signal Messenger REST API.
 - 🐹 **[picocrypt](https://github.com/hackeralert/picocrypt)**: A very small, very simple, yet very secure encryption tool.
 - 🐹 **[src](https://github.com/hackeralert/picocrypt)**: A very small, very simple, yet very secure encryption tool.
 - 🐹 **[collector](https://elkeid.bytedance.com)**: Elkeid is an open source solution that can meet the security requirements of various workloads such as hosts, containers and K8s, and serverless.
