@@ -1887,6 +1887,7 @@
 - 🐹 **[txt2img](https://github.com/k1low/deck)**: Deck is a tool for creating deck using Markdown and Google Slides.
 - 🐹 **[aws-lambda-router](https://cosmo-docs.wundergraph.com/)**: The open-source solution to building, maintaining, and collaborating on GraphQL Federation at Scale.
 - 🐹 **[go-wxpush](https://push.hzz.cool)**: 极简且免费的微信消息推送服务 (基于golang.
+- 🐹 **[http-jwks-example](https://github.com/auth0/go-jwt-middleware)**: A Middleware for Go Programming Language to check for JWTs on HTTP requests.
 - 🐹 **[v2](https://go-doudou.github.io)**: Go-doudou（doudou pronounce /dəudəu/）is OpenAPI 3.
 - 🐹 **[http-example](https://github.com/auth0/go-jwt-middleware)**: A Middleware for Go Programming Language to check for JWTs on HTTP requests.
 - 🐹 **[json-patch](https://github.com/evanphx/json-patch)**: A Go library to apply RFC6902 patches and create and apply RFC7386 patches.
@@ -1925,6 +1926,7 @@
 - 🐹 **[variants](https://jfa-go.com)**: A bit-of-everything user management app for Jellyfin.
 - 🐹 **[ini](https://jfa-go.com)**: A bit-of-everything user management app for Jellyfin.
 - 🐹 **[apptron](https://apptron.dev)**: Local-first development platform.
+- 🐹 **[golang](https://www.aliyun.com/product/agentbay)**: The Cloud Sandbox Built for AI Agents.
 - 🐹 **[account-gen](https://jfa-go.com)**: A bit-of-everything user management app for Jellyfin.
 - 🐹 **[yaml](https://jfa-go.com)**: A bit-of-everything user management app for Jellyfin.
 - 🐹 **[webanalyze](https://github.com/rverton/webanalyze)**: Port of Wappalyzer (uncovers technologies used on websites) to automate mass scanning.
