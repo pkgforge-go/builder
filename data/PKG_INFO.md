@@ -198,6 +198,7 @@
 - 🐹 **[productcatalogservice](https://cymbal-shops.retail.cymbal.dev)**: Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 - 🐹 **[shippingservice](https://cymbal-shops.retail.cymbal.dev)**: Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 - 🐹 **[neon](https://neon.tech)**: Neon: Serverless Postgres.
+- 🐹 **[v2](https://www.chezmoi.io/)**: Manage your dotfiles across multiple diverse machines, securely.
 - 🐹 **[learngo](http://twitter.com/inancgumus)**: 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes.
 - 🐹 **[goreplay](https://goreplay.org)**: GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data.
 - 🐹 **[gold](https://github.com/charmbracelet/gold)**: Render markdown on the CLI, with pizzazz.
@@ -371,6 +372,7 @@
 - 🐹 **[go-module-support](https://github.com/swaggo/swag)**: Automatically generate RESTful API documentation with Swagger 2.
 - 🐹 **[v2](https://goframe.org)**: A powerful framework for faster, easier, and more efficient project development.
 - 🐹 **[fscan](https://github.com/shadow1ng/fscan)**: 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描.
+- 🐹 **[sarama](https://github.com/ibm/sarama)**: Sarama is a Go library for Apache Kafka.
 - 🐹 **[txn_producer](https://github.com/shopify/sarama)**: Sarama is a Go library for Apache Kafka.
 - 🐹 **[consumergroup](https://github.com/ibm/sarama)**: Sarama is a Go library for Apache Kafka.
 - 🐹 **[consumergroup](https://github.com/shopify/sarama)**: Sarama is a Go library for Apache Kafka.
