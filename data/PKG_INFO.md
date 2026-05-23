@@ -1521,6 +1521,7 @@
 - 🐹 **[http-echo-tinygo](https://wasmcloud.com)**: WasmCloud is an open source Cloud Native Computing Foundation (CNCF) project that enables teams to build, manage, and scale polyglot apps across any cloud, K8s, or edge.
 - 🐹 **[http-hello-world](https://wasmcloud.com)**: WasmCloud is an open source Cloud Native Computing Foundation (CNCF) project that enables teams to build, manage, and scale polyglot apps across any cloud, K8s, or edge.
 - 🐹 **[opa](https://wasmcloud.com)**: WasmCloud is an open source Cloud Native Computing Foundation (CNCF) project that enables teams to build, manage, and scale polyglot apps across any cloud, K8s, or edge.
+- 🐹 **[beijing-iptv](https://bjiptv.gq/)**: 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.
 - 🐹 **[desktop](https://github.com/mattermost/desktop)**: Mattermost Desktop application for Windows, Mac and Linux.
 - 🐹 **[peladonerd](https://github.com/pablokbs/peladonerd)**: Repo con los archivos que uso para mi videos en youtube.
 - 🐹 **[gnostic](https://github.com/google/gnostic)**: A compiler for APIs described by the OpenAPI Specification with plugins for code generation and other API support tasks.
