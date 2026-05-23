@@ -258,6 +258,7 @@
 - 🐹 **[package](https://www.patreon.com/bhcleek)**: Go development plugin for Vim.
 - 🐹 **[vet](https://www.patreon.com/bhcleek)**: Go development plugin for Vim.
 - 🐹 **[veterror](https://www.patreon.com/bhcleek)**: Go development plugin for Vim.
+- 🐹 **[websocket](https://modelscope.github.io/FunASR)**: A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.
 - 🐹 **[tikv](https://tikv.org)**: Distributed transactional key-value database, originally created to complement TiDB.
 - 🐹 **[nix](https://nixos.org/)**: Nix, the purely functional package manager.
 - 🐹 **[cloud-spanner-bootstrap](https://skaffold.dev/)**: Easy and Repeatable Kubernetes Development.
@@ -821,6 +822,7 @@
 - 🐹 **[v3](https://github.com/sigstore/cosign)**: Code signing and transparency for containers and binaries.
 - 🐹 **[interview-go](http://interview.disign.me/)**: Golang面试题集合https://interview.
 - 🐹 **[applier](https://kgateway.dev)**: The Cloud-Native API Gateway and AI Gateway.
+- 🐹 **[dotenv](https://dotenvx.com/docs)**: A secure dotenv–from the creator of dotenv.
 - 🐹 **[tools](https://scorecard.dev)**: OpenSSF Scorecard - Security health metrics for Open Source.
 - 🐹 **[copilot-sdk](https://github.com/github/copilot-sdk)**: Multi-platform SDK for integrating GitHub Copilot Agent into apps and services.
 - 🐹 **[cluster-basic](http://proto.actor)**: Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin.
@@ -1653,6 +1655,7 @@
 - 🐹 **[mcuboot](https://github.com/runtimeco/mcuboot)**: Secure boot for 32-bit Microcontrollers.
 - 🐹 **[client](https://vald.vdaas.org)**: Vald.
 - 🐹 **[dyplomat](https://github.com/envoyproxy/go-control-plane)**: Go implementation of data-plane-api.
+- 🐹 **[calendar](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
 - 🐹 **[go-pinyin](https://godoc.org/github.com/mozillazg/go-pinyin)**: 汉字转拼音.
 - 🐹 **[pinyin](https://godoc.org/github.com/mozillazg/go-pinyin)**: 汉字转拼音.
 - 🐹 **[golang-examples](https://simonwaldherr.github.io/golang-examples/)**: Go(lang) examples - (explain the basics of #golang.
