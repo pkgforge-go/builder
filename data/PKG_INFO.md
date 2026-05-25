@@ -823,6 +823,7 @@
 - 🐹 **[interview-go](http://interview.disign.me/)**: Golang面试题集合https://interview.
 - 🐹 **[applier](https://kgateway.dev)**: The Cloud-Native API Gateway and AI Gateway.
 - 🐹 **[dotenv](https://dotenvx.com/docs)**: A secure dotenv–from the creator of dotenv.
+- 🐹 **[dotenvx](https://dotenvx.com/docs)**: A secure dotenv–from the creator of dotenv.
 - 🐹 **[tools](https://scorecard.dev)**: OpenSSF Scorecard - Security health metrics for Open Source.
 - 🐹 **[copilot-sdk](https://github.com/github/copilot-sdk)**: Multi-platform SDK for integrating GitHub Copilot Agent into apps and services.
 - 🐹 **[cluster-basic](http://proto.actor)**: Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin.
@@ -1386,6 +1387,7 @@
 - 🐹 **[agentfs](https://www.agentfs.ai)**: The filesystem for agents.
 - 🐹 **[tools](https://agentgateway.dev)**: Next Generation Agentic Proxy for AI Agents and MCP servers.
 - 🐹 **[config-tool](https://github.com/quay/quay)**: Build, Store, and Distribute your Applications and Containers.
+- 🐹 **[external](https://osv.dev)**: Open source vulnerability DB and triage service.
 - 🐹 **[appengine](https://cel.dev)**: Fast, portable, non-Turing complete expression evaluation with gradual typing (Go.
 - 🐹 **[eos](https://github.com/twmb/franz-go)**: Franz-go is a feature complete, pure Go library for Kafka from 0.
 - 🐹 **[group_consuming](https://github.com/twmb/franz-go)**: Franz-go is a feature complete, pure Go library for Kafka from 0.
@@ -1908,6 +1910,7 @@
 - 🐹 **[codex-wrapper](https://github.com/cexll/myclaude)**: Claude Code and Codex orchestration workflow.
 - 🐹 **[cmd](https://containerd.io)**: Cgroups package for Go.
 - 🐹 **[smartproxy](https://decodo.com)**: HTTP(S)/SOCKS5 rotating residential proxies - code examples & general information.
+- 🐹 **[qscan](https://github.com/qi4l/qscan)**: Lightning-fast internal network scanner.
 - 🐹 **[redress](https://github.com/goretk/redress)**: Redress - A tool for analyzing stripped Go binaries.
 - 🐹 **[abc](https://github.com/berkeley-abc/abc)**: ABC: System for Sequential Logic Synthesis and Formal Verification.
 - 🐹 **[dragonos](https://dragonos.org)**: DragonOS is an operating system developed from scratch using Rust, with Linux compatibility.
