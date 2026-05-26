@@ -1581,6 +1581,7 @@
 - 🐹 **[plugin_example](https://warpstreamlabs.github.io/bento/)**: Fancy stream processing made operationally mundane.
 - 🐹 **[v3](https://grafana.com/oss/beyla-ebpf/)**: EBPF-based autoinstrumentation of web applications and network metrics.
 - 🐹 **[homer](https://sipcapture.org)**: HOMER - 100% Open-Source SIP, VoIP, RTC Packet Capture & Monitoring.
+- 🐹 **[ov](https://noborus.github.io/ov)**: Feature-rich terminal-based text viewer.
 - 🐹 **[web_page_replay_go](https://chromium.googlesource.com/catapult)**: Deprecated Catapult GitHub.
 - 🐹 **[ggshield](https://gitguardian.com)**: Detect and validate 500+ types of hardcoded secrets with advanced checks.
 - 🐹 **[nginx-prometheus-exporter](https://github.com/nginx/nginx-prometheus-exporter)**: NGINX Prometheus Exporter for NGINX and NGINX Plus.
@@ -2436,6 +2437,7 @@
 - 🐹 **[apparmor.d](https://apparmor.pujol.io)**: Full set of AppArmor policies.
 - 🐹 **[vault-secrets-operator](https://github.com/ricoberger/vault-secrets-operator)**: Create Kubernetes secrets from Vault for a secure GitOps based workflow.
 - 🐹 **[cinder](https://opendev.org/openstack/cinder)**: OpenStack Block Storage (Cinder).
+- 🐹 **[v2](https://roboticoverlords.org/orbiton)**: Snappy and configuration-free text editor/IDE for the terminal.
 - 🐹 **[k8s](https://github.com/stripe/skycfg)**: Skycfg is an extension library for the Starlark language that adds support for constructing Protocol Buffer messages.
 - 🐹 **[kube-rbac-proxy](https://github.com/kube-rbac-proxy/kube-rbac-proxy)**: Kubernetes RBAC authorizing HTTP proxy for a single upstream.
 - 🐹 **[envoy](https://github.com/stripe/skycfg)**: Skycfg is an extension library for the Starlark language that adds support for constructing Protocol Buffer messages.
@@ -2491,6 +2493,7 @@
 - 🐹 **[dito](https://ditoproxy.com)**: An advanced reverse proxy server written in Go.
 - 🐹 **[yaml](https://platform.engineering/formae)**: Infrastructure-as-Code Platform Built for the Future.
 - 🐹 **[dra-driver-nvidia-gpu](https://github.com/kubernetes-sigs/dra-driver-nvidia-gpu)**: DRA Driver for NVIDIA GPUs.
+- 🐹 **[eino_assistant](https://github.com/cloudwego/eino-examples)**: Examples and demonstrations for using the Eino framework.
 - 🐹 **[goldboot](https://www.fossable.org/projects/goldboot)**: Build golden images with CI.
 - 🐹 **[nvidia-dra-driver-gpu](https://github.com/kubernetes-sigs/nvidia-dra-driver-gpu)**: DRA Driver for NVIDIA GPUs.
 - 🐹 **[booster](https://github.com/anatol/booster)**: Fast and secure initramfs generator.
@@ -2544,6 +2547,7 @@
 - 🐹 **[reality](https://github.com/howmp/reality)**: Grs内网穿透工具通过reality协议隐藏特征.
 - 🐹 **[v2](https://www.coraza.io/)**: OWASP Coraza middleware for Caddy.
 - 🐹 **[committers.top](https://committers.top)**: CLI tool which uses the GitHub GraphQL API to rank users according to number of contributions, and corresponding static website.
+- 🐹 **[altimate-code](https://altimate.sh)**: Open-source agentic data engineering harness for dbt, SQL, and cloud warehouses.
 - 🐹 **[args](https://github.com/dapr/components-contrib)**: Community driven, reusable components for distributed apps.
 - 🐹 **[http](https://github.com/dapr/components-contrib)**: Community driven, reusable components for distributed apps.
 - 🐹 **[loop](https://github.com/dapr/components-contrib)**: Community driven, reusable components for distributed apps.
