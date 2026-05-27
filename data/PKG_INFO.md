@@ -538,6 +538,7 @@
 - 🐹 **[cadence](https://cadenceworkflow.io)**: Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - 🐹 **[quickstart](https://www.hanko.io)**: Modern authentication, on your terms.
 - 🐹 **[fission](https://fission.io)**: Fast and Simple Serverless Functions for Kubernetes.
+- 🐹 **[fission](https://fission.io)**: Fast and Simple Serverless Functions for Kubernetes.
 - 🐹 **[autoscaler](https://github.com/kubernetes/autoscaler)**: Autoscaling components for Kubernetes.
 - 🐹 **[upgrade](http://mattn.github.io/go-sqlite3)**: Sqlite3 driver for go using database/sql.
 - 🐹 **[databend](https://docs.databend.com)**: 𝗔𝗜-𝗡𝗮𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲.
@@ -3000,6 +3001,7 @@
 - 🐹 **[jqfmt](https://github.com/noperator/jqfmt)**: Like gofmt, but for jq.
 - 🐹 **[modbus](https://github.com/simonvetter/modbus)**: Go modbus stack (client and server.
 - 🐹 **[diod](https://github.com/chaos/diod)**: Distributed I/O Daemon - a 9P file server.
+- 🐹 **[vsock](https://github.com/mdlayher/vsock)**: Package vsock provides access to Linux VM sockets (AF_VSOCK) for communication between a hypervisor and its virtual machines.
 - 🐹 **[mcp-for-argocd](https://www.npmjs.com/package/argocd-mcp)**: An implementation of Model Context Protocol (MCP) server for Argo CD.
 - 🐹 **[device-injector](https://github.com/containerd/nri)**: Node Resource Interface.
 - 🐹 **[differ](https://github.com/containerd/nri)**: Node Resource Interface.
@@ -3049,6 +3051,7 @@
 - 🐹 **[keep-sorted](https://github.com/google/keep-sorted)**: Keep-sorted is a language-agnostic formatter that sorts lines between two markers in a larger file.
 - 🐹 **[stormy](https://terminaltrove.com/stormy)**: Minimal, customizable, and neofetch-like weather CLI.
 - 🐹 **[testapp](https://github.com/evstack/ev-node)**: A modular framework for building performant networks, pushing the boundary of today in order to build the apps of tomorrow.
+- 🐹 **[go](https://docs.tree-sitter-language-pack.kreuzberg.dev)**: Comprehensive tree-sitter grammar compilation with polyglot bindings — Rust, Python, Node.
 - 🐹 **[gosnowflake](https://github.com/zheng-ji/gosnowflake)**: 一个实现 Twitter SnowFlake 算法 的 Go 分布式 UID 生成器.
 - 🐹 **[testapp](https://github.com/rollkit/rollkit)**: A modular framework for building performant networks, pushing the boundary of today in order to build the apps of tomorrow.
 - 🐹 **[da](https://github.com/evstack/ev-node)**: A modular framework for building performant networks, pushing the boundary of today in order to build the apps of tomorrow.
