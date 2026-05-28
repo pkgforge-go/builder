@@ -188,6 +188,7 @@
 - 🐹 **[beads](https://github.com/steveyegge/beads)**: Beads - A memory upgrade for your coding agent.
 - 🐹 **[mdbook](https://rust-lang.github.io/mdBook/)**: Create book from markdown files.
 - 🐹 **[docker](https://neko.m1k1o.net/)**: A self hosted virtual browser that runs in docker and uses WebRTC.
+- 🐹 **[backport](https://goteleport.com)**: The easiest, and most secure way to access and protect all of your infrastructure.
 - 🐹 **[benchstat](https://goteleport.com)**: The easiest, and most secure way to access and protect all of your infrastructure.
 - 🐹 **[event-handler](https://goteleport.com)**: The easiest, and most secure way to access and protect all of your infrastructure.
 - 🐹 **[gci](https://goteleport.com)**: The easiest, and most secure way to access and protect all of your infrastructure.
@@ -683,6 +684,7 @@
 - 🐹 **[httpaction-negative](https://chain.link)**: Node of the decentralized oracle network, bridging on and off-chain computation.
 - 🐹 **[logtrigger](https://chain.link)**: Node of the decentralized oracle network, bridging on and off-chain computation.
 - 🐹 **[logtrigger-negative](https://chain.link)**: Node of the decentralized oracle network, bridging on and off-chain computation.
+- 🐹 **[sollogtrigger](https://chain.link)**: Node of the decentralized oracle network, bridging on and off-chain computation.
 - 🐹 **[solwrite](https://chain.link)**: Node of the decentralized oracle network, bridging on and off-chain computation.
 - 🐹 **[vaultsecret](https://chain.link)**: Node of the decentralized oracle network, bridging on and off-chain computation.
 - 🐹 **[scripts](https://chain.link)**: Node of the decentralized oracle network, bridging on and off-chain computation.
@@ -781,6 +783,7 @@
 - 🐹 **[website](https://elv.sh/)**: Powerful scripting language & versatile interactive shell.
 - 🐹 **[fuzz](https://wazero.io)**: Wazero: the zero dependency WebAssembly runtime for Go developers.
 - 🐹 **[testdata](https://wazero.io)**: Wazero: the zero dependency WebAssembly runtime for Go developers.
+- 🐹 **[tools](https://openbao.org/)**: OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - 🐹 **[actions-runner-controller](https://github.com/actions/actions-runner-controller)**: Kubernetes controller for GitHub Actions self-hosted runners.
 - 🐹 **[pika_keys_analysis](https://github.com/openatomfoundation/pika)**: Pikiwidb is a Redis-Compatible database developed by Qihoo's infrastructure team.
 - 🐹 **[_examples](https://github.com/elastic/go-elasticsearch#go-elasticsearch)**: The official Go client for Elasticsearch.
