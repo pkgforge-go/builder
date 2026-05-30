@@ -1584,6 +1584,7 @@
 - 🐹 **[v3](https://grafana.com/oss/beyla-ebpf/)**: EBPF-based autoinstrumentation of web applications and network metrics.
 - 🐹 **[homer](https://sipcapture.org)**: HOMER - 100% Open-Source SIP, VoIP, RTC Packet Capture & Monitoring.
 - 🐹 **[ov](https://noborus.github.io/ov)**: Feature-rich terminal-based text viewer.
+- 🐹 **[zpager](https://noborus.github.io/ov)**: Feature-rich terminal-based text viewer.
 - 🐹 **[oviewer](https://noborus.github.io/ov)**: Feature-rich terminal-based text viewer.
 - 🐹 **[web_page_replay_go](https://chromium.googlesource.com/catapult)**: Deprecated Catapult GitHub.
 - 🐹 **[ggshield](https://gitguardian.com)**: Detect and validate 500+ types of hardcoded secrets with advanced checks.
