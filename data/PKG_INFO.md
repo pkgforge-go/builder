@@ -27,6 +27,7 @@
 - 🐹 **[jaws](https://serverless.com)**: Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
 - 🐹 **[brew](https://brew.sh)**: The missing package manager for macOS (or Linux.
 - 🐹 **[terraform](http://developer.hashicorp.com/terraform)**: Terraform enables you to safely and predictably create, change, and improve infrastructure.
+- 🐹 **[awesome-compose](https://docs.docker.com/compose/)**: Awesome Docker Compose samples.
 - 🐹 **[backend](https://docs.docker.com/compose/)**: Awesome Docker Compose samples.
 - 🐹 **[backend](https://docs.docker.com/compose/)**: Awesome Docker Compose samples.
 - 🐹 **[tutorials](https://github.com/charmbracelet/bubbletea)**: A powerful little TUI framework.
