@@ -27,6 +27,8 @@
 - 🐹 **[jaws](https://serverless.com)**: Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
 - 🐹 **[brew](https://brew.sh)**: The missing package manager for macOS (or Linux.
 - 🐹 **[terraform](http://developer.hashicorp.com/terraform)**: Terraform enables you to safely and predictably create, change, and improve infrastructure.
+- 🐹 **[backend](https://docs.docker.com/compose/)**: Awesome Docker Compose samples.
+- 🐹 **[backend](https://docs.docker.com/compose/)**: Awesome Docker Compose samples.
 - 🐹 **[tutorials](https://github.com/charmbracelet/bubbletea)**: A powerful little TUI framework.
 - 🐹 **[kong](https://konghq.com/install/)**: The API and AI Gateway.
 - 🐹 **[kong](https://konghq.com/install/)**: The Cloud-Native Gateway for APIs & AI.
@@ -1019,6 +1021,7 @@
 - 🐹 **[tetragon-rthooks](https://tetragon.io)**: EBPF-based Security Observability and Runtime Enforcement.
 - 🐹 **[v6](https://linuxcontainers.org/incus)**: Powerful system container and virtual machine manager.
 - 🐹 **[pipet](https://github.com/bjesus/pipet)**: Swiss-army tool for scraping and extracting data from online assets, made for hackers .
+- 🐹 **[go](https://helix-db.com)**: HelixDB is an open-source graph-vector database built from scratch in Rust.
 - 🐹 **[smoketest_lint](https://greenbone.github.io/docs/)**: This repository contains the scanner component for Greenbone Community Edition.
 - 🐹 **[cloudsql](https://github.com/googlecloudplatform/golang-samples)**: Sample apps and code written for Google Cloud in the Go programming language.
 - 🐹 **[handle_task](https://github.com/googlecloudplatform/golang-samples)**: Sample apps and code written for Google Cloud in the Go programming language.
