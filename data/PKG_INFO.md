@@ -1879,6 +1879,7 @@
 - 🐹 **[tools](https://deckhouse.io)**: Kubernetes platform from Flant.
 - 🐹 **[example-nonposix](https://carapace.sh)**: A multi-shell completion library.
 - 🐹 **[example-nonposix](https://carapace.sh)**: A multi-shell completion library.
+- 🐹 **[slim-select](http://slimselectjs.com)**: Slim advanced select dropdown.
 - 🐹 **[gomodcheck](https://atmos.tools)**: Terraform Orchestration Tool for DevOps.
 - 🐹 **[public-bugbounty-programs](https://chaos.projectdiscovery.io)**: Community curated list of public bug bounty and responsible disclosure programs.
 - 🐹 **[rate-limiting](https://github.com/modelcontextprotocol/go-sdk)**: The official Go SDK for Model Context Protocol servers and clients.
