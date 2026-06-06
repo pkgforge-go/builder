@@ -30,6 +30,7 @@
 - 🐹 **[awesome-compose](https://docs.docker.com/compose/)**: Awesome Docker Compose samples.
 - 🐹 **[backend](https://docs.docker.com/compose/)**: Awesome Docker Compose samples.
 - 🐹 **[backend](https://docs.docker.com/compose/)**: Awesome Docker Compose samples.
+- 🐹 **[backend](https://docs.docker.com/compose/)**: Awesome Docker Compose samples.
 - 🐹 **[tutorials](https://github.com/charmbracelet/bubbletea)**: A powerful little TUI framework.
 - 🐹 **[kong](https://konghq.com/install/)**: The API and AI Gateway.
 - 🐹 **[kong](https://konghq.com/install/)**: The Cloud-Native Gateway for APIs & AI.
@@ -1408,6 +1409,7 @@
 - 🐹 **[easy-tips](http://easy-tips.tigerb.cn)**: A little Tips in my Code Career with Go&PHP.
 - 🐹 **[external](https://osv.dev)**: Open source vulnerability DB and triage service.
 - 🐹 **[agentfs](https://www.agentfs.ai)**: The filesystem for agents.
+- 🐹 **[git-sync](https://github.com/kubernetes/git-sync)**: A sidecar app which clones a git repo and keeps it in sync with the upstream.
 - 🐹 **[config-tool](https://github.com/quay/quay)**: Build, Store, and Distribute your Applications and Containers.
 - 🐹 **[c2w-net-proxy](https://ktock.github.io/container2wasm-demo/)**: Container to WASM converter.
 - 🐹 **[wazero](https://ktock.github.io/container2wasm-demo/)**: Container to WASM converter.
@@ -1560,6 +1562,7 @@
 - 🐹 **[v2](https://github.com/context-labs/goasitop)**: Mactop - Apple Silicon Monitor Top.
 - 🐹 **[pool_context](https://github.com/alitto/pond)**: Minimalistic and High-performance goroutine worker pool written in Go.
 - 🐹 **[task_group](https://github.com/alitto/pond)**: Minimalistic and High-performance goroutine worker pool written in Go.
+- 🐹 **[pksm](https://github.com/flagbrew/pksm)**: Gen I to GenVIII save manager.
 - 🐹 **[wasmcloud](https://wasmcloud.com)**: WasmCloud is an open source Cloud Native Computing Foundation (CNCF) project that enables teams to build, manage, and scale polyglot apps across any cloud, K8s, or edge.
 - 🐹 **[pygments](http://pygments.org/)**: Pygments is a generic syntax highlighter written in Python.
 - 🐹 **[playground](https://goccy.github.io/go-yaml)**: YAML support for the Go language.
