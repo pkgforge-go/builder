@@ -4444,6 +4444,7 @@
 - 🐹 **[rootcerts](https://breml.github.io/blog/2021/01/17/embed-ca-root-certificates-in-go-programs/)**: Go package to embed the Mozilla Included CA Certificate List.
 - 🐹 **[rpmpack](https://github.com/google/rpmpack)**: Rpmpack (tar2rpm) - package rpms in pure golang or cli.
 - 🐹 **[stc](https://github.com/tenox7/stc)**: Syncthing CLI Tool.
+- 🐹 **[alloy](https://alloy-framework.github.io/alloy/)**: A code generation framework inspired by JavaScript front-end frameworks.
 - 🐹 **[comet](https://github.com/liamg/comet)**: Comet: Command line tool to help you use conventional commit messages (https://www.
 - 🐹 **[coriolis](https://github.com/cloudbase/coriolis)**: Cloud Migration as a Service.
 - 🐹 **[elasticsearch](https://smithy.security)**: The security workflow engine.
