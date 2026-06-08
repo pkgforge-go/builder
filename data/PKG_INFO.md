@@ -351,6 +351,7 @@
 - 🐹 **[opencode](https://github.com/charmbracelet/opencode)**: The glamourous AI coding agent for your favourite terminal.
 - 🐹 **[kcptun](https://github.com/xtaci/kcptun)**: A quantum-safe, secure tunnel built on QPP, KCP, FEC, and multiplexing.
 - 🐹 **[ci](https://github.com/qdm12/gluetun-wiki)**: VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
+- 🐹 **[devrun](https://github.com/qdm12/gluetun-wiki)**: VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - 🐹 **[dotray](https://practice.course.rs)**: Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
 - 🐹 **[dotray](https://practice.course.rs)**: Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
 - 🐹 **[rust-by-practice](https://practice.course.rs)**: Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
@@ -1678,6 +1679,7 @@
 - 🐹 **[with-listener](https://go-fuego.dev/)**: Golang Fuego - Web framework generating OpenAPI 3 spec from source code - Pluggable to existing Gin & Echo APIs.
 - 🐹 **[kubernetes](https://ekuiper.org)**: Lightweight data stream processing engine for IoT edge.
 - 🐹 **[kubernetes](https://ekuiper.org)**: Lightweight data stream processing engine for IoT edge.
+- 🐹 **[reminders](https://anyquery.dev)**: Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP.
 - 🐹 **[basic](https://go-fuego.dev/)**: Golang Fuego - Web framework generating OpenAPI 3 spec from source code - Pluggable to existing Gin & Echo APIs.
 - 🐹 **[custom-serializer](https://go-fuego.dev/)**: Golang Fuego - Web framework generating OpenAPI 3 spec from source code - Pluggable to existing Gin & Echo APIs.
 - 🐹 **[gin-compat](https://go-fuego.dev/)**: Golang Fuego - Web framework generating OpenAPI 3 spec from source code - Pluggable to existing Gin & Echo APIs.
@@ -2114,6 +2116,7 @@
 - 🐹 **[jsonnetd](https://metacontroller.github.io/metacontroller)**: Writing kubernetes controllers can be simple.
 - 🐹 **[lurker](https://www.secureCodeBox.io)**: SecureCodeBox (SCB) - continuous secure delivery out of the box.
 - 🐹 **[cutelyst](https://cutelyst.org)**: A C++ Web Framework built on top of Qt, using the simple approach of Catalyst (Perl) framework.
+- 🐹 **[chasquid](https://blitiri.com.ar/p/chasquid/)**: SMTP (email) server with a focus on simplicity, security, and ease of operation [mirror.
 - 🐹 **[langchaingo](https://github.com/docker/compose-for-agents)**: Build and run AI agents using Docker Compose.
 - 🐹 **[cdncheck](https://projectdiscovery.io)**: A utility to detect various technology for a given IP address.
 - 🐹 **[db_search](https://github.com/ikawaha/kagome)**: Self-contained Japanese Morphological Analyzer written in pure Go.
@@ -2344,6 +2347,7 @@
 - 🐹 **[rust-plus-golang](https://github.com/mediremi/rust-plus-golang)**: Rust + Go — Call Rust code from Go using FFI.
 - 🐹 **[ck](https://github.com/beaconbay/ck)**: Local first semantic and hybrid BM25 grep / search tool for use by AI and humans.
 - 🐹 **[mantra](https://amolo.com.br)**: A tool used to hunt down API key leaks in JS files and pages.
+- 🐹 **[clipboard](https://golang.design/x/clipboard)**: Cross-platform clipboard package that supports accessing text and image in Go (macOS/Linux/Windows/Android/iOS.
 - 🐹 **[akile_monitor](https://akile.io)**: Akile Monitor.
 - 🐹 **[sniffer](https://github.com/chenjiandongx/sniffer)**: A modern alternative network traffic sniffer.
 - 🐹 **[bootsharp](https://bootsharp.com)**: Use C# in web apps with comfort.
@@ -2905,6 +2909,7 @@
 - 🐹 **[install](https://github.com/xhd2015/xgo)**: All-in-one go testing library.
 - 🐹 **[protoc-gen-go-errcode](https://github.com/ml444/gkit)**: A microservice framework.
 - 🐹 **[protoc-gen-go-field](https://github.com/ml444/gkit)**: A microservice framework.
+- 🐹 **[protoc-gen-go-http](https://github.com/ml444/gkit)**: A microservice framework.
 - 🐹 **[function](https://opentelemetry.io/docs/platforms/faas/)**: Create your own Lambda Layer in each OTel language using this starter code.
 - 🐹 **[kmcp](https://kagent.dev/docs/kmcp)**: CLI tool and Kubernetes Controller for building, testing and deploying MCP servers.
 - 🐹 **[polling-fsm-persistence](https://t.me/s/echotronnews)**: An elegant and concurrent library for the Telegram bot API in Go.
@@ -2951,6 +2956,7 @@
 - 🐹 **[textgeneration](https://docs.hypermode.com/modus)**: Modus: a framework for building agentic flows powered by WebAssembly.
 - 🐹 **[time](https://docs.hypermode.com/modus)**: Modus: a framework for building agentic flows powered by WebAssembly.
 - 🐹 **[gopher.nvim](https://github.com/olexsmir/gopher.nvim)**: Minimalistic plugin for Go development.
+- 🐹 **[macos-app-skills](https://github.com/fayazara/macos-app-skills)**: AI coding agent skills for building, shipping, and maintaining native macOS apps.
 - 🐹 **[modus-keygen](https://docs.hypermode.com/modus)**: Modus: a framework for building agentic flows powered by WebAssembly.
 - 🐹 **[argocd-mcp](https://www.npmjs.com/package/argocd-mcp)**: An implementation of Model Context Protocol (MCP) server for Argo CD.
 - 🐹 **[modus-dbmigrate](https://docs.hypermode.com/modus)**: Modus: a framework for building agentic flows powered by WebAssembly.
@@ -3936,6 +3942,7 @@
 - 🐹 **[path-extractor](https://github.com/edi9999/path-extractor)**: A unix filter which outputs the filepaths found in stdin.
 - 🐹 **[postman-portable](https://portapps.io/app/postman-portable/)**: Postman portable for Windows.
 - 🐹 **[yzma](https://github.com/hybridgroup/yzma)**: Write Go applications that directly integrate llama.
+- 🐹 **[courtney](https://github.com/dave/courtney)**: Courtney is a coverage tool for Go.
 - 🐹 **[nuitka-extractor](https://github.com/extremecoders-re/nuitka-extractor)**: Tool to extract nuitka compiled executables.
 - 🐹 **[rssnix](https://github.com/h2337/rssnix)**: Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader.
 - 🐹 **[slo](https://ydb.tech)**: Pure Go native and database/sql driver for YDB.
@@ -4686,6 +4693,7 @@
 - 🐹 **[cassandra_delete_range](https://xrpl.org)**: An XRP Ledger API Server.
 - 🐹 **[csv2xlsx](https://github.com/mentax/csv2xlsx)**: Fast and simple opensource command line tool to convert CSV do XLSX.
 - 🐹 **[dbc](https://docs.columnar.tech/dbc)**: Dbc is the command-line tool for installing and managing ADBC drivers.
+- 🐹 **[go](https://github.com/kreuzberg-dev/kreuzcrawl)**: High-performance web crawling engine with bindings for 11 languages.
 - 🐹 **[graphsync](https://github.com/ipfs/go-graphsync)**: Initial Implementation Of GraphSync Wire Protocol.
 - 🐹 **[incubator-hugegraph-toolchain](https://hugegraph.apache.org/)**: HugeGraph toolchain - include a series useful graph modules.
 - 🐹 **[sample-dockerfile](https://github.com/digitalocean/sample-dockerfile)**: App Platform sample Docker application.
@@ -5692,9 +5700,11 @@
 - 🐹 **[codevulnscan](https://github.com/guchangan1/codevulnscan)**: CodeVulnScan 是一款基于正则表达式的代码安全审计工具，专为红队成员快速定位sink设计。它能够快速扫描目标代码库，定位潜在的漏洞 Sink 点，提升代码审计效率.
 - 🐹 **[deployer](https://github.com/ease-lab/vswarm)**: A suite of representative serverless cloud-agnostic (i.
 - 🐹 **[dnscan](https://github.com/nightowlnerd/dnscan)**: Find working DNS servers during internet blackouts.
+- 🐹 **[equality](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[github-release-resource](https://github.com/concourse/github-release-resource)**: A resource for GitHub releases.
 - 🐹 **[gobuild](https://pkg.go.dev/github.com/caixw/gobuild)**: Go 语言热编译工具.
 - 🐹 **[grafsy](https://github.com/leoleovich/grafsy)**: Graphite client/proxy which listens locally on server and buffers data.
+- 🐹 **[hello-world](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[hotel-app](https://github.com/ease-lab/vswarm)**: A suite of representative serverless cloud-agnostic (i.
 - 🐹 **[lazy-mcp](https://voicetree.io/blog/lazy-mcp+for+tool+instructions+only+on+demand)**: MCP proxy server with lazy loading support - reduces context usage through on-demand tool activation.
 - 🐹 **[logging](https://godoc.org/github.com/axiaoxin-com/logging)**: Mod: zap logging in golang.
@@ -5705,6 +5715,7 @@
 - 🐹 **[random](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[realworld-aws-lambda-dynamodb-go](https://realworld-aws-lambda-dynamodb-go.vercel.app/)**: Medium.
 - 🐹 **[relay](https://github.com/ease-lab/vswarm)**: A suite of representative serverless cloud-agnostic (i.
+- 🐹 **[server](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[standard](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[stank](https://github.com/mcandre/stank)**: Shell script linters.
 - 🐹 **[tinybox](https://github.com/nyangkosense/tinybox)**: Suckless TUI library POSIX-Compliant written in Go.
@@ -5719,6 +5730,8 @@
 - 🐹 **[chunk](https://github.com/cuducos/chunk)**: Chunk is a download manager for slow and unstable servers.
 - 🐹 **[dba-toolkit](https://github.com/slowtech/dba-toolkit)**: Some useful tools personally written for MySQL Daily Administration.
 - 🐹 **[dev](https://github.com/alexec/dev)**: Tiny fast local workflow engine for building and testing software.
+- 🐹 **[fcli](https://fortify.github.io/fcli/)**: Fcli is a command-line utility for interacting with various Fortify products.
+- 🐹 **[fcli](https://fortify.github.io/fcli/)**: Fcli is a command-line utility for interacting with various Fortify products.
 - 🐹 **[gencodec](https://github.com/fjl/gencodec)**: Command gencodec generates marshaling methods for Go struct types.
 - 🐹 **[get-started](https://kpt.dev/book/05-developing-functions/)**: Catalog of Kubernetes Resource Model (KRM) functions that can be used to validate or mutate kpt packages.
 - 🐹 **[go](https://github.com/streamnative/pulsar-examples/cloud/go)**: Apache Pulsar examples and demos.
