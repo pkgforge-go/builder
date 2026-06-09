@@ -81,6 +81,7 @@
 - 🐹 **[proto-gen-rpc-glue](https://www.consul.io)**: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - 🐹 **[protoc-gen-consul-rate-limit](https://www.consul.io)**: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - 🐹 **[test-sds-server](https://www.consul.io)**: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+- 🐹 **[go](https://www.envoyproxy.io)**: Cloud-native high-performance edge/middle/service proxy.
 - 🐹 **[simple](https://www.envoyproxy.io)**: Cloud-native high-performance edge/middle/service proxy.
 - 🐹 **[test_data](https://www.envoyproxy.io)**: Cloud-native high-performance edge/middle/service proxy.
 - 🐹 **[chunks-inspect](https://grafana.com/oss/loki)**: Like Prometheus, but for logs.
@@ -163,6 +164,7 @@
 - 🐹 **[protoc-gen-go-grpc](https://grpc.io)**: The Go language implementation of gRPC.
 - 🐹 **[protoc-gen-go-grpc](https://grpc.io)**: The Go language implementation of gRPC.
 - 🐹 **[dockge](https://dockge.kuma.pet)**: A fancy, easy-to-use and reactive self-hosted docker compose.
+- 🐹 **[generate](https://www.jaegertracing.io/)**: CNCF Jaeger, a Distributed Tracing Platform.
 - 🐹 **[distroless](https://github.com/googlecloudplatform/distroless)**: Language focused docker images, minus the operating system.
 - 🐹 **[letta](https://docs.letta.com/)**: Letta is the platform for building stateful agents: AI with advanced memory that can learn and self-improve over time.
 - 🐹 **[go](https://github.com/googlecontainertools/distroless)**: Language focused docker images, minus the operating system.
@@ -2215,6 +2217,7 @@
 - 🐹 **[kanister](https://kanister.io)**: An extensible framework for application-level data management on Kubernetes, Kanister is a Cloud Native Computing Foundation sandbox project and was originally created by the Veeam Kasten team.
 - 🐹 **[telize](https://www.telize.com)**: High performance JSON IP and GeoIP REST API (IP Geolocation.
 - 🐹 **[v4](https://github.com/go-playground/form)**: Steam_locomotive: Decodes url.
+- 🐹 **[xata](https://xata.io)**: Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero.
 - 🐹 **[Meme_Api](https://github.com/D3vd/Meme_Api)**: Summon a random meme at will.
 - 🐹 **[color_client](https://github.com/aws/aws-app-mesh-examples)**: AWS App Mesh is a service mesh that you can use with your microservices to manage service to service communication.
 - 🐹 **[color_server](https://github.com/aws/aws-app-mesh-examples)**: AWS App Mesh is a service mesh that you can use with your microservices to manage service to service communication.
@@ -3769,6 +3772,7 @@
 - 🐹 **[fastdoh](https://github.com/phuslu/fastdns)**: Fastest DNS package for Go.
 - 🐹 **[hermes](https://github.com/wardle/hermes)**: A library and microservice implementing the health and care terminology SNOMED CT with support for cross-maps, inference, fast full-text search, autocompletion, compositional grammar and the expression constraint language.
 - 🐹 **[mocktail](https://traefik.io/blog/mocktail-the-mock-generator-for-strongly-typed-mocks/)**: Naive code generator that creates mock implementation using testify.
+- 🐹 **[socks5proxy](https://github.com/shikanon/socks5proxy)**: 一个简单的socks5代理转发服务(VPN.
 - 🐹 **[gofingerprint](https://github.com/Static-Flow/gofingerprint)**: GoFingerprint  is a Go tool for taking a list of target web servers and matching their HTTP responses against a user defined list of fingerprints.
 - 🐹 **[src](https://hanab.live)**: A web server that allows people to play Hanab, a cooperative card game of logic and reasoning.
 - 🐹 **[tools](https://github.com/open-telemetry/opamp-go)**: OpAMP protocol implementation in Go.
@@ -5141,6 +5145,7 @@
 - 🐹 **[arangodb](https://github.com/arangodb-helper/arangodb)**: ArangoDB Starter - starts ArangoDB clusters & single servers with ease.
 - 🐹 **[beegfs-csi-driver](https://github.com/netapp/beegfs-csi-driver)**: The BeeGFS Container Storage Interface (CSI) driver provides high performing and scalable storage for workloads running in Kubernetes.
 - 🐹 **[bnblog](https://github.com/benjojo/bnblog)**: My blogging system ( Reinventing the wheel like every dev wants to do.
+- 🐹 **[codemapper](https://github.com/p1rallels/codemapper)**: Code intelligence on your CLI for AI agents.
 - 🐹 **[compiledb-go](https://github.com/fcying/compiledb-go)**: Tool for generating Clang's JSON Compilation Database files for make-based build systems.
 - 🐹 **[copyfail-go](https://github.com/badsectorlabs/copyfail-go)**: A Go implementation of copyfail (CVE-2026-31431.
 - 🐹 **[crunchyroll-downloader](https://github.com/cutetenshii/crunchyroll-downloader)**: Downloads anime from Crunchyroll and outputs them in a MKV file.
@@ -5602,6 +5607,7 @@
 - 🐹 **[intellij-idea-community-portable](https://portapps.io/app/intellij-idea-community-portable/)**: IntelliJ IDEA Community portable for Windows.
 - 🐹 **[loki-mcp](https://github.com/grafana/loki)**: An MCP ( Model Context Protocol ) Server for Grafana Loki.
 - 🐹 **[melange](https://melange.sh/)**: OpenFGA-to-PostgreSQL authorization compiler.
+- 🐹 **[onlywallpaper](https://github.com/bronya0/onlywallpaper)**: Mac视频壁纸，省电.
 - 🐹 **[repeater](https://github.com/baalimago/repeater)**: Xargs, but different.
 - 🐹 **[spicedb-as-library](https://github.com/authzed/examples)**: A collection of examples for SpiceDB users.
 - 🐹 **[swagger](https://manager.docs.scylladb.com/stable/)**: The Scylla Manager.
@@ -5693,11 +5699,15 @@
 - 🐹 **[tinydns](https://github.com/projectdiscovery/tinydns)**: Tiny embeddable dns server.
 - 🐹 **[wakafetch](https://github.com/sahaj-b/wakafetch)**: Terminal dashboard for your WakaTime/Wakapi coding activity.
 - 🐹 **[webapp](https://github.com/honeycombio/libhoney-go)**: Go library for sending data to Honeycomb.
+- 🐹 **[aws_lambda](https://github.com/nabinno/dojo)**: This is a repository for immersive learning, meditation or software development.
 - 🐹 **[bitty_knight](https://github.com/unklnik/bitty_knight)**: Source code for the first game I made with Go on Steam https://store.
 - 🐹 **[bnucoursegetter](https://github.com/leafyeexyz/bnucoursegetter)**: 小鸦抢课: 北师大/北京师范大学/BNU/蹲课/抢课软件, 图形界面, 使用简单, 支持多线程, 跨平台😼 ！使用前请完整阅读下方使用说明.
 - 🐹 **[bottlerocket-sdk](https://github.com/bottlerocket-os/bottlerocket-sdk)**: A software development kit for Bottlerocket.
 - 🐹 **[client](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[codevulnscan](https://github.com/guchangan1/codevulnscan)**: CodeVulnScan 是一款基于正则表达式的代码安全审计工具，专为红队成员快速定位sink设计。它能够快速扫描目标代码库，定位潜在的漏洞 Sink 点，提升代码审计效率.
+- 🐹 **[cookie](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
+- 🐹 **[counter](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
+- 🐹 **[custom-type](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[deployer](https://github.com/ease-lab/vswarm)**: A suite of representative serverless cloud-agnostic (i.
 - 🐹 **[dnscan](https://github.com/nightowlnerd/dnscan)**: Find working DNS servers during internet blackouts.
 - 🐹 **[equality](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
@@ -5706,8 +5716,10 @@
 - 🐹 **[grafsy](https://github.com/leoleovich/grafsy)**: Graphite client/proxy which listens locally on server and buffers data.
 - 🐹 **[hello-world](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[hotel-app](https://github.com/ease-lab/vswarm)**: A suite of representative serverless cloud-agnostic (i.
+- 🐹 **[kafka](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[lazy-mcp](https://voicetree.io/blog/lazy-mcp+for+tool+instructions+only+on+demand)**: MCP proxy server with lazy loading support - reduces context usage through on-demand tool activation.
 - 🐹 **[logging](https://godoc.org/github.com/axiaoxin-com/logging)**: Mod: zap logging in golang.
+- 🐹 **[long-poll](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[mattermost-plugin-wrangler](https://github.com/gabrieljackson/mattermost-plugin-wrangler)**: Manage Mattermost Messages Masterfully.
 - 🐹 **[project_euler](https://github.com/nabinno/dojo)**: This is a repository for immersive learning, meditation or software development.
 - 🐹 **[prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter)**: Paperless-ngx metrics for Prometheus.
@@ -5716,6 +5728,8 @@
 - 🐹 **[realworld-aws-lambda-dynamodb-go](https://realworld-aws-lambda-dynamodb-go.vercel.app/)**: Medium.
 - 🐹 **[relay](https://github.com/ease-lab/vswarm)**: A suite of representative serverless cloud-agnostic (i.
 - 🐹 **[server](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
+- 🐹 **[slice-basics](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
+- 🐹 **[sort](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[standard](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[stank](https://github.com/mcandre/stank)**: Shell script linters.
 - 🐹 **[tinybox](https://github.com/nyangkosense/tinybox)**: Suckless TUI library POSIX-Compliant written in Go.
@@ -5724,6 +5738,7 @@
 - 🐹 **[unicode](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[v2](https://github.com/justinfx/gofileseq)**: A library for parsing/building frame ranges and sequences.
 - 🐹 **[vhive-benchmarking](https://github.com/ease-lab/vhive-benchmarking)**: A suite of representative serverless cloud-agnostic (i.
+- 🐹 **[viper](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[web-ui](https://github.com/webtor-io/web-ui)**: The second version of webtor.
 - 🐹 **[web-ui-v2](https://github.com/webtor-io/web-ui-v2)**: The second version of webtor.
 - 🐹 **[webhook](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
