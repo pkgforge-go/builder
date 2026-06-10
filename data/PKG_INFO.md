@@ -2239,6 +2239,7 @@
 - 🐹 **[frontend-app](https://github.com/aws/aws-app-mesh-examples)**: AWS App Mesh is a service mesh that you can use with your microservices to manage service to service communication.
 - 🐹 **[ecoji](https://ecoji.io)**: Encodes (and decodes) data as emojis.
 - 🐹 **[go-bindata-assetfs](https://github.com/elazarl/go-bindata-assetfs)**: Serves embedded files from jteeuwen/go-bindata with net/http.
+- 🐹 **[dst-admin-go](https://github.com/carrot-hu23/dst-admin-go)**: Don't Starve Together server panel.
 - 🐹 **[vectordb](https://epsilla.com)**: Epsilla is a high performance Vector Database Management System.
 - 🐹 **[wuzapi](https://github.com/asternic/wuzapi)**: Simple RESTful API for WhatsApp in Golang (using the Whatsmeow multi device library.
 - 🐹 **[exp](https://golang.org/x/exp)**: Mirror] Experimental and deprecated packages.
@@ -4494,6 +4495,7 @@
 - 🐹 **[python-buildpack](http://docs.cloudfoundry.org/buildpacks/)**: Cloud Foundry buildpack for the Python Language.
 - 🐹 **[search-server](https://docs.inference-gateway.com)**: An open-source, cloud-native, high-performance gateway unifying multiple LLM providers, from local solutions like Ollama to major cloud providers such as OpenAI, Groq, Cohere, Anthropic, Cloudflare and DeepSeek.
 - 🐹 **[server](https://www.speakeasy.com/docs/gram/introduction)**: Platform to create, curate and host MCP servers ⚒️ Build production quality agentic tools.
+- 🐹 **[terraform-provider-fabric](https://registry.terraform.io/providers/microsoft/fabric)**: Terraform Provider for Microsoft Fabric.
 - 🐹 **[wa](https://wa-lang.org)**: 凹(Wa)语言(The Wa Programming Language.
 - 🐹 **[arelo](https://github.com/makiuchi-d/arelo)**: A simple auto reload (live reload) utility.
 - 🐹 **[cert-manager-webhook-example](https://github.com/jetstack/cert-manager-webhook-example)**: A cert-manager sample repository for creating an ACME DNS01 solver webhook.
@@ -4994,6 +4996,7 @@
 - 🐹 **[go-buildpack](http://docs.cloudfoundry.org/buildpacks/)**: Cloud Foundry buildpack for the Go Language.
 - 🐹 **[healthcheck](https://github.com/alphagov/paas-cf)**: GOV.
 - 🐹 **[http-tester](https://github.com/alphagov/paas-cf)**: GOV.
+- 🐹 **[openmgmt](https://github.com/aristanetworks/admin/blob/main/CONTRIBUTING.md)**: Documentation and examples for using open network management tools such as OpenConfig.
 - 🐹 **[pipecleaner](https://github.com/alphagov/paas-cf)**: GOV.
 - 🐹 **[platform-tests](https://github.com/alphagov/paas-cf)**: GOV.
 - 🐹 **[popub](https://github.com/m13253/popub)**: Publish a service from localhost onto your server.
@@ -6092,6 +6095,7 @@
 - 🐹 **[cert-manager-webhook-netcup](https://github.com/aellwein/cert-manager-webhook-netcup)**: Cert-manager webhook implementation for use with Netcup provider.
 - 🐹 **[component-provider](https://github.com/pulumi/pulumi-go-provider)**: A framework for building Go Providers for Pulumi.
 - 🐹 **[credentials](https://github.com/pulumi/pulumi-go-provider)**: A framework for building Go Providers for Pulumi.
+- 🐹 **[cypher-language-support](https://neo4j.github.io/cypher-language-support/)**: Neo4j's Cypher Language support.
 - 🐹 **[dash0-operator](https://www.dash0.com)**: Dash0 Operator for Kubernetes.
 - 🐹 **[databox](https://github.com/yznts/databox)**: A set of command line database tools.
 - 🐹 **[dna-store](https://github.com/pulumi/pulumi-go-provider)**: A framework for building Go Providers for Pulumi.
