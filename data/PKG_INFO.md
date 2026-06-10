@@ -824,6 +824,9 @@
 - 🐹 **[fakeoidc](https://github.com/sigstore/cosign)**: Code signing and transparency for containers and binaries.
 - 🐹 **[v2](https://github.com/sigstore/cosign)**: Code signing and transparency for containers and binaries.
 - 🐹 **[seesaw](https://github.com/google/seesaw)**: Seesaw v2 is a Linux Virtual Server (LVS) based load balancing platform.
+- 🐹 **[hetzner-robot-controller](https://tuist.dev)**: Your platform team, as a service.
+- 🐹 **[kura-controller](https://tuist.dev)**: Your platform team, as a service.
+- 🐹 **[tart-kubelet](https://tuist.dev)**: Your platform team, as a service.
 - 🐹 **[mountpoint-s3](https://github.com/awslabs/mountpoint-s3)**: A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - 🐹 **[helpers](https://docs.github.com/en/code-security/dependabot)**: Dependabot's core logic for creating update PRs.
 - 🐹 **[kubenates_workshop](https://guangzhengli.com/courses/kubernetes)**: K8s tutorials | k8s 教程.
@@ -965,6 +968,7 @@
 - 🐹 **[chroma](https://github.com/alecthomas/chroma)**: A general purpose syntax highlighter in pure Go.
 - 🐹 **[chromad](https://github.com/alecthomas/chroma)**: A general purpose syntax highlighter in pure Go.
 - 🐹 **[spack](https://spack.io)**: A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
+- 🐹 **[v3](https://dubbo.apache.org/)**: Go Implementation For Apache Dubbo.
 - 🐹 **[v6](https://linuxcontainers.org/incus)**: Powerful system container and virtual machine manager.
 - 🐹 **[update-go-azure-helpers](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs)**: Terraform provider for Azure Resource Manager.
 - 🐹 **[update-go-azure-sdk](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs)**: Terraform provider for Azure Resource Manager.
@@ -2801,6 +2805,7 @@
 - 🐹 **[shosubgo](https://github.com/d3ftx/shosubgo)**: Small tool to Grab subdomains using Shodan api.
 - 🐹 **[shosubgo](https://github.com/incogbyte/shosubgo)**: Small tool to Grab subdomains using Shodan api.
 - 🐹 **[helloworld](https://github.com/jittering/traefik-kop)**: A dynamic docker->redis->traefik discovery agent.
+- 🐹 **[lazycue](https://github.com/boldsoftware/shelley)**: Shelley is a coding agent.
 - 🐹 **[titus](https://www.praetorian.com/blog/titus-open-source-secret-scanner/)**: High-performance secrets scanner.
 - 🐹 **[airo](https://github.com/bypirob/airo)**: Deploy your projects from local to production (self-hosted.
 - 🐹 **[database-design](https://github.com/alextanhongpin/database-design)**: Ideas on better database design.
@@ -2936,6 +2941,7 @@
 - 🐹 **[brave-portable](https://portapps.io/app/brave-portable/)**: Brave web browser portable for Windows.
 - 🐹 **[ipget](https://github.com/ipfs/ipget)**: Retrieve files over IPFS and save them locally.
 - 🐹 **[ipget](https://github.com/noffle/ipget)**: Retrieve files over IPFS and save them locally.
+- 🐹 **[medit](https://github.com/aktsk/medit)**: Memory search and patch tool on debuggable apk without root & ndk.
 - 🐹 **[apk-medit](https://github.com/aktsk/apk-medit)**: Memory search and patch tool on debuggable apk without root & ndk.
 - 🐹 **[server](https://github.com/azure/azure-container-networking)**: Azure Container Networking Solutions for Linux and Windows Containers.
 - 🐹 **[go-osstat](https://github.com/mackerelio/go-osstat)**: OS system statistics library for Go.
@@ -5055,6 +5061,7 @@
 - 🐹 **[controller](https://github.com/kaito-project/airunway)**: Kubernetes-native platform for deploying and managing AI inference across multiple providers.
 - 🐹 **[ctlog](https://github.com/sigstore/scaffolding)**: Stuff to make standing up sigstore (esp.
 - 🐹 **[dex](https://github.com/0xerr0r/dex)**: Prometheus Docker EXporter.
+- 🐹 **[ebiten-demo](https://github.com/kjkrol/goke/wiki)**: High-performance, zero-allocation ECS for Go.
 - 🐹 **[go](https://github.com/aws-samples/amazon-kinesis-video-streams-demos)**: A place to add different use cases for different Kinesis Video Stream Assets.
 - 🐹 **[mailrelay](https://github.com/wiggin77/mailrelay)**: Simple mail relay that can take unauthenticated SMTP emails (e.
 - 🐹 **[make](https://github.com/njayp/ophis)**: Transform any Cobra CLI into an MCP server.
@@ -5216,6 +5223,7 @@
 - 🐹 **[demo](https://github.com/gioui-plugins/gio-plugins)**: Gio-Plugins offers new plugins to extend and enhance your Gio app.
 - 🐹 **[gostun](https://github.com/oneclickvirt/ecs)**: 本机NAT类型检测工具(Local NAT type detection tool)(NatTypeTester.
 - 🐹 **[ingress-node-firewall](https://github.com/openshift/ingress-node-firewall)**: Ingress node firewall implements Kubernetes operator to provision stateless ingress node level firewall rules, stateless ingress node firewall implementation is done using eBPF XDP kernel plugin.
+- 🐹 **[macos-totp-cli](https://github.com/simnalamburt/macos-totp-cli)**: Simple TOTP CLI, powered by keychain of macOS.
 - 🐹 **[peerpod-ctrl](https://github.com/confidential-containers/cloud-api-adaptor)**: Ability to create Kata pods using cloud provider APIs aka the peer-pods approach.
 - 🐹 **[prometheus-klipper-exporter](https://github.com/scross01/prometheus-klipper-exporter)**: Prometheus Exporter for Klipper.
 - 🐹 **[swagger-mcp](https://github.com/danishjsheikh/swagger-mcp)**: Mcp server which will dynamically define tools based on swagger.
@@ -5496,6 +5504,7 @@
 - 🐹 **[weekly](https://dyweb-weekly.netlify.com/)**: DevComm-Shanghai Weekly 上海地区高校技术社团联合周报（欢迎投稿.
 - 🐹 **[zetasqlite-cli](https://github.com/goccy/go-zetasqlite)**: A database driver library that interprets ZetaSQL queries and runs them using SQLite3.
 - 🐹 **[buck2-prelude](https://github.com/facebookincubator/buck2-prelude)**: Prelude for the Buck2 project.
+- 🐹 **[common-substr](https://github.com/sensepost/common-substr)**: Simple tool to extract the most common substrings from an input text.
 - 🐹 **[couchcache](https://github.com/codingsince1985/couchcache)**: A RESTful caching micro-service in Go backed by Couchbase.
 - 🐹 **[discord-c2-poc](https://github.com/kira-mari/discord-c2-poc)**: A stealthy Command & Control (C2) framework using Discord.
 - 🐹 **[find-duplicates](https://github.com/twpayne/find-duplicates)**: Find duplicate files quickly.
@@ -5703,6 +5712,7 @@
 - 🐹 **[bitty_knight](https://github.com/unklnik/bitty_knight)**: Source code for the first game I made with Go on Steam https://store.
 - 🐹 **[bnucoursegetter](https://github.com/leafyeexyz/bnucoursegetter)**: 小鸦抢课: 北师大/北京师范大学/BNU/蹲课/抢课软件, 图形界面, 使用简单, 支持多线程, 跨平台😼 ！使用前请完整阅读下方使用说明.
 - 🐹 **[bottlerocket-sdk](https://github.com/bottlerocket-os/bottlerocket-sdk)**: A software development kit for Bottlerocket.
+- 🐹 **[channel-passing](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[client](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[codevulnscan](https://github.com/guchangan1/codevulnscan)**: CodeVulnScan 是一款基于正则表达式的代码安全审计工具，专为红队成员快速定位sink设计。它能够快速扫描目标代码库，定位潜在的漏洞 Sink 点，提升代码审计效率.
 - 🐹 **[cookie](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
@@ -5711,6 +5721,8 @@
 - 🐹 **[deployer](https://github.com/ease-lab/vswarm)**: A suite of representative serverless cloud-agnostic (i.
 - 🐹 **[dnscan](https://github.com/nightowlnerd/dnscan)**: Find working DNS servers during internet blackouts.
 - 🐹 **[equality](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
+- 🐹 **[expiring-data](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
+- 🐹 **[file-reader](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[github-release-resource](https://github.com/concourse/github-release-resource)**: A resource for GitHub releases.
 - 🐹 **[gobuild](https://pkg.go.dev/github.com/caixw/gobuild)**: Go 语言热编译工具.
 - 🐹 **[grafsy](https://github.com/leoleovich/grafsy)**: Graphite client/proxy which listens locally on server and buffers data.
