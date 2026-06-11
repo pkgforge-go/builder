@@ -1135,6 +1135,7 @@
 - 🐹 **[generate-npm-packages](https://cerbos.dev)**: Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.
 - 🐹 **[loadtest](https://cerbos.dev)**: Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.
 - 🐹 **[testsplit](https://cerbos.dev)**: Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.
+- 🐹 **[go-under-the-hood](https://golang.design/under-the-hood)**: Go: Under The Hood | Go 语言原本 | https://golang.
 - 🐹 **[scripts](https://wakapi.dev)**: A minimalist, self-hosted WakaTime-compatible backend for coding statistics.
 - 🐹 **[desktop-ee](https://whodb.com)**: A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface.
 - 🐹 **[go](https://iggy.apache.org)**: Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed.
@@ -4953,6 +4954,7 @@
 - 🐹 **[os-exec](https://razeencheng.com/categories/go-learn/)**: 我的Go学习笔记.
 - 🐹 **[recover](https://razeencheng.com/categories/go-learn/)**: 我的Go学习笔记.
 - 🐹 **[tfprovidercheck](https://github.com/suzuki-shunsuke/tfprovidercheck)**: CLI to prevent malicious Terraform Providers from being executed.
+- 🐹 **[webshell-scan](https://github.com/tstillz/webshell-scan)**: Simple web shell scanner written in Golang.
 - 🐹 **[admission-controller](https://github.com/sigstore/k8s-manifest-sigstore)**: Kubectl plugin for signing Kubernetes manifest YAML files with sigstore.
 - 🐹 **[compgen](https://github.com/deponian/logalize)**: Fast and extensible log colorizer Alternative to ccze.
 - 🐹 **[forkdiff](https://github.com/protolambda/forkdiff)**: CLI tool to generate documentation page of git fork diff.
@@ -5065,6 +5067,7 @@
 - 🐹 **[ctlog](https://github.com/sigstore/scaffolding)**: Stuff to make standing up sigstore (esp.
 - 🐹 **[dex](https://github.com/0xerr0r/dex)**: Prometheus Docker EXporter.
 - 🐹 **[ebiten-demo](https://github.com/kjkrol/goke/wiki)**: High-performance, zero-allocation ECS for Go.
+- 🐹 **[generator-agent-docs](https://github.com/hashicorp/pandora)**: A suite of single-purpose tools enabling automation for Terraform/Azure.
 - 🐹 **[go](https://github.com/aws-samples/amazon-kinesis-video-streams-demos)**: A place to add different use cases for different Kinesis Video Stream Assets.
 - 🐹 **[mailrelay](https://github.com/wiggin77/mailrelay)**: Simple mail relay that can take unauthenticated SMTP emails (e.
 - 🐹 **[make](https://github.com/njayp/ophis)**: Transform any Cobra CLI into an MCP server.
@@ -5245,6 +5248,7 @@
 - 🐹 **[v3](https://github.com/pulumi/pulumi-alicloud)**: An AliCloud Pulumi resource package, providing multi-language access to AliCloud.
 - 🐹 **[agent](https://github.com/aws/aws-network-policy-agent)**: Network Policy Agent is a daemonset that is responsible for enforcing configured network policies on the cluster.
 - 🐹 **[ai-cli-proxy-api](https://github.com/ben-vargas/ai-cli-proxy-api)**: Enhancement of CLIProxyAPI to support Factory and Amp CLI/IDE use with existing provider subscriptions like ChatGPT Plus/Pro and Claude Pro/Max.
+- 🐹 **[alidns-webhook](https://github.com/wjiec/alidns-webhook)**: Alidns-webhook is a generic ACME solver for cert-manager.
 - 🐹 **[bb-frontend](https://github.com/buildbarn/bb-frontend)**: Web frontend for exploring an Action Cache / Content Addressable Storage.
 - 🐹 **[bcrypt-tool](https://github.com/shoenig/bcrypt-tool)**: A CLI tool for bcrypt - hash a password, determine if password matches a hash, compute cost of hash.
 - 🐹 **[binary](https://github.com/cloudfoundry/cf-acceptance-tests)**: CF Acceptance tests.
@@ -5717,6 +5721,7 @@
 - 🐹 **[bottlerocket-sdk](https://github.com/bottlerocket-os/bottlerocket-sdk)**: A software development kit for Bottlerocket.
 - 🐹 **[channel-passing](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[client](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
+- 🐹 **[cobra](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[codevulnscan](https://github.com/guchangan1/codevulnscan)**: CodeVulnScan 是一款基于正则表达式的代码安全审计工具，专为红队成员快速定位sink设计。它能够快速扫描目标代码库，定位潜在的漏洞 Sink 点，提升代码审计效率.
 - 🐹 **[cookie](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[counter](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
@@ -5726,12 +5731,17 @@
 - 🐹 **[equality](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[expiring-data](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[file-reader](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
+- 🐹 **[form](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[github-release-resource](https://github.com/concourse/github-release-resource)**: A resource for GitHub releases.
 - 🐹 **[gobuild](https://pkg.go.dev/github.com/caixw/gobuild)**: Go 语言热编译工具.
 - 🐹 **[grafsy](https://github.com/leoleovich/grafsy)**: Graphite client/proxy which listens locally on server and buffers data.
 - 🐹 **[hello-world](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[hotel-app](https://github.com/ease-lab/vswarm)**: A suite of representative serverless cloud-agnostic (i.
+- 🐹 **[html](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
+- 🐹 **[inheritance](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
+- 🐹 **[jwt](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[kafka](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
+- 🐹 **[layouts](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[lazy-mcp](https://voicetree.io/blog/lazy-mcp+for+tool+instructions+only+on+demand)**: MCP proxy server with lazy loading support - reduces context usage through on-demand tool activation.
 - 🐹 **[logging](https://godoc.org/github.com/axiaoxin-com/logging)**: Mod: zap logging in golang.
 - 🐹 **[long-poll](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
@@ -5747,11 +5757,13 @@
 - 🐹 **[sort](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[standard](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[stank](https://github.com/mcandre/stank)**: Shell script linters.
+- 🐹 **[static](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[tinybox](https://github.com/nyangkosense/tinybox)**: Suckless TUI library POSIX-Compliant written in Go.
 - 🐹 **[trace-plotter](https://github.com/ease-lab/vswarm)**: A suite of representative serverless cloud-agnostic (i.
 - 🐹 **[tun](https://github.com/goxray/tun)**: CLI Xray VPN client.
 - 🐹 **[unicode](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[v2](https://github.com/justinfx/gofileseq)**: A library for parsing/building frame ranges and sequences.
+- 🐹 **[validation](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[vhive-benchmarking](https://github.com/ease-lab/vhive-benchmarking)**: A suite of representative serverless cloud-agnostic (i.
 - 🐹 **[viper](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[web-ui](https://github.com/webtor-io/web-ui)**: The second version of webtor.
