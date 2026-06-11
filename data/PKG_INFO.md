@@ -337,6 +337,7 @@
 - 🐹 **[go](https://vercel.com)**: Develop.
 - 🐹 **[foundationdb](https://apple.github.io/foundationdb/)**: FoundationDB - the open source, distributed, transactional key-value store.
 - 🐹 **[beats](https://doris.apache.org)**: Apache Doris is an easy-to-use, high performance and unified analytics database.
+- 🐹 **[pulsar](https://pulsar.apache.org/)**: Apache Pulsar - distributed pub-sub messaging system.
 - 🐹 **[pre-commit](https://pre-commit.com)**: A framework for managing and maintaining multi-language pre-commit hooks.
 - 🐹 **[ecaptureq_client](https://ecapture.cc)**: Capturing SSL/TLS plaintext without a CA certificate using eBPF.
 - 🐹 **[tensorboard-controller](https://www.kubeflow.org/)**: Machine Learning Toolkit for Kubernetes.
@@ -5022,6 +5023,7 @@
 - 🐹 **[wptide](http://make.wordpress.org/tide)**: Ocean: Tide is a series of automated tests run against every WordPress.
 - 🐹 **[wuying-agentbay-sdk](https://www.aliyun.com/activity/wuying/aiagent)**: The AgentBay SDK provides a comprehensive suite of tools for efficient interaction with AgentBay cloud environments, enabling you to create and manage cloud sessions, execute commands, operate files, and interact with user interfaces.
 - 🐹 **[zig-play](https://zig-play.dev)**: An online Zig compiler inspired by Go and Rust.
+- 🐹 **[aguara](https://aguarascan.com)**: Open source security engine for the trust layer around AI agents and software supply chains.
 - 🐹 **[base](https://pkg.go.dev/go.opentelemetry.io/otel/trace)**: Checks usage of OpenTelemetry/Census spans.
 - 🐹 **[clamav-rest](https://hub.docker.com/r/ajilaag/clamav-rest)**: ClamAV virus/malware scanner with REST API.
 - 🐹 **[codemcp](https://github.com/SimplyLiz/CodeMCP/wiki)**: Code intelligence for AI assistants - MCP server, CLI, and HTTP API with symbol navigation, impact analysis, and architecture mapping.
@@ -5625,6 +5627,7 @@
 - 🐹 **[melange](https://melange.sh/)**: OpenFGA-to-PostgreSQL authorization compiler.
 - 🐹 **[onlywallpaper](https://github.com/bronya0/onlywallpaper)**: Mac视频壁纸，省电.
 - 🐹 **[repeater](https://github.com/baalimago/repeater)**: Xargs, but different.
+- 🐹 **[shen-go](https://github.com/tiancaiamao/shen-go)**: A Go implementation of the Shen programming language.
 - 🐹 **[spicedb-as-library](https://github.com/authzed/examples)**: A collection of examples for SpiceDB users.
 - 🐹 **[swagger](https://manager.docs.scylladb.com/stable/)**: The Scylla Manager.
 - 🐹 **[uncover](https://github.com/rsc/uncover)**: Print uncovered code.
