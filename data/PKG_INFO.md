@@ -3,6 +3,7 @@
 - 🐹 **[cmd](https://go.dev)**: The Go programming language.
 - 🐹 **[sample-cli-plugin](https://kubernetes.io)**: Production-Grade Container Scheduling and Management.
 - 🐹 **[uptime-kuma](https://uptime.kuma.pet)**: A fancy self-hosted monitoring tool.
+- 🐹 **[ebpfgo.plugin](https://www.netdata.cloud)**: The fastest path to AI-powered full stack observability, even for lean teams.
 - 🐹 **[go](https://www.netdata.cloud)**: The fastest path to AI-powered full stack observability, even for lean teams.
 - 🐹 **[go-workspace](https://grafana.com)**: The open and composable observability and data visualization platform.
 - 🐹 **[modowners](https://grafana.com)**: The open and composable observability and data visualization platform.
@@ -3787,6 +3788,7 @@
 - 🐹 **[mocktail](https://traefik.io/blog/mocktail-the-mock-generator-for-strongly-typed-mocks/)**: Naive code generator that creates mock implementation using testify.
 - 🐹 **[pbr](https://opendev.org/openstack/pbr)**: Python Build Reasonableness.
 - 🐹 **[socks5proxy](https://github.com/shikanon/socks5proxy)**: 一个简单的socks5代理转发服务(VPN.
+- 🐹 **[cke](https://github.com/cybozu-go/cke)**: Cybozu Kubernetes Engine.
 - 🐹 **[maintenance](https://hanab.live)**: A web server that allows people to play Hanab, a cooperative card game of logic and reasoning.
 - 🐹 **[src](https://hanab.live)**: A web server that allows people to play Hanab, a cooperative card game of logic and reasoning.
 - 🐹 **[helm-schema](https://github.com/dadav/helm-schema)**: Generate jsonschemas from helm charts.
@@ -4075,6 +4077,7 @@
 - 🐹 **[rerun](https://github.com/ivpusic/rerun)**: Configurable recompiling and rerunning go apps when source changes.
 - 🐹 **[simple-go-server](https://github.com/enricofoltran/simple-go-server)**: A simple golang web server with basic logging, tracing, health check, graceful shutdown and zero dependencies.
 - 🐹 **[skia-buildbot](https://github.com/google/skia-buildbot)**: Build, Test, and Analysis Tools for Skia Infrastructure.
+- 🐹 **[buddy-link-prometheus-exporter](https://github.com/pstrobl96/buddy-link-prometheus-exporter)**: Prometheus exporter for Prusa3D printers - supports Prusa Link API and Syslog metrics as well as logs from printer.
 - 🐹 **[chinatextbook-tools](https://github.com/tapxworld/chinatextbook-tools)**: ChinaTextbook 项目的文件合并、分割工具.
 - 🐹 **[cligen](https://pkg.go.dev/github.com/avamsi/climate#section-documentation)**: CLI Mate" autogenerates CLIs from structs / functions (nested subcommands, global / local flags, help generation, typo suggestions, shell completion etc.
 - 🐹 **[codegen](https://heroiclabs.com/docs/nakama/client-libraries/unity/)**: NET client for Nakama server written in C.
@@ -6320,6 +6323,7 @@
 - 🐹 **[registry-image-forked](https://github.com/googlecloudplatform/guest-test-infra)**: Compute Engine Guest OS - Test infrastructure.
 - 🐹 **[restmail](https://github.com/tonymet/restmail)**: Restmail sends email from CLI using gmail & outlook rest APIs.
 - 🐹 **[security-scan](https://github.com/rancher/security-scan)**: Tests Kubernetes clusters for adherence to security best practices using kube-bench.
+- 🐹 **[starlet](https://github.com/1set/starlet)**: Yet another Go wrapper for Starlark that simplifies usage, offers data conversion and useful Starlark libraries.
 - 🐹 **[terraform-provider-genesyscloud](https://github.com/mypurecloud/terraform-provider-genesyscloud)**: Terraform Provider Genesyscloud.
 - 🐹 **[testinfra](https://lf-decentralized-trust-labs.github.io/paladin/)**: Paladin is a platform for building programmable privacy preserving tokens on EVM, with integrated client and wallet.
 - 🐹 **[tmemes](https://github.com/tailscale/tmemes)**: A meme generator for your tailnet.
