@@ -3874,6 +3874,7 @@
 - 🐹 **[gclone](https://github.com/dogbutcat/gclone)**: Fork from https://github.
 - 🐹 **[go-idg](https://github.com/kayac/go-idg)**: ID generator server.
 - 🐹 **[gomu](https://github.com/raziman18/gomu)**: Golang TUI music player.
+- 🐹 **[grin-wallet](https://github.com/mimblewimble/grin-wallet)**: Grin Wallet.
 - 🐹 **[webrtc-bench](https://pion.ly/)**: WebRTC Server that plays a file and generates a CPU Usage report.
 - 🐹 **[cdk-terrain](http://cdktn.io)**: Define infrastructure resources using programming constructs and provision them using OpenTofu/Terraform.
 - 🐹 **[certgen](https://github.com/minio/certgen)**: A dead simple tool to generate self signed certificates for MinIO TLS deployments.
@@ -3966,6 +3967,7 @@
 - 🐹 **[postman-portable](https://portapps.io/app/postman-portable/)**: Postman portable for Windows.
 - 🐹 **[yzma](https://github.com/hybridgroup/yzma)**: Write Go applications that directly integrate llama.
 - 🐹 **[courtney](https://github.com/dave/courtney)**: Courtney is a coverage tool for Go.
+- 🐹 **[evine](https://github.com/saeeddhqan/evine)**: Interactive CLI Web Crawler.
 - 🐹 **[nuitka-extractor](https://github.com/extremecoders-re/nuitka-extractor)**: Tool to extract nuitka compiled executables.
 - 🐹 **[rssnix](https://github.com/h2337/rssnix)**: Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader.
 - 🐹 **[baidu-analytics](https://gethugothemes.com/hugo-modules)**: 30+ Powerful Hugo Modules Created By Gethugothemes.
@@ -5912,6 +5914,7 @@
 - 🐹 **[slack-markov](https://github.com/grantmd/slack-markov)**: A markov chain bot for your Slack channel.
 - 🐹 **[tachoparser](https://github.com/traconiq/tachoparser)**: Parser for tachograph files.
 - 🐹 **[tagliatelle](https://github.com/ldez/tagliatelle)**: A linter that handles struct tags.
+- 🐹 **[terraform-provider-hrui](https://registry.terraform.io/providers/brennoo/hrui)**: Terraform provider for HRUI (Horaco, Sodola, XikeStor, etc) switches.
 - 🐹 **[v3](https://github.com/gravwell/gravwell)**: The main gravwell monorepo for ingesters and ingest code.
 - 🐹 **[v4](https://github.com/gravwell/gravwell)**: The main gravwell monorepo for ingesters and ingest code.
 - 🐹 **[vim-go-syntax](https://github.com/charlespascoe/vim-go-syntax)**: Fast, 'tree-sitter'-like Vim Syntax Highlighting for Go.
@@ -6000,6 +6003,7 @@
 - 🐹 **[agent](https://github.com/eclipse-symphony/symphony)**: Symphony project.
 - 🐹 **[ait](https://github.com/yinxulai/ait)**: 批量测试符合 OpenAI 协议和 Anthropic 协议的 AI 模型性能指标。支持 TTFT（首字节时间）、TPS（吞吐量）、网络延迟等关键性能指标的测量，提供多模型对比测试和详细的性能报告生成功能.
 - 🐹 **[allocator-token-exchange](https://github.com/unity-technologies/multiplay-examples)**: Examples for using Unity Multiplay: https://unity.
+- 🐹 **[ascii-gif](https://github.com/tamnd/ascii-gif)**: Turn a terminal session into a good-looking animated GIF.
 - 🐹 **[care-pet](https://iot.scylladb.com)**: Care Pet IoT ScyllaDB example.
 - 🐹 **[decompal](https://decomp.dev)**: Decompilation progress website & GitHub bot.
 - 🐹 **[docker-hello-world-manual-task](https://github.com/wso2/choreo-samples)**: This will contain integration and service samples displayed in choreo.
