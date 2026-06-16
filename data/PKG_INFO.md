@@ -2195,6 +2195,7 @@
 - 🐹 **[code-used-on-daniel-lemire-s-blog](http://lemire.me/blog/)**: This is a repository for the code posted on my blog.
 - 🐹 **[otel-tui](https://github.com/ymtdzzz/otel-tui)**: A terminal OpenTelemetry viewer inspired by otel-desktop-viewer.
 - 🐹 **[pigeon](https://github.com/mna/pigeon)**: Command pigeon generates parsers in Go from a PEG grammar.
+- 🐹 **[pike](https://github.com/jameswoolfenden/pike)**: Pike is a tool for determining the permissions or policy required for IAC code.
 - 🐹 **[v3](https://github.com/cloudflare/goflow)**: The high-scalability sFlow/NetFlow/IPFIX collector used internally at Cloudflare.
 - 🐹 **[pgstream](http://www.xata.io)**: PostgreSQL replication with DDL changes.
 - 🐹 **[v2](https://github.com/swaggo/echo-swagger)**: Echo middleware to automatically generate RESTful API documentation with Swagger 2.
@@ -2235,6 +2236,7 @@
 - 🐹 **[colorteller](https://github.com/aws/aws-app-mesh-examples)**: AWS App Mesh is a service mesh that you can use with your microservices to manage service to service communication.
 - 🐹 **[colorteller](https://github.com/aws/aws-app-mesh-examples)**: AWS App Mesh is a service mesh that you can use with your microservices to manage service to service communication.
 - 🐹 **[wuzapi](https://github.com/asternic/wuzapi)**: Simple RESTful API for WhatsApp in Golang (using the Whatsmeow multi device library.
+- 🐹 **[loongsuite-go](https://alibaba.github.io/loongsuite-go-agent/)**: OpenTelemetry Compile-Time Instrumentation for Golang.
 - 🐹 **[mhtml](https://htmgo.dev)**: Htmgo - build simple and scalable systems with go + htmx.
 - 🐹 **[color-app](https://github.com/aws/aws-app-mesh-examples)**: AWS App Mesh is a service mesh that you can use with your microservices to manage service to service communication.
 - 🐹 **[color_client](https://github.com/aws/aws-app-mesh-examples)**: AWS App Mesh is a service mesh that you can use with your microservices to manage service to service communication.
