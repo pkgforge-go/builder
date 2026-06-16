@@ -1328,6 +1328,7 @@
 - 🐹 **[graphjin](https://graphjin.com)**: GraphJin - An Automagical Compiler to Connect AI to Your Databases.
 - 🐹 **[v3](https://graphjin.com)**: GraphJin - An Automagical Compiler to Connect AI to Your Databases.
 - 🐹 **[docs-chef-io](http://inspec.io)**: InSpec: Auditing and Testing Framework.
+- 🐹 **[openapi2jsonschema-go](https://github.com/yannh/kubeconform)**: A FAST Kubernetes manifests validator, with support for Custom Resources.
 - 🐹 **[codeclimate](https://qlty.sh/)**: Code quality CLI for universal linting, auto-formatting, security scanning, and maintainability.
 - 🐹 **[qlty](https://qlty.sh/)**: Code quality CLI for universal linting, auto-formatting, security scanning, and maintainability.
 - 🐹 **[api](https://kubeblocks.io)**: KubeBlocks is a Kubernetes Operator designed to manage a variety of databases and streaming systems, including MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, RocketMQ, and more, within Kubernetes environments.
@@ -3065,6 +3066,7 @@
 - 🐹 **[wakatime-cli](https://wakatime.com/plugins)**: Command line interface used by all WakaTime text editor plugins.
 - 🐹 **[16_code_gen_plugin](https://github.com/mercari/grpc-federation)**: GRPC Federation generates a gRPC server by writing a custom option in Protocol Buffers.
 - 🐹 **[_examples](https://github.com/awesome-gocui/gocui)**: Minimalist Go package aimed at creating Console User Interfaces.
+- 🐹 **[cli](https://newsjack.sh)**: The open-source skills that turn your agent into a full PR team.
 - 🐹 **[debian](https://cert-manager.io/docs/projects/trust-manager/)**: Trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.
 - 🐹 **[core](https://speed-highlight.github.io/core/examples/)**: Lightweight syntax highlighter library for the Web and the Terminal.
 - 🐹 **[jqfmt](https://github.com/noperator/jqfmt)**: Like gofmt, but for jq.
@@ -4345,6 +4347,7 @@
 - 🐹 **[rating-service](https://skywalking.apache.org/docs/skywalking-showcase/latest/readme/)**: Showcase Application to demonstrate features of Apache SkyWalking.
 - 🐹 **[temporal-proto](https://temporal.io)**: Temporal gRPC API and proto files.
 - 🐹 **[04-vet](https://youtube.com/MarioCarrion)**: Slides and examples used for my training videos.
+- 🐹 **[achsvc](http://moov.io)**: A RESTful API enabling electronic payments to be submitted and received without a deep understanding payment file specification.
 - 🐹 **[architekt](https://loopholelabs.io)**: A Compute Primitive Designed for Live Migration.
 - 🐹 **[audio2flash](https://zeptocore.com)**: Firmware for the zeptocore, zeptoboard, ectocore, and ezeptocore.
 - 🐹 **[field_count](https://github.com/xlab-uiuc/acto)**: Push-Button End-to-End Testing of Kubernetes Operators and Controllers.
@@ -5947,6 +5950,7 @@
 - 🐹 **[server](https://playground.cj.zxilly.dev/)**: 仓颉 playground.
 - 🐹 **[target](https://meridio.nordix.org)**: Facilitator of attraction and distribution of external traffic within Kubernetes via secondary networks.
 - 🐹 **[testing](https://docs.primev.xyz/)**: Establishes a p2p network, allowing mev actors to issue bids and commitments for execution in real time.
+- 🐹 **[traefik-certs-cleaner](https://github.com/ldez/traefik-certs-cleaner)**: A simple helper to clean the Traefik acme.
 - 🐹 **[twitch-channel-points-miner](https://github.com/0x8fv/twitch-channel-points-miner)**: A fast and efficient script written in Go that simulates stream watching to automatically earn Twitch channel points and Drops for you.
 - 🐹 **[v2](https://github.com/pluies/config-reloader-sidecar)**: Sidecar to watch a config folder and reload a process when it changes.
 - 🐹 **[wagmios](http://wiki.wagmilabs.fun/)**: Your AI command Center.
@@ -6643,6 +6647,7 @@
 - 🐹 **[src](https://github.com/ibm-messaging/mq-golang-jms20/openshift-app-sample/src)**: JMS style messaging interface for Golang applications connecting to IBM MQ.
 - 🐹 **[ssh](https://godoc.org/github.com/gliderlabs/ssh)**: Easy SSH servers in Golang.
 - 🐹 **[terraform-provider](https://registry.terraform.io/providers/cloudamqp/cloudamqp)**: Terraform Provider for CloudAMQP.
+- 🐹 **[tor](https://github.com/direct-connect/go-dcpp)**: Hybrid Direct Connect hub written in Go.
 - 🐹 **[v4](https://github.com/bbkane/grabbit)**: A small single-binary CLI to grab images from Reddit - I've been surprised how much I enjoy seeing beautiful wallpapers when I lock/unlock my computer.
 - 🐹 **[wait_for_response](https://github.com/nev7n/wait_for_response)**: Github action to wait for a response.
 - 🐹 **[wayurls](https://github.com/alwalxed/wayurls)**: CLI tool for fetching URLs from Wayback Machine, Common Crawl, and VirusTotal.
