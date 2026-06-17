@@ -5516,6 +5516,7 @@
 - 🐹 **[spxls](https://xbuilder.com)**: XBuilder.
 - 🐹 **[src](https://github.com/ndenerserve/smartpi)**: Opensource Repository of SmartPi.
 - 🐹 **[v2](https://github.com/hashicorp/go-kms-wrapping)**: KMS wrapping libraries split out from Vault.
+- 🐹 **[agent-guardrails-template](https://github.com/thearchitectit/agent-guardrails-template)**: Template repository with AI agent guardrails, safety protocols, and sprint task framework.
 - 🐹 **[backstage](https://backstage.io)**: Backstage SDK for Go.
 - 🐹 **[cve-2024-36401](https://github.com/netuseradministrator/cve-2024-36401)**: Geoserver图形化漏洞利用工具.
 - 🐹 **[digcaa](https://github.com/weppos/digcaa)**: DNS CAA inspection CLI and (Go) library.
