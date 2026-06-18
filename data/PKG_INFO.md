@@ -747,6 +747,7 @@
 - 🐹 **[nerdctl-stub](https://rancherdesktop.io)**: Container Management and Kubernetes on the Desktop.
 - 🐹 **[networking](https://rancherdesktop.io)**: Container Management and Kubernetes on the Desktop.
 - 🐹 **[scripts](https://rancherdesktop.io)**: Container Management and Kubernetes on the Desktop.
+- 🐹 **[spin-stub](https://rancherdesktop.io)**: Container Management and Kubernetes on the Desktop.
 - 🐹 **[gogcli](https://gogcli.sh)**: Google Suite CLI: Gmail, GCal, GDrive, GContacts.
 - 🐹 **[rancher-desktop](https://rancherdesktop.io)**: Container Management and Kubernetes on the Desktop.
 - 🐹 **[gitlab-ce](https://gitlab.com/gitlab-org/gitlab-foss)**: GitLab FOSS is a read-only mirror of GitLab, with all proprietary code removed.
@@ -1216,6 +1217,7 @@
 - 🐹 **[cloud-init](https://cloud-init.io/)**: Official upstream for the cloud-init: cloud instance initialization.
 - 🐹 **[pingtunnel](https://github.com/esrrhs/pingtunnel)**: Pingtunnel is a tool that send TCP/UDP traffic over ICMP.
 - 🐹 **[inngestctl](https://www.inngest.com/docs)**: The leading workflow orchestration platform.
+- 🐹 **[qsv](https://qsv.dathere.com)**: Blazing-fast Data-Wrangling toolkit.
 - 🐹 **[generator](http://fabric8.io)**: Java client for Kubernetes & OpenShift.
 - 🐹 **[netmetrics](https://odigos.io)**: Distributed tracing without code changes.
 - 🐹 **[scheduler](https://odigos.io)**: Distributed tracing without code changes.
@@ -2704,6 +2706,7 @@
 - 🐹 **[measure-config](https://www.lfedge.org/projects/eve/)**: EVE is Edge Virtualization Engine.
 - 🐹 **[mmagent](https://www.lfedge.org/projects/eve/)**: EVE is Edge Virtualization Engine.
 - 🐹 **[newlog](https://www.lfedge.org/projects/eve/)**: EVE is Edge Virtualization Engine.
+- 🐹 **[swtpm-vtpm](https://www.lfedge.org/projects/eve/)**: EVE is Edge Virtualization Engine.
 - 🐹 **[files_artifacts_expander](https://docs.kurtosistech.com/)**: A platform for packaging and launching blockchain infra.
 - 🐹 **[go-ethereum-hdwallet](https://github.com/miguelmota/go-ethereum-hdwallet)**: Ethereum HD Wallet derivations in Go (golang.
 - 🐹 **[xgo](https://github.com/techknowlogick/xgo)**: Go CGO cross compiler.
@@ -2960,6 +2963,7 @@
 - 🐹 **[testdata](https://docs.hypermode.com/modus)**: Modus: a framework for building agentic flows powered by WebAssembly.
 - 🐹 **[wiby](https://github.com/wibyweb/wiby)**: Wiby Search Engine.
 - 🐹 **[cloudflare-exporter](https://github.com/lablabs/cloudflare-exporter)**: Prometheus CloudFlare Exporter.
+- 🐹 **[rules_oci](https://registry.build/github/bazel-contrib/rules_oci)**: Bazel rules for building OCI containers.
 - 🐹 **[sigil](https://github.com/gliderlabs/sigil)**: Standalone string interpolator and template processor.
 - 🐹 **[anthropic-functions](https://docs.hypermode.com/modus)**: Modus: a framework for building agentic flows powered by WebAssembly.
 - 🐹 **[auth](https://docs.hypermode.com/modus)**: Modus: a framework for building agentic flows powered by WebAssembly.
@@ -4504,6 +4508,7 @@
 - 🐹 **[time-server](https://docs.inference-gateway.com)**: An open-source, cloud-native, high-performance gateway unifying multiple LLM providers, from local solutions like Ollama to major cloud providers such as OpenAI, Groq, Cohere, Anthropic, Cloudflare and DeepSeek.
 - 🐹 **[tour-of-restate-go](https://restate.dev)**: Restate examples.
 - 🐹 **[dnsping](https://fortio.org/dnsping/)**: DNS Ping: to check packet loss and latency issues with DNS servers.
+- 🐹 **[gen-apidocs](https://github.com/kubernetes-sigs/reference-docs)**: Tools to build reference documentation for Kubernetes APIs and CLIs.
 - 🐹 **[gen-compdocs](https://github.com/kubernetes-sigs/reference-docs)**: Tools to build reference documentation for Kubernetes APIs and CLIs.
 - 🐹 **[gen-kubectldocs](https://github.com/kubernetes-sigs/reference-docs)**: Tools to build reference documentation for Kubernetes APIs and CLIs.
 - 🐹 **[gh-aw-mcpg](https://github.com/githubnext/gh-aw-mcpg)**: Github Agentic Workflows MCP Gateway.
@@ -4541,6 +4546,7 @@
 - 🐹 **[base58-go](https://github.com/itchyny/base58-go)**: Base58 encoding/decoding package and command written in Go.
 - 🐹 **[greeter](https://github.com/tiiuae/rclgo)**: ROS Client Library for Golang.
 - 🐹 **[logalize](https://github.com/deponian/logalize)**: Fast and extensible log colorizer Alternative to ccze.
+- 🐹 **[artifactgen](https://github.com/hyperledger-labs/fabric-token-sdk)**: The Fabric Token SDK provides a collection of APIs and services that streamline development for token-based distributed applications.
 - 🐹 **[codeql](https://smithy.security)**: The security workflow engine.
 - 🐹 **[custom-annotation](https://smithy.security)**: The security workflow engine.
 - 🐹 **[garlicshare](https://r4ygm.github.io/garlicshare/)**: Private and self-hosted file sharing over the Tor network written in golang.
@@ -4727,6 +4733,7 @@
 - 🐹 **[uuidv7](https://github.com/nalgeon/uuidv7)**: UUIDv7 in N languages.
 - 🐹 **[_examples](https://pkg.go.dev/github.com/catppuccin/go)**: Soothing pastel library for Go.
 - 🐹 **[bitmap](https://github.com/dgraph-io/benchmarks)**: Run benchmarks with RDF data.
+- 🐹 **[cachectl](https://github.com/cubicdaiya/cachectl)**: Page cache controller for regular file in Go.
 - 🐹 **[cassandra_delete_range](https://xrpl.org)**: An XRP Ledger API Server.
 - 🐹 **[csv2xlsx](https://github.com/mentax/csv2xlsx)**: Fast and simple opensource command line tool to convert CSV do XLSX.
 - 🐹 **[dbc](https://docs.columnar.tech/dbc)**: Dbc is the command-line tool for installing and managing ADBC drivers.
