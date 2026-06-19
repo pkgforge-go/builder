@@ -1918,6 +1918,7 @@
 - 🐹 **[sourcey-godoc](https://sourcey.com)**: Precision documentation from OpenAPI, MCP, Doxygen, and Markdown guides.
 - 🐹 **[check-workflow-run](https://github.com/stackrox/stackrox)**: The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.
 - 🐹 **[kuttl](https://github.com/stackrox/stackrox)**: The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.
+- 🐹 **[csi-driver-nfs](https://github.com/kubernetes-csi/csi-driver-nfs)**: This driver allows Kubernetes to access NFS server on Linux node.
 - 🐹 **[ehco](https://github.com/ehco1996/ehco)**: Ehco is a network ʚrelayɞ tool and a typo.
 - 🐹 **[singularity](https://github.com/nccgroup/singularity/wiki/%5BAnnouncement-Blog-Post%5D--Singularity-of-Origin:-A-DNS-Rebinding-Attack-Framework)**: A DNS rebinding attack framework.
 - 🐹 **[v5](https://grafana.github.io/grafana-operator/docs/)**: An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs.
@@ -2240,6 +2241,7 @@
 - 🐹 **[colorteller](https://github.com/aws/aws-app-mesh-examples)**: AWS App Mesh is a service mesh that you can use with your microservices to manage service to service communication.
 - 🐹 **[colorteller](https://github.com/aws/aws-app-mesh-examples)**: AWS App Mesh is a service mesh that you can use with your microservices to manage service to service communication.
 - 🐹 **[colorteller](https://github.com/aws/aws-app-mesh-examples)**: AWS App Mesh is a service mesh that you can use with your microservices to manage service to service communication.
+- 🐹 **[simple_project](https://github.com/qiniu/goc)**: A Comprehensive Coverage Testing System for The Go Programming Language.
 - 🐹 **[wuzapi](https://github.com/asternic/wuzapi)**: Simple RESTful API for WhatsApp in Golang (using the Whatsmeow multi device library.
 - 🐹 **[loongsuite-go](https://alibaba.github.io/loongsuite-go-agent/)**: OpenTelemetry Compile-Time Instrumentation for Golang.
 - 🐹 **[mhtml](https://htmgo.dev)**: Htmgo - build simple and scalable systems with go + htmx.
@@ -2445,6 +2447,7 @@
 - 🐹 **[codec-server](https://docs.temporal.io/docs/go)**: Samples for working with the Temporal Go SDK.
 - 🐹 **[grpc-proxy](https://docs.temporal.io/docs/go)**: Samples for working with the Temporal Go SDK.
 - 🐹 **[cni](https://developer.hashicorp.com/consul/docs/k8s)**: First-class support for Consul Service Mesh on Kubernetes.
+- 🐹 **[code](https://www.supernetworks.org/)**: SPR: Open Source, secure, user friendly and fast wifi routers for your home.
 - 🐹 **[copy-crds-to-chart](https://developer.hashicorp.com/consul/docs/k8s)**: First-class support for Consul Service Mesh on Kubernetes.
 - 🐹 **[helm-reference-gen](https://developer.hashicorp.com/consul/docs/k8s)**: First-class support for Consul Service Mesh on Kubernetes.
 - 🐹 **[shared](https://e2b.dev)**: Infrastructure that's powering E2B Cloud.
@@ -4471,6 +4474,7 @@
 - 🐹 **[agenthub](https://github.com/ygivenx/agenthub)**: GitHub is for humans.
 - 🐹 **[aspect-cli](https://aspect.build/)**: Correct, fast, usable: choose three.
 - 🐹 **[camunda-bpmn-js](https://github.com/camunda/camunda-bpmn-js)**: Embeddable Camunda modeling distributions based on bpmn-js.
+- 🐹 **[car](https://github.com/teknoraver/car)**: Copy-on-write archiver.
 - 🐹 **[slimctl](https://github.com/agntcy/slim)**: Secure Low-Latency Interactive Messaging.
 - 🐹 **[v2](https://mozilla-ai.github.io/mcpd/)**: Declaratively define and run required tools across environments, from local development to containerized cloud deployments.
 - 🐹 **[yamldiff](https://github.com/sahilm/yamldiff)**: A CLI tool to diff two YAML files.
@@ -4611,6 +4615,7 @@
 - 🐹 **[eventer](https://ibm.com/cloud/code-engine)**: Samples for using Code Engine.
 - 🐹 **[github-commenter](https://cloudposse.com/accelerate)**: Command line utility for creating GitHub comments on Commits, Pull Request Reviews or Issues.
 - 🐹 **[kafka](https://ibm.com/cloud/code-engine)**: Samples for using Code Engine.
+- 🐹 **[logboost](https://github.com/joeavanzato/logboost)**: Convert a variety of log formats to CSV while enriching detected IPs with Geolocation, ASN, DNS, WhoIs, Shodan InternetDB and Threat Indicator matches.
 - 🐹 **[mapshot](https://github.com/palats/mapshot)**: Factorio mod to export maps as zoomable html.
 - 🐹 **[safehaven](https://github.com/kwakubiney/safehaven)**: Proof of concept for a VPN over UDP.
 - 🐹 **[sgai](https://github.com/sandgardenhq/sgai)**: Sandgarden AI Software Factory.
@@ -6648,6 +6653,7 @@
 - 🐹 **[ocgo](https://github.com/emanuelcasco/ocgo)**: OCGO Provides an Ollama-style CLI for running Claude Code through an OpenCode Go subscription via a local Anthropic-compatible proxy.
 - 🐹 **[openapi-preprocessor](https://github.com/dolmen-go/openapi-preprocessor)**: An authoring tool for OpenAPI specifications.
 - 🐹 **[pub-sub](https://github.com/tayron/golang-estudos)**: Vários exemplos de uso de recurso da linhagem de programação GO Lang.
+- 🐹 **[py](https://github.com/koeng101/dnadesign)**: A lua package for designing DNA.
 - 🐹 **[qt](https://github.com/tayron/go-lang-estudos)**: Vários exemplos de uso de recurso da linhagem de programação GO Lang.
 - 🐹 **[qt](https://github.com/tayron/golang-estudos)**: Vários exemplos de uso de recurso da linhagem de programação GO Lang.
 - 🐹 **[sequence-diagrams](https://github.com/go-spectest/spectest/examples/sequence-diagrams)**: A simple and extensible behavioural testing library for Go.
