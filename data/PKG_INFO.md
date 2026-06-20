@@ -81,6 +81,7 @@
 - 🐹 **[test-sds-server](https://www.consul.io)**: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - 🐹 **[proto-gen-rpc-glue](https://www.consul.io)**: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - 🐹 **[protoc-gen-consul-rate-limit](https://www.consul.io)**: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+- 🐹 **[opentf](https://opentofu.org)**: OpenTofu lets you declaratively manage your cloud infrastructure.
 - 🐹 **[go](https://www.envoyproxy.io)**: Cloud-native high-performance edge/middle/service proxy.
 - 🐹 **[simple](https://www.envoyproxy.io)**: Cloud-native high-performance edge/middle/service proxy.
 - 🐹 **[test_data](https://www.envoyproxy.io)**: Cloud-native high-performance edge/middle/service proxy.
