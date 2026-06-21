@@ -1675,6 +1675,7 @@
 - 🐹 **[apptainer](https://apptainer.org)**: Apptainer: Application containers for Linux.
 - 🐹 **[tools](https://aigateway.envoyproxy.io)**: Manages Unified Access to Generative AI Services built on Envoy Gateway.
 - 🐹 **[languages](https://benjdd.com/languages2)**: Compare languages.
+- 🐹 **[joker](https://joker-lang.org/)**: Small Clojure interpreter, linter and formatter.
 - 🐹 **[schema](https://docs.zarf.dev/)**: The Airgap Native Packager Manager for Kubernetes.
 - 🐹 **[aws-node-termination-handler](https://aws.amazon.com/ec2)**: Gracefully handle EC2 instance shutdown within Kubernetes.
 - 🐹 **[eventmesh-operator](https://eventmesh.apache.org/)**: EventMesh is a new generation serverless event middleware for building distributed event-driven applications.
