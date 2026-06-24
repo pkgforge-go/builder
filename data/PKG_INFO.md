@@ -564,6 +564,7 @@
 - 🐹 **[databend](https://docs.databend.com)**: 𝗔𝗜-𝗡𝗮𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲.
 - 🐹 **[ai-search](https://higress.ai)**: AI Gateway | AI Native API Gateway.
 - 🐹 **[hello-openshift](http://www.openshift.org)**: Conformance test suite for OpenShift.
+- 🐹 **[origin](http://www.openshift.org)**: Conformance test suite for OpenShift.
 - 🐹 **[ai-intent](https://higress.ai)**: AI Gateway | AI Native API Gateway.
 - 🐹 **[ai-quota](https://higress.ai)**: AI Gateway | AI Native API Gateway.
 - 🐹 **[ai-rag](https://higress.ai)**: AI Gateway | AI Native API Gateway.
@@ -1782,6 +1783,7 @@
 - 🐹 **[nydus-overlayfs](https://nydus.dev/)**: Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.
 - 🐹 **[smoke](https://nydus.dev/)**: Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.
 - 🐹 **[smoke](https://nydus.dev/)**: Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.
+- 🐹 **[plc4go](https://plc4x.apache.org/)**: PLC4X The Industrial IoT adapter.
 - 🐹 **[wecom-cli](https://github.com/wecomteam/wecom-cli)**: 企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信.
 - 🐹 **[paddler](https://paddler.intentee.com)**: Open-source LLM/VLM load balancer and serving platform for self-hosting LLMs (and VLMs) at scale 🏓🦙 Alternative to projects like llm-d, Docker Model Runner, etc but with less moving parts and simple deployments built around ggml ecosystem.
 - 🐹 **[mcuboot](https://github.com/juullabs-oss/mcuboot)**: Secure boot for 32-bit Microcontrollers.
