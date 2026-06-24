@@ -39,6 +39,7 @@
 - 🐹 **[istio](https://istio.io)**: Connect, secure, control, and observe services.
 - 🐹 **[mmgotool](https://mattermost.com)**: Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - 🐹 **[mmgotool](https://mattermost.com)**: Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
+- 🐹 **[sharedchannel-test](https://mattermost.com)**: Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - 🐹 **[tests](https://docs.ccxt.com)**: A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges.
 - 🐹 **[jaws](https://serverless.com)**: Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more.
 - 🐹 **[jaws](https://serverless.com)**: Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more.
@@ -561,6 +562,7 @@
 - 🐹 **[ssh-server](https://openstatus.dev)**: Status page with uptime monitoring & API monitoring as code.
 - 🐹 **[samples](https://github.com/github/copilot-sdk)**: Multi-platform SDK for integrating GitHub Copilot Agent into apps and services.
 - 🐹 **[databend](https://docs.databend.com)**: 𝗔𝗜-𝗡𝗮𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲.
+- 🐹 **[ai-search](https://higress.ai)**: AI Gateway | AI Native API Gateway.
 - 🐹 **[hello-openshift](http://www.openshift.org)**: Conformance test suite for OpenShift.
 - 🐹 **[ai-intent](https://higress.ai)**: AI Gateway | AI Native API Gateway.
 - 🐹 **[ai-quota](https://higress.ai)**: AI Gateway | AI Native API Gateway.
