@@ -1508,6 +1508,7 @@
 - 🐹 **[tparse](https://sq.io)**: Sq data wrangler.
 - 🐹 **[stackup](https://pressly.github.io/sup)**: Super simple deployment tool - think of it like 'make' for a network of servers.
 - 🐹 **[test](https://please.build)**: High-performance extensible build system for reproducible multi-language builds.
+- 🐹 **[mako](https://utoo.land)**: A unified toolchain for web development.
 - 🐹 **[piknik](https://github.com/jedisct1/piknik)**: Copy/paste anything over the network.
 - 🐹 **[cronexpr](https://github.com/aptible/supercronic)**: Cron for containers.
 - 🐹 **[supercronic](https://github.com/aptible/supercronic)**: Cron for containers.
