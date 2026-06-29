@@ -875,6 +875,7 @@
 - 🐹 **[remote-activate](http://proto.actor)**: Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin.
 - 🐹 **[remote-routing](http://proto.actor)**: Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin.
 - 🐹 **[pmd](https://pmd.github.io)**: An extensible multilanguage static code analyzer.
+- 🐹 **[lingo.dev](https://lingo.dev)**: Open-source localization engineering tools.
 - 🐹 **[persistence](http://proto.actor)**: Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin.
 - 🐹 **[lambda](https://fleetdm.com)**: Open device management.
 - 🐹 **[fuse](https://cubefs.io)**: Cloud-native distributed storage.
@@ -924,6 +925,7 @@
 - 🐹 **[pokeapi](https://pokeapi.co)**: The Pokémon API.
 - 🐹 **[go](https://go.unkey.com)**: The Developer Platform for Modern APIs.
 - 🐹 **[grin](https://grin.mw/)**: Minimal implementation of the Mimblewimble protocol.
+- 🐹 **[dalfox](https://dalfox.hahwul.com)**: Dalfox is a powerful open-source XSS scanner and utility focused on automation.
 - 🐹 **[helloworld-go](https://knative.dev/docs/)**: User documentation for Knative components.
 - 🐹 **[grpc-ping-go](https://knative.dev/docs/)**: User documentation for Knative components.
 - 🐹 **[helloworld-go](https://knative.dev/docs/)**: User documentation for Knative components.
@@ -1227,6 +1229,7 @@
 - 🐹 **[vfox](https://vfox.dev)**: A cross-platform and extendable version manager with support for Java, Node.
 - 🐹 **[front-end](https://aws.github.io/copilot-cli/)**: The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
 - 🐹 **[back-end](https://aws.github.io/copilot-cli/)**: AWS Copilot CLI will reach end-of-support on June 12, 2026.
+- 🐹 **[cloud-init](https://cloud-init.io/)**: Official upstream for the cloud-init: cloud instance initialization.
 - 🐹 **[cloud-init](https://cloud-init.io/)**: Official upstream for the cloud-init: cloud instance initialization.
 - 🐹 **[pingtunnel](https://github.com/esrrhs/pingtunnel)**: Pingtunnel is a tool that send TCP/UDP traffic over ICMP.
 - 🐹 **[inngestctl](https://www.inngest.com/docs)**: The leading workflow orchestration platform.
