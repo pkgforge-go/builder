@@ -1823,6 +1823,7 @@
 - 🐹 **[wiiudownloader](https://github.com/xpl0itu/wiiudownloader)**: Allows to download encrypted wiiu files from nintendo's official servers.
 - 🐹 **[auto-correct.rs](https://huacnlee.github.io/autocorrect)**: A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean.
 - 🐹 **[autocorrect](https://huacnlee.github.io/autocorrect)**: A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean.
+- 🐹 **[nvidia-gpu-exporter](https://github.com/utkuozdemir/nvidia-gpu-exporter)**: Nvidia GPU exporter for prometheus using nvidia-smi binary.
 - 🐹 **[nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter)**: Nvidia GPU exporter for prometheus using nvidia-smi binary.
 - 🐹 **[bitset](https://github.com/bits-and-blooms/bitset)**: Go package implementing bitsets.
 - 🐹 **[bitset](https://github.com/willf/bitset)**: Go package implementing bitsets.
