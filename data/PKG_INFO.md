@@ -375,6 +375,7 @@
 - 🐹 **[cert-manager](https://cert-manager.io)**: Automatically provision and manage TLS certificates in Kubernetes.
 - 🐹 **[addlicense](https://www.gitpod.io)**: The developer platform for on-demand cloud development environments to create software faster and more securely.
 - 🐹 **[codegen](https://www.gitpod.io)**: The developer platform for on-demand cloud development environments to create software faster and more securely.
+- 🐹 **[docker-up](https://www.gitpod.io)**: The developer platform for on-demand cloud development environments to create software faster and more securely.
 - 🐹 **[ws-manager-mk2](https://www.gitpod.io)**: The developer platform for on-demand cloud development environments to create software faster and more securely.
 - 🐹 **[kubecdl](https://www.gitpod.io)**: The developer platform for on-demand cloud development environments to create software faster and more securely.
 - 🐹 **[prettylog](https://www.gitpod.io)**: The developer platform for on-demand cloud development environments to create software faster and more securely.
@@ -1603,6 +1604,7 @@
 - 🐹 **[ycat](https://goccy.github.io/go-yaml)**: YAML support for the Go language.
 - 🐹 **[examples](https://langwatch.ai)**: The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization.
 - 🐹 **[octopus](https://github.com/bestruirui/octopus)**: One Hub All LLMs For You | 为个人打造的 LLM API 聚合服务.
+- 🐹 **[boxlite](https://boxlite.ai/)**: The compute substrate for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - 🐹 **[cozystack](https://cozystack.io)**: Cozystack: Free Cloud Platform based on Kubernetes.
 - 🐹 **[websoft9](https://www.websoft9.com)**: Applications self-hosting and DevOps platform for running open source, web-based linux Panel of lite PaaS.
 - 🐹 **[_gen](https://github.com/klauspost/reedsolomon)**: Reed-Solomon Erasure Coding in Go.
@@ -2562,6 +2564,7 @@
 - 🐹 **[tpm-ssh-agent](https://github.com/foxboron/tpm-ssh-agent)**: Computer: :key: ssh-agent for TPMs.
 - 🐹 **[git-spice](https://abhinav.github.io/git-spice/)**: Manage stacked Git branches.
 - 🐹 **[booster](https://github.com/anatol/booster)**: Fast and secure initramfs generator.
+- 🐹 **[manual-approval](https://github.com/trstringer/manual-approval)**: Pause your GitHub Actions workflow and request manual approval from set approvers before continuing.
 - 🐹 **[go-rod-cli](https://github.com/simonw/research)**: Research projects.
 - 🐹 **[codenames](https://www.horsepaste.com)**: Play horse paste online.
 - 🐹 **[falcosidekick](https://github.com/falcosecurity/falcosidekick)**: Connect Falco to your ecosystem.
@@ -3251,6 +3254,7 @@
 - 🐹 **[cns](https://github.com/mmmdbybyd/cns)**: CuteBi Network Server.
 - 🐹 **[stash-box](https://github.com/stashapp/stash-box)**: Stash App's own OpenSource video indexing and Perceptual Hashing MetaData API.
 - 🐹 **[png2svg](https://github.com/xyproto/png2svg)**: Twisted_rightwards_arrows: Convert small PNG images to SVG Tiny 1.
+- 🐹 **[cmd](https://www.process-one.net/)**: Native Go XMPP library.
 - 🐹 **[generate_rate_limits](https://registry.terraform.io/providers/okta/okta)**: A Terraform provider to manage Okta resources, enabling infrastructure-as-code provisioning and management of users, groups, applications, and other Okta objects.
 - 🐹 **[pistol](https://github.com/doronbehar/pistol)**: General purpose file previewer designed for Ranger, Lf to make scope.
 - 🐹 **[screen-13](https://github.com/attackgoat/screen-13)**: High-performance Vulkan driver with automated resource management and execution.
@@ -3805,6 +3809,7 @@
 - 🐹 **[dcs](https://github.com/debian/dcs)**: Debian Code Search (codesearch.
 - 🐹 **[gce_export](https://cloud.google.com/compute/docs/images)**: Tools and scripts for Google Compute Engine images.
 - 🐹 **[gce_image_publish](https://cloud.google.com/compute/docs/images)**: Tools and scripts for Google Compute Engine images.
+- 🐹 **[gce_windows_upgrade](https://cloud.google.com/compute/docs/images)**: Tools and scripts for Google Compute Engine images.
 - 🐹 **[remarkable-tools](https://github.com/fenollp/remarkable-tools)**: Tools for the reMarkable paper tablet.
 - 🐹 **[algorithm](https://yuzhouwan.com/posts/666/)**: Team up to solve problems on LeetCode together.
 - 🐹 **[test](https://tilt.dev/)**: Extensions for Tilt.
@@ -5135,6 +5140,7 @@
 - 🐹 **[wuying-agentbay-sdk](https://www.aliyun.com/activity/wuying/aiagent)**: The AgentBay SDK provides a comprehensive suite of tools for efficient interaction with AgentBay cloud environments, enabling you to create and manage cloud sessions, execute commands, operate files, and interact with user interfaces.
 - 🐹 **[zig-play](https://zig-play.dev)**: An online Zig compiler inspired by Go and Rust.
 - 🐹 **[aguara](https://aguarascan.com)**: Open source security engine for the trust layer around AI agents and software supply chains.
+- 🐹 **[aliyun_assist_client](https://github.com/aliyun/aliyun_assist_client)**: Aliyun Assist Client 阿里云 云助手.
 - 🐹 **[base](https://pkg.go.dev/go.opentelemetry.io/otel/trace)**: Checks usage of OpenTelemetry/Census spans.
 - 🐹 **[canitf](https://cani.tf/)**: New features and parity between Terraform and OpenTofu.
 - 🐹 **[clamav-rest](https://hub.docker.com/r/ajilaag/clamav-rest)**: ClamAV virus/malware scanner with REST API.
@@ -7239,6 +7245,7 @@
 - 🐹 **[huginn](https://github.com/scrypster/huginn)**: Local AI agent platform — multi-agent, skills, cloud sync.
 - 🐹 **[hyperstyle](https://github.com/hyperskill/hyperstyle)**: A tool for running a set of pre-configured linters and evaluating code quality.
 - 🐹 **[imas-ime-dic](https://ime.imas-db.jp/)**: THE IDOLM@STER words dictionary for Japanese IME (by imas-db.
+- 🐹 **[integration](https://github.com/localstack/lstk)**: Lstk is a command-line interface for LocalStack built in Go with a modern terminal Ul, and native CLI experience for managing and interacting with LocalStack deployments.
 - 🐹 **[jsrecon](https://github.com/n-e-m-e-s-1-s/jsrecon)**: A powerful tool designed for identifying hidden endpoints and sensitive information within JavaScript files on a website.
 - 🐹 **[jsrecon](https://github.com/nikolas-trey/jsrecon)**: A powerful tool designed for identifying hidden endpoints and sensitive information within JavaScript files on a website.
 - 🐹 **[jsrecon](https://github.com/umutcamliyurt/jsrecon)**: A powerful tool designed for identifying hidden endpoints and sensitive information within JavaScript files on a website.
@@ -7546,6 +7553,7 @@
 - 🐹 **[ksgate](https://github.com/ksgate/ksgate)**: KSGate is a Kubernetes controller that manages the scheduling of pods using declarative gates and conditions.
 - 🐹 **[kubectl-nodepools](https://github.com/grafana/kubectl-nodepools)**: A kubectl plugin for listing node pools/groups.
 - 🐹 **[lambda](https://diagramastext.dev)**: Application to streamline diagram generation using plain English instructions instead of code.
+- 🐹 **[loader](https://github.com/eth-easl/loader)**: Load generator and trace sampler for serverless computing.
 - 🐹 **[loader](https://github.com/vhive-serverless/loader)**: Load generator and trace sampler for serverless computing.
 - 🐹 **[macadam](https://github.com/crc-org/macadam)**: Shared virtualization management library.
 - 🐹 **[magefiles](https://authzed.com/blog/maximizing-cockroachdb-performance)**: Node aware connection pooling for CockroachDB.
@@ -7646,6 +7654,7 @@
 - 🐹 **[ngman](https://github.com/memmaker/ngman)**: A lightweight abstraction layer around nginx and lego.
 - 🐹 **[nisaba](https://github.com/alybun/nisaba)**: Create an IRC chat bot powered by AI, using llamafile, in minutes.
 - 🐹 **[orcas](https://orcastor.github.io/doc/)**: 轻量级对象存储】支持主流操作系统和廉价低功耗设备 [OrcaS] Ready-to-use object storage for popular OS & cheap and low power devices.
+- 🐹 **[ovh-auto-buy](https://hub.docker.com/r/katorly/ovh-auto-buy)**: A docker image to automatically check and purchase OVH Eco dedicated servers.
 - 🐹 **[perses-plugins](https://github.com/perses/perses-plugins)**: The core plugins for Perses.
 - 🐹 **[phyrox-developer-portable](https://portapps.io/app/phyrox-developer-portable/)**: Phyrox Developer (based on Mozilla Firefox Developer) portable for Windows.
 - 🐹 **[plugins](https://github.com/perses/plugins)**: The core plugins for Perses.
@@ -9666,6 +9675,7 @@
 - 🐹 **[ndpspoof](https://github.com/shadowy-pycoder/ndpspoof)**: Perform RA/RDNSS/NA spoofing and RA Guard evasion with arbitrary IPv6 packets.
 - 🐹 **[noop](https://github.com/patsnapops/noop)**: NO Option zaP wrapper.
 - 🐹 **[nspoweroutages](https://github.com/danp/nspoweroutages)**: Git scraping of the Nova Scotia Power Outage Map.
+- 🐹 **[nullboot](https://github.com/canonical/nullboot)**: Nullboot is a boot manager for environments that do not need a boot manager.
 - 🐹 **[oairt](https://github.com/tmc/misc)**: Miscellaneous tools and codebases.
 - 🐹 **[oci-tool](https://github.com/csweichel/oci-tool)**: Handy little CLI for interacting with OCI data.
 - 🐹 **[ollama-model-exists](https://github.com/tmc/misc)**: Miscellaneous tools and codebases.
@@ -9926,6 +9936,7 @@
 - 🐹 **[modern-go-programming](https://github.com/the-gigi/modern-go-programming)**: The repo for my Go programming book.
 - 🐹 **[monitoring-plugin](https://github.com/openshift/monitoring-plugin)**: Monitoring plugin for OpenShift console.
 - 🐹 **[moth](https://github.com/nealey/moth)**: Monarch Of The Hill - base infrastructure for computer-based puzzle contests.
+- 🐹 **[motoko](https://github.com/ldez/motoko)**: Motoko: Based on Go modules, update a dependency to a major version.
 - 🐹 **[mqtt-benchmark](https://github.com/pablitovicente/mqtt-benchmark)**: A very simple MQTT benchmark tool written in Go.
 - 🐹 **[multus-admission-controller](https://github.com/openshift/multus-admission-controller)**: An admission controller for Multus CNI custom resources.
 - 🐹 **[music-for-coding-tui](https://github.com/fpigeonjr/music-for-coding-tui)**: A terminal UI for musicforprogramming.
