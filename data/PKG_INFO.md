@@ -1764,6 +1764,7 @@
 - 🐹 **[todoist](https://github.com/sachaos/todoist)**: Todoist CLI Client.
 - 🐹 **[image-awaiter](https://zero-to-jupyterhub.readthedocs.io)**: Helm Chart & Documentation for deploying JupyterHub on Kubernetes.
 - 🐹 **[dyplomat](https://github.com/envoyproxy/go-control-plane)**: Go implementation of data-plane-api.
+- 🐹 **[bungeecord](https://www.spigotmc.org/go/bungeecord)**: BungeeCord, the 6th in a generation of server portal suites.
 - 🐹 **[client](https://vald.vdaas.org)**: Vald.
 - 🐹 **[opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator)**: Kubernetes Operator for OpenTelemetry Collector.
 - 🐹 **[mcuboot](https://github.com/runtimeco/mcuboot)**: Secure boot for 32-bit Microcontrollers.
@@ -9151,6 +9152,7 @@
 - 🐹 **[govhost](https://github.com/begininvoke/govhost)**: A virtual host scanner with go.
 - 🐹 **[gowebhello](https://github.com/udhos/gowebhello)**: Gowebhello is a simple golang replacement for 'python -m SimpleHTTPServer.
 - 🐹 **[hola-proxy](https://github.com/snawoot-proxies-forks/hola-proxy)**: Standalone Hola proxy client.
+- 🐹 **[httpstate](https://httpstate.com)**: The missing reactive layer for all your applications.
 - 🐹 **[hx](https://github.com/igoracmelo/hx)**: Colorful hexdump -C alternative written in Go.
 - 🐹 **[icuvisor](https://icuvisor.app/)**: Open-source local MCP connector for intervals.
 - 🐹 **[ip-to-cloudprovider](https://benjitrapp.github.io)**: Scrape the IP ranges of cloudproviders and check if a IP belongs to a particular CloudProvider.
