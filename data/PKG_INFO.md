@@ -27,6 +27,7 @@
 - 🐹 **[serverless](https://serverless.com)**: Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
 - 🐹 **[jaws](https://serverless.com)**: Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
 - 🐹 **[brew](https://brew.sh)**: The missing package manager for macOS (or Linux.
+- 🐹 **[go_example](https://airflow.apache.org/)**: Apache Airflow - A platform to programmatically author, schedule, and monitor workflows.
 - 🐹 **[awesome-compose](https://docs.docker.com/compose/)**: Awesome Docker Compose samples.
 - 🐹 **[backend](https://docs.docker.com/compose/)**: Awesome Docker Compose samples.
 - 🐹 **[backend](https://docs.docker.com/compose/)**: Awesome Docker Compose samples.
@@ -222,6 +223,7 @@
 - 🐹 **[gen_github_action_config](https://golangci-lint.run)**: Fast linters runner for Go.
 - 🐹 **[dolly](https://github.com/charmbracelet/dolly)**: Your CLI home video recorder.
 - 🐹 **[vhs](https://github.com/charmbracelet/vhs)**: Your CLI home video recorder.
+- 🐹 **[swoole](https://www.swoole.com)**: Coroutine-based concurrency library for PHP.
 - 🐹 **[go](https://www.dolthub.com)**: Dolt – Git for Data.
 - 🐹 **[swoole-src](https://www.swoole.com)**: Coroutine-based concurrency library for PHP.
 - 🐹 **[websocket](https://modelscope.github.io/FunASR/)**: Industrial-grade speech recognition toolkit: 170x realtime, 50+ languages, speaker diarization, emotion detection, streaming, and OpenAI-compatible API.
@@ -1343,6 +1345,7 @@
 - 🐹 **[go-advice](https://github.com/cristaloleg/go-advice)**: List of advice and tricks for Go  ʕ◔ϖ◔ʔ.
 - 🐹 **[quic](https://github.com/iqiyi/dpvs)**: DPVS is a high performance Layer-4 load balancer based on DPDK.
 - 🐹 **[tinymist](https://myriad-dreamin.github.io/tinymist)**: Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst.
+- 🐹 **[beehave](https://bitbra.in/beehave)**: Behavior tree AI for Godot Engine.
 - 🐹 **[nanos](https://nanos.org)**: A kernel designed to run one and only one application in a virtualized environment.
 - 🐹 **[apns2](https://github.com/sideshow/apns2)**: HTTP/2 Apple Push Notification Service (APNs) push provider for Go — Send push notifications to iOS, tvOS, Safari and OSX apps, using the APNs HTTP/2 protocol.
 - 🐹 **[e2e_cleanup](https://peerdb.io)**: Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage.
@@ -1995,6 +1998,7 @@
 - 🐹 **[codex-wrapper](https://github.com/cexll/myclaude)**: Claude Code and Codex orchestration workflow.
 - 🐹 **[abc](https://github.com/berkeley-abc/abc)**: ABC: System for Sequential Logic Synthesis and Formal Verification.
 - 🐹 **[cmd](https://containerd.io)**: Cgroups package for Go.
+- 🐹 **[v2](https://aspire.dev/reference/samples/)**: Browse the sample apps demonstrating Aspire integration across C#, JavaScript, TypeScript, Python, Go, containers, databases, cloud, AI, and observability scenarios.
 - 🐹 **[dragonos](https://dragonos.org)**: DragonOS is an operating system developed from scratch using Rust, with Linux compatibility.
 - 🐹 **[dragonos](https://dragonos.org)**: DragonOS is an operating system developed from scratch using Rust, with Linux compatibility.
 - 🐹 **[redress](https://github.com/goretk/redress)**: Redress - A tool for analyzing stripped Go binaries.
@@ -4140,6 +4144,7 @@
 - 🐹 **[library](https://www.openshift.com)**: Examples and Components for deploying into OpenShift.
 - 🐹 **[tools](https://github.com/erda-project/erda-infra)**: Erda Infra is a lightweight microservices framework implements by golang, which offers many useful modules and tools to help you quickly build a module-driven application.
 - 🐹 **[goutubedl](https://pkg.go.dev/github.com/wader/goutubedl?tab=doc)**: Go wrapper for youtube-dl and yt-dlp.
+- 🐹 **[host-sflow](http://sflow.net)**: Host-sflow agent.
 - 🐹 **[asm](https://github.com/viterin/vek)**: SIMD Accelerated vector functions for Go.
 - 🐹 **[coraza-spoa](https://github.com/corazawaf/coraza-spoa)**: A wrapper for integrating the OWASP Coraza WAF with HAProxy's SPOE filters.
 - 🐹 **[drone-scp](https://github.com/appleboy/drone-scp)**: Copy files and artifacts via SSH using a binary, docker or Drone CI.
@@ -4421,6 +4426,7 @@
 - 🐹 **[gitcs](https://github.com/abdullah-alaadine/gitcs)**: Command line tool written in Go.
 - 🐹 **[go-slay](https://judi.systems/shirei/)**: Go based GUI framework: practical, immediate mode, flexbox model.
 - 🐹 **[go-wol-proxy](https://github.com/darksworm/go-wol-proxy)**: A Wake-on-LAN reverse-proxy service that automatically wakes up servers when requests are made to them.
+- 🐹 **[govctl](https://govctl-org.github.io/govctl/)**: A governance harness for AI coding.
 - 🐹 **[mynewt-mcumgr](https://mynewt.apache.org/)**: Apache mynewt.
 - 🐹 **[nav](https://github.com/dkaslovsky/nav)**: Terminal navigator for interactive ls workflows.
 - 🐹 **[rating-service](https://skywalking.apache.org/docs/skywalking-showcase/latest/readme/)**: Showcase Application to demonstrate features of Apache SkyWalking.
@@ -5134,6 +5140,7 @@
 - 🐹 **[dranet](https://github.com/kubernetes-sigs/dranet)**: DRANET is a Kubernetes Network Driver that uses Dynamic Resource Allocation (DRA) to deliver high-performance networking for demanding applications in Kubernetes.
 - 🐹 **[go](https://github.com/golang-fips/go)**: Repository for FIPS enabled Go using OpenSSL.
 - 🐹 **[k8s_gateway](https://github.com/k8s-gateway/k8s_gateway)**: A CoreDNS plugin to resolve all types of external Kubernetes resources.
+- 🐹 **[psdtool](https://oov.github.io/psdtool/)**: PSDTool.
 - 🐹 **[schednex](https://schednex.ai)**: Smart Kubernetes Scheduling.
 - 🐹 **[v2](https://qrank.toolforge.org)**: Ranking signals for Wikidata.
 - 🐹 **[v2](https://github.com/ryancurrah/gomodguard)**: Allow and block list linter for direct Go module dependencies.
@@ -6482,6 +6489,7 @@
 - 🐹 **[barcode-reader-emulator](https://oxcafedead.github.io/barcode-reader-emulator/)**: Emulates a barcode-reader device that acts like a keyboard.
 - 🐹 **[calendarproxy](https://cal.tum.app)**: Proxy for the TUM iCal export to remove clutter.
 - 🐹 **[cert-manager-webhook-infomaniak](https://github.com/infomaniak/cert-manager-webhook-infomaniak)**: Infomaniak ACME DNS01 solver webhook for cert-manager.
+- 🐹 **[clyde](https://github.com/agateau/clyde)**: A cross-platform package manager for prebuilt applications.
 - 🐹 **[consult](https://github.com/outbrain-inc/consult)**: Consul helper tool for quick query based SSH and more.
 - 🐹 **[core](https://theopenlane.io)**: Core holds the central schema definitions, resolvers, endpoints, and other tooling associated with the Openlane product suite.
 - 🐹 **[describentsecuritydescriptor](https://podalirius.net/)**: A cross-platform tool to parse and describe the contents of a raw ntSecurityDescriptor structure.
@@ -7130,6 +7138,7 @@
 - 🐹 **[hugedbbench](https://github.com/kokizzu/hugedbbench)**: Huge list of database benchmark.
 - 🐹 **[inkog](https://inkog.io)**: The pre-flight check for AI agents.
 - 🐹 **[ironic-standalone-operator](https://github.com/metal3-io/ironic-standalone-operator)**: Operator to maintain an Ironic deployment for Metal3.
+- 🐹 **[kafka-config-metrics](https://github.com/eladleev/kafka-config-metrics)**: Kafka Configs Metrics Exporter for Prometheus.
 - 🐹 **[kwkhtmltopdf](https://github.com/acsone/kwkhtmltopdf)**: Wkhtmltopdf server with transparent drop-in client.
 - 🐹 **[lightswitch](https://github.com/javierhonduco/lightswitch)**: Lightweight Linux CPU profiler written in Rust.
 - 🐹 **[metatar](https://github.com/xyproto/metatar)**: Manipulate tar file metadata, list tar files or convert tar to cpio.
@@ -7486,6 +7495,7 @@
 - 🐹 **[metamask_extractor](https://forum.hashpwn.net/post/74)**: Tools to recover, extract and decrypt metamask wallets.
 - 🐹 **[mikrotik-fwban](https://github.com/middelink/mikrotik-fwban)**: Use your Mikrotik firewall to do fail2ban like blocking of unwanted IPs.
 - 🐹 **[msgscript](https://github.com/numkem/msgscript)**: Self hosted, lambda-like application server.
+- 🐹 **[nc4nix](https://github.com/helsinki-systems/nc4nix)**: Read-Only mirror of our GitLab repository.
 - 🐹 **[ncat](https://github.com/kc2g-flex-tools/ncat)**: Flex 6xxx CAT via hamlib/rigctld protocol.
 - 🐹 **[ocserv-exporter](https://github.com/criteo/ocserv-exporter)**: Ocserv exporter for Prometheus.
 - 🐹 **[offline-map-tile-downloader](https://github.com/cyclenerd/offline-map-tile-downloader)**: Offline Map Tile Downloader.
@@ -8339,6 +8349,7 @@
 - 🐹 **[templater](https://jmylchreest.github.io/tinct/)**: A plugin based theme/templating tool inspired by PyWal and Matugen, with multiple input mechanisms.
 - 🐹 **[terraform-provider-cloudfoundry](https://registry.terraform.io/providers/cloudfoundry/cloudfoundry/latest)**: Terraform provider to manage Cloud Foundry resources using v3 APIs.
 - 🐹 **[terraform-provider-pkcs12](https://github.com/chilicat/terraform-provider-pkcs12)**: The PKCS12 provider allows to create PKCS12 archives for provided PEM files.
+- 🐹 **[tesla_exporter](https://github.com/uhthomas/tesla_exporter)**: A Tesla Prometheus exporter.
 - 🐹 **[tinyfo](https://github.com/karino2/folang)**: Functional language transpiler to Golang written by Golang (self hosted.
 - 🐹 **[typed](https://github.com/bep/execrpc)**: RCP via os/exec with generic types.
 - 🐹 **[v4](https://github.com/els0r/goprobe)**: High-performance IP packet metadata aggregation and efficient storage and querying of flows.
@@ -8396,6 +8407,7 @@
 - 🐹 **[gitops-reverser](https://github.com/configbutler/gitops-reverser)**: Reconciles Kubernetes API resources into a git destination as clean deployable YAML files (audit trail through git commits.
 - 🐹 **[gnetlark](https://github.com/xyproto/gnetlark)**: Bird: Fast HTTP server that supports handlers written in Starlark.
 - 🐹 **[gnupg-portable](https://portapps.io/app/gnupg-portable/)**: GnuPG portable for Windows.
+- 🐹 **[go](https://github.com/qdrddr/clear-your-tools)**: Cut input tokens by 30% while preserving LLM focus and pruning irrelevant MCP tools.
 - 🐹 **[go](https://yegor256.github.io/fibonacci/)**: Fibonacci algorithm implemented in a few compilable languages in different programming flavors.
 - 🐹 **[go-cast](https://github.com/tristanpenman/go-cast)**: An implementation of the Google Cast protocol in Golang.
 - 🐹 **[go-easyrsa-legacy-cli](https://github.com/kemsta/go-easyrsa)**: A drop-in replacement for easy-rsa as a Go library.
