@@ -345,6 +345,7 @@
 - 🐹 **[foundationdb](https://apple.github.io/foundationdb/)**: FoundationDB - the open source, distributed, transactional key-value store.
 - 🐹 **[beats](https://doris.apache.org)**: Apache Doris is an easy-to-use, high performance and unified analytics database.
 - 🐹 **[ecaptureq_client](https://ecapture.cc)**: Capturing SSL/TLS plaintext without a CA certificate using eBPF.
+- 🐹 **[incubator-pulsar](https://pulsar.apache.org/)**: Apache Pulsar - distributed pub-sub messaging system.
 - 🐹 **[pulsar](https://pulsar.apache.org/)**: Apache Pulsar - distributed pub-sub messaging system.
 - 🐹 **[pre-commit](https://pre-commit.com)**: A framework for managing and maintaining multi-language pre-commit hooks.
 - 🐹 **[tensorboard-controller](https://www.kubeflow.org/)**: Machine Learning Toolkit for Kubernetes.
@@ -1643,6 +1644,7 @@
 - 🐹 **[zpager](https://noborus.github.io/ov)**: Feature-rich terminal-based text viewer.
 - 🐹 **[ov](https://noborus.github.io/ov)**: Feature-rich terminal-based text viewer.
 - 🐹 **[oviewer](https://noborus.github.io/ov)**: Feature-rich terminal-based text viewer.
+- 🐹 **[vscode-js-debug](https://github.com/microsoft/vscode-js-debug)**: A DAP-compatible JavaScript debugger.
 - 🐹 **[web_page_replay_go](https://chromium.googlesource.com/catapult)**: Deprecated Catapult GitHub.
 - 🐹 **[ggshield](https://gitguardian.com)**: Detect and validate 500+ types of hardcoded secrets with advanced checks.
 - 🐹 **[nginx-prometheus-exporter](https://github.com/nginx/nginx-prometheus-exporter)**: NGINX Prometheus Exporter for NGINX and NGINX Plus.
@@ -1799,6 +1801,7 @@
 - 🐹 **[ovpn-admin](https://github.com/palark/ovpn-admin)**: Simple web UI to manage OpenVPN users.
 - 🐹 **[go-audit](https://github.com/slackhq/go-audit)**: Go-audit is an alternative to the auditd daemon that ships with many distros.
 - 🐹 **[cffi_dist](https://github.com/bogdanfinn/tls-client)**: Net/http.
+- 🐹 **[testrp](https://radapp.io)**: Radius is a cloud-native, portable application platform that makes app development easier for teams building cloud-native apps.
 - 🐹 **[prometheus](https://opentelemetry.io/)**: Collection of extensions for OpenTelemetry-Go.
 - 🐹 **[legba](https://github.com/evilsocket/legba)**: A multiprotocol credentials bruteforcer / password sprayer and enumerator.
 - 🐹 **[sift](https://sift-tool.org)**: A fast and powerful alternative to grep.
@@ -4068,6 +4071,7 @@
 - 🐹 **[rssnix](https://github.com/jafarlihi/rssnix)**: Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader.
 - 🐹 **[ssh-to-age](https://github.com/mic92/ssh-to-age)**: Convert SSH Ed25519 keys to age keys.
 - 🐹 **[cmd](https://github.com/ipld/go-car)**: A content addressible archive utility.
+- 🐹 **[cross-file-obfuscator](https://github.com/masterqiu01/cross-file-obfuscator)**: Go 代码混淆工具，使用 AST (抽象语法树) 技术实现跨文件的代码混淆，同时保证混淆后的代码可编译和可执行.
 - 🐹 **[edge](https://github.com/iknowjason/edge)**: Whois for the Cloud:  Recon tool for cloud provider attribution.
 - 🐹 **[fakesni](https://github.com/pechenyeru/fakesni)**: A fake SNI injector for linux, written in pure golang.
 - 🐹 **[go-premailer](https://github.com/vanng822/go-premailer)**: Inline styling for html mail in golang.
@@ -4686,6 +4690,7 @@
 - 🐹 **[okta](https://github.com/falcosecurity/plugins)**: Falco plugins registry.
 - 🐹 **[roxterm](https://github.com/realh/roxterm)**: A highly configurable terminal emulator.
 - 🐹 **[safehaven](https://github.com/kwakubiney/safehaven)**: VPN over UDP.
+- 🐹 **[velero-plugin-for-microsoft-azure](https://github.com/velero-io/velero-plugin-for-microsoft-azure)**: Plugins to support Velero on Microsoft Azure.
 - 🐹 **[velero-plugin-for-microsoft-azure](https://github.com/vmware-tanzu/velero-plugin-for-microsoft-azure)**: Plugins to support Velero on Microsoft Azure.
 - 🐹 **[autocache](https://www.pomerium.io/)**: Distributed cache with gossip peer membership enrollment.
 - 🐹 **[cekit](https://cekit.io/)**: CEKit - Container Evolution Kit.
@@ -4763,6 +4768,7 @@
 - 🐹 **[citellus](https://risuorg.github.io)**: Automation Troubleshooting Framework to validate  and report configuration, software installed, etc with bash, python, and your language of choice.
 - 🐹 **[compute-image-windows](https://github.com/googlecloudplatform/compute-image-windows)**: Windows agents and scripts for Google Compute Engine images.
 - 🐹 **[edge-manageability-framework](https://docs.openedgeplatform.intel.com/edge-manage-docs/dev/index.html)**: A comprehensive solution designed to streamline and enhance the deployment and management of infrastructure and applications at the edge.
+- 🐹 **[generative-art-in-go](https://preslav.me/generative-art-in-golang/)**: A companion source code repository to the book "Generative Art in Go.
 - 🐹 **[helm-playground](https://helm-playground.com)**: Interactive site to debug Helm templating (& syntax cheatsheet.
 - 🐹 **[list_current_dir_files_tool](https://foxy-contexts.str4.io)**: Foxy contexts is a library for building context servers supporting Model Context Protocol.
 - 🐹 **[list_k8s_contexts_tool](https://foxy-contexts.str4.io)**: Foxy contexts is a library for building context servers supporting Model Context Protocol.
@@ -9573,6 +9579,7 @@
 - 🐹 **[ejsonkms](https://github.com/envato/ejsonkms)**: Integrates EJSON with AWS KMS.
 - 🐹 **[emailproviders](https://github.com/goware/emailproviders)**: List of public email providers for Golang.
 - 🐹 **[entrypoint-demoter](https://github.com/itzg/entrypoint-demoter)**: Container entry point that can demote uid and gid from environment variables or matching directory.
+- 🐹 **[escalier](https://escalier-lang.github.io/escalier/)**: Next version of the Escalier compiler written in Go.
 - 🐹 **[ewm](https://github.com/nadim147c/ewm)**: A waybar module for song lyrics.
 - 🐹 **[example](https://github.com/joyparty/nodehub/example)**: Nodehub is a server-side framework designed for social games.
 - 🐹 **[example1](https://github.com/liuliqiang/blog_codes)**: Codes appear in my blog articles.
