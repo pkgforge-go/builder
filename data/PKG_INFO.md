@@ -170,6 +170,7 @@
 - 🐹 **[dockge](https://dockge.kuma.pet)**: A fancy, easy-to-use and reactive self-hosted docker compose.
 - 🐹 **[generate](https://www.jaegertracing.io/)**: CNCF Jaeger, a Distributed Tracing Platform.
 - 🐹 **[cmd](https://go-micro.dev)**: A Go agent harness and service framework.
+- 🐹 **[cmd](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[cmd](https://go-micro.dev)**: A Go framework for agents and services.
 - 🐹 **[distroless](https://github.com/googlecloudplatform/distroless)**: Language focused docker images, minus the operating system.
 - 🐹 **[go](https://github.com/googlecontainertools/distroless)**: Language focused docker images, minus the operating system.
@@ -202,12 +203,17 @@
 - 🐹 **[docker](https://neko.m1k1o.net/)**: A self hosted virtual browser that runs in docker and uses WebRTC.
 - 🐹 **[beads](https://github.com/steveyegge/beads)**: Beads - A memory upgrade for your coding agent.
 - 🐹 **[mdbook](https://rust-lang.github.io/mdBook/)**: Create book from markdown files.
+- 🐹 **[access-plugin-minimal](https://goteleport.com)**: The easiest, and most secure way to access and protect all of your infrastructure.
+- 🐹 **[api-sync-roles](https://goteleport.com)**: The easiest, and most secure way to access and protect all of your infrastructure.
 - 🐹 **[benchstat](https://goteleport.com)**: The easiest, and most secure way to access and protect all of your infrastructure.
+- 🐹 **[desktop-registration](https://goteleport.com)**: The easiest, and most secure way to access and protect all of your infrastructure.
 - 🐹 **[event-handler](https://goteleport.com)**: The easiest, and most secure way to access and protect all of your infrastructure.
 - 🐹 **[gci](https://goteleport.com)**: The easiest, and most secure way to access and protect all of your infrastructure.
 - 🐹 **[goda](https://goteleport.com)**: The easiest, and most secure way to access and protect all of your infrastructure.
 - 🐹 **[gotestsum](https://goteleport.com)**: The easiest, and most secure way to access and protect all of your infrastructure.
 - 🐹 **[runner](https://goteleport.com)**: The easiest, and most secure way to access and protect all of your infrastructure.
+- 🐹 **[service-discovery-api-client](https://goteleport.com)**: The easiest, and most secure way to access and protect all of your infrastructure.
+- 🐹 **[teleport-usage](https://goteleport.com)**: The easiest, and most secure way to access and protect all of your infrastructure.
 - 🐹 **[terraform-mwi](https://goteleport.com)**: The easiest, and most secure way to access and protect all of your infrastructure.
 - 🐹 **[tooling](https://goteleport.com)**: The easiest, and most secure way to access and protect all of your infrastructure.
 - 🐹 **[backport](https://goteleport.com)**: The easiest, and most secure way to access and protect all of your infrastructure.
@@ -2031,6 +2037,7 @@
 - 🐹 **[mcp-avtool-go](https://googlecloudplatform.github.io/vertex-ai-creative-studio/)**: GenMedia Creative Studio is a generative media user experience highlighting the use of Gemini, Veo, Gemini Image 🍌, Gemini TTS, Chirp 3, Lyria and other generative media APIs on Google Cloud.
 - 🐹 **[estudos](https://crg.eti.br/tags/grupo-estudos-golang/)**: Material para estudo de Golang, tutoriais, videos e exemplos para quem quer aprender Go.
 - 🐹 **[timescaledb](https://schemahero.io)**: A Kubernetes operator for declarative database schema management (gitops for database schemas.
+- 🐹 **[camview](https://github.com/gen2brain/cam2ip)**: Turn any webcam into an IP camera.
 - 🐹 **[go-hands-on](https://crg.eti.br/tags/grupo-estudos-golang/)**: Material para estudo de Golang, tutoriais, videos e exemplos para quem quer aprender Go.
 - 🐹 **[grupo-estudos-golang](https://crg.eti.br/tags/grupo-estudos-golang/)**: Material para estudo de Golang, tutoriais, videos e exemplos para quem quer aprender Go.
 - 🐹 **[golang](https://github.com/webreflection/flatted)**: A fast and minimal circular JSON parser.
@@ -5177,6 +5184,7 @@
 - 🐹 **[spotify-tools](https://www.linkedin.com/in/HariSekhon)**: Spotify Tools - Playlists Backups, Spotify CLI, URI translator, duplication detection / removal, API search queries, API automation etc.
 - 🐹 **[stockpile](https://caldera.mitre.org/)**: A CALDERA plugin.
 - 🐹 **[taint](https://github.com/picatz/taint)**: Static taint analysis for Go programs.
+- 🐹 **[tatsujin-web-performance](https://github.com/tatsujin-web-performance/tatsujin-web-performance)**: 達人が教えるWebパフォーマンスチューニング〜ISUCONから学ぶ高速化の実践.
 - 🐹 **[tonutils-storage](https://github.com/xssnick/tonutils-storage)**: TON Storage golang implementation.
 - 🐹 **[tools](https://github.com/creachadair/jrpc2)**: A Go implementation of a JSON-RPC 2.
 - 🐹 **[v3](https://github.com/mikoto2000/devcontainer.vim)**: VSCode Dev Container の Vim/NeoVim 版。  VSCode 向けに作成された devcontainer.
@@ -6208,6 +6216,7 @@
 - 🐹 **[mstat](https://github.com/bpowers/mstat)**: Fine-grained, cgroup-based tool for profiling memory usage over time of a process tree.
 - 🐹 **[mylib-gtk-meson-go](https://github.com/jwijenbergh/puregotk)**: Autogenerated GTK4+Adwaita bindings for Go leveraging ebitengine/purego.
 - 🐹 **[openreactor](https://github.com/natesales/openreactor)**: Open-source IEC nuclear fusion reactor: control, monitoring, and data logging system.
+- 🐹 **[paas](https://better-paas.com/demo)**: Deploy full-stack applications with databases in minutes.
 - 🐹 **[pipe2gpt](https://github.com/fleeto/pipe2gpt)**: 用 ChatGPT 处理你的命令行输出内容/Utilize ChatGPT to process the CLI output.
 - 🐹 **[spaceflake](https://krypton.ninja)**: A distributed generator to create unique IDs with ease in Go; inspired by Twitter's Snowflake.
 - 🐹 **[split_tests](https://github.com/leonid-shevtsov/split_tests)**: Utility to split test files into parallel CI containers.
@@ -7607,6 +7616,7 @@
 - 🐹 **[testdata](https://daggerverse.dev/search?author=sagikazarmark)**: My Dagger modules.
 - 🐹 **[testdata](https://daggerverse.dev/search?author=sagikazarmark)**: My Dagger modules.
 - 🐹 **[toggl](https://github.com/tebeka/toggl)**: Simple toggl command line client.
+- 🐹 **[tparagen](https://github.com/sho-hata/tparagen)**: Tparagen inserts the T.
 - 🐹 **[tuile](https://github.com/bquenin/tuile)**: Tuile (French for tile) is a 2D graphics engine inspired from old hardware and based on layers, tiles sets, tile maps and sprites.
 - 🐹 **[v4](https://github.com/alexgustafsson/systembolaget-api)**: A cross-platform solution for using Systembolaget's APIs.
 - 🐹 **[weblist](https://weblist.umputun.dev)**: File browser for the web.
@@ -7956,6 +7966,7 @@
 - 🐹 **[dn42_map](https://github.com/iedon/dn42_map)**: DN42 Realtime Network Map(map.
 - 🐹 **[doc](https://github.com/benwaffle/doc)**: A modern TUI for reading man pages, info pages, and tldr pages.
 - 🐹 **[edm](https://edmproject.github.io)**: Electronic Document, Task, Project Management System for Teamwork.
+- 🐹 **[envoy-split-proxy](https://github.com/networkop/envoy-split-proxy)**: L7 split-routing with Envoy.
 - 🐹 **[etcd-walker](https://github.com/nexusriot/etcd-walker)**: Opensource TUI tool for etcd.
 - 🐹 **[filter-performance-benchmarker](https://github.com/semi-technologies/weaviate-chaos-engineering)**: Chaos-Engineering-Style CI Pipelines to make sure Weaviate handles whatever the real world throws at it.
 - 🐹 **[generation](https://beadcolors.eremes.xyz/)**: Fusing beads color codes.
@@ -8988,6 +8999,7 @@
 - 🐹 **[gio-cmd](https://github.com/gioui/gio-cmd)**: Mirror of the Gio tools repository (https://git.
 - 🐹 **[git-pr-release-go](https://github.com/odanado/git-pr-release-go)**: Git-pr-release-go streamlines development by automating "Release Pull Requests" on GitHub.
 - 🐹 **[global-entry-slot-notifier](https://github.com/arun0009/global-entry-slot-notifier)**: Global Entry Appointment Slot Notifier V2.
+- 🐹 **[go](https://encore.dev)**: Encore's rolling fork of Go with added automatic tracing & instrumentation.
 - 🐹 **[go-acme-dns-manager](https://github.com/oetiker/go-acme-dns-manager)**: Automate the process of obtaining and renewing Let's Encrypt certificates using the DNS-01 challenge.
 - 🐹 **[go-github-hosts](https://github.com/lizongying/go-github-hosts)**: Get fastest github ip.
 - 🐹 **[go-home](https://github.com/jurgen-kluft/go-home)**: Automated home with Apple Home, Aqara, Philips Hue, Xiaomi, Wemo, Yee, GL-inet, NATS.
@@ -10126,6 +10138,7 @@
 - 🐹 **[da-pizda](https://github.com/shantaramka/da-pizda)**: Telegram bot, который отвечает "пизда" на сообщение "да" и не только.
 - 🐹 **[dang](https://github.com/vito/dang)**: Experimental GraphQL scripting language.
 - 🐹 **[db-gateway-go](https://medium.com/@mecreate/building-mobile-apps-without-a-backend-the-power-of-database-gateway-api-20c7ff9ec703)**: A lightweight and deployment-friendly API gateway for making direct SQL queries to PostgreSQL and MSSQL databases.
+- 🐹 **[dev](https://github.com/linkerd/dev)**: Development tooling for Linkerd repositories.
 - 🐹 **[digger](https://github.com/geniot/digger)**: Classic Digger revisited in Go.
 - 🐹 **[disable-checkout-persist-credentials](https://github.com/suzuki-shunsuke/disable-checkout-persist-credentials)**: CLI to disable actions/checkout's persist-credentials.
 - 🐹 **[dnsacme](https://github.com/mritd/dnsacme)**: Simple tool to manage ACME Cert(Only Supported DNS-01.
