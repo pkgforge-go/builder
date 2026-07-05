@@ -912,6 +912,7 @@
 - 🐹 **[v2](https://github.com/confluentinc/confluent-kafka-go)**: Confluent's Apache Kafka Golang client.
 - 🐹 **[v2](https://github.com/confluentinc/confluent-kafka-go)**: Confluent's Apache Kafka Golang client.
 - 🐹 **[v2](https://github.com/confluentinc/confluent-kafka-go)**: Confluent's Apache Kafka Golang client.
+- 🐹 **[helmfile](https://helmfile.readthedocs.io)**: Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases.
 - 🐹 **[gha-fetch-digest](https://go.unkey.com)**: The Developer Platform for Modern APIs.
 - 🐹 **[tools](https://go.unkey.com)**: The Developer Platform for Modern APIs.
 - 🐹 **[options](https://github.com/emicklei/go-restful)**: Package for building REST-style Web Services using Go.
@@ -3890,6 +3891,7 @@
 - 🐹 **[maintenance](https://hanab.live)**: A web server that allows people to play Hanab, a cooperative card game of logic and reasoning.
 - 🐹 **[src](https://hanab.live)**: A web server that allows people to play Hanab, a cooperative card game of logic and reasoning.
 - 🐹 **[wireguard-go-docker](https://hub.docker.com/r/masipcat/wireguard-go)**: Wireguard docker image.
+- 🐹 **[core](https://github.com/googlecloudrobotics/core)**: Cloud Robotics Core: Kubernetes, Federation, App Management.
 - 🐹 **[corral](https://ponylang.io)**: Pony dependency manager tool.
 - 🐹 **[irc-slack](https://github.com/insomniacslk/irc-slack)**: IRC-to-Slack gateway.
 - 🐹 **[src](https://github.com/googlecloudrobotics/core)**: Cloud Robotics Core: Kubernetes, Federation, App Management.
