@@ -1442,6 +1442,7 @@
 - 🐹 **[clicker](https://vibium.com)**: The verification layer for coding agents.
 - 🐹 **[dynamic-module-test](https://gateway.envoyproxy.io)**: Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway.
 - 🐹 **[tools](https://gateway.envoyproxy.io)**: Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway.
+- 🐹 **[ax](http://axllm.dev)**: The pretty much "official" DSPy framework for Typescript.
 - 🐹 **[cli-doc](https://kcp.io)**: Kubernetes-like control planes for form-factors and use-cases beyond Kubernetes and container workloads.
 - 🐹 **[go-agent](https://github.com/steveyegge/beads)**: Beads - A memory upgrade for your coding agent.
 - 🐹 **[gateway-api](https://gateway-api.sigs.k8s.io)**: Repository for the next iteration of composite service (e.
@@ -3167,6 +3168,7 @@
 - 🐹 **[tools](https://github.com/istio/tools)**: Tools shared by several Istio repositories.
 - 🐹 **[bat](https://tshaka.dev/bat)**: Battery management utility for Linux laptops.
 - 🐹 **[rules_jvm_external](https://github.com/bazel-contrib/rules_jvm_external)**: Bazel rules to resolve, fetch and export Maven artifacts.
+- 🐹 **[ai-chat](https://go-tui.dev)**: A declarative terminal UI framework for Go.
 - 🐹 **[ccmd](https://www.gbrook.cc)**: Brook is a cross-platform network tunneling tool that helps securely transmit data between different networks.
 - 🐹 **[mastodon](https://github.com/ncarlier/feedpushr/contrib/mastodon)**: A simple feed aggregator daemon with sugar on top.
 - 🐹 **[myurls](https://github.com/careywang/myurls)**: Your Own URL Shortener.
@@ -4408,6 +4410,7 @@
 - 🐹 **[bb-deployments](https://github.com/buildbarn/bb-deployments)**: Example deployments of Buildbarn on various platforms.
 - 🐹 **[chat2](https://waku.org/)**: Go implementation of Waku v2 protocol.
 - 🐹 **[helper-reset-password](https://github.com/portainer/helper-reset-password)**: A container helper used to reset the administrator password of a Portainer instance.
+- 🐹 **[lock](https://godoc.org/cirello.io/dynamolock/v2)**: DynamoDB Lock Client for Go.
 - 🐹 **[maprange](https://allora.network)**: Node of the decentralized oracle network, bridging present and future computation.
 - 🐹 **[middleman](https://github.com/wesm/middleman)**: Local-first GitHub dashboard for maintainers to triage, review, and merge PRs and issues across repos without needing GitHub's built-in notification emails or dashboard.
 - 🐹 **[oci-and-git](https://docs.getglu.dev)**: A deployment pipeline framework that sticks.
@@ -5078,6 +5081,7 @@
 - 🐹 **[generate](https://github.com/crowdstrike/gofalcon)**: Golang-based SDK to CrowdStrike's APIs.
 - 🐹 **[integ](https://github.com/exoscale/cli)**: Command-line tool for everything at Exoscale: compute, storage, dns.
 - 🐹 **[mcp-dap-server](https://github.com/go-delve/mcp-dap-server)**: MCP server to communicate with DAP servers allowing AI Agents the ability to debug live programs.
+- 🐹 **[ndpresponder](https://yoursunny.com/t/2021/ndpresponder/)**: IPv6 Neighbor Discovery Responder for KVM servers.
 - 🐹 **[reflect-go](https://github.com/oasisprotocol/oasis-sdk)**: Official SDK for the Oasis Network.
 - 🐹 **[bee2](https://github.com/agievich/bee2)**: A cryptographic library.
 - 🐹 **[bonjour-reflector](https://github.com/nberlee/bonjour-reflector)**: A reflector that forwards mdns packets between VLANs - like avahi-reflector but with fine-grained control.
@@ -8217,6 +8221,7 @@
 - 🐹 **[rnm](https://github.com/raviqqe/rnm)**: Rename everything in {camel,kebab,shout,snake,etc.
 - 🐹 **[salarysleuth](https://github.com/fr4nk3nst1ner/salarysleuth)**: Retrieves jobs based off criteria submitted and also returns median salary for software engineers for the hiring company.
 - 🐹 **[scattered](https://github.com/earthboundkid/scattered)**: Command line tool for asset hashing.
+- 🐹 **[scruto](https://docs.dbnet.io)**: DbNet is a web-based database client using Go as a backend, and React as front-end.
 - 🐹 **[server](https://github.com/inference-gateway/adk)**: An Agent Development Kit (ADK) allowing for seamless creation of A2A-compatible agents written in Go.
 - 🐹 **[server](https://github.com/inference-gateway/adk)**: An Agent Development Kit (ADK) allowing for seamless creation of A2A-compatible agents written in Go.
 - 🐹 **[server](https://github.com/inference-gateway/adk)**: An Agent Development Kit (ADK) allowing for seamless creation of A2A-compatible agents written in Go.
@@ -8701,6 +8706,7 @@
 - 🐹 **[external-dns-designate-webhook](https://github.com/inovex/external-dns-designate-webhook)**: ExternalDNS - OpenStack Designate Webhook.
 - 🐹 **[fido2-go-example](https://github.com/kg0r0/fido2-go-example)**: Experimental implementation of Passkey Autofill in Go.
 - 🐹 **[flan-go-scan](https://github.com/therandomsecurityguy/flan-go-scan)**: A modular, extensible vulnerability scanner in Go.
+- 🐹 **[full](https://github.com/leodido/autoflags)**: Define a Go struct.
 - 🐹 **[full](https://github.com/leodido/structcli)**: Define a Go struct.
 - 🐹 **[funcd](https://github.com/egormalyutin/funcd)**: Daemon for functional keys _works without X11_.
 - 🐹 **[fyora](https://github.com/wenbang24/fyora)**: Intuitive declarative dotfile management.
@@ -8965,6 +8971,7 @@
 - 🐹 **[claw-operator](https://github.com/codeready-toolchain/claw-operator)**: OpenClaw operator for OpenShift and Kubernetes.
 - 🐹 **[cli](https://github.com/codecrafters-io/cli)**: CodeCrafters CLI to run tests.
 - 🐹 **[client](https://github.com/jasonmadigan/podman-mac-net-connect)**: Connect directly to podman containers via IP address.
+- 🐹 **[cobradoc](https://github.com/gavv/cobradoc)**: Alternative documentation generator for Cobra.
 - 🐹 **[codegen](https://github.com/apexlang/codegen)**: Provides the built-in code generators for Apex.
 - 🐹 **[coins](https://github.com/1995parham-teaching/interviews)**: Use code to remember the awesome moments of our lives :heart_eyes: :see_no_evil.
 - 🐹 **[collagol](http://collagol.douady.paris/)**: Collaborative Game of Life.
