@@ -4939,6 +4939,7 @@
 - 🐹 **[coding-plan-mask](https://github.com/systemime/coding-plan-mask)**: Mask your Coding Plan API for any AI coding tool - OpenAI-compatible proxy with tool masking, request relaying, and multi-provider support.
 - 🐹 **[encryptednotepad2](https://github.com/ivoras/encryptednotepad2)**: A Notepad-like simple text editor where files are saved (and later loaded) encrypted with AES-256.
 - 🐹 **[examples](https://pkg.go.dev/github.com/lrstanley/bubbletint)**: Terminal tints for everyone.
+- 🐹 **[grpctunnel](https://github.com/openconfig/grpctunnel)**: A TCP-over-gRPC Tunnel.
 - 🐹 **[imago](https://github.com/philpep/imago)**: Ensure kubernetes pods run on latest images builds from the docker registry.
 - 🐹 **[lets-go](https://github.com/ntk148v/lets-go)**: Let's Go.
 - 🐹 **[logstation](https://github.com/jdrews/logstation)**: Tail log files in web browser.
@@ -5933,6 +5934,7 @@
 - 🐹 **[nextjs](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[parse](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[pipe](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
+- 🐹 **[prefix-fetcher](https://github.com/compassvpn/prefix-fetcher)**: Prefix Fetcher.
 - 🐹 **[print](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[print-fields](https://github.com/cybersamx/go-recipes)**: A collection of Golang recipes.
 - 🐹 **[project_euler](https://github.com/nabinno/dojo)**: This is a repository for immersive learning, meditation or software development.
@@ -8215,6 +8217,7 @@
 - 🐹 **[policy](https://conforma.dev/docs/policy/)**: OPA/Rego policies for use with Conforma.
 - 🐹 **[postpone_requests](https://github.com/higress-group/proxy-wasm-go-sdk)**: WebAssembly for Proxies (Go SDK.
 - 🐹 **[properties](https://github.com/higress-group/proxy-wasm-go-sdk)**: WebAssembly for Proxies (Go SDK.
+- 🐹 **[protoc-gen-go-http](https://github.com/tx7do/go-wind-toolkit)**: All-in-one toolkit for Go Wind, including scaffolding, CRUD generator, dev/ops tools, CLI and desktop UI.
 - 🐹 **[qory](https://github.com/dtrugman/qory)**: A language model in your terminal.
 - 🐹 **[rapid-go](https://github.com/abyssparanoia/rapid-go)**: By using rapid-go you can quickly start developing a great API.
 - 🐹 **[rm-version-switcher](https://github.com/rmitchellscott/rm-version-switcher)**: An interactive interface for switching between installed reMarkable OS versions.
@@ -9206,6 +9209,7 @@
 - 🐹 **[kubexns](https://github.com/undistro/kubexns)**: Kubexns is a container that enables the mapping of ConfigMaps or Secrets from different namespaces  as volumes in Kubernetes Pods using an initContainer.
 - 🐹 **[labs-geosearch-docker](https://github.com/nycplanning/labs-geosearch-docker)**: Main repository for running the Planning Labs geosearch API powered by pelias.
 - 🐹 **[large_list_check](https://github.com/siemens/link-checker-service)**: The self-hosted Link Checker web service runs cached and otherwise optimized broken link checks.
+- 🐹 **[lazypprof](https://github.com/owenrumney/lazypprof)**: A keyboard-driven TUI for exploring Go pprof profiles.
 - 🐹 **[locksmith](https://github.com/flatcar/Flatcar/issues)**: Reboot manager for Flatcar Container Linux.
 - 🐹 **[logrus](https://github.com/shengyanli1982/law)**: A lightweight log asynchronous writer for golang.
 - 🐹 **[machinecfg](https://github.com/mgrzybek/machinecfg)**: A set of specialized tools designed to bridge the gap between your Inventory Management System (NetBox) and your provisioning stack (Tinkerbell, Flatcar Linux, Talos Linux or Kamaji.
@@ -9262,6 +9266,7 @@
 - 🐹 **[tuco](https://github.com/mcandre/tuco)**: Minimalist Go port multiplexer.
 - 🐹 **[tyop](https://github.com/liamg/tyop)**: A macOS menu bar app that fixes typos on demand.
 - 🐹 **[unifi-api](https://ubiquiti-community.github.io/unifi-api/)**: OpenAPI Definition for Unifi Controller API.
+- 🐹 **[upfile](https://github.com/arkriny/upfile)**: Sync files with an upstream version.
 - 🐹 **[upfile](https://github.com/skewb1k/upfile)**: Upfile manages syncing files with an upstream version.
 - 🐹 **[uploader](https://filemarket.xyz)**: FileMarket is a next-gen file-sharing platform with on-chain programmable access and incentives, turning digital wallets into 'My Documents' folder, ensuring privacy, lifelong storage via decentralization, and total control over monetizable content through tokenized paywalls.
 - 🐹 **[v3](https://www.lamassu.io/)**: Lamassu is an IoT first PKI designed for industrial scenarios.
@@ -9454,6 +9459,7 @@
 - 🐹 **[permissions](https://github.com/garethjevans/permissions)**: Kubectl plugin to follow the sa/user to binding to role/clusterrole fun.
 - 🐹 **[phpscope](https://github.com/everythings-gonna-be-alright/phpscope)**: PHP profiler that sends CPU sampling data to Pyroscope server.
 - 🐹 **[picnic-tui](https://github.com/simonmartyr/picnic-tui)**: An unofficial terminal interface for the online supermarket Picnic.
+- 🐹 **[pingrok](https://github.com/acj/pingrok)**: A tool for displaying subsecond offset heatmaps of ICMP ping latency.
 - 🐹 **[pinner-mcp](https://github.com/safedep/pinner-mcp)**: Model Context Protocol (MCP) server to pin components to their immutable version.
 - 🐹 **[portal-toys](https://github.com/gosuda/portal-toys)**: Toy projects using portal.
 - 🐹 **[portctl](https://github.com/apoprotsky/portctl)**: Portainer CLI tool to manage Docker Swarm resources.
