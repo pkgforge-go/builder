@@ -845,6 +845,7 @@
 - 🐹 **[devtools](https://github.com/cockroachdb/pebble)**: RocksDB/LevelDB inspired key-value database in Go.
 - 🐹 **[debug](https://cni.dev)**: Container Network Interface - networking for Linux containers.
 - 🐹 **[cli](https://github.com/docker/cli)**: The Docker CLI.
+- 🐹 **[grpcui](https://github.com/fullstorydev/grpcui)**: An interactive web UI for gRPC, along the lines of postman.
 - 🐹 **[grpc](https://permify.co/)**: An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
 - 🐹 **[fn](http://fnproject.io)**: The container native, cloud agnostic serverless platform.
 - 🐹 **[skills](https://github.com/trailofbits/skills)**: Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows.
@@ -4678,6 +4679,7 @@
 - 🐹 **[cluster-node-tuning-operator](https://github.com/openshift/cluster-node-tuning-operator)**: Manage node-level tuning by orchestrating the tuned daemon.
 - 🐹 **[crtmon](https://github.com/coffinxp/crtmon)**: Monitor your targets and hunt fresh assets in real time.
 - 🐹 **[golang](https://github.com/confidential-containers/guest-components)**: Confidential Containers Guest Tools and Components.
+- 🐹 **[hugegraph-toolchain](https://hugegraph.apache.org/)**: HugeGraph toolchain - include a series useful graph modules.
 - 🐹 **[kodit](https://docs.helix.ml/kodit/)**: MCP server to index external repositories.
 - 🐹 **[overalls](https://github.com/go-playground/overalls)**: :jeans:Multi-Package go project coverprofile for tools like goveralls.
 - 🐹 **[rss2email](https://github.com/skx/rss2email)**: Convert RSS feeds to emails.
@@ -6237,6 +6239,7 @@
 - 🐹 **[agent](https://nethserver.github.io/ns8-core/)**: Multi-node application platform for hybrid cloud to run your apps and data anywhere.
 - 🐹 **[autocorrect](https://jianghushinian.cn/)**: 个人博客中 Go 相关的示例代码.
 - 🐹 **[av-chaos-monkey](https://github.com/mdsadiqmd/av-chaos-monkey)**: Chaos Monkey but for Audio Video Testing (webRTC and UDP.
+- 🐹 **[bamf](https://github.com/mattrobinsonsre/bamf)**: Open-source secure infrastructure access platform — SSH, Kubernetes, databases, and web apps through a unified control plane.
 - 🐹 **[builder](https://jianghushinian.cn/)**: 个人博客中 Go 相关的示例代码.
 - 🐹 **[cli](https://humio.com)**: CLI Client for Humio - Stream Logs All Day Long.
 - 🐹 **[client](https://jianghushinian.cn/)**: 个人博客中 Go 相关的示例代码.
