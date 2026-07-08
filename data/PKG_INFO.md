@@ -1666,6 +1666,7 @@
 - 🐹 **[wasm](https://gofeatureflag.org/)**: GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source.
 - 🐹 **[ssh](https://github.com/muesli/termenv)**: Advanced ANSI style & color support for your terminal applications.
 - 🐹 **[go](https://github.com/grafana/docker-otel-lgtm)**: An OpenTelemetry backend in a Docker container image.
+- 🐹 **[msgvault](https://msgvault.io)**: Archive a lifetime of email and chat.
 - 🐹 **[diagram-js](https://github.com/bpmn-io/diagram-js)**: A toolbox for displaying and modifying diagrams on the web.
 - 🐹 **[backend](https://vllm-semantic-router.com)**: Intelligent Mixture-of-Models Router for Efficient LLM Inference.
 - 🐹 **[containers-from-scratch](http://lizrice.com)**: Writing a container in a few lines of Go code, as seen at DockerCon 2017 and on O'Reilly Safari.
