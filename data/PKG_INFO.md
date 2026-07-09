@@ -104,6 +104,7 @@
 - 🐹 **[awesome-copilot](https://awesome-copilot.github.com/)**: Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - 🐹 **[lambda-promtail](https://grafana.com/loki)**: Like Prometheus, but for logs.
 - 🐹 **[_codegen](https://pkg.go.dev/github.com/stretchr/testify)**: A toolkit with common assertions and mocks that plays nicely with the standard library.
+- 🐹 **[reasonix](http://reasonix.io/)**: DeepSeek-native AI coding agent for your terminal.
 - 🐹 **[test_repo](https://oraios.github.io/serena)**: A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent.
 - 🐹 **[actor-activation-locker](https://dapr.io)**: Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.
 - 🐹 **[actorfeatures](https://dapr.io)**: Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.
@@ -1937,6 +1938,7 @@
 - 🐹 **[gomodcheck](https://atmos.tools)**: Terraform Orchestration Tool for DevOps.
 - 🐹 **[tools](https://github.com/hexdigest/gowrap)**: GoWrap is a command line tool for generating decorators for Go interfaces.
 - 🐹 **[v5](https://grafana.github.io/grafana-operator/docs/)**: An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs.
+- 🐹 **[crd-enricher](https://deckhouse.io)**: Kubernetes platform from Flant.
 - 🐹 **[regcopy](https://deckhouse.io)**: Kubernetes platform from Flant.
 - 🐹 **[src](https://deckhouse.io)**: Kubernetes platform from Flant.
 - 🐹 **[src](https://deckhouse.io)**: Kubernetes platform from Flant.
@@ -2655,6 +2657,7 @@
 - 🐹 **[ws](http://bit.ly/neffos-wiki)**: A modern, fast and scalable websocket framework with elegant API written in Go.
 - 🐹 **[things](https://doc.unitedrhino.com/)**: 联犀是基于golang,gozero框架构建的SaaS云原生微服务物联网平台(iot)，支持MQTT、CoAP、HTTP、TCP、阿里云、腾讯云、涂鸦云,物美等云云对接及设备协议，实现海量多样设备连接。支持多租户、多应用和项目管理，内置小程序功能,适应多样化业务场景.
 - 🐹 **[cursor-deepseek](https://github.com/danilofalcao/cursor-deepseek)**: A high-performance HTTP/2-enabled proxy server designed specifically to enable Cursor IDE's Composer to use DeepSeek's and OpenRouter's language models.
+- 🐹 **[jigasi](https://github.com/jitsi/jigasi)**: Jigasi: a server-side application acting as a gateway to Jitsi Meet conferences.
 - 🐹 **[treewalker.nvim](https://github.com/aaronik/treewalker.nvim)**: A neovim plugin for moving around your code in a syntax tree aware manner.
 - 🐹 **[launcher](https://github.com/nixpak/nixpak)**: Runtime sandboxing for Nix.
 - 🐹 **[sample](https://github.com/larksuite/oapi-sdk-go)**: Larksuite oapi sdk by golang.
@@ -2771,6 +2774,7 @@
 - 🐹 **[mmagent](https://www.lfedge.org/projects/eve/)**: EVE is Edge Virtualization Engine.
 - 🐹 **[newlog](https://www.lfedge.org/projects/eve/)**: EVE is Edge Virtualization Engine.
 - 🐹 **[swtpm-vtpm](https://www.lfedge.org/projects/eve/)**: EVE is Edge Virtualization Engine.
+- 🐹 **[form-js](https://bpmn.io/toolkit/form-js/)**: View and visually edit JSON-based forms.
 - 🐹 **[go-ethereum-hdwallet](https://github.com/miguelmota/go-ethereum-hdwallet)**: Ethereum HD Wallet derivations in Go (golang.
 - 🐹 **[notification-server](https://github.com/haiwen/seafile-server)**: Seafile Server Core.
 - 🐹 **[xgo](https://github.com/techknowlogick/xgo)**: Go CGO cross compiler.
