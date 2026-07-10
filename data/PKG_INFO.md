@@ -139,8 +139,16 @@
 - 🐹 **[go](https://www.pulumi.com)**: Pulumi - Infrastructure as Code in any programming language.
 - 🐹 **[go](https://www.pulumi.com)**: Pulumi - Infrastructure as Code in any programming language.
 - 🐹 **[go](https://www.pulumi.com)**: Pulumi - Infrastructure as Code in any programming language.
+- 🐹 **[go](https://www.pulumi.com)**: Pulumi - Infrastructure as Code in any programming language.
+- 🐹 **[go](https://www.pulumi.com)**: Pulumi - Infrastructure as Code in any programming language.
 - 🐹 **[go-exit-5](https://www.pulumi.com)**: Pulumi - Infrastructure as Code in any programming language.
+- 🐹 **[go_transform](https://www.pulumi.com)**: Pulumi - Infrastructure as Code in any programming language.
+- 🐹 **[provider](https://www.pulumi.com)**: Pulumi - Infrastructure as Code in any programming language.
+- 🐹 **[provider](https://www.pulumi.com)**: Pulumi - Infrastructure as Code in any programming language.
+- 🐹 **[provider-go](https://www.pulumi.com)**: Pulumi - Infrastructure as Code in any programming language.
 - 🐹 **[simple](https://www.pulumi.com)**: Pulumi - Infrastructure as Code in any programming language.
+- 🐹 **[simple](https://www.pulumi.com)**: Pulumi - Infrastructure as Code in any programming language.
+- 🐹 **[step-1](https://www.pulumi.com)**: Pulumi - Infrastructure as Code in any programming language.
 - 🐹 **[testproj](https://www.pulumi.com)**: Pulumi - Infrastructure as Code in any programming language.
 - 🐹 **[v3](https://www.pulumi.com)**: Pulumi - Infrastructure as Code in any programming language.
 - 🐹 **[v3](https://www.pulumi.com)**: Pulumi - Infrastructure as Code in any programming language.
@@ -2227,6 +2235,7 @@
 - 🐹 **[template-check](https://googlecloudplatform.github.io/magic-modules/)**: Add Google Cloud Platform support to Terraform.
 - 🐹 **[test-reader](https://googlecloudplatform.github.io/magic-modules/)**: Add Google Cloud Platform support to Terraform.
 - 🐹 **[oq](https://github.com/plutov/oq)**: Terminal OpenAPI Spec viewer.
+- 🐹 **[go-enum](https://github.com/abice/go-enum)**: An enum generator for go.
 - 🐹 **[minimal](https://github.com/philippgille/chromem-go)**: Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies.
 - 🐹 **[rag-wikipedia-ollama](https://github.com/philippgille/chromem-go)**: Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies.
 - 🐹 **[s3-export-import](https://github.com/philippgille/chromem-go)**: Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies.
@@ -2740,6 +2749,7 @@
 - 🐹 **[golang](https://github.com/catatsuy/private-isu)**: A web application performance improvement training.
 - 🐹 **[prometheus-msteams](https://github.com/bzon/prometheus-msteams)**: Forward Prometheus Alert Manager notifications to Microsoft Teams.
 - 🐹 **[transfer_test](https://github.com/polardb/polardbx-engine)**: Polardbx-engine is a MySQL branch originated from Alibaba Group, especially supports large-scale distributed database system.
+- 🐹 **[jmxterm](http://docs.cyclopsgroup.org/jmxterm)**: Interactive command line JMX client.
 - 🐹 **[sigtop](https://github.com/tbvdm/sigtop)**: Export messages from Signal Desktop.
 - 🐹 **[paas](https://github.com/luizalabs/paas)**: Open source tool to deploy apps to Kubernetes clusters.
 - 🐹 **[armada](https://armadaproject.io)**: A multi-cluster batch queuing system for high-throughput workloads on Kubernetes.
@@ -2788,6 +2798,7 @@
 - 🐹 **[chainloop](https://docs.chainloop.dev)**: SDLC evidence store and policy engine for your Software Supply Chain attestations, SBOMs, VEX, SARIF, QA reports, and more.
 - 🐹 **[cli](https://docs.kurtosistech.com/)**: A platform for packaging and launching blockchain infra.
 - 🐹 **[keylime](https://keylime.dev)**: A CNCF Project to Bootstrap & Maintain Trust on the Edge / Cloud and IoT.
+- 🐹 **[sigmap](https://sigmap.io/)**: 97% token reduction for AI coding sessions — zero deps, 31 languages, MCP server.
 - 🐹 **[clean](https://github.com/aws/amazon-cloudwatch-agent)**: CloudWatch Agent enables you to collect and export host-level metrics and logs on instances running Linux or Windows server.
 - 🐹 **[cloud-run-button](https://cloud.run)**: Let anyone deploy your GitHub repos to Google Cloud Run with a single click.
 - 🐹 **[launcher](https://kolide.com/launcher)**: Osquery launcher, autoupdater, and packager.
