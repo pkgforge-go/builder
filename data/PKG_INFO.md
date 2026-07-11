@@ -60,6 +60,7 @@
 - 🐹 **[apps](https://dokku.com)**: A docker-powered PaaS that helps you build and manage the lifecycle of applications.
 - 🐹 **[builder](https://dokku.com)**: A docker-powered PaaS that helps you build and manage the lifecycle of applications.
 - 🐹 **[buildpacks](https://dokku.com)**: A docker-powered PaaS that helps you build and manage the lifecycle of applications.
+- 🐹 **[builds](https://dokku.com)**: A docker-powered PaaS that helps you build and manage the lifecycle of applications.
 - 🐹 **[common](https://dokku.com)**: A docker-powered PaaS that helps you build and manage the lifecycle of applications.
 - 🐹 **[config](https://dokku.com)**: A docker-powered PaaS that helps you build and manage the lifecycle of applications.
 - 🐹 **[cron](https://dokku.com)**: A docker-powered PaaS that helps you build and manage the lifecycle of applications.
@@ -1233,6 +1234,7 @@
 - 🐹 **[test-infra](https://github.com/kubernetes/test-infra)**: Test infrastructure for the Kubernetes project.
 - 🐹 **[fast-time-server](https://ibm.github.io/mcp-context-forge/)**: An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management.
 - 🐹 **[regex](https://docs.rs/regex)**: An implementation of regular expressions for Rust.
+- 🐹 **[v2](https://kuma.io/install)**: The multi-zone service mesh for containers, Kubernetes and VMs.
 - 🐹 **[generator](https://github.com/spf13/cast)**: Safe and easy casting from one type to another in Go.
 - 🐹 **[krane](https://github.com/google/go-containerregistry)**: Go library and CLIs for working with container registries.
 - 🐹 **[nodeinit](https://octelium.com/docs)**: A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastructure.
@@ -2468,6 +2470,7 @@
 - 🐹 **[rawx](https://www.openio.io)**: High Performance Software-Defined Object Storage for Big Data and AI, that supports Amazon S3 and Openstack Swift.
 - 🐹 **[nvim](https://github.com/glepnir/nvim)**: Neovim configuration written in lua.
 - 🐹 **[ots-cli](https://ots.fyi)**: One-Time-Secret sharing platform with a symmetric 256bit AES encryption in the browser.
+- 🐹 **[sudo](https://github.com/mattn/sudo)**: Sudo for windows.
 - 🐹 **[examples](https://github.com/go-kratos/gateway/examples)**: A high-performance API Gateway with middlewares, supporting HTTP and gRPC protocols.
 - 🐹 **[image-mirror](https://aws-otel.github.io/)**: AWS Distro for OpenTelemetry Collector (see ADOT Roadmap at https://github.
 - 🐹 **[aigw](https://aigateway.envoyproxy.io)**: Envoy AI Gateway is an open source project for using Envoy Gateway to handle request traffic from application clients to Generative AI services.
@@ -2597,6 +2600,7 @@
 - 🐹 **[http_bench](https://http-bench.vercel.app)**: Golang HTTP stress testing tool, support single and distributed, http/1, http/2 and http/3.
 - 🐹 **[ssh-tpm-agent](https://github.com/foxboron/ssh-tpm-agent)**: Computer: :key: ssh-agent for TPMs.
 - 🐹 **[tpm-ssh-agent](https://github.com/foxboron/tpm-ssh-agent)**: Computer: :key: ssh-agent for TPMs.
+- 🐹 **[actrun](https://github.com/mizchi/actrun)**: GitHub Actions compatible local runner.
 - 🐹 **[git-spice](https://abhinav.github.io/git-spice/)**: Manage stacked Git branches.
 - 🐹 **[booster](https://github.com/anatol/booster)**: Fast and secure initramfs generator.
 - 🐹 **[manual-approval](https://github.com/trstringer/manual-approval)**: Pause your GitHub Actions workflow and request manual approval from set approvers before continuing.
