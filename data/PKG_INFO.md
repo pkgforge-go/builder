@@ -607,6 +607,7 @@
 - 🐹 **[bot-detect](https://higress.ai)**: AI Gateway | AI Native API Gateway.
 - 🐹 **[cluster-key-rate-limit](https://higress.ai)**: AI Gateway | AI Native API Gateway.
 - 🐹 **[cors](https://higress.ai)**: AI Gateway | AI Native API Gateway.
+- 🐹 **[key-auth](https://higress.ai)**: AI Gateway | AI Native API Gateway.
 - 🐹 **[oidc](https://higress.ai)**: AI Gateway | AI Native API Gateway.
 - 🐹 **[replay-protection](https://higress.ai)**: AI Gateway | AI Native API Gateway.
 - 🐹 **[upgrade](http://mattn.github.io/go-sqlite3)**: Sqlite3 driver for go using database/sql.
@@ -818,6 +819,7 @@
 - 🐹 **[custom-websocket](https://go-rod.github.io)**: A Chrome DevTools Protocol driver for web automation and scraping.
 - 🐹 **[xonotic](https://agones.dev)**: Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes.
 - 🐹 **[go](http://www.rabbitmq.com/getstarted.html)**: Tutorials for using RabbitMQ in various ways.
+- 🐹 **[go-stream](http://www.rabbitmq.com/getstarted.html)**: Tutorials for using RabbitMQ in various ways.
 - 🐹 **[basic-chat-with-rendezvous](https://github.com/libp2p/go-libp2p)**: Libp2p implementation in Go.
 - 🐹 **[chat](https://github.com/libp2p/go-libp2p)**: Libp2p implementation in Go.
 - 🐹 **[ipfs-camp-2019](https://github.com/libp2p/go-libp2p)**: Libp2p implementation in Go.
@@ -1341,6 +1343,7 @@
 - 🐹 **[pgrok](https://github.com/pgrok/pgrok)**: Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding.
 - 🐹 **[flox](https://flox.dev)**: Developer environments you can take with you.
 - 🐹 **[e2e-framework](https://docs.datadoghq.com/)**: Main repository for Datadog Agent.
+- 🐹 **[tools](https://gardener.cloud)**: Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.
 - 🐹 **[gorp-migrate](https://github.com/rubenv/gorp-migrate)**: SQL schema migration tool for Go.
 - 🐹 **[sql-migrate](https://github.com/rubenv/sql-migrate)**: SQL schema migration tool for Go.
 - 🐹 **[moonscript](https://moonscript.org)**: Crescent_moon: A language that compiles to Lua.
@@ -2425,6 +2428,7 @@
 - 🐹 **[risor-modgen](https://risor.io)**: Fast and flexible scripting for Go developers and DevOps.
 - 🐹 **[eicrud](https://eicrud.com)**: An opinionated backend framework based on NestJS.
 - 🐹 **[gprofiler](https://github.com/intel/gprofiler)**: GProfiler is a system-wide profiler, combining multiple sampling profilers to produce unified visualization of what your CPU is spending time on.
+- 🐹 **[cmd](https://github.com/kyokomi/emoji)**: Sushi: emoji terminal output for golang.
 - 🐹 **[dot](https://github.com/goccy/go-graphviz)**: Go bindings for Graphviz.
 - 🐹 **[risor-lsp](https://risor.io)**: Fast and flexible scripting for Go developers and DevOps.
 - 🐹 **[illy](https://github.com/yangmiman/illy)**: Test page for GSS.
