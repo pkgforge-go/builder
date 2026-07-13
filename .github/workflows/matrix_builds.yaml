@@ -625,7 +625,7 @@ jobs:
 
       - name: Upload (LOG) Artifacts [https://${{ env.GHCRPKG_URL }}]
         if: env.CONTINUE_GHRUN != 'FALSE'
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
             name: ${{ env.GPKG_NAME }}_${{ matrix.package.host }}
             path: |
