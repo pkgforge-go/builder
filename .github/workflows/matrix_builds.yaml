@@ -638,7 +638,7 @@ jobs:
 
       - name: Attest Build Provenance [https://${{ env.GHCRPKG_URL }}]
         if: env.CONTINUE_GHRUN != 'FALSE'
-        uses: actions/attest-build-provenance@v2.4.0
+        uses: actions/attest-build-provenance@v3.2.0
         with:
           subject-name: "${{ env.GPKG_NAME }}-${{ env.BUILD_ID }}-${{ env.GHCRPKG_TAG }}"
           subject-path: |
