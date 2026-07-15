@@ -896,6 +896,7 @@
 - 🐹 **[qpext](https://kserve.github.io/website/)**: Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes.
 - 🐹 **[dotenv](https://dotenvx.com)**: A secure dotenv–from the creator of dotenv.
 - 🐹 **[dotenvx](https://dotenvx.com)**: A secure dotenv–from the creator of dotenv.
+- 🐹 **[cliv2-private](https://snyk.io)**: Snyk CLI scans and monitors your projects for security vulnerabilities.
 - 🐹 **[kubenates_workshop](https://guangzhengli.com/courses/kubernetes)**: K8s tutorials | k8s 教程.
 - 🐹 **[retos-programacion-2023](https://retosdeprogramacion.com/semanales2023)**: Ejercicios de código semanales en 2023 de la comunidad MoureDev para practicar lógica en cualquier lenguaje de programación.
 - 🐹 **[autofs](https://cubefs.io)**: Cloud-native distributed storage.
@@ -1940,6 +1941,7 @@
 - 🐹 **[cyber](https://cyberscript.dev)**: Fast and concurrent scripting.
 - 🐹 **[doc](https://xcfile.dev/)**: Markdown defined task runner.
 - 🐹 **[v2](https://github.com/bazel-contrib/bazel-gazelle)**: Gazelle is a Bazel build file generator for Bazel projects.
+- 🐹 **[cli-microsoft365](https://aka.ms/cli-m365)**: Manage Microsoft 365 and SharePoint Framework projects on any platform.
 - 🐹 **[godump](https://github.com/goforj/godump)**: A minimal, developer-friendly pretty-printer and debug dumper for Go structs, inspired by Laravel’s dump() and Symfony’s VarDumper.
 - 🐹 **[v2](https://github.com/bazelbuild/bazel-gazelle)**: Gazelle is a Bazel build file generator for Bazel projects.
 - 🐹 **[gotest](https://github.com/rakyll/gotest)**: Go test with colors.
@@ -2186,6 +2188,7 @@
 - 🐹 **[tuxedo](https://github.com/webstonehq/tuxedo)**: A fast, keyboard-driven terminal UI for todo.
 - 🐹 **[patch-proto](https://cloud.google.com/config-connector/docs/overview)**: GCP Config Connector, a Kubernetes add-on for managing GCP resources.
 - 🐹 **[project-examples](https://github.com/jfrog/project-examples)**: Small projects in universal build ecosystems to configure CI and Artifactory.
+- 🐹 **[backend](https://tracewayapp.com)**: The only tool you need to know what is happening and how to fix it.
 - 🐹 **[memo](https://github.com/mattn/memo)**: Memo Life For You.
 - 🐹 **[e2e](https://opentelemetry.io)**: OpenTelemetry Auto Instrumentation using eBPF.
 - 🐹 **[tools](https://opentelemetry.io)**: OpenTelemetry Auto Instrumentation using eBPF.
