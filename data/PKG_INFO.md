@@ -3046,6 +3046,7 @@
 - 🐹 **[kmcp](https://kagent.dev/docs/kmcp)**: CLI tool and Kubernetes Controller for building, testing and deploying MCP servers.
 - 🐹 **[mock_rules](https://github.com/xhd2015/xgo)**: All-in-one go testing library.
 - 🐹 **[prog_arg](https://github.com/xhd2015/xgo)**: All-in-one go testing library.
+- 🐹 **[random-talk](https://github.com/minghsu0107/random-talk)**: Modern real-time chat in scalable architecture.
 - 🐹 **[wix](https://mackerel.io)**: Mackerel-agent is an agent program to post your hosts' metrics to mackerel.
 - 🐹 **[brave-portable](https://portapps.io/app/brave-portable/)**: Brave web browser portable for Windows.
 - 🐹 **[github-trending-backup](https://github.com/yangwenmai/github-trending-backup)**: Github trending backup by everyday.
@@ -4088,6 +4089,7 @@
 - 🐹 **[flow-pipeline](https://www.cloudflare.com)**: A set of tools and examples to run a flow-pipeline (sFlow, NetFlow.
 - 🐹 **[nats-by-example](https://natsbyexample.com)**: Collection of runnable, reference examples using NATS (https://nats.
 - 🐹 **[pgbouncer_exporter](https://github.com/stanhu/pgbouncer_exporter)**: Prometheus exporter for PgBouncer.
+- 🐹 **[prometheus-cert-exporter](https://github.com/amimof/prometheus-cert-exporter)**: An SSL certificate Prometheus exporter.
 - 🐹 **[sheets-url-shortener](https://github.com/ahmetb/sheets-url-shortener)**: A simple short URL redirect service built on top of Google Sheets, and runs for cheap on Google Cloud Run serverless.
 - 🐹 **[xo](https://github.com/ezekg/xo)**: Command line utility that composes regular expression matches.
 - 🐹 **[captagent](https://sipcapture.org)**: 100% Open-Source Packet Capture Agent for HEP.
