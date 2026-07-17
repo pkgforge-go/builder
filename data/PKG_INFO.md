@@ -1650,6 +1650,7 @@
 - 🐹 **[task_group](https://github.com/alitto/pond)**: Minimalistic and High-performance goroutine worker pool written in Go.
 - 🐹 **[pksm](https://github.com/flagbrew/pksm)**: Gen I to GenVIII save manager.
 - 🐹 **[snmp_exporter](https://github.com/prometheus/snmp_exporter)**: SNMP Exporter for Prometheus.
+- 🐹 **[go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark)**: Zap: Go web framework benchmark.
 - 🐹 **[wasmcloud](https://wasmcloud.com)**: WasmCloud is an open source Cloud Native Computing Foundation (CNCF) project that enables teams to build, manage, and scale polyglot apps across any cloud, K8s, or edge.
 - 🐹 **[playground](https://goccy.github.io/go-yaml)**: YAML support for the Go language.
 - 🐹 **[ycat](https://goccy.github.io/go-yaml)**: YAML support for the Go language.
