@@ -1,4 +1,6 @@
 - 🐹 **[docs-i18n](https://openclaw.ai)**: Your own personal AI assistant.
+- 🐹 **[_gen](https://go.dev)**: The Go programming language.
+- 🐹 **[_mkmalloc](https://go.dev)**: The Go programming language.
 - 🐹 **[cmd](https://go.dev)**: The Go programming language.
 - 🐹 **[misc](https://go.dev)**: The Go programming language.
 - 🐹 **[sample-cli-plugin](https://kubernetes.io)**: Production-Grade Container Scheduling and Management.
@@ -604,6 +606,7 @@
 - 🐹 **[fission](https://fission.io)**: Fast and Simple Serverless Functions for Kubernetes.
 - 🐹 **[ai-intent](https://higress.ai)**: AI Gateway | AI Native API Gateway.
 - 🐹 **[ai-rag](https://higress.ai)**: AI Gateway | AI Native API Gateway.
+- 🐹 **[ai-statistics](https://higress.ai)**: AI Gateway | AI Native API Gateway.
 - 🐹 **[bot-detect](https://higress.ai)**: AI Gateway | AI Native API Gateway.
 - 🐹 **[cache-control](https://higress.ai)**: AI Gateway | AI Native API Gateway.
 - 🐹 **[cluster-key-rate-limit](https://higress.ai)**: AI Gateway | AI Native API Gateway.
@@ -2182,6 +2185,7 @@
 - 🐹 **[vault-plugin-database-mock](https://github.com/hashicorp/vault-guides)**: Example usage of HashiCorp Vault secrets management.
 - 🐹 **[vault-plugin-secrets-mock](https://github.com/hashicorp/vault-guides)**: Example usage of HashiCorp Vault secrets management.
 - 🐹 **[vault-plugin-secrets-hashicups](https://github.com/hashicorp/vault-guides)**: Example usage of HashiCorp Vault secrets management.
+- 🐹 **[generator](https://deepwiki.com/mymmrac/telego)**: Telegram Bot API library for Go.
 - 🐹 **[go-mod-upgrade](https://github.com/oligot/go-mod-upgrade)**: Update outdated Go dependencies interactively.
 - 🐹 **[hraftd](http://www.philipotoole.com/building-a-distributed-key-value-store-using-raft/)**: A reference use of Hashicorp's Raft implementation.
 - 🐹 **[chicory](https://chicory.dev)**: Native JVM WebAssembly runtime.
@@ -2354,6 +2358,7 @@
 - 🐹 **[lorri](https://github.com/nix-community/lorri)**: Your project’s nix-env [maintainer=@Profpatsch,@nyarly.
 - 🐹 **[issue193](https://go-ruleguard.github.io/)**: Define and run pattern-based custom linting rules.
 - 🐹 **[issue317](https://go-ruleguard.github.io/)**: Define and run pattern-based custom linting rules.
+- 🐹 **[swoole-src](https://openswoole.com)**: Programmatic server for PHP with async IO, coroutines and fibers.
 - 🐹 **[integration](https://github.com/googleapis/gcloud-mcp)**: Gcloud MCP server.
 - 🐹 **[mantra](https://amolo.com.br)**: A tool used to hunt down API key leaks in JS files and pages.
 - 🐹 **[eunomia-bpf](https://eunomia.dev/eunomia-bpf/introduction/)**: A Tool to make Build and Run eBPF programs easier.
