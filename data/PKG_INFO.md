@@ -6,6 +6,7 @@
 - 🐹 **[sample-cli-plugin](https://kubernetes.io)**: Production-Grade Container Scheduling and Management.
 - 🐹 **[uptime-kuma](https://uptime.kuma.pet)**: A fancy self-hosted monitoring tool.
 - 🐹 **[graphify](https://www.graphify.com)**: AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more).
+- 🐹 **[cgroup-name](https://www.netdata.cloud)**: The fastest path to AI-powered full stack observability, even for lean teams.
 - 🐹 **[ebpfgo.plugin](https://www.netdata.cloud)**: The fastest path to AI-powered full stack observability, even for lean teams.
 - 🐹 **[go](https://www.netdata.cloud)**: The fastest path to AI-powered full stack observability, even for lean teams.
 - 🐹 **[go-workspace](https://grafana.com)**: The open and composable observability and data visualization platform.
@@ -768,6 +769,7 @@
 - 🐹 **[uiautomator2](https://github.com/openatx/uiautomator2)**: Android Uiautomator2 Python Wrapper.
 - 🐹 **[uibox](https://github.com/openatx/uiautomator2)**: Android Uiautomator2 Python Wrapper.
 - 🐹 **[tools](https://github.com/lightningnetwork/lnd)**: Lightning Network Daemon.
+- 🐹 **[gogcli](https://gogcli.sh)**: Google Workspace in your terminal.
 - 🐹 **[gobyexample](https://gobyexample.com)**: Go by Example.
 - 🐹 **[evmread](https://chain.link)**: Node of the decentralized oracle network, bridging on and off-chain computation.
 - 🐹 **[kube-bench](https://github.com/aquasecurity/kube-bench)**: Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark.
