@@ -110,6 +110,7 @@
 - 🐹 **[dataobj-inspect](https://grafana.com/oss/loki)**: Like Prometheus, but for logs.
 - 🐹 **[micro](https://micro-editor.github.io)**: A modern and intuitive terminal-based text editor.
 - 🐹 **[gitnexus](https://gitnexus.vercel.app)**: GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser.
+- 🐹 **[desktop](http://reasonix.io/)**: DeepSeek-native AI coding agent for your terminal.
 - 🐹 **[wiki](https://js.wiki)**: Wiki.
 - 🐹 **[segment-inspect](https://grafana.com/loki)**: Like Prometheus, but for logs.
 - 🐹 **[go](https://openapi-generator.tech)**: OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3.
@@ -451,6 +452,7 @@
 - 🐹 **[grpcurl](https://www.fullstory.com/resources/content/fullstory-engineering-blog/)**: Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers.
 - 🐹 **[go-comment-pbgen](https://redpanda.com)**: Redpanda is a streaming data platform for developers.
 - 🐹 **[pbgen](https://redpanda.com)**: Redpanda is a streaming data platform for developers.
+- 🐹 **[produce_test](https://redpanda.com)**: Redpanda is a streaming data platform for developers.
 - 🐹 **[lint](https://github.com/rs/zerolog)**: Zero Allocation JSON Logger.
 - 🐹 **[packaging](https://redpanda.com)**: Redpanda is a streaming data platform for developers.
 - 🐹 **[testdata](https://redpanda.com)**: Redpanda is a streaming data platform for developers.
@@ -1389,6 +1391,8 @@
 - 🐹 **[go-advice](https://github.com/cristaloleg/go-advice)**: List of advice and tricks for Go  ʕ◔ϖ◔ʔ.
 - 🐹 **[quic](https://github.com/iqiyi/dpvs)**: DPVS is a high performance Layer-4 load balancer based on DPDK.
 - 🐹 **[nanos](https://nanos.org)**: A kernel designed to run one and only one application in a virtualized environment.
+- 🐹 **[uniboot](https://nanos.org)**: A kernel designed to run one and only one application in a virtualized environment.
+- 🐹 **[uniboot](https://nanos.org)**: A kernel designed to run one and only one application in a virtualized environment.
 - 🐹 **[tinymist](https://myriad-dreamin.github.io/tinymist)**: Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst.
 - 🐹 **[beehave](https://bitbra.in/beehave)**: Behavior tree AI for Godot Engine.
 - 🐹 **[apns2](https://github.com/sideshow/apns2)**: HTTP/2 Apple Push Notification Service (APNs) push provider for Go — Send push notifications to iOS, tvOS, Safari and OSX apps, using the APNs HTTP/2 protocol.
@@ -1666,6 +1670,7 @@
 - 🐹 **[protoc-gen-go-enhanced-grpc](https://pydio.com)**: Future-proof content collaboration platform.
 - 🐹 **[envconsul](https://www.hashicorp.com/)**: Launch a subprocess with environment variables using data from @HashiCorp Consul and Vault.
 - 🐹 **[lint_flag_programmatically](https://gofeatureflag.org/)**: GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source — built on OpenFeature.
+- 🐹 **[tui](https://github.com/itigges22/atlas)**: Adaptive Test-time Learning and Autonomous Specialization.
 - 🐹 **[profile](https://github.com/pkg/profile)**: Simple profiling for Go.
 - 🐹 **[dash-user-contributions](https://github.com/kapeli/dash-user-contributions)**: Dash repo of user contributed docsets.
 - 🐹 **[go-critic](https://go-critic.com)**: The most opinionated Go source code linter for code audit.
@@ -2033,6 +2038,7 @@
 - 🐹 **[wait](https://pipecd.dev)**: The One CD for All {applications, platforms, operations.
 - 🐹 **[txt2img](https://github.com/k1low/deck)**: Deck is a tool for creating deck using Markdown and Google Slides.
 - 🐹 **[terraform-provider-cloudflare](https://registry.terraform.io/providers/cloudflare/cloudflare)**: Cloudflare Terraform Provider.
+- 🐹 **[zstd-dict](https://github.com/siderolabs/omni)**: SaaS-simple deployment of Kubernetes - on your own hardware.
 - 🐹 **[kolla](https://opendev.org/openstack/kolla)**: Kolla provides production-ready containers and deployment tools for operating OpenStack clouds.
 - 🐹 **[bitplay](https://github.com/aculix/bitplay)**: Stream video torrents in your web browser with ease.
 - 🐹 **[boomer](https://github.com/myzhan/boomer)**: A better load generator for locust, written in golang.
