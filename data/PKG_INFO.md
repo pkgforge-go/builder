@@ -16,6 +16,7 @@
 - 🐹 **[dependency_updater](https://base.org)**: Everything required to run your own Base node.
 - 🐹 **[remote_storage](https://prometheus.io/)**: The Prometheus monitoring system and time series database.
 - 🐹 **[tools](https://prometheus.io/)**: The Prometheus monitoring system and time series database.
+- 🐹 **[withoutsocket](https://traefik.io)**: The Cloud Native Application Proxy.
 - 🐹 **[inspect](https://github.com/minio/minio)**: MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - 🐹 **[pprofgoparser](https://github.com/minio/minio)**: MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - 🐹 **[reorder-disks](https://github.com/minio/minio)**: MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
@@ -41,6 +42,7 @@
 - 🐹 **[kong](https://konghq.com/install/)**: The API and AI Gateway.
 - 🐹 **[kong](https://konghq.com/install/)**: The Cloud-Native Gateway for APIs & AI.
 - 🐹 **[cheat.sh](https://cheat.sh/)**: The only cheat sheet you need.
+- 🐹 **[go](https://github.com/router-for-me/cliproxyapi)**: Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.
 - 🐹 **[mmgotool](https://mattermost.com)**: Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - 🐹 **[mmgotool](https://mattermost.com)**: Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - 🐹 **[sharedchannel-test](https://mattermost.com)**: Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
@@ -337,6 +339,7 @@
 - 🐹 **[go](https://dagger.io)**: Automation engine to build, test and ship any codebase.
 - 🐹 **[cloud-spanner-bootstrap](https://skaffold.dev/)**: Easy and Repeatable Kubernetes Development.
 - 🐹 **[go-integration-coverage](https://skaffold.dev/)**: Easy and Repeatable Kubernetes Development.
+- 🐹 **[lifecycle-hooks](https://skaffold.dev/)**: Easy and Repeatable Kubernetes Development.
 - 🐹 **[package-main-in-root](https://skaffold.dev/)**: Easy and Repeatable Kubernetes Development.
 - 🐹 **[package-main-not-in-root](https://skaffold.dev/)**: Easy and Repeatable Kubernetes Development.
 - 🐹 **[service](https://skaffold.dev/)**: Easy and Repeatable Kubernetes Development.
@@ -1720,6 +1723,7 @@
 - 🐹 **[custombuild](https://www.authgear.com)**: Open source Auth0/Clerk/Firebase alternative.
 - 🐹 **[codeagent-wrapper](https://github.com/cexll/myclaude)**: Multi-agent orchestration workflow (Claude Code  Codex Gemini OpenCode.
 - 🐹 **[mdtogo](https://kpt.dev)**: Automate Kubernetes Configuration Editing.
+- 🐹 **[repo](https://github.com/archlinuxcn/repo)**: Arch Linux CN Repository.
 - 🐹 **[wormhole](https://wormhole.com)**: A reference implementation for the Wormhole blockchain interoperability protocol.
 - 🐹 **[alm](https://olm.operatorframework.io)**: A management framework for extending Kubernetes with Operators.
 - 🐹 **[internal-templating](https://carvel.dev/ytt)**: YAML templating tool that works on YAML structure instead of text.
@@ -2299,6 +2303,7 @@
 - 🐹 **[go](https://dropbox.tech/infrastructure/-broccoli--syncing-faster-by-syncing-less)**: Brotli compressor and decompressor written in rust that optionally avoids the stdlib.
 - 🐹 **[iris](https://github.com/qor/admin)**: Qor Admin - Instantly create a beautiful, cross platform, configurable Admin Interface and API for managing your data in minutes.
 - 🐹 **[awesome-ttygames](https://github.com/ligurio/awesome-ttygames)**: Unix ASCII games.
+- 🐹 **[wassette](https://microsoft.github.io/wassette/)**: Wassette: A security-oriented runtime that runs WebAssembly Components via MCP.
 - 🐹 **[code-used-on-daniel-lemire-s-blog](http://lemire.me/blog/)**: This is a repository for the code posted on my blog.
 - 🐹 **[pigeon](https://github.com/mna/pigeon)**: Command pigeon generates parsers in Go from a PEG grammar.
 - 🐹 **[otel-tui](https://github.com/ymtdzzz/otel-tui)**: A terminal OpenTelemetry viewer inspired by otel-desktop-viewer.
