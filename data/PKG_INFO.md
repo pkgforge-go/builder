@@ -1754,6 +1754,7 @@
 - 🐹 **[sitev2](https://kpt.dev)**: Automate Kubernetes Configuration Editing.
 - 🐹 **[sitev2](https://kpt.dev)**: Automate Kubernetes Configuration Editing.
 - 🐹 **[firehose-transformation-sam-go](https://serverlessland.com)**: Serverless patterns.
+- 🐹 **[skate](https://github.com/charmbracelet/skate)**: A personal key value store.
 - 🐹 **[registry](https://github.com/modelcontextprotocol/registry)**: A community driven registry service for Model Context Protocol (MCP) servers.
 - 🐹 **[v2](https://github.com/alibaba/mongoshake)**: MongoShake is a universal data replication platform based on MongoDB's oplog.
 - 🐹 **[oreboot](https://github.com/oreboot/oreboot)**: Oreboot is a fork of coreboot, with C removed, written in Rust.
@@ -2314,6 +2315,7 @@
 - 🐹 **[v3](https://github.com/cloudflare/goflow)**: The high-scalability sFlow/NetFlow/IPFIX collector used internally at Cloudflare.
 - 🐹 **[v2](https://github.com/swaggo/echo-swagger)**: Echo middleware to automatically generate RESTful API documentation with Swagger 2.
 - 🐹 **[v3](https://github.com/swaggo/echo-swagger)**: Echo middleware to automatically generate RESTful API documentation with Swagger 2.
+- 🐹 **[tetra3d](https://risor.io)**: Risor is a fast, embeddable scripting language for Go applications.
 - 🐹 **[proxy](https://github.com/istio/proxy)**: The Istio proxy components.
 - 🐹 **[spp](https://github.com/esrrhs/spp)**: A simple and powerful proxy.
 - 🐹 **[srp](https://github.com/esrrhs/srp)**: A simple and powerful proxy.
