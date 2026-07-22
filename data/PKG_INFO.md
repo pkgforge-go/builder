@@ -101,6 +101,7 @@
 - 🐹 **[dokku](https://dokku.com)**: A docker-powered PaaS that helps you build and manage the lifecycle of applications.
 - 🐹 **[scheduler-k3s](https://dokku.com)**: A docker-powered PaaS that helps you build and manage the lifecycle of applications.
 - 🐹 **[podman](https://podman.io)**: Podman: A tool for managing OCI containers and pods.
+- 🐹 **[grpc_server](https://grafana.com/oss/k6/)**: A modern load testing tool, using Go and JavaScript.
 - 🐹 **[proto-gen-rpc-glue](https://www.consul.io)**: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - 🐹 **[protoc-gen-consul-rate-limit](https://www.consul.io)**: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - 🐹 **[test-sds-server](https://www.consul.io)**: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
@@ -289,6 +290,7 @@
 - 🐹 **[fx](https://fx.wtf)**: Terminal JSON viewer & processor.
 - 🐹 **[asciinema](https://asciinema.org)**: Terminal session recorder, streamer and player.
 - 🐹 **[asciinema-cli](https://asciinema.org)**: Terminal session recorder, streamer and player.
+- 🐹 **[awesome-leetcode-resources](https://algomaster.io)**: Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews.
 - 🐹 **[tinygo](https://tinygo.org)**: Go compiler for small places.
 - 🐹 **[web](https://victoriametrics.com/)**: VictoriaMetrics: fast, cost-effective monitoring solution and time series database.
 - 🐹 **[imagemonitor](https://sealos.io)**: Sealos is an AI-native Cloud Operating System built on Kubernetes that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management.
@@ -1992,6 +1994,9 @@
 - 🐹 **[tools](https://github.com/hexdigest/gowrap)**: GoWrap is a command line tool for generating decorators for Go interfaces.
 - 🐹 **[v5](https://grafana.github.io/grafana-operator/docs/)**: An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs.
 - 🐹 **[protoc-gen-auth](https://pipecd.dev)**: The One CD for All {applications, platforms, operations.
+- 🐹 **[app](https://deckhouse.io)**: Kubernetes platform from Flant.
+- 🐹 **[app](https://deckhouse.io)**: Kubernetes platform from Flant.
+- 🐹 **[reloader](https://deckhouse.io)**: Kubernetes platform from Flant.
 - 🐹 **[crd-enricher](https://deckhouse.io)**: Kubernetes platform from Flant.
 - 🐹 **[regcopy](https://deckhouse.io)**: Kubernetes platform from Flant.
 - 🐹 **[src](https://deckhouse.io)**: Kubernetes platform from Flant.
