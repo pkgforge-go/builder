@@ -1952,6 +1952,7 @@
 - 🐹 **[x-repo-types](https://developer.algorand.org/)**: Algorand's official implementation in Go.
 - 🐹 **[partitiontest_linter](https://developer.algorand.org/)**: Algorand's official implementation in Go.
 - 🐹 **[src](https://github.com/picocrypt/picocrypt)**: A very small, very simple, yet very secure encryption tool.
+- 🐹 **[dirac](https://github.com/dirac-run/dirac)**: Coding Agent singularly focused efficiency and context curation.
 - 🐹 **[pghoard](http://aiven-open.github.io/pghoard/)**: PostgreSQL® backup and restore service.
 - 🐹 **[pghoard](http://aiven-open.github.io/pghoard/)**: PostgreSQL® backup and restore service.
 - 🐹 **[fansmedalhelper](https://doc.loveava.top/)**: 新版B站粉丝牌助手 全自动升级粉丝牌.
