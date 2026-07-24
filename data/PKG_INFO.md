@@ -995,6 +995,7 @@
 - 🐹 **[sidecarcontainer](https://knative.dev/docs/)**: User documentation for Knative components.
 - 🐹 **[websockets-go](https://knative.dev/docs/)**: User documentation for Knative components.
 - 🐹 **[ulid](https://github.com/oklog/ulid)**: Universally Unique Lexicographically Sortable Identifier _ULID_ in Go.
+- 🐹 **[v2](https://github.com/oklog/ulid)**: Universally Unique Lexicographically Sortable Identifier (ULID) in Go.
 - 🐹 **[go](https://microsandbox.dev)**: Opensource secure local-first sandboxes for ai agents.
 - 🐹 **[v3](https://vale.sh)**: Pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - 🐹 **[gocode](https://github.com/nsf/gocode)**: An autocompletion daemon for the Go programming language.
