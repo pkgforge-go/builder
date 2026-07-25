@@ -1459,6 +1459,7 @@
 - 🐹 **[bench](https://github.com/twmb/franz-go)**: Franz-go is a feature complete, pure Go library for Kafka from 0.
 - 🐹 **[bench](https://github.com/twmb/kgo)**: Franz-go is a feature complete, pure Go library for Kafka from 0.
 - 🐹 **[gateway-api](https://gateway-api.sigs.k8s.io)**: Repository for the next iteration of composite service (e.
+- 🐹 **[zerofs](https://www.zerofs.net)**: ZeroFS: A log-structured filesystem for S3.
 - 🐹 **[multus-cni](https://github.com/intel/multus-cni)**: A CNI meta-plugin for multi-homed pods in Kubernetes.
 - 🐹 **[multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni)**: A CNI meta-plugin for multi-homed pods in Kubernetes.
 - 🐹 **[helloserver](https://github.com/golang/example)**: Go example projects.
@@ -1507,6 +1508,7 @@
 - 🐹 **[micropython-lib](https://github.com/micropython/micropython-lib)**: Core Python libraries ported to MicroPython.
 - 🐹 **[easy-tips](http://easy-tips.tigerb.cn)**: A little Tips in my Code Career with Go&PHP.
 - 🐹 **[agentfs](https://www.agentfs.ai)**: The filesystem for agents.
+- 🐹 **[matcher](https://github.com/mas-bandwidth/yojimbo)**: A network library for client/server games written in C.
 - 🐹 **[git-sync](https://github.com/kubernetes/git-sync)**: A sidecar app which clones a git repo and keeps it in sync with the upstream.
 - 🐹 **[src](https://bbernhard.github.io/signal-cli-rest-api/)**: Dockerized Signal Messenger REST API.
 - 🐹 **[config-tool](https://github.com/quay/quay)**: Build, Store, and Distribute your Applications and Containers.
@@ -1575,6 +1577,7 @@
 - 🐹 **[cronexpr](https://github.com/aptible/supercronic)**: Cron for containers.
 - 🐹 **[supercronic](https://github.com/aptible/supercronic)**: Cron for containers.
 - 🐹 **[please](https://please.build)**: High-performance extensible build system for reproducible multi-language builds.
+- 🐹 **[styx-go](https://facet.rs)**: Rust reflection, serialization, deserialization, pretty printing, etc.
 - 🐹 **[picocrypt](https://github.com/hackeralert/picocrypt)**: A very small, very simple, yet very secure encryption tool.
 - 🐹 **[src](https://github.com/hackeralert/picocrypt)**: A very small, very simple, yet very secure encryption tool.
 - 🐹 **[collector](https://elkeid.bytedance.com)**: Elkeid is an open source solution that can meet the security requirements of various workloads such as hosts, containers and K8s, and serverless.
@@ -2097,6 +2100,7 @@
 - 🐹 **[account-gen](https://jfa-go.com)**: A bit-of-everything user management app for Jellyfin.
 - 🐹 **[pgstream](https://xata.io/documentation/opensource/pgstream/overview)**: PostgreSQL replication with DDL changes.
 - 🐹 **[pumkin](https://owasp-noir.github.io/noir/)**: Hunt every Endpoint in your code, expose Shadow APIs, map the Attack Surface.
+- 🐹 **[hashcards](https://github.com/eudoxia0/hashcards)**: A plain text-based spaced repetition system.
 - 🐹 **[estudos](https://crg.eti.br/tags/grupo-estudos-golang/)**: Material para estudo de Golang, tutoriais, videos e exemplos para quem quer aprender Go.
 - 🐹 **[mcp-avtool-go](https://googlecloudplatform.github.io/vertex-ai-creative-studio/)**: GenMedia Creative Studio is a generative media user experience highlighting the use of Gemini, Veo, Gemini Image 🍌, Gemini TTS, Chirp 3, Lyria and other generative media APIs on Google Cloud.
 - 🐹 **[estudos](https://crg.eti.br/tags/grupo-estudos-golang/)**: Material para estudo de Golang, tutoriais, videos e exemplos para quem quer aprender Go.
