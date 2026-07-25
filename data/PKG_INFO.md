@@ -113,6 +113,7 @@
 - 🐹 **[chunks-inspect](https://grafana.com/oss/loki)**: Like Prometheus, but for logs.
 - 🐹 **[dataobj-inspect](https://grafana.com/oss/loki)**: Like Prometheus, but for logs.
 - 🐹 **[micro](https://micro-editor.github.io)**: A modern and intuitive terminal-based text editor.
+- 🐹 **[deepseek-reasonix](http://reasonix.io/)**: DeepSeek-native AI coding agent for your terminal.
 - 🐹 **[gitnexus](https://gitnexus.vercel.app)**: GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser.
 - 🐹 **[desktop](http://reasonix.io/)**: DeepSeek-native AI coding agent for your terminal.
 - 🐹 **[wiki](https://js.wiki)**: Wiki.
