@@ -235,6 +235,7 @@
 - 🐹 **[v8](https://gitleaks.io)**: Find secrets with Gitleaks.
 - 🐹 **[examples](https://grpc.io)**: The Go language implementation of gRPC.
 - 🐹 **[mdbook](https://rust-lang.github.io/mdBook/)**: Create book from markdown files.
+- 🐹 **[install](https://pangolin.net)**: Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard.
 - 🐹 **[cmd](https://dgraph.io)**: High-performance graph database for real-time use cases.
 - 🐹 **[pubsub](https://redis.io)**: Redis Go client.
 - 🐹 **[docker](https://neko.m1k1o.net/)**: A self hosted virtual browser that runs in docker and uses WebRTC.
@@ -1546,6 +1547,7 @@
 - 🐹 **[v2](https://raviqqe.com/muffet)**: Fast website link checker in Go.
 - 🐹 **[podpool](https://github.com/ray-project/kuberay)**: A toolkit to run Ray applications on Kubernetes.
 - 🐹 **[juju-mongotop](https://juju.is)**: Orchestration engine that enables the deployment, integration and lifecycle management of applications at any scale, on any infrastructure (Kubernetes or otherwise.
+- 🐹 **[packager](https://nfpm.goreleaser.com/)**: NFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go.
 - 🐹 **[bitbar-plugins](https://xbarapp.com)**: Plugin repository for xbar (the BitBar reboot.
 - 🐹 **[cli](https://kcp.io)**: Kubernetes-like control planes for form-factors and use-cases beyond Kubernetes and container workloads.
 - 🐹 **[xbar-plugins](https://xbarapp.com)**: Plugin repository for xbar (the BitBar reboot.
@@ -1862,6 +1864,7 @@
 - 🐹 **[stdlib-basic](https://github.com/eliben/code-for-blog)**: Code samples from my blog.
 - 🐹 **[unix-domain-sockets-go](https://github.com/eliben/code-for-blog)**: Code samples from my blog.
 - 🐹 **[golang-examples](https://simonwaldherr.github.io/golang-examples/)**: Go(lang) examples - (explain the basics of #golang.
+- 🐹 **[perftest](http://www.openucx.org)**: Unified Communication X  (mailing list - https://elist.
 - 🐹 **[persistence](https://github.com/mikespook/gorbac)**: GoRBAC provides a lightweight role-based access control (RBAC) implementation in Golang.
 - 🐹 **[dubbo2](https://www.apinto.com)**: 基于golang开发的网关。具有各种插件，可以自行扩展，即插即用。此外，它可以快速帮助企业管理API服务，提高API服务的稳定性和安全性.
 - 🐹 **[grpc](https://www.apinto.com)**: 基于golang开发的网关。具有各种插件，可以自行扩展，即插即用。此外，它可以快速帮助企业管理API服务，提高API服务的稳定性和安全性.
@@ -2509,6 +2512,7 @@
 - 🐹 **[wildcard-dns-http-server](https://github.com/cunnie/sslip.io)**: Golang-based DNS server which maps DNS records with embedded IP addresses to those addresses.
 - 🐹 **[rama](https://ramaproxy.org)**: Modular service framework to move and transform network packets.
 - 🐹 **[server](https://www.kernel.sh)**: Browsers-as-a-service for automations and web agents.
+- 🐹 **[xdpcap](https://github.com/cloudflare/xdpcap)**: Tcpdump like XDP packet capture.
 - 🐹 **[clickhouse-grafana](https://github.com/altinity/clickhouse-grafana)**: Altinity Grafana datasource plugin for ClickHouse.
 - 🐹 **[linux](https://pkg.go.dev/github.com/Code-Hex/vz/v3)**: Create virtual machines and run Linux-based operating systems in Go using Apple Virtualization.
 - 🐹 **[value-object](https://shortlink.best)**: Shortlink service (Microservice example) ⭐️ Star the repo if you like it.
@@ -3276,6 +3280,7 @@
 - 🐹 **[kubetui](https://github.com/sarub0b0/kubetui)**: An intuitive Terminal User Interface (TUI) tool for real-time monitoring and exploration of Kubernetes resources.
 - 🐹 **[sonar-scanner-msbuild](http://redirect.sonarsource.com/doc/msbuild-sq-runner.html)**: SonarScanner for .
 - 🐹 **[wolweb](https://github.com/sameerdhoot/wolweb)**: Web interface for sending Wake-on-lan (magic packet).
+- 🐹 **[bat](https://tshaka.dev/bat)**: Battery management utility for Linux laptops.
 - 🐹 **[release-notes-fetcher](https://github.com/camunda/camunda-platform)**: Links to Camunda Platform 8 resources, releases, and local development config.
 - 🐹 **[rules_jvm_external](https://github.com/bazelbuild/rules_jvm_external)**: Bazel rules to resolve, fetch and export Maven artifacts.
 - 🐹 **[the-code](https://blog.kowalczyk.info/book/go-cookbook.html)**: Code for my Go Cookbook articles.
@@ -7192,6 +7197,7 @@
 - 🐹 **[ollama-model-provider](https://github.com/obot-platform/tools)**: The home of official Obot tools.
 - 🐹 **[omesfn-fortnite-checker](https://frozi.lol/og)**: Fortnite accounts checker with Xbox login.
 - 🐹 **[piggy-env](https://piggysec.com)**: Piggy is a tool built for supporting AWS Secret Manager with Kubernetes.
+- 🐹 **[private](https://github.com/sluongng/nogo-analyzer)**: A collection of common static analyzers (linters) that can be used with Bazel's rules_go.
 - 🐹 **[rekor-monitor](https://github.com/sigstore/rekor-monitor)**: Log monitor for Rekor to verify immutability and monitor entries.
 - 🐹 **[requestgen](https://github.com/c9s/requestgen)**: Request builder generator for Go.
 - 🐹 **[rescached](https://sr.ht/~shulhan/rescached)**: Mirror] Resolver (DNS) cache daemon.
@@ -7739,6 +7745,7 @@
 - 🐹 **[spider](https://forum.hashpwn.net/post/52)**: Spider - web crawler and local wordlist processor to generate frequency sorted wordlist / ngrams.
 - 🐹 **[src](https://github.com/aerospike/aerolab)**: Quickly spin up Aerospike clusters on docker, AWS and GCP.
 - 🐹 **[standalone-testpmd](https://github.com/redhat-nfvpe/container-perf-tools)**: A collection pf containerized performance test tools.
+- 🐹 **[v5](https://github.com/alexgustafsson/systembolaget-api)**: A cross-platform solution for using Systembolaget's APIs.
 - 🐹 **[vsa](https://github.com/etalazz/vsa)**: Commit information, not traffic" - Vector–Scalar Accumulator (VSA) is a lightweight algorithmic primitive that eliminates write amplification and hot-row contention in high-frequency systems.
 - 🐹 **[waybackrobots](https://github.com/vodafon/waybackrobots)**: Returns disallowed paths from robots.
 - 🐹 **[webhook](https://github.com/trustbloc/wallet-sdk)**: Verifiable Credential Wallet SDK and Demo/Reference Wallet App (Go / GoMobile | Android | iOS.
@@ -8047,6 +8054,7 @@
 - 🐹 **[get-branch](https://github.com/ledongthuc/notes)**: Notes, examples, tests, reuseable stuffs.
 - 🐹 **[glm-zai-2api](https://t.me/D3_vin)**: OpenAI-compatible proxy for Z.
 - 🐹 **[go-cleaner](https://github.com/mevitae/redis-work-queue)**: A cross-platform work queue, on top of a redis database, with implementations in Python, Rust, Go, Node.
+- 🐹 **[go-concurrency-patterns](https://github.com/ayoubfaouzi/software-engineering-notes)**: My software engineering notes.
 - 🐹 **[go-getmail](https://github.com/mback2k/go-getmail)**: Retrieve and forward e-mails between IMAP servers.
 - 🐹 **[go-kit](https://github.com/rstropek/golang-samples)**: My samples for learning and teaching Go.
 - 🐹 **[go_pkcs11](https://github.com/salrashid123/go_pkcs11)**: PKCS 11 Samples in Go using SoftHSM.
@@ -8215,6 +8223,11 @@
 - 🐹 **[s3tftpd](https://github.com/hanazuki/s3tftpd)**: TFTP server with Amazon S3 as backing storage.
 - 🐹 **[sdk](https://foliage.dev)**: SDK for application development within Foliage Application Platform.
 - 🐹 **[securetcprelay](https://github.com/badafans/securetcprelay)**: 具备Host和SNI以及IP地址过滤的TCP数据转发.
+- 🐹 **[server](https://github.com/inference-gateway/adk)**: An Agent Development Kit (ADK) allowing for seamless creation of A2A-compatible agents written in Go.
+- 🐹 **[server](https://github.com/inference-gateway/adk)**: An Agent Development Kit (ADK) allowing for seamless creation of A2A-compatible agents written in Go.
+- 🐹 **[server](https://github.com/inference-gateway/adk)**: An Agent Development Kit (ADK) allowing for seamless creation of A2A-compatible agents written in Go.
+- 🐹 **[server](https://github.com/inference-gateway/adk)**: An Agent Development Kit (ADK) allowing for seamless creation of A2A-compatible agents written in Go.
+- 🐹 **[server](https://github.com/inference-gateway/adk)**: An Agent Development Kit (ADK) allowing for seamless creation of A2A-compatible agents written in Go.
 - 🐹 **[server](https://github.com/inference-gateway/adk)**: An Agent Development Kit (ADK) allowing for seamless creation of A2A-compatible agents written in Go.
 - 🐹 **[server](https://github.com/inference-gateway/adk)**: An Agent Development Kit (ADK) allowing for seamless creation of A2A-compatible agents written in Go.
 - 🐹 **[server](https://github.com/inference-gateway/adk)**: An Agent Development Kit (ADK) allowing for seamless creation of A2A-compatible agents written in Go.
@@ -8508,6 +8521,7 @@
 - 🐹 **[metrics](https://github.com/higress-group/proxy-wasm-go-sdk)**: WebAssembly for Proxies (Go SDK.
 - 🐹 **[minecraft-preempt](https://git.rgst.io/rgst-io/minecraft-preempt)**: MIRROR] Automatically start your minecraft server when a user joins.
 - 🐹 **[mod](https://github.com/paketo-buildpacks/go-build)**: A Cloud Native Buildpack for compiling Go applications.
+- 🐹 **[msync](https://github.com/cdzombak/msync)**: Maintain a lower-bitrate copy of a music library in sync with the main copy.
 - 🐹 **[multiple_dispatches](https://github.com/higress-group/proxy-wasm-go-sdk)**: WebAssembly for Proxies (Go SDK.
 - 🐹 **[network](https://github.com/higress-group/proxy-wasm-go-sdk)**: WebAssembly for Proxies (Go SDK.
 - 🐹 **[obsave](https://github.com/mattjoyce/obsave)**: A cli utility to enable piping content into an Obsidian vault, adding frontmatter on the way.
@@ -8956,6 +8970,7 @@
 - 🐹 **[shortcommand](https://github.com/flawiddsouza/shortcommand)**: Easily run a set of commands quickly using a global yaml configuration file.
 - 🐹 **[simple-registry](https://github.com/mackee/tanukirpc)**: Tanukirpc is a practical, fast-developing, type-safe, and easy-to-use RPC/Router library for Go.
 - 🐹 **[siremis](https://github.com/asipto/siremis)**: SIREMIS - Kamailio SIP Server Records Management Interface System.
+- 🐹 **[slisp](https://github.com/skx/slisp)**: Either  "Simple Lisp compiler", or "Steve's Lisp Compiler.
 - 🐹 **[sonar-dingtalk-plugin](https://github.com/viodo/sonar-dingtalk-plugin)**: Sonarqube 钉钉机器人插件.
 - 🐹 **[spv-wallet-admin-keygen](https://docs.bsvblockchain.org/network-topology/spv-wallet)**: Tool for generating admin key for spv-wallet toolkit.
 - 🐹 **[spv-wallet-admin-keygen](https://docs.bsvblockchain.org/network-topology/spv-wallet)**: Tool for generating admin key for spv-wallet toolkit.
@@ -9805,6 +9820,7 @@
 - 🐹 **[migration](https://github.com/crgimenes/migration)**: SQL migration tool.
 - 🐹 **[modelwrap](https://github.com/tinfoilsh/modelwrap)**: Reproducible dm-verity read-only image of Huggingface models.
 - 🐹 **[monokube](https://github.com/stephenlacy/monokube)**: Monorepo deployment manager for k8s.
+- 🐹 **[moxie](https://lesiw.io/moxie)**: Go mock library that proxies method calls to embedded types.
 - 🐹 **[multicurl](https://github.com/fortio/multicurl)**: Fetch same url from all the IPs available.
 - 🐹 **[muxify](https://github.com/stroiman/muxify)**: Tmux session organiser.
 - 🐹 **[myhugofixer](https://github.com/bep/myhugofixer)**: Mainly a "prompt generator" to instruct AI on how to upgrade a Hugo site to a modern version.
@@ -9846,6 +9862,7 @@
 - 🐹 **[quid](https://github.com/synw/quid)**: Refresh/Access JWT authentication server with backend + administration frontend supporting HMAC (HS256 HS384 HS512), RSA (RS256 RS384 RS512), ECDSA (ES256 ES384 ES512) and Ed25519 (EdDSA).
 - 🐹 **[quid](https://github.com/teal-finance/quid)**: Refresh/Access JWT authentication server with backend + administration frontend supporting HMAC (HS256 HS384 HS512), RSA (RS256 RS384 RS512), ECDSA (ES256 ES384 ES512) and Ed25519 (EdDSA).
 - 🐹 **[quid](https://github.com/tealsfi/quid)**: Refresh/Access JWT authentication server with backend + administration frontend supporting HMAC (HS256 HS384 HS512), RSA (RS256 RS384 RS512), ECDSA (ES256 ES384 ES512) and Ed25519 (EdDSA).
+- 🐹 **[qzonewall-go](https://github.com/guohuiyuan/qzonewall-go)**: 一个给 QQ 群用的「表白墙/投稿墙」服务.
 - 🐹 **[raft](https://github.com/2hamed/raft)**: Raft implementation in Go.
 - 🐹 **[ragent](https://ca-srg.dev)**: CLI tool for building production RAG systems from Markdown, CSV, and PDF documents using hybrid search (BM25 + vector) with OpenSearch.
 - 🐹 **[randgen](https://github.com/ajstarks/utils)**: Utilities.
