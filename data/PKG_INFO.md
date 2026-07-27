@@ -1770,6 +1770,7 @@
 - 🐹 **[sitev2](https://kpt.dev)**: Automate Kubernetes Configuration Editing.
 - 🐹 **[go](https://cakewallet.com)**: The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.
 - 🐹 **[skate](https://github.com/charmbracelet/skate)**: A personal key value store.
+- 🐹 **[tools](https://tools.simonwillison.net)**: Assorted useful tools, almost entirely generated using LLMs.
 - 🐹 **[registry](https://github.com/modelcontextprotocol/registry)**: A community driven registry service for Model Context Protocol (MCP) servers.
 - 🐹 **[v2](https://github.com/alibaba/mongoshake)**: MongoShake is a universal data replication platform based on MongoDB's oplog.
 - 🐹 **[oreboot](https://github.com/oreboot/oreboot)**: Oreboot is a fork of coreboot, with C removed, written in Rust.
@@ -4239,6 +4240,7 @@
 - 🐹 **[maskedemail-cli](https://github.com/dvcrn/maskedemail-cli)**: CLI to create fastmail masked emails.
 - 🐹 **[mumble-discord-bridge](https://github.com/stieneee/mumble-discord-bridge)**: A simple voice bridge between Mumble and Discord.
 - 🐹 **[rainbow](https://docs.ipfs.tech/reference/http/gateway/)**: A specialized IPFS HTTP gateway.
+- 🐹 **[server](https://github.com/simonfrey/unshort.link)**: Prevent short link services from tracking you by unshortening the urls for your.
 - 🐹 **[blogsync](https://github.com/x-motemen/blogsync)**: Push and pull blog entries from/to local filesystem.
 - 🐹 **[claude-quest](https://github.com/michaelliv/claude-quest)**: RPG-style animation viewer for Claude Code sessions - watch your AI companion react to tool usage with pixel-art animations.
 - 🐹 **[gen-kustomize-res](https://github.com/nephio-project/nephio)**: Nephio is a Kubernetes-based automation platform for deploying and managing highly distributed, interconnected workloads such as 5G Network Functions, and the underlying infrastructure on which those workloads depend.
@@ -8741,6 +8743,7 @@
 - 🐹 **[frith](https://github.com/coracle-social/frith)**: A relay which enforces authentication based on custom policy.
 - 🐹 **[gin-postgre-boilerplate](https://github.com/tot-git27/gin-postgre-boilerplate)**: Production-grade Go backend using Gin, GORM, Redis, and Swagger with clean architecture and fintech-ready infrastructure.
 - 🐹 **[gitops-reverser](https://github.com/configbutler/gitops-reverser)**: Reconciles Kubernetes API resources into a git destination as clean deployable YAML files (audit trail through git commits.
+- 🐹 **[glaurung](https://github.com/mjbommar/glaurung)**: Permissive, modern alternative to Ghidra with Rust/Python core and first-class agentic AI integration.
 - 🐹 **[gnetlark](https://github.com/xyproto/gnetlark)**: Bird: Fast HTTP server that supports handlers written in Starlark.
 - 🐹 **[gnupg-portable](https://portapps.io/app/gnupg-portable/)**: GnuPG portable for Windows.
 - 🐹 **[go](https://github.com/qdrddr/clear-your-tools)**: Cut input tokens by 30% while preserving LLM focus and pruning irrelevant MCP tools.
