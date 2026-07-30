@@ -1056,6 +1056,7 @@
 - 🐹 **[builderd](https://go.unkey.com)**: The Developer Platform for Modern APIs.
 - 🐹 **[v3](https://dubbo.apache.org/)**: Go Implementation For Apache Dubbo.
 - 🐹 **[desktop-ce](https://whodb.com)**: Where data access meets operational intelligence.
+- 🐹 **[callback](https://www.mock-server.com)**: MockServer is an HTTP(S) mock server and proxy for testing that lets you mock APIs, inspect and modify live traffic, and inject failures.
 - 🐹 **[v6](https://linuxcontainers.org/incus)**: Powerful system container and virtual machine manager.
 - 🐹 **[update-go-azure-helpers](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs)**: Terraform provider for Azure Resource Manager.
 - 🐹 **[update-go-azure-sdk](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs)**: Terraform provider for Azure Resource Manager.
@@ -1735,6 +1736,7 @@
 - 🐹 **[abigen](https://wormhole.com)**: A reference implementation for the Wormhole blockchain interoperability protocol.
 - 🐹 **[abigen-celo](https://wormhole.com)**: A reference implementation for the Wormhole blockchain interoperability protocol.
 - 🐹 **[eth](https://wormhole.com)**: A reference implementation for the Wormhole blockchain interoperability protocol.
+- 🐹 **[generate-manager-set](https://wormhole.com)**: A reference implementation for the Wormhole blockchain interoperability protocol.
 - 🐹 **[mdtogo](https://kpt.dev)**: Automate Kubernetes Configuration Editing.
 - 🐹 **[mdtogo](https://kpt.dev)**: Automate Kubernetes Configuration Editing.
 - 🐹 **[codeagent-wrapper](https://github.com/cexll/myclaude)**: Multi-agent orchestration workflow (Claude Code  Codex Gemini OpenCode.
@@ -1877,6 +1879,7 @@
 - 🐹 **[ovpn-admin](https://github.com/palark/ovpn-admin)**: Simple web UI to manage OpenVPN users.
 - 🐹 **[ovpn-admin](https://github.com/flant/ovpn-admin)**: Simple web UI to manage OpenVPN users.
 - 🐹 **[openvpn-admin](https://github.com/flant/openvpn-admin)**: Simple web UI to manage OpenVPN users.
+- 🐹 **[text](https://github.com/oakmound/oak)**: A pure Go game engine.
 - 🐹 **[go-audit](https://github.com/slackhq/go-audit)**: Go-audit is an alternative to the auditd daemon that ships with many distros.
 - 🐹 **[prometheus](https://opentelemetry.io/)**: Collection of extensions for OpenTelemetry-Go.
 - 🐹 **[testrp](https://radapp.io)**: Radius is a cloud-native, portable application platform that makes app development easier for teams building cloud-native apps.
@@ -1977,6 +1980,8 @@
 - 🐹 **[ex1](https://capnproto.org)**: Cap'n Proto library and code generator for Go.
 - 🐹 **[ex2](https://capnproto.org)**: Cap'n Proto library and code generator for Go.
 - 🐹 **[hashes](https://capnproto.org)**: Cap'n Proto library and code generator for Go.
+- 🐹 **[whoami](https://traefik.io)**: Tiny Go server that prints os information and HTTP request to output.
+- 🐹 **[whoami](https://traefik.io)**: Tiny Go server that prints os information and HTTP request to output.
 - 🐹 **[_tools](https://github.com/go-logr/logr)**: A simple logging interface for Go.
 - 🐹 **[vscode-rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust)**: Rust extension for Visual Studio Code.
 - 🐹 **[_examples](https://pkg.go.dev/github.com/centrifugal/centrifuge)**: Real-time messaging library for Go.
@@ -1989,6 +1994,7 @@
 - 🐹 **[v2](https://github.com/bazelbuild/bazel-gazelle)**: Gazelle is a Bazel build file generator for Bazel projects.
 - 🐹 **[gotest](https://github.com/rakyll/gotest)**: Go test with colors.
 - 🐹 **[crawler-user-agents](https://github.com/monperrus/crawler-user-agents)**: Syntactic patterns of HTTP user-agents used by bots / robots / crawlers / scrapers / spiders.
+- 🐹 **[example-multi](https://carapace.sh)**: A multi-shell completion library.
 - 🐹 **[example-nonposix](https://carapace.sh)**: A multi-shell completion library.
 - 🐹 **[example-nonposix](https://carapace.sh)**: A multi-shell completion library.
 - 🐹 **[mcp-proxy](https://www.akto.io/)**: Proactive, Open source API security → API discovery, API Security Posture, Testing in CI/CD, Test Library with 1000+ Tests, Add custom tests, Sensitive data exposure.
