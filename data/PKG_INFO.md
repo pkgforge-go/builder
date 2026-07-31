@@ -102,6 +102,7 @@
 - 🐹 **[dokku](https://dokku.com)**: A docker-powered PaaS that helps you build and manage the lifecycle of applications.
 - 🐹 **[scheduler-k3s](https://dokku.com)**: A docker-powered PaaS that helps you build and manage the lifecycle of applications.
 - 🐹 **[podman](https://podman.io)**: Podman: A tool for managing OCI containers and pods.
+- 🐹 **[promqltestcorpus](https://signoz.io)**: SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents.
 - 🐹 **[jumpserver](https://jumpserver.com)**: JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.
 - 🐹 **[grpc_server](https://grafana.com/oss/k6/)**: A modern load testing tool, using Go and JavaScript.
 - 🐹 **[proto-gen-rpc-glue](https://www.consul.io)**: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
@@ -843,6 +844,7 @@
 - 🐹 **[chat](https://github.com/libp2p/go-libp2p)**: Libp2p implementation in Go.
 - 🐹 **[ipfs-camp-2019](https://github.com/libp2p/go-libp2p)**: Libp2p implementation in Go.
 - 🐹 **[test_analysis](https://github.com/libp2p/go-libp2p)**: Libp2p implementation in Go.
+- 🐹 **[e2eseed](https://www.getmaxim.ai/bifrost)**: Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.
 - 🐹 **[tools](https://openbao.org/)**: OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - 🐹 **[cxx](https://cxx.rs)**: Safe interop between Rust and C.
 - 🐹 **[v2](https://github.com/grpc-ecosystem/go-grpc-middleware)**: Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
@@ -1552,6 +1554,7 @@
 - 🐹 **[podpool](https://github.com/ray-project/kuberay)**: A toolkit to run Ray applications on Kubernetes.
 - 🐹 **[juju-mongotop](https://juju.is)**: Orchestration engine that enables the deployment, integration and lifecycle management of applications at any scale, on any infrastructure (Kubernetes or otherwise.
 - 🐹 **[packager](https://nfpm.goreleaser.com/)**: NFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go.
+- 🐹 **[www](https://nfpm.goreleaser.com/)**: NFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go.
 - 🐹 **[bitbar-plugins](https://xbarapp.com)**: Plugin repository for xbar (the BitBar reboot.
 - 🐹 **[cli](https://kcp.io)**: Kubernetes-like control planes for form-factors and use-cases beyond Kubernetes and container workloads.
 - 🐹 **[xbar-plugins](https://xbarapp.com)**: Plugin repository for xbar (the BitBar reboot.
@@ -2325,6 +2328,7 @@
 - 🐹 **[replace04](https://github.com/google/go-licenses)**: A lightweight tool to report on the licenses used by a Go package and its dependencies.
 - 🐹 **[template01](https://github.com/google/go-licenses)**: A lightweight tool to report on the licenses used by a Go package and its dependencies.
 - 🐹 **[vendored03](https://github.com/google/go-licenses)**: A lightweight tool to report on the licenses used by a Go package and its dependencies.
+- 🐹 **[otpauth](https://github.com/dim13/otpauth)**: Google Authenticator migration decoder.
 - 🐹 **[redis-js](https://docs.upstash.com/redis)**: HTTP based Redis Client for Serverless and Edge Functions.
 - 🐹 **[ntvdmx64](https://github.com/leecher1337/ntvdmx64)**: Run Microsoft Windows NTVDM (DOS) on 64bit Editions.
 - 🐹 **[nwg-look](https://github.com/nwg-piotr/nwg-look)**: GTK3 settings editor adapted to work in the wlroots environment.
