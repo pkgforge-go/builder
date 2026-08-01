@@ -42,6 +42,7 @@
 - 🐹 **[kong](https://konghq.com/install/)**: The API and AI Gateway.
 - 🐹 **[tutorials](https://github.com/charmbracelet/bubbletea)**: A powerful little TUI framework.
 - 🐹 **[kong](https://konghq.com/install/)**: The Cloud-Native Gateway for APIs & AI.
+- 🐹 **[langfuse-fanout](https://librechat.ai/)**: Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting.
 - 🐹 **[cheat.sh](https://cheat.sh/)**: The only cheat sheet you need.
 - 🐹 **[mmgotool](https://mattermost.com)**: Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - 🐹 **[mmgotool](https://mattermost.com)**: Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
@@ -596,6 +597,8 @@
 - 🐹 **[https-server](https://cog.run)**: Containers for machine learning.
 - 🐹 **[lf](https://github.com/gokcehan/lf)**: Terminal file manager.
 - 🐹 **[update-examples-deps](https://watermill.io)**: Building event-driven applications the easy way in Go.
+- 🐹 **[image-not-a-module](https://github.com/anchore/syft)**: CLI tool and library for generating a Software Bill of Materials from container images and filesystems.
+- 🐹 **[image-small](https://github.com/anchore/syft)**: CLI tool and library for generating a Software Bill of Materials from container images and filesystems.
 - 🐹 **[pq](https://watermill.io)**: Building event-driven applications the easy way in Go.
 - 🐹 **[validate-examples](https://watermill.io)**: Building event-driven applications the easy way in Go.
 - 🐹 **[project](http://book.kubebuilder.io)**: Kubebuilder - SDK for building Kubernetes APIs using CRDs.
@@ -614,6 +617,7 @@
 - 🐹 **[databend](https://docs.databend.com)**: 𝗔𝗜-𝗡𝗮𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲.
 - 🐹 **[cadence](https://cadenceworkflow.io)**: Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - 🐹 **[autoscaler](https://github.com/kubernetes/autoscaler)**: Autoscaling components for Kubernetes.
+- 🐹 **[cluster-autoscaler](https://github.com/kubernetes/autoscaler)**: Autoscaling components for Kubernetes.
 - 🐹 **[ai-intent](https://higress.ai)**: AI Gateway | AI Native API Gateway.
 - 🐹 **[ai-quota](https://higress.ai)**: AI Gateway | AI Native API Gateway.
 - 🐹 **[ai-rag](https://higress.ai)**: AI Gateway | AI Native API Gateway.
@@ -1414,6 +1418,7 @@
 - 🐹 **[hugegraph](https://hugegraph.apache.org)**: A graph database that supports more than 100+ billion data, high performance and scalability (Include OLTP Engine & REST-API & Backends.
 - 🐹 **[graphjin](https://graphjin.com)**: One governed graph for AI agents — GraphQL + MCP over your databases, files, APIs, and code.
 - 🐹 **[v3](https://graphjin.com)**: One governed graph for AI agents — GraphQL + MCP over your databases, files, APIs, and code.
+- 🐹 **[v3](https://graphjin.com)**: One governed graph for AI agents — GraphQL + MCP over your databases, files, APIs, and code.
 - 🐹 **[apns2](https://github.com/sideshow/apns2)**: HTTP/2 Apple Push Notification Service (APNs) push provider for Go — Send push notifications to iOS, tvOS, Safari and OSX apps, using the APNs HTTP/2 protocol.
 - 🐹 **[e2e_cleanup](https://peerdb.io)**: Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage.
 - 🐹 **[web-ext](https://github.com/mozilla/web-ext)**: A command line tool to help build, run, and test web extensions.
@@ -2014,6 +2019,7 @@
 - 🐹 **[gomodcheck](https://atmos.tools)**: Atmos is the open-source runtime for infrastructure — it builds, authenticates, and ships Terraform, OpenTofu, Kubernetes, Helm, and containers the same way on your laptop, in CI, and with AI agents.
 - 🐹 **[cycletls](https://github.com/danny-dasilva/cycletls)**: Spoof TLS/JA3 fingerprints in GO and Javascript.
 - 🐹 **[mxbai-rerank](https://github.com/gomlx/gomlx)**: GoMLX: An Accelerated Machine Learning Framework For Go.
+- 🐹 **[chromaprint](https://github.com/acoustid/chromaprint)**: C library for generating audio fingerprints used by AcoustID.
 - 🐹 **[kubernetes-engine-samples](https://cloud.google.com/kubernetes-engine/docs/tutorials/)**: Sample applications for Google Kubernetes Engine (GKE.
 - 🐹 **[protoc-gen-auth](https://pipecd.dev)**: The One CD for All {applications, platforms, operations.
 - 🐹 **[tools](https://github.com/hexdigest/gowrap)**: GoWrap is a command line tool for generating decorators for Go interfaces.
@@ -2076,6 +2082,7 @@
 - 🐹 **[v5](https://grafana.github.io/grafana-operator/docs/)**: An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs.
 - 🐹 **[v3](https://pkg.go.dev/github.com/go-testfixtures/testfixtures/v3?tab=doc)**: Ruby on Rails like test fixtures for Go.
 - 🐹 **[wait](https://pipecd.dev)**: The One CD for All {applications, platforms, operations.
+- 🐹 **[parts-go](https://the-guild.dev/graphql/hive/blog/acquired-grafbase)**: Acquired by The Guild] The Grafbase GraphQL Federation Gateway.
 - 🐹 **[txt2img](https://github.com/k1low/deck)**: Deck is a tool for creating deck using Markdown and Google Slides.
 - 🐹 **[terraform-provider-cloudflare](https://registry.terraform.io/providers/cloudflare/cloudflare)**: Cloudflare Terraform Provider.
 - 🐹 **[zstd-dict](https://github.com/siderolabs/omni)**: SaaS-simple deployment of Kubernetes - on your own hardware.
