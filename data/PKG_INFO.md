@@ -512,6 +512,7 @@
 - 🐹 **[literally](https://registry.terraform.io/providers/hashicorp/aws)**: The AWS Provider enables Terraform to manage AWS resources.
 - 🐹 **[redpanda](https://redpanda.com)**: Redpanda is a streaming data platform for developers.
 - 🐹 **[kubeasz](https://github.com/easzlab/kubeasz)**: 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响.
+- 🐹 **[build](https://agent.theten.ai/)**: Open-source framework for conversational voice AI agents.
 - 🐹 **[go](https://github.com/apache/thrift)**: Apache Thrift.
 - 🐹 **[thrift](https://github.com/apache/thrift)**: Apache Thrift.
 - 🐹 **[tfsdk2fw](https://registry.terraform.io/providers/hashicorp/aws)**: The AWS Provider enables Terraform to manage AWS resources.
