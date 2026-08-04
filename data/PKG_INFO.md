@@ -210,9 +210,13 @@
 - 🐹 **[client](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[client](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[cmd](https://go-micro.dev)**: A Go agent harness and service framework.
+- 🐹 **[grpc](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[rpc](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[selector](https://go-micro.dev)**: A Go agent harness and service framework.
+- 🐹 **[client](https://go-micro.dev)**: A Go agent harness and service framework.
+- 🐹 **[dashboard](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[gomu](https://go-micro.dev)**: A Go agent harness and service framework.
+- 🐹 **[http](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[client](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[cmd](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[cmd](https://go-micro.dev)**: A Go agent harness and service framework.
@@ -622,6 +626,8 @@
 - 🐹 **[columns](https://immudb.io)**: Immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history.
 - 🐹 **[mkdb](https://immudb.io)**: Immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history.
 - 🐹 **[truncation](https://immudb.io)**: Immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history.
+- 🐹 **[model-mapper](https://higress.ai)**: AI Gateway | AI Native API Gateway.
+- 🐹 **[model-router](https://higress.ai)**: AI Gateway | AI Native API Gateway.
 - 🐹 **[quickstart](https://www.hanko.io)**: Modern authentication, on your terms.
 - 🐹 **[databend](https://docs.databend.com)**: 𝗔𝗜-𝗡𝗮𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲.
 - 🐹 **[cadence](https://cadenceworkflow.io)**: Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
@@ -1005,6 +1011,7 @@
 - 🐹 **[openapi](https://github.com/emicklei/go-restful)**: Package for building REST-style Web Services using Go.
 - 🐹 **[template](https://github.com/emicklei/go-restful)**: Package for building REST-style Web Services using Go.
 - 🐹 **[user-resource](https://github.com/emicklei/go-restful)**: Package for building REST-style Web Services using Go.
+- 🐹 **[hakrawler](https://hakluke.com)**: Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application.
 - 🐹 **[spack](https://spack.io)**: A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - 🐹 **[go](https://go.unkey.com)**: The Developer Platform for Modern APIs.
 - 🐹 **[grin](https://grin.mw/)**: Minimal implementation of the Mimblewimble protocol.
@@ -1922,6 +1929,7 @@
 - 🐹 **[immich-kiosk](https://immichkiosk.app)**: Highly configurable slideshows for displaying Immich assets on browsers and devices.
 - 🐹 **[quick-lint-js](https://quick-lint-js.com)**: Quick-lint-js finds bugs in JavaScript programs.
 - 🐹 **[grpc-health-probe](https://github.com/grpc-ecosystem/grpc-health-probe)**: A command-line tool to perform health-checks for gRPC applications in Kubernetes and elsewhere.
+- 🐹 **[hakrevdns](https://github.com/hakluke/hakrevdns)**: Small, fast tool for performing reverse DNS lookups en masse.
 - 🐹 **[antidupl](https://ermig1979.github.io/AntiDupl)**: A program to search similar and defect pictures on the disk.
 - 🐹 **[server](https://github.com/doxx/darkflare)**: DarkFlare Firewall Piercing (TCP over CDN.
 - 🐹 **[cherri](https://cherrilang.org)**: Siri Shortcuts Programming Language.
