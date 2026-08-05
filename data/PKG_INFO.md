@@ -211,12 +211,18 @@
 - 🐹 **[client](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[cmd](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[grpc](https://go-micro.dev)**: A Go agent harness and service framework.
+- 🐹 **[mock](https://go-micro.dev)**: A Go agent harness and service framework.
+- 🐹 **[mucp](https://go-micro.dev)**: A Go agent harness and service framework.
+- 🐹 **[pool](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[rpc](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[selector](https://go-micro.dev)**: A Go agent harness and service framework.
+- 🐹 **[static](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[client](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[dashboard](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[gomu](https://go-micro.dev)**: A Go agent harness and service framework.
+- 🐹 **[grpc](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[http](https://go-micro.dev)**: A Go agent harness and service framework.
+- 🐹 **[mucp](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[client](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[cmd](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[cmd](https://go-micro.dev)**: A Go agent harness and service framework.
@@ -1077,6 +1083,7 @@
 - 🐹 **[assetmanagerd](https://go.unkey.com)**: The Developer Platform for Modern APIs.
 - 🐹 **[billaged](https://go.unkey.com)**: The Developer Platform for Modern APIs.
 - 🐹 **[builderd](https://go.unkey.com)**: The Developer Platform for Modern APIs.
+- 🐹 **[imports-formatter](https://dubbo.apache.org/)**: Go Implementation For Apache Dubbo.
 - 🐹 **[v3](https://dubbo.apache.org/)**: Go Implementation For Apache Dubbo.
 - 🐹 **[desktop-ce](https://whodb.com)**: Where data access meets operational intelligence.
 - 🐹 **[callback](https://www.mock-server.com)**: MockServer is an HTTP(S) mock server and proxy for testing that lets you mock APIs, inspect and modify live traffic, and inject failures.
@@ -1549,6 +1556,7 @@
 - 🐹 **[xds-sotw-config-server](https://github.com/envoyproxy/ratelimit)**: Go/gRPC service designed to enable generic rate limit scenarios from different types of applications.
 - 🐹 **[yopass](https://yopass.se)**: Secure sharing of secrets, passwords and files.
 - 🐹 **[tools](https://submariner.io)**: Networking component for interconnecting Pods and Services across Kubernetes clusters.
+- 🐹 **[v3](https://www.krakend.io)**: KrakenD Community Edition: High-performance, stateless, declarative, API Gateway written in Go.
 - 🐹 **[firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd)**: Firecracker-containerd enables containerd to manage containers as Firecracker microVMs.
 - 🐹 **[nodeadm](https://awslabs.github.io/amazon-eks-ami/)**: Packer configuration for building a custom EKS AMI.
 - 🐹 **[iot](https://mongoose-os.com)**: Mongoose OS - an IoT Firmware Development Framework.
@@ -1982,6 +1990,7 @@
 - 🐹 **[multi_step](https://cloud.google.com/cloud-build/)**: Builder images and examples commonly used for Google Cloud Build.
 - 🐹 **[homebrew-autoupdate](https://github.com/domt4/homebrew-autoupdate)**: Tropical_drink: An easy, convenient way to automatically update Homebrew.
 - 🐹 **[module](https://cloud.google.com/cloud-build/)**: Builder images and examples commonly used for Google Cloud Build.
+- 🐹 **[sort_contibutors](https://owasp.org/www-project-wrongsecrets/)**: Vulnerable app with examples showing how to not use secrets.
 - 🐹 **[firmware](https://github.com/hybridgroup/go-haystack)**: Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo.
 - 🐹 **[gcs-fetcher](https://cloud.google.com/cloud-build/)**: Builder images and examples commonly used for Google Cloud Build.
 - 🐹 **[tinyscan](https://github.com/hybridgroup/go-haystack)**: Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo.
@@ -2270,6 +2279,7 @@
 - 🐹 **[licensescan](https://cloud.google.com/config-connector/docs/overview)**: GCP Config Connector, a Kubernetes add-on for managing GCP resources.
 - 🐹 **[tuxedo](https://github.com/webstonehq/tuxedo)**: A fast, keyboard-driven terminal UI for todo.
 - 🐹 **[patch-proto](https://cloud.google.com/config-connector/docs/overview)**: GCP Config Connector, a Kubernetes add-on for managing GCP resources.
+- 🐹 **[basic](https://github.com/scylladb/gocqlx)**: All-In-One: CQL query builder, ORM and migration tool.
 - 🐹 **[project-examples](https://github.com/jfrog/project-examples)**: Small projects in universal build ecosystems to configure CI and Artifactory.
 - 🐹 **[backend](https://tracewayapp.com)**: The only tool you need to know what is happening and how to fix it.
 - 🐹 **[memo](https://github.com/mattn/memo)**: Memo Life For You.
