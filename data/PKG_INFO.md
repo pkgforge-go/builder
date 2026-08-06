@@ -210,9 +210,12 @@
 - 🐹 **[client](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[client](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[cmd](https://go-micro.dev)**: A Go agent harness and service framework.
+- 🐹 **[generator](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[grpc](https://go-micro.dev)**: A Go agent harness and service framework.
+- 🐹 **[micro](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[mock](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[mucp](https://go-micro.dev)**: A Go agent harness and service framework.
+- 🐹 **[plugin](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[pool](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[rpc](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[selector](https://go-micro.dev)**: A Go agent harness and service framework.
@@ -1447,6 +1450,7 @@
 - 🐹 **[e2e_cleanup](https://peerdb.io)**: Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage.
 - 🐹 **[web-ext](https://github.com/mozilla/web-ext)**: A command line tool to help build, run, and test web extensions.
 - 🐹 **[codeclimate](https://qlty.sh/)**: Code quality CLI for universal linting, auto-formatting, security scanning, and maintainability.
+- 🐹 **[go-concurrency-patterns](https://github.com/lotusirous/go-concurrency-patterns)**: Concurrency patterns in Go.
 - 🐹 **[qlty](https://qlty.sh/)**: Code quality CLI for universal linting, auto-formatting, security scanning, and maintainability.
 - 🐹 **[product-catalog](https://opentelemetry.io/docs/demo/)**: This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - 🐹 **[api](https://kubeblocks.io)**: KubeBlocks is a Kubernetes Operator designed to manage a variety of databases and streaming systems, including MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, RocketMQ, and more, within Kubernetes environments.
