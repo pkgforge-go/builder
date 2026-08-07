@@ -55,6 +55,7 @@
 - 🐹 **[jaws](https://serverless.com)**: Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more.
 - 🐹 **[pnpm](https://pnpm.io)**: Fast, disk space efficient package manager.
 - 🐹 **[aseprite](https://www.aseprite.org)**: Animated sprite editor & pixel art tool (Windows, macOS, Linux.
+- 🐹 **[server](https://wails.io)**: Create beautiful applications using Go.
 - 🐹 **[customlayout](https://wails.io)**: Create beautiful applications using Go.
 - 🐹 **[v2](https://wails.io)**: Create beautiful applications using Go.
 - 🐹 **[pnpm](https://pnpm.io)**: Fast, disk space efficient package manager.
@@ -783,6 +784,7 @@
 - 🐹 **[coteditor](https://coteditor.com)**: Lightweight Plain Text Editor for macOS.
 - 🐹 **[nb.go](https://xwmx.github.io/nb)**: CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - 🐹 **[stdhttp](https://github.com/oapi-codegen/oapi-codegen)**: Generate Go client and server boilerplate from OpenAPI 3 specifications.
+- 🐹 **[aptosread](https://chain.link)**: Node of the decentralized oracle network, bridging on and off-chain computation.
 - 🐹 **[aptoswrite](https://chain.link)**: Node of the decentralized oracle network, bridging on and off-chain computation.
 - 🐹 **[aptoswriteroundtrip](https://chain.link)**: Node of the decentralized oracle network, bridging on and off-chain computation.
 - 🐹 **[consensus](https://chain.link)**: Node of the decentralized oracle network, bridging on and off-chain computation.
@@ -1891,6 +1893,7 @@
 - 🐹 **[dyplomat](https://github.com/envoyproxy/go-control-plane)**: Go implementation of data-plane-api.
 - 🐹 **[meg](https://github.com/tomnomnom/meg)**: Fetch many paths for many hosts - without killing the hosts.
 - 🐹 **[image-awaiter](https://zero-to-jupyterhub.readthedocs.io)**: Helm Chart & Documentation for deploying JupyterHub on Kubernetes.
+- 🐹 **[demo-producer](https://tryaisoc.com)**: Open-source AI-powered Security Operations Center — alert fusion, purple-team drills, agent-assisted triage, MITRE ATT&CK investigation.
 - 🐹 **[todoist](https://github.com/sachaos/todoist)**: Todoist CLI Client.
 - 🐹 **[cffi_dist](https://github.com/bogdanfinn/tls-client)**: Net/http.
 - 🐹 **[bungeecord](https://www.spigotmc.org/go/bungeecord)**: BungeeCord, the 6th in a generation of server portal suites.
@@ -2413,6 +2416,7 @@
 - 🐹 **[demo5](https://github.com/bigwhite/experiments)**: Personal code, scripts and config files for experiments.
 - 🐹 **[experiments](https://github.com/bigwhite/experiments)**: Personal code, scripts and config files for experiments.
 - 🐹 **[goref](https://github.com/cloudwego/goref)**: Go heap object reference analysis tool.
+- 🐹 **[helloworld](https://alibaba.github.io/loongsuite-go/)**: OpenTelemetry Compile-Time Instrumentation for Golang.
 - 🐹 **[gofrontend](https://github.com/golang/gofrontend)**: Go compiler frontend (gccgo.
 - 🐹 **[setupvim](https://github.com/govim/govim)**: Govim is a Go development plugin for Vim8, written in Go.
 - 🐹 **[shellfirm](https://shellfirm.vercel.app/)**: Safety guardrails for ai coding agents and human terminal commands.
