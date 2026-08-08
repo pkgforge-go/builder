@@ -116,6 +116,7 @@
 - 🐹 **[test_data](https://www.envoyproxy.io)**: Cloud-native high-performance edge/middle/service proxy.
 - 🐹 **[chunks-inspect](https://grafana.com/oss/loki)**: Like Prometheus, but for logs.
 - 🐹 **[dataobj-inspect](https://grafana.com/oss/loki)**: Like Prometheus, but for logs.
+- 🐹 **[ingest](https://netbird.io)**: Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - 🐹 **[micro](https://micro-editor.github.io)**: A modern and intuitive terminal-based text editor.
 - 🐹 **[deepseek-reasonix](http://reasonix.io/)**: DeepSeek-native AI coding agent for your terminal.
 - 🐹 **[desktop](http://reasonix.io/)**: DeepSeek-native AI coding agent for your terminal.
@@ -859,6 +860,9 @@
 - 🐹 **[cobraparser](https://www.telepresence.io)**: Local development against a remote Kubernetes or OpenShift cluster.
 - 🐹 **[alluxio.org](https://www.alluxio.io)**: Alluxio, data orchestration for analytics and machine learning in the cloud.
 - 🐹 **[v2](https://flyte.org)**: Dynamic, resilient AI orchestration.
+- 🐹 **[migration-checker](https://www.getmaxim.ai/bifrost)**: Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.
+- 🐹 **[seedvks](https://www.getmaxim.ai/bifrost)**: Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.
+- 🐹 **[webhooks](https://www.getmaxim.ai/bifrost)**: Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.
 - 🐹 **[check-issue](https://go-rod.github.io)**: A Chrome DevTools Protocol driver for web automation and scraping.
 - 🐹 **[custom-websocket](https://go-rod.github.io)**: A Chrome DevTools Protocol driver for web automation and scraping.
 - 🐹 **[official-images](https://hub.docker.com/u/library)**: Primary source of truth for the Docker "Official Images" program.
@@ -1564,6 +1568,7 @@
 - 🐹 **[tools](https://submariner.io)**: Networking component for interconnecting Pods and Services across Kubernetes clusters.
 - 🐹 **[v3](https://www.krakend.io)**: KrakenD Community Edition: High-performance, stateless, declarative, API Gateway written in Go.
 - 🐹 **[firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd)**: Firecracker-containerd enables containerd to manage containers as Firecracker microVMs.
+- 🐹 **[omnara](https://omnara.com)**: The API for production-grade agents.
 - 🐹 **[nodeadm](https://awslabs.github.io/amazon-eks-ami/)**: Packer configuration for building a custom EKS AMI.
 - 🐹 **[iot](https://mongoose-os.com)**: Mongoose OS - an IoT Firmware Development Framework.
 - 🐹 **[mongoose-iot](https://mongoose-os.com)**: Mongoose OS - an IoT Firmware Development Framework.
@@ -1772,6 +1777,7 @@
 - 🐹 **[diagram-js](https://github.com/bpmn-io/diagram-js)**: A toolbox for displaying and modifying diagrams on the web.
 - 🐹 **[msgvault](https://msgvault.io)**: Archive a lifetime of email and chat.
 - 🐹 **[backend](https://vllm-semantic-router.com)**: Intelligent Mixture-of-Models Router for Efficient LLM Inference.
+- 🐹 **[linters](https://wormhole.com)**: A reference implementation for the Wormhole blockchain interoperability protocol.
 - 🐹 **[abigen](https://wormhole.com)**: A reference implementation for the Wormhole blockchain interoperability protocol.
 - 🐹 **[abigen-celo](https://wormhole.com)**: A reference implementation for the Wormhole blockchain interoperability protocol.
 - 🐹 **[eth](https://wormhole.com)**: A reference implementation for the Wormhole blockchain interoperability protocol.
@@ -2382,6 +2388,7 @@
 - 🐹 **[v4](https://sylabs.io/docs/)**: SingularityCE is the Community Edition of Singularity, an open source container platform designed to be simple, fast, and secure.
 - 🐹 **[zigmod](https://github.com/nektro/zigmod)**: A package manager for the Zig programming language.
 - 🐹 **[vim-nightfly-colors](https://github.com/bluz71/vim-nightfly-colors)**: A dark midnight theme for modern Neovim & classic Vim.
+- 🐹 **[agent](https://traefik-manager.xyzlab.dev/)**: A clean, self-hosted web UI for managing your Traefik reverse proxy.
 - 🐹 **[go](https://dropbox.tech/infrastructure/-broccoli--syncing-faster-by-syncing-less)**: Brotli compressor and decompressor written in rust that optionally avoids the stdlib.
 - 🐹 **[ebitenui](https://ebitenui.github.io)**: User interface engine and widget library for Ebitengine.
 - 🐹 **[iris](https://github.com/qor/admin)**: Qor Admin - Instantly create a beautiful, cross platform, configurable Admin Interface and API for managing your data in minutes.
