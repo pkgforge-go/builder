@@ -1587,6 +1587,7 @@
 - 🐹 **[scripts](https://registry.terraform.io/providers/hashicorp/google/latest/docs)**: Terraform Provider for Google Cloud Platform.
 - 🐹 **[langwatch](https://langwatch.ai)**: The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization.
 - 🐹 **[kite](https://kite-demo.zzde.me)**: A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace.
+- 🐹 **[mainflux-lite](https://www.absmach.eu/products/magistrala)**: IoT Platform Framework.
 - 🐹 **[container2wasm](https://ktock.github.io/container2wasm-demo/)**: Container to WASM converter.
 - 🐹 **[proxy](https://tox.chat)**: The future of online communications.
 - 🐹 **[magistrala](https://www.absmach.eu/products/magistrala)**: IoT Platform Framework.
