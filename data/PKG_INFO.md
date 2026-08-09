@@ -208,6 +208,8 @@
 - 🐹 **[memgpt](https://docs.letta.com/)**: Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
 - 🐹 **[go](https://deusdata.github.io/codebase-memory-mcp/)**: High-performance code intelligence MCP server.
 - 🐹 **[generate](https://www.jaegertracing.io/)**: CNCF Jaeger, a Distributed Tracing Platform.
+- 🐹 **[client](https://go-micro.dev)**: A Go agent harness and service framework.
+- 🐹 **[cmd](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[gomu](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[client](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[client](https://go-micro.dev)**: A Go agent harness and service framework.
@@ -487,6 +489,7 @@
 - 🐹 **[interceptors](https://github.com/ibm/sarama)**: Sarama is a Go library for Apache Kafka.
 - 🐹 **[lint](https://github.com/rs/zerolog)**: Zero Allocation JSON Logger.
 - 🐹 **[sarama](https://github.com/ibm/sarama)**: Sarama is a Go library for Apache Kafka.
+- 🐹 **[gpui-component](https://longbridge.github.io/gpui-component/)**: Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - 🐹 **[grpcurl](https://www.fullstory.com/resources/content/fullstory-engineering-blog/)**: Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers.
 - 🐹 **[go-comment-pbgen](https://redpanda.com)**: Redpanda is a streaming data platform for developers.
 - 🐹 **[packaging](https://redpanda.com)**: Redpanda is a streaming data platform for developers.
