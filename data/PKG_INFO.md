@@ -635,6 +635,7 @@
 - 🐹 **[domain-list-community](https://www.v2fly.org)**: Community managed domain list.
 - 🐹 **[e2e](https://www.runatlantis.io)**: Terraform Pull Request Automation.
 - 🐹 **[go-sqlite3](http://mattn.github.io/go-sqlite3)**: Sqlite3 driver for go using database/sql.
+- 🐹 **[hmac-auth-apisix](https://higress.ai)**: AI Gateway | AI Native API Gateway.
 - 🐹 **[mirai-source-code](https://github.com/jgamblin/mirai-source-code)**: Leaked Mirai Source Code for Research/IoC Development Purposes.
 - 🐹 **[wait-task-beta](https://tekton.dev)**: A cloud-native Pipeline resource.
 - 🐹 **[columns](https://immudb.io)**: Immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history.
@@ -1300,6 +1301,7 @@
 - 🐹 **[tools](https://www.neosync.dev)**: Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.
 - 🐹 **[discordo](https://github.com/ayntgl/discordo)**: A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 - 🐹 **[httptap](https://www.monasticacademy.org)**: View HTTP/HTTPS requests made by any Linux program.
+- 🐹 **[zen](https://irbis.sh/zen)**: Ad-blocker and privacy guard for Windows, macOS and Linux.
 - 🐹 **[v4](https://osrg.github.io/gobgp/)**: BGP implemented in the Go Programming Language.
 - 🐹 **[awskms](https://boundaryproject.io)**: Boundary enables identity-based access management for dynamic infrastructure.
 - 🐹 **[azure](https://boundaryproject.io)**: Boundary enables identity-based access management for dynamic infrastructure.
@@ -1331,6 +1333,7 @@
 - 🐹 **[_examples](https://github.com/alecthomas/participle)**: A parser library for Go.
 - 🐹 **[_examples](https://github.com/alecthomas/parser)**: A parser library for Go.
 - 🐹 **[tools](https://github.com/uber-go/nilaway)**: Static analysis tool to detect potential nil panics in Go code.
+- 🐹 **[syncthing-macosx](https://syncthing.net)**: Official frugal and native macOS Syncthing application bundle.
 - 🐹 **[go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars)**: Star: Web frameworks for Go, most starred on GitHub.
 - 🐹 **[statik](https://github.com/rakyll/statik)**: Embed files into a Go executable.
 - 🐹 **[devel](https://github.com/nvidia/k8s-device-plugin)**: NVIDIA device plugin for Kubernetes.
@@ -1553,6 +1556,7 @@
 - 🐹 **[v2](https://do.samber.dev)**: A dependency injection toolkit based on Go 1.
 - 🐹 **[router7](https://router7.org)**: Router7 is a small home internet router completely written in Go.
 - 🐹 **[sops-nix](https://github.com/mic92/sops-nix)**: Atomic secret provisioning for NixOS based on sops.
+- 🐹 **[wazero](https://ktock.github.io/container2wasm-demo/)**: Container to WASM converter.
 - 🐹 **[docs-chef-io](https://www.habitat.sh)**: Modern applications with built-in automation.
 - 🐹 **[src](https://bbernhard.github.io/signal-cli-rest-api/)**: Dockerized Signal Messenger REST API.
 - 🐹 **[micropython-lib](https://github.com/micropython/micropython-lib)**: Core Python libraries ported to MicroPython.
@@ -1956,6 +1960,7 @@
 - 🐹 **[grpc-health-probe](https://github.com/grpc-ecosystem/grpc-health-probe)**: A command-line tool to perform health-checks for gRPC applications in Kubernetes and elsewhere.
 - 🐹 **[hakrevdns](https://github.com/hakluke/hakrevdns)**: Small, fast tool for performing reverse DNS lookups en masse.
 - 🐹 **[antidupl](https://ermig1979.github.io/AntiDupl)**: A program to search similar and defect pictures on the disk.
+- 🐹 **[snappy](https://github.com/golang/snappy)**: The Snappy compression format in the Go programming language.
 - 🐹 **[server](https://github.com/doxx/darkflare)**: DarkFlare Firewall Piercing (TCP over CDN.
 - 🐹 **[cherri](https://cherrilang.org)**: Siri Shortcuts Programming Language.
 - 🐹 **[retest](https://github.com/ceph/ceph-csi)**: CSI driver for Ceph.
@@ -1990,6 +1995,7 @@
 - 🐹 **[syncer-amplitude](https://bemidb.com)**: Open-source Snowflake and Fivetran alternative bundled together.
 - 🐹 **[syncer-postgres](https://bemidb.com)**: Open-source Snowflake and Fivetran alternative bundled together.
 - 🐹 **[github-release](https://github.com/aktau/github-release)**: Commandline app to create and edit releases on Github (and upload artifacts.
+- 🐹 **[basic_gazelle](https://github.com/bazelbuild/rules_go)**: Go rules for Bazel.
 - 🐹 **[basic_gazelle](https://github.com/bazel-contrib/rules_go)**: Go rules for Bazel.
 - 🐹 **[fetch_repo](https://github.com/bazelbuild/rules_go)**: Go rules for Bazel.
 - 🐹 **[releaser](https://github.com/bazelbuild/rules_go)**: Go rules for Bazel.
