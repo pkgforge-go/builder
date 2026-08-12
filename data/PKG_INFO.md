@@ -123,6 +123,7 @@
 - 🐹 **[desktop](http://reasonix.io/)**: DeepSeek-native AI coding agent for your terminal.
 - 🐹 **[test_repo](https://oraios.github.io/serena)**: A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent.
 - 🐹 **[wiki](https://js.wiki)**: Wiki.
+- 🐹 **[v3](https://github.com/charmbracelet/glow)**: Render markdown on the CLI, with pizzazz.
 - 🐹 **[segment-inspect](https://grafana.com/loki)**: Like Prometheus, but for logs.
 - 🐹 **[go](https://openapi-generator.tech)**: OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3.
 - 🐹 **[v2](https://github.com/charmbracelet/glow)**: Render markdown on the CLI, with pizzazz.
@@ -209,6 +210,9 @@
 - 🐹 **[memgpt](https://docs.letta.com/)**: Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
 - 🐹 **[go](https://deusdata.github.io/codebase-memory-mcp/)**: High-performance code intelligence MCP server.
 - 🐹 **[generate](https://www.jaegertracing.io/)**: CNCF Jaeger, a Distributed Tracing Platform.
+- 🐹 **[client](https://go-micro.dev)**: A Go agent harness and service framework.
+- 🐹 **[go-micro](https://go-micro.dev)**: A Go agent harness and service framework.
+- 🐹 **[nitro](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[client](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[cmd](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[gomu](https://go-micro.dev)**: A Go agent harness and service framework.
@@ -888,6 +892,7 @@
 - 🐹 **[tools](https://openbao.org/)**: OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - 🐹 **[cxx](https://cxx.rs)**: Safe interop between Rust and C.
 - 🐹 **[v2](https://github.com/grpc-ecosystem/go-grpc-middleware)**: Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
+- 🐹 **[fleet-mcp](https://fleetdm.com)**: Open device management.
 - 🐹 **[perkeep](https://perkeep.org/)**: Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 - 🐹 **[camlistore](https://perkeep.org/)**: Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 - 🐹 **[coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu)**: 开发内功修炼.
@@ -1680,6 +1685,7 @@
 - 🐹 **[kaf](https://github.com/birdayz/kaf)**: Modern CLI for Apache Kafka, written in Go.
 - 🐹 **[electron-egg](https://www.kaka996.com)**: A simple, cross platform, enterprise desktop software development framework.
 - 🐹 **[unifi-poller](https://unpoller.com)**: Application: Collect ALL UniFi Controller, Site, Device & Client Data - Export to InfluxDB or Prometheus.
+- 🐹 **[moonbit-docs](https://docs.moonbitlang.com)**: The docs of MoonBit programming language.
 - 🐹 **[custom_expand_cli](https://stratus-red-team.cloud)**: Cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud.
 - 🐹 **[external](https://avax.network)**: Go implementation of an Avalanche node.
 - 🐹 **[genjwk](https://github.com/lestrrat-go/jwx)**: Complete implementation of JWx (Javascript Object Signing and Encryption/JOSE) technologies for Go.
@@ -2482,6 +2488,7 @@
 - 🐹 **[issue317](https://go-ruleguard.github.io/)**: Define and run pattern-based custom linting rules.
 - 🐹 **[swoole-src](https://openswoole.com)**: Programmatic server for PHP with async IO, coroutines and fibers.
 - 🐹 **[integration](https://github.com/googleapis/gcloud-mcp)**: Gcloud MCP server.
+- 🐹 **[wasm](https://github.com/yeqown/go-qrcode)**: To help gophers generate QR Codes with customized styles, such as color, block size, block shape, and icon.
 - 🐹 **[mantra](https://amolo.com.br)**: A tool used to hunt down API key leaks in JS files and pages.
 - 🐹 **[eunomia-bpf](https://eunomia.dev/eunomia-bpf/introduction/)**: A Tool to make Build and Run eBPF programs easier.
 - 🐹 **[rainbow-delimiters.nvim](https://gitlab.com/HiPhish/rainbow-delimiters.nvim)**: Rainbow delimiters for Neovim with Tree-sitter.
