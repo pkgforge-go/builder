@@ -7091,6 +7091,7 @@
 - 🐹 **[generator](https://cloud.google.com/sdk)**: CLI for managing SDK client library configuration, generation and releases.
 - 🐹 **[go-hidproxy](https://github.com/rosmo/go-hidproxy)**: Proxies Bluetooth keyboards and mouse as HID devices (eg.
 - 🐹 **[go-lsass](https://github.com/jfjallid/go-lsass)**: Tool to aid in dumping LSASS process remotely.
+- 🐹 **[go-shamir](https://github.com/mvrahden/go-shamir)**: Secret sharing made easy.
 - 🐹 **[go-sshlib](https://github.com/blacknon/go-sshlib)**: Easy ssh library for golang.
 - 🐹 **[go_proxy_pool](https://github.com/find-xposed-magisk/go_proxy_pool)**: Plug-and-play Proxy IP Pool with No Environmental Dependencies 无环境依赖开箱即用的代理IP池.
 - 🐹 **[golab](https://github.com/javahongxi/golab)**: Go 学习.
@@ -7223,6 +7224,7 @@
 - 🐹 **[upstash-redis-dump](https://github.com/upstash/upstash-redis-dump)**: Backup & Restore your Redis server.
 - 🐹 **[v3](https://www.kaggle.com/datasets/ngshiheng/michelin-guide-restaurants-2021)**: A list of awesome restaurants from The Michelin Guide.
 - 🐹 **[v3](https://github.com/pulumi/pulumi-dotnet)**: NET support for Pulumi.
+- 🐹 **[v6](https://github.com/ionos-cloud/ionosctl)**: The IONOS Cloud CLI (ionosctl) gives the ability to manage IONOS Cloud infrastructure directly from Command Line.
 - 🐹 **[vizstruct](https://viztruct.vercel.app)**: Struct padding visualizer.
 - 🐹 **[viztruct](https://viztruct.vercel.app)**: Struct padding visualizer.
 - 🐹 **[whispy](https://github.com/daaku/whispy)**: Speech-to-text typing for Linux/Wayland using Whisper.
