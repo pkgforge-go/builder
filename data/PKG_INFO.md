@@ -3257,6 +3257,7 @@
 - 🐹 **[wiby](https://github.com/wibyweb/wiby)**: Wiby Search Engine.
 - 🐹 **[bex](https://bex.co)**: The open-source Render alternative — AI-native.
 - 🐹 **[cloudflare-exporter](https://github.com/lablabs/cloudflare-exporter)**: Prometheus CloudFlare Exporter.
+- 🐹 **[mnemon](https://github.com/mnemon-dev/mnemon#readme)**: LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary.
 - 🐹 **[rules_oci](https://registry.build/github/bazel-contrib/rules_oci)**: Bazel rules for building OCI containers.
 - 🐹 **[anthropic-functions](https://docs.hypermode.com/modus)**: Modus: a framework for building agentic flows powered by WebAssembly.
 - 🐹 **[auth](https://docs.hypermode.com/modus)**: Modus: a framework for building agentic flows powered by WebAssembly.
