@@ -2470,6 +2470,7 @@
 - 🐹 **[goref](https://github.com/cloudwego/goref)**: Go heap object reference analysis tool.
 - 🐹 **[helloworld](https://alibaba.github.io/loongsuite-go/)**: OpenTelemetry Compile-Time Instrumentation for Golang.
 - 🐹 **[gofrontend](https://github.com/golang/gofrontend)**: Go compiler frontend (gccgo.
+- 🐹 **[sling-cli](https://docs.slingdata.io)**: Sling is a CLI tool that extracts data from a source storage/database and loads it in a target storage/database.
 - 🐹 **[setupvim](https://github.com/govim/govim)**: Govim is a Go development plugin for Vim8, written in Go.
 - 🐹 **[shellfirm](https://shellfirm.vercel.app/)**: Safety guardrails for ai coding agents and human terminal commands.
 - 🐹 **[kanister](https://kanister.io)**: An extensible framework for application-level data management on Kubernetes, Kanister is a Cloud Native Computing Foundation sandbox project and was originally created by the Veeam Kasten team.
@@ -2507,6 +2508,7 @@
 - 🐹 **[cmd](https://ecoji.io)**: Encodes (and decodes) data as emojis.
 - 🐹 **[exp](https://golang.org/x/exp)**: Mirror] Experimental and deprecated packages.
 - 🐹 **[bepusdt](https://github.com/v03413/bepusdt)**: 一款更好用的个人 USDT/USDC 收款网关，兼容所有 Epusdt 插件，可无缝切换，支持交易所动态汇率、支持Docker部署；支持独角发卡 易支付 异次元 萌次元发卡.
+- 🐹 **[ext-openswoole](https://openswoole.com)**: Programmatic server for PHP with async IO, coroutines and fibers.
 - 🐹 **[lorri](https://github.com/nix-community/lorri)**: Your project’s nix-env [maintainer=@Profpatsch,@nyarly.
 - 🐹 **[issue193](https://go-ruleguard.github.io/)**: Define and run pattern-based custom linting rules.
 - 🐹 **[issue317](https://go-ruleguard.github.io/)**: Define and run pattern-based custom linting rules.
