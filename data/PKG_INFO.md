@@ -13,6 +13,8 @@
 - 🐹 **[modowners](https://grafana.com)**: The open and composable observability and data visualization platform.
 - 🐹 **[test-app-with-backend](https://grafana.com)**: The open and composable observability and data visualization platform.
 - 🐹 **[wire](https://grafana.com)**: The open and composable observability and data visualization platform.
+- 🐹 **[snapshot-manager](https://daytona.io)**: Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code.
+- 🐹 **[ssh-gateway](https://daytona.io)**: Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code.
 - 🐹 **[go](http://protobuf.dev)**: Protocol Buffers - Google's data interchange format.
 - 🐹 **[dependency_updater](https://base.org)**: Everything required to run your own Base node.
 - 🐹 **[remote_storage](https://prometheus.io/)**: The Prometheus monitoring system and time series database.
@@ -109,6 +111,7 @@
 - 🐹 **[promqltestcorpus](https://signoz.io)**: SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents.
 - 🐹 **[grpc_server](https://grafana.com/oss/k6/)**: A modern load testing tool, using Go and JavaScript.
 - 🐹 **[jumpserver](https://jumpserver.com)**: JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.
+- 🐹 **[extismv1-test](https://helm.sh)**: The Kubernetes Package Manager.
 - 🐹 **[proto-gen-rpc-glue](https://www.consul.io)**: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - 🐹 **[protoc-gen-consul-rate-limit](https://www.consul.io)**: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - 🐹 **[test-sds-server](https://www.consul.io)**: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
@@ -2042,6 +2045,7 @@
 - 🐹 **[multi_step](https://cloud.google.com/cloud-build/)**: Builder images and examples commonly used for Google Cloud Build.
 - 🐹 **[sort_contibutors](https://owasp.org/www-project-wrongsecrets/)**: Vulnerable app with examples showing how to not use secrets.
 - 🐹 **[module](https://cloud.google.com/cloud-build/)**: Builder images and examples commonly used for Google Cloud Build.
+- 🐹 **[azure-functions-core-tools](https://github.com/azure/azure-functions-core-tools)**: Command line tools for Azure Functions.
 - 🐹 **[dirac](https://github.com/dirac-run/dirac)**: Coding Agent singularly focused efficiency and context curation.
 - 🐹 **[firmware](https://github.com/hybridgroup/go-haystack)**: Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo.
 - 🐹 **[gcs-fetcher](https://cloud.google.com/cloud-build/)**: Builder images and examples commonly used for Google Cloud Build.
