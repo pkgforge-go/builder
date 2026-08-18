@@ -848,6 +848,7 @@
 - 🐹 **[kompat](https://karpenter.sh)**: Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - 🐹 **[kompat](https://karpenter.sh)**: Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - 🐹 **[soak](https://karpenter.sh)**: Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+- 🐹 **[soak](https://karpenter.sh)**: Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - 🐹 **[memcached-operator](https://sdk.operatorframework.io)**: SDK for building Kubernetes applications.
 - 🐹 **[sphinx](https://www.sphinx-doc.org/)**: The Sphinx documentation generator.
 - 🐹 **[evmread-negative](https://chain.link)**: Node of the decentralized oracle network, bridging on and off-chain computation.
@@ -1481,6 +1482,7 @@
 - 🐹 **[quic](https://github.com/iqiyi/dpvs)**: DPVS is a high performance Layer-4 load balancer based on DPDK.
 - 🐹 **[tinymist](https://myriad-dreamin.github.io/tinymist)**: Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst.
 - 🐹 **[beehave](https://bitbra.in/beehave)**: Behavior tree AI for Godot Engine.
+- 🐹 **[mockapi](https://graphjin.com)**: One governed graph for AI agents — GraphQL + MCP over your databases, files, APIs, and code.
 - 🐹 **[graphjin](https://graphjin.com)**: One governed graph for AI agents — GraphQL + MCP over your databases, files, APIs, and code.
 - 🐹 **[openapi2jsonschema-go](https://github.com/yannh/kubeconform)**: A FAST Kubernetes manifests validator, with support for Custom Resources.
 - 🐹 **[v3](https://graphjin.com)**: One governed graph for AI agents — GraphQL + MCP over your databases, files, APIs, and code.
@@ -1798,6 +1800,7 @@
 - 🐹 **[go](https://github.com/grafana/docker-otel-lgtm)**: An OpenTelemetry backend in a Docker container image.
 - 🐹 **[msgvault](https://msgvault.io)**: Archive a lifetime of email and chat.
 - 🐹 **[custombuild](https://www.authgear.com)**: Open source Auth0/Clerk/Firebase alternative.
+- 🐹 **[authorizer](https://authorizer.dev)**: Your data, your control.
 - 🐹 **[v3](https://grafana.com/oss/beyla-ebpf/)**: EBPF-based autoinstrumentation of web applications and network metrics.
 - 🐹 **[zpager](https://noborus.github.io/ov)**: Feature-rich terminal-based text viewer.
 - 🐹 **[ov](https://noborus.github.io/ov)**: Feature-rich terminal-based text viewer.
