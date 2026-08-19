@@ -502,6 +502,8 @@
 - 🐹 **[lint](https://github.com/rs/zerolog)**: Zero Allocation JSON Logger.
 - 🐹 **[interceptors](https://github.com/ibm/sarama)**: Sarama is a Go library for Apache Kafka.
 - 🐹 **[sarama](https://github.com/ibm/sarama)**: Sarama is a Go library for Apache Kafka.
+- 🐹 **[byoc-mock](https://redpanda.com)**: Redpanda is a streaming data platform for developers.
+- 🐹 **[go-kafka-serde](https://redpanda.com)**: Redpanda is a streaming data platform for developers.
 - 🐹 **[gpui-component](https://longbridge.github.io/gpui-component/)**: Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - 🐹 **[go-comment-pbgen](https://redpanda.com)**: Redpanda is a streaming data platform for developers.
 - 🐹 **[packaging](https://redpanda.com)**: Redpanda is a streaming data platform for developers.
@@ -1791,6 +1793,7 @@
 - 🐹 **[platform-samples](https://github.com/github/platform-samples)**: A public place for all platform sample projects.
 - 🐹 **[containers-from-scratch](http://lizrice.com)**: Writing a container in a few lines of Go code, as seen at DockerCon 2017 and on O'Reilly Safari.
 - 🐹 **[headplane](https://headplane.net)**: A feature-complete Web UI for Headscale.
+- 🐹 **[amqp091-go](https://github.com/rabbitmq/amqp091-go)**: An AMQP 0-9-1 Go client maintained by the RabbitMQ team.
 - 🐹 **[azurite](https://github.com/azure/azurite)**: A lightweight server clone of Azure Storage that simulates most of the commands supported by it with minimal dependencies.
 - 🐹 **[nginx-prometheus-exporter](https://github.com/nginx/nginx-prometheus-exporter)**: NGINX Prometheus Exporter for NGINX and NGINX Plus.
 - 🐹 **[nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter)**: NGINX Prometheus Exporter for NGINX and NGINX Plus.
@@ -2483,6 +2486,7 @@
 - 🐹 **[ebitenui](https://ebitenui.github.io)**: User interface engine and widget library for Ebitengine.
 - 🐹 **[htmgo](https://htmgo.dev)**: Htmgo - build simple and scalable systems with go + htmx.
 - 🐹 **[chaos-client](https://github.com/projectdiscovery/chaos-client)**: Go client to communicate with Chaos DB API.
+- 🐹 **[platform](https://ossrs.io/oryx)**: Oryx(SRS Stack) is an all-in-one, out-of-the-box, and open-source video solution for creating online video services, including live streaming and WebRTC, on the cloud or through self-hosting.
 - 🐹 **[telize](https://www.telize.com)**: High performance JSON IP and GeoIP REST API (IP Geolocation.
 - 🐹 **[v4](https://github.com/go-playground/form)**: Steam_locomotive: Decodes url.
 - 🐹 **[custom-instrumentation](https://httpbingo.org)**: A reasonably complete and well-tested golang port of httpbin, with zero dependencies outside the go stdlib.
