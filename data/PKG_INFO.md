@@ -155,6 +155,7 @@
 - 🐹 **[_codegen](https://pkg.go.dev/github.com/stretchr/testify)**: A toolkit with common assertions and mocks that plays nicely with the standard library.
 - 🐹 **[reasonix](http://reasonix.io/)**: DeepSeek-native AI coding agent for your terminal.
 - 🐹 **[remote](https://cmux.com)**: Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents.
+- 🐹 **[airgap](http://rancher.com)**: Complete container management platform.
 - 🐹 **[controller-gen](http://rancher.com)**: Complete container management platform.
 - 🐹 **[mockery](http://rancher.com)**: Complete container management platform.
 - 🐹 **[mockgen](http://rancher.com)**: Complete container management platform.
@@ -213,6 +214,7 @@
 - 🐹 **[letta](https://docs.letta.com/)**: Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
 - 🐹 **[go](https://deusdata.github.io/codebase-memory-mcp/)**: High-performance code intelligence MCP server.
 - 🐹 **[generate](https://www.jaegertracing.io/)**: CNCF Jaeger, a Distributed Tracing Platform.
+- 🐹 **[client](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[go-micro](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[client](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[go-micro](https://go-micro.dev)**: A Go agent harness and service framework.
@@ -525,6 +527,7 @@
 - 🐹 **[mdtogo](https://github.com/kubernetes-sigs/kustomize)**: Customization of kubernetes YAML configurations.
 - 🐹 **[patchjson6902transformer](https://github.com/kubernetes-sigs/kustomize)**: Customization of kubernetes YAML configurations.
 - 🐹 **[replacementtransformer](https://github.com/kubernetes-sigs/kustomize)**: Customization of kubernetes YAML configurations.
+- 🐹 **[tools](https://www.openpolicyagent.org)**: Open Policy Agent (OPA) is an open source, general-purpose policy engine.
 - 🐹 **[webhook](https://github.com/adnanh/webhook)**: Webhook is a lightweight incoming webhook server to run shell commands.
 - 🐹 **[browser](https://lightpanda.io)**: Lightpanda: the headless browser designed for AI and automation.
 - 🐹 **[zfs](https://openzfs.github.io/openzfs-docs)**: OpenZFS on Linux and FreeBSD.
@@ -900,6 +903,8 @@
 - 🐹 **[prompts-with-partial-func-example](https://tmc.github.io/langchaingo/)**: LangChain for Go, the easiest way to write LLM-based programs in Go.
 - 🐹 **[docker](https://developer.oracle.com/use-cases/#containers)**: Official source of container configurations, images, and examples for Oracle products and projects.
 - 🐹 **[docker-images](https://developer.oracle.com/use-cases/#containers)**: Official source of container configurations, images, and examples for Oracle products and projects.
+- 🐹 **[autoscaler-wasm](https://agones.dev)**: Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes.
+- 🐹 **[autoscaler-wasm](https://agones.dev)**: Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes.
 - 🐹 **[xonotic](https://agones.dev)**: Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes.
 - 🐹 **[magefiles](https://authzed.com/docs)**: Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data.
 - 🐹 **[scripts](https://ai.aicode.cc)**: An APP that integrates mainstream large language models and image generation models, built with Flutter, with fully open-source code.
@@ -910,6 +915,7 @@
 - 🐹 **[ipfs-camp-2019](https://github.com/libp2p/go-libp2p)**: Libp2p implementation in Go.
 - 🐹 **[test_analysis](https://github.com/libp2p/go-libp2p)**: Libp2p implementation in Go.
 - 🐹 **[cxx](https://cxx.rs)**: Safe interop between Rust and C.
+- 🐹 **[socks5proxyserver](https://github.com/elazarl/goproxy)**: An HTTP proxy library for Go.
 - 🐹 **[v2](https://github.com/grpc-ecosystem/go-grpc-middleware)**: Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
 - 🐹 **[fleet-mcp](https://fleetdm.com)**: Open device management.
 - 🐹 **[screencap](https://fleetdm.com)**: Open device management.
@@ -1393,6 +1399,8 @@
 - 🐹 **[generator](http://fabric8.io)**: Java client for Kubernetes & OpenShift.
 - 🐹 **[netmetrics](https://odigos.io)**: Distributed tracing without code changes.
 - 🐹 **[geany](https://www.geany.org)**: A fast and lightweight IDE.
+- 🐹 **[userplots](https://github.com/arl/statsviz)**: Visualise Go runtime metrics in real time.
+- 🐹 **[zerovalue](https://github.com/arl/statsviz)**: Visualise Go runtime metrics in real time.
 - 🐹 **[tproxy](https://go-zero.dev)**: A cli tool to proxy and analyze TCP connections.
 - 🐹 **[default](https://github.com/arl/statsviz)**: Visualise Go runtime metrics in real time.
 - 🐹 **[fiber](https://github.com/arl/statsviz)**: Visualise Go runtime metrics in real time.
@@ -1470,6 +1478,7 @@
 - 🐹 **[go](https://github.com/google/differential-privacy)**: Google's differential privacy libraries.
 - 🐹 **[go-build-template](https://github.com/thockin/go-build-template)**: A Makefile/Dockerfile example for Go projects.
 - 🐹 **[lapis](http://leafo.net/lapis/)**: A web framework for Lua and OpenResty written in MoonScript.
+- 🐹 **[keeper](https://github.com/bnb-chain/bsc)**: A BNB Smart Chain client based on the go-ethereum fork.
 - 🐹 **[go-stock](https://go-stock.sparkmemory.top)**: AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型.
 - 🐹 **[examples](https://github.com/knadh/koanf/examples)**: Simple, extremely lightweight, extensible, configuration management library for Go.
 - 🐹 **[localtunnel](https://github.com/progrium/localtunnel)**: Expose localhost servers to the Internet.
@@ -2251,6 +2260,7 @@
 - 🐹 **[webanalyze](https://github.com/rverton/webanalyze)**: Port of Wappalyzer (uncovers technologies used on websites) to automate mass scanning.
 - 🐹 **[build](https://zrepl.github.io)**: One-stop ZFS backup & replication solution.
 - 🐹 **[gomlx_checkpoints](https://github.com/gomlx/gomlx)**: GoMLX: An Accelerated Machine Learning Framework For Go.
+- 🐹 **[kubectl-rabbitmq](https://www.rabbitmq.com/kubernetes/operator/operator-overview.html)**: RabbitMQ Cluster Kubernetes Operator.
 - 🐹 **[sample](https://quobix.com/vacuum)**: Vacuum is the worlds fastest and most versatile OpenAPI, AsyncAPI & JSON Schema linter, docs generator and toolkit.
 - 🐹 **[mmdb_china_ip_list](https://github.com/alecthw/mmdb_china_ip_list)**: Geoip MaxMind Database for china ip list! This is also an example of generating  MaxMind Database.
 - 🐹 **[cli-runtime-printers](https://labs.iximiuz.com/playgrounds/k8s-client-go/)**: Collection of mini-programs demonstrating Kubernetes client-go usage.
@@ -2397,6 +2407,7 @@
 - 🐹 **[langchaingo](https://github.com/docker/compose-for-agents)**: Build and run AI agents using Docker Compose.
 - 🐹 **[lz4c](https://github.com/pierrec/lz4)**: LZ4 compression and decompression in pure Go.
 - 🐹 **[wuzapi](https://github.com/asternic/wuzapi)**: Simple RESTful API for WhatsApp in Golang (using the Whatsmeow multi device library.
+- 🐹 **[cfspeedtest](https://ozarkconnect.net/network-optimizer)**: Self-hosted optimization, monitoring (NMS), and security audit tool for UniFi Networks.
 - 🐹 **[test-reader](https://googlecloudplatform.github.io/magic-modules/)**: Add Google Cloud Platform support to Terraform.
 - 🐹 **[athenz](https://www.athenz.io)**: Open source platform for X.
 - 🐹 **[enroot](https://github.com/nvidia/enroot)**: A simple yet powerful tool to turn traditional container/OS images into unprivileged sandboxes.
@@ -2439,6 +2450,7 @@
 - 🐹 **[complex](https://github.com/google/go-licenses)**: A lightweight tool to report on the licenses used by a Go package and its dependencies.
 - 🐹 **[hello01](https://github.com/google/go-licenses)**: A lightweight tool to report on the licenses used by a Go package and its dependencies.
 - 🐹 **[go](https://dropbox.tech/infrastructure/-broccoli--syncing-faster-by-syncing-less)**: Brotli compressor and decompressor written in rust that optionally avoids the stdlib.
+- 🐹 **[fixtureprovider](https://openrun.dev/)**: Deployment platform for teams to deploy internal tools.
 - 🐹 **[v4](https://sylabs.io/docs/)**: SingularityCE is the Community Edition of Singularity, an open source container platform designed to be simple, fast, and secure.
 - 🐹 **[zigmod](https://github.com/nektro/zigmod)**: A package manager for the Zig programming language.
 - 🐹 **[vim-nightfly-colors](https://github.com/bluz71/vim-nightfly-colors)**: A dark midnight theme for modern Neovim & classic Vim.
@@ -2590,10 +2602,15 @@
 - 🐹 **[sqlx](https://github.com/newrelic/go-agent)**: New Relic Go Agent.
 - 🐹 **[immortal](https://immortal.run)**: A *nix cross-platform (OS agnostic) supervisor.
 - 🐹 **[bcs-cluster-manager](http://bk.tencent.com)**: 蓝鲸智云容器管理平台(BlueKing Container Service.
+- 🐹 **[engine](https://wundergraph.com)**: GraphQL Router / API Gateway framework written in Golang, focussing on correctness, extensibility, and high-performance.
 - 🐹 **[go](https://www.emiliaprotocol.ai)**: Consequence firewall for machine actions.
 - 🐹 **[bcs-image-loader](http://bk.tencent.com)**: 蓝鲸智云容器管理平台(BlueKing Container Service.
 - 🐹 **[graphql-go-tools](https://wundergraph.com)**: GraphQL Router / API Gateway framework written in Golang, focussing on correctness, extensibility, and high-performance.
 - 🐹 **[substrate](https://github.com/agent-substrate/substrate)**: Agent Substrate: the core system.
+- 🐹 **[golang-imports](https://webrpc.io)**: Webrpc is a schema-driven approach to writing apis with code generation of full client libraries in many languages.
+- 🐹 **[hello-webrpc](https://webrpc.io)**: Webrpc is a schema-driven approach to writing apis with code generation of full client libraries in many languages.
+- 🐹 **[server-go](https://webrpc.io)**: Webrpc is a schema-driven approach to writing apis with code generation of full client libraries in many languages.
+- 🐹 **[webrpc-streaming](https://webrpc.io)**: Webrpc is a schema-driven approach to writing apis with code generation of full client libraries in many languages.
 - 🐹 **[golang-submitmessage](https://github.com/farcasterxyz/hub-monorepo)**: Implementation of the Farcaster Hub specification and supporting libraries for building applications on Farcaster.
 - 🐹 **[zek](https://github.com/miku/zek)**: Generate a Go struct from XML.
 - 🐹 **[mcp-imagen-go](https://github.com/googlecloudplatform/vertex-ai-creative-studio)**: GenMedia Creative Studio is a Vertex AI generative media user experience highlighting the use of Imagen, Veo, Gemini 🍌, Gemini TTS, Chirp 3, Lyria and other generative media APIs on Google Cloud.
