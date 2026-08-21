@@ -214,6 +214,7 @@
 - 🐹 **[letta](https://docs.letta.com/)**: Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
 - 🐹 **[go](https://deusdata.github.io/codebase-memory-mcp/)**: High-performance code intelligence MCP server.
 - 🐹 **[generate](https://www.jaegertracing.io/)**: CNCF Jaeger, a Distributed Tracing Platform.
+- 🐹 **[cmd](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[client](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[go-micro](https://go-micro.dev)**: A Go agent harness and service framework.
 - 🐹 **[distroless](https://github.com/googlecloudplatform/distroless)**: Language focused docker images, minus the operating system.
@@ -1379,6 +1380,7 @@
 - 🐹 **[ghreleases2appcast](https://syncthing.net)**: Official frugal and native macOS Syncthing application bundle.
 - 🐹 **[pants](https://www.pantsbuild.org)**: The Pants Build System.
 - 🐹 **[test-app](https://github.com/cilium/pwru)**: Packet, where are you? -- eBPF-based Linux kernel networking debugger.
+- 🐹 **[gutenberg](https://www.getzola.org)**: A fast static site generator in a single binary with everything built-in.
 - 🐹 **[version-fox](https://vfox.dev)**: A cross-platform and extendable version manager with support for Java, Node.
 - 🐹 **[vfox](https://vfox.dev)**: A cross-platform and extendable version manager with support for Java, Node.
 - 🐹 **[front-end](https://aws.github.io/copilot-cli/)**: The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
@@ -1717,6 +1719,7 @@
 - 🐹 **[piranha](https://github.com/uber/piranha)**: A tool for refactoring code related to feature flag APIs.
 - 🐹 **[awesome-cloud-native](https://awesome.jimmysong.io)**: A curated list for awesome cloud native tools, software and tutorials.
 - 🐹 **[jwx](https://github.com/lestrrat-go/jwx)**: Complete implementation of JWx (Javascript Object Signing and Encryption/JOSE) technologies for Go.
+- 🐹 **[go-app](https://shuffler.io)**: Shuffle: A general purpose security automation platform.
 - 🐹 **[protoc-gen-go-gin](https://go-eagle.org)**: A Go framework for the API or Microservice.
 - 🐹 **[kaf](https://github.com/birdayz/kaf)**: Modern CLI for Apache Kafka, written in Go.
 - 🐹 **[electron-egg](https://www.kaka996.com)**: A simple, cross platform, enterprise desktop software development framework.
