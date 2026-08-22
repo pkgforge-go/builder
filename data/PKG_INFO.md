@@ -2123,6 +2123,7 @@
 - 🐹 **[dashboard](https://github.com/faasflow/goflow)**: A Golang based high performance, scalable and distributed workflow framework.
 - 🐹 **[generator](https://formance.com)**: The programmable open source core ledger for fintech.
 - 🐹 **[protoc-gen-auth](https://pipecd.dev)**: The One CD for All {applications, platforms, operations.
+- 🐹 **[v3](https://formance.com)**: The programmable open source core ledger for fintech.
 - 🐹 **[actions-plan-preview](https://pipecd.dev)**: The One CD for All {applications, platforms, operations.
 - 🐹 **[cycletls](https://github.com/danny-dasilva/cycletls)**: Spoof TLS/JA3 fingerprints in GO and Javascript.
 - 🐹 **[mxbai-rerank](https://github.com/gomlx/gomlx)**: GoMLX: An Accelerated Machine Learning Framework For Go.
