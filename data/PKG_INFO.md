@@ -964,6 +964,7 @@
 - 🐹 **[grpc](https://permify.co/)**: An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
 - 🐹 **[grpcui](https://github.com/fullstorydev/grpcui)**: An interactive web UI for gRPC, along the lines of postman.
 - 🐹 **[fn](http://fnproject.io)**: The container native, cloud agnostic serverless platform.
+- 🐹 **[blackbox_exporter](https://prometheus.io)**: Blackbox prober exporter.
 - 🐹 **[fresh](https://getfresh.dev/)**: Terminal based IDE & text editor: easy, powerful and fast.
 - 🐹 **[qpext](https://kserve.github.io/website/)**: Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes.
 - 🐹 **[linked_roles](https://github.com/bwmarrin/discordgo)**: Golang) Go bindings for Discord.
@@ -2228,6 +2229,7 @@
 - 🐹 **[babel](https://googlecloudplatform.github.io/vertex-ai-creative-studio/)**: GenMedia Creative Studio is a generative media user experience highlighting the use of Gemini, Gemini Omni, Veo, Gemini Image 🍌, Gemini TTS, Chirp 3, Lyria and other generative media APIs on Google Cloud.
 - 🐹 **[go-grpc-gateway](https://github.com/mobilecoinfoundation/mobilecoin)**: Private payments for mobile devices.
 - 🐹 **[qscan](https://github.com/qi4l/qscan)**: Lightning-fast internal network scanner.
+- 🐹 **[v3](https://github.com/vividvilla/csvtotable)**: Simple command-line utility to convert CSV files to searchable and sortable HTML table.
 - 🐹 **[kubeview](http://kubeview.benco.io/)**: KubeView is a Kubernetes cluster visualization tool that provides a graphical representation of your cluster's resources and their relationships.
 - 🐹 **[pgstream](https://xata.io/documentation/opensource/pgstream/overview)**: PostgreSQL replication with DDL changes.
 - 🐹 **[mcp-client-go](https://github.com/modelcontextprotocol/quickstart-resources)**: A repository of servers and clients from the Model Context Protocol tutorials.
@@ -2265,6 +2267,7 @@
 - 🐹 **[zilliqa](https://www.zilliqa.com)**: Zilliqa is the world's first high-throughput public blockchain platform - designed to scale to thousands ​of transactions per second.
 - 🐹 **[dnslookup](https://github.com/ameshkov/dnslookup)**: Simple command line utility to make DNS lookups to the specified server.
 - 🐹 **[apptron](https://apptron.dev)**: Local-first development platform.
+- 🐹 **[dockerfiles](https://github.com/tianon/dockerfiles)**: A semi-random collection of odds and ends.
 - 🐹 **[golang](https://www.aliyun.com/product/agentbay)**: The Cloud Sandbox Built for AI Agents.
 - 🐹 **[fbf](https://github.com/googlecloudplatform/cloud-foundation-toolkit)**: The Cloud Foundation toolkit provides GCP best practices as code.
 - 🐹 **[webanalyze](https://github.com/rverton/webanalyze)**: Port of Wappalyzer (uncovers technologies used on websites) to automate mass scanning.
@@ -2647,3 +2650,4 @@
 - 🐹 **[v5](https://reindexer.io)**: Embeddable, in-memory, document-oriented database with a high-level Query builder interface.
 - 🐹 **[dns-proxy](https://helix.ml)**: Private Agent Fleet with Spec Coding.
 - 🐹 **[operator](https://helix.ml)**: Private Agent Fleet with Spec Coding.
+- 🐹 **[git](https://github.com/gitster/git)**: Git - the stupid content tracker - This is a publish-only "broken out" repository and all pull requests are ignored.
